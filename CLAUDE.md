@@ -32,11 +32,24 @@ A free, open-source, offline-capable web app (PWA) that turns CALCRIM (Californi
 
 ## Repo map
 
-_Filled in during Phase 0._
+- `corpus/templates/<n>.yaml` — authored templates (schema v1); `corpus/release.json` names the extracted release they're checked against
+- `data/extracted/<release>/` — committed extraction output: `<n>.json` per instruction, `index.json`, `sources.json` (PDF URLs + SHA-256), `report.json`, `markup-scan.json`
+- `packages/engine/` — rendering engine (TypeScript): `src/` engine, `schema/template.schema.json` (normative), `scripts/` maintainer tools, `test/` unit, round-trip, property and golden tests
+- `tests/golden/` — attorney-approved goldens; `candidates/` generated for review (never promote them yourself)
+- `tools/extract/` — Python extraction CLI (`calcrim-extract`); `sources.json` lists the official PDFs
+- `docs/design/` — technical design, Phase 0 findings, auto-draft report; `docs/decisions/` — ADRs
+- `.cache/` (gitignored) — downloaded PDFs and layout cache
 
 ## Commands
 
-_Filled in during Phase 0 (install, test, lint, extract, render)._
+- Install: `pnpm install` and `cd tools/extract && uv sync`
+- All JS checks: `pnpm lint`, `pnpm typecheck`, `pnpm test` (schema, round-trip, property, golden, unit)
+- Python checks: `cd tools/extract && uv run ruff check . && uv run ruff format --check . && uv run pytest`
+- Download official PDFs (polite, cached; needs `CALI_CORRAL_CONTACT` in `.env`): `cd tools/extract && uv run calcrim-extract download`
+- Extract from the cache (no network): `uv run calcrim-extract extract`; markup statistics: `uv run calcrim-extract scan`
+- After writing a template that round-trips, stamp its body hash: `pnpm --filter @cali-corral/engine stamp <n>`
+- Regenerate golden candidates: `pnpm --filter @cali-corral/engine candidates`
+- Corpus-wide auto-draft measurement: `pnpm --filter @cali-corral/engine autodraft [--report FILE] [--out DIR]`
 
 ## Licensing
 
