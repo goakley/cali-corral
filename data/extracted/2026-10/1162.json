@@ -1,0 +1,102 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1162",
+  "title": "Soliciting Lewd Conduct in Public (Pen. Code, § 647(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1017,
+      1018
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, December 2008, September 2017, March 2019",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with soliciting another person to engage in lewd conduct in public [in violation of Penal Code section 647(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant requested [or ______ <insert other synonyms for “solicit,” as appropriate>] that another person engage in the touching of ((his/her) own/[or] another person’s) (genitals[,]/[or] buttocks[,]/[or] female breast);",
+    "2. The defendant requested that the other person engage in the requested conduct in (a public place/[or] a place open to the public [or in public view]);",
+    "3. When the defendant made the request, (he/she) was in (a public place/[or] a place open to the public [or in public view]);",
+    "4. The defendant intended for the conduct to occur in (a public place/[or] a place open to the public [or in public view]);",
+    "5. When the defendant made the request, (he/she) did so with the intent to sexually arouse or gratify (himself/herself) or another person, or to annoy or offend another person;",
+    "[AND]",
+    "6. The defendant knew or reasonably should have known that someone was likely to be present who could be offended by the requested conduct(;/.)",
+    "<Give element 7 when instructing that person solicited must receive message; see Bench Notes.>",
+    "[AND",
+    "7. The other person received the communication containing the request.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "[As used here, a *public place* is a place that is open and accessible to anyone who wishes to go there.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "One court has held that the person solicited must actually receive the solicitous communication. (*People v. Saephanh* (2000) 80 Cal.App.4th 451, 458–459 [94 Cal.Rptr.2d 910].) In *Saephanh*, the defendant mailed a letter from prison containing a solicitation to harm the fetus of his girlfriend. (*Id.* at p. 453.) The letter was intercepted by prison authorities and, thus, never received by the intended person. *(Ibid.)* If there is an issue over whether the intended person actually received the communication, give bracketed element 7."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 647(a); *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256–257 [158 Cal.Rptr. 330, 599 P.2d 636]; *People v. Rylaarsdam* (1982) 130 Cal.App.3d Supp. 1, 8–9 [181 Cal.Rptr. 723]."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Likely Defined. *People v. Lake* (2007) 156 Cal.App.4th Supp. 1 [67 Cal.Rptr.3d 452]."
+      },
+      {
+        "text": "• Solicitation Requires Specific Intent. *People v. Norris* (1978) 88 Cal.App.3d Supp. 32, 38 [152 Cal.Rptr. 134]."
+      },
+      {
+        "text": "• Solicitation Defined. *People v. Superior Court* (1977) 19 Cal.3d 338, 345–346 [138 Cal.Rptr. 66, 562 P.2d 1315]."
+      },
+      {
+        "text": "• Person Solicited Must Receive Communication. *People v. Saephanh* (2000) 80 Cal.App.4th 451, 458–459 [94 Cal.Rptr.2d 910]."
+      },
+      {
+        "text": "• “Lewd” and “Dissolute” Synonymous. *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      },
+      {
+        "text": "• Lewd Conduct Defined. *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      },
+      {
+        "text": "• Public Place Defined. *In re Zorn* (1963) 59 Cal.2d 650, 652 [30 Cal.Rptr. 811, 381 P.2d 635]; *People v. Strider* (2009) 177 Cal.App.4th 1393, 1401 [100 Cal.Rptr. 3d 66]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues sections of CALCRIM No. 1161, *Lewd Conduct in Public* and CALCRIM No. 441, *Solicitation: Elements*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

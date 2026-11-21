@@ -1,0 +1,109 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2827",
+  "title": "Concealing Property With Intent to Evade Tax (Rev. & Tax. Code, § 19705(a)(4))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2054,
+      2056
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (removing[,]/[or] depositing[,]/[or] concealing) property with intent to evade a tax [in violation of Revenue and Taxation Code section 19705(a)(4)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (removed[,]/[or] deposited[,]/[or] concealed) (property[,]/[or] goods[,]/[or] commodities);",
+    "<Alternative 2A—concealment of goods or commodities to avoid tax>",
+    "[2. A tax was (imposed on/[or] legally authorized for) the (goods/[or] commodities);]",
+    "<Alternative 2B—concealment of property to avoid levy>",
+    "[2. A levy was legally authorized against the property;]",
+    "AND",
+    "3. When the defendant acted, (he/she) intended to unlawfully (evade/[or] defeat) the (assessment/[or] collection) of [a] (tax[,]/additions to a tax[,]/penalty[,]/[or] interest) imposed under the tax laws.",
+    "[To *levy property* means to seize, attach, or garnish the property as payment for a debt owed. A levy is *legally authorized* against property if:",
+    "1. The Franchise Tax Board has assessed a tax against the defendant and sent the defendant a notice demanding payment;",
+    "2. The defendant has neglected or refused to pay;",
+    "AND",
+    "3. The defendant owns the property that is the subject of the levy.]",
+    "[As used here, a person *removes* an item when he or she takes it from the place [where it was made and] where a tax was supposed to be assessed and paid on the item.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Revenue and Taxation Code section 19705(a)(4) applies to two situations: (1) when a person conceals or removes goods or commodities that are subject to taxation in order to prevent paying the tax owed on those goods; and (2) when a person who has failed to pay a tax owed conceals property that the government has the right to levy as payment for the tax."
+      },
+      {
+        "text": "In element 2, give alternative 2A if the defendant is charged with concealing goods or commodities to avoid a tax assessment. Give alternative 2B and the bracketed definition of “levy” if the defendant is charged with concealing property to avoid a levy. (*United States v. Swarthout* (6th Cir. 1970) 420 F.2d 831, 833–835.) Depending on the legal basis of the levy, the court may need to add additional items to the explanation of “legally authorized.” (See Rev. & Tax. Code, § 19705(a)(4) and statutes cited therein on when a levy is legally authorized.)"
+      },
+      {
+        "text": "Give the bracketed definition of “remove” if the defendant is charged with removing goods or commodities subject to taxation. (*Price v. United States* (5th Cir. 1945) 150 F.2d 283, 285.) Give the bracketed phrase “where it was made” if the defendant is charged with removing an item from the site of manufacture. *(Ibid.)*"
+      },
+      {
+        "text": "Revenue and Taxation Code section 19705(a)(4) also penalizes anyone “concerned in removing, depositing, or concealing” property. If the defendant is charged with “being concerned in” the conduct, the court should instruct on aiding and abetting. (See CALCRIM No. 400, *Aiding and Abetting: General Principles,* et seq.)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant had a good faith belief that his or her conduct was legal, the court has a sua sponte duty to give the instruction on this defense. (*People v. Hagen* (1998) 19 Cal.4th 652, 660 [80 Cal.Rptr.2d 24, 967 P.2d 563].) Give CALCRIM No. 2860, *Defense: Good Faith Belief Conduct Legal*."
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant relied on the advice of a professional, the court has a sua sponte duty to give the instruction on this defense. (*United States v. Mitchell* (4th Cir. 1974) 495 F.2d 285, 287–288; see Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.25.) Give CALCRIM No. 2861, *Defense: Reliance on Professional Advice*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Rev. & Tax. Code, § 19705(a)(4)."
+      },
+      {
+        "text": "• Concealment to Avoid Levy: Tax Must Have Been Assessed. *United States v. Swarthout* (6th Cir. 1970) 420 F.2d 831, 833–835; *United States v. Minarik* (6th Cir. 1989) 875 F.2d 1186, 1195."
+      },
+      {
+        "text": "• Removal Defined. *Price v. United States* (5th Cir. 1945) 150 F.2d 283, 285."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Physical Concealment Not Required"
+      },
+      {
+        "text": "A defendant may “conceal” property for the purposes of this statute by making a false record that he or she does not own the property. (*United States v. Bregman* (3d Cir. 1962) 306 F.2d 653, 654–655.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

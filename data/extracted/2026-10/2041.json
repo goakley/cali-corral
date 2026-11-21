@@ -1,0 +1,84 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2041",
+  "title": "Fraudulent Possession of Personal Identifying Information (Pen. Code, § 530.5(c)(1), (2), or (3))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1469,
+      1470
+    ]
+  },
+  "revision_line": "New August 2009; Revised April 2010",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with the fraudulent possession of personal identifying information [with a prior conviction for the same offense][in violation of Penal Code section 530.5(c)((1)/(2)/(3))].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant acquired or kept the personal identifying information of (another person/ten or more other persons);",
+    "[AND]",
+    "2. The defendant did so with the intent to defraud another person(;/.)",
+    "2. <Give paragraph 3 if defendant is charged with having a prior conviction and has not stipulated to that conviction.>",
+    "[AND",
+    "3. The defendant has a prior conviction for ______ <insert prior conviction suffered pursuant to Penal Code section 530.5>.]",
+    "A person intends to *defraud* if he or she intends to deceive another person in order to cause a loss of (money[,]/[or] goods[,]/[or] services[,] [or] something [else] of value), or to cause damage to a legal, financial, or property right.",
+    "*Personal identifying information* means ______ <insert relevant items from Pen. Code, § 530.55(b)> or an equivalent form of identification.",
+    "[As used here, *person* means a human being, whether living or dead, or a firm, association, organization, partnership, business trust, company, corporation, limited liability company, public entity or any other legal entity.]",
+    "It is not necessary that anyone actually be defrauded or actually suffer a financial, legal, or property loss as a result of the defendant’s acts."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “As used here” if the evidence shows an intent to defraud an entity or association rather than a natural person. (Pen. Code, § 8.)"
+      },
+      {
+        "text": "In the definition of personal identifying information, give the relevant items based on the evidence presented."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 530.5(c)."
+      },
+      {
+        "text": "• Personal Identifying Information Defined. Pen. Code, § 530.55(b)."
+      },
+      {
+        "text": "• Person Defined. Pen. Code, § 530.55(a)."
+      },
+      {
+        "text": "• Intent to Defraud—Defined. *People v. Pugh* (2002) 104 Cal.App.4th 66, 72 [127 Cal.Rptr.2d 770]; *People v. Gaul-Alexander* (1995) 32 Cal.App.4th 735, 745 [38 Cal.Rptr.2d 176]."
+      },
+      {
+        "text": "• Intent to Defraud Entity. Pen. Code, § 8."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

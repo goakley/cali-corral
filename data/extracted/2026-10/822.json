@@ -1,0 +1,124 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "822",
+  "title": "Inflicting Physical Punishment on Child (Pen. Code, § 273d(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      621,
+      623
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with inflicting on a child cruel or inhuman physical punishment or injury that caused a traumatic condition [in violation of Penal Code section 273d(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully inflicted (cruel or inhuman physical punishment/[and/or] an injury) on a child;",
+    "[AND]",
+    "2. The (punishment/[and/or] injury) inflicted by the defendant caused a traumatic physical condition to the child(;/.)",
+    "<Give element 3 when instructing on parental right to discipline>",
+    "[AND",
+    "3. When the defendant acted, (he/she) was not reasonably disciplining a child.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "A *child* is any person under the age of 18 years.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "A *traumatic physical condition* is a wound or other bodily injury, whether minor or serious, caused by the direct application of physical force.",
+    "A (punishment/[and/or] injury) *caused* a traumatic physical condition if:",
+    "1. The traumatic condition was the natural and probable consequence of the (punishment/[and/or] injury);",
+    "2. The (punishment/[and/or] injury) was a direct and substantial factor in causing the condition;",
+    "AND",
+    "3. The condition would not have happened without the (punishment/[and/or] injury).",
+    "A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.",
+    "A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that caused the traumatic condition."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence, the court has a sua sponte duty to instruct on the defense of disciplining a child. (*People v. Whitehurst* (1992) 9 Cal.App.4th 1045, 1049 [12 Cal.Rptr.2d 33].) Give bracketed element 3 and CALCRIM No. 3405, *Parental Right to Punish a Child*."
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 273d(a)."
+      },
+      {
+        "text": "• Willful Defined. Pen. Code, § 7, subd. 1; see *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Child Defined. *People v. Thomas* (1976) 65 Cal.App.3d 854, 857–858 [135 Cal.Rptr. 644] [victim’s size and age relevant to reasonableness of corporal punishment]; see Fam. Code, § 6500."
+      },
+      {
+        "text": "• Duty to Define Traumatic Condition. *People v. Burns* (1948) 88 Cal.App.2d 867, 873–874 [200 P.2d 134]."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Atkins* (1975) 53 Cal.App.3d 348, 358 [125 Cal.Rptr. 855]."
+      },
+      {
+        "text": "• Traumatic Condition Defined. *People v. Thomas* (1976) 65 Cal.App.3d 854, 857 [135 Cal.Rptr. 644]; *People v. Stewart* (1961) 188 Cal.App.2d 88, 91 [10 Cal.Rptr. 217]; see *People v. Gutierrez* (1985) 171 Cal.App.3d 944, 951–953 [217 Cal.Rptr. 616] [in context of Pen. Code, § 273.5]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Infliction of Corporal Punishment. Pen. Code, §§ 664, 273d."
+      },
+      {
+        "text": "• Simple Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Simple Battery. Pen. Code, § 242; see *People v. Sargent* (1999) 19 Cal.4th 1206, 1220 [81 Cal.Rptr.2d 835, 970 P.2d 409]; *People v. Stewart* (1961) 188 Cal.App.2d 88, 89 [10 Cal.Rptr. 217]."
+      },
+      {
+        "text": "Willfully causing or permitting a child to suffer, or willfully inflicting on a child, unjustifiable physical pain or mental suffering under circumstances other than those likely to produce great bodily harm or death (Pen. Code, § 273a(b)) is not a lesser included offense of Penal Code section 273d. (See *People v. Lofink* (1988) 206 Cal.App.3d 161, 166 [253 Cal.Rptr. 384].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Spanking"
+      },
+      {
+        "text": "It is not unlawful for a parent to spank a child for disciplinary purposes with an object other than the hand. The punishment, however, must be necessary and not excessive in relation to the individual circumstances. (80 Ops.Cal.Atty.Gen. 203 (1997).)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

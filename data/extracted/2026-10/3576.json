@@ -1,0 +1,63 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3576",
+  "title": "Substitution of Alternate Juror in Capital Case: After Guilt Determination, Before Submission of Penalty Phase to Jury (Pen. Code, § 1089)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2485,
+      2486
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "One of your fellow jurors has been excused and an alternate juror has been selected to take (his/her) place, as provided by law.",
+    "For the purposes of this phase of the trial, the alternate juror must accept [all] the verdict[s] and finding[s] returned by the jury in the prior phase[s] of the trial.",
+    "In this phase of the trial, you must now determine what penalty is appropriate in light of the prior verdict[s] and finding[s] and all the other evidence that bears on this question. The People and the defendant[s] have the right to a verdict on the issue of penalty that is reached only after full participation of the jurors whose votes determine that verdict. This right may be assured only if the alternate juror participates fully in the deliberations, including any necessary review of the evidence presented in the prior phase[s] of this trial."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction may be used if an alternate juror has been seated for the penalty phase of a capital trial. (*People v. Cain* (1995) 10 Cal.4th 1, 66–67 [40 Cal.Rptr.2d 481, 892 P.2d 1224]; *People v. Collins* (1976) 17 Cal.3d 687, 693–694 [131 Cal.Rptr. 782, 552 P.2d 742], overruled on other grounds in *People v. Boyette* (2002) 29 Cal.4th 381, 462, fn. 19 [127 Cal.Rptr.2d 544, 58 P.3d 391].) It is unclear if the court has a sua sponte duty to give this instruction. (Compare *People v. Cain, supra,* 10 Cal.4th at pp. 66–67 [instruction approved]; *People v. Renteria* (2001) 93 Cal.App.4th 552, 559 [113 Cal.Rptr.2d 287] [court required to give *Collins* instruction when juror substituted during guilt deliberations; noncapital case]; *People v. Cunningham* (2001) 25 Cal.4th 926, 1030 [108 Cal.Rptr.2d 291, 25 P.3d 519] [no error in failing to give instruction on beginning guilt phase deliberations anew where alternate juror seated for penalty phase]). The preferred approach would be to give the instruction when relevant."
+      },
+      {
+        "text": "In *People v. Cain* (1995) 10 Cal.4th 1, 64–65 [40 Cal.Rptr.2d 481, 892 P.2d 1224], the trial court gave a longer explanation of what verdicts and findings the alternate juror was required to accept. The committee believes that the second paragraph of this instruction sufficiently explains this concept. However, if the court would like to provide a more detailed explanation, the court may insert the following after that paragraph:"
+      },
+      {
+        "text": "For (that/those) offense[s] for which the jury returned a verdict of guilty and for (that/those) special circumstance[s] that the jury found to be true, the alternate juror must accept that those matters have been proved beyond a reasonable doubt. [Similarly, for ((that/those) offense[s] for which the jury returned a verdict of not guilty/[and] for (that/those) special circumstance[s] that the jury found (was/were) not proved), the alternate juror must accept that (that/those) matter[s] (has/have) not been proved beyond a reasonable doubt.] [The alternate juror must also accept the jury’s finding at the sanity phase of this trial.]"
+      },
+      {
+        "text": "If the defendant requests an instruction on lingering doubt regarding guilt, the court should review the instruction approved of in *People v. Cain, supra,* 10 Cal.4th at pp. 64–65. However, the court has no sua sponte duty to instruct on lingering doubt. (*People v. Cunningham, supra,* 25 Cal.4th at p. 1030.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Statutory Authority to Seat Alternate Juror. Pen. Code, § 1089."
+      },
+      {
+        "text": "• Alternate Juror Seated During Deliberations: Must Be Instructed to Disregard Previous Deliberations. *People v. Collins* (1976) 17 Cal.3d 687, 693–694 [131 Cal.Rptr. 782, 552 P.2d 742], overruled on other grounds in *People v. Boyette* (2002) 29 Cal.4th 381, 462, fn. 19 [127 Cal.Rptr.2d 544, 58 P.3d 391]; *People v. Renteria* (2001) 93 Cal.App.4th 552, 559 [113 Cal.Rptr.2d 287]."
+      },
+      {
+        "text": "• Alternate Juror Seated Prior to Penalty Phase. *People v. Cain* (1995) 10 Cal.4th 1, 66–67 [40 Cal.Rptr.2d 481, 892 P.2d 1224]; *People v. Cunningham* (2001) 25 Cal.4th 926, 1030 [108 Cal.Rptr.2d 291, 25 P.3d 519]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

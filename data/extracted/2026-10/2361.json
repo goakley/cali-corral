@@ -1,0 +1,131 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2361",
+  "title": "Transporting for Sale or Giving Away Cannabis: More Than 28.5 Grams (Health & Saf. Code, § 11360(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1644,
+      1646
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2010, October 2010, April 2011, February 2015, August 2016, September 2018",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (giving away/[or] transporting for sale) more than 28.5 grams of cannabis, a controlled substance [in violation of Health and Safety Code section 11360(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (gave away/transported for sale) a controlled substance;",
+    "2. The defendant knew of its presence;",
+    "3. The defendant knew of the substance’s nature or character as a controlled substance;",
+    "4. The controlled substance was cannabis;",
+    "AND",
+    "5. The cannabis possessed by the defendant weighed more than 28.5 grams.",
+    "<Sentencing Factor on defendant’s age>",
+    "If you find the defendant guilty of this crime [as charged in Count[s] ______], you must then decide whether the People have proved the additional allegation that when the defendant (gave away/[or] transported for sale) cannabis, (he/she) was 18 years of age or older.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[*Cannabis* means all or part of the *Cannabis sativa L.* plant, whether growing or not, including the seeds and resin extracted from any part of the plant. [It also includes every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seeds, or resin.]]",
+    "<If applicable, give the definition of industrial hemp: Health & Saf. Code, § 11018.5>",
+    "[Cannabis does not include industrial hemp. Industrial hemp means a fiber or oilseed crop, or both, that only contain types of the plant Cannabis sativa L. with no more than three-tenths of 1 percent tetrahydrocannabinol from the dried flowering tops, whether growing or not. Industrial hemp may include the seeds of the plant; the resin extracted from any part of the plant; and every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin produced from the seeds.]",
+    "[Cannabis does not include the weight of any other ingredient combined with cannabis to prepare topical or oral administrations, food, drink, or other product.]",
+    "[A person *transports* something if he or she carries or moves it for sale from one location to another, even if the distance is short.]",
+    "[The People do not need to prove that the defendant knew which specific controlled substance (he/she) (gave away/transported).]",
+    "[A person does not have to actually hold or touch something to (give it away/transport it). It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If any of the penalty allegations under Health & Safety Code section 11360(a)(3) are charged, give CALCRIM No. 2364, as appropriate."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If a medical cannabis defense applies under the Compassionate Use Act or the Medical Marijuana Program Act (See Health & Saf. Code, §§ 11362.5, 11362.775.), the burden is on the defendant to produce sufficient evidence to raise a reasonable doubt that the conduct was lawful. (*People v. Mower* (2002) 28 Cal.4th 457, 470 [122 Cal.Rptr.2d 326, 49 P.3d 1067]; *People v. Jackson* (2012) 210 Cal.App.4th 525, 538–539 [148 Cal.Rptr.3d 375].) If the defendant introduces substantial evidence, sufficient to raise a reasonable doubt that the conduct may have been lawful, the court has a sua sponte duty to give the relevant defense instruction: CALCRIM No. 3412, *Compassionate Use Defense*, or CALCRIM No. 3413, *Collective or Cooperative Cultivation Defense*."
+      },
+      {
+        "text": "Give CALCRIM No. 3415, *Legal Use Defense*, on request, if supported by substantial evidence."
+      },
+      {
+        "heading": true,
+        "text": "Related Instruction"
+      },
+      {
+        "text": "Use this instruction when the defendant is charged with transporting or giving away more than 28.5 grams of cannabis. For offering to transport or give away more than 28.5 grams of cannabis, use CALCRIM No. 2363, *Offering to Transport or Give Away Cannabis: More Than 28.5 Grams*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, § 11360(a)."
+      },
+      {
+        "text": "• Knowledge. *People v. Romero* (1997) 55 Cal.App.4th 147, 151–153, 157, fn. 3 [64 Cal.Rptr.2d 16]; *People v. Winston* (1956) 46 Cal.2d 151, 158 [293 P.2d 40]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Barnes* (1997) 57 Cal.App.4th 552, 556 [67 Cal.Rptr.2d 162]."
+      },
+      {
+        "text": "• Medical Cannabis. Health & Saf. Code, § 11362.5."
+      },
+      {
+        "text": "• Compassionate Use Defense to Transportation. *People v. Wright* (2006) 40 Cal.4th 81, 87–88 [51 Cal.Rptr.3d 80, 146 P.3d 531]; *People v. Trippet* (1997) 56 Cal.App.4th 1532, 1550 [66 Cal.Rptr.2d 559]."
+      },
+      {
+        "text": "• Burden of Proof for Defense of Medical Use. *People v. Mower* (2002) 28 Cal.4th 457, 460 [122 Cal.Rptr.2d 326, 49 P.3d 1067]."
+      },
+      {
+        "text": "• Primary Caregiver. *People v. Mentch* (2008) 45 Cal.4th 274, 282–292 [85 Cal.Rptr.3d 480, 195 P.3d 1061]."
+      },
+      {
+        "text": "• Defendant’s Burden of Proof on Compassionate Use Defense. *People v. Mentch* (2008) 45 Cal.4th 274, 292–294 [85 Cal.Rptr.3d 480, 195 P.3d 1061] (conc.opn. of Chin, J.)."
+      },
+      {
+        "text": "• Medical Marijuana Program Defense. *People v. Jackson* (2012) 210 Cal.App.4th 525, 538–539 [148 Cal.Rptr.3d 375]."
+      },
+      {
+        "text": "• Prior Version of this Instruction Upheld. *People v. Busch* (2010) 187 Cal.App.4th 150, 155–156 [113 Cal.Rptr.3d 683]."
+      },
+      {
+        "text": "• Definition of Cannabis. Health & Saf. Code, § 11018."
+      },
+      {
+        "text": "• Definition of Industrial Hemp. Health & Saf. Code, § 11018.5."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

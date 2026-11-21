@@ -1,0 +1,267 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1141",
+  "title": "Distributing Obscene Matter Showing Sexual Conduct by a Minor (Pen. Code, §§ 311.1(a), 311.2(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      969,
+      975
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2022, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with distributing obscene matter that shows a minor engaging in sexual conduct [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—sent or brought>",
+    "[1. The defendant knowingly (sent/[ or] brought) obscene matter into California [or knowingly caused obscene matter to be (sent/[ or] brought) into California];]",
+    "<Alternative 1B—possessed>",
+    "[1. The defendant knowingly (possessed[,]/[ or] prepared[,]/[ or] published[,]/[ or] produced[,]/[ or] developed[,]/[ or] duplicated[,]/[ or] printed) obscene matter in California;]",
+    "<Alternative 1C—offered to distribute>",
+    "[1. The defendant offered to distribute obscene matter to someone else;]",
+    "<Alternative 1D—distributed>",
+    "[1. The defendant (distributed/[ or] showed/[ or] exchanged) obscene matter (to/with) someone else;]",
+    "2. When the defendant acted, (he/she) knew the character of the matter;",
+    "[AND]",
+    "3. When the defendant acted, (he/she) knew that the matter (showed a person under the age of 18 years/[ or] contained digitally altered or artificial intelligence-generated data depicting what appears to be a person under the age of 18 years) who was [personally] engaging in or simulating sexual conduct(;/.)",
+    "<Give element 4 when instructing with alternative 1A, 1B, or 1C; see Bench Notes>",
+    "[AND",
+    "4. When the defendant acted, (he/she) intended to (sell or distribute/distribute, show, or exchange/distribute) the matter to someone else [for money or other commercial benefit].]",
+    "You must decide whether the matter at issue in this case meets the definition of obscene matter. Matter is *obscene* if, when considered as a whole:",
+    "1. It shows or describes sexual conduct in an obviously offensive way;",
+    "2. A reasonable person would conclude that it lacks serious literary, artistic, political, or scientific value;",
+    "AND",
+    "3. An average adult person, applying contemporary statewide standards, would conclude it appeals to a prurient interest.",
+    "A *prurient interest* is a shameful or morbid interest in nudity, sex, or excretion.",
+    "[As used here, ](*M/m)atter* means any representation of information, data, or image, including any ______ <insert type of material described in Pen. Code, § 311.1 and/or § 311.2.>.",
+    "*Applying contemporary statewide standards* means using present-day standards and determining the effect of the matter on all those whom it is likely to reach within the state, in other words, its impact on the average person in the statewide community. The *average adult person* is a hypothetical person who represents the entire community, including both men and women; religious and nonreligious people; and adults of varying ages, educational and economic levels, races, ethnicities, and points of view. The *contemporary statewide standard* means what is acceptable to the statewide community as a whole, not what some person or persons may believe the community ought to accept. The test you must apply is not what you find offensive based on your own personal, social, or moral views. Instead, you must make an objective determination of what would offend the statewide community as a whole.",
+    "[You may consider evidence of local community standards in deciding what the contemporary statewide standard is. However, you may not use the standard of a local community, by itself, to establish the contemporary statewide standard.]",
+    "The material is not obscene unless a reasonable person would conclude that, taken as a whole, it lacks serious literary, artistic, political, or scientific value. When deciding whether the material is obscene, do not weigh its value against its prurient appeal.",
+    "[Matter is not considered obscene under the law if (all persons under the age of 18 depicted in the matter are legally emancipated/[or] it only shows lawful conduct between spouses).]",
+    "[The depiction of nudity, by itself, does not make matter obscene. In order for matter containing nudity to be obscene, it must depict sexual activity and it must meet the requirements for obscenity listed above.]",
+    "[The depiction of sexual activity, by itself, does not make matter obscene. In order for matter depicting sexual activity to be obscene, it must meet the requirements for obscenity listed above.]",
+    "*Sexual conduct* means actual or simulated (sexual intercourse/[or] oral copulation[,]/[or] anal intercourse[,]/[or] anal oral copulation[,]/[or] ______ <insert other sexual conduct as defined in Pen. Code, § 311.4(d)(1)>). An act is simulated when it gives the appearance of being sexual conduct.",
+    "The People must prove that the defendant knew the obscene nature of the matter but do not need to prove that the defendant knew whether the matter met the definition of obscene.",
+    "[*To distribute* means to transfer possession, whether or not the transfer is made for money or anything else of value.]",
+    "[*Commercial benefit* means receipt of, or intent to receive, financial value or compensation.]",
+    "[A person accused of committing this crime can be an individual, partnership, firm, association, corporation, limited liability company, or other legal entity.]",
+    "[In deciding the matter’s nature and whether it lacks serious literary, artistic, political, or scientific value, consider whether the circumstances of its (production[,]/presentation[,]/sale[,]/dissemination[,]/distribution[,]/publicity) indicate that the matter was being commercially exploited because of its prurient appeal. You must decide the weight, if any, to give this evidence.]",
+    "[In deciding whether the matter lacks serious literary, artistic, political, or scientific value, you may [also] consider whether the defendant knew that the matter showed persons under the age of 16 years engaging in sexual conduct. You must decide the weight, if any, to give this evidence.]",
+    "[In deciding whether, applying contemporary statewide standards, the matter appeals to a prurient interest, you may consider whether similar matter is openly shown in the community. You must decide the weight, if any, to give this evidence.]",
+    "[If it appears from the nature of the matter or the circumstances of its distribution or showing that it is designed for clearly defined deviant sexual groups, the appeal of the matter must be judged based on its intended audience.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through (another person/other people).]",
+    "[A person who possesses obscene matter for his or her own personal use is not guilty of this crime.]",
+    "<Defense: Legitimate scientific or educational purpose>",
+    "[The defendant is not guilty of this crime if (he/she) was engaging in legitimate medical, scientific, or educational activities. The People have the burden of proving beyond a reasonable doubt that the defendant was not acting for a legitimate medical, scientific, or educational purpose. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "<Defense: Law enforcement agent>",
+    "[The defendant is not guilty of this offense if (he/she) was a member [or agent] of a law enforcement or prosecuting agency and was involved in the investigation or prosecution of criminal offenses. The People have the burden of proving beyond a reasonable doubt that the defendant was not acting as a member [or agent] of a law enforcement or prosecuting agency. If the People have not met this burden, you must find the defendant not guilty of this crime.",
+    "[A person is an *agent* of a law enforcement or prosecuting agency if he or she does something at the request, suggestion, or direction of a law enforcement or prosecuting agency.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 1, give one of the alternatives A–D depending on the charges and evidence in the case. In element 3, give the bracketed word “personally” if the defendant is charged under Penal Code section 311.2(b). Likewise, in element 3, give the alternative “contained digitally altered or artificial intelligence—generated data depicting what appears to be a person under the age of 18 years” if the defendant is charged under Penal Code section 311.2(b) and if applicable."
+      },
+      {
+        "text": "Give element 4 when instructing with alternative 1A, 1B, or 1C. (*People v. Young* (1977) 77 Cal.App.3d Supp. 10, 12 [143 Cal.Rptr. 604]; *People v. Burrows* (1968) 260 Cal.App.2d 228, 231 [67 Cal.Rptr. 28]; *In re Klor* (1966) 64 Cal.2d 816, 819 [51 Cal.Rptr. 903, 415 P.2d 791].) When giving alternative 1A, select “sell or distribute” in element 4. When giving alternative 1B, select “distribute, show, or exchange” in element 4. When giving alternative 1C, select “distribute.” Do not give element 4 with alternative 1D. No published case has held that distributing or showing obscene material requires specific intent. Give the bracketed phrase “for money or other commercial benefit” in element 4 if the defendant is charged under Penal Code section 311.2(b)."
+      },
+      {
+        "text": "Give any of the other bracketed paragraphs on request."
+      },
+      {
+        "text": "For the definition of matter, give the bracketed phrase “As used here” when CALCRIM No. 1142, *Distributing or Intending to Distribute Obscene Matter* or CALCRIM No. 1145, *Possession of Matter Depicting Minor Engaged in Sexual Conduct* is also given."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant was engaging in legitimate medical, scientific, or educational activities, the court has a sua sponte duty to instruct on that defense. (See Pen. Code, §§ 311.2(e); 311.8(a).) It is unclear who bears the burden of proof and what standard of proof applies to this defense. In the absence of statutory authority or case law stating that the defendant must prove the defense by a preponderance of the evidence, the committee has drafted the instruction to provide that the prosecution must prove beyond a reasonable doubt that the defense does not apply. (See *People v. Mower* (2002) 28 Cal.4th 457, 478–479 [122 Cal.Rptr.2d 326, 49 P.3d 1067]; see also *People v. Woodward* (2004) 116 Cal.App.4th 821, 840–841 [10 Cal.Rptr.3d 779] [“legitimate” does not require definition and the trial court erred in giving amplifying instruction based on *People v. Marler* (1962) 199 Cal.App.2d Supp. 889 [18 Cal.Rptr. 923]].)"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant was acting as a law enforcement agent, the court has a sua sponte duty to instruct on that defense. (See Pen. Code, § 311.2(e).) It is unclear who bears the burden of proof and what standard of proof applies to this defense. In the absence of statutory authority or case law stating that the defendant must prove the defense by a preponderance of the evidence, the committee has drafted the instruction to provide that the prosecution must prove beyond a reasonable doubt that the defense does not apply. (See *People v. Mower, supra,* 28 Cal.4th at pp. 478–479.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 311.1(a), 311.2(b)."
+      },
+      {
+        "text": "• Specific Intent to Distribute or Exhibit. *People v. Young, supra,* 77 Cal.App.3d Supp. at p. 12 [possession with intent to distribute or exhibit]; see *People v. Burrows, supra,* 260 Cal.App.2d at p. 231 [preparation or publication with specific intent to distribute]; *In re Klor, supra,* 64 Cal.2d at p. 819."
+      },
+      {
+        "text": "• “Obscene Matter” Defined. Pen. Code, § 311(a); see *Bloom v. Municipal Court* (1976) 16 Cal.3d 71, 77, 81 [127 Cal.Rptr. 317, 545 P.2d 229]; *Miller v. California* (1973) 413 U.S. 15, 24 [93 S.Ct. 2607, 37 L.Ed.2d 419]; see also *Pope v. Illinois* (1987) 481 U.S. 497, 500–501 [107 S.Ct. 1918, 95 L.Ed.2d 439]."
+      },
+      {
+        "text": "• “Artificial Intelligence” Defined. Pen. Code, § 311(b)."
+      },
+      {
+        "text": "• Contemporary Community Standards. See *Roth v. United States* (1957) 354 U.S. 476, 489–490 [77 S.Ct. 1304, 1 L.Ed.2d 1498]."
+      },
+      {
+        "text": "• “Prurient Interest” Defined. *Bloom v. Municipal Court, supra,* 16 Cal.3d at p. 77."
+      },
+      {
+        "text": "• “Sexual Conduct” Defined. Pen. Code, § 311.4(d)(1); see *People v. Spurlock* (2003) 114 Cal.App.4th 1122, 1130–1131 [8 Cal.Rptr.3d 372]."
+      },
+      {
+        "text": "• “Person” Defined. Pen. Code, § 311(d)."
+      },
+      {
+        "text": "• “Distribute” Defined. Pen. Code, § 311(e)."
+      },
+      {
+        "text": "• “Knowingly” Defined. Pen. Code, § 311(f); see *People v. Kuhns* (1976) 61 Cal.App.3d 735, 756–758 [132 Cal.Rptr. 725]."
+      },
+      {
+        "text": "• “Exhibit” Defined. Pen. Code, § 311(g)."
+      },
+      {
+        "text": "• Matter Designed for Deviant Sexual Group. Pen. Code, § 311(a)(1); see *People v. Young, supra,* 77 Cal.App.3d Supp. at pp. 14–15."
+      },
+      {
+        "text": "• Commercial Exploitation Is Probative of Matter’s Nature. Pen. Code, § 311(a)(2); *People v. Kuhns, supra,* 61 Cal.App.3d at pp. 748–753."
+      },
+      {
+        "text": "• Knowledge That Matter Depicts Child Under 16 Is Probative of Matter’s Nature. Pen. Code, § 311(a)(3)."
+      },
+      {
+        "text": "• Similar Matter Shown in Community. *In re Harris* (1961) 56 Cal.2d 879, 880 [16 Cal.Rptr. 889, 366 P.2d 305]; *People v. Heller* (1979) 96 Cal.App.3d Supp. 1, 7 [157 Cal.Rptr. 830]."
+      },
+      {
+        "text": "• Exceptions to Statutory Prohibitions. Pen. Code, §§ 311.1(b)–(d), 311.2(e)–(g); Pen. Code, § 311.8."
+      },
+      {
+        "text": "• “Agent” Defined. See *People v. McIntire* (1979) 23 Cal.3d 742, 748 [153 Cal.Rptr. 237, 591 P.2d 527] [in context of entrapment]."
+      },
+      {
+        "text": "• Taken or Considered as a Whole. *People v. Goulet* (1971) 21 Cal.App.3d Supp. 1, 3 [98 Cal.Rptr. 782]; *Kois v. Wisconsin* (1972) 408 U.S. 229, 231 [92 S.Ct. 2245, 33 L.Ed.2d 312]."
+      },
+      {
+        "text": "• Obscenity Contrasted With Sex. *Roth v. United States, supra,* 354 U.S. at p. 487."
+      },
+      {
+        "text": "• Obscenity Contrasted With Nudity. *People v. Noroff* (1967) 67 Cal.2d 791, 795–796 [63 Cal.Rptr. 575, 433 P.2d 479]; *In re Panchot* (1968) 70 Cal.2d 105, 108–109 [73 Cal.Rptr. 689, 448 P.2d 385]."
+      },
+      {
+        "text": "• Possessing For Personal Use Not a Crime. *Stanley v. Georgia* (1969) 394 U.S. 557, 568 [89 S.Ct. 1243, 22 L.Ed.2d 542]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Barnes* (1997) 57 Cal.App.4th 552, 556 [67 Cal.Rptr.2d 162]."
+      },
+      {
+        "text": "• “Commercial Benefit” Defined. *People v. Wimer* (2022) 74 Cal.App.5th 113, 129 [289 Cal.Rptr.3d 164]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Distribution of Obscene Matter. Pen. Code, §§ 664, 311.1(a)."
+      },
+      {
+        "text": "• Attempted Distribution of Obscene Matter for Commercial Consideration. Pen. Code, §§ 664, 311.2(b)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Advertising Obscene Matter Involving Minors"
+      },
+      {
+        "text": "It is a felony to advertise for sale or distribution any obscene matter knowing that it depicts a minor engaged in sexual conduct. (Pen. Code, § 311.10.)"
+      },
+      {
+        "heading": true,
+        "text": "Employing or Using Minor to Pose in Film"
+      },
+      {
+        "text": "It is a felony to employ, use, or persuade a minor to engage in or assist others in posing or modeling for the purpose of preparing a commercial or noncommercial film or other medium involving sexual conduct by a minor. (See Pen. Code, § 311.4(b), (c).) Producing child pornography and posting it on the Internet to induce others to trade such pornography without making a monetary profit satisfies the “commercial purposes” requirement of Penal Code section 311.4(b). (*People v. Cochran* (2002) 28 Cal.4th 396, 406–407 [121 Cal.Rptr.2d 595, 48 P.3d 1148].)"
+      },
+      {
+        "heading": true,
+        "text": "Excluded Conduct"
+      },
+      {
+        "text": "Neither section 311.1 nor 311.2 applies to law enforcement and prosecuting agencies investigating or prosecuting criminal offenses, to legitimate medical, scientific, or educational activities, or to lawful conduct between spouses. (Pen. Code, §§ 311.1(b), 311.2(e); see Pen. Code, § 311.8(a) [“defense” that act committed in aid of legitimate scientific or educational purpose].) Nor do these sections apply to depictions of a minor who is legally emancipated. (Pen. Code, §§ 311.1(c), 311.2(f); see Fam. Code, § 7000 et seq. [emancipation of minors].)"
+      },
+      {
+        "heading": true,
+        "text": "Telephone Services"
+      },
+      {
+        "text": "A telephone corporation (see Pub. Util. Code, § 234) does not violate section 311.1 or 311.2 by carrying or transmitting messages described in these sections, or by performing related activities in providing telephone services. (Pen. Code, §§ 311.1(d), 311.2(g).)"
+      },
+      {
+        "heading": true,
+        "text": "Expert Testimony Not Required"
+      },
+      {
+        "text": "Neither the prosecution nor the defense is required to introduce expert witness testimony regarding the obscene nature of the matter. (Pen. Code, § 312.1 [abrogating *In re Giannini* (1968) 69 Cal.2d 563, 574 [72 Cal.Rptr. 655, 446 P.2d 535]].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

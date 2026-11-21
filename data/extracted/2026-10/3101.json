@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3101",
+  "title": "Prior Conviction: Bifurcated Trial (Pen. Code, §§ 1025, 1158)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2182,
+      2183
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2020, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The People have alleged that the defendant was previously convicted of (another/other) crime[s]. It has already been determined that the defendant is the person named in exhibit[s] ______ <insert number[s] or description[s] of exhibit[s]>. You must decide whether the evidence proves that the defendant was convicted of the alleged crime[s].",
+    "The People allege that the defendant has been convicted of:",
+    "[1.] A violation of ______ <insert code section[s] alleged>, [for which judgment was entered] on ______ <insert date of conviction/judgment>, in the ______ <insert name of court>, Case Number ______ <insert docket or case number>(;/.)",
+    "[AND <Repeat for each prior conviction alleged.>]",
+    "[In deciding whether the People have proved the allegation[s], consider only the evidence presented in this proceeding. Do not consider your verdict or any evidence from the earlier part of the trial.]",
+    "You may not return a finding that (the/any) alleged conviction has or has not been proved unless all 12 of you agree on that finding."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If the defendant is charged with a prior conviction, the court has a sua sponte duty to instruct on the allegation. Give this instruction if the court has granted a bifurcated trial. The court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      },
+      {
+        "text": "If the defendant is charged with a prison prior, the court must determine whether the jury should decide if the defendant served a separate prison term for the conviction and whether the defendant remained free of prison custody for the “washout” period. (Pen. Code, § 667.5(a) & (b).) The Commentary to CALCRIM No. 3100 discusses this issue. If the court chooses to submit these issues to the jury, give CALCRIM No. 3102, *Prior Conviction: Prison Prior*, with this instruction."
+      },
+      {
+        "text": "If the court determines that there is a factual issue regarding the prior conviction that must be submitted to the jury, give CALCRIM No. 3103: *Prior Conviction: Factual Issue for Jury*, with this instruction. The Commentary to CALCRIM No. 3100 discusses this issue."
+      },
+      {
+        "text": "Give the bracketed phrase “for which judgment was entered” if there is more than one prior conviction alleged."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “In deciding whether the People have proved” on request."
+      },
+      {
+        "text": "The court must provide the jury with a verdict form on which the jury will indicate whether each prior conviction has been proved. (Pen. Code, § 1158.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Statutory Authority. Pen. Code, §§ 1025, 1158."
+      },
+      {
+        "text": "• Bifurcation. *People v. Calderon* (1994) 9 Cal.4th 69, 77–79 [36 Cal.Rptr.2d 333, 885 P.2d 83]; *People v. Cline* (1998) 60 Cal.App.4th 1327, 1334–1336 [71 Cal.Rptr.2d 41]."
+      },
+      {
+        "text": "• Judge Determines Whether Defendant Is Person Named in Documents. Pen. Code, § 1025(b); *People v. Epps* (2001) 25 Cal.4th 19, 25 [104 Cal.Rptr.2d 572, 18 P.3d 2]; *People v. Garcia* (2003) 107 Cal.App.4th 1159, 1165 [132 Cal.Rptr.2d 694]."
+      },
+      {
+        "text": "• Disputed Factual Issues. See *People v. Gallardo* (2017) 4 Cal.5th 120, 136 [226 Cal.Rptr.3d 379, 407 P.3d 55]; *Descamps v. United States* (2013) 570 U.S. 254, 268–70 [133 S.Ct. 2276, 186 L.Ed.2d 438]; *Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435]."
+      },
+      {
+        "text": "• Three-Strikes Statutes. Pen. Code, §§ 667(e), 1170.12."
+      },
+      {
+        "text": "• Five-Year Enhancement for Serious Felony. Pen. Code, § 667(a)(1)."
+      },
+      {
+        "text": "• Three-Year Enhancement for Prison Prior If Violent Felony. Pen. Code, § 667.5(a)."
+      },
+      {
+        "text": "• One-Year Enhancement for Prison Prior. Pen. Code, § 667.5(b)."
+      },
+      {
+        "text": "• Serious Felony Defined. Pen. Code, § 1192(c)."
+      },
+      {
+        "text": "• Violent Felony Defined. Pen. Code, § 667.5(c)."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See *Motion for Bifurcated Trial* in the Related Issues section of CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

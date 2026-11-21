@@ -1,0 +1,98 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "625",
+  "title": "Voluntary Intoxication: Effects on Homicide Crimes (Pen. Code, § 29.4)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      465,
+      467
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2014, February 2016, March 2019, October 2021",
+  "revision_legend": null,
+  "body": [
+    "You may consider evidence, if any, of the defendant’s voluntary intoxication only in a limited way. You may consider that evidence only in deciding whether the defendant acted with an intent to kill[,] [or] [the defendant acted with deliberation and premeditation[,]] [[or] the defendant was unconscious when (he/she) acted[,]] [or the defendant ______ <insert other specific intent required in a homicide charge or other charged offense>.]",
+    "A person is *voluntarily intoxicated* if he or she becomes intoxicated by willingly using any intoxicating drug, drink, or other substance knowing that it could produce an intoxicating effect, or willingly assuming the risk of that effect.",
+    "You may not consider evidence of the defendant’s voluntary intoxication for any other purpose."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "With the statutory elimination of diminished capacity as a defense, there is no sua sponte duty to instruct on the effect of voluntary intoxication on the mental states required for homicide. (Pen. Code, § 28(b); *People v. Saille* (1991) 54 Cal.3d 1103, 1119–1120 [2 Cal.Rptr.2d 364, 820 P.2d 588].) However, subsequent cases affirm that voluntary intoxication can be used to negate an element of the crime that must be proven by the prosecution. (*People v. Reyes* (1997) 52 Cal.App.4th 975, 982 [61 Cal.Rptr.2d 39]; *People v. Visciotti* (1992) 2 Cal.4th 1, 56–57 [5 Cal.Rptr.2d 495, 825 P.2d 388].) Such an instruction is a “pinpoint” instruction, which must be given on request when there is sufficient evidence supporting the theory. (*People v. Saille, supra,* 54 Cal.3d at p. 1120.)"
+      },
+      {
+        "text": "Include the bracketed language regarding unconsciousness if the court also gives CALCRIM No. 626, *Voluntary Intoxication Causing Unconsciousness: Effects on Homicide Crimes*."
+      },
+      {
+        "text": "If the defendant is charged with a homicide crime that has as an element an additional specific intent requirement other than intent to kill, include the required intent in the last bracketed portion of the second sentence. For example, if the defendant is charged with torture murder, include “whether the defendant intended to inflict extreme and prolonged pain.” Or, if the defendant is charged with felony-murder, insert intent to commit the felony where indicated. Similarly, if the defendant is also charged with a nonhomicide crime with a specific intent requirement, include that intent requirement. For example, if the defendant is charged with murder and robbery, include “whether the defendant intended to permanently deprive the owner of the property.”"
+      },
+      {
+        "text": "Evidence of voluntary intoxication is inadmissible on the question of whether a defendant believed it necessary to act in self-defense. (*People v. Soto* (2018) 4 Cal.5th 968, 970 [231 Cal.Rptr.3d 732, 415 P.3d 789].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Voluntary Intoxication Defined. Pen. Code, § 29.4(c)."
+      },
+      {
+        "text": "• Unconsciousness Not Required. *People v. Ray* (1975) 14 Cal.3d 20, 28–29 [120 Cal.Rptr. 377, 533 P.2d 1017], disapproved on other grounds in *People v. Blakeley* (2000) 23 Cal.4th 82, 89 [96 Cal.Rptr.2d 451, 999 P.2d 675]."
+      },
+      {
+        "text": "• No Sua Sponte Duty to Instruct. *People v. Saille* (1991) 54 Cal.3d 1103, 1120 [2 Cal.Rptr.2d 364, 820 P.2d 588]."
+      },
+      {
+        "text": "• Evidence of Intoxication Inapplicable to Implied Malice. Pen. Code, § 29.4(b); *People v. Martin* (2000) 78 Cal.App.4th 1107, 1114–1115 [93 Cal.Rptr.2d 433]."
+      },
+      {
+        "text": "• Applies to Attempted Murder. *People v. Castillo* (1997) 16 Cal.4th 1009, 1016 [68 Cal.Rptr.2d 648, 945 P.2d 1197]."
+      },
+      {
+        "text": "• Voluntary Intoxication Relevant to Knowledge. *People v. Reyes* (1997) 52 Cal.App.4th 975, 982–986 [61 Cal.Rptr.2d 39]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Turk* (2008) 164 Cal.App.4th 1361, 1381 [80 Cal.Rptr.3d 473]; *People v. Timms* (2007) 151 Cal.App.4th 1292, 1298 [60 Cal.Rptr.3d 677]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "General Instruction on Voluntary Intoxication"
+      },
+      {
+        "text": "This instruction is a specific application of CALCRIM No. 3426, *Voluntary Intoxication*, to homicide."
+      },
+      {
+        "heading": true,
+        "text": "Unconsciousness"
+      },
+      {
+        "text": "Unconsciousness (as defined in CALCRIM No. 3425, *Unconsciousness*) is not required. (*People v. Ray* (1975) 14 Cal.3d 20, 28–29 [120 Cal.Rptr. 377, 533 P.2d 1017], disapproved on other grounds in *People v. Blakeley* (2000) 23 Cal.4th 82, 89 [96 Cal.Rptr.2d 451, 999 P.2d 675].)"
+      },
+      {
+        "heading": true,
+        "text": "Not Applicable in Murder Cases Based Exclusively on Implied Malice"
+      },
+      {
+        "text": "This instruction is inapplicable to cases where the murder charge is exclusively based on a theory of *implied* malice because voluntary intoxication can only negate *express* malice. (Pen. Code, § 29.4(b); *People v. Martin* (2000) 78 Cal.App.4th 1107, 1114–1115 [93 Cal.Rptr.2d 433].) Drunk-driving second degree murder is one type of case that is typically based exclusively on an implied malice theory."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

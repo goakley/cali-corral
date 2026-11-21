@@ -1,0 +1,92 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "643",
+  "title": "Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With Second Degree Murder and Jury Is Given Only One Not Guilty Verdict Form for Each Count; Not to Be Used When Both Voluntary and Involuntary Manslaughter Are Lesser Included Offenses",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      488,
+      491
+    ]
+  },
+  "revision_line": "New August 2009; Revised September 2024",
+  "revision_legend": null,
+  "body": [
+    "[For each count charging second degree murder,] (Y/y)ou (have been/will be) given verdict forms for guilty of second degree murder, guilty of (voluntary/involuntary) manslaughter and not guilty.",
+    "It is up to you to decide the order in which you consider these different kinds of homicide and the relevant evidence. You do not have to reach a verdict on the murder charge[s] before considering the (voluntary/involuntary) manslaughter charge[s]. However, I can accept a verdict of guilty of (voluntary/involuntary) manslaughter only if all of you have found the defendant not guilty of second degree murder.",
+    "[As with all the charges in this case,] (To/to) return a verdict of guilty or not guilty on a count, you must all agree on that decision.",
+    "Follow these directions before you give me any completed and signed, final verdict form. You will complete and sign only one verdict form [per count]. [Return the unused verdict forms to me, unsigned.]",
+    "1. If all of you agree that the People have proved beyond a reasonable doubt that the defendant is guilty of second degree murder, complete and sign that verdict form. Do not complete or sign any other verdict forms [for that count].",
+    "2. If all of you cannot agree whether the defendant is guilty of second degree murder, inform me only that you cannot reach an agreement and do not complete or sign any verdict forms [for that count].",
+    "3. If all of you agree that the defendant is not guilty of second degree murder, but also agree that the defendant is guilty of (voluntary/involuntary) manslaughter, complete and sign the form for guilty of (voluntary/involuntary) manslaughter. Do not complete or sign any other verdict forms [for that count].",
+    "4. If all of you agree that the defendant is not guilty of second degree murder and cannot agree whether the defendant is guilty of (voluntary/involuntary) manslaughter, inform me that you cannot reach agreement [on that count]. Do not complete or sign any other verdict forms [for that count].",
+    "5. If all of you agree that the defendant is not guilty of second degree murder and not guilty of (voluntary/involuntary) manslaughter, complete and sign the verdict form for not guilty. Do not complete or sign any other verdict forms [for that count].",
+    "5. <If the jury is instructed on ______both voluntary and involuntary manslaughter as lesser included offenses, this instruction may not be used. The court must give the jury guilty and not guilty verdict forms as to second degree murder and each form of manslaughter, and must instruct pursuant to CALCRIM No. 642.>"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "In all homicide cases in which the greatest offense charged is second degree murder and one or more lesser offense is submitted to the jury, the court has a sua sponte duty to give this instruction or CALCRIM No. 642, *Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With Second Degree Murder and Jury Is Given Not Guilty Forms for Each Level of Homicide.* (See *People v. Avalos* (1984) 37 Cal.3d 216, 228 [207 Cal.Rptr. 549, 689 P.2d 121] [must instruct jury that it must be unanimous as to degree of murder]; *People v. Dixon* (1979) 24 Cal.3d 43, 52 [154 Cal.Rptr. 236, 592 P.2d 752] [jury must determine degree]; *People v. Breverman* (1998) 19 Cal.4th 142, 162 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [duty to instruct on lesser included offenses]; *People v. Dewberry* (1959) 51 Cal.2d 548, 555–557 [334 P.2d 852] [duty to instruct that if jury has reasonable doubt of greater offense must acquit of that charge]; *People v. Fields* (1996) 13 Cal.4th 289, 309–310 [52 Cal.Rptr.2d 282, 914 P.2d 832] [duty to instruct that jury cannot convict of a lesser offense unless it has concluded that defendant is not guilty of the greater offense]; *Stone v. Superior Court* (1982) 31 Cal.3d 503, 519 [183 Cal.Rptr. 647, 646 P.2d 809] [duty to give jury opportunity to render a verdict of partial acquittal on a greater offense], clarified in *People v. Marshall* (1996) 13 Cal.4th 799, 826 [55 Cal.Rptr.2d 347, 919 P.2d 1280] [no duty to inquire about partial acquittal in absence of indication jury may have found defendant not guilty of greater offense].)"
+      },
+      {
+        "text": "In *Stone v. Superior Court, supra,* 31 Cal.3d at p. 519, the Supreme Court suggested that the trial court provide the jury with verdict forms of guilty/not guilty on each of the charged and lesser offenses. The court later referred to this “as a judicially declared rule of criminal procedure.” (*People v. Kurtzman* (1988) 46 Cal.3d 322, 329 [250 Cal.Rptr. 244, 758 P.2d 572].) However, this is not a mandatory procedure. *(Ibid.)* If the court chooses not to follow the procedure suggested in *Stone,* the court may give this instruction. If the jury later declares that it is unable to reach a verdict on a lesser offense, then the court must provide the jury an opportunity to acquit on the greater offense. (*People v. Marshall, supra,* 13 Cal.4th at p. 826; *Stone v. Superior Court, supra,* 31 Cal.3d at p. 519.) In such cases, the court must give CALCRIM No. 642 and must provide the jury with verdict forms of guilty/not guilty for each offense. (*People v. Marshall, supra,* 13 Cal.4th at p. 826; *Stone v. Superior Court, supra,* 31 Cal.3d at p. 519.)"
+      },
+      {
+        "text": "The court should tell the jury it may not return a guilty verdict on a lesser included offense unless it has found the defendant not guilty of the greater offense. (*People v. Fields, supra,* 13 Cal.4th at pp. 310–311.) If the jury announces that it is deadlocked on the greater offense but, despite the court’s instructions, has returned a guilty verdict on the lesser included offense, the court should again instruct the jury that it may not convict of the lesser included offense unless it has found the defendant not guilty of the greater offense. (*Ibid.*) The court should direct the jury to reconsider the “lone verdict of conviction of the lesser included offense” in light of this instruction. (*Ibid.*; Pen. Code, § 1161.) If the jury is deadlocked on the greater offense but the court nevertheless records a guilty verdict on the lesser included offense and then discharges the jury, retrial on the greater offense will be barred. (*People v. Fields, supra,* 13 Cal.4th at p. 307; Pen. Code, § 1023.)"
+      },
+      {
+        "text": "If, after following the procedures required by *Fields*, the jury declares that it is deadlocked on the greater offense, then the prosecution must elect one of the following options: (1) the prosecutor may request that the court declare a mistrial on the greater offense without recording the verdict on the lesser offense, allowing the prosecutor to re-try the defendant for the greater offense; or (2) the prosecutor may ask the court to record the verdict on the lesser offense and to dismiss the greater offense, opting to accept the current conviction rather than re-try the defendant on the greater offense. (*People v. Fields, supra,* 13 Cal.4th at p. 311.)"
+      },
+      {
+        "text": "The court may not control the sequence in which the jury considers the various homicide offenses. (*People v. Kurtzman, supra,* 46 Cal.3d at pp. 322, 330.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Lesser Included Offenses-Duty to Instruct. Pen. Code, § 1159; *People v. Breverman, supra*, 19 Cal.4th at p. 162."
+      },
+      {
+        "text": "• Degree to Be Set by Jury. Pen. Code, § 1157; *People v. Avalos, supra*, 37 Cal.3d at p. 228; *People v. Dixon, supra*, 24 Cal.3d at p. 52."
+      },
+      {
+        "text": "• Reasonable Doubt as to Degree. Pen. Code, § 1097; *People v. Morse* (1964) 60 Cal.2d 631, 657 [36 Cal.Rptr. 201, 388 P.2d 33]; *People v. Dewberry, supra*, 51 Cal.2d at pp. 555–557."
+      },
+      {
+        "text": "• Conviction of Lesser Precludes Re-trial on Greater. Pen. Code, § 1023; *People v. Fields, supra*, 13 Cal.4th at pp. 309–310; *People v. Kurtzman, supra*, 46 Cal.3d at p. 329."
+      },
+      {
+        "text": "• Court May Ask Jury to Reconsider Conviction on Lesser Absent Finding on Greater. Pen. Code, § 1161; *People v. Fields, supra*, 13 Cal.4th at p. 310."
+      },
+      {
+        "text": "• Must Permit Partial Verdict of Acquittal on Greater. *People v. Marshall, supra*, 13 Cal.4th at p. 826; *Stone v. Superior Court, supra*, 31 Cal.3d at p. 519."
+      },
+      {
+        "text": "• Involuntary Manslaughter Not a Lesser Included Offense of Voluntary Manslaughter. *People v. Orr* (1994) 22 Cal.App.4th 780, 784–785 [27 Cal.Rptr.2d 553]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

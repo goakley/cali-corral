@@ -1,0 +1,95 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "200",
+  "title": "Duties of Judge and Jury",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      103,
+      105
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2008, December 2008, September 2019, April 2020",
+  "revision_legend": null,
+  "body": [
+    "Members of the jury, I will now instruct you on the law that applies to this case. [I will give you a copy of the instructions to use in the jury room.] [Each of you has a copy of these instructions to use in the jury room.] [The instructions that you receive may be printed, typed, or written by hand. Certain sections may have been crossed-out or added. Disregard any deleted sections and do not try to guess what they might have been. Only consider the final version of the instructions in your deliberations.]",
+    "You must decide what the facts are. It is up to all of you, and you alone, to decide what happened, based only on the evidence that has been presented to you in this trial.",
+    "You must not let bias, sympathy, prejudice, or public opinion influence your assessment of the evidence or your decision. Many people have assumptions and biases about or stereotypes of other people and may be unaware of them. You must not be biased in favor of or against any party, witness, attorney, defendant[s], or alleged victim because of his or her disability, gender, nationality, national origin, race or ethnicity, religion, gender identity, sexual orientation, [or] age (./,) [or socioeconomic status] (./,) [or ______ <insert any other impermissible form of bias>.]",
+    "You must follow the law as I explain it to you, even if you disagree with it. If you believe that the attorneys’ comments on the law conflict with my instructions, you must follow my instructions.",
+    "Pay careful attention to all of these instructions and consider them together. If I repeat any instruction or idea, do not conclude that it is more important than any other instruction or idea just because I repeated it.",
+    "Some words or phrases used during this trial have legal meanings that are different from their meanings in everyday use. These words and phrases will be specifically defined in these instructions. Please be sure to listen carefully and follow the definitions that I give you. Words and phrases not specifically defined in these instructions are to be applied using their ordinary, everyday meanings.",
+    "Some of these instructions may not apply, depending on your findings about the facts of the case. [Do not assume just because I give a particular instruction that I am suggesting anything about the facts.] After you have decided what the facts are, follow the instructions that do apply to the facts as you find them."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct that the jurors are the exclusive judges of the facts and that they are entitled to a copy of the written instructions when they deliberate. (Pen. Code, §§ 1093(f), 1137.) Although there is no sua sponte duty to instruct on the other topics described in this instruction, there is authority approving instruction on these topics."
+      },
+      {
+        "text": "In the first paragraph, select the appropriate bracketed alternative on written instructions. Penal Code section 1093(f) requires the court to give the jury a written copy of the instructions on request. The committee believes that the better practice is to always provide the jury with written instructions. If the court, in the absence of a jury request, elects not to provide jurors with written instructions, the court must modify the first paragraph to inform the jurors that they may request a written copy of the instructions."
+      },
+      {
+        "text": "Do not instruct a jury in the penalty phase of a capital case that they cannot consider sympathy. (*People v. Easley* (1982) 34 Cal.3d 858, 875–880 [196 Cal.Rptr. 309, 671 P.2d 813].) Instead of this instruction, CALCRIM 761 is the proper introductory instruction for the penalty phase of a capital case."
+      },
+      {
+        "text": "Do not give the bracketed sentence in the final paragraph if the court will be commenting on the evidence pursuant to Penal Code section 1127."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Copies of Instructions. Pen. Code, §§ 1093(f), 1137."
+      },
+      {
+        "text": "• Judge Determines Law. Pen. Code, §§ 1124, 1126; *People v. Como* (2002) 95 Cal.App.4th 1088, 1091 [115 Cal.Rptr.2d 922]; see *People v. Williams* (2001) 25 Cal.4th 441, 455 [106 Cal.Rptr.2d 295, 21 P.3d 1209]."
+      },
+      {
+        "text": "• Jury to Decide the Facts. Pen. Code, § 1127."
+      },
+      {
+        "text": "• Attorney’s Comments Are Not Evidence. *People v. Stuart* (1959) 168 Cal.App.2d 57, 60–61 [335 P.2d 189]."
+      },
+      {
+        "text": "• Consider All Instructions Together. *People v. Osband* (1996) 13 Cal.4th 622, 679 [55 Cal.Rptr.2d 26, 919 P.2d 640]; *People v. Rivers* (1993) 20 Cal.App.4th 1040, 1046 [25 Cal.Rptr.2d 602]; *People v. Shaw* (1965) 237 Cal.App.2d 606, 623 [47 Cal.Rptr. 96]."
+      },
+      {
+        "text": "• Follow Applicable Instructions. *People v. Palmer* (1946) 76 Cal.App.2d 679, 686–687 [173 P.2d 680]."
+      },
+      {
+        "text": "• No Bias, Sympathy, or Prejudice. Pen. Code, § 1127h; *People v. Hawthorne* (1992) 4 Cal.4th 43, 73 [14 Cal.Rptr.2d 133, 841 P.2d 118]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1185 [67 Cal.Rptr.3d 871]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Jury Misconduct"
+      },
+      {
+        "text": "It is error to instruct the jury to immediately advise the court if a juror refuses to deliberate or expresses an intention to disregard the law or to decide the case based on penalty, punishment, or any other improper basis. (*People v. Engelman* (2002) 28 Cal.4th 436, 449 [121 Cal.Rptr.2d 862, 49 P.3d 209].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,98 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2825",
+  "title": "Aiding in Preparation of False Tax Return (Rev. & Tax. Code, § 19705(a)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2049,
+      2051
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (aiding in[,]/[or] assisting in[,]/[or] procuring[,]/[or] counseling[,]/[or] advising) the (preparation/[or] presentation) of a (false/[or] fraudulent) (tax return[,]/[or] affidavit[,]/[or] claim[,]/[or other] document) [in violation of Revenue and Taxation Code section 19705(a)(2)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (aided in[,]/assisted in[,]/[or] procured[,]/[or] counseled[,]/[or] advised) the (preparation/[or] presentation) of a (tax return[,]/[or] affidavit[,]/[or] claim[,]/[or other] document) required under the (personal income/corporation) tax laws;",
+    "2. The (tax return[,]/[or] affidavit[,]/[or] claim[,]/[or other] document) contained a material statement that was (false/[or] fraudulent);",
+    "<See Bench Notes on element 3.>",
+    "[3. The defendant knew that the (tax return[,]/[or] affidavit[,]/[or] claim[,]/[or other] document) contained a (false/[or] fraudulent) statement;]",
+    "AND",
+    "(3/4). When the defendant acted, (he/she) did so voluntarily, with intent that a known legal duty would be violated.",
+    "A (false/[or] fraudulent) statement is *material* if a reasonable person would believe that it could influence the calculation or monitoring of the amount of tax owed. [Although the People must prove that the statement was material, the People do not have to prove that any additional tax was owed to the government.]",
+    "The People do not need to prove that the taxpayer, as opposed to the defendant, knew the (tax return[,]/[or] affidavit[,]/[or] claim[,]/[or other] document) contained a (false/[or] fraudulent) statement.",
+    "Someone *aids* in the (preparation/[or] presentation) of a (false/[or] fraudulent) (tax return[,]/[or] affidavit[,]/[or] claim[,]/[or other] document) if, before or during the (preparation/[or] presentation) of the document, he or she does something that encourages another person to (prepare/[or] present) the (false/[or] fraudulent) document. [The defendant does not need to personally prepare the document or even be present when the document is completed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The statute states that the defendant’s acts must be “willful.” (Rev. & Tax. Code, § 19705(a)(2).) As used in the tax code, “willful” means that the defendant must act “in voluntary, intentional violation of a known legal duty.” (*People v. Hagen* (1998) 19 Cal.4th 652, 666 [80 Cal.Rptr.2d 24, 967 P.2d 563].) The committee has chosen to use this description of the meaning of the term in place of the word “willful” to avoid confusion with other instructions that provide a different definition of “willful.”"
+      },
+      {
+        "text": "Element 3 contains a knowledge requirement. The statute does not specifically require that the defendant knew that the return contained false information. (Rev. & Tax. Code, § 19705(a)(2).) However, federal pattern jury instructions for the analogous federal crime (26 U.S.C., § 7206(2)) require that the defendant must have known that the document was false even though the federal statute also does not explicitly contain a knowledge requirement. (Pattern Jury Instructions of the District Judges Association of the Eleventh Circuit, Offense Instruction No. 95 (2003); Pattern Jury Instructions of the District Judges Association of the Fifth Circuit, Criminal Cases, Instruction No. 2.97 (2001); but see Pattern Jury Instructions of the Committee on Model Jury Instructions for the Ninth Circuit, Criminal Cases, Instruction No. 9.38 (2003) [knowledge not specifically required, defendant must assist in preparing “false” return].) Element 3 is included for the court to give at its discretion. The committee recommends that the court review current federal case law, as advised in *People v. Hagen* (1998) 19 Cal.4th 652 [80 Cal.Rptr.2d 24, 967 P.2d 563]."
+      },
+      {
+        "text": "In the definition of “material,” give the bracketed sentence beginning with “Although the People must prove that the statement was material” if requested. (*Edwards v. United States* (9th Cir. 1967) 375 F.2d 862, 865, overruled on other grounds in *United States v. Bishop* (1973) 412 U.S. 346, 351, fn. 3 [93 S.Ct. 2008, 36 L.Ed.2d 941]; see also *United States v. Ballard* (8th Cir. 1976) 535 F.2d 400, 404; Federal Jury Practice and Instructions, Criminal (5th ed.) §§ 67.15, 67.19.)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant had a good faith belief that his or her conduct was legal, the court has a sua sponte duty to give the instruction on this defense. (*People v. Hagen* (1998) 19 Cal.4th 652, 660 [80 Cal.Rptr.2d 24, 967 P.2d 563].) Give CALCRIM No. 2860, *Defense: Good Faith Belief Conduct Legal*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Rev. & Tax. Code, § 19705(a)(2)."
+      },
+      {
+        "text": "• Willful Requires Volitional Violation of Known Legal Duty. *People v. Hagen* (1998) 19 Cal.4th 652, 666 [80 Cal.Rptr.2d 24, 967 P.2d 563]."
+      },
+      {
+        "text": "• Material Defined. *People v. Hagen* (1998) 19 Cal.4th 652, 667–668 [80 Cal.Rptr.2d 24, 967 P.2d 563]."
+      },
+      {
+        "text": "• Aiding and Abetting. *United States v. Graham* (3d Cir. 1985) 758 F.2d 879, 885; *United States v. Buttorff* (8th Cir. 1978) 572 F.2d 619, 623."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Defendant Need Not Personally Prepare Document"
+      },
+      {
+        "text": "Federal courts have held that the analogous federal statute applies to individuals who counsel and advise the preparation of fraudulent documents. (*United States v. Clark* (5th Cir. 1998) 139 F.3d 485, 489–490; *United States v. Bryan* (5th Cir. 1990) 896 F.2d 68, 74.) The defendant need not personally prepare the document or even be present when the document is completed. (*United States v. Clark, supra,* 139 F.3d at pp. 489–490; *United States v. Bryan, supra,* 896 F.2d at p. 74; see also *United States v. Buttorff* (8th Cir. 1978) 572 F.2d 619, 623 [sufficient evidence of aiding where defendants lectured about antitax views to large groups].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

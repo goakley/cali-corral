@@ -1,0 +1,109 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1704",
+  "title": "Possession of Burglary Tools (Pen. Code, § 466)",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      88,
+      90
+    ]
+  },
+  "revision_line": "New September 2022; Revised October 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with possessing [a] burglary tool[s] [in violation of Penal Code section 466].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant possessed [a ](picklock[s][,]/[or ]crow[bar][s][,]/[or ]keybit[s][,]/[or ]screwdriver[s][,]/[or ]vise grip[s][,]/[or ]pliers[,]/[or ]water-pump pliers[,]/[or ]slidehammer[s][,]/[or ]slim jim[s][,]/[or ]tension bar[s][,]/[or ]lock pick gun[s][,]/[or ]tubular lock pick[s][,]/[or ]bump key[s][,]/[or ]floor-safe door puller[s][,]/[or ]master key[s][,]/[or ]ceramic or porcelain spark plug chips or pieces/[or] key (programming device/duplicating device)/[or] signal extender/[or] ______ <insert other instrument or tool>);",
+    "2. When the defendant possessed the (picklock[s][,]/[or ]crow[bar][s][,]/[or ]keybit[s][,]/[or ]screwdriver[s][,]/[or ]vise grip[s][,]/[or ]pliers[,]/[or ]water-pump pliers[,]/[or ]slidehammer[s][,]/[or ]slim jim[s][,]/[or ]tension bar[s][,]/[or ]lock pick gun[s][,]/[or ]tubular lock pick[s][,]/[or ]bump key[s][,]/[or ]floor-safe door puller[s][,]/[or ]master key[s][,]/[or ]ceramic or porcelain spark plug chips or pieces/[or] key (programming device/duplicating device)/[or] signal extender/[or] ______ <insert other instrument or tool>), (he/she) intended to use the item[s] to break or enter into a (building/railroad car/aircraft/vessel/trailer coach/vehicle);",
+    "AND",
+    "3. When the defendant possessed the (picklock[s][,]/[or ]crow[bar][s][,]/[or ]keybit[s][,]/[or ]screwdriver[s][,]/[or ]vise grip[s][,]/[or ]pliers[,]/[or ]water-pump pliers[,]/[or ]slidehammer[s][,]/[or ]slim jim[s][,]/[or ]tension bar[s][,]/[or ]lock pick gun[s][,]/[or ]tubular lock pick[s][,]/[or ]bump key[s][,]/[or ]floor-safe door puller[s][,]/[or ]master key[s][,]/[or ]ceramic or porcelain spark plug chips or pieces/[or ] key (programming device/duplicating device)/[or] signal extender/[or] ______ <insert other instrument or tool>), (he/she) intended to commit [a ] (theft/[or ] ______ <insert one or more felonies>) within a (building/railroad car/aircraft/vessel/trailer coach/vehicle).",
+    "[To decide whether the defendant intended to commit ______ <insert one or more felonies>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]",
+    "[The People allege that the defendant intended to commit ______ <insert one or more felonies>. You may not find the defendant guilty unless you all agree that (he/she) intended to commit one of those crimes when (he/she) possessed the item. You do not all have to agree on which one of those crimes (he/she) intended to commit.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[A *vehicle* is a device by which any person or property may be propelled, moved, or drawn upon a highway, except a device moved exclusively by human power or used exclusively upon stationary rails or tracks.]",
+    "[A *trailer coach* is a vehicle, other than a motor vehicle, designed for human habitation or human occupancy for industrial, professional, or commercial purposes, for carrying property on its own structure, and for being drawn by a motor vehicle.]",
+    "[An *aircraft* is a manned contrivance used or designed for navigation of, or flight in, the air requiring certification and registration as prescribed by federal statute or regulation.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Penal Code section 466 encompasses additional conduct. This instruction addresses only possession of burglary tools."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 466(a)."
+      },
+      {
+        "text": "• Intent Requirement. *In re H.W.* (2019) 6 Cal.5th 1068, 1076 [245 Cal.Rptr.3d 51, 436 P.3d 941]."
+      },
+      {
+        "text": "• Statute Prohibits Constructive Possession. *People v. Bay* (2019) 40 Cal.App.5th 126, 133 [253 Cal.Rptr.3d 26]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Barnes* (1997) 57 Cal.App.4th 552, 556 [67 Cal.Rptr.2d 162]."
+      },
+      {
+        "text": "• “Key Programming Device” or “Key Duplicating Device” Defined. Pen. Code, § 466(b)(1)."
+      },
+      {
+        "text": "• “Signal Extender” Defined. Pen. Code, § 466(b)(2)."
+      },
+      {
+        "text": "• “Vehicle” Defined. Veh. Code, § 670."
+      },
+      {
+        "text": "• “Trailer Coach” Defined. Veh. Code, § 635."
+      },
+      {
+        "text": "• “Aircraft” Defined. Public Utilities Code, § 21012."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Other Instrument or Tool"
+      },
+      {
+        "text": "In addition to items expressly listed as burglary tools in Penal Code section 466, the statute also contemplates a violation based on possession of some “other instrument or tool.” In *In re H.W., supra,* 6 Cal.5th at p. 1076, the California Supreme Court held that even if a nonenumerated item such as pliers qualified as an “other instrument or tool,” a person may not be convicted of violating Penal Code section 466 without “a showing that the defendant intended to use the instrument or tool possessed to break or effectuate physical entry into a structure in order to commit theft or a felony within the structure.” For example, in *In re H.W.*, pliers used to remove a security tag, rather than to enter the store, were found not to be a burglary tool."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New September 2022"
+  },
+  "supplement_status": "revised"
+}

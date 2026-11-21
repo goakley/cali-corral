@@ -1,0 +1,88 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2995",
+  "title": "Permitting Place to Be Used for Betting Activities (Pen. Code, § 337a(a)(5))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2158,
+      2159
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with permitting a place to be used for betting activities [in violation of Penal Code section 337a(a)(5)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant owned, rented, or occupied a place;",
+    "2. The defendant allowed the place to be used for (bookmaking[,]/[or] pool selling[,]/[or] recording [or registering] bets[,]/[or] receiving, holding, or forwarding bets);",
+    "AND",
+    "3. The defendant knew that the place was being used for that purpose.",
+    "As used here, a *place* means the whole or part of any (room[,]/[or] building[,]/[or] stand[,]/[or] shed[,]/[or] tenement[,]/[or] tent[,]/[or] booth[,]/[or] float[,]/[or] vessel[,]/[or] vehicle[,]/[or] enclosure) of any kind.",
+    "[*Bookmaking* includes the taking of bets, either orally or recorded in writing. The defendant does not need to be involved in betting as a business or occupation. The taking of one bet is sufficient.]",
+    "[*Pool selling* means selling or distributing shares or chances in a betting pool. The defendant does not need to be involved in selling or distributing shares or chances as a business or occupation. A single act that violates the statute is sufficient. [It is not necessary that the event that is the subject of a betting pool actually take place.]]",
+    "A *bet* is a wager or agreement between two or more people that if an uncertain future event happens, the loser will (pay money to the winner/[or] give the winner something of value). [A bet includes a wager made on the outcome of any actual or purported event, including but not limited to any kind of sporting contest [or ______ <insert description of event from Pen. Code, § 337a>.] [It is not necessary that the event that was bet on actually take place.]",
+    "[*Recording* [or registering] a bet means making a notation on paper, or using any other material or device, to allow winnings on the bet to be distributed in the future. [*Recording* [or registering] a bet does not require the type of registering or recording that occurs in a legitimate business establishment.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 337a(a)(5)."
+      },
+      {
+        "text": "• Knowledge Required. See *People v. Coppla* (1950) 100 Cal.App.2d 766, 768 [224 P.2d 828]."
+      },
+      {
+        "text": "• “Place” Applies to Vehicle. *People v. Roche* (1945) 68 Cal.App.2d 665, 669–670 [157 P.2d 440]."
+      },
+      {
+        "text": "• Bookmaking Defined. *People v. Thompson* (1962) 206 Cal.App.2d 734, 739 [24 Cal.Rptr. 101]; *People v. Fontes* (1970) 7 Cal.App.3d 650, 653–654 [86 Cal.Rptr. 790]; *People v. Bradford* (1949) 95 Cal.App.2d 372, 377–378 [213 P.2d 37]."
+      },
+      {
+        "text": "• Pool Selling Defined. *Finster v. Keller* (1971) 18 Cal.App.3d 836, 846 [96 Cal.Rptr. 241]; *People v. Coppla* (1950) 100 Cal.App.2d 766, 768 [224 P.2d 828]."
+      },
+      {
+        "text": "• Bet Defined. *People v. Oreck* (1946) 74 Cal.App.2d 215, 220 [168 P.2d 186]."
+      },
+      {
+        "text": "• Writing Not Required. Pen. Code, § 337a(a)(1); *People v. Burch* (1953) 118 Cal.App.2d 122, 124 [257 P.2d 44]."
+      },
+      {
+        "text": "• One Bet Sufficient. *People v. Buckman* (1960) 186 Cal.App.2d 38, 50 [8 Cal.Rptr. 765]."
+      },
+      {
+        "text": "• Event Need Not Occur. *People v. Ghio* (1927) 82 Cal.App. 28, 32–33 [255 P. 205]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

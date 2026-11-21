@@ -1,0 +1,112 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "947",
+  "title": "Simple Battery Against Military Personnel (Pen. Code, §§ 242, 243.10)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      759,
+      761
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with battery against a member of the United States Armed Forces [in violation of Penal Code section 243.10].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully [and unlawfully] touched ______ <insert name of complaining witness> in a harmful or offensive manner;",
+    "2. ______ <insert name of complaining witness> was a member of the United States Armed Forces at the time of the touching;",
+    "[AND]",
+    "3. The defendant knew ______ <insert name of complaining witness> was a member of the United States Armed Forces and touched ______ <insert name of complaining witness> in a harmful or offensive manner because of ______ <insert name of complaining witness>’s service(;/.)",
+    "<Give element 4 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "4. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The slightest touching can be enough to commit a battery if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "A ______ <insert description, e.g., “private in the United States Army”> is a member of the United States Armed Forces.",
+    "A person commits a battery *because of* someone’s service in the armed forces if:",
+    "1. He or she is biased against the person battered based on that person’s military service;",
+    "AND",
+    "2. That bias caused him or her to commit the alleged battery.",
+    "If the defendant had more than one reason to commit the alleged battery, the bias described here must have been a substantial motivating factor. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that motivated the battery."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a member of the armed forces. (See *People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “member of the armed forces.” However, the court may not instruct the jury that the alleged victim was a member of the armed forces as a matter of law. *(Ibid.)*"
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of this crime. (See *People v. Valenti* (2016) 243 Cal.App.4th 1140, 1165 [197 Cal.Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 242, 243.10."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7, subd. 1; *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• Contact With Object Held in Another Person’s Hand May Constitute Touching. *In re B.L.* (2015) 239 Cal.App.4th 1491, 1495–1497 [192 Cal.Rptr.3d 154]."
+      },
+      {
+        "text": "• Hitting a Vehicle Occupied by Another Person May Constitute Touching. *People v. Dealba* (2015) 242 Cal.App.4th 1142, 1144, 1153 [195 Cal.Rptr.3d 848]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240. • Simple Battery. Pen. Code, §§ 242, 243(a)."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 960, *Simple Battery*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

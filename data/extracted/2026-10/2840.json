@@ -1,0 +1,93 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2840",
+  "title": "Evidence of Uncharged Tax Offense: Failed to File Previous Returns",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2061,
+      2062
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The People presented evidence that the defendant (may have/did) not file [d] [a] tax return[s] for [a] year[s] not charged in this case.",
+    "You may consider this evidence only if the People have proved by a preponderance of the evidence that the defendant did not file [a] tax return[s] for (that/those) year[s]. Proof by a preponderance of the evidence is a different standard of proof from proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that it is more likely than not that the fact is true.",
+    "If the People have not met this burden, you must disregard this evidence entirely.",
+    "If you conclude that the defendant did not file [a] tax return[s] for (that/those) year[s], you may, but are not required to, consider that evidence for the limited purpose of deciding whether:",
+    "<A. Intent>",
+    "[The defendant acted with the intent to ______ <insert specific intent required to prove the offense alleged> in this case](./;)",
+    "[OR]",
+    "<B. Accident or Mistake>",
+    "[The defendant’s alleged actions were not the result of mistake or accident.]",
+    "Do not consider this evidence for any other purpose [except for the limited purpose of ______ <insert other permitted purpose, e.g., determining the defendant’s credibility>].",
+    "If you conclude that the defendant did not file [a] tax return[s] for (that/those) year[s], that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of ______ <insert charged offense>. The People must still prove (the/each) (charge/[and] allegation) beyond a reasonable doubt.",
+    "[Do not conclude from this evidence that the defendant has a bad character or is disposed to commit crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must give this instruction on request when evidence of other offenses has been introduced under Evidence Code section 1101(b). (Evid. Code, § 1101(b); *People v. Carpenter* (1997) 15 Cal.4th 312, 382 [63 Cal.Rptr.2d 1, 935 P.2d 708]; *People v. Collie* (1981) 30 Cal.3d 43, 63–64 [177 Cal.Rptr. 458, 634 P.2d 534].)"
+      },
+      {
+        "text": "Evidence of the failure of the defendant to file tax returns in previous years may be admitted as evidence of prior illegal acts tending to show intent or lack of accident or mistake. (*United States v. Fingado* (10th Cir. 1991) 934 F.2d 1163, 1165–1166.)"
+      },
+      {
+        "text": "The court must identify for the jury what issue the evidence has been admitted for: to prove mental state, to prove lack of accident or mistake, or to prove both."
+      },
+      {
+        "text": "The paragraph that begins with “If you conclude that the defendant did not file” has been included to prevent jury confusion over the standard of proof. (See *People v. Reliford* (2003) 29 Cal.4th 1007, 1012–1013 [130 Cal.Rptr.2d 254, 62 P.3d 601] [instruction on Evidence Code section 1108 evidence sufficient where it advised jury that prior offense alone not sufficient to convict; prosecution still required to prove all elements beyond a reasonable doubt].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 375, *Evidence of Uncharged Offenses to Prove Identity, Intent, or Common Plan, etc*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Evidence of Prior Uncharged Acts. Evid. Code, § 1101(b)."
+      },
+      {
+        "text": "• Standard of Proof Preponderance of Evidence. *People v. Carpenter, supra*, 15 Cal.4th at p. 382."
+      },
+      {
+        "text": "• Previous Failure to File Tax Returns. *United States v. Fingado, supra*, 934 F.2d at pp. 1165–1166."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See Bench Notes and Related Issues section in CALCRIM No. 375, *Evidence of Uncharged Offenses of Prove Identity, Intent, or Common Plan, etc*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

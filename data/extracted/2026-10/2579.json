@@ -1,0 +1,112 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2579",
+  "title": "Possession of Materials to Make Destructive Device or Explosive (Pen. Code, § 18720)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1834,
+      1836
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully possessing a (substance[,]/[or] material[,]/[or] combination of substances and materials) with the intent to make (an explosive/[or] a destructive device) [in violation of Penal Code section 18720].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant possessed a (substance[,]/[or] material[,]/[or] combination of substances and materials);",
+    "AND",
+    "2. When the defendant possessed (that/those) item[s], (he/she) intended to make (an explosive/[or] a destructive device).",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) which is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is also any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type of explosive from Health & Saf. Code, § 12000> is an *explosive*.]",
+    "[A *destructive device* is ______ <insert definition from Pen. Code, § 16460>.]",
+    "[______ <insert type of destructive device from Pen. Code, § 16460> is a *destructive device*.]",
+    "[The term[s] (*explosive/*[and] *destructive device*) (is/are) defined in another instruction.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "<Defense: Permit>",
+    "[The defendant did not unlawfully possess a (substance[,]/[or] material[,]/[or] combination of substances and materials) if (he/she) had a valid permit to make (an explosive/[or] a destructive device). The People have the burden of proving beyond a reasonable doubt that the defendant did not have a valid permit to make (an explosive/[or] a destructive device). If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Depending on the device or substance used, give the bracketed definitions of “explosive” or “destructive device,” inserting the appropriate definition from Penal Code section 16460, unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere. If the case involves a specific device listed in Health and Safety Code section 12000 or Penal Code section 16460, the court may instead give the bracketed sentence stating that the listed item “is an explosive” or “is a destructive device.” For example, “A grenade is a destructive device.” However, the court may not instruct the jury that the defendant used a destructive device. For example, the court may not state that “the defendant used a destructive device, a grenade,” or “the device used by the defendant, a grenade, was a destructive device.” (*People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257].)"
+      },
+      {
+        "text": "If the device used is a bomb, the court may insert the word “bomb” in the bracketed definition of destructive device without further definition. (*People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) Appellate courts have held that the term “bomb” is not vague and is understood in its “common, accepted, and popular sense.” (*People v. Quinn* (1976) 57 Cal.App.3d 251, 258 [129 Cal.Rptr. 139]; *People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) If the court wishes to define the term “bomb,” the court may use the following definition: “A bomb is a device carrying an explosive charge fused to blow up or detonate under certain conditions.” (See *People v. Morse* (1992) 2 Cal.App.4th 620, 647, fn. 8 [3 Cal.Rptr.2d 343].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The existence of a valid permit is an affirmative defense to a violation of Penal Code section 18720. (*People v. Yoshimura* (1979) 91 Cal.App.3d 609, 627–629 [154 Cal.Rptr. 314] [discussing repealed Penal Code section 12312].) The defendant bears the burden of producing evidence of a valid permit. If there is sufficient evidence to raise a reasonable doubt about the existence of a permit, the court has a sua sponte duty to give the bracketed instruction on the defense. (See *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067] [discussing affirmative defenses generally and the burden of proof].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 18720."
+      },
+      {
+        "text": "• Explosive Defined. Health & Saf. Code, § 12000."
+      },
+      {
+        "text": "• Destructive Device Defined. Pen. Code, § 16460."
+      },
+      {
+        "text": "• Permit Exemption. Pen. Code, § 18900; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 627–628 [154 Cal.Rptr. 314]."
+      },
+      {
+        "text": "• Substance or Material. *People v. Yoshimura* (1976) 62 Cal.App.3d 410, 415 [133 Cal.Rptr. 228]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. See *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6 [98 Cal.Rptr.2d 466, 4 P.3d 297]; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 619 [154 Cal.Rptr. 314]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "“Substance” or “Material” Not Unconstitutionally Vague"
+      },
+      {
+        "text": "[Now-repealed] Section 12312 provides that possession of a “substance” or “material” is punishable only if the possession is with the specific intent to make a destructive device or explosive . . . . When the statute is thus read as a whole, the vagueness of the meaning of “substance” and “material” is eliminated, and the terms are seen to refer to constituent or necessary items in the construction of nonlicensed destructive devices and explosives."
+      },
+      {
+        "text": "(*People v. Yoshimura* (1976) 62 Cal.App.3d 410, 415 [133 Cal.Rptr. 228].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

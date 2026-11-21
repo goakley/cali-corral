@@ -1,0 +1,79 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1752",
+  "title": "Owning or Operating a Chop Shop (Veh. Code, § 10801)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1239,
+      1240
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with owning or operating a chop shop [in violation of Vehicle Code section 10801].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant knew that (he/she) (owned/[or] operated) a chop shop;",
+    "AND",
+    "2. The defendant intentionally (owned/[or] operated) the chop shop.",
+    "A *chop shop* is a building, lot, or other place where:",
+    "1. A person alters, destroys, takes apart, reassembles, or stores a motor vehicle or motor vehicle part;",
+    "2. That person knows that the vehicle or part has been obtained by theft, fraud, or conspiracy to defraud;",
+    "AND",
+    "3. That person knows that the vehicle or part was obtained in order to either:",
+    "a. Sell or dispose of the vehicle or part;",
+    "a. OR",
+    "b. Alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity, including an identification number, of the vehicle or part, in order to misrepresent its identity or prevent its identification."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    35.0,
+    35.0,
+    34.3
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 10801."
+      },
+      {
+        "text": "• Chop Shop Defined. Veh. Code, § 250."
+      },
+      {
+        "text": "• Meaning of “Operate.” *People v. Ramirez* (2000) 79 Cal.App.4th 408, 414–415 [94 Cal.Rptr.2d 76]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Receiving Stolen Property. Pen. Code, § 496. There is a split in authority on this issue. *People v. Sanchez* (2003) 113 Cal.App.4th 325, 333–334 [6 Cal.Rptr.3d 271] concluded that receiving stolen property is a lesser included offense, but a defendant may be convicted of both offenses when different property is involved in the two convictions. However, *People v. Strohman* (2000) 84 Cal.App.4th 1313, 1316 [101 Cal.Rptr.2d 520], reached the opposite conclusion."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

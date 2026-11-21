@@ -1,0 +1,87 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1602",
+  "title": "Robbery: Degrees (Pen. Code, § 212.5)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1203,
+      1204
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2015",
+  "revision_legend": null,
+  "body": [
+    "Robbery is divided into two degrees. If you conclude that the defendant committed a robbery, you must then decide the degree.",
+    "To prove that the defendant is guilty of first degree robbery, the People must prove that:",
+    "[The robbery was committed in an inhabited (dwelling/vessel/floating home/trailer coach/part of a building). A (dwelling/vessel/floating home/trailer coach/part of a building) is inhabited if someone lives there and either is present or has left but intends to return.]",
+    "[The robbery was committed while the person robbed was using or had just used an ATM machine and was still near the machine.]",
+    "[The robbery was committed while the person robbed was performing (his/her) duties as the driver of or was a passenger on (a/an) (bus/taxi/cable car/streetcar/trackless trolley/______ <other kind of vehicle used to transport people>).]",
+    "All other robberies are of the second degree.",
+    "The People have the burden of proving beyond a reasonable doubt that the robbery was first degree rather than a lesser crime. If the People have not met this burden, you must find the defendant not guilty of first degree robbery."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction if first degree robbery has been charged, or if the prosecution is seeking a first degree conviction based on the facts. Give one of the three bracketed paragraphs defining the elements of first degree robbery."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Determination of Degrees. Pen. Code, § 212.5."
+      },
+      {
+        "text": "• Floating Home Defined. Health & Saf. Code, § 18075.55(d)."
+      },
+      {
+        "text": "• Trailer Coach Defined. Veh. Code, § 635; Health & Saf. Code, § 18009.3."
+      },
+      {
+        "text": "• Vessel Defined. Harb. & Nav. Code, § 21."
+      },
+      {
+        "text": "• Inhabitation. *People v. Jackson* (1992) 6 Cal.App.4th 1185, 1188 [8 Cal.Rptr.2d 239]."
+      },
+      {
+        "text": "• Inhabited Jail Cell. *People v. McDade* (1991) 230 Cal.App.3d 118, 127–128 [280 Cal.Rptr. 912]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Hotel Room"
+      },
+      {
+        "text": "A hotel room is an “inhabited dwelling house” for purposes of first degree robbery. (*People v. Fleetwood* (1985) 171 Cal.App.3d 982, 987–988 [217 Cal.Rptr. 612].)"
+      },
+      {
+        "heading": true,
+        "text": "Robbery in One’s Own Residence"
+      },
+      {
+        "text": "A robbery committed in one’s own residence is still first degree robbery. (Pen. Code, § 212.5; *People v. Alvarado* (1990) 224 Cal.App.3d 1165, 1169 [274 Cal.Rptr. 452] [defendant robbed two salesmen after bringing them back to his hotel room]; *People v. McCullough* (1992) 9 Cal.App.4th 1298, 1300 [12 Cal.Rptr.2d 341].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,116 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2700",
+  "title": "Violation of Court Order (Pen. Code, § 166(a)(4) & (b)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1961,
+      1963
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with violating a court order [in violation of Penal Code section 166].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. A court [lawfully] issued a written order that the defendant ______ <insert description of order>;",
+    "2. The defendant knew about the court order and its contents;",
+    "3. The defendant had the ability to follow the court order;",
+    "AND",
+    "4. The defendant willfully violated the court order.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "[The People must prove that the defendant knew about the court order and that (he/she) had the opportunity to read the order or to otherwise become familiar with what it said. But the People do not have to prove that the defendant actually read the court order.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In order for a defendant to be guilty of violating Penal Code section 166(a)(4), the court order must be “lawfully issued.” (Pen. Code, § 166(a)(4); *People v. Gonzalez* (1996) 12 Cal.4th 804, 816–817 [50 Cal.Rptr.2d 74, 910 P.2d 1366].) The defendant may not be convicted for violating an order that is unconstitutional, and the defendant may bring a collateral attack on the validity of the order as a defense to this charge. (*People v. Gonzalez, supra,* 12 Cal.4th at pp. 816–818; *In re Berry* (1968) 68 Cal.2d 137, 147 [65 Cal.Rptr. 273, 436 P.2d 273].) The defendant may raise this issue on demurrer but is not required to. (*People v. Gonzalez, supra,* 12 Cal.4th at pp. 821, 824; *In re Berry, supra,* 68 Cal.2d at p. 146.) The legal question of whether the order was lawfully issued is the type of question normally resolved by the court. (*People v. Gonzalez, supra,* 12 Cal.4th at pp. 816–820; *In re Berry, supra,* 68 Cal.2d at p. 147.) If, however, there is a factual issue regarding the lawfulness of the court order and the trial court concludes that the issue must be submitted to the jury, give the bracketed word “lawfully” in element 1. The court must also instruct on the facts that must be proved to establish that the order was lawfully issued."
+      },
+      {
+        "text": "Penal Code section 166(b)(1) provides for an increased sentence if the defendant was previously convicted of stalking and violated a court order “by willfully contacting a victim by phone or mail, or directly.” If the prosecution alleges this factor, in element 1, the court should state that the court ordered the defendant “not to contact ______ <insert name of victim in stalking case> directly, by phone, or by mail,” or something similar. The jury must also determine if the prior conviction has been proved unless the defendant stipulates to the truth of the prior. (See CALCRIM Nos. 3100–3103 on prior convictions.)"
+      },
+      {
+        "text": "If the prosecution alleges that the defendant violated a protective order in a case involving domestic violence (Pen. Code, §§ 166(c)(1), 273.6), do not use this instruction. Give CALCRIM No. 2701, *Violation of Court Order: Protective Order or Stay Away*."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “The People must prove that the defendant knew” on request. (*People v. Poe* (1965) 236 Cal.App.2d Supp. 928, 938–941 [47 Cal.Rptr. 670]; *People v. Brindley* (1965) 236 Cal.App.2d Supp. 925, 927–928 [47 Cal.Rptr. 668], both decisions affd. *sub nom. People v. Von Blum* (1965) 236 Cal.App.2d Supp. 943 [47 Cal.Rptr. 679].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 166(a)(4) & (b)(1)."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Order Must Be Lawfully Issued. Pen. Code, § 166(a)(4); *People v. Gonzalez* (1996) 12 Cal.4th 804, 816–817 [50 Cal.Rptr.2d 74, 910 P.2d 1366]; *In re Berry* (1968) 68 Cal.2d 137, 147 [65 Cal.Rptr. 273, 436 P.2d 273]."
+      },
+      {
+        "text": "• Knowledge of Order Required. *People v. Saffell* (1946) 74 Cal.App.2d Supp. 967, 979 [168 P.2d 497]."
+      },
+      {
+        "text": "• Proof of Service Not Required. *People v. Saffell* (1946) 74 Cal.App.2d Supp. 967, 979 [168 P.2d 497]."
+      },
+      {
+        "text": "• Must Have Opportunity to Read but Need Not Actually Read Order. *People v. Poe* (1965) 236 Cal.App.2d Supp. 928, 938–941 [47 Cal.Rptr. 670]; *People v. Brindley* (1965) 236 Cal.App.2d Supp. 925, 927–928 [47 Cal.Rptr. 668], both decisions affd. *sub nom. People v. Von Blum* (1965) 236 Cal.App.2d Supp. 943 [47 Cal.Rptr. 679]."
+      },
+      {
+        "text": "• Ability to Comply With Order. *People v. Greenfield* (1982) 134 Cal.App.3d Supp. 1, 4 [184 Cal.Rptr. 604]."
+      },
+      {
+        "text": "• General-Intent Offense. *People v. Greenfield* (1982) 134 Cal.App.3d Supp. 1, 4 [184 Cal.Rptr. 604]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Violation of Order to Pay Support—Court May Suspend Proceedings"
+      },
+      {
+        "text": "If the defendant is charged with violating Penal Code section 166(a)(4) based on a failure to pay child, spousal, or family support, the court may suspend criminal proceedings if the defendant acknowledges his or her obligation to pay and posts a bond or other surety. (Pen. Code, § 166.5.)"
+      },
+      {
+        "heading": true,
+        "text": "Person Not Directly Bound by Order"
+      },
+      {
+        "text": "A person who is not directly bound by a court order may nevertheless violate Penal Code section 166(a)(4) if he or she acts in concert with a person who is directly bound by the order. (*People v. Saffell* (1946) 74 Cal.App.2d Supp. 967, 978–979 [168 P.2d 497]; *Berger v. Superior Court* (1917) 175 Cal. 719, 721 [167 P. 143].) “[A] nonparty to an injunction is subject to the contempt power of the court when, with knowledge of the injunction, the nonparty violates its terms *with or for* those who are restrained.” (*People v. Conrad* (1997) 55 Cal.App.4th 896, 903 [64 Cal.Rptr.2d 248] [italics in original].) The mere fact that the nonparty shares the same purpose as the restrained party is not sufficient. *(Ibid.)* “An enjoined party . . . has to be demonstrably implicated in the nonparty’s activity.” *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "Violating Condition of Probation"
+      },
+      {
+        "text": "A defendant may not be prosecuted under Penal Code section 166(a)(4) for violating a condition of probation. (*People v. Johnson* (1993) 20 Cal.App.4th 106, 109 [24 Cal.Rptr.2d 628].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

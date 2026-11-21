@@ -1,0 +1,187 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "830",
+  "title": "Abuse of Elder or Dependent Adult Likely to Produce Great Bodily Harm or Death (Pen. Code, § 368(b)(1))",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      31,
+      35
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017, October 2025, October 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (elder/dependent adult) abuse likely to produce great bodily harm or death [in violation of Penal Code section 368(b)(1)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative A—inflicted pain>",
+    "[1. The defendant willfully inflicted unjustifiable physical pain or mental suffering on ______ <insert name or description of elder or dependent adult>;]",
+    "<Alternative B—caused or permitted to suffer pain>",
+    "[1. The defendant willfully caused or permitted ______ <insert name or description of elder or dependent adult> to suffer unjustifiable physical pain or mental suffering;]",
+    "<Alternative C—while having custody, caused or permitted to be injured>",
+    "[1. The defendant, while having care or custody of ______ <insert name or description of elder or dependent adult> willfully caused or permitted (his/her) person or health to be injured;]",
+    "<Alternative D—while having custody, caused or permitted to be placed in danger>",
+    "[1. The defendant, while having care or custody of ______ <insert name or description of elder or dependent adult> willfully caused or permitted (him/her) to be placed in a situation where (his/her) person or health was endangered;]",
+    "2. The defendant (inflicted suffering on ______ <insert name or description of elder or dependent adult>/[or] caused or permitted ______ <insert name of elder or dependent adult> to (suffer/[or] be injured/[or] be endangered)) under circumstances or conditions likely to produce great bodily harm or death;",
+    "3. ______ <insert name or description of elder or dependent adult> (is/was) (an elder/a dependent adult)(;/.)",
+    "[AND]",
+    "4. When the defendant acted, (he/she) knew or reasonably should have known that ______ <insert name or description of elder or dependent adult> was (an elder/a dependent adult)(;/.)",
+    "<Give element 5 when giving alternative 1B and it is alleged the defendant permitted the suffering.>",
+    "[AND]",
+    "[5. The defendant had a legal duty to supervise and control the conduct of the person[s] who caused or inflicted unjustifiable physical pain or mental suffering on ______ <insert name or description of elder or dependent adult>, but failed to supervise or control that conduct(;/.)]",
+    "<Give element 6 when giving alternative 1B, 1C, or 1D.>",
+    "[AND",
+    "6. The defendant was criminally negligent when (he/she) caused or permitted ______ <insert name or description of elder or dependent adult> to (suffer/[or] be injured/[or] be endangered).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "*Great bodily harm* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "[An *elder* is someone who is at least 65 years old.]",
+    "[A *dependent adult* is someone who is between 18 and 64 years old and has physical or mental limitations that restrict his or her ability to carry out normal activities or to protect his or her rights. [This definition includes an adult who has physical or developmental disabilities or whose physical or mental abilities have decreased because of age.] [A *dependent adult* is also someone between 18 and 64 years old who is an inpatient in a (health facility/psychiatric health facility/[or] chemical dependency recovery hospital).]",
+    "[*Unjustifiable* physical pain or mental suffering is pain or suffering that is not reasonably necessary or is excessive under the circumstances.]",
+    "[A person who does not have care or custody of (an elder/a dependent adult) may still have a *legal duty to supervise and control the conduct of a third person* who can inflict abuse on the (elder/dependent adult) if the person has a special relationship with the third person. A special relationship is created, for example, when (1) a person takes charge of a third person whom (he/she) knows or should know is likely to cause bodily harm to others if not controlled, and (2) the person has the ability to control the third person’s conduct.]",
+    "[*Criminal negligence* involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with criminal negligence when:",
+    "1. He or she acts in a reckless way that creates a high risk of death or great bodily harm;",
+    "AND",
+    "2. A reasonable person would have known that acting in that way would create such a risk.",
+    "In other words, a person acts with criminal negligence when the way he or she acts is so different from the way an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act.]",
+    "[(An elder/A dependent adult) does not need to actually suffer great bodily harm. But if (an elder/a dependent adult) does suffer great bodily harm, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed the offense.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give element 1A if it is alleged that the defendant directly inflicted unjustifiable physical pain or mental suffering. Give element 1B if it is alleged that the defendant caused or permitted an elder or dependent adult to suffer. If it is alleged that the defendant had care or custody of an elder or dependent adult and that the defendant caused or permitted the elder’s or dependent adult’s person or health to be injured, give element 1C. Finally, give element 1D if it is alleged that the defendant had care or custody of an elder or dependent adult and that the defendant endangered the elder’s or dependent adult’s person or health. (See Pen. Code, § 368(b)(1).)"
+      },
+      {
+        "text": "Give bracketed element 5 if it is alleged under element 1B that the defendant *permitted* an elder or dependent adult to suffer unjustifiable pain or mental suffering. (See *People v. Heitzman* (1994) 9 Cal.4th 189, 212 [37 Cal.Rptr.2d 236, 886 P.2d 1229].) If element 5 is given, also give the bracketed paragraph defining who has a “legal duty to control the conduct of a third person.”"
+      },
+      {
+        "text": "Give bracketed element 6 regarding criminal negligence, and the bracketed definition of “criminally negligent,” if element 1B, 1C, or 1D is given alleging that the defendant committed any indirect act. (*People v. Manis* (1992) 10 Cal.App.4th 110, 114 [12 Cal.Rptr.2d 619], disapproved on other grounds by *People v. Heitzman* (1994) 9 Cal.4th 189, 212 [37 Cal.Rptr.2d 236, 886 P.2d 1229]; *People v. Superior Court (Holvey)* (1988) 205 Cal.App.3d 51, 60 [252 Cal.Rptr. 335], disapproved on other grounds by *People v. Heitzman, supra,* 9 Cal.4th at p. 212; see *People v. Valdez* (2002) 27 Cal.4th 778, 788, 789 [118 Cal.Rptr.2d 3, 42 P.3d 511]; *People v. Peabody* (1975) 46 Cal.App.3d 43, 48–49 [119 Cal.Rptr. 780] [latter two cases in context of parallel child abuse statute].)"
+      },
+      {
+        "text": "Give the bracketed definition of “elder” or “dependent adult” depending on the status of the alleged victim. (See Pen. Code, § 368(g) & (h).)"
+      },
+      {
+        "text": "Give on request the bracketed definition of “unjustifiable” physical pain or mental suffering if there is a question about the necessity for or the degree of pain or suffering. (See *People v. Curtiss* (1931) 116 Cal.App. Supp. 771, 779–780 [300 P. 801].)"
+      },
+      {
+        "text": "If there is a question whether an elder or dependent adult suffered great bodily harm, give on request the bracketed paragraph stating that a person “does not need to actually suffer great bodily harm.” (See *People v. Cortes* (1999) 71 Cal.App.4th 62, 80 [83 Cal.Rptr.2d 519]; *People v. Jaramillo* (1979) 98 Cal.App.3d 830, 835 [159 Cal.Rptr. 771] [in context of parallel child abuse statute].)"
+      },
+      {
+        "text": "If a victim actually suffers great bodily injury or dies, the defendant’s sentence may be enhanced based on the victim’s age. (See Pen. Code, § 368(b)(2) & (3); see *People v. Adams* (2001) 93 Cal.App.4th 1192, 1198 [113 Cal.Rptr.2d 722].) Give CALCRIM No. 3162, *Great Bodily Injury: Age of Victim*, or any other appropriate instructions on enhancements. (See series 3100–3399.)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 368(b)(1)."
+      },
+      {
+        "text": "• “Great Bodily Harm or Injury” Defined. Pen. Code, §§ 368(b)(2), 12022.7(f); see *People v. Cortes, supra,* 71 Cal.App.4th at p. 80 [in context of parallel child abuse statute]."
+      },
+      {
+        "text": "• “Care” and “Custody” Have Ordinary Meanings. *People v. Molina* (2025) 114 Cal.App.5th 1059, 1063 [337 Cal.Rptr.3d 435]."
+      },
+      {
+        "text": "• Sentence Enhancements. Pen. Code, § 368(b)(2) & (3); see *People v. Adams, supra,* 93 Cal.App.4th at p. 1198."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); see *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]; *People v. Vargas* (1988) 204 Cal.App.3d 1455, 1462, 1468–1469 [251 Cal.Rptr. 904]."
+      },
+      {
+        "text": "• Criminal Negligence Required for Indirect Conduct. *People v. Manis, supra,* 10 Cal.App.4th at p. 114; *People v. Superior Court (Holvey)* (1988) 205 Cal.App.3d 51, 60 [252 Cal.Rptr. 335]; see *People v. Valdez, supra,* 27 Cal.4th at pp. 788–789; *People v. Peabody, supra,* 46 Cal.App.3d at p. 47, pp. 48–49 [in context of parallel child abuse statute]."
+      },
+      {
+        "text": "• Duty to Control Conduct of Person Inflicting Abuse. *People v. Heitzman, supra,* 9 Cal.4th at p. 212."
+      },
+      {
+        "text": "• General Criminal Intent Required for Direct Infliction of Pain or Suffering. See *People v. Sargent* (1999) 19 Cal.4th 1206, 1224 [81 Cal.Rptr.2d 835, 970 P.2d 409] [in context of parallel child abuse statute]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Any violation of Penal Code section 368(b)(1) must be willful. (See *People v. Smith* (1984) 35 Cal.3d 798, 806 [201 Cal.Rptr. 311, 678 P.2d 886]; *People v. Cortes, supra,* 71 Cal.App.4th at p. 80 [both in context of parallel child abuse statute]; but see *People v. Valdez, supra,* 27 Cal.4th at p. 789 [the prong punishing a *direct infliction* of unjustifiable physical pain or mental suffering does not expressly require that the conduct be willful].) Following *Smith* and *Cortes,* the committee has included “willfully” in element 1A regarding direct infliction of abuse until there is further guidance from the courts."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Abuse of Elder or Dependent Adult. Pen. Code, §§ 664, 368(b)(1)."
+      },
+      {
+        "text": "• Misdemeanor Abuse of Elder or Dependent Adult. Pen. Code, § 368(c)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Care or Custody"
+      },
+      {
+        "text": "“The terms ‘care or custody’ do not imply a familial relationship but only a willingness to assume duties correspondent to the role of a caregiver.” (See *People v. Toney* (1999) 76 Cal.App.4th 618, 621–622 [90 Cal.Rptr.2d 578] [quoting *People v. Cochran* (1998) 62 Cal.App.4th 826, 832 [73 Cal.Rptr.2d 257]; both in context of parallel child abuse statute]; see also *People v. Molina, supra,* 114 Cal.App.5th at p. 1070 [nurse responsible for assessing victim for hospice care].)"
+      },
+      {
+        "heading": true,
+        "text": "Unanimity"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on unanimity when the prosecution has presented evidence of multiple acts to prove a single count. (*People v. Russo* (2001) 25 Cal.4th 1124, 1132 [108 Cal.Rptr.2d 436, 25 P.3d 641].) However, the court does not have to instruct on unanimity if the offense constitutes a “continuous course of conduct.” (*People v. Napoles* (2002) 104 Cal.App.4th 108, 115–116 [127 Cal.Rptr.2d 777].) Elder abuse may be a continuous course of conduct or a single, isolated incident. (*People v. Rae* (2002) 102 Cal.App.4th 116, 123 [125 Cal.Rptr.2d 312].) The court should carefully examine the statute charged, the pleadings, and the evidence presented to determine whether the offense constitutes a continuous course of conduct. (*People v. Napoles, supra,* 104 Cal.App.4th at pp. 115–116.) See generally CALCRIM No. 3500, *Unanimity*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised March 2017, October 2025"
+  },
+  "supplement_status": "revised"
+}

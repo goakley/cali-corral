@@ -1,0 +1,179 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "840",
+  "title": "Inflicting Injury on Spouse, Cohabitant, or Fellow Parent Resulting in Traumatic Condition (Pen. Code, § 273.5(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      636,
+      639
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, August 2012, August 2014, February 2015, February 2016, March 2018, October 2021, February 2025, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with inflicting an injury on (the/a) [defendant’s [former]] (spouse/cohabitant/fiancé/parent of the defendant’s child/person with whom the defendant has, or previously had, an engagement or dating relationship) that resulted in a traumatic condition [in violation of Penal Code section 273.5(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully [and unlawfully] inflicted a physical injury on (the/a) [defendant’s [former]] (spouse/cohabitant/fiancé/parent of the defendant’s child/person with whom the defendant has, or previously had, an engagement or dating relationship);",
+    "[AND]",
+    "2. The injury inflicted by the defendant resulted in a traumatic condition.",
+    "<Give element 3 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "3. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "A *traumatic condition* means a condition of the body—such as a wound, external injury, or internal injury[, including injury as a result of strangulation or suffocation]—whether of a minor or serious nature, caused by a physical force. [*Strangulation* and *suffocation* include impeding the normal breathing or circulation of the blood by applying pressure on the throat or neck.]",
+    "[The term *cohabitants* means two unrelated persons living together for a substantial period of time, resulting in some permanency of the relationship. Factors that may determine whether people are cohabiting include, but are not limited to, (1) sexual relations between the parties while sharing the same residence, (2) sharing of income or expenses, (3) joint use or ownership of property, (4) the parties’ holding themselves out as (spouses/domestic partners), (5) the continuity of the relationship, and (6) the length of the relationship.]",
+    "[The term *dating relationship* means frequent, intimate associations primarily characterized by the expectation of affection or sexual involvement [independent of financial considerations].]",
+    "[A person may cohabit simultaneously with two or more people at different locations, during the same time frame, if he or she maintains substantial ongoing relationships with each person and lives with each person for significant periods.]",
+    "[A person is considered to be the (mother/father) of another person’s child if the alleged male parent is presumed under law to be the natural father. ______ <insert name of presumed father> is presumed under law to be the natural father of ______ <insert name of child>.]",
+    "[A traumatic condition is the *result of* an injury if:",
+    "1. The traumatic condition was the natural and probable consequence of the injury;",
+    "2. The injury was a direct and substantial factor in causing the condition;",
+    "AND",
+    "3. The condition would not have happened without the injury.",
+    "A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.",
+    "A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that resulted in the traumatic condition.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401]; *People v. Cervantes* (2001) 26 Cal.4th 860, 865–874 [111 Cal.Rptr.2d 148, 29 P.3d 225].) Give the bracketed paragraph that begins, “A traumatic condition is the *result of* an injury if . . . .”"
+      },
+      {
+        "text": "Give CALCRIM No. 3404, *Accident,* on request if there is sufficient evidence that an alleged victim’s injuries were caused by an accident. (*People v. Anderson* (2011) 51 Cal.4th 989, 998, fn. 3 [125 Cal.Rptr.3d 408, 252 P.3d 968].)."
+      },
+      {
+        "text": "Give the bracketed language “[and unlawfully]” in element 1 if there is evidence that the defendant acted in self-defense."
+      },
+      {
+        "text": "Give the third bracketed sentence that begins “A person may cohabit simultaneously with two or more people,” on request if there is evidence that the defendant cohabited with two or more people. (See *People v. Moore* (1996) 44 Cal.App.4th 1323, 1335 [52 Cal.Rptr.2d 256].)"
+      },
+      {
+        "text": "Give on request the bracketed paragraph that begins “A person is considered to be the (mother/father)” if an alleged parental relationship is based on the statutory presumption that the male parent is the natural father. (See Pen. Code, § 273.5(d); see also *People v. Vega* (1995) 33 Cal.App.4th 706, 711 [39 Cal.Rptr.2d 479] [parentage can be established without resort to any presumption].)"
+      },
+      {
+        "text": "If the defendant is charged with an enhancement for a prior conviction for a similar offense within seven years and has not stipulated to the prior conviction, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*. If the court has granted a bifurcated trial, see CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      },
+      {
+        "text": "If there is evidence that the traumatic condition resulted from strangulation or suffocation, give the bracketed language about strangulation and suffocation."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 273.5(a)."
+      },
+      {
+        "text": "• “Traumatic Condition” Defined. Pen. Code, § 273.5(d); *People v. Reid* (2024) 105 Cal.App.5th 446, 456–457 [325 Cal.Rptr.3d 820]; *People v. Gutierrez* (1985) 171 Cal.App.3d 944, 952 [217 Cal.Rptr. 616]."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); see *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• “Cohabitant” Defined. *People v. Holifield* (1988) 205 Cal.App.3d 993, 1000 [252 Cal.Rptr. 729]; *People v. Ballard* (1988) 203 Cal.App.3d 311, 318–319 [249 Cal.Rptr. 806]."
+      },
+      {
+        "text": "• Direct Application of Force. *People v. Jackson* (2000) 77 Cal.App.4th 574, 580 [91 Cal.Rptr.2d 805]."
+      },
+      {
+        "text": "• Duty to Define Traumatic Condition. *People v. Burns* (1948) 88 Cal.App.2d 867, 873–874 [200 P.2d 134]."
+      },
+      {
+        "text": "• Strangulation and Suffocation. Pen. Code, § 273.5(d)."
+      },
+      {
+        "text": "• General Intent Crime. See *People v. Thurston* (1999) 71 Cal.App.4th 1050, 1055 [84 Cal.Rptr.2d 221]; *People v. Campbell* (1999) 76 Cal.App.4th 305, 307–309 [90 Cal.Rptr.2d 315]; contra *People v. Rodriguez* (1992) 5 Cal.App.4th 1398, 1402 [7 Cal.Rptr.2d 495] [dictum]."
+      },
+      {
+        "text": "• Simultaneous Cohabitation. *People v. Moore, supra,* 44 Cal.App.4th at p. 1335."
+      },
+      {
+        "text": "• “Dating Relationship” Defined. Pen. Code, § 243(f)(10)."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Infliction of Corporal Injury on Spouse. Pen. Code, §§ 664, 273.5(a); *People v. Kinsey* (1995) 40 Cal.App.4th 1621, 1627, 1628 [47 Cal.Rptr.2d 769] [attempt requires intent to cause traumatic condition but does not require a resulting “traumatic condition”]."
+      },
+      {
+        "text": "• Misdemeanor Battery. Pen. Code, §§ 242, 243(a); see *People v. Gutierrez, supra,* 171 Cal.App.3d at p. 952."
+      },
+      {
+        "text": "• Battery Against Spouse, Cohabitant, or Fellow Parent. Pen. Code, § 243(e)(1); see *People v. Jackson, supra,* 77 Cal.App.4th at p. 580."
+      },
+      {
+        "text": "• Simple Assault. Pen. Code, §§ 240, 241(a); *People v. Van Os* (1950) 96 Cal.App.2d 204, 206 [214 P.2d 554]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Continuous Course of Conduct"
+      },
+      {
+        "text": "Penal Code section 273.5 is aimed at a continuous course of conduct. The prosecutor is not required to choose a particular act and the jury is not required to unanimously agree on the same act or acts before a guilty verdict can be returned. (*People v. Thompson* (1984) 160 Cal.App.3d 220, 224–225 [206 Cal.Rptr. 516].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Acts of Abuse"
+      },
+      {
+        "text": "A defendant can be charged with multiple violations of Penal Code section 273.5 when each battery satisfies the elements of section 273.5. (*People v. Healy* (1993) 14 Cal.App.4th 1137, 1140 [18 Cal.Rptr.2d 274].)"
+      },
+      {
+        "heading": true,
+        "text": "Prospective Parents of Unborn Children"
+      },
+      {
+        "text": "Penal Code section 273.5(a) does not apply to a man who inflicts an injury upon a woman who is pregnant with his unborn child. “A pregnant woman is not a ‘mother’ and a fetus is not a ‘child’ as those terms are used in that section.” (*People v. Ward* (1998) 62 Cal.App.4th 122, 126, 129 [72 Cal.Rptr.2d 531].)"
+      },
+      {
+        "heading": true,
+        "text": "Termination of Parental Rights"
+      },
+      {
+        "text": "Penal Code section 273.5 “applies to a man who batters the mother of his child even after parental rights to that child have been terminated.” (*People v. Mora* (1996) 51 Cal.App.4th 1349, 1356 [59 Cal.Rptr.2d 801].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

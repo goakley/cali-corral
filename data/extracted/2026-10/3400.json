@@ -1,0 +1,66 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3400",
+  "title": "Alibi",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2345,
+      2346
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The People must prove that the defendant committed ______ <insert crime[s] charged>. The defendant contends (he/she) did not commit (this/these) crime[s] and that (he/she) was somewhere else when the crime[s] (was/were) committed. The People must prove that the defendant was present and committed the crime[s] with which (he/she) is charged. The defendant does not need to prove (he/she) was elsewhere at the time of the crime.",
+    "If you have a reasonable doubt about whether the defendant was present when the crime was committed, you must find (him/her) not guilty.",
+    "[However, the defendant may also be guilty of ______ <insert crime[s] charged> if (he/she) (aided and abetted/[or] conspired with) someone else to commit (that/those) crime[s]. If you conclude that the defendant (aided and abetted/[or] conspired to commit) ______ <insert crime[s] charged>, then (he/she) is guilty even if (he/she) was not present when the crime[s] (was/were) committed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to instruct on alibi. (*People v. Freeman* (1978) 22 Cal.3d 434, 437–438 [149 Cal.Rptr. 396, 584 P.2d 533]; *People v. Alcala* (1992) 4 Cal.4th 742, 803–804 [15 Cal.Rptr.2d 432, 842 P.2d 1192].) The court must give this instruction on request when evidence of alibi has been introduced. (*People v. Whitson* (1944) 25 Cal.2d 593, 603 [154 P.2d 867] [no sua sponte duty even if substantial evidence has been introduced by the defense]; *People v. Freeman* (1978) 22 Cal.3d 434, 437–438 [149 Cal.Rptr. 396, 584 P.2d 533].)"
+      },
+      {
+        "text": "The defendant is not entitled to an instruction on alibi if the prosecution does not rely on the defendant’s presence at the commission of the crime to establish culpability. (*People v. Manson* (1976) 61 Cal.App.3d 102, 211 [132 Cal.Rptr. 265] [in prosecution for conspiracy and murder, defendant was not entitled to jury instruction on alibi, where prosecution never contended he was present at time of actual commission of any homicide and his presence was not requirement for culpability].)"
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant aided and abetted or conspired with the perpetrator but was not present when the crime was committed, give the last bracketed paragraph that begins with “However, the defendant may also be guilty.” (*People v. Sarkis* (1990) 222 Cal.App.3d 23, 26–28 [272 Cal.Rptr. 34].) If this paragraph is given, the court has a sua sponte duty to instruct on aiding and abetting. (*Ibid*. [court properly instructed that alibi was not a defense in an aiding and abetting case, but erred in failing to define aiding and abetting].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Burden of Proof. *In re Corey* (1964) 230 Cal.App.2d 813, 828 [41 Cal.Rptr. 379]."
+      },
+      {
+        "text": "• Alibi, Aiding and Abetting. *People v. Sarkis* (1990) 222 Cal.App.3d 23, 26–28 [272 Cal.Rptr. 34]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Defendant Need Not Prove Alibi, Only Raise Reasonable Doubt"
+      },
+      {
+        "text": "Alibi evidence need only raise a reasonable doubt that the defendant was not present at the scene of the crime. It is therefore error to instruct the jury (1) that an alibi must be proved by a preponderance of the evidence, (2) that alibi evidence must convince the jury of the defendant’s innocence, (3) that the jury must give less credit to the testimony of alibi witnesses, or (4) that the jury must give more careful scrutiny or less weight to alibi evidence than to other evidence. (*People v. Costello* (1943) 21 Cal.2d 760, 763 [135 P.2d 164].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,60 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "729",
+  "title": "Special Circumstances: Murder Because of Race, Religion, or Nationality (Pen. Code, § 190.2(a)(16))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      542,
+      543
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder committed because of the deceased’s (race[,]/color[,]/religion[,]/nationality[,]/[or] country of origin) [in violation of Penal Code section 190.2(a)(16)].",
+    "To prove that this special circumstance is true, the People must prove that the defendant intended to kill because of the deceased person’s (race[,]/color[,]/religion[,]/nationality[,]/[or] country of origin).",
+    "[If the defendant had more than one reason to (commit[,]/participate in[,]/[or] aid and abet) the murder, the deceased person’s (race[,]/color[,]/religion[,]/nationality[,]/[or] country of origin) must have been a substantial factor motivating the defendant’s conduct. A *substantial factor* is more than a trivial or remote factor, but it does not need to be the only factor that motivated the defendant.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "Give the bracketed paragraph if there is evidence that the defendant had more than one reason to commit the murder. (*In re M.S.* (1995) 10 Cal.4th 698, 719–720 [42 Cal.Rptr.2d 355, 896 P.2d 1365].)"
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of this special circumstance. (See *People v. Valenti* (2016) 243 Cal.App.4th 1140, 1165 [197 Cal.Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(16)."
+      },
+      {
+        "text": "• Special Circumstance Constitutional. *People v. Sassounian* (1986) 182 Cal.App.3d 361, 413 [226 Cal.Rptr. 880]; *People v. Talamantez* (1985) 169 Cal.App.3d 443, 469 [215 Cal.Rptr. 542]."
+      },
+      {
+        "text": "• “Because of” Defined. Pen. Code, § 190.03(c); *People v. Superior Court (Aishman)* (1995) 10 Cal.4th 735, 741 [42 Cal.Rptr.2d 377, 896 P.2d 1387]; *In re M.S.* (1995) 10 Cal.4th 698, 719–720 [42 Cal.Rptr.2d 355, 896 P.2d 1365]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

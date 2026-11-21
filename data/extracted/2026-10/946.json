@@ -1,0 +1,117 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "946",
+  "title": "Battery Against Custodial Officer (Pen. Code, §§ 242, 243.1)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      756,
+      758
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, August 2016, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with battery against a custodial officer [in violation of Penal Code section 243.1].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. ______ <insert officer’s name, excluding title> was a custodial officer performing the duties of a custodial officer;",
+    "2. The defendant willfully [and unlawfully] touched ______ <insert officer’s name, excluding title> in a harmful or offensive manner;",
+    "[AND]",
+    "3. When the defendant acted, (he/she) knew, or reasonably should have known, that ______ <insert officer’s name, excluding title> was a custodial officer who was performing (his/her) duties(;/.)",
+    "<Give element 4 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "4. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The slightest touching can be enough to commit a battery if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "A *custodial officer* is someone who works for a law enforcement agency of a city or county, is responsible for maintaining custody of prisoners, and helps operate a local detention facility. [A (county jail/city jail/______ <insert description>) is a local detention facility.] [A custodial officer is not a peace officer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 4, the bracketed words “and unlawfully” in element 2, and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "In addition, the court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (*People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) If lawful performance is an issue, give the appropriate portions of CALCRIM No. 2671, *Lawful Performance: Custodial Officer*."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a custodial officer. (See *People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135] [discussing definition of “peace officer”].) The court may instruct the jury on the appropriate definition of “custodial officer” from the statute. *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a custodial officer as a matter of. *(Ibid.)*"
+      },
+      {
+        "text": "If there is a dispute about whether the site of an alleged crime is a local detention facility, see Penal Code section 6031.4."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 242, 243.1; see *In re Rochelle B.* (1996) 49 Cal.App.4th 1212, 1221 [57 Cal.Rptr.2d 851] [section 243.1 applies only to batteries committed against custodial officers in adult penal institutions]; *People v. Martinez* (1970) 3 Cal.App.3d 886, 889 [83 Cal.Rptr. 914] [harmful or offensive touching]."
+      },
+      {
+        "text": "• “Custodial Officer” Defined. Pen. Code, § 831."
+      },
+      {
+        "text": "• “Local Detention Facility” Defined. Pen. Code, § 6031.4."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• Contact With Object Held in Another Person’s Hand May Constitute Touching. *In re B.L.* (2015) 239 Cal.App.4th 1491, 1495–1497 [192 Cal.Rptr.3d 154]."
+      },
+      {
+        "text": "• Hitting a Vehicle Occupied by Another Person May Constitute Touching. *People v. Dealba* (2015) 242 Cal.App.4th 1142, 1144, 1153 [195 Cal.Rptr.3d 848]."
+      },
+      {
+        "text": "• Statute Constitutional. *People v. Wilkinson* (2004) 33 Cal.4th 821, 840–841 [16 Cal.Rptr.3d 420, 94 P.3d 551]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Battery on Person Not Confined. Pen. Code, § 243.15."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues sections to CALCRIM No. 960, *Simple Battery*, and CALCRIM No. 2671, *Lawful Performance: Custodial Officer*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

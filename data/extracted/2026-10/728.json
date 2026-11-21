@@ -1,0 +1,96 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "728",
+  "title": "Special Circumstances: Lying in Wait—After March 7, 2000 (Pen. Code, § 190.2(a)(15))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      540,
+      541
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder committed by means of lying in wait [in violation of Penal Code section 190.2(a)(15)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The defendant intentionally killed ______ <insert name of decedent>;",
+    "AND",
+    "2. The defendant committed the murder by means of lying in wait.",
+    "A person commits a murder by means of lying in wait if:",
+    "1. He or she concealed his or her purpose from the person killed;",
+    "2. He or she waited and watched for an opportunity to act;",
+    "3. Then he or she made a surprise attack on the person killed from a position of advantage;",
+    "AND",
+    "4. He or she intended to kill the person by taking the person by surprise.",
+    "The lying in wait does not need to continue for any particular period of time, but its duration must be substantial and must show a state of mind equivalent to deliberation or premeditation.",
+    "The defendant acted *deliberately* if (he/she) carefully weighed the considerations for and against (his/her) choice and, knowing the consequences, decided to kill. The defendant acted with *premeditation* if (he/she) decided to kill before committing the act that caused death.",
+    "[A person can conceal his or her purpose even if the person killed is aware of the other person’s physical presence.]",
+    "[The concealment can be accomplished by ambush or some other secret plan.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "Effective March 8, 2000, the special circumstance was amended to require that the murder be committed “by means of” lying in wait rather than “while” lying in wait. (*People v. Michaels* (2002) 28 Cal.4th 486, 516–517 [122 Cal.Rptr.2d 285, 49 P.3d 1032] [noting amendment to statute]; *People v. Superior Court (Bradway)* (2003) 105 Cal.App.4th 297, 309 [129 Cal.Rptr.2d 324] [holding amended statute is not unconstitutionally vague].) Use this instruction for cases in which the alleged homicide occurred on or after March 8, 2000."
+      },
+      {
+        "text": "Give the bracketed paragraph stating that physical concealment is not required if the evidence shows that the decedent was aware of the defendant’s presence. (*People v. Morales* (1989) 48 Cal.3d 527, 554–556 [257 Cal.Rptr. 64, 770 P.2d 244].) Give the bracketed paragraph stating that concealment may be accomplished by ambush if the evidence shows an attack from a hidden position."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(15)."
+      },
+      {
+        "text": "• Amended Statute Not Unconstitutionally Vague. *People v. Superior Court of San Diego County (Bradway)* (2003) 105 Cal.App.4th 297, 309 [129 Cal.Rptr.2d 324]."
+      },
+      {
+        "text": "• Physical Concealment Not Required. *People v. Morales* (1989) 48 Cal.3d 527, 554–556 [257 Cal.Rptr. 64, 770 P.2d 244]."
+      },
+      {
+        "text": "• Definition of Lying in Wait. *People v. Poindexter* (2006) 144 Cal.App.4th 572, 582–585 [50 Cal.Rptr.3d 489]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Dual Purpose"
+      },
+      {
+        "text": "“[I]f a person lies in wait intending first to rape and second to kill, then immediately proceeds to carry out that intent (or attempts to rape, then kills), the elements of the lying-in-wait special circumstance are met.” (*People v. Carpenter* (1997) 15 Cal.4th 312, 389 [63 Cal.Rptr.2d 1, 935 P.2d 708].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

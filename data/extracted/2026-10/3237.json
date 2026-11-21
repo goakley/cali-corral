@@ -1,0 +1,86 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3237",
+  "title": "Aggravating Factor: Probation, Mandatory Supervision, Postrelease Community Supervision, or Parole When Crime Was Committed",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      106,
+      107
+    ]
+  },
+  "revision_line": "New October 2026",
+  "revision_legend": null,
+  "body": [
+    "<nonbifurcated trial>",
+    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______[,]][ or of attempting to commit (that/those) crime[s]][ or the lesser crimes[s] of ______ <insert lesser offense(s)>], you must then decide whether the People have proved the additional allegation that ______ <insert name of defendant> was on (probation/mandatory supervision/postrelease community supervision/parole) when the defendant committed the crime.]",
+    "<bifurcated trial>",
+    "[The People have alleged that ______ <insert name of defendant> was on (probation/mandatory supervision/postrelease community supervision/parole) when the defendant committed the crime.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction is provided for the court to use for an aggravating factor as stated in California Rules of Court, rule 4.421. (See Pen. Code, §§ 1170, 1170.1; see also *People v. Wiley* (2025) 17 Cal.5th 1069, 1086 [333 Cal.Rptr.3d 635, 570 P.3d 436]; *Cunningham v. California* (2007) 549 U.S. 270 [127 S.Ct. 856, 166 L.Ed.2d 856].)"
+      },
+      {
+        "text": "Do not give an aggravating factor that is an element of the convicted offense. (Pen. Code, § 1170(b)(5).)"
+      },
+      {
+        "text": "The court should specify the crime(s) to which the aggravating factor pertains if it applies to one or more specific counts."
+      },
+      {
+        "text": "The court must bifurcate the jury’s determination of the aggravating factors on the defendant’s request “[e]xcept where evidence supporting an aggravating circumstance is admissible to prove or defend against the charged offense or enhancement at trial, or it is otherwise authorized by law.” (Pen. Code, § 1170(b)(2).) For a bifurcated trial, the court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggravating Factors. California Rules of Court, rule 4.421(b)(4). • Unanimity Not Required Regarding Facts Underlying the Aggravating Factor. *People v. McDaniel* (2021) 12 Cal.5th 97, 142–148 [283 Cal.Rptr.3d 32, 493 P.3d 815]."
+      },
+      {
+        "text": "• Parole Status and Prior Performance on Parole Are Distinct Aggravating Factors. *People v. Yim* (2007) 152 Cal.App.4th 366, 369 [60 Cal.Rptr.3d 887]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Aggravating Factors Relating to the Defendant"
+      },
+      {
+        "text": "Each of the instructions for aggravating factors related to the manner in which the defendant committed one or more charged crimes includes language informing the jury that they may not find the aggravating factor allegation true unless the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime. (See CALCRIM Nos. 3224–3233; see also Cal. Rules of Court, rule 4.421(a) [setting forth aggravating factors “relating to the crime”].) This instructional language is derived from case law holding that “[t]he essence of ‘aggravation’ relates to the effect of a particular fact in making the offense distinctively worse than the ordinary.” (*People v. Moreno* (1982) 128 Cal.App.3d 103, 110 [179 Cal.Rptr. 879]; see also *People v. Black, supra,* 41 Cal.4th at p. 817, overruled on other grounds by *People v. Wiley, supra,* 17 Cal.5th at p. 1085.)"
+      },
+      {
+        "text": "California Rules of Court, rule 4.421(b) sets forth additional aggravating factors “relating to the defendant.” The published cases addressing the requirement that aggravating factors should only be found true where the defendant’s conduct was “distinctively worse than an ordinary commission of the underlying crime” all address aggravating factors “relating to the crime.” In the absence of any published case law applying this rule to aggravating factors “related to the defendant”—which generally involve indicia of recidivism—the committee has not included any instructional language directing the jury to evaluate whether aggravating factors “related to the defendant” render the defendant’s conduct “distinctively worse than an ordinary commission of the underlying crime.”"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Prohibition Against Dual Use of Facts at Sentencing"
+      },
+      {
+        "text": "The jury may find true multiple aggravating factors based on the same underlying fact. However, at sentencing, a single underlying fact may not support more than one aggravating factor. (*People v. Fernandez* (1990) 226 Cal.App.3d 669, 680 [276 Cal.Rptr. 631].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": [],
+  "supplement_status": "new"
+}

@@ -1,0 +1,231 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1700",
+  "title": "Burglary (Pen. Code, § 459)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1213,
+      1220
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2010, February 2012, February 2013, August 2015, February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with burglary [in violation of Penal Code section 459].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant entered (a/an) (building/room within a building/locked vehicle/structure/______ <insert other statutory target>);",
+    "[AND]",
+    "2. When (he/she) entered (a/an) (building/room within the building/locked vehicle/structure/<insert other statutory target>), (he/she) intended to commit (theft/[or] ______ <insert one or more felonies>).",
+    "<If the evidence supports a defense theory that the crime was shoplifting as defined by Penal Code section 459.5, give paragraph 3A and the appropriate following optional paragraphs>",
+    "[AND]",
+    "[3A. The value of the property taken or intended to be taken was more than $950.00](;/.)]",
+    "[OR]",
+    "[3B. The structure that the defendant entered was a noncommercial establishment(;/,)]",
+    "[OR]",
+    "[3C. The structure was a commercial establishment that the defendant entered during non-business hours.]]",
+    "To decide whether the defendant intended to commit (theft/[or] ______ <insert one or more felonies>), please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].",
+    "<Give the following bracketed paragraph if the second degree is the only possible degree of the charged crime for which the jury may return a verdict.>",
+    "[If you find the defendant guilty of burglary, it is burglary of the second degree.]",
+    "A burglary was committed if the defendant entered with the intent to commit (theft/[or] ______ <insert one or more felonies>). The defendant does not need to have actually committed (theft/[or] ______ <insert one or more felonies>) as long as (he/she) entered with the intent to do so. [The People do not have to prove that the defendant actually committed (theft/[or] ______ <insert one or more felonies>).]",
+    "[Under the law of burglary, a person *enters a building* if some part of his or her body [or some object under his or her control] penetrates the area inside the building’s outer boundary.]",
+    "[A building’s *outer boundary* includes the area inside a window screen.]",
+    "[An attached balcony designed to be entered only from inside of a private, residential apartment on the second or higher floor of a building is inside a building’s *outer boundary*.]",
+    "[The People allege that the defendant intended to commit (theft/[or] ______ <insert one or more felonies>). You may not find the defendant guilty of burglary unless you all agree that (he/she) intended to commit one of those crimes at the time of the entry. You do not all have to agree on which one of those crimes (he/she) intended.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    6.3,
+    16.0,
+    7.0,
+    16.0,
+    6.3,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the crime charged is shoplifting, give CALCRIM No. 1703, Shoplifting, instead of this instruction."
+      },
+      {
+        "text": "When the People allege the defendant has a prior conviction for an offense listed in Penal Code section 667(e)(2)(C)(iv) or for an offense requiring registration pursuant to subdivision (c) of section 290, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial* or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      },
+      {
+        "text": "If second degree burglary is the only possible degree of burglary that the jury may return as their verdict, do not give CALCRIM No. 1701, *Burglary: Degrees.*"
+      },
+      {
+        "text": "Although actual commission of the underlying theft or felony is not an element of burglary (*People v. Montoya* (1994) 7 Cal.4th 1027, 1041–1042 [31 Cal.Rptr.2d 128, 874 P.2d 903]), the court has a sua sponte duty to instruct that the defendant must have intended to commit a felony and has a sua sponte duty to define the elements of the underlying felony. (*People v. Smith* (1978) 78 Cal.App.3d 698, 706 [144 Cal.Rptr. 330]; see also *People v. Hughes* (2002) 27 Cal.4th 287, 349 [116 Cal.Rptr.2d 401, 39 P.3d 432].) Give all appropriate instructions on theft or the felony alleged."
+      },
+      {
+        "text": "If the area alleged to have been entered is something other than a building or locked vehicle, insert the appropriate statutory target in the blanks in elements 1 and 2. Penal Code section 459 specifies the structures and places that may be the targets of burglary. The list includes a house, room, apartment, tenement, shop, warehouse, store, mill, barn, stable, outhouse or other building, tent, vessel, floating home as defined in Health and Safety Code section 18075.55(d), railroad car, locked or sealed cargo container whether or not mounted on a vehicle, trailer coach as defined in Vehicle Code section 635, house car as defined in Vehicle Code section 362, inhabited camper as defined in Vehicle Code section 243, locked vehicle as defined by the Vehicle Code, aircraft as defined in Public Utilities Code section 21012, or mine or any underground portion thereof. (See Pen. Code, § 459.)"
+      },
+      {
+        "text": "On request, give the bracketed paragraph that begins with “Under the law of burglary,” if there is evidence that only a portion of the defendant’s body, or an instrument, tool, or other object under his or control, entered the building. (See *People v. Valencia* (2002) 28 Cal.4th 1, 7–8 [120 Cal.Rptr.2d 131, 46 P.3d 920]; *People v. Davis* (1998) 18 Cal.4th 712, 717–722 [76 Cal.Rptr.2d 770, 958 P.2d 1083].)"
+      },
+      {
+        "text": "On request, give the bracketed sentence defining “outer boundary” if there is evidence that the outer boundary of a building for purposes of burglary was a window screen. (See *People v. Valencia, supra*, 28 Cal.4th at pp. 12–13.)"
+      },
+      {
+        "text": "Whenever a private, residential apartment and its balcony are on the second or higher floor of a building, and the balcony is designed to be entered only from inside the apartment, that balcony is part of the apartment and its railing constitutes the apartment’s “outer boundary.” (*People v. Yarbrough* (2012) 54 Cal.4th 889, 894 [144 Cal.Rptr.3d 164, 281 P.3d 68].)"
+      },
+      {
+        "text": "If multiple underlying felonies are charged, give the bracketed paragraph that begins with “The People allege that the defendant intended to commit.” (*People v. Failla* (1966) 64 Cal.2d 560, 569 [51 Cal.Rptr. 103, 414 P.2d 39]; *People v. Griffin* (2001) 90 Cal.App.4th 741, 750 [109 Cal.Rptr.2d 273].)"
+      },
+      {
+        "text": "If the defendant is charged with first degree burglary, give CALCRIM No. 1701, *Burglary: Degrees*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 459, 459.5."
+      },
+      {
+        "text": "• Instructional Requirements. *People v. Failla, supra*, 64 Cal.2d at pp. 564, 568–569; *People v. Smith, supra*, 78 Cal.App.3d at pp. 706–711; *People v. Montoya, supra*, 7 Cal.4th at pp. 1041–1042."
+      },
+      {
+        "text": "• Burden for Consent Defense Is to Raise Reasonable Doubt. *People v. Sherow* (2011) 196 Cal.App.4th 1296, 1308–1309 [128 Cal.Rptr.3d 255]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Burglary. Pen. Code, §§ 663, 459."
+      },
+      {
+        "text": "• Tampering With a Vehicle. Veh. Code, § 10852; *People v. Mooney* (1983) 145 Cal.App.3d 502, 504–507 [193 Cal.Rptr. 381] [if burglary of automobile charged]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Auto Burglary—Entry of Locked Vehicle"
+      },
+      {
+        "text": "Under Penal Code section 459, forced entry of a locked vehicle constitutes burglary. (*People v. Young K.* (1996) 49 Cal.App.4th 861, 863 [57 Cal.Rptr.2d 12].) However, there must be evidence of forced entry. (See *People v. Woods* (1980) 112 Cal.App.3d 226, 228–231 [169 Cal.Rptr. 179] [if entry occurs through window deliberately left open, some evidence of forced entry must exist for burglary conviction]; *People v. Malcolm* (1975) 47 Cal.App.3d 217, 220–223 [120 Cal.Rptr. 667] [pushing open broken wing lock on window, reaching one’s arm inside vehicle, and unlocking car door evidence of forced entry]; *People v. Gray* (2025) 109 Cal.App.5th 680, 686 [330 Cal.Rptr.3d 604] [cutting gate latch and lock of truck’s enclosed cargo area evidence of forced entry].) Opening an unlocked passenger door and lifting a trunk latch to gain access to the trunk is not an auto burglary. (*People v. Allen* (2001) 86 Cal.App.4th 909, 917–918 [103 Cal.Rptr.2d 626].)"
+      },
+      {
+        "heading": true,
+        "text": "Auto Burglary—Definition of Locked"
+      },
+      {
+        "text": "To lock, for purposes of auto burglary, is “to make fast by interlinking or interlacing of parts . . . [such that] some force [is] required to break the seal to permit entry . . . .” (*In re Lamont R.* (1988) 200 Cal.App.3d 244, 247 [245 Cal.Rptr. 870], quoting *People v. Massie* (1966) 241 Cal.App.2d 812, 817 [51 Cal.Rptr. 18] [vehicle was not locked where chains were wrapped around the doors and hooked together]; compare *People v. Malcolm, supra*, 47 Cal.App.3d at pp. 220–223 [vehicle with locked doors but broken wing lock that prevented window from being locked, was for all intents and purposes a locked vehicle].)"
+      },
+      {
+        "heading": true,
+        "text": "Auto Burglary—Intent to Steal"
+      },
+      {
+        "text": "Breaking into a locked car with the intent to steal the vehicle constitutes auto burglary. (*People v. Teamer* (1993) 20 Cal.App.4th 1454, 1457–1461 [25 Cal.Rptr.2d 296]; see also *People v. Blalock* (1971) 20 Cal.App.3d 1078, 1082 [98 Cal.Rptr. 231] [auto burglary includes entry into locked trunk of vehicle].) However, breaking into the headlamp housings of an automobile with the intent to steal the headlamps is not auto burglary. (*People v. Young K., supra*, 49 Cal.App.4th at p. 864 [stealing headlamps, windshield wipers, or hubcaps are thefts, or attempted thefts, auto tampering, or acts of vandalism, not burglaries].)"
+      },
+      {
+        "heading": true,
+        "text": "Building"
+      },
+      {
+        "text": "A building has been defined for purposes of burglary as “any structure which has walls on all sides and is covered by a roof.” (*In re Amber S.* (1995) 33 Cal.App.4th 185, 187 [39 Cal.Rptr.2d 672].) Courts have construed “building” broadly and found the following structures sufficient for purposes of burglary: a telephone booth, a popcorn stand on wheels, a powder magazine dug out of a hillside, a wire chicken coop, and a loading dock constructed of chain link fence. (*People v. Brooks* (1982) 133 Cal.App.3d 200, 204–205 [183 Cal.Rptr. 773].) However, the definition of building is not without limits and courts have focused on “whether the nature of a structure’s composition is such that a reasonable person would expect some protection from unauthorized intrusions.” (*In re Amber S., supra*, 33 Cal.App.4th at p. 187 [open pole barn is not a building]; see *People v. Knight* (1988) 204 Cal.App.3d 1420, 1423–1424 [252 Cal.Rptr. 17] [electric company’s “gang box,” a container large enough to hold people, is not a building; such property is protected by Penal Code sections governing theft].)"
+      },
+      {
+        "heading": true,
+        "text": "Outer Boundary"
+      },
+      {
+        "text": "A building’s outer boundary includes any element that encloses an area into which a reasonable person would believe that a member of the general public could not pass without authorization. Under this test, a window screen is part of the outer boundary of a building for purposes of burglary. (*People v. Valencia, supra*, 28 Cal.4th at pp. 12–13.) Whether penetration into an area behind a window screen amounts to an entry of a building within the meaning of the burglary statute is a question of law. The instructions must resolve such a legal issue for the jury. (*Id*. at p. 16.)"
+      },
+      {
+        "heading": true,
+        "text": "Attached Residential Balconies"
+      },
+      {
+        "text": "An attached residential balcony is part of an inhabited dwelling. (*People v. Jackson* (2010) 190 Cal.App.4th 918, 924–925 [118 Cal.Rptr.3d 623] [balcony was “functionally interconnected to and immediately contiguous to . . . [part of] the apartment . . . used for ‘residential activities’ ”]; but see dictum in *People v. Valencia, supra*, 28 Cal.4th at p. 11, fn. 5 [“unenclosed balcony” is not structure satisfying “reasonable belief test”].)"
+      },
+      {
+        "heading": true,
+        "text": "Theft"
+      },
+      {
+        "text": "Any one of the different theories of theft will satisfy the larcenous intent required for burglary. (*People v. Dingle* (1985) 174 Cal.App.3d 21, 29–30 [219 Cal.Rptr. 707] [entry into building to use person’s telephone fraudulently]; *People v. Nguyen* (1995) 40 Cal.App.4th 28, 30–31 [46 Cal.Rptr.2d 840].)"
+      },
+      {
+        "heading": true,
+        "text": "Burglarizing One’s Own Home—Possessory Interest"
+      },
+      {
+        "text": "A person cannot burglarize his or her own home as long as he or she has an unconditional possessory right of entry. (*People v. Gauze* (1975) 15 Cal.3d 709, 714 [125 Cal.Rptr. 773, 542 P.2d 1365].) However, a family member who has moved out of the family home commits burglary if he or she makes an unauthorized entry with a felonious intent, since he or she has no claim of a right to enter that residence. (*In re Richard M.* (1988) 205 Cal.App.3d 7, 15–16 [252 Cal.Rptr. 36] [defendant, who lived at youth rehabilitation center, properly convicted of burglary for entering his parent’s home and taking property]; *People v. Davenport* (1990) 219 Cal.App.3d 885, 889–893 [268 Cal.Rptr. 501] [defendant convicted of burglarizing cabin owned and occupied by his estranged wife and her parents]; *People v. Sears* (1965) 62 Cal.2d 737, 746 [44 Cal.Rptr. 330, 401 P.2d 938], overruled on other grounds by *People v. Cahill* (1993) 5 Cal.4th 478, 494, 510 [20 Cal.Rptr.2d 582, 853 P.2d 1037]"
+      },
+      {
+        "text": "[burglary conviction proper where husband had moved out of family home three weeks before and had no right to enter without permission]; compare *Fortes v. Municipal Court* (1980) 113 Cal.App.3d 704, 712–714 [170 Cal.Rptr. 292] [husband had unconditional possessory interest in jointly owned home; his access to the house was not limited and strictly permissive, as in *Sears*].)"
+      },
+      {
+        "heading": true,
+        "text": "Consent"
+      },
+      {
+        "text": "While lack of consent is not an element of burglary, consent by the owner or occupant of property may constitute a defense to burglary. (*People v. Sherow, supra*, 196 Cal.App.4th at p. 1302; *People v. Felix* (1994) 23 Cal.App.4th 1385, 1397–1398 [28 Cal.Rptr.2d 860]; *People v. Superior Court (Granillo)* (1988) 205 Cal.App.3d 1478, 1485 [253 Cal.Rptr. 316] [when an undercover officer invites a potential buyer of stolen property into his warehouse of stolen goods, in order to catch would-be buyers, no burglary occurred].) The consent must be express and clear; the owner/occupant must both expressly permit the person to enter and know of the felonious or larcenous intent of the invitee. (*People v. Felix, supra*, 23 Cal.App.4th at pp. 1397–1398.) A person who enters for a felonious purpose, however, may be found guilty of burglary even if he or she enters with the owner’s or occupant’s consent. (*People v. Frye* (1998) 18 Cal.4th 894, 954 [77 Cal.Rptr.2d 25, 959 P.2d 183] [no evidence of unconditional possessory right to enter].) A joint property owner/occupant cannot give consent to a third party to enter and commit a felony on the other owner/occupant. (*People v. Clayton* (1998) 65 Cal.App.4th 418, 420–423 [76 Cal.Rptr.2d 536] [husband’s consent did not preclude a burglary conviction based upon defendant’s entry of premises with the intent to murder wife].) The defense of consent is established when the evidence raises a reasonable doubt of consent by the owner or occupant. (*People v. Sherow, supra*, 196 Cal.App.4th at p. 1309)."
+      },
+      {
+        "heading": true,
+        "text": "Entry by Instrument"
+      },
+      {
+        "text": "When an entry is made by an instrument, a burglary occurs if the instrument passes the boundary of the building and if the entry is the type that the burglary statute intended to prohibit. (*People v. Davis* (1998) 18 Cal.4th 712, 717–722 [76 Cal.Rptr.2d 770, 958 P.2d 1083] [placing forged check in chute of walk-up window of check-cashing facility was not entry for purposes of burglary] disapproving of *People v. Ravenscroft* (1988) 198 Cal.App.3d 639, 643–644 [243 Cal.Rptr. 827] [insertion of ATM card into machine was burglary].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Convictions"
+      },
+      {
+        "text": "Courts have adopted different tests for multi-entry burglary cases. In *In re William S.* (1989) 208 Cal.App.3d 313, 316–318 [256 Cal.Rptr. 64], the court analogized burglary to sex crimes and adopted the following test formulated in *People v. Hammon* (1987) 191 Cal.App.3d 1084, 1099 [236 Cal.Rptr. 822] [multiple penetration case]: “ ‘[W]hen there is a pause . . . sufficient to give defendant a reasonable opportunity to reflect upon his conduct, and the [action by the defendant] is nevertheless renewed, a new and separate crime is committed.’ ” (*In re William S.*, *supra*, 208 Cal.App.3d at p. 317.) The court in *In re William S.* adopted this test because it was concerned that under certain circumstances, allowing separate convictions for every entry could produce “absurd results.” The court gave this example: where “a thief reaches into a window twice attempting, unsuccessfully, to steal the same potted geranium, he could potentially be convicted of two separate counts.” (*Ibid*.) The *In re William S.* test has been called into serious doubt by *People v. Harrison* (1989) 48 Cal.3d 321, 332–334 [256 Cal.Rptr. 401, 768 P.2d 1078], which disapproved of *Hammon*. *Harrison* held that for sex crimes each penetration equals a new offense. (*People v. Harrison, supra,* 48 Cal.3d at p. 329.)"
+      },
+      {
+        "text": "The court in *People v. Washington* (1996) 50 Cal.App.4th 568 [57 Cal.Rptr.2d 774], a burglary case, agreed with *In re William S.* to the extent that burglary is analogous to crimes of sexual penetration. Following *Harrison*, the court held that each separate entry into a building or structure with the requisite intent is a burglary even if multiple entries are made into the same building or as part of the same plan. (*People v. Washington*, *supra*, 50 Cal.App.4th at pp. 574–579; see also 2 Witkin and Epstein, Cal. Criminal Law (2d. ed. 1999 Supp.) “Multiple Entries,” § 662A, p. 38.) The court further stated that any “concern about absurd results are [sic] better resolved under [Penal Code] section 654, which limits the punishment for separate offenses committed during a single transaction, than by [adopting] a rule that, in effect, creates the new crime of continuous burglary.” (*People v. Washington*, *supra*, 50 Cal.App.4th at p. 578.)"
+      },
+      {
+        "heading": true,
+        "text": "Room"
+      },
+      {
+        "text": "Penal Code section 459 includes “room” as one of the areas that may be entered for purposes of burglary. (Pen. Code, § 459.) An area within a building or structure is considered a room if there is some designated boundary, such as a partition or counter, separating it from the rest of the building. It is not necessary for the walls or partition to touch the ceiling of the building. (*People v. Mackabee* (1989) 214 Cal.App.3d 1250, 1257–1258 [263 Cal.Rptr. 183] [office area set off by counters was a room for purposes of burglary].) Each unit within a structure may constitute a separate “room” for which a defendant can be convicted on separate counts of burglary. (*People v. O’Keefe* (1990) 222 Cal.App.3d 517, 521 [271 Cal.Rptr. 769] [individual dormitory rooms]; *People v. Church* (1989) 215 Cal.App.3d 1151, 1159 [264 Cal.Rptr. 49] [separate business offices in same building].)"
+      },
+      {
+        "text": "Entry into a bedroom within a single-family house with the requisite intent can support a burglary conviction if that intent was formed only after entry into the house. (*People v. Sparks* (2002) 28 Cal.4th 71, 86–87 [120 Cal.Rptr.2d 508, 47 P.3d 289] [“the unadorned word ‘room’ in section 459 reasonably must be given its ordinary meaning”]; see *People v. McCormack* (1991) 234 Cal.App.3d 253, 255–257 [285 Cal.Rptr. 504]; *People v. Young* (1884) 65 Cal. 225, 226 [3 P. 813].) However, entry into multiple rooms within one apartment or house cannot support multiple burglary convictions unless it is established that each room is a separate dwelling space, whose occupant has a separate, reasonable expectation of privacy. (*People v. Richardson* (2004) 117 Cal.App.4th 570, 575 [11 Cal.Rptr.3d 802]; see also *People v. Thomas* (1991) 235 Cal.App.3d 899, 906, fn. 2 [1 Cal.Rptr.2d 434].)"
+      },
+      {
+        "heading": true,
+        "text": "Temporal or Physical Proximity—Intent to Commit the Felony"
+      },
+      {
+        "text": "According to some cases, a burglary occurs “if the intent at the time of entry is to commit the offense in the immediate vicinity of the place entered by defendant; if the entry is made as a means of facilitating the commission of the theft or felony; and if the two places are so closely connected that intent and consummation of the crime would constitute a single and practically continuous transaction.” (*People v. Wright* (1962) 206 Cal.App.2d 184, 191 [23 Cal.Rptr. 734] [defendant entered office with intent to steal tires from attached open-air shed].) This test was followed in *People v. Nance* (1972) 25 Cal.App.3d 925, 931–932 [102 Cal.Rptr. 266] [defendant entered a gas station to turn on outside pumps in order to steal gas]; *People v. Nunley* (1985) 168 Cal.App.3d 225, 230–232 [214 Cal.Rptr. 82] [defendant entered lobby of apartment building, intending to burglarize one of the units]; and *People v. Ortega* (1992) 11 Cal.App.4th 691, 695–696 [14 Cal.Rptr.2d 246] [defendant entered a home to facilitate the crime of extortion]."
+      },
+      {
+        "text": "However, in *People v. Kwok* (1998) 63 Cal.App.4th 1236 [75 Cal.Rptr.2d 40], the court applied a less restrictive test, focusing on just the facilitation factor. A burglary is committed if the defendant enters a building in order to facilitate commission of theft or a felony. The defendant need not intend to commit the target crime in the same building or on the same occasion as the entry. (*People v. Kwok*, *supra*, 63 Cal.App.4th at pp. 1246–1248 [defendant entered building to copy a key in order to facilitate later assault on victim].) The court commented that “the ‘continuous transaction test’ and the ‘immediate vicinity test’ . . . are artifacts of the particular factual contexts of *Wright*, *Nance*, and *Nunley*.” (*Id*. at p. 1247.) With regards to the *Ortega* case, the *Kwok* court noted that even though the *Ortega* court “purported to rely on the ‘continuous transaction’ factor of *Wright*, [the decision] rested principally on the ‘facilitation’ factor.” (*Id*. at pp. 1247–1248.) While *Kwok* and *Ortega* dispensed with the elemental requirements of spatial and temporal proximity, they did so only where the subject entry is “closely connected” with, and is made in order to facilitate, the intended crime. (*People v. Griffin* (2001) 90 Cal.App.4th 741, 749 [109 Cal.Rptr.2d 273].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

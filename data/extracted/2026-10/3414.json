@@ -1,0 +1,121 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3414",
+  "title": "Coercion (Pen. Code, §§ 236.23, 236.24)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2375,
+      2377
+    ]
+  },
+  "revision_line": "New September 2017; Revised March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of ______ <insert crime[s]> if (he/she) acted because of coercion.",
+    "In order to establish this defense, the defendant must prove that:",
+    "1. (He/She) acted because of coercion;",
+    "2. The coercion was a direct result of being a victim of (human trafficking/intimate partner violence/sexual violence) at the time the defendant acted;",
+    "AND",
+    "3. When the defendant acted, (he/she) had a reasonable fear of harm.",
+    "<Give for defense under Pen. Code, § 236.23.>",
+    "[To prove that the defendant was the victim of human trafficking, the defendant must prove that:",
+    "1. Another person either deprived the defendant of personal liberty or violated the defendant’s personal liberty;",
+    "[AND]",
+    "<Give Alternative 2A if the defendant claims he or she was the victim of human trafficking under Pen. Code, § 236.1(a).>",
+    "[2A. When the other person acted, (he/she) intended to obtain forced labor or services(./;)]",
+    "[OR]",
+    "<Give Alternative 2B if the defendant claims he or she was the victim of human trafficking under Pen. Code, § 236.1(b).>",
+    "[2B. When the other person acted, (he/she) intended to (commit/[or] maintain) a [felony] violation of ______ <insert appropriate code section[s]>).]]",
+    "[*Depriving or violating a person’s personal liberty*, as used here, includes substantial and sustained restriction of a person’s liberty accomplished through ______ <insert terms that apply from statutory definition, i.e.: force, fear, fraud, deceit, coercion, violence, duress, menace, or threat of unlawful injury> to the person under circumstances in which the person receiving or perceiving the threat reasonably believes that it is likely that the person making the threat would carry it out.]",
+    "[*Forced labor or services,* as used here, means labor or services that are performed or provided by a person and are obtained or maintained through force, fraud, duress, or coercion, or equivalent conduct that would reasonably overbear the will of the person.]",
+    "[*Duress* means a direct or implied threat of force, violence, danger, hardship, or retribution that is enough to cause a reasonable person to do [or submit to] something that he or she would not otherwise do [or submit to].]",
+    "[*Duress* includes (a direct or implied threat to destroy, conceal, remove, confiscate, or possess any actual or purported passport or immigration document of the other person/[or] knowingly destroying, concealing, removing, confiscating, or possessing any actual or purported passport or immigration document of the other person).]",
+    "[*Violence* means using physical force that is greater than the force reasonably necessary to restrain someone.]",
+    "[*Menace* means a verbal or physical threat of harm[, including use of a deadly weapon]. The threat of harm may be express or implied.]",
+    "[*Coercion* includes any scheme, plan, or pattern intended to cause a person to believe that failing to perform an act would result in (serious harm to or physical restraint against someone else/[or] the abuse or threatened abuse of the legal process/[or] debt bondage/[or] providing or facilitating the possession of any controlled substance to impair the other person’s judgment).]",
+    "[When you decide whether the other person (used *duress/*[or] used *coercion/*[or] *deprived the defendant of personal liberty or violated the defendant’s personal liberty*), consider all of the circumstances, including the age of the defendant, (his/her) relationship to the other person [or the other person’s agent[s]], and the defendant’s handicap or disability, if any.]",
+    "The defendant has the burden of proving each element of this defense by a preponderance of the evidence. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that each element of the defense is true. If the defendant has not met this burden, (he/she) has not proved this defense."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    0.0,
+    19.0,
+    16.0,
+    16.0,
+    6.3,
+    16.0,
+    16.0,
+    7.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must instruct on a defense when the defendant requests it and there is substantial evidence supporting the defense. The court has a sua sponte duty to instruct on a defense if there is substantial evidence supporting it and either the defendant is relying on it or it is not inconsistent with the defendant’s theory of the case."
+      },
+      {
+        "text": "When the court concludes that the defense is supported by substantial evidence and is inconsistent with the defendant’s theory of the case, however, it should ascertain whether defendant wishes instruction on this alternate theory. (*People v. Gonzales* (1999) 74 Cal.App.4th 382, 389–390 [88 Cal.Rptr.2d 111]; *People v. Breverman* (1998) 19 Cal.4th 142, 157 [77 Cal.Rptr.2d 870, 960 P.2d 1094].)"
+      },
+      {
+        "text": "Substantial evidence means evidence, which, if believed, would be sufficient for a reasonable jury to find that the defendant has shown the defense to be more likely than not true."
+      },
+      {
+        "text": "This defense does not apply to a violent felony, as defined in subdivision (c) of Penal Code section 667.5."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, §§ 236.23, 236.24."
+      },
+      {
+        "text": "• Definition of Coercion. Pen. Code, § 236.1(h)(1); *In re D.C.* (2021) 60 Cal.App.5th 915, 920 [275 Cal.Rptr.3d 191] [in context of human trafficking]."
+      },
+      {
+        "text": "• Burden of Proof. *People v. Waters* (1985) 163 Cal.App.3d 935, 938 [209 Cal.Rptr. 661]; *People v. Condley* (1977) 69 Cal.App.3d 999, 1008 [138 Cal.Rptr. 515]."
+      },
+      {
+        "text": "• Human Trafficking Elements and Definitions. Pen. Code, § 236.1."
+      },
+      {
+        "text": "• Menace Defined [in context of false imprisonment]. *People v. Matian* (1995) 35 Cal.App.4th 480, 484–486 [41 Cal.Rptr.2d 459]."
+      },
+      {
+        "text": "• Violence Defined [in context of false imprisonment]. *People v. Babich* (1993) 14 Cal.App.4th 801, 806 [18 Cal.Rptr.2d 60]."
+      },
+      {
+        "heading": true,
+        "text": "Related Instruction"
+      },
+      {
+        "text": "See CALCRIM No. 1243, *Human Trafficking*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

@@ -1,0 +1,86 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1018",
+  "title": "Oral Copulation of an Unconscious Person (Pen. Code, § 287(a), (f))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      840,
+      841
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2015",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with oral copulation of a person who was unconscious of the nature of the act [in violation of Penal Code section 287(f)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed an act of oral copulation with another person;",
+    "2. The other person was unable to resist because (he/she) was unconscious of the nature of the act;",
+    "AND",
+    "3. The defendant knew that the other person was unable to resist because (he/she) was unconscious of the nature of the act.",
+    "*Oral copulation* is any contact, no matter how slight, between the mouth of one person and the sexual organ or anus of another person. Penetration is not required.",
+    "A person is *unconscious of the nature of the act* if he or she is (unconscious or asleep/[or] not aware that the act is occurring/[or] not aware of the essential characteristics of the act because the perpetrator tricked, lied to, or concealed information from the person/[or] not aware of the essential characteristics of the act because the perpetrator fraudulently represented that the oral copulation served a professional purpose when it served no professional purpose)."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1016, *Oral Copulation in Concert*, may be given in conjunction with this instruction, if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 287(a), (f)."
+      },
+      {
+        "text": "• Oral Copulation Defined. *People v. Grim* (1992) 9 Cal.App.4th 1240, 1242–1243 [11 Cal.Rptr.2d 884]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The statutory language describing unconsciousness includes “was not aware, knowing, perceiving, or cognizant that the act occurred.” (See Pen. Code, § 287(f)(2)–(4).) The committee did not discern any difference among the statutory terms and therefore used “aware” in the instruction. If there is an issue over a particular term, that term should be inserted in the instruction."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Oral Copulation. Pen. Code, §§ 663, 287."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues Section to CALCRIM No. 1015, *Oral Copulation by Force, Fear, or Threats*."
+      },
+      {
+        "text": "A defendant may be convicted of both oral copulation of an intoxicated person and oral copulation of an unconscious person. (*People v. Gonzalez* (2014) 60 Cal.4th 533 [179 Cal.Rptr.3d 1, 335 P.3d 1083]; Pen. Code, § 287(f), (i).)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

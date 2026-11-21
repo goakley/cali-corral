@@ -1,0 +1,104 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1004",
+  "title": "Rape of a Disabled Woman (Pen. Code, § 261(a)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      826,
+      827
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with raping a mentally or physically disabled woman [in violation of Penal Code section 261(a)(1)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual intercourse with a woman;",
+    "2. He and the woman were not married to each other at the time of the intercourse;",
+    "3. The woman had a (mental disorder/developmental or physical disability) that prevented her from legally consenting;",
+    "AND",
+    "4. The defendant knew or reasonably should have known that the woman had a (mental disorder/developmental or physical disability) that prevented her from legally consenting.",
+    "*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]",
+    "A woman is *prevented from legally consenting* if she is unable to understand the act, its nature, and possible consequences."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1001, *Rape in Concert*, may be given in conjunction with this instruction, if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 261(a)(1)."
+      },
+      {
+        "text": "• Consent Defined. Pen. Code, § 261.6; *People v. Boggs* (1930) 107 Cal.App. 492, 495–496 [290 P. 618]."
+      },
+      {
+        "text": "• Penetration Defined. Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585, 600 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      },
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242; *People v. Guiterrez* (1991) 232 Cal.App.3d 1624, 1636 [284 Cal.Rptr. 230], disapproved on other grounds in *People v. Cromer* (2001) 24 Cal.4th 889, 901, fn. 3 [103 Cal.Rptr.2d 23, 15 P.3d 243]; but see *People v. Marshall* (1997) 15 Cal.4th 1, 38–39 [61 Cal.Rptr.2d 84, 931 P.2d 262] [battery not a lesser included offense of attempted rape]."
+      },
+      {
+        "text": "• This Instruction Completely Explains Inability to Give Legal Consent. *People v. Miranda* (2011) 199 Cal.App.4th 1403, 1419, fn. 13 [132 Cal.Rptr.3d 315] [in dicta]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Gender-specific language is used because rape usually occurs between a man and a woman. In keeping with plain English principles, the committee used those terms to make the instruction clear and concrete."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Rape. Pen. Code, §§ 663, 261."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "No Duty to Define “Developmental Disability”"
+      },
+      {
+        "text": "There is no sua sponte duty to define “developmental disability” under Welfare and Institutions Code section 4512(a) or Penal Code section 1370.1(a)(1). The Legislature did not intend to limit this phrase to such technical medical or legal definitions, although a pinpoint instruction may be requested if it helps the jury in any particular case. (*People v. Mobley* (1999) 72 Cal.App.4th 761, 781–783 [85 Cal.Rptr.2d 474] [in context of oral copulation].)"
+      },
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1000, *Rape by Force, Fear, or Threats*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

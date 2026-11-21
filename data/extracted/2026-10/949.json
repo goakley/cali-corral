@@ -1,0 +1,132 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "949",
+  "title": "Battery Against School Employee (Pen. Code, §§ 242, 243.6)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      765,
+      767
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with battery against a school employee [in violation of Penal Code section 243.6].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. ______ <Insert name> was a school employee;",
+    "2. The defendant willfully [and unlawfully] touched ______ <insert name> in a harmful or offensive manner;",
+    "<Alternative 3A—performing duties>",
+    "[3. When the defendant acted, ______ <insert name> was performing (his/her) duties as a school employee;]",
+    "<Alternative 3B—retaliation>",
+    "[3. When the defendant acted, (he/she) was retaliating against ______ <insert name> because of something ______ <insert name> had done while performing (his/her) duties as a school employee;]",
+    "[AND]",
+    "4. When the defendant acted, (he/she) knew, or reasonably should have known, that ______ <insert name> was a school employee(;/.)",
+    "<Give element 5 when the defendant is charged with felony battery based on injury.>",
+    "[AND]",
+    "[5. ______ <insert name> suffered injury as a result of the force used(;/.)]",
+    "<Give element 6 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "6. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "Making contact with another person, including through his or her clothing, is enough to commit a battery. [The slightest touching can be enough if it is done in a rude or angry way.] [The touching does not have to cause pain or injury of any kind.]",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[It is not a defense that the touching occurred off campus or outside regular school hours.]",
+    "A *school employee* is any person employed as a permanent or probationary certificated or classified employee of a school district on a part-time or full-time basis, including a substitute teacher, student teacher, or school board member.",
+    "[An *injury* is any physical injury that requires professional medical treatment. The question whether an injury requires such treatment cannot be answered simply by deciding whether or not a person sought or received treatment. You may consider those facts, but you must decide this question based on the nature, extent, and seriousness of the injury itself.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 6, the bracketed words “and unlawfully” in element 2, and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give alternative 3A or 3B, depending on whether there is evidence that the defendant used force while the employee was performing job duties or used force in retaliation for something the employee previously did while performing job duties. (See Pen. Code, § 243.6.)"
+      },
+      {
+        "text": "Give element 5 and the bracketed definition of “injury” if the defendant is charged with a felony based on an injury to the alleged victim. (See Pen. Code, § 243.6.)"
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 242, 243.6; *People v. Martinez* (1970) 3 Cal.App.3d 886, 889 [83 Cal.Rptr. 914] [harmful or offensive touching]."
+      },
+      {
+        "text": "• “Injury” Defined. Pen. Code, § 243(f)(6); *People v. Longoria* (1995) 34 Cal.App.4th 12, 17 [40 Cal.Rptr.2d 213]."
+      },
+      {
+        "text": "• “School Employee” Defined. Pen. Code, § 245.5(d)."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• Contact With Object Held in Another Person’s Hand May Constitute Touching. *In re B.L.* (2015) 239 Cal.App.4th 1491, 1495–1497 [192 Cal.Rptr.3d 154]."
+      },
+      {
+        "text": "• Hitting a Vehicle Occupied by Another Person May Constitute Touching. *People v. Dealba* (2015) 242 Cal.App.4th 1142, 1144, 1153 [195 Cal.Rptr.3d 848]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "If the defendant is charged with felony battery on a school employee based on an injury to the alleged victim, then the misdemeanor battery on the specified victim is a lesser included offense. (See Pen. Code, § 243.6.)"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues sections to CALCRIM No. 960, *Simple Battery*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

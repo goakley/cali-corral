@@ -1,0 +1,69 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "240",
+  "title": "Causation",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      137,
+      138
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, March 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "An act [or omission] causes (injury/______ <insert other description>) if the (injury/______ <insert other description>) is the direct, natural, and probable consequence of the act [or omission] and the (injury/______ <insert other description>) would not have happened without the act [or omission]. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence.",
+    "<Give if multiple potential causes.>",
+    "[There may be more than one cause of (injury/______ <insert other description>). An act [or omission] causes (injury/______ <insert other description>), only if it is a substantial factor in causing the (injury/______ <insert other description>). A *substantial factor* is more than a trivial or remote factor. However, it does not have to be the only factor that causes the (injury/______ <insert other description>).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401]; *People v. Cervantes* (2001) 26 Cal.4th 860, 866–874 [111 Cal.Rptr.2d 148, 29 P.3d 225].) The committee has addressed causation in those instructions where the issue is most likely to arise. If the particular facts of the case raise a causation issue and other instructions do not adequately cover the point, give this instruction."
+      },
+      {
+        "text": "If there is evidence of multiple potential causes, the court should also give the bracketed paragraph. (*People v. Sanchez* (2001) 26 Cal.4th 834, 845–849 [111 Cal.Rptr.2d 129, 29 P.3d 209]; *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Proximate Cause. *People v. Carney* (2023) 14 Cal.5th 1130, 1137–1139, 1143 [310 Cal.Rptr.3d 685, 532 P.3d 696]; *People v. Cervantes, supra,* 26 Cal.4th at pp. 866–874; *People v. Roberts* (1992) 2 Cal.4th 271, 315–322 [6 Cal.Rptr.2d 276, 826 P.2d 274]."
+      },
+      {
+        "text": "• Substantial Factor. *People v. Sanchez, supra,* 26 Cal.4th at pp. 845–849; *People v. Autry, supra,* 37 Cal.App.4th at p. 363."
+      },
+      {
+        "text": "• Independent Intervening Cause. *People v. Cervantes, supra,* 26 Cal.4th at pp. 866–874."
+      },
+      {
+        "text": "• Causation Instructions. *People v. Sanchez, supra,* 26 Cal.4th at pp. 845–849; *People v. Roberts, supra,* 2 Cal.4th at pp. 311–322; *People v. Autry, supra,* 37 Cal.App.4th at p. 363."
+      },
+      {
+        "text": "• Instructional Duty. *People v. Bernhardt, supra,* 222 Cal.App.2d at pp. 590–591."
+      },
+      {
+        "text": "• “Natural and Probable Consequences” Defined. See *People v. Prettyman* (1996) 14 Cal.4th 248, 291 [58 Cal.Rptr.2d 827, 926 P.2d 1013] (conc. & dis. opn. of Brown, J.)."
+      },
+      {
+        "text": "• Act or Omission. *People v. Cervantes, supra,* 26 Cal.4th at p. 866."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

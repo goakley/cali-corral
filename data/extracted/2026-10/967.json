@@ -1,0 +1,105 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "967",
+  "title": "Shooting at Unoccupied Aircraft (Pen. Code, § 247(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      781,
+      782
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with shooting at an unoccupied aircraft [in violation of Penal Code section 247(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully and maliciously shot a firearm;",
+    "[AND]",
+    "2. The defendant shot the firearm at an unoccupied aircraft(;/.)",
+    "<Give element 3 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "3. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to disturb, defraud, annoy, or injure someone else.",
+    "[An *aircraft* is an airplane or other craft intended for and capable of transporting persons through the air.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[The term[s] (*firearm/*______ <insert other term>) (is/are) defined in another instruction to which you should refer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give the relevant bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 965, *Shooting at Inhabited House or Occupied Motor Vehicle*."
+      },
+      {
+        "text": "CALCRIM No. 966, *Shooting at Uninhabited House or Unoccupied Motor Vehicle*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 247(a)."
+      },
+      {
+        "text": "• “Firearm” Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• “Malicious” Defined. Pen. Code, § 7(b)(4)."
+      },
+      {
+        "text": "• “Aircraft” Defined. Pen. Code, § 247."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); *In re Jerry R.* (1994) 29 Cal.App.4th 1432, 1438 [35 Cal.Rptr.2d 155] [in context of Pen. Code, § 246]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Laser"
+      },
+      {
+        "text": "Willfully and maliciously discharging a laser at an occupied aircraft that is in motion or flight is a separate crime. (See Pen. Code, § 247.5.) It is also a crime to willfully shine a light or other bright device at an aircraft with the intent to interfere with the aircraft’s operation. (See Pen. Code, § 248.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

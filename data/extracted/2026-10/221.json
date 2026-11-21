@@ -1,0 +1,60 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "221",
+  "title": "Reasonable Doubt: Bifurcated Trial",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      123,
+      124
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2015",
+  "revision_legend": null,
+  "body": [
+    "The People are required to prove the allegations beyond a reasonable doubt.",
+    "Proof beyond a reasonable doubt is proof that leaves you with an abiding conviction that the allegation is true. The evidence does not need to eliminate all possible doubt because everything in life is open to some possible or imaginary doubt.",
+    "In deciding whether the People have proved (an/the) allegation beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received during this [phase of the] trial. Unless the evidence proves (an/the) allegation beyond a reasonable doubt, you must find that the allegation has not been proved [and disregard it completely]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on reasonable doubt in any proceeding in which that standard of proof applies."
+      },
+      {
+        "text": "This instruction is provided for the court to use only in bifurcated trials or special proceedings where the court is required to instruct on reasonable doubt but neither CALCRIM No. 219, *Reasonable Doubt in Civil Commitment Proceedings*, nor CALCRIM No. 220, *Reasonable Doubt*, would apply. Do not use this instruction in place of CALCRIM No. 220 in a trial on the substantive crimes charged."
+      },
+      {
+        "text": "Use this instruction only if: (1) the court has granted a bifurcated trial on a prior conviction or a sentencing factor (see CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial* and CALCRIM No. 3251, *Enhancement, Sentencing Factor, or Specific Factual Issue: Template—Bifurcated Trial*); or (2) in the penalty phase of a capital trial when the court is instructing on other violent criminal activity or prior felony convictions offered as aggravation (see CALCRIM No. 764, *Death Penalty: Evidence of Other Violent Crimes* and CALCRIM No. 765, *Death Penalty: Conviction for Other Felony Crimes*)."
+      },
+      {
+        "text": "In the first sentence, the court, at its discretion, may wish to insert a description of the specific allegations that the People must prove."
+      },
+      {
+        "text": "In the final paragraph, give the bracketed phrase “and disregard it completely” when using this instruction in the penalty phase of a capital trial."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, §§ 1096, 1096a; *People v. Freeman* (1994) 8 Cal.4th 450, 503–504 [34 Cal.Rptr.2d 558, 882 P.2d 249]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

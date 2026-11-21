@@ -1,0 +1,114 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "335",
+  "title": "Accomplice Testimony: No Dispute Whether Witness Is Accomplice",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      181,
+      184
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2010, August 2012, February 2016, March 2019, March 2023",
+  "revision_legend": null,
+  "body": [
+    "If the crime[s] of ______ <insert charged crime[s]> (was/were) committed, then ______ <insert name[s] of witness[es]> (was/were) [an] accomplice[s] to (that/those) crime[s].",
+    "You may not convict the defendant of ______ <insert crime[s]> based on the (statement/[or] testimony) of an accomplice alone. You may use (a statement/[or] testimony) of an accomplice that tends to incriminate the defendant to convict the defendant only if:",
+    "1. The accomplice’s (statement/[or] testimony) is supported by other evidence that you believe;",
+    "2. That supporting evidence is independent of the accomplice’s (statement/[or] testimony);",
+    "AND",
+    "3. That supporting evidence tends to connect the defendant to the commission of the crime[s].",
+    "Supporting evidence, however, may be slight. It does not need to be enough, by itself, to prove that the defendant is guilty of the charged crime, and it does not need to support every fact (mentioned by the accomplice in the statement/[or] about which the witness testified). On the other hand, it is not enough if the supporting evidence merely shows that a crime was committed or the circumstances of its commission. The supporting evidence must tend to connect the defendant to the commission of the crime.",
+    "[The evidence needed to support the (statement/[or] testimony) of one accomplice cannot be provided by the (statement/[or] testimony) of another accomplice.]",
+    "Any (statement/[or] testimony) of an accomplice that tends to incriminate the defendant should be viewed with caution. You may not, however, arbitrarily disregard it. You should give that (statement/[or] testimony) the weight you think it deserves after examining it with care and caution and in the light of all the other evidence."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is a sua sponte duty to instruct on the principles governing the law of accomplices, including the need for corroboration, if the evidence at trial suggests that a witness could be an accomplice. (*People v. Tobias* (2001) 25 Cal.4th 327, 331 [106 Cal.Rptr.2d 80, 21 P.3d 758].)"
+      },
+      {
+        "text": "“Whether a person is an accomplice is a question of fact for the jury unless the facts and the inferences to be drawn therefrom are undisputed.” (*People v. Coffman and Marlow* (2004) 34 Cal.4th 1, 104 [17 Cal.Rptr.3d 710, 96 P.3d 30].) Give this instruction only if the court concludes that the witness is an accomplice as a matter of law or the parties agree about the witness’s status as an accomplice. (*People v. Verlinde* (2002) 100 Cal.App.4th 1146, 1161 [123 Cal.Rptr.2d 322] [only give instruction “ ‘if undisputed evidence established the complicity’ ”].) If there is a dispute about whether the witness is an accomplice, give CALCRIM No. 334, *Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice*."
+      },
+      {
+        "text": "If a codefendant’s testimony tends to incriminate another defendant, the court must give an appropriate instruction on accomplice testimony. (*People v. Avila* (2006) 38 Cal.4th 491, 562 [43 Cal. Rptr.3d 1, 133 P.3d 1076]; *citing People v. Box* (2000) 23 Cal.4th 1153, 1209 [99 Cal.Rptr.2d 69, 5 P.3d 130]; *People v. Alvarez* (1996) 14 Cal.4th 155, 218 [58 Cal.Rptr.2d 385, 926 P.2d 365].) The court must also instruct on accomplice testimony when two co-defendants testify against each other and blame each other for the crime. (*Id.* at pp. 218–219.)"
+      },
+      {
+        "text": "When the witness is a codefendant whose testimony includes incriminating statements, the court should not instruct that the witness is an accomplice as a matter of law. (*People v. Hill* (1967) 66 Cal.2d 536, 555 [58 Cal.Rptr. 340, 426 P.2d 908].) Instead, the court should give CALCRIM No. 334, *Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice*, informing the jury that it must decide whether the testifying codefendant is an accomplice. In addition, the court should instruct that when the jury considers this testimony as it relates to the testifying codefendant’s defense, the jury should evaluate the testimony using the general rules of credibility, but if the jury considers testimony as incriminating evidence against the non-testifying codefendant, the testimony must be corroborated and should be viewed with caution. (See *People v. Coffman and Marlow, supra,* 34 Cal.4th at p. 105.)"
+      },
+      {
+        "text": "Do not give this instruction if accomplice testimony is solely exculpatory or neutral. (*People v. Smith* (2017) 12 Cal.App.5th 766, 778–780 [218 Cal.Rptr.3d 892] [telling jurors that corroboration is required to support neutral or exonerating accomplice testimony was prejudicial error].)"
+      },
+      {
+        "text": "If the court concludes that the corroboration requirement applies to an out-of-court statement, use the word “statement” throughout the instruction. (See discussion in Related Issues section to CALCRIM No. 334, *Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice*.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1111; *People v. Guiuan* (1998) 18 Cal.4th 558, 569 [76 Cal.Rptr.2d 239, 957 P.2d 928]."
+      },
+      {
+        "text": "• Accomplice May Not Provide Sole Basis for Admission of Other Evidence. *People v. Bowley* (1963) 59 Cal.2d 855, 863 [31 Cal.Rptr. 471, 382 P.2d 591]."
+      },
+      {
+        "text": "• Consideration of Incriminating Testimony. *People v. Guiuan, supra,* 18 Cal.4th at p. 569."
+      },
+      {
+        "text": "• Defense Admissions May Provide Necessary Corroboration. *People v. Williams* (1997) 16 Cal.4th 635, 680 [66 Cal.Rptr.2d 573, 941 P.2d 752]."
+      },
+      {
+        "text": "• Definition of Accomplice as Aider and Abettor. *People v. Stankewitz* (1990) 51 Cal.3d 72, 90–91 [270 Cal.Rptr. 817, 793 P.2d 23]."
+      },
+      {
+        "text": "• Extent of Corroboration Required. *People v. Szeto* (1981) 29 Cal.3d 20, 27 [171 Cal.Rptr. 652, 623 P.2d 213]."
+      },
+      {
+        "text": "• One Accomplice May Not Corroborate Another. *People v. Montgomery* (1941) 47 Cal.App.2d 1, 15 [117 P.2d 437], disapproved on other grounds in *Murgia v. Municipal Court* (1975) 15 Cal.3d 286, 301, fn. 11 [124 Cal.Rptr. 204, 540 P.2d 44] and *People v. Dillon* (1983) 34 Cal.3d 441, 454, fn. 2 [194 Cal.Rptr. 390, 668 P.2d 697]."
+      },
+      {
+        "text": "• Presence or Knowledge Insufficient. *People v. Boyd* (1990) 222 Cal.App.3d 541, 557, fn. 14 [271 Cal.Rptr. 738]; *In re Michael T.* (1978) 84 Cal.App.3d 907, 911 [149 Cal.Rptr. 87]."
+      },
+      {
+        "text": "• Testimony of Feigned Accomplice Need Not Be Corroborated. *People v. Salazar* (1962) 201 Cal.App.2d 284, 287 [20 Cal.Rptr. 25]; but see *People v. Brocklehurst* (1971) 14 Cal.App.3d 473, 476 [92 Cal.Rptr. 340]; *People v. Bohmer* (1975) 46 Cal.App.3d 185, 191–193 [120 Cal.Rptr. 136]."
+      },
+      {
+        "text": "• Uncorroborated Accomplice Testimony May Establish Corpus Delicti. *People v. Williams* (1988) 45 Cal.3d 1268, 1317 [248 Cal.Rptr. 834, 756 P.2d 221]."
+      },
+      {
+        "text": "• Witness an Accomplice as a Matter of Law. *People v. Williams, supra,* 16 Cal.4th at p. 679 [66 Cal.Rptr.2d 573, 941 P.2d 752]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Tran* (2022) 13 Cal.5th 1169, 1198–1201 [298 Cal.Rptr.3d 150, 515 P.3d 1210]; *People v. Tuggles* (2009) 179 Cal.App.4th 339, 363–367 [100 Cal.Rptr.3d 820]."
+      },
+      {
+        "text": "• In-Custody Informant Testimony and Accomplice Testimony May Corroborate Each Other. *People v. Huggins* (2015) 235 Cal.App.4th 715, 719–720 [185 Cal.Rptr.3d 672]."
+      },
+      {
+        "text": "• No Corroboration Requirement for Exculpatory Accomplice Testimony. *People v. Smith, supra,* 12 Cal.App.5th at pp. 778–780."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

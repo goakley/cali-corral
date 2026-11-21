@@ -1,0 +1,78 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "357",
+  "title": "Adoptive Admissions",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      201,
+      202
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that someone made a statement outside of court that (accused the defendant of the crime/[or] tended to connect the defendant with the commission of the crime) and the defendant did not deny it, you must decide whether each of the following is true:",
+    "1. The statement was made to the defendant or made in (his/her) presence;",
+    "2. The defendant heard and understood the statement;",
+    "3. The defendant would, under all the circumstances, naturally have denied the statement if (he/she) thought it was not true;",
+    "AND",
+    "4. The defendant could have denied it but did not.",
+    "If you decide that all of these requirements have been met, you may conclude that the defendant admitted the statement was true.",
+    "If you decide that any of these requirements has not been met, you must not consider either the statement or the defendant’s response for any purpose.",
+    "[You must not consider this evidence in determining the guilt of (the/any) other defendant[s].]"
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give an instruction on adoptive admissions; however, it must be given if requested by the defendant. (*People v. Carter* (2003) 30 Cal.4th 1166, 1198 [135 Cal.Rptr.2d 553, 70 P.3d 981]."
+      },
+      {
+        "text": "If the court instructs on adoptive admissions, the court also has a sua sponte duty to instruct on corpus delicti. (See CALCRIM No. 359, *Corpus Delicti: Independent Evidence of a Charged Crime*; see also *People v. Jennings* (1991) 53 Cal.3d 334, 364 [279 Cal.Rptr. 780, 807 P.2d 1009] [discussing corpus delicti rule in the case of an affirmative admission; by analogy the rule also should apply to adoptive admissions].)"
+      },
+      {
+        "text": "The limiting admonition in the last sentence of the instruction must be given on request when other codefendants are on trial. (*People v. Richards* (1976) 17 Cal.3d 614, 618–619 [131 Cal.Rptr. 537, 552 P.2d 97], disapproved on other grounds in *People v. Carbajal* (1995) 10 Cal.4th 1114, 1126 [43 Cal.Rptr.2d 681, 899 P.2d 67]; see generally Evid. Code, § 355.)"
+      },
+      {
+        "text": "Do not give this instruction if the defendant’s failure to reply was based on his or her invocation of the right to remain silent. (See *Griffin v. California* (1965) 380 U.S. 609 [85 S.Ct. 1229, 14 L.Ed.2d 106]; *People v. Cockrell* (1965) 63 Cal.2d 659 [47 Cal.Rptr. 788, 408 P.2d 116].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Atwood* (1963) 223 Cal.App.2d 316, 332–333 [35 Cal.Rptr. 831]; *People v. Vindiola* (1979) 96 Cal.App.3d 370 [158 Cal.Rptr. 6]; *People v. Humphries* (1986) 185 Cal.App.3d 1315, 1336 [230 Cal.Rptr. 536]; see *People v. Riel* (2000) 22 Cal.4th 1153, 1189 [96 Cal.Rptr.2d 1, 998 P.2d 969]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Defendant Intoxicated When Admission Made"
+      },
+      {
+        "text": "“Declarations of a prisoner under the influence of intoxicants are not rendered inadmissible by reason of his drunkenness. That condition would go only to the weight of the evidence.” (*People v. MacCagnan* (1954) 129 Cal.App.2d 100, 112 [276 P.2d 679].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

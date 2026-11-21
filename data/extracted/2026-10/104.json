@@ -1,0 +1,61 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "104",
+  "title": "Evidence",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      88,
+      89
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, August 2009, March 2019",
+  "revision_legend": null,
+  "body": [
+    "You must decide what the facts are in this case. You must use only the evidence that is presented in the courtroom [or during a jury view]. “Evidence” is the sworn testimony of witnesses, the exhibits admitted into evidence, and anything else I tell you to consider as evidence. The fact that the defendant was arrested, charged with a crime, or brought to trial is not evidence of guilt.",
+    "Nothing that the attorneys say is evidence. In their opening statements and closing arguments, the attorneys will discuss the case, but their remarks are not evidence. Their questions are not evidence. Only the witnesses’ answers are evidence. The attorneys’ questions are significant only if they help you understand the witnesses’ answers. Do not assume that something is true just because one of the attorneys asks a question that suggests it is true.",
+    "During the trial, the attorneys may object to questions asked of a witness. I will rule on the objections according to the law. If I sustain an objection, the witness will not be permitted to answer, and you must ignore the question. If the witness does not answer, do not guess what the answer might have been or why I ruled as I did. If I order testimony stricken from the record, you must disregard it and must not consider that testimony for any purpose.",
+    "You must disregard anything you see or hear when the court is not in session, even if it is done or said by one of the parties or witnesses.",
+    "The court [reporter] has made a (record/recording) of everything that was said during the trial. If you decide that it is necessary, you may ask that the (court reporter’s record be read to/court’s recording be played for) you. You must accept the (court reporter’s record/court’s recording) as accurate."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is no sua sponte duty to instruct on these evidentiary topics; however, instruction on these principles has been approved. (See *People v. Barajas* (1983) 145 Cal.App.3d 804, 809 [193 Cal.Rptr. 750]; *People v. Samayoa* (1997) 15 Cal.4th 795, 843–844 [64 Cal.Rptr.2d 400, 938 P.2d 2]; *People v. Horton* (1995) 11 Cal.4th 1068, 1121 [47 Cal.Rptr.2d 516, 906 P.2d 478].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Evidence Defined. Evid. Code, § 140. • Arguments Not Evidence. *People v. Barajas* (1983) 145 Cal.App.3d 804, 809 [193 Cal.Rptr. 750]."
+      },
+      {
+        "text": "• Questions Not Evidence. *People v. Samayoa* (1997) 15 Cal.4th 795, 843–844 [64 Cal.Rptr.2d 400, 938 P.2d 2]."
+      },
+      {
+        "text": "• Striking Testimony. *People v. Horton* (1995) 11 Cal.4th 1068, 1121 [47 Cal.Rptr.2d 516, 906 P.2d 478]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1183 [67 Cal.Rptr.3d 871]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

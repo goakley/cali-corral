@@ -1,0 +1,96 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "626",
+  "title": "Voluntary Intoxication Causing Unconsciousness: Effects on Homicide Crimes (Pen. Code, § 29.4)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      468,
+      470
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2014",
+  "revision_legend": null,
+  "body": [
+    "Voluntary intoxication may cause a person to be unconscious of his or her actions. A very intoxicated person may still be capable of physical movement but may not be aware of his or her actions or the nature of those actions.",
+    "A person is *voluntarily intoxicated* if he or she becomes intoxicated by willingly using any intoxicating drug, drink, or other substance knowing that it could produce an intoxicating effect, or willingly assuming the risk of that effect.",
+    "When a person voluntarily causes his or her own intoxication to the point of unconsciousness, the person assumes the risk that while unconscious he or she will commit acts inherently dangerous to human life. If someone dies as a result of the actions of a person who was unconscious due to voluntary intoxication, then the killing is involuntary manslaughter.",
+    "Involuntary manslaughter has been proved if you find beyond a reasonable doubt that:",
+    "1. The defendant killed without legal justification or excuse;",
+    "2. The defendant did not act with the intent to kill;",
+    "3. The defendant did not act with a conscious disregard for human life;",
+    "AND",
+    "4. As a result of voluntary intoxication, the defendant was not conscious of (his/her) actions or the nature of those actions.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant was not unconscious. If the People have not met this burden, you must find the defendant not guilty of (murder/[or] voluntary manslaughter)."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on voluntary intoxication causing unconsciousness if there is evidence to support this finding. (*People v. Graham* (1969) 71 Cal.2d 303, 316 [78 Cal.Rptr. 217, 455 P.2d 153] [partially abrogated by Pen. Code, § 29.4(c)]; *People v. Ochoa* (1998) 19 Cal.4th 353, 423–424 [79 Cal.Rptr.2d 408, 966 P.2d 442].) However, the court may properly refuse to give this instruction when the evidence shows that the defendant acted with malice before becoming intoxicated. (*People v. Whitfield* (1994) 7 Cal.4th 437, 455 [27 Cal.Rptr.2d 858, 868 P.2d 272] [partially abrogated by amendments to Pen. Code, § 29.4(a)].)"
+      },
+      {
+        "text": "In *People v. Ochoa* (1998) 19 Cal.4th 353, 423–424 [79 Cal.Rptr.2d 408, 966 P.2d 442] [quoting *People v. Graham* (1969) 71 Cal.2d 303, 316 [78 Cal.Rptr. 217, 455 P.2d 153]], the court stated,"
+      },
+      {
+        "text": "[I]f the state of unconsciousness results from intoxication voluntarily induced . . . it is not a complete defense. If the intoxication is voluntarily induced, it can never excuse homicide . . . . [The] requisite element of criminal negligence is deemed to exist irrespective of unconsciousness, and a defendant stands guilty of involuntary manslaughter if he voluntarily procured his own intoxication."
+      },
+      {
+        "text": "The committee has chosen not to include the phrase “criminal negligence is deemed to exist” because the committee concluded that this unnecessarily complicates the issue for the jury."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Definition of Voluntary Intoxication. Pen. Code, § 29.4(c)."
+      },
+      {
+        "text": "• Presumption of Criminal Negligence. *People v. Graham* (1969) 71 Cal.2d 303, 317, fn. 4 [78 Cal.Rptr. 217, 455 P.2d 153] [partially abrogated by Pen. Code, § 29.4(c)]."
+      },
+      {
+        "text": "• Malice Preceded Intoxication. *People v. Whitfield* (1994) 7 Cal.4th 437, 455 [27 Cal.Rptr.2d 858, 868 P.2d 272] [partially abrogated by amendments to Pen. Code, § 29.4(a)]."
+      },
+      {
+        "text": "• Criminal Negligence. *People v. Penny* (1955) 44 Cal.2d 861, 879–880 [285 P.2d 926]; *People v. Rodriguez* (1960) 186 Cal.App.2d 433, 440 [8 Cal.Rptr. 863]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Unconsciousness Does Not Require Inability to Move"
+      },
+      {
+        "text": "“[U]nconsciousness can exist . . . where the subject physically acts in fact but is not, at the time, conscious of acting.” (*People v. Ochoa* (1998) 19 Cal.4th 353, 424 [79 Cal.Rptr.2d 408, 966 P.2d 442] [citations and internal quotation marks omitted]; see also *People v. Hughes* (2002) 27 Cal.4th 287, 343–344 [116 Cal.Rptr.2d 401, 39 P.3d 432].)"
+      },
+      {
+        "heading": true,
+        "text": "Malice Preceded Intoxication: Drunk Driving"
+      },
+      {
+        "text": "In a case in which the defendant was convicted of second degree murder following a fatal drunk driving accident, the trial court properly refused to give an unconsciousness instruction where the defendant’s long history of drinking and driving established that he acted with malice prior to becoming intoxicated. (*People v. Whitfield* (1994) 7 Cal.4th 437, 455 [27 Cal.Rptr.2d 858, 868 P.2d 272] [partially abrogated by amendments to Pen. Code, § 29.4(a)].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

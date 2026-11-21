@@ -1,0 +1,50 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1860",
+  "title": "Owner’s Opinion of Value",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1305,
+      1305
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "A witness gave (his/her) opinion of the value of the property (he/she) [allegedly] owned. In considering the opinion, you may but are not required to accept it as true or correct. Consider the reasons the witness gave for any opinion, the facts or information on which (he/she) relied in forming that opinion, and whether the information on which the witness relied was true and accurate. You may disregard all or any part of an opinion that you find unbelievable or unreasonable. You may give the opinion whatever weight, if any, you believe it deserves."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "When the owner of property testifies about his or her opinion of the value of the property, give this instruction on request."
+      },
+      {
+        "text": "If an expert witness testified about its value, give CALCRIM No. 332, *Expert Witness Testimony*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Owner May Testify to Value. *People v. Coleman* (1963) 222 Cal.App.2d 358, 361 [35 Cal.Rptr. 141]."
+      },
+      {
+        "text": "• Jury Must Decide What Weight to Give Owner Opinion. *People v. Pena* (1977) 68 Cal.App.3d 100, 102–103 [135 Cal.Rptr. 602]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

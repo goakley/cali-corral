@@ -1,0 +1,125 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "315",
+  "title": "Eyewitness Identification",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      157,
+      160
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, March 2022",
+  "revision_legend": null,
+  "body": [
+    "You have heard eyewitness testimony identifying the defendant. As with any other witness, you must decide whether an eyewitness gave truthful and accurate testimony.",
+    "In evaluating identification testimony, consider the following questions:",
+    "• Did the witness know or have contact with the defendant before the event?",
+    "• How well could the witness see the perpetrator?",
+    "• What were the circumstances affecting the witness’s ability to observe, such as lighting, weather conditions, obstructions, distance, [and] duration of observation[, and ______ <insert any other relevant circumstances>]?",
+    "• How closely was the witness paying attention?",
+    "• Was the witness under stress when he or she made the observation?",
+    "• Did the witness give a description and how does that description compare to the defendant?",
+    "• How much time passed between the event and the time when the witness identified the defendant?",
+    "• Was the witness asked to pick the perpetrator out of a group?",
+    "• Did the witness ever fail to identify the defendant?",
+    "• Did the witness ever change his or her mind about the identification?",
+    "• Are the witness and the defendant of different races?",
+    "• [Was the witness able to identify other participants in the crime?]",
+    "• [Was the witness able to identify the defendant in a photographic or physical lineup?]",
+    "• [______ <insert other relevant factors raised by the evidence>.]",
+    "• Were there any other circumstances affecting the witness’s ability to make an accurate identification?",
+    "• [How certain was the witness when he or she made an identification?]",
+    "[A witness’s expression of certainty about an identification, whether the identification was made before or at the trial, may not be a reliable indicator of accuracy. Among the factors you may consider when evaluating the significance of the witness’s certainty in the identification are the following:",
+    "[• How soon after the event did the witness express certainty about the identification?]",
+    "[• If the witness made an identification before trial, did the witness express certainty at the time of that identification?]",
+    "[• Before the identification, did the witness express confidence in being able to make an identification?]",
+    "[• How confident was the witness in making the identification?]",
+    "[• Did the witness receive information before or after the identification that may have increased the witness’s level of confidence?]",
+    "[• Did the police use procedures that increased the witness’s level of confidence about the identification?]",
+    "[• ______ <insert other relevant factors raised by the evidence>.]]",
+    "The People have the burden of proving beyond a reasonable doubt that it was the defendant who committed the crime. If the People have not met this burden, you must find the defendant not guilty."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    0.0,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give an instruction on eyewitness testimony. (*People v. Richardson* (1978) 83 Cal.App.3d 853, 863 [148 Cal.Rptr. 120], disapproved on other grounds by *People v. Saddler* (1979) 24 Cal.3d 671, 682 [156 Cal.Rptr. 871, 597 P.2d 130].) An instruction relating eyewitness identification to reasonable doubt, including any relevant “pinpoint” factors, must be given by the trial court on request “[w]hen an eyewitness identification of the defendant is a key element of the prosecution’s case but is not substantially corroborated by evidence giving it independent reliability.” (*People v. Wright* (1988) 45 Cal.3d 1126, 1143–1144 [248 Cal.Rptr. 600, 755 P.2d 1049], quoting *People v. McDonald* (1984) 37 Cal.3d 351, 377 [208 Cal.Rptr. 236, 690 P.2d 709], overruled on other grounds in *People v. Mendoza* (2000) 23 Cal.4th 896, 914 [98 Cal.Rptr.2d 431, 4 P.3d 265]; *People v. Fudge* (1994) 7 Cal.4th 1075, 1110 [31 Cal.Rptr.2d 321, 875 P.2d 36]; *People v. Palmer* (1984) 154 Cal.App.3d 79, 89 [203 Cal.Rptr. 474] [error to refuse defendant’s requested instruction on eyewitness testimony].)"
+      },
+      {
+        "text": "Whenever there is evidence a witness has expressed certainty about an identification, give the bracketed language beginning with “How certain was the witness” and the bracketed paragraph that begins with “A witness’s expression of certainty” along with any applicable bracketed factors."
+      },
+      {
+        "text": "Whenever there is evidence a witness has expressed doubt about an identification, give the bracketed language beginning with “How certain was the witness” upon request, and do not give the bracketed paragraph that begins with “A witness’s expression of certainty” nor any of the factors that follow."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Factors. *People v. Wright* (1988) 45 Cal.3d 1126, 1139, fn. 9, 1141 [248 Cal.Rptr. 600, 755 P.2d 1049]; *People v. West* (1983) 139 Cal.App.3d 606, 609 [189 Cal.Rptr. 36]."
+      },
+      {
+        "text": "• Certainty Factor. *People v. Lemcke* (2021) 11 Cal.5th 644 [278 Cal.Rtpr.3d 849, 486 P.3d 1077]."
+      },
+      {
+        "text": "• Reasonable Doubt. *People v. Hall* (1980) 28 Cal.3d 143, 159–160 [167 Cal.Rptr. 844, 616 P.2d 826], overruled on other grounds in *People v. Newman* (1999) 21 Cal.4th 413, 422, fn. 6 [87 Cal.Rptr.2d 474, 981 P.2d 98]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The court should give the unbracketed factors, if requested, in every case in which identity is disputed. A blank space has also been provided for the court to include any factual circumstances relevant to eyewitness identification that have not been addressed in the preceding list of factors."
+      },
+      {
+        "text": "In *People v. Wright* (1988) 45 Cal.3d 1126, 1139 [248 Cal.Rptr. 600, 755 P.2d 1049], the court suggested that the trial court select factors from an approved list of eyewitness identification factors and then give counsel the opportunity to supplement with any additional relevant factors. (*Id.* at pp. 1126, 1143.) Additional “pinpoint” factors should be neutrally written, brief, and nonargumentative. (*Ibid.*; see also *People v. Gaglione* (1994) 26 Cal.App.4th 1291, 1302–1303 [32 Cal.Rptr.2d 169], overruled on other grounds in *People v. Martinez* (1995) 11 Cal.4th 434, 452 [45 Cal.Rptr.2d 903, 908 P.2d 1037].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Police Procedures in Conducting Eyewitness Identifications"
+      },
+      {
+        "text": "In *People v. Lemcke*, *supra*, 11 Cal.5th at pp. 664–665, the Supreme Court recognized that the jury may require a further understanding of the type of police procedures that may be suggestive or confirmatory of an eyewitness’s identification. Penal Code section 859.7 sets forth standards for law enforcement when conducting photo lineups and live lineups in order to ensure reliable and accurate eyewitness identifications."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

@@ -1,0 +1,86 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2844",
+  "title": "Determining Income: Cash Expenditures Method",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2070,
+      2072
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "In this case, the People are [also] using the *cash expenditures method* to try to prove that the defendant had unreported taxable income. I will now explain the cash expenditures method.",
+    "The cash expenditures method involves an examination of money the defendant spent during the taxable year along with (his/her) net worth at the beginning and at the end of that year.",
+    "On any given date, a person’s *net worth* is the value of everything that person owns minus the value of all that person’s debts and financial obligations. It is the difference between what a person owns and what that person owes. The value of any item that a person owns is measured by what it was worth when acquired, not its current market value.",
+    "If the People have proved beyond a reasonable doubt that: (1) during the year, the defendant spent money in ways that did not change (his/her) net worth at the end of the year and (2) those expenditures would not be valid tax deductions, then you may but are not required to conclude that the defendant received money or property during the year.",
+    "The People must also prove that the money or property was taxable income. In order do so, the People must prove that: (a) the defendant had one or more sources of taxable income, and (b) the money or property the defendant received during the year did not come from nontaxable sources. Nontaxable sources of income include gifts, inheritances, loans, or redeposits or transfers of funds between bank accounts. If you have a reasonable doubt about whether the People have proved any of these factors, you must find that the People have not proved under the cash expenditures method that the defendant had unreported taxable income.",
+    "In order to prove that the defendant had *unreported* taxable income [using the cash expenditures method], the People must prove that the defendant’s cash expenditures establish taxable income that was substantially greater than the income that (he/she) reported on (his/her) tax return for ______ <insert year alleged>.",
+    "[There is another factor you may consider in deciding whether the People have proved that the defendant had unreported taxable income under the cash expenditures method. If the People prove that the defendant’s net worth increased during ______ <insert year alleged>, then you may but are not required to conclude that the defendant received money or property during that year. In order to prove that the money or property received was taxable income, the People must also prove that: (1) the defendant had one or more sources of taxable income and (2) the money or property the defendant received during the year did not come from nontaxable sources. If the People have proved that: (a) the defendant’s net worth increased during ______ <insert year alleged>, (b) the defendant had one or more sources of taxable income, and (c) the money or property the defendant received during the year did not come from nontaxable sources, then you may but are not required to conclude that the money or property received was taxable income to the defendant. If you have a reasonable doubt about whether the People have proved (a), (b), or (c), you may not take any increase in the defendant’s net worth into account in applying the cash expenditures method.]",
+    "In order to rely on an increase in the defendant’s net worth to prove unreported taxable income under the cash expenditures method, the People must prove the defendant’s net worth at the starting point with reasonable certainty. Here the starting point is January 1, ______ <insert year alleged>. The People are not required to prove the exact value of each and every asset defendant owned at the starting point. However, the People must prove beyond a reasonable doubt that all the assets defendant owned at the starting point were not enough to account for any proven increase in the defendant’s net worth during the year.",
+    "In deciding whether the defendant’s net worth at the starting point has been proved with reasonable certainty and whether the People have proved that any money or property the defendant received during the year did not come from nontaxable sources, consider whether law enforcement agents sufficiently investigated all reasonable “leads” concerning the existence and value of other assets and sources of nontaxable income. Law enforcement agents must investigate all reasonable leads that arise during the investigation or that defendant suggests regarding assets and income. This duty to reasonably investigate applies only to leads that arise during the investigation or to explanations the defendant gives during the investigation. Law enforcement agents are not required to investigate every conceivable asset or source of nontaxable funds.",
+    "If you have a reasonable doubt about any of the following:",
+    "A. Whether the investigation reasonably pursued or refuted the defendant’s explanations or other leads regarding defendant’s assets or income during the year,",
+    "B. Whether the People have proved the defendant’s net worth at the beginning of ______ <insert year alleged> to a reasonable degree of certainty,",
+    "OR",
+    "C. Whether the People have proved that any nondeductible expenditures the defendant made during the year, together with any increase in the defendant’s net worth, were substantially more than the income that the defendant reported on (his/her) tax return for ______ <insert year alleged>,",
+    "then you must find that the People have not proved under the cash expenditures method that the defendant had unreported taxable income.",
+    "[If, on the other hand, you conclude that the defendant did have unreported taxable income, you must still decide whether the People have proved all elements of the crime[s] charged [in Count[s] ______].]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    16.3,
+    17.0,
+    16.0,
+    16.3,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If the prosecution is relying on the cash expenditures method, the court has a sua sponte duty to give this instruction. (See *Holland v. United States* (1954) 348 U.S. 121, 129 [75 S.Ct. 127, 99 L.Ed. 150]; *United States v. Hall* (9th Cir. 1981) 650 F.2d 994, 998.)"
+      },
+      {
+        "text": "The court must also give the appropriate instruction on the elements of the offense charged."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “If, on the other hand, you conclude” in every case, unless the court is giving CALCRIM No. 2846, *Proof of Unreported Taxable Income: Must Still Prove Elements of Offense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Cash Expenditures Method Explained. *United States v. Caswell* (8th Cir. 1987) 825 F.2d 1228, 1231–1232; see also Pattern Jury Instructions of the District Judges Association of the Eleventh Circuit, Offense Instruction No. 93.4 (2003); Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.07."
+      },
+      {
+        "text": "• Sua Sponte Duty to Instruct on Method. See *Holland v. United States* (1954) 348 U.S. 121, 129 [75 S.Ct. 127, 99 L.Ed. 150]; *United States v. Hall* (1981) 650 F.2d 994, 998."
+      },
+      {
+        "text": "• Requirements for Proof. *United States v. Caswell* (8th Cir. 1987) 825 F.2d 1228, 1231–1232; *United States v. Citron* (2d Cir. 1986) 783 F.2d 307, 315–316; *Taglianetti v. United States* (1st Cir. 1968) 398 F.2d 558, 562–563, 565."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

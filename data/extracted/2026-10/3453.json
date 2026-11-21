@@ -1,0 +1,92 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3453",
+  "title": "Extension of Commitment (Pen. Code, § 1026.5(b)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2403,
+      2405
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, December 2008, August 2015",
+  "revision_legend": null,
+  "body": [
+    "______ <insert name of respondent> has been committed to a mental health facility. You must decide whether (he/she) currently poses a substantial danger of physical harm to others as a result of a mental disease, defect, or disorder. That is the only purpose of this proceeding. You are not being asked to decide ______ <insert name of respondent>’s mental condition at any other time or whether (he/she) is guilty of any crime.",
+    "To prove that ______ <insert name of respondent> currently poses a substantial danger of physical harm to others as a result of a mental disease, defect, or disorder, the People must prove beyond a reasonable doubt that:",
+    "1. (He/She) suffers from a mental disease, defect, or disorder;",
+    "AND",
+    "2. As a result of (his/her) mental disease, defect, or disorder, (he/she) now:",
+    "a. Poses a substantial danger of physical harm to others;",
+    "AND",
+    "b. Has serious difficulty in controlling (his/her) dangerous behavior.",
+    "[Control of a mental condition through medication is a defense to a petition to extend commitment. To establish this defense, ______ <insert name of respondent> must prove by a preponderance of the evidence that:",
+    "1. (He/She) no longer poses a substantial danger of physical harm to others because (he/she) is now taking medicine that controls (his/her) mental condition;",
+    "AND",
+    "2. (He/She) will continue to take that medicine in an unsupervised environment.",
+    "Proof by *a preponderance of the evidence* is a different burden of proof from proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that it is more likely than not that the fact is true.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    35.0,
+    16.0,
+    34.3,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the standard for extending commitment, including the constitutional requirement that the person be found to have a disorder that seriously impairs the ability to control his or her dangerous behavior. (*People v. Sudar* (2007) 158 Cal.App.4th 655, 663 [70 Cal.Rptr.3d 190].)."
+      },
+      {
+        "text": "Give CALCRIM No. 219, *Reasonable Doubt in Civil Commitment Proceedings* and CALCRIM No. 3550, *Pre-Deliberation Instructions*, as well as any other relevant post-trial instructions, such as CALCRIM No. 222, *Evidence*, or CALCRIM No. 226, *Witnesses*."
+      },
+      {
+        "text": "The constitutional requirement for an involuntary civil commitment is that the person be found to have a disorder that seriously impairs the ability to control his or her dangerous behavior. (*Kansas v. Crane* (2002) 534 U.S. 407, 412–413 [122 S.Ct. 867, 151 L.Ed.2d 856]; *In re Howard N.* (2005) 35 Cal.4th 117, 128 [24 Cal.Rptr.3d 866, 106 P.3d 305].) This requirement applies to an extension of a commitment after a finding of not guilty by reason of insanity. (*People v. Zapisek* (2007) 147 Cal.App.4th 1151, 1159–1165 [54 Cal.Rptr.3d 873]; *People v. Bowers* (2006) 145 Cal.App.4th 870, 878 [52 Cal.Rptr.3d 74]; *People v. Galindo* (2006) 142 Cal.App.4th 531 [48 Cal.Rptr.3d 241].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1026.5(b)(1)."
+      },
+      {
+        "text": "• Unanimous Verdict, Burden of Proof. *Conservatorship of Roulet* (1979) 23 Cal.3d 219, 235 [152 Cal.Rptr. 425, 590 P.2d 1] [discussing conservatorship proceedings under the Lanterman-Petris-Short Act and civil commitment proceedings in general]."
+      },
+      {
+        "text": "• Affirmative Defense of Medication. *People v. Bolden* (1990) 217 Cal.App.3d 1591, 1600–1602 [266 Cal.Rptr. 724]."
+      },
+      {
+        "text": "• Serious Difficulty Controlling Behavior. *People v. Sudar* (2007) 158 Cal.App.4th 655, 662–663 [70 Cal.Rptr.3d 190] [applying the principles of *Kansas v. Crane* and *In re Howard N*.]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Extension of Commitment"
+      },
+      {
+        "text": "The test for extending a person’s commitment is not the same as the test for insanity. (*People v. Superior Court (Williams)* (1991) 233 Cal.App.3d 477, 490 [284 Cal.Rptr. 601].) The test for insanity is whether the accused “was incapable of knowing or understanding the nature and quality of his or her act or of distinguishing right from wrong at the time of the commission of the offense.” (Pen. Code, § 25(b); *People v. Skinner* (1985) 39 Cal.3d 765 [217 Cal.Rptr. 685, 704 P.2d 752.) In contrast, the standard for recommitment under Penal Code section 1026.5(b) is whether a defendant, “by reason of a mental disease, defect, or disorder [,] represents a substantial danger of physical harm to others.” (*People v. Superior Court*, *supra*, 233 Cal.App.3d at pp. 489–490; see *People v. Wilder* (1995) 33 Cal.App.4th 90, 99 [39 Cal.Rptr. 2d 247].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

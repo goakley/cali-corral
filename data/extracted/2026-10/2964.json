@@ -1,0 +1,127 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2964",
+  "title": "Purchasing Alcoholic Beverage for Person Under 21: Resulting in Death or Great Bodily Injury (Bus. & Prof. Code, § 25658(a) & (c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2122,
+      2125
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with [unlawfully] (purchasing an alcoholic beverage for[,]/[or] (furnishing[,]/[or] giving[,]/[or] giving away) an alcoholic beverage to[,]) a person under 21 years old causing (death/[or] great bodily injury) [in violation of Business and Professions Code section 25658].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [unlawfully] (purchased an alcoholic beverage for[,]/[or] (furnished[,]/[or] gave[,]/[or] gave away) an alcoholic beverage to[,]) ______ <insert name of person under 21>;",
+    "2. When the defendant did so, ______ <insert name of person under 21> was under 21 years old;",
+    "3. ______ <insert name of person under 21> consumed the alcoholic beverage;",
+    "AND",
+    "4. ______’s <insert name of person under 21> consumption of the alcoholic beverage caused (death/[or] great bodily injury) to (himself/herself/[or] another person).",
+    "An *alcoholic beverage* is a liquid or solid material intended to be consumed that contains one-half of 1 percent or more of alcohol by volume. [An *alcoholic beverage* includes ______ <insert type[s] of beverage[s] from Bus. & Prof. Code, § 23004, e.g., wine, beer>.]",
+    "[*Great bodily injury* is significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "An act causes (death/[or] great bodily injury) if the (death/[or] injury) is the direct, natural, and probable consequence of the act and the (death/[or] injury) would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence.",
+    "[There may be more than one cause of (death/[or] great bodily injury). An act causes (death/[or] injury) only if it is a substantial factor in causing the (death/[or] injury). A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the (death/[or] injury).]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "<Defense: Good Faith Belief at Least 21>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that ______ <insert name of person under 21> was at least 21 years old. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe that ______ <insert name of person under 21> was at least 21 years old. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "<Defense: Actual Reliance on Identification>",
+    "[The defendant did not unlawfully furnish an alcoholic beverage to a person under 21 years old if:",
+    "1. The defendant [or (his/her) (employee/[or] agent)] demanded to see a government-issued document as evidence of ______’s <insert name of person under 21> age and identity;",
+    "2. ______ <insert name of person under 21> showed the defendant [or (his/her) employee/[or] agent)] a government-issued document, or what appeared to be a government-issued document, as evidence of (his/her) age and identity;",
+    "AND",
+    "3. The defendant [or (his/her) employee/[or] agent)] actually relied on the document as evidence of ______’s <insert name of person under 21> age and identity.",
+    "As used here, a *government-issued document* is a document [including a driver’s license or an identification card issued to a person in the armed forces] that has been, or appears to have been, issued by a government agency and contains the person’s name, date of birth, description, and picture. The government-issued document does not have to be genuine.",
+    "[An *agent* is a person who is authorized to act for the defendant in dealings with other people.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not actually rely on a government-issued document, or what appeared to be a government-issued document, as evidence of ______’s <insert name of person under 21> age and identity. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If there is evidence of multiple causes of death or injury, the court should also give the bracketed paragraph on causation that begins with “There may be more than one cause of (death/[or] great bodily injury).” (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "Give the bracketed sentence about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "In *In re Jennings* (2004) 34 Cal.4th 254, 280 [17 Cal.Rptr.3d 645, 95 P.3d 906], the Supreme Court held that, although the prosecution is not required to prove that the defendant knew the age of the person he or she provided with alcohol, the defendant may assert as a defense a good faith belief that the person was at least 21. The burden is on the defendant to prove this defense. *(Ibid.)* The Court failed to state what burden of proof applies. Following *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067], the committee has drafted the instruction on the premise that the defendant’s burden is to merely raise a reasonable doubt about the defense, and the prosecution must then prove beyond a reasonable doubt that the defense does not apply. If there is sufficient evidence supporting the defense, the court has a sua sponte duty to give the bracketed paragraph on the defense. *(Ibid.)*"
+      },
+      {
+        "text": "Business and Professions Code section 25660 provides a defense for those who rely in good faith on bona fide evidence of age and identity. If there is sufficient evidence, the court has a sua sponte duty to instruct on the defense. (See *People v. Mower, supra,* 28 Cal.4th at pp. 478–481.) Give the bracketed word “unlawfully” in the first sentence and element 1, and the bracketed paragraph on the defense."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Bus. & Prof. Code, § 25658(a) & (c)."
+      },
+      {
+        "text": "• “Alcoholic Beverage” Defined. Bus. & Prof. Code, § 23004."
+      },
+      {
+        "text": "• “Great Bodily Injury” Defined. Pen. Code, § 12022.7(f)."
+      },
+      {
+        "text": "• Knowledge of Age Not an Element. *In re Jennings, supra,* 34 Cal.4th at p. 280."
+      },
+      {
+        "text": "• Good Faith Belief Person at Least 21 Defense. *In re Jennings, supra,* 34 Cal.4th at p. 280."
+      },
+      {
+        "text": "• Bona Fide Evidence of Age Defense. Bus. & Prof. Code, § 25660(c); *Kirby v. Alcoholic Beverage Control Appeals Board* (1968) 267 Cal.App.2d 895, 897, 898–899 [73 Cal.Rptr. 352]."
+      },
+      {
+        "text": "• Affirmative Defenses. See *People v. Mower, supra,* 28 Cal.4th at pp. 478–481."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 2962, *Selling or Furnishing Alcoholic Beverage to Person Under 21*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

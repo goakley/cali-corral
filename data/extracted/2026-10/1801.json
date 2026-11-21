@@ -1,0 +1,122 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1801",
+  "title": "Grand and Petty Theft (Pen. Code, §§ 486, 487–488, 490.2, 490.3, 491)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1253,
+      1255
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, August 2015, April 2020, September 2023, October 2025",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that the defendant committed a theft, you must decide whether the crime was grand theft or petty theft.",
+    "[The defendant committed petty theft if (he/she) stole (property/[(and/or)] services) worth $950 or less.]",
+    "[The defendant committed grand theft if the value of the (property/[(and/or)] services) is more than $950.]",
+    "[The defendant committed grand theft if the sum of the value of all (property/[ or] merchandise) [referenced in Count ______] is more than $950.]",
+    "[Theft of property from the person is grand theft if the value of the property is more than $950. Theft is *from the person* if the property taken was in the clothing of, on the body of, or in a container held or carried by, that person.]",
+    "[Theft of (an automobile/a horse/______ <insert other item listed in statute>) is grand theft if the value of the property is more than $950.]",
+    "[Theft of a firearm is grand theft.]",
+    "[Theft of (fruit/nuts/______ <insert other item listed in statute>) worth more than $950 is grand theft.]",
+    "[Theft of (fish/shellfish/aquacultural products/______ <insert other item listed in statute>) worth more than $950 is grand theft if (it/they) (is/are) taken from a (commercial fishery/research operation).]",
+    "[The value of ______ <insert relevant item enumerated in Pen. Code, § 487(b)(1)(B)>may be established by evidence proving that on the day of the theft, the same items of the same variety and weight as those stolen had a wholesale value of more than $950.]",
+    "[The value of (property/services) is the fair (market value of the property/market wage for the services performed).]",
+    "<Fair Market Value—Generally>",
+    "[*Fair market value* is the highest price the property would reasonably have been sold for in the open market at the time of, and in the general location of, the theft.]",
+    "<Fair Market Value—Urgent Sale>",
+    "[*Fair market value* is the price a reasonable buyer and seller would agree on if the buyer wanted to buy the property and the seller wanted to sell it, but neither was under an urgent need to buy or sell.]",
+    "The People have the burden of proving beyond a reasonable doubt that the theft was grand theft rather than a lesser crime. If the People have not met this burden, you must find the defendant not guilty of grand theft."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction if grand theft has been charged."
+      },
+      {
+        "text": "If grand theft is based on multiple thefts arising from one overall plan, give CALCRIM No. 1802, *Theft: As Part of Overall Plan*."
+      },
+      {
+        "text": "When the People allege the defendant has a prior conviction for an offense listed in Penal Code section 667(e)(2)(C)(iv) or for an offense requiring registration pursuant to subdivision (c) of section 290, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial* or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      },
+      {
+        "text": "If the evidence raises an issue that the value of the property may be inflated or deflated because of some urgency on the part of either the buyer or seller, the second bracketed paragraph on fair market value should be given."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Determination of Grand vs. Petty Theft. Pen. Code, §§ 486, 487–488, 490.2, 490.3, 491."
+      },
+      {
+        "text": "• Value/Nature of Property/Theft From the Person. Pen. Code, §§ 487(b)–(e), 487a."
+      },
+      {
+        "text": "• Theft of a Firearm Is Grand Theft. Pen. Code, §§ 487(d)(2), 490.2(c)."
+      },
+      {
+        "text": "• Aggregation Into Single Count or Charge. Pen. Code, § 490.3."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Penal Code Sections 490.2 and 490.3"
+      },
+      {
+        "text": "After the passage of Proposition 47 in 2014, theft is defined in Penal Code section 487 as a misdemeanor unless the value of the property taken exceeds $950. (Pen. Code, § 490.2.) This represents a change from the way grand theft was defined under Penal Code section 487(b)–(d) before the enactment of Proposition 47. In 2016, Proposition 63 added subdivision (c) to Penal Code section 490.2 (excepting theft of a firearm). In 2024, Proposition 36 added Penal Code section 490.3, which allows the degree of theft to be determined by the total value of stolen property or merchandise from one or more acts of theft or shoplifting when aggregated into a single count or charge."
+      },
+      {
+        "heading": true,
+        "text": "Taking From the Person"
+      },
+      {
+        "text": "To constitute a taking from the person, the property must, in some way, be physically attached to the person. (*People v. Williams* (1992) 9 Cal.App.4th 1465, 1472 [12 Cal.Rptr.2d 243].) Applying this rule, the court in *Williams* held that a purse taken from the passenger seat next to the driver was not a taking from the person. (*Ibid.* [see generally for court’s discussion of origins of this rule].) *Williams* was distinguished by the court in *People v. Huggins* (1997) 51 Cal.App.4th 1654, 1656–1657 [60 Cal.Rptr.2d 177], where evidence that the defendant took a purse placed on the floor next to and touching the victim’s foot was held sufficient to establish a taking from the person. The victim intentionally placed her foot next to her purse, physically touching it and thereby maintaining dominion and control over it."
+      },
+      {
+        "heading": true,
+        "text": "Theft of Fish, Shellfish, or Aquacultural Products"
+      },
+      {
+        "text": "Fish taken from public waters are not “property of another” within the meaning of Penal Code section 484 and 487; only the Fish and Game Code applies to such takings. (*People v. Brady* (1991) 234 Cal.App.3d 954, 959, 961–962 [286 Cal.Rptr. 19]; see, e.g., Fish & Game Code, § 12006.6 [unlawful taking of abalone].)"
+      },
+      {
+        "heading": true,
+        "text": "Value of Written Instrument"
+      },
+      {
+        "text": "If the thing stolen is evidence of a debt or some other written instrument, its value is (1) the amount due or secured that is unpaid, or that might be collected in any contingency, (2) the value of the property, title to which is shown in the instrument, or (3) or the sum that might be recovered in the instrument’s absence. (Pen. Code, § 492; see *Buck v. Superior Court* (1966) 245 Cal.App.2d 431, 438 [54 Cal.Rptr. 282] [trust deed securing debt]; *People v. Frankfort* (1952) 114 Cal.App.2d 680, 703 [251 P.2d 401] [promissory notes and contracts securing debt]; *People v. Quiel* (1945) 68 Cal.App.2d 674, 678 [157 P.2d 446] [unpaid bank checks]; see also Pen. Code, §§ 493 [value of stolen passage tickets], 494 [completed written instrument need not be issued or delivered].) If evidence of a debt or right of action is embezzled, its value is the sum due on or secured by the instrument. (Pen. Code, § 514.) Section 492 only applies if the written instrument has value and is taken from a victim. (See *People v. Sanders* (1998) 67 Cal.App.4th 1403, 1414, fn. 16 [79 Cal.Rptr.2d 806].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

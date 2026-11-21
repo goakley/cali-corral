@@ -1,0 +1,108 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "376",
+  "title": "Possession of Recently Stolen Property as Evidence of a Crime",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      229,
+      231
+    ]
+  },
+  "revision_line": "New January 2006, September 2019",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that the defendant knew (he/she) possessed property and you conclude that the property had in fact been recently (stolen/extorted), you may not convict the defendant of ______ <insert crime> based on those facts alone. However, if you also find that supporting evidence tends to prove (his/her) guilt, then you may conclude that the evidence is sufficient to prove (he/she) committed ______ <insert crime>.",
+    "The supporting evidence need only be slight and need not be enough by itself to prove guilt. You may consider how, where, and when the defendant possessed the property, along with any other relevant circumstances tending to prove (his/her) guilt of ______ <insert crime>.",
+    "[You may also consider whether ______ <insert other appropriate factors for consideration>.]",
+    "Remember that you may not convict the defendant of any crime unless you are convinced that each fact essential to the conclusion that the defendant is guilty of that crime has been proved beyond a reasonable doubt."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "In *People v. Najera* (2008) 43 Cal.4th 1132, 1141 [77 Cal.Rptr.3d 605, 184 P.3d 732], the Supreme Court abrogated *People v. Clark* (1953) 122 Cal.App.2d 342, 346 [265 P.2d 43] [failure to instruct that unexplained possession alone does not support finding of guilt was error]. Accordingly, there is no longer a sua sponte duty to give this instruction."
+      },
+      {
+        "text": "The instruction may be given when the charged crime is robbery, burglary, theft, or receiving stolen property. (See *People v. McFarland* (1962) 58 Cal.2d 748, 755 [26 Cal.Rptr. 473, 376 P.2d 449] [burglary and theft]; *People v. Johnson* (1993) 6 Cal.4th 1, 36–37 [23 Cal.Rptr.2d 593, 859 P.2d 673] [burglary]; *People v. Gamble* (1994) 22 Cal.App.4th 446, 453 [27 Cal.Rptr.2d 451] [robbery]; *People v. Anderson* (1989) 210 Cal.App.3d 414, 424 [258 Cal.Rptr. 482] [receiving stolen property].) The crime of receiving stolen property includes receiving property that was obtained by extortion (Pen. Code, § 496). Thus, the instruction also includes optional language for recently extorted property."
+      },
+      {
+        "text": "Use of this instruction should be limited to theft and theft-related crimes. (*People v. Prieto* (2003) 30 Cal.4th 226, 248–249 [133 Cal.Rptr.2d 18, 66 P.3d 1123] [trial court’s failure to do so was error]; *People v. Barker* (2001) 91 Cal.App.4th 1166, 1176 [111 Cal.Rptr.2d 403] [disapproving use of instruction to infer guilt of murder]; but see *People v. Harden* (2003) 110 Cal.App.4th 848, 856 [2 Cal.Rptr.3d 105] [court did not err in giving modified instruction on possession of recently stolen property in relation to special circumstance of murder committed during robbery]; *People v. Smithey* (1999) 20 Cal.4th 936, 975–978 [86 Cal.Rptr.2d 243, 978 P.2d 1171] [in a case involving both premeditated and felony murder, no error in instructing on underlying crimes of robbery and burglary]; *People v. Mendoza* (2000) 24 Cal.4th 130, 176–177 [99 Cal.Rptr.2d 485, 6 P.3d 150].)"
+      },
+      {
+        "heading": true,
+        "text": "Corroborating Evidence"
+      },
+      {
+        "text": "The bracketed paragraph that begins with “You may also consider” may be used if the court grants a request for instruction on specific examples of corroboration supported by the evidence. (See *People v. Russell* (1932) 120 Cal.App. 622, 625–626 [8 P.2d 209] [list of examples]; see also *People v. Peters* (1982) 128 Cal.App.3d 75, 85–86 [180 Cal.Rptr. 76] [reference to false or contradictory statement improper when no such evidence was introduced]). Examples include the following:"
+      },
+      {
+        "text": "a. False, contradictory, or inconsistent statements. (*People v. Anderson* (1989) 210 Cal.App.3d 414, 424 [258 Cal.Rptr. 482]; see, e.g., *People v. Peete* (1921) 54 Cal.App. 333, 345–346 [202 P. 51] [false statement showing consciousness of guilt]; *People v. Lang* (1989) 49 Cal.3d 991, 1024–1025 [264 Cal.Rptr. 386, 782 P.2d 627] [false explanation for possession of property]; *People v. Farrell* (1924) 67 Cal.App. 128, 133–134 [227 P. 210] [same].)"
+      },
+      {
+        "text": "b. The attributes of possession, e.g., the time, place, and manner of possession that tend to show guilt. (*People v. Anderson, supra,* 210 Cal.App.3d at p. 424; *People v. Hallman* (1973) 35 Cal.App.3d 638, 641 [110 Cal.Rptr. 891]; see, e.g., *People v. Gamble* (1994) 22 Cal.App.4th 446, 453–454 [27 Cal.Rptr.2d 451].)"
+      },
+      {
+        "text": "c. The opportunity to commit the crime. (*People v. Anderson, supra,* 210 Cal.App.3d at p. 425; *People v. Mosqueira* (1970) 12 Cal.App.3d 1173, 1176 [91 Cal.Rptr. 370].)"
+      },
+      {
+        "text": "d. The defendant’s conduct or statements tending to show guilt, or the failure to explain possession of the property under circumstances that indicate a “consciousness of guilt.” (*People v. Citrino* (1956) 46 Cal.2d 284, 288–289 [294 P.2d 32]; *People v. Wells* (1960) 187 Cal.App.2d 324, 328–329, 331–332 [9 Cal.Rptr. 384]; *People v. Mendoza* (2000) 24 Cal.4th 130, 175–176 [99 Cal.Rptr.2d 485, 6 P.3d 150]; *People v. Champion* (1968) 265 Cal.App.2d 29, 32 [71 Cal.Rptr. 113].)"
+      },
+      {
+        "text": "e. Flight after arrest. (*People v. Scott* (1924) 66 Cal.App. 200, 203 [225 P. 767]; *People v. Wells, supra,* 187 Cal.App.2d at p. 329.)"
+      },
+      {
+        "text": "f. Assuming a false name and being unable to find the person from whom the defendant claimed to have received the property. (*People v. Cox* (1916) 29 Cal.App. 419, 422 [155 P. 1010].)"
+      },
+      {
+        "text": "g. Sale of property under a false name and at an inadequate price. (*People v. Majors* (1920) 47 Cal.App. 374, 375 [190 P. 636].)"
+      },
+      {
+        "text": "h. Sale of property with identity marks removed (*People v. Miller* (1920) 45 Cal.App. 494, 496–497 [188 P. 52]) or removal of serial numbers (*People v. Esquivel* (1994) 28 Cal.App.4th 1386, 1401 [34 Cal.Rptr.2d 324])."
+      },
+      {
+        "text": "i. Modification of the property. (*People v. Esquivel, supra,* 28 Cal.App.4th at p. 1401 [shortening barrels of shotguns].)"
+      },
+      {
+        "text": "j. Attempting to throw away the property. (*People v. Crotty* (1925) 70 Cal.App. 515, 518–519 [233 P. 395].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Williams* (2000) 79 Cal.App.4th 1157, 1172 [94 Cal.Rptr.2d 727]; see *People v. McFarland* (1962) 58 Cal.2d 748, 755 [26 Cal.Rptr. 473, 376 P.2d 449]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. O’Dell* (2007) 153 Cal.App.4th 1569, 1577 [64 Cal.Rptr.3d 116]; *People v. Solorzano* (2007) 153 Cal.App.4th 1026, 1036 [63 Cal.Rptr.3d 659]."
+      },
+      {
+        "text": "• Corroboration Defined. See Pen. Code, § 1111; *People v. McFarland* (1962) 58 Cal.2d 748, 754–755 [26 Cal.Rptr. 473, 376 P.2d 449]."
+      },
+      {
+        "text": "• Due Process Requirements for Permissive Inferences. *Ulster County Court v. Allen* (1979) 442 U.S. 140, 157, 165 [99 S.Ct. 2213, 60 L.Ed.2d 777]; *People v. Williams* (2000) 79 Cal.App.4th 1157, 1172; *People v. Gamble* (1994) 22 Cal.App.4th 446, 454–455 [27 Cal.Rptr.2d 451]."
+      },
+      {
+        "text": "• Examples of Corroborative Evidence. *People v. Russell* (1932) 120 Cal.App. 622, 625–626 [8 P.2d 209]."
+      },
+      {
+        "text": "• Recently Stolen. *People v. Anderson* (1989) 210 Cal.App.3d 414, 421–422 [258 Cal.Rptr. 482]; *People v. Lopez* (1954) 126 Cal.App.2d 274, 278 [271 P.2d 874]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 10
+  },
+  "warnings": []
+}

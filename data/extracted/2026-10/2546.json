@@ -1,0 +1,66 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2546",
+  "title": "Carrying Concealed Firearm: Not Registered Owner and Weapon Loaded (Pen. Code, § 25400(c)(6))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1791,
+      1792
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of unlawfully (carrying a concealed firearm (on (his/her) person/within a vehicle)/causing a firearm to be carried concealed within a vehicle) [under Count[s] ______], you must then decide whether the People have proved the additional allegation that the defendant was not the registered owner of the firearm and (the firearm was loaded/the defendant possessed the firearm with ammunition).",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant is not listed with the Department of Justice as the registered owner of the firearm;",
+    "AND",
+    "<Alternative 2A—firearm loaded>",
+    "[2. The firearm was loaded.]",
+    "<Alternative 2B—ammunition nearby>",
+    "[2. The firearm and unexpended ammunition capable of being discharged from that firearm were either in the defendant’s immediate possession or readily accessible to (him/her).]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the sentencing factor. (See *Apprendi v. New Jersey* (2000) 530 U.S. 466, 475–476, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Give this instruction if the defendant is charged under Penal Code section 25400(c)(6) and the defendant does not stipulate that the firearm was loaded or possessed with ammunition and that he or she was not the registered owner. (*People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690].) This instruction must be given with the appropriate instruction defining the elements of carrying a concealed firearm, CALCRIM No. 2520, 2521, or 2522. The court must provide the jury with a verdict form on which the jury will indicate if the sentencing factor has been proved."
+      },
+      {
+        "text": "If the defendant does stipulate to this sentencing factor, this instruction should not be given and that information should not be disclosed to the jury. (See *People v. Hall, supra,* 67 Cal.App.4th at p. 135.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Factors. Pen. Code, § 25400(c) Sentencing Factors, Not Elements. *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

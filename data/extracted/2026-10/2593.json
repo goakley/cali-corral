@@ -1,0 +1,368 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2593",
+  "title": "Purchase, Possession, or Use of Tear Gas or Tear Gas Weapon (Pen. Code, § 22810(a), (e)(1), (g))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1846,
+      1853
+    ]
+  },
+  "revision_line": "New October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully (purchasing[,]/[ or] possessing[,]/[ or] using) (tear gas/[ or] a tear gas weapon) [in violation of Penal Code section 22810].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (purchased[,]/[ or] possessed[,]/[ or] used) (an item containing tear gas/[ or] a tear gas weapon);",
+    "2. When the defendant (purchased[,]/[ or] possessed[,]/[ or] used) the (item/weapon), the defendant knew that it (contained tear gas/was a tear gas weapon);",
+    "AND",
+    "<prohibited grounds related to defendant>",
+    "[3. When the defendant (purchased[,]/[ or] possessed[,]/[ or] used) the (item/weapon), the defendant (was not acting in self-defense/had been convicted of ______ <insert applicable offense>).]",
+    "<prohibited characteristics of a tear gas weapon>",
+    "[3. The tear gas weapon (could expel (a projectile/tear gas by any method other than an aerosol spray)/[ or] contained more than 2.5 ounces net weight of aerosol spray).]",
+    "*Tear gas* is a liquid, gaseous, or solid substance intended to produce temporary physical discomfort or permanent injury when vaporized or otherwise dispersed in the air.",
+    "[A *tear gas weapon* is a shell, cartridge, or bomb capable of being discharged or exploded to release or emit tear gas.] [A *tear gas weapon* [also] means a revolver, pistol, fountain pen gun, billy, or other device, portable or fixed, intended specifically to project or release tear gas.] [A *tear gas weapon* does not include a device regularly manufactured and sold for use with firearm ammunition.]",
+    "[Pepper spray is a type of tear gas.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The People allege that the defendant possessed the following (tear gas/tear gas weapons): ______ <insert description of each tear gas or tear gas weapon when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (purchased[,]/[ or] possessed[,]/[ or] used) at least one of the alleged items, and you all agree on which alleged item (he/she) (purchased[,]/[ or] possessed[,]/[ or] used).]",
+    "<sentence enhancement under Pen. Code, § 22810(g)(2)>",
+    "[The defendant used (tear gas/[ or] a tear gas weapon) against a peace officer engaged in the performance of official duties and, when the defendant used the (tear gas/[ or] tear gas weapon), the defendant knew or reasonably should have known that the person was a peace officer.]",
+    "[A person employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense, give any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple items, the court has a sua sponte duty to instruct on unanimity. (*People v. Heideman* (1976) 58 Cal.App.3d 321, 333 [130 Cal.Rptr. 349].) Give the bracketed paragraph that begins “The People allege that the defendant possessed the following tear gas or tear gas weapons” and insert the items alleged."
+      },
+      {
+        "text": "If the sentence enhancement under Penal Code section 22810(g)(2) is charged, the jury must determine whether the alleged victim is a peace officer. (See *People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 22810(a), (e)(1)."
+      },
+      {
+        "text": "• “Tear Gas” Defined. Pen. Code, § 17240."
+      },
+      {
+        "text": "• Pepper Spray is a Type of Tear Gas. *People v. Autterson* (1968) 261 Cal.App.2d 627, 630–631 [68 Cal.Rptr. 113]."
+      },
+      {
+        "text": "• Knowledge. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]; *In re Jorge M.* (2000) 23 Cal.4th 866, 887 [98 Cal.Rptr.2d 466, 4 P.3d 297]; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 629 [154 Cal.Rptr. 314]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. See *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6 [98 Cal.Rptr.2d 466, 4 P.3d 297]; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 619 [154 Cal.Rptr. 314]."
+      },
+      {
+        "text": "2594–2599. Reserved for Future Use"
+      },
+      {
+        "text": "CRIMES AGAINST GOVERNMENT"
+      },
+      {
+        "text": "A. BRIBERY OF OFFICIAL"
+      },
+      {
+        "text": "2600. Giving or Offering a Bribe to an Executive Officer (Pen. Code, § 67)"
+      },
+      {
+        "text": "2601. Giving or Offering a Bribe to a Ministerial Officer (Pen. Code, § 67.5)"
+      },
+      {
+        "text": "2602. Giving or Offering a Bribe to a Ministerial Officer: Value of Thing Offered (Pen. Code, § 67.5(b))"
+      },
+      {
+        "text": "2603. Requesting or Taking a Bribe (Pen. Code, §§ 68, 86, 93)"
+      },
+      {
+        "text": "2604–2609. Reserved for Future Use"
+      },
+      {
+        "text": "B. BRIBERY OR INTIMIDATION OF WITNESS"
+      },
+      {
+        "text": "(i) Bribery"
+      },
+      {
+        "text": "2610. Giving or Offering a Bribe to a Witness (Pen. Code, § 137(a))"
+      },
+      {
+        "text": "2611. Giving or Offering a Bribe to a Witness Not to Testify (Pen. Code, § 138(a))"
+      },
+      {
+        "text": "2612. Witness Receiving a Bribe (Pen. Code, § 138(b))"
+      },
+      {
+        "text": "2613–2619. Reserved for Future Use"
+      },
+      {
+        "text": "(ii) Threatening or Intimidating"
+      },
+      {
+        "text": "2620. Using Force or Threatening a Witness Before Testimony or Information Given (Pen. Code, § 137(b))"
+      },
+      {
+        "text": "2621. Influencing a Witness by Fraud (Pen. Code, § 137(b))"
+      },
+      {
+        "text": "2622. Intimidating a Witness (Pen. Code, § 136.1(a) & (b))"
+      },
+      {
+        "text": "2623. Intimidating a Witness: Sentencing Factors (Pen. Code, § 136.1(c))"
+      },
+      {
+        "text": "2624. Threatening a Witness After Testimony or Information Given (Pen. Code, § 140(a))"
+      },
+      {
+        "text": "2625–2629. Reserved for Future Use"
+      },
+      {
+        "text": "C. EVIDENCE TAMPERING"
+      },
+      {
+        "text": "2630. Evidence Tampering by Peace Officer or Other Person (Pen. Code, § 141)"
+      },
+      {
+        "text": "2631–2639. Reserved for Future Use"
+      },
+      {
+        "text": "D. PERJURY"
+      },
+      {
+        "text": "2640. Perjury (Pen. Code, § 118)"
+      },
+      {
+        "text": "2641. Perjury by False Affidavit (Pen. Code, § 118a)"
+      },
+      {
+        "text": "2642–2649. Reserved for Future Use"
+      },
+      {
+        "text": "E. THREATENING OR RESISTING OFFICER"
+      },
+      {
+        "text": "2650. Threatening a Public Official (Pen. Code, § 76)"
+      },
+      {
+        "text": "2651. Trying to Prevent an Executive Officer From Performing Duty (Pen. Code, § 69)"
+      },
+      {
+        "text": "2652. Resisting an Executive Officer in Performance of Duty (Pen. Code, § 69)"
+      },
+      {
+        "text": "2653. Taking Firearm or Weapon While Resisting Peace Officer or Public Officer (Pen. Code, § 148(b) & (c))"
+      },
+      {
+        "text": "2654. Intentionally Taking or Attempting to Take Firearm From Peace Officer or Public Officer (Pen. Code, § 148(d))"
+      },
+      {
+        "text": "2655. Causing Death or Serious Bodily Injury While Resisting Peace Officer (Pen. Code, § 148.10(a) & (b))"
+      },
+      {
+        "text": "2656. Resisting Peace Officer, Public Officer, or EMT (Pen. Code, § 148(a))"
+      },
+      {
+        "text": "2657–2669. Reserved for Future Use"
+      },
+      {
+        "text": "F. LAWFUL PERFORMANCE"
+      },
+      {
+        "text": "2670. Lawful Performance: Peace Officer"
+      },
+      {
+        "text": "2671. Lawful Performance: Custodial Officer"
+      },
+      {
+        "text": "2672. Lawful Performance: Resisting Unlawful Arrest With Force"
+      },
+      {
+        "text": "2673. Pat-Down Search"
+      },
+      {
+        "text": "2674–2679. Reserved for Future Use"
+      },
+      {
+        "text": "G. UNLAWFUL ASSEMBLY AND DISTURBING THE PEACE"
+      },
+      {
+        "text": "2680. Courthouse Picketing (Pen. Code, § 169)"
+      },
+      {
+        "text": "2681. Disturbance of Public Meeting (Pen. Code, § 403)"
+      },
+      {
+        "text": "2682. Inciting a Riot (Pen. Code, § 404.6(a))"
+      },
+      {
+        "text": "2683. Participating in a Riot (Pen. Code, §§ 404, 405)"
+      },
+      {
+        "text": "2684. Participating in a Rout (Pen. Code, §§ 406, 408)"
+      },
+      {
+        "text": "2685. Participating in an Unlawful Assembly (Pen. Code, §§ 407, 408)"
+      },
+      {
+        "text": "2686. Refusal to Disperse: Riot, Rout, or Unlawful Assembly (Pen. Code, §§ 407, 409)"
+      },
+      {
+        "text": "2687. Refusal to Disperse: Intent to Commit Unlawful Act (Pen. Code, § 416(a))"
+      },
+      {
+        "text": "2688. Disturbing the Peace: Fighting or Challenging Someone to Fight (Pen. Code, §§ 415(1), 415.5(a)(1))"
+      },
+      {
+        "text": "2689. Disturbing the Peace: Loud and Unreasonable Noise (Pen. Code, §§ 415(2), 415.5(a)(2))"
+      },
+      {
+        "text": "2690. Disturbing the Peace: Offensive Words (Pen. Code, §§ 415(3), 415.5(a)(3))"
+      },
+      {
+        "text": "2691–2699. Reserved for Future Use"
+      },
+      {
+        "text": "H. VIOLATION OF COURT ORDER"
+      },
+      {
+        "text": "2700. Violation of Court Order (Pen. Code, § 166(a)(4) & (b)(1))"
+      },
+      {
+        "text": "2701. Violation of Court Order: Protective Order or Stay Away (Pen. Code, §§ 166(c)(1), 273.6)"
+      },
+      {
+        "text": "2702. Violation of Court Order: Protective Order or Stay Away—Physical Injury (Pen. Code, §§ 166(c)(2), 273.6(b))"
+      },
+      {
+        "text": "2703. Violation of Court Order: Protective Order or Stay Away—Act of Violence (Pen. Code, §§ 166(c)(4), 273.6(d))"
+      },
+      {
+        "text": "2704–2719. Reserved for Future Use"
+      },
+      {
+        "text": "I. CRIMES INVOLVING PRISONERS"
+      },
+      {
+        "text": "(i) Assault and Battery"
+      },
+      {
+        "text": "2720. Assault by Prisoner Serving Life Sentence (Pen. Code, § 4500)"
+      },
+      {
+        "text": "2721. Assault by Prisoner (Pen. Code, § 4501)"
+      },
+      {
+        "text": "2722. Battery by Gassing (Pen. Code, §§ 243.9, 4501.1)"
+      },
+      {
+        "text": "2723. Battery by Prisoner on Nonprisoner (Pen. Code, § 4501.5)"
+      },
+      {
+        "text": "2724–2734. Reserved for Future Use"
+      },
+      {
+        "text": "(ii) Hostage Taking and Rioting"
+      },
+      {
+        "text": "2735. Holding a Hostage (Pen. Code, § 4503)"
+      },
+      {
+        "text": "2736. Inciting a Riot in a Prison or Jail (Pen. Code, § 404.6(c))"
+      },
+      {
+        "text": "2737–2744. Reserved for Future Use"
+      },
+      {
+        "text": "(iii) Possession of Contraband"
+      },
+      {
+        "text": "2745. Possession or Manufacture of Weapon in Penal Institution (Pen. Code, § 4502)"
+      },
+      {
+        "text": "2746. Possession of Firearm, Deadly Weapon, or Explosive in a Jail or County Road Camp (Pen. Code, § 4574(a))"
+      },
+      {
+        "text": "2747. Bringing or Sending Firearm, Deadly Weapon, or Explosive Into Penal Institution (Pen. Code, § 4574(a)–(c))"
+      },
+      {
+        "text": "2748. Possession of Controlled Substance or Paraphernalia in Penal Institution (Pen. Code, § 4573.6)"
+      },
+      {
+        "text": "2749. Bringing or Sending Controlled Substance or Paraphernalia Into Penal Institution (Pen. Code, § 4573(a))"
+      },
+      {
+        "text": "2750–2759. Reserved for Future Use"
+      },
+      {
+        "text": "(iv) Escape"
+      },
+      {
+        "text": "2760. Escape (Pen. Code, § 4532(a)(1) & (b)(1))"
+      },
+      {
+        "text": "2761. Escape by Force or Violence (Pen. Code, § 4532(a)(2) & (b)(2))"
+      },
+      {
+        "text": "2762. Escape After Remand or Arrest (Pen. Code, § 836.6)"
+      },
+      {
+        "text": "2763. Escape After Remand or Arrest: Force or Violence (Pen. Code, § 836.6)"
+      },
+      {
+        "text": "2764. Escape: Necessity Defense"
+      },
+      {
+        "text": "J. MISAPPROPRIATION OF PUBLIC MONEY"
+      },
+      {
+        "text": "2765. Misappropriation of Public Money (Pen. Code § 424(a)(1–7))"
+      },
+      {
+        "text": "2766–2799. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

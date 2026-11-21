@@ -1,0 +1,91 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2202",
+  "title": "Exhibition of Speed (Veh. Code, § 23109(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1568,
+      1569
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with engaging in an exhibition of speed [in violation of Vehicle Code section 23109].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant drove a motor vehicle on a highway;",
+    "AND",
+    "2. While so driving, the defendant willfully engaged in an exhibition of speed.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "A person *engages in an exhibition of speed* when he or she accelerates or drives at a rate of speed that is dangerous and unsafe in order to show off or make an impression on someone else.",
+    "[The People must prove that the defendant intended to show off or impress someone but are not required to prove that the defendant intended to show off to or impress any particular person.]",
+    "[A *motor vehicle* includes a (passenger vehicle/motorcycle/motor scooter/bus/school bus/commercial vehicle/truck tractor and trailer/______ <insert other type of motor vehicle>).]",
+    "[The term *highway* describes any area publicly maintained and open to the public for purposes of vehicular travel, and includes a street.]",
+    "[The term[s] (*motor vehicle/*[and] *highway*) (is/are) defined in another instruction to which you should refer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court must define the terms “motor vehicle” and “highway.” Give the bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "If the defendant is charged with aiding and abetting an exhibition of speed, give CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*. This instruction also must be given, but the court should modify the first sentence and change “defendant” to “perpetrator” throughout the instruction."
+      },
+      {
+        "text": "Give CALCRIM No. 2241, *Driver and Driving Defined*, on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 23109(c), (e)(2), (f)(1)–(3)."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Motor Vehicle Defined. Veh. Code, § 415."
+      },
+      {
+        "text": "• Highway Defined. Veh. Code, § 360."
+      },
+      {
+        "text": "• Serious Bodily Injury Defined. Pen. Code, § 243(f)(4)."
+      },
+      {
+        "text": "• Exhibition of Speed Defined. *People v. Grier* (1964) 226 Cal.App.2d 360, 364 [38 Cal.Rptr. 11]; *In re Harvill* (1959) 168 Cal.App.2d 490, 492–493 [335 P.2d 1016] [discussing prior version of statute]; see also *Tischoff v. Wolfchief* (1971) 16 Cal.App.3d 703, 707 [94 Cal.Rptr. 299] [term did not require definition in civil case]."
+      },
+      {
+        "text": "• Screeching Tires. *In re F. E.* (1977) 67 Cal.App.3d 222, 225 [136 Cal.Rptr. 547]; *People v. Grier* (1964) 226 Cal.App.2d 360, 363 [38 Cal.Rptr. 11]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

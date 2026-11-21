@@ -1,0 +1,158 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "853A",
+  "title": "Evidence of Uncharged Abuse of Elder or Dependent Person",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      656,
+      659
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, February 2014, March 2017, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The People presented evidence that the defendant [may have] committed abuse of (an elder/a dependent person) that was not charged in this case[, specifically: ______ <insert other abuse alleged>.] *Abuse of* (*an elder*/*a dependent person*) means (physical abuse[,] [or] sexual abuse[,]/[or] neglect[,]/[or] financial abuse[,]/[or] abandonment[,]/[or] isolation[,]/[or] abduction[,]/[or] the act by a care custodian of not providing goods or services that are necessary to avoid physical harm or mental suffering[,]/[or] [other] treatment that results in physical harm or pain or mental suffering).",
+    "[An *elder* is a person residing in California who is age 65 or older.]",
+    "[A *dependent person* is a person who has physical or mental impairments that substantially restrict his or her ability to carry out normal activities or to protect his or her rights. This definition includes, but is not limited to, those who have developmental disabilities or whose physical or mental abilities have significantly diminished because of age.]",
+    "You may consider this evidence only if the People have proved by a preponderance of the evidence that the defendant in fact committed the uncharged abuse of (an elder/a dependent person). Proof by a preponderance of the evidence is a different burden of proof from proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that it is more likely than not that the fact is true.",
+    "If the People have not met this burden of proof, you must disregard this evidence entirely.",
+    "If you decide that the defendant committed the uncharged abuse of (an elder/a dependent person), you may, but are not required to, conclude from that evidence that the defendant was disposed or inclined to commit abuse of (an elder/a dependent person), and based on that decision, also conclude that the defendant was likely to commit [and did commit] ______ <insert charged offense[s] involving abuse of elder or dependent person>, as charged here. If you conclude that the defendant committed the uncharged abuse of (an elder/a dependent person), that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of ______ <insert charged offense[s] involving abuse of elder or dependent person>. The People must still prove (the/each) (charge/[and] allegation) beyond a reasonable doubt.",
+    "[Do not consider this evidence for any other purpose [except for the limited purpose of ______ <insert other permitted purpose, e.g., determining the defendant’s credibility>].]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must give this instruction on request when evidence of other abuse of an elder or dependent person has been introduced. (See *People v. Falsetta* (1999) 21 Cal.4th 903, 924 [89 Cal.Rptr.2d 847, 986 P.2d 182] [error to refuse limiting instruction on request]; *People v. Jennings* (2000) 81 Cal.App.4th 1301, 1317–1318 [97 Cal.Rptr.2d 727]; *People v. Willoughby* (1985) 164 Cal.App.3d 1054, 1067 [210 Cal.Rptr. 880] [general limiting instructions should be given when evidence of past offenses would be highly prejudicial without them].)"
+      },
+      {
+        "text": "If the court has admitted evidence that the defendant was convicted of a felony or committed a misdemeanor for the purpose of impeachment in addition to evidence admitted under Evidence Code section 1109, then the court must specify for the jury what evidence it may consider under section 1109. (*People v. Rollo* (1977) 20 Cal.3d 109, 123, fn. 6 [141 Cal.Rptr. 177, 569 P.2d 771] [discussing section 1101(b); superseded in part on other grounds as recognized in *People v. Olmedo* (1985) 167 Cal.App.3d 1085, 1096 [213 Cal.Rptr. 742]].) In the first sentence, insert a description of the uncharged offense allegedly shown by the section 1109 evidence. If the court has not admitted any felony convictions or misdemeanor conduct for impeachment, then, in the first sentence, the court is not required to insert a description of the conduct alleged."
+      },
+      {
+        "text": "Depending on the evidence, give on request the bracketed definition of an elder or dependent person. (See Welf. & Inst. Code, §§ 15610.23 [dependent adult], 15610.27 [elder].) Other terms may be defined on request depending on the evidence. See the Authority section below for references to selected definitions from the Elder Abuse and Dependent Adult Civil Protection Act. (See Welf. & Inst. Code, § 15600 et seq.)"
+      },
+      {
+        "text": "In the paragraph that begins with “If you decide that the defendant committed,” the committee has placed the phrase “and did commit” in brackets. One appellate court has criticized instructing the jury that it may draw an inference about disposition. (*People v. James* (2000) 81 Cal.App.4th 1343, 1357, fn. 8 [96 Cal.Rptr.2d 823].) The court should review the Commentary section below and give the bracketed phrase at its discretion."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “Do not consider” on request."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 375, *Evidence of Uncharged Offense to Prove Identity, Intent, or Common Plan, etc.*"
+      },
+      {
+        "text": "CALCRIM No. 852A, *Evidence of Uncharged Domestic Violence*."
+      },
+      {
+        "text": "CALCRIM No. 852B, *Evidence of Charged Domestic Violence.*"
+      },
+      {
+        "text": "CALCRIM No. 853B, *Evidence of Charged Abuse of Elder or Dependent Person.*"
+      },
+      {
+        "text": "CALCRIM No. 1191A, *Evidence of Uncharged Sex Offense*."
+      },
+      {
+        "text": "CALCRIM No. 1191B, *Evidence of Charged Sex Offense.*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirement. Evid. Code, § 1109(a)(2)."
+      },
+      {
+        "text": "• “Abandonment” Defined. Welf. & Inst. Code, § 15610.05."
+      },
+      {
+        "text": "• “Abduction” Defined. Welf. & Inst. Code, § 15610.06."
+      },
+      {
+        "text": "• “Abuse of Elder or Dependent Person” Defined. Evid. Code, § 1109(d)(1)."
+      },
+      {
+        "text": "• “Care Custodian” Defined. Welf. & Inst. Code, § 15610.17."
+      },
+      {
+        "text": "• “Dependent Person” Defined. Evid. Code, § 177."
+      },
+      {
+        "text": "• “Elder” Defined. Welf. & Inst. Code, § 15610.27."
+      },
+      {
+        "text": "• “Financial Abuse” Defined. Welf. & Inst. Code, § 15610.30."
+      },
+      {
+        "text": "• “Goods and Services” Defined. Welf. & Inst. Code, § 15610.35."
+      },
+      {
+        "text": "• “Isolation” Defined. Welf. & Inst. Code, § 15610.43."
+      },
+      {
+        "text": "• “Mental Suffering” Defined. Welf. & Inst. Code, § 15610.53."
+      },
+      {
+        "text": "• “Neglect” Defined. Welf. & Inst. Code, § 15610.57."
+      },
+      {
+        "text": "• “Physical Abuse” Defined. Welf. & Inst. Code, § 15610.63."
+      },
+      {
+        "text": "• Other Crimes Proved by Preponderance of Evidence. *People v. Carpenter* (1997) 15 Cal.4th 312, 382 [63 Cal.Rptr.2d 1, 935 P.2d 708]; *People v. James* (2000) 81 Cal.App.4th 1343, 1359 [96 Cal.Rptr.2d 823]."
+      },
+      {
+        "text": "• Propensity Evidence Alone Is Not Sufficient to Support Conviction Beyond a Reasonable Doubt. *People v. Younger* (2000) 84 Cal.App.4th 1360, 1382 [101 Cal.Rptr.2d 624]; *People v. James, supra,* 81 Cal.App.4th at pp. 1357–1358, fn. 8 [96 Cal.Rptr.2d 823] [in context of prior domestic violence offenses]; see *People v. Hill* (2001) 86 Cal.App.4th 273, 277–278 [103 Cal.Rptr.2d 127] [in context of prior sexual offenses]."
+      },
+      {
+        "text": "• Charged Sex Offenses Proved Beyond a Reasonable Doubt May Be Evidence of Propensity. *People v. Cruz* (2016) 2 Cal.App.5th 1178, 1186-1186 [206 Cal.Rptr.3d 835]; *People v. Villatoro* (2012) 54 Cal.4th 1152, 1161 [144 Cal.Rptr.3d 401, 281 P.3d 390]."
+      },
+      {
+        "text": "• No Sua Sponte Duty To Give Similar Instruction. *People v. Cottone* (2013) 57 Cal.4th 269, 293, fn. 15 [159 Cal.Rptr.3d 385, 303 P.3d 1163]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The paragraph that begins with “If you decide that the defendant committed” tells the jury that they may draw an inference of disposition. (See *People v. Hill, supra,* 86 Cal.App.4th at pp. 275–279; *People v. Brown* (2000) 77 Cal.App.4th 1324, 1334–1335 [92 Cal.Rptr.2d 433].) One appellate court, however, suggests using more general terms to instruct the jury how they may use evidence of other domestic violence offenses, “leaving particular inferences for the argument of counsel and the jury’s common sense.” (*People v. James, supra,* 81 Cal.App.4th at p. 1357, fn. 8 [96 Cal.Rptr.2d 823] [includes suggested instruction].) If the trial court adopts this approach, the paragraph that begins with “If you decide that the defendant committed the uncharged abuse of (an elder/a dependent person)” may be replaced with the following:"
+      },
+      {
+        "text": "If you decide that the defendant committed the uncharged abuse of (an elder/a dependent person), you may consider that evidence and weigh it together with all the other evidence received during the trial to help you determine whether the defendant committed ______ <insert charged offense involving abuse of elder or dependent person>. Remember, however, that evidence of uncharged abuse of (an elder/a dependent person) is not sufficient alone to find the defendant guilty of ______ <insert charged offense involving abuse of elder or dependent person>. The People must still prove (the/each) (charge/[and] allegation) of ______ <insert charged offense involving abuse of elder or dependent person> beyond a reasonable doubt."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Exceptions"
+      },
+      {
+        "text": "Evidence of abuse of an elder or dependent person occurring more than 10 years before the charged offense is inadmissible under Evidence Code section 1109, unless the court determines that the admission of this evidence is in the interest of justice. (Evid. Code, § 1109(e).) Evidence of the findings and determinations of administrative agencies regulating health facilities is also inadmissible under section 1109. (Evid. Code, § 1109(f).)"
+      },
+      {
+        "text": "See the Related Issues sections of CALCRIM No. 375, *Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc.*, CALCRIM No. 852, *Evidence of Uncharged Domestic Violence*, and CALCRIM No. 1191, *Evidence of Uncharged Sex Offense*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,70 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "734",
+  "title": "Special Circumstances: Murder by Poison (Pen. Code, § 190.2(a)(19))",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      19,
+      19
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged with the special circumstance of murder by poison [in violation of Penal Code section 190.2(a)(19)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The defendant intended to kill ______ <insert name of decedent>;",
+    "AND",
+    "2. The defendant killed ______ <insert name of decedent> by the administration of poison.",
+    "[*Poison* is a substance, applied externally to the body or introduced into the body, that can kill by its own inherent qualities.]",
+    "[______ <insert name of substance> is a poison.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "Give the bracketed definition of poison if there is a dispute over whether the substance is a poison. Give the bracketed paragraph stating that the substance is a poison if the parties stipulate that the substance is a poison."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(19)."
+      },
+      {
+        "text": "• Special Circumstance Is Constitutional. *People v. Catlin* (2001) 26 Cal.4th 81, 159 [109 Cal.Rptr.2d 31, 26 P.3d 357]."
+      },
+      {
+        "text": "• “Poison” Defined. *People v. Van Deleer* (1878) 53 Cal. 147, 149."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006"
+  },
+  "supplement_status": "revised"
+}

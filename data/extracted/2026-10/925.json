@@ -1,0 +1,106 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "925",
+  "title": "Battery Causing Serious Bodily Injury (Pen. Code, §§ 242, 243(d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      735,
+      737
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with battery causing serious bodily injury [in violation of Penal Code section 243(d)].",
+    "To prove that the defendant is guilty of this charge, the People must prove that:",
+    "1. The defendant willfully [and unlawfully] touched ______ <insert name> in a harmful or offensive manner;",
+    "[AND]",
+    "2. ______ <insert name> suffered serious bodily injury as a result of the force used(;/.)",
+    "<Give element 3 when instructing on self-defense, defense of another, or reasonable discipline.>",
+    "[AND",
+    "3. The defendant did not act (in self-defense/[or] in defense of someone else/[or] while reasonably disciplining a child).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "Making contact with another person, including through his or her clothing, is enough to commit a battery.",
+    "[A *serious bodily injury* means a serious impairment of physical condition. Such an injury may include[, but is not limited to]: (loss of consciousness/concussion/bone fracture/protracted loss or impairment of function of any bodily member or organ/a wound requiring extensive suturing/[and] serious disfigurement).]",
+    "[______ <insert description of injury when appropriate; see Bench Notes> is a serious bodily injury.]",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3, the bracketed words “and unlawfully” in element 1, and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "If there is sufficient evidence of reasonable parental discipline, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3, the bracketed words “and unlawfully” in element 1, and CALCRIM No. 3405, *Parental Right to Punish a Child*."
+      },
+      {
+        "text": "Whether the complaining witness suffered a serious bodily injury is a question for the jury to determine. If the defendant disputes that the injury suffered was a serious bodily injury, use the first bracketed paragraph. If the parties stipulate that the injury suffered was a serious bodily injury, use the second bracketed paragraph."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 242, 243(d); see *People v. Martinez* (1970) 3 Cal.App.3d 886, 889 [83 Cal.Rptr. 914] [harmful or offensive touching]."
+      },
+      {
+        "text": "• “Serious Bodily Injury” Defined. Pen. Code, § 243(f)(4); *People v. Burroughs* (1984) 35 Cal.3d 824, 831 [201 Cal.Rptr. 319, 678 P.2d 894] [serious bodily injury and great bodily injury are essentially equivalent elements], disapproved on other grounds in *People v. Blakeley* (2000) 23 Cal.4th 82, 89 [96 Cal.Rptr.2d 451, 999 P.2d 675]; *People v. Taylor* (2004) 118 Cal.App.4th 11, 25, fn. 4 [12 Cal.Rptr.3d 693]."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Defense of Parental Discipline. *People v. Whitehurst* (1992) 9 Cal.App.4th 1045, 1051 [12 Cal.Rptr.2d 33]."
+      },
+      {
+        "text": "• Medical Treatment Not an Element. *People v. Wade* (2012) 204 Cal.App.4th 1142, 1148–1150 [139 Cal.Rptr.3d 529]."
+      },
+      {
+        "text": "• Contact With Object Held in Another Person’s Hand May Constitute Touching. *In re B.L.* (2015) 239 Cal.App.4th 1491, 1495–1497 [192 Cal.Rptr.3d 154]."
+      },
+      {
+        "text": "• Hitting a Vehicle Occupied by Another Person May Constitute Touching. *People v. Dealba* (2015) 242 Cal.App.4th 1142, 1144, 1153 [195 Cal.Rptr.3d 848]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240. • Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "Assault by means of force likely to produce great bodily injury is not a lesser included offense. (Pen. Code, § 245; *In re Jose H.* (2000) 77 Cal.App.4th 1090, 1095 [92 Cal.Rptr.2d 228].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

@@ -1,0 +1,128 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "416",
+  "title": "Evidence of Uncharged Conspiracy",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      259,
+      262
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, August 2016, February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The People have presented evidence of a conspiracy. A member of a conspiracy is criminally responsible for the acts or statements of any other member of the conspiracy done to help accomplish the goal of the conspiracy.",
+    "To prove that (the/a) defendant was a member of a conspiracy in this case, the People must prove that:",
+    "1. The defendant intended to agree and did agree with [one or more of] (the other defendant[s]/[or] ______ <insert name[s] or description[s] of coparticipant[s]>) to commit ______ <insert alleged crime[s]>;",
+    "2. At the time of the agreement, the defendant and [one or more of] the other alleged member[s] of the conspiracy intended that one or more of them would commit ______ <insert alleged crime[s]>;",
+    "3. (The/One of the) defendant[s][,] [or ______ <insert name[s] or description[s] of coparticipant[s]>][,] [or (both/all) of them] committed [at least one of] the following overt act[s] to accomplish ______ <insert alleged crime[s]>: ______ <insert the alleged overt acts>;",
+    "AND",
+    "4. [At least one of these/This] overt act[s] was committed in California.",
+    "To decide whether (the/a) defendant or another member of the conspiracy committed (this/these) overt act[s], consider all of the evidence presented about the act[s].",
+    "To decide whether (the/a) defendant and [one or more of] the other alleged member[s] of the conspiracy intended to commit ______ <insert alleged crime[s]>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].",
+    "The People must prove that the members of the alleged conspiracy had an agreement and intent to commit ______ <insert alleged crime[s]>. The People do not have to prove that any of the members of the alleged conspiracy actually met or came to a detailed or formal agreement to commit (that/one or more of those) crime[s]. An agreement may be inferred from conduct if you conclude that members of the alleged conspiracy acted with a common purpose to commit the crime.",
+    "An *overt act* is an act by one or more of the members of the conspiracy that is done to help accomplish the agreed upon crime. The overt act must happen after the defendant has agreed to commit the crime. The overt act must be more than the act of agreeing or planning to commit the crime, but it does not have to be a criminal act itself.",
+    "[You must all agree that at least one overt act was committed in California by at least one alleged member of the conspiracy, but you do not have to all agree on which specific overt act or acts were committed or who committed the overt act or acts.]",
+    "[You must decide as to each defendant whether he or she was a member of the alleged conspiracy.]",
+    "[The People contend that the defendant[s] conspired to commit one of the following crimes: ______ <insert alleged crime[s]>. You may not find (the/a) defendant guilty under a conspiracy theory unless all of you agree that the People have proved that the defendant conspired to commit at least one of these crimes, and you all agree which crime (he/she) conspired to commit.] [You must also all agree on the degree of the crime.]",
+    "[A member of a conspiracy does not have to personally know the identity or roles of all the other members.]",
+    "[Someone who merely accompanies or associates with members of a conspiracy but who does not intend to commit the crime is not a member of the conspiracy.]",
+    "[Evidence that a person did an act or made a statement that helped accomplish the goal of the conspiracy is not enough, by itself, to prove that the person was a member of the conspiracy.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction when the prosecution has not charged the crime of conspiracy but has introduced evidence of a conspiracy to prove liability for other offenses or to introduce hearsay statements of coconspirators. (See, e.g., *People v. Pike* (1962) 58 Cal.2d 70, 88 [22 Cal.Rptr. 664, 372 P.2d 656]; *People v. Ditson* (1962) 57 Cal.2d 415, 447 [20 Cal.Rptr. 165, 369 P.2d 714].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the offense alleged to be the target of the conspiracy. (*People v. Cortez* (1998) 18 Cal.4th 1223, 1238–1239 [77 Cal.Rptr.2d 733, 960 P.2d 537]; *People v. Fenenbock* (1996) 46 Cal.App.4th 1688, 1706 [54 Cal.Rptr.2d 608].) Give all appropriate instructions defining the elements of the offense or offenses alleged as targets of the conspiracy."
+      },
+      {
+        "text": "The court has a sua sponte duty to give a unanimity instruction if “the evidence suggested two discrete crimes, i.e., two discrete conspiracies . . . .” (*People v. Russo* (2001) 25 Cal.4th 1124, 1135 [108 Cal.Rptr.2d 436, 25 P.3d 641]; see also *People v. Diedrich* (1982) 31 Cal.3d 263, 285–286 [182 Cal.Rptr. 354, 643 P.2d 971].) See the Bench Notes to CALCRIM No. 415, *Conspiracy*, on when the court is required to give a unanimity instruction."
+      },
+      {
+        "text": "In elements 1 and 3, insert the names or descriptions of alleged coconspirators if they are not defendants in the trial. (See *People v. Liu* (1996) 46 Cal.App.4th 1119, 1131 [54 Cal.Rptr.2d 578].) See also the Commentary section to CALCRIM No. 415, *Conspiracy*."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “You must decide as to each defendant” if the prosecution alleges that more than one defendant was a member of the conspiracy. (See *People v. Fulton* (1984) 155 Cal.App.3d 91, 101 [201 Cal.Rptr. 879]; *People v. Crain* (1951) 102 Cal.App.2d 566, 581–582 [228 P.2d 307].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “A member of a conspiracy does not have to personally know,” on request if there is evidence that the defendant did not personally know all the alleged coconspirators. (See *People v. Van Eyk* (1961) 56 Cal.2d 471, 479 [15 Cal.Rptr. 150, 364 P.2d 326].)"
+      },
+      {
+        "text": "Give the two final bracketed sentences on request. (See *People v. Toledo-Corro* (1959) 174 Cal.App.2d 812, 820 [345 P.2d 529].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant withdrew from the alleged conspiracy, the court has a sua sponte duty to give CALCRIM No. 420, *Withdrawal from Conspiracy*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 417, *Liability for Coconspirators’ Acts*."
+      },
+      {
+        "text": "CALCRIM No. 418, *Coconspirator’s Statements*."
+      },
+      {
+        "text": "CALCRIM No. 419, *Acts Committed or Statements Made Before Joining Conspiracy*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• “Overt Act” Defined. Pen. Code, § 184; *People v. Saugstad* (1962) 203 Cal.App.2d 536, 549–550 [21 Cal.Rptr. 740]; *People v. Zamora* (1976) 18 Cal.3d 538, 549, fn. 8 [134 Cal.Rptr. 784, 557 P.2d 75]; see *People v. Brown* (1991) 226 Cal.App.3d 1361, 1368 [277 Cal.Rptr. 309]; *People v. Tatman* (1993) 20 Cal.App.4th 1, 10–11 [24 Cal.Rptr.2d 480]."
+      },
+      {
+        "text": "• Association Alone Not a Conspiracy. *People v. Drolet* (1973) 30 Cal.App.3d 207, 218 [105 Cal.Rptr. 824]; *People v. Toledo-Corro* (1959) 174 Cal.App.2d 812, 820 [345 P.2d 529]."
+      },
+      {
+        "text": "• Elements of Underlying Offense. *People v. Fenenbock* (1996) 46 Cal.App.4th 1688, 1706 [54 Cal.Rptr.2d 608]; *People v. Cortez* (1998) 18 Cal.4th 1223, 1238–1239 [77 Cal.Rptr.2d 733, 960 P.2d 537]."
+      },
+      {
+        "text": "• Two Specific Intents. *People v. Miller* (1996) 46 Cal.App.4th 412, 423–426 [53 Cal.Rptr.2d 773], disapproved on other grounds in *People v. Cortez* (1998) 18 Cal.4th 1223, 1240 [77 Cal.Rptr.2d 733, 960 P.2d 537]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 415, *Conspiracy*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

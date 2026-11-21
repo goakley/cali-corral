@@ -1,0 +1,110 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1003",
+  "title": "Rape of Unconscious Person (Pen. Code, § 261(a)(4))",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      47,
+      48
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, August 2013, March 2022, October 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with raping a person who was unconscious of the nature of the act [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual intercourse with a person;",
+    "2. The person was unable to resist because the person was unconscious of the nature of the act;",
+    "AND",
+    "3. The defendant knew that the person was unable to resist because the person was unconscious of the nature of the act.",
+    "*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]",
+    "A person is *unconscious of the nature of the act* if the person is (unconscious or asleep/[or] not aware that the act is occurring/[or] not aware of the essential characteristics of the act because the perpetrator tricked, lied to, or concealed information from the person/[or] not aware of the essential characteristics of the act because the perpetrator fraudulently represented that the sexual penetration served a professional purpose when it served no professional purpose)."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Penal Code section 261, as amended by Assembly Bill 1171 (Stats. 2021, ch. 626), became effective on January 1, 2022. If the defendant’s alleged act occurred before this date, the court should give the prior version of this instruction."
+      },
+      {
+        "text": "Select the appropriate language defining “unconscious of the nature of the act” based on the facts of the case."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1001, *Rape in Concert*, may be given in conjunction with this instruction, if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 261(a)(4). • “Penetration” Defined. Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585, 600 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      },
+      {
+        "text": "• Unconscious of Nature of Act. *People v. Howard* (1981) 117 Cal.App.3d 53, 55 [172 Cal.Rptr. 539] [total unconsciousness is not required]; see *Boro v. Superior Court* (1985) 163 Cal.App.3d 1224, 1229–1231 [210 Cal.Rptr. 122] [rape victim not unconscious of nature of act; fraud in the inducement]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The statutory language describing unconsciousness includes “was not aware, knowing, perceiving, or cognizant that the act occurred.” (See Pen. Code, § 261(a)(4)(B)–(D).) The committee did not discern any difference among the statutory terms and therefore used “aware” in the instruction. If there is an issue over a particular term, that term should be inserted in the instruction."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Rape of Unconscious Person. Pen. Code, §§ 663, 261(a)(4)."
+      },
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242. There is a split in authority whether battery under Penal Code section 242 is a lesser included offense. (Compare *People v. Hernandez* (2011) 200 Cal.App.4th 1000, 1006 [133 Cal.Rptr.3d 229] [battery is not a lesser included offense of rape of an unconscious person] with *People v. Miranda* (2021) 62 Cal.App.5th 162, 167 [276 Cal.Rptr.3d 503] [battery is a lesser included offense of rape of an unconscious person].)"
+      },
+      {
+        "text": "Assault with intent to commit rape under Penal Code section 220(a)(1) is not a lesser included offense. *People v. Gallardo* (2025) 116 Cal.App.5th 479, 486–487 [339 Cal.Rptr.3d 327]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Advance Consent"
+      },
+      {
+        "text": "Neither actual “advance consent” nor belief in “advance consent” eliminates the wrongfulness of knowingly depriving an unconscious person the freedom of choice both at the initiation of and during sexual intercourse. A person who commits the prohibited act necessarily acts with a wrongful intent. (*People v. Dancy* (2002) 102 Cal.App.4th 21, 37 [124 Cal.Rptr.2d 898].)"
+      },
+      {
+        "text": "See the Related Issues section in CALCRIM No. 1000, *Rape by Force, Fear, or Threats*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2012, August 2013, March 2022"
+  },
+  "supplement_status": "revised"
+}

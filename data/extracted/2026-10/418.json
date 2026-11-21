@@ -1,0 +1,80 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "418",
+  "title": "Coconspirator’s Statements",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      266,
+      267
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016, March 2023",
+  "revision_legend": null,
+  "body": [
+    "In deciding whether the People have proved that (the defendant[s]/Defendant[s] ______ <insert name[s] of defendant[s] if codefendant trial and this instruction does not apply to all defendants; see Bench Notes>) committed [any of] the crime[s] charged, you may not consider any statement made out of court by ______ <insert name[s] of coconspirator[s]> unless the People have proved by a preponderance of the evidence that:",
+    "1. Some evidence other than the statement itself establishes that a conspiracy to commit a crime existed when the statement was made;",
+    "2. ______ <insert name[s] of coconspirator[s]> (was/were) [a] member[s] of and participating in the conspiracy when (he/she/they) made the statement;",
+    "3. ______ <insert name[s] of coconspirator[s]> made the statement in order to further the goal of the conspiracy;",
+    "AND",
+    "4. The statement was made before or during the time that (the defendant[s]/Defendant[s] ______ <insert name[s] of defendant[s] if codefendant trial and this instruction does not apply to all defendants>) (was/were) participating in the conspiracy.",
+    "A *statement* means an oral or written expression, or nonverbal conduct intended to be a substitute for an oral or written expression.",
+    "*Proof by a preponderance of the evidence* is a different standard of proof than proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that the fact is more likely than not to be true.",
+    "[You may not consider statements made by a person who was not a member of the conspiracy even if the statements helped accomplish the goal of the conspiracy.]",
+    "[You may not consider statements made after the goal of the conspiracy had been accomplished.]"
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "It is an open question whether the court has a sua sponte duty to instruct on the use of a coconspirator’s statement to incriminate a defendant. (See *People v. Prieto* (2003) 30 Cal.4th 226, 251–252 [133 Cal.Rptr.2d 18, 66 P.3d 1123]; *People v. Sully* (1991) 53 Cal.3d 1195, 1231–1232 [283 Cal.Rptr. 144, 812 P.2d 163].) On request, the court must give this instruction if the statement has been admitted under Evidence Code section 1223. (See Evid. Code, § 403(c)(1); see also *People v. Carter* (2003) 30 Cal.4th 1166, 1198 [135 Cal.Rptr.2d 553, 70 P.3d 981]; *People v. Lewis* (2001) 26 Cal.4th 334, 362 [110 Cal.Rptr.2d 272, 28 P.3d 34]; *People v. Marshall* (1996) 13 Cal.4th 799, 833 [55 Cal.Rptr.2d 347, 919 P.2d 1280].)"
+      },
+      {
+        "text": "The court must also give either CALCRIM No. 415, *Conspiracy*, or CALCRIM No. 416, *Evidence of Uncharged Conspiracy*, with this instruction."
+      },
+      {
+        "text": "If the coconspirator statement has been admitted against all defendants on trial, then use “the defendant[s]” in the first sentence and in element 4. If the coconspirator statement has been admitted under Evidence Code section 1223 against only one or some of the defendants on trial, insert the names of the defendants to whom this instruction applies where indicated. For example, if the prosecution is relying on a statement made by a defendant in the trial, the statement may be used against that defendant as an admission. However, as to the other defendants, the statement may be used only if it qualifies under Evidence Code section 1223 or another hearsay exception. In such cases, insert the names of the other codefendants where indicated in the first sentence and in element 4."
+      },
+      {
+        "text": "Give either of the last two bracketed paragraphs on request, when supported by the evidence."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Hearsay Exception for Coconspirator’s Statements. Evid. Code, § 1223; *People v. Jeffery* (1995) 37 Cal.App.4th 209, 215 [43 Cal.Rptr.2d 526]; *People v. Lipinski* (1976) 65 Cal.App.3d 566, 575 [135 Cal.Rptr. 451]."
+      },
+      {
+        "text": "• “Statement” Defined. Evid. Code, § 225."
+      },
+      {
+        "text": "• Burden of Proof. *People v. Herrera* (2000) 83 Cal.App.4th 46, 63 [98 Cal.Rptr.2d 911]."
+      },
+      {
+        "text": "• Independent Evidence Conspiracy Existed at Time of Statement. *People v. Leach* (1975) 15 Cal.3d 419, 430, fn. 10, 436 [124 Cal.Rptr. 752, 541 P.2d 296]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

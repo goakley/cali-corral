@@ -1,0 +1,121 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "841",
+  "title": "Simple Battery: Against Spouse, Cohabitant, or Fellow Parent (Pen. Code, § 243(e)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      641,
+      643
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, February 2016, February 2025, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with battery against (the/a) [defendant’s [former]] (spouse/cohabitant/fiancé/person with whom the defendant currently has, or previously had, a dating relationship/parent of the defendant’s child) [in violation of Penal Code section 243(e)(1)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully [and unlawfully] touched ______ <insert name of complaining witness> in a harmful or offensive manner;",
+    "[AND]",
+    "2. ______ <insert name of complaining witness> is (the/a) [defendant’s [former]] (spouse/cohabitant/fiancé/person with whom the defendant currently has, or previously had, a dating relationship/parent of the defendant’s child)(;/.)",
+    "<Give element 3 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "3. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The slightest touching can be enough to commit a battery if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The term *cohabitants* means two unrelated persons living together for a substantial period of time, resulting in some permanency of the relationship. Factors that may determine whether people are cohabiting include, but are not limited to, (1) sexual relations between the parties while sharing the same residence, (2) sharing of income or expenses, (3) joint use or ownership of property, (4) the parties’ holding themselves out as (husband and wife/domestic partners), (5) the continuity of the relationship, and (6) the length of the relationship.]",
+    "[A person may cohabit simultaneously with two or more people at different locations, during the same time frame, if he or she maintains substantial ongoing relationships with each person and lives with each person for significant periods.]",
+    "[The term *dating relationship* means frequent, intimate associations primarily characterized by the expectation of affection or sexual involvement independent of financial considerations.]",
+    "[A person is considered to be the (mother/father) of another person’s child if the alleged male parent is presumed under the law to be the natural father. ______ <insert name of presumed father> is presumed under law to be the natural father of ______ <insert name of child>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give the bracketed language “[and unlawfully]” in element 1 if there is evidence that the defendant acted in self-defense."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "Give the third bracketed sentence that begins with “A person may cohabit simultaneously with two or more people” on request if there is evidence that the defendant cohabited with two or more people. (See *People v. Moore* (1996) 44 Cal.App.4th 1323, 1335 [52 Cal.Rptr.2d 256].)"
+      },
+      {
+        "text": "Give on request the bracketed paragraph that begins with “A person is considered to be the (mother/father)” if an alleged parental relationship is based on the statutory presumption that the male parent is the natural father. (See Pen. Code, § 273.5(e); see also *People v. Vega* (1995) 33 Cal.App.4th 706, 711 [39 Cal.Rptr.2d 479] [parentage can be established without resort to any presumption].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 243(e)(1)."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• Contact With Object Held in Another Person’s Hand May Constitute Touching. *In re B.L.* (2015) 239 Cal.App.4th 1491, 1495–1497 [192 Cal.Rptr.3d 154]."
+      },
+      {
+        "text": "• Hitting a Vehicle Occupied by Another Person May Constitute Touching. *People v. Dealba* (2015) 242 Cal.App.4th 1142, 1144, 1153 [195 Cal.Rptr.3d 848]."
+      },
+      {
+        "text": "• “Cohabitant” Defined. Pen. Code, § 13700(b); *People v. Holifield* (1988) 205 Cal.App.3d 993, 1000 [252 Cal.Rptr. 729]; *People v. Ballard* (1988) 203 Cal.App.3d 311, 318–319 [249 Cal.Rptr. 806]."
+      },
+      {
+        "text": "• “Dating Relationship” Defined. Pen. Code, § 243(f)(10)."
+      },
+      {
+        "text": "• Simultaneous Cohabitation. *People v. Moore, supra,* 44 Cal.App.4th at p. 1335."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Simple Battery. Pen. Code, §§ 242, 243(a)."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 960, *Simple Battery*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

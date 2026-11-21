@@ -1,0 +1,118 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1251",
+  "title": "Child Abduction: By Depriving Right to Custody or Visitation (Pen. Code, §§ 277, 278.5)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1093,
+      1095
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with depriving someone else of the right to (custody/[or] visitation) [in violation of Penal Code section 278.5].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (took[,]/[or] enticed away[,]/[or] kept[,]/[or] withheld[,]/[or] concealed) a child;",
+    "2. The child was under the age of 18;",
+    "AND",
+    "3. When the defendant acted, (he/she) maliciously (deprived a lawful custodian of (his/her/its) right to custody/[or] deprived a person of a lawful right to visitation).",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to disturb, defraud, annoy, or injure someone else.",
+    "A *lawful custodian* is a person, guardian, or public agency that has a right to custody of the child. The *right to custody* means the right to physical care, custody, and control of the child according to the law or because of a court order. [A public agency has the right to custody if it has been given protective custody or jurisdiction of the care, custody, control, or conduct of the child by statute or court order.]",
+    "[To *entice away* means to lure away by creating hope or desire.]",
+    "[The defendant can be guilty of child abduction whether or not the child resisted or objected, and even if the child consented to go with the defendant.]",
+    "[*Visitation* means the time ordered by a court granting someone access to the child.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If requested, give the final bracketed sentence in the paragraph defining “lawful custodian” if there is evidence that a public agency was the lawful custodian at the time of the alleged abduction. (See Pen. Code, § 277(e).)"
+      },
+      {
+        "text": "If requested, give the bracketed paragraph defining “entice away” (see *People v. Torres* (1920) 48 Cal.App. 606, 609 [192 P. 175]) depending on the evidence in the case."
+      },
+      {
+        "text": "If requested, give the bracketed paragraph about the child’s consent or lack of resistance if there is evidence the child did not resist or consented to go with the defendant. (*People v. Moore* (1945) 67 Cal.App.2d 789, 792 [155 P.2d 403] [child’s consent irrelevant]; *People v. Grever* (1989) 211 Cal.App.3d Supp. 1, 7 [259 Cal.Rptr. 469].)"
+      },
+      {
+        "text": "If requested, give the bracketed paragraph regarding visitation if evidence is presented that the defendant deprived another person of his or her right to visitation. (See Pen. Code, §§ 277(h), 278.5(a).)"
+      },
+      {
+        "text": "Give the final bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 277, 278.5."
+      },
+      {
+        "text": "• Court Order or Custody Order Defined. Pen. Code, § 277(b)."
+      },
+      {
+        "text": "• Custody Proceeding Defined. Pen. Code, § 277(c)."
+      },
+      {
+        "text": "• Maliciously Defined. Pen. Code, § 7(4)."
+      },
+      {
+        "text": "• Person Defined. Pen. Code, § 277(i) [includes parent or an agent of a parent]."
+      },
+      {
+        "text": "• Child’s Consent Irrelevant. *People v. Moore* (1945) 67 Cal.App.2d 789, 792 [155 P.2d 403] [crime against parent]; *People v. Grever* (1989) 211 Cal.App.3d Supp. 1, 7 [259 Cal.Rptr. 469]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "A crime under Penal Code section 278.5 is sometimes referred to as “child detention.” (See *People v. Moses* (1996) 43 Cal.App.4th 462, 464, fn. 2 [50 Cal.Rptr.2d 665].) This instruction uses the phrase “depriving someone else of the right to (custody/[or] visitation)” to avoid any confusion with detention under Penal Code section 278, the general child abduction statute."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Child Detention. Pen. Code, §§ 664, 278.5."
+      },
+      {
+        "text": "Section 278.5 does not limit the court’s contempt power. (Pen. Code, § 278.5(b).) Contempt is not a lesser included offense of a crime under section 278.5. There is no sua sponte duty to instruct on contempt. (*People v. Moses* (1996) 43 Cal.App.4th 462, 469, 471 [50 Cal.Rptr.2d 665].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Custody Order After Abduction"
+      },
+      {
+        "text": "A custody order obtained after the abduction of a child is not a defense to a crime charged under section 278.5. (Pen. Code, § 278.5(c).)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

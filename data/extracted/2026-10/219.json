@@ -1,0 +1,76 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "219",
+  "title": "Reasonable Doubt in Civil Commitment Proceedings",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      119,
+      120
+    ]
+  },
+  "revision_line": "New August 2009; Revised August 2015",
+  "revision_legend": null,
+  "body": [
+    "The fact that a petition to (declare respondent a sexually violent predator/declare respondent a mentally disordered offender/extend respondent’s commitment) has been filed is not evidence that the petition is true. You must not be biased against the respondent just because the petition has been filed and this matter has been brought to trial. The Petitioner is required to prove the allegations of the petition are true beyond a reasonable doubt.",
+    "Proof beyond a reasonable doubt is proof that leaves you with an abiding conviction that the allegations of the petition are true. The evidence need not eliminate all possible doubt because everything in life is open to some possible or imaginary doubt.",
+    "In deciding whether the Petitioner has proved the allegations of the petition are true beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the Respondent ______ <insert what must be proved in this proceeding, e.g., “is a sexually violent predator”> beyond a reasonable doubt, you must find the petition is not true."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct jurors on the reasonable doubt standard in civil commitment proceedings relating to sexually violent predators (Welf. & Inst. Code, §§ 6604, 6605) and mentally disordered offenders (Pen. Code, §§ 2966, 2972) as well as extended commitment proceedings for persons found not guilty by reason of insanity (Pen. Code, § 1026.5(b)) and juveniles committed to the Division of Juvenile Facilities (Welf. & Inst. Code, §§ 1800 et seq.)."
+      },
+      {
+        "text": "*In People v. Beeson* (2002) 99 Cal.App.4th 1393, 1411 [122 Cal.Rptr.2d 384], the Court concluded that neither the federal nor the state Constitution compelled an instruction on a presumption that the allegations of a mentally disordered offender (MDO) extension petition are not true. However, no court has addressed whether the respondents in extended insanity commitment and extended juvenile commitment proceedings are entitled to an instruction on the presumption. (Pen. Code, § 1026.5(b)(7); Welf. & Inst. Code, § 1801.5; see also *Hudec v. Superior Court* (2015) 60 Cal.4th 815, 826 [339 P.3d 998, 1004] [“section 1026.5(b)(7) provides respondents in commitment extension hearings the rights constitutionally enjoyed by criminal defendants”] and *In re Luis C.* (2004) 116 Cal.App.4th 1397, 1402–1403 [11 Cal.Rptr.3d 429] [same for Welfare and Institutions Code section 1801.5 juvenile proceedings].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Beeson* (2002) 99 Cal.App.4th 1393, 1401 [122 Cal.Rptr.2d 384]; Pen. Code, § 1026.5(b)(7); Welf. & Inst. Code, § 1801.5."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 220, *Reasonable Doubt.*"
+      },
+      {
+        "text": "CALCRIM No. 3453, *Extension of Commitment.*"
+      },
+      {
+        "text": "CALCRIM No. 3454, *Commitment as Sexually Violent Predator.*"
+      },
+      {
+        "text": "CALCRIM No. 3454A, *Hearing to Determine Current Status Under Sexually Violent Predator Act*."
+      },
+      {
+        "text": "CALCRIM No. 3456, *Initial Commitment of Mentally Disordered Offender As Condition of Parole*."
+      },
+      {
+        "text": "CALCRIM No. 3457, *Extension of Commitment as Mentally Disordered Offender.*"
+      },
+      {
+        "text": "CALCRIM No. 3458, *Extension of Commitment to Division of Juvenile Facilities.*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

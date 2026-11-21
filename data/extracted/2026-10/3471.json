@@ -1,0 +1,86 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3471",
+  "title": "Right to Self-Defense: Mutual Combat or Initial Aggressor",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2433,
+      2434
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, December 2008, April 2011, February 2013",
+  "revision_legend": null,
+  "body": [
+    "A person who (engages in mutual combat/[or who] starts a fight) has a right to self-defense only if:",
+    "1. (He/She) actually and in good faith tried to stop fighting;",
+    "[AND]",
+    "2. (He/She) indicated, by word or by conduct, to (his/her) opponent, in a way that a reasonable person would understand, that (he/she) wanted to stop fighting and that (he/she) had stopped fighting(;/.)",
+    "<Give element 3 in cases of mutual combat.>",
+    "[AND",
+    "3. (He/She) gave (his/her) opponent a chance to stop fighting.]",
+    "If the defendant meets these requirements, (he/she) then had a right to self-defense if the opponent continued to fight.",
+    "[However, if the defendant used only non-deadly force, and the opponent responded with such sudden and deadly force that the defendant could not withdraw from the fight, then the defendant had the right to defend (himself/herself) with deadly force and was not required to try to stop fighting(,/or) communicate the desire to stop to the opponent[, or give the opponent a chance to stop fighting].]",
+    "[A fight is *mutual combat* when it began or continued by mutual consent or agreement. That agreement may be expressly stated or implied and must occur before the claim to self-defense arose.]"
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must instruct on a defense when the defendant requests it and there is substantial evidence supporting the defense. The court has a sua sponte duty to instruct on a defense if there is substantial evidence supporting it and either the defendant is relying on it or it is not inconsistent with the defendant’s theory of the case."
+      },
+      {
+        "text": "Give CALCRIM No. 3470, *Right to Self-Defense or Defense of Another (Non-Homicide)*, together with this instruction."
+      },
+      {
+        "text": "When the court concludes that the defense is supported by substantial evidence and is inconsistent with the defendant’s theory of the case, however, it should ascertain whether defendant wishes instruction on this alternate theory. (*People v. Gonzales* (1999) 74 Cal.App.4th 382, 389–390 [88 Cal.Rptr.2d 111]; *People v. Breverman* (1998) 19 Cal.4th 142, 157 [77 Cal.Rptr.2d 870, 960 P.2d 1094].)"
+      },
+      {
+        "text": "Substantial evidence means evidence of a defense, which, if believed, would be sufficient for a reasonable jury to find a reasonable doubt as to the defendant’s guilt. (*People v. Salas* (2006) 37 Cal.4th 967, 982–983 [38 Cal.Rptr.3d 624, 127 P.3d 40].)"
+      },
+      {
+        "text": "Give bracketed element 3 if the person claiming self-defense was engaged in mutual combat."
+      },
+      {
+        "text": "If the defendant started the fight using non-deadly force and the opponent suddenly escalates to deadly force, the defendant may defend himself or herself using deadly force. (See *People v. Quach* (2004) 116 Cal.App.4th 294, 301–302 [10 Cal.Rptr.3d 196]; *People v. Sawyer* (1967) 256 Cal.App.2d 66, 75 [63 Cal.Rptr. 749]; *People v. Hecker* (1895) 109 Cal. 451, 464 [42 P. 307].) In such cases, give the bracketed sentence that begins with “However, if the defendant . . .”."
+      },
+      {
+        "text": "If the defendant was the initial aggressor and is charged with homicide, always give CALCRIM No. 505, *Justifiable Homicide: Self-Defense or Defense of Another*, in conjunction with this instruction."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. See Pen. Code, § 197, subd. 3; *People v. Button* (1895) 106 Cal. 628, 633 [39 P. 1073]; *People v. Crandell* (1988) 46 Cal.3d 833, 871–872 [251 Cal.Rptr. 227, 760 P.2d 423]; *People v. Sawyer* (1967) 256 Cal.App.2d 66, 75 [63 Cal.Rptr. 749]."
+      },
+      {
+        "text": "• Escalation to Deadly Force. *People v. Quach* (2004) 116 Cal.App.4th 294, 301–302 [10 Cal.Rptr.3d 196]; *People v. Sawyer* (1967) 256 Cal.App.2d 66, 75 [63 Cal.Rptr. 749]; *People v. Hecker* (1895) 109 Cal. 451, 464 [42 P. 307]; *People v. Anderson* (1922) 57 Cal.App. 721, 727 [208 P. 204]."
+      },
+      {
+        "text": "• Definition of Mutual Combat. *People v. Ross* (2007) 155 Cal.App.4th 1033, 1045 [66 Cal.Rptr.3d 438]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

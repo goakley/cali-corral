@@ -1,0 +1,65 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3411",
+  "title": "Mistake of Law As a Defense",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2369,
+      2370
+    ]
+  },
+  "revision_line": "New August 2013; Revised October 2021, February 2026",
+  "revision_legend": null,
+  "body": [
+    "[I have already explained that it is not a defense to the crime[s] of ______ <insert crime[s]> that the defendant did not know (he/she) was breaking the law or that (he/she) believed (his/her) act was lawful. But when you consider the crime[s] of ______ <insert crime[s]>, a different rule applies.]",
+    "______ <insert crime[s]> require[s] that a defendant act with a specific (intent/[and/or] mental state). The act and the (intent/[and/or] mental state) required are explained in the instruction for (that/those) crime[s].",
+    "The defendant is not guilty of ______ <insert crime[s]> if (he/she) made an honest or good faith mistake about the law, if that mistake shows that (he/she) did not have the (intent/[and/or] mental state) required for the crime[s] of ______ <insert crime[s]>.",
+    "If you have a reasonable doubt about whether the defendant had the (intent/[and/or] mental state) required for ______ <insert crime[s]>, you must find (him/her) not guilty of (that/those) crime[s]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if a defendant charged with a specific intent crime is appropriately relying on this defense or there is substantial evidence that a defendant’s good faith mistake of law provides a valid defense to a specific intent crime and the defense is not inconsistent with the defendant’s theory of the case. (*People v. Urziceanu* (2005) 132 Cal.App.4th 747, 774–780 [33 Cal.Rptr.3d 859])."
+      },
+      {
+        "text": "Many defendants seek to rely on the defense of mistake of law, but few are successful, because it is limited to crimes in which a specific intent or mental state is negated by the mistake. (*People v. Koenig* (2020) 58 Cal.App.5th 771, 809 [272 Cal.Rptr.3d 732] [instruction appropriate where defendant relied on advice of counsel to establish mistake of law related to omission of material fact in sale of security]; *People v. Cole* (2007) 156 Cal.App.4th 452, 483–484 [67 Cal.Rptr.3d 526] [no error in instructing jury that mistake of law is no defense when defendant was charged with a general intent crime]; *People v. Vineberg* (1981) 125 Cal.App.3d 127, 137 [177 Cal.Rptr. 819] [defendants’ belief that they had a legal right to use clients’ gold reserves to buy future contracts could be a defense if held in good faith]; *People v. Stewart* (1976) 16 Cal.3d 133, 140 [127 Cal.Rptr. 117, 544 P.2d 1317] [defendant’s good faith belief that he was legally authorized to use property could be defense to embezzlement]; *People v. Flora* (1991) 228 Cal.App.3d 662, 669–670 [279 Cal.Rptr. 17] [defendant’s belief, if held in good faith, that out-of-state custody order was not enforceable in California could have been basis for defense to violating a child custody order])."
+      },
+      {
+        "text": "Although concerned with knowledge of the law, a mistake about legal status or rights is a mistake of fact, not a mistake of law. (See CALCRIM No. 3406, *Mistake of Fact*.) If the defendant is charged with a general intent crime and raises a mistake of law defense, give instead CALCRIM No. 3407, *Defenses: Mistake of Law.* If both general and specific intent crimes are charged, use the bracketed first paragraph of this instruction as necessary."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Cole* (2007) 156 Cal.App.4th 452, 483–484 [67 Cal.Rptr.3d 526]; *People v. Bernhardt* (1963) 222 Cal.App.2d 567, 585–587, 592 [35 Cal.Rptr. 401]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Good Faith Reliance on Statute or Regulation"
+      },
+      {
+        "text": "Good faith reliance on a facially valid statute or administrative regulation (which turns out to be void) may be considered an excusable mistake of law. Additionally, a good faith mistake-of-law defense may be established by special statute. (See 1 Witkin & Epstein, California Criminal Law (5th ed. 2024) Defenses, § 49.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 1
+  },
+  "warnings": []
+}

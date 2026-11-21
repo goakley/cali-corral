@@ -1,0 +1,127 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "982",
+  "title": "Brandishing Firearm or Deadly Weapon to Resist Arrest (Pen. Code, § 417.8)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      796,
+      798
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, February 2013, September 2019, September 2020, March 2022, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with brandishing a (firearm/deadly weapon) to resist arrest or detention [in violation of Penal Code section 417.8].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant drew or exhibited a (firearm/deadly weapon);",
+    "AND",
+    "2. When the defendant drew or exhibited the (firearm/deadly weapon), (he/she) intended to resist arrest or to prevent a peace officer from arresting or detaining (him/her/someone else).",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[A *deadly weapon* is any object, instrument, or weapon [that is inherently deadly or one] that is used in such a way that it is capable of causing and likely to cause death or great bodily injury.]",
+    "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it was designed.]",
+    "[In deciding whether an object is a deadly weapon, consider all the surrounding circumstances.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[The term[s] (*firearm*[,]*/deadly weapon*[,]/[and] *great bodily injury*) (is/are) defined in another instruction to which you should refer.]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the relevant bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "Give the bracketed paragraph about the lack of any requirement that the firearm be loaded on request."
+      },
+      {
+        "text": "Give the bracketed phrase “that is inherently deadly or one” and give the bracketed definition of *inherently deadly* only if the object is a deadly weapon as a matter of law. (*People v. Stutelberg* (2018) 29 Cal.App.5th 314, 317–318 [240 Cal.Rptr.3d 156].)"
+      },
+      {
+        "text": "Give the bracketed portion that begins with “In deciding whether” if the object is not a weapon as a matter of law and is capable of innocent uses. (*People v. Aguilar* (1997) 16 Cal.4th 1023, 1028–1029 [68 Cal.Rptr.2d 655, 945 P.2d 1204]; *People v. Godwin* (1996) 50 Cal.App.4th 1562, 1573–1574 [58 Cal.Rptr.2d 545].)"
+      },
+      {
+        "text": "If determining whether the item is an inherently deadly weapon requires resolution of a factual issue, give both bracketed instructions."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 983, *Brandishing Firearm or Deadly Weapon: Misdemeanor*."
+      },
+      {
+        "text": "CALCRIM No. 981, *Brandishing Firearm in Presence of Peace Officer*."
+      },
+      {
+        "text": "CALCRIM No. 2653, *Taking Firearm or Weapon While Resisting Peace Officer or Public Officer*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 417.8."
+      },
+      {
+        "text": "• “Firearm” Defined. Pen. Code, § 16520; see *In re Jose A.* (1992) 5 Cal.App.4th 697, 702 [7 Cal.Rptr.2d 44] [pellet gun not a “firearm” within meaning of Pen. Code, § 417(a)]."
+      },
+      {
+        "text": "• “Peace Officer” Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• “Deadly Weapon” Defined. *People v. Brown* (2012) 210 Cal.App.4th 1, 6–8 [147 Cal.Rptr.3d 848]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029 [hands and feet not deadly weapons]; see, e.g., *People v. Simons* (1996) 42 Cal.App.4th 1100, 1107 [50 Cal.Rptr.2d 351] [screwdriver was capable of being used as a deadly weapon and defendant intended to use it as one if need be]; *People v. Henderson* (1999) 76 Cal.App.4th 453, 469–470 [90 Cal.Rptr.2d 450] [pit bulls were deadly weapons under the circumstances]."
+      },
+      {
+        "text": "• Lawful Performance of Duties Not an Element. *People v. Simons, supra,* 42 Cal.App.4th at pp. 1109–1110."
+      },
+      {
+        "text": "• “Inherently Deadly” Defined. *People v. Perez* (2018) 4 Cal.5th 1055, 1065 [232 Cal.Rptr.3d 51, 416 P.3d 42]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029."
+      },
+      {
+        "text": "• Examples of Noninherently Deadly Weapon. *People v. Aledamat* (2019) 8 Cal.5th 1, 6 [251 Cal.Rptr.3d 371, 447 P.3d 277] [box cutter]; *People v. Perez, supra,* 4 Cal.5th at p. 1065 [vehicle]; *People v. McCoy* (1944) 25 Cal.2d 177, 188 [153 P.2d 315] [knife]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Resisting arrest by a peace officer engaged in the performance of his or her duties in violation of Penal Code section 148(a) is not a lesser included offense of Penal Code section 417.8. (*People v. Simons, supra,* 42 Cal.App.4th at pp. 1108–1110.) Brandishing a deadly weapon in a rude, angry, or threatening manner in violation of Penal Code section 417(a)(1) is also not a lesser included offense of section 417.8. (*People v. Pruett* (1997) 57 Cal.App.4th 77, 88 [66 Cal.Rptr.2d 750].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 981, *Brandishing Firearm in Presence of Peace Officer*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

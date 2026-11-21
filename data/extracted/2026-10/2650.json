@@ -1,0 +1,109 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2650",
+  "title": "Threatening a Public Official (Pen. Code, § 76)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1895,
+      1897
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with threatening a public official [in violation of Penal Code section 76].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willingly (threatened to kill/[or] threatened to cause serious bodily harm to) (a/an) ______ <insert title of person specified in Pen. Code, § 76(a)> [or a member of the immediate family of (a/an) ______ <insert title of person specified in Pen. Code, § 76(a)>];",
+    "2. When the defendant acted, (he/she) intended that (his/her) statement be understood as a threat [and intended that it be communicated to ______ <insert name of alleged victim>];",
+    "3. When the defendant acted, (he/she) knew that the person (he/she) threatened was (a/an) ______ <insert title of person specified in Pen. Code, § 76(a)> [or a member of the immediate family of (a/an) ______ <insert title of person specified in Pen. Code, § 76(a)>];",
+    "4. When the defendant acted, (he/she) had the apparent ability to carry out the threat;",
+    "[AND]",
+    "5. The person threatened reasonably feared for (his/her) safety [or for the safety of (his/her) immediate family](;/.)",
+    "<Give element 6 if directed at a person specified in Pen. Code, § 76(d) or (e).>",
+    "[AND",
+    "6. The threat was directly related to the ______’s <insert title of person specified in Pen. Code, § 76(d) or (e)> performance of (his/her) *job duties*.]",
+    "A threat may be oral or written and may be implied by a pattern of conduct or a combination of statements and conduct.",
+    "[When the person making the threat is an incarcerated prisoner with a stated release date, the *ability to carry out the threat* includes the ability to do so in the future.]",
+    "[*Serious bodily harm* includes serious physical injury or serious traumatic condition.]",
+    "[*Immediate family* includes a spouse, parent, or child[, or anyone who has regularly resided in the household for the past six months].]",
+    "[*Staff of a judge* includes court officers and employees[, as well as commissioners, referees, and retired judges sitting on assignment].]",
+    "[The defendant does not have to communicate the threat directly to the intended victim, but may do so through someone else.]",
+    "[Someone who intends that a statement be understood as a threat does not have to actually intend to carry out the threatened act [or intend to have someone else do so].]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "When the threat is not conveyed directly, give the appropriate bracketed language in element two. (See *People v. Felix* (2001) 92 Cal.App.4th 905, 913 [112 Cal.Rptr.2d 311] [Pen. Code, § 422]; *In re Ryan D.* (2002) 100 Cal.App.4th 854, 861–862 [123 Cal.Rptr.2d 193] [insufficient evidence minor intended to convey threat to victim].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements and Definitions. Pen. Code, § 76."
+      },
+      {
+        "text": "• Reasonable Fear by Victim Is Element. *People v. Andrews* (1999) 75 Cal.App.4th 1173, 1178 [89 Cal.Rptr.2d 683]."
+      },
+      {
+        "text": "• Statute Constitutional. *People v. Gudger* (1994) 29 Cal.App.4th 310, 321 [34 Cal.Rptr.2d 510]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Barrios* (2008) 163 Cal.App.4th 270, 278 [77 Cal.Rptr.3d 456]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Similar to Penal Code section 422, Penal Code section 76 requires that the defendant had “the specific intent that the statement . . . be taken as a threat.” Case law has interpreted Penal Code section 422 to require that, when a defendant communicates a threat to a third party, the defendant must have specifically intended to convey the threat to the victim. (See *People v. Choi* (2021) 59 Cal.App.5th 753, 762 [274 Cal.Rptr.3d 6].) No published case has interpreted Penal Code section 76 in the same manner as Penal Code section 422. However, based on the textual similarities between the two statutes, the committee has included the additional requirement that when the defendant has not directly communicated the threat to the victim, the defendant must have intended to convey the threat to the victim."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "An offense under Penal Code section 71, threatening a public officer to prevent him or her from performing his or her duties, may be a lesser included offense. However, there is no case law on this issue."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Threat Must Convey Intent to Carry Out"
+      },
+      {
+        "text": "“Although there is no requirement in section 76 of specific intent to execute the threat, the statute requires the defendant to have the specific intent that the statement be taken as a threat and also to have the apparent ability to carry it out, requirements which convey a sense of immediacy and the reality of potential danger and sufficiently proscribe only true threats, meaning threats which ‘convincingly express an intention of being carried out.’ . . . [¶] . . . Thus, section 76 . . . adequately expresses the notion that the threats proscribed are only those ‘so unequivocal, unconditional, immediate and specific as to the person threatened, as to convey a gravity of purpose and imminent prospect of execution.’ ” [citations omitted] (*People v. Gudger, supra,* 29 Cal.App.4th at pp. 320–321; see also *In re George T.* (2004) 33 Cal.4th 620, 637–638 [16 Cal.Rptr.3d 61, 93 P.3d 1007].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

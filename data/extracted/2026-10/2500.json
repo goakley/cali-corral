@@ -1,0 +1,179 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2500",
+  "title": "Illegal Possession, Etc. of Weapon",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1717,
+      1722
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, April 2008, February 2012, February 2015, March 2017, March 2019, September 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully (possessing/manufacturing/causing to be manufactured/importing/keeping for sale/offering or exposing for sale/giving/lending/buying/receiving) a weapon, specifically (a/an) ______ <insert type of weapon> [in violation of Penal Code section[s] ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (possessed/manufactured/caused to be manufactured/imported into California/kept for sale/offered or exposed for sale/gave/lent/bought/received) (a/an) ______ <insert type of weapon>;",
+    "2. The defendant knew that (he/she) (possessed/manufactured/caused to be manufactured/imported/kept for sale/offered or exposed for sale/gave/lent/bought/received) the ______ <insert type of weapon>;",
+    "[AND]",
+    "<Alternative 3A—object capable of innocent uses>",
+    "[3. The defendant (possessed/manufactured/caused to be manufactured/imported/kept for sale/offered or exposed for sale/gave/lent/bought/received) the object as a weapon (;/.)]",
+    "<Alternative 3B—object designed solely for use as weapon>",
+    "[3. The defendant knew that the object (was (a/an) ______ <insert characteristics of weapon, e.g., “unusually short shotgun, penknife containing stabbing instrument”>/could be used ______ <insert description of weapon, e.g., “as a stabbing weapon,” or “for purposes of offense or defense”>)(;/.)]",
+    "<Give element 4 only if defendant is charged with offering or exposing for sale.>",
+    "[AND",
+    "4. The defendant intended to sell it.]",
+    "[The People do not have to prove that the defendant intended to use the object as a weapon.]",
+    "<Give only if alternative 3A is given.>",
+    "[When deciding whether the defendant (possessed/manufactured/caused to be manufactured/imported/kept for sale/offered or exposed for sale/gave/lent/bought/received) the object *as a weapon*, consider all the surrounding circumstances relating to that question, including when and where the object was (possessed/manufactured/caused to be manufactured/imported/kept for sale/offered or exposed for sale/gave/lent/bought/received)[,] [and] [where the defendant was going][,] [and] [whether the object was changed from its standard form][,] and any other evidence that indicates whether the object would be used for a dangerous, rather than a harmless, purpose.]",
+    "<Give only if alternative 3B is given.>",
+    "[(A/An) ______ <insert type of weapon> means ______ <insert appropriate definition>.]",
+    "<Give only if the weapon used has specific characteristics of which the defendant must have been aware.>",
+    "[A ______ <insert type of weapon specified in element 3B> is ______ <insert defining characteristics of weapon>.",
+    "[The People do not have to prove that the object was (concealable[,]/[or] carried by the defendant on (his/her) person[,]/[or] (displayed/visible)).]]",
+    "[(A/An) ______ <insert prohibited firearm> does not need to be in working order if it was designed to shoot and appears capable of shooting.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The People allege that the defendant (possessed/manufactured/caused to be manufactured/imported/kept for sale/offered or exposed for sale/gave/lent/bought/received) the following weapons: ______ <insert description of each weapon when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (possessed/manufactured/caused to be manufactured/imported/kept for sale/offered or exposed for sale/gave/lent/bought/received) at least one of these weapons and you all agree on which weapon (he/she) (possessed/manufactured/caused to be manufactured/imported/kept for sale/offered or exposed for sale/gave/lent/bought/received).]",
+    "<Defense: Statutory Exemptions>",
+    "[The defendant did not unlawfully (possess/manufacture/cause to be manufactured/import/keep for sale/offer or expose for sale/give/lend/buy/receive) (a/an) ______ <insert type of weapon> if ______ <insert exception>. The People have the burden of proving beyond a reasonable doubt that the defendant unlawfully (possessed/manufactured/caused to be manufactured/imported/kept for sale/offered or exposed for sale/gave/lent/bought/received) (a/an) ______ <insert type of weapon>. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Penal Code section 12020 has been repealed. In its place, the legislature enacted numerous new statutes that became effective January 1, 2012. Whenever a blank in the instruction calls for inserting a type of weapon, an exception, or a definition, refer to the appropriate new Penal Code section."
+      },
+      {
+        "text": "Element 3 contains the requirement that the defendant know that the object is a weapon. A more complete discussion of this issue is provided in the Commentary section below. Select alternative 3A if the object is capable of innocent uses. In such cases, the court has a sua sponte duty to instruct on when an object is possessed “as a weapon.” (*People v. Fannin* (2001) 91 Cal.App.4th 1399, 1404 [111 Cal.Rptr.2d 496]; *People v. Grubb* (1965) 63 Cal.2d 614, 620–621, fn. 9 [47 Cal.Rptr. 772, 408 P.2d 100].)"
+      },
+      {
+        "text": "Select alternative 3B if the object “has no conceivable innocent function” (*People v. Fannin, supra,* 91 Cal.App.4th at p. 1405), or when the item is specifically designed to be one of the weapons defined in the Penal Code (see *People v. Gaitan* (2001) 92 Cal.App.4th 540, 547 [111 Cal.Rptr.2d 885])."
+      },
+      {
+        "text": "Give element 4 only if the defendant is charged with offering or exposing for sale. (See *People v. Jackson* (1963) 59 Cal.2d 468, 469–470 [30 Cal.Rptr. 329, 381 P.2d 1].)"
+      },
+      {
+        "text": "For any of the weapons not defined in the Penal Code, use an appropriate definition from the case law, where available."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple weapons and the possession was “fragmented as to time . . . [or] space,” the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483].) Give the bracketed paragraph beginning “The People allege that the defendant possessed the following weapons,” inserting the items alleged. Also make the appropriate adjustments to the language of the instruction to refer to multiple weapons or objects."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt about the existence of one of the statutory exemptions, the court has a sua sponte duty to give the bracketed instruction on that defense. (See *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067] [discussing affirmative defenses generally and the burden of proof].) Insert the appropriate language in the bracketed paragraph beginning, “The defendant did not unlawfully . . . .”."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 19200, 20310, 20410, 20510, 20610, 20710, 20910, 21110, 21810, 22210, 24310, 24410, 24510, 24610, 24710, 30210, 31500, 32310, 32311, 32900, 33215, 33600."
+      },
+      {
+        "text": "• Need Not Prove Intent to Use. *People v. Rubalcava* (2000) 23 Cal.4th 322, 328 [96 Cal.Rptr.2d 735, 1 P.3d 52]; *People v. Grubb, supra,* 63 Cal.2d at pp. 620–621, fn. 9."
+      },
+      {
+        "text": "• Knowledge Required. *People v. Rubalcava, supra,* 23 Cal.4th at pp. 331–332; *People v. Gaitan, supra,* 92 Cal.App.4th at p. 547."
+      },
+      {
+        "text": "• Specific Intent Required for Offer to Sell. *People v. Jackson, supra,* 59 Cal.2d at pp. 469–470."
+      },
+      {
+        "text": "• Specific Intent Includes Knowledge of Forbidden Characteristics of Weapon. *People v. King* (2006) 38 Cal.4th 617, 627–628 [42 Cal.Rptr.3d 743, 133 P.3d 636]."
+      },
+      {
+        "text": "• Innocent Object—Must Prove Possessed as Weapon. *People v. Grubb, supra,* 63 Cal.2d at pp. 620–621; *People v. Fannin, supra,* 91 Cal.App.4th at p. 1404."
+      },
+      {
+        "text": "• Definition of Blackjack, etc. *People v. Fannin* (2001) 91 Cal.App.4th 1399, 1402 [111 Cal.Rptr.2d 496]; *People v. Mulherin* (1934) 140 Cal.App. 212, 215 [35 P.2d 174]."
+      },
+      {
+        "text": "• Firearm Need Not Be Operable. *People v. Favalora* (1974) 42 Cal.App.3d 988, 991 [117 Cal.Rptr. 291]."
+      },
+      {
+        "text": "• Measurement of Sawed-Off Shotgun. *People v. Rooney* (1993) 17 Cal.App.4th 1207, 1211–1213 [21 Cal.Rptr.2d 900]; *People v. Stinson* (1970) 8 Cal.App.3d 497, 500 [87 Cal.Rptr. 537]."
+      },
+      {
+        "text": "• Measurement of Fléchette Dart. *People v. Olmsted* (2000) 84 Cal.App.4th 270, 275 [100 Cal.Rptr.2d 755]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6 [98 Cal.Rptr.2d 466, 4 P.3d 297]."
+      },
+      {
+        "text": "• Knowledge of Specific Characteristics of Weapon. *People v. King, supra,* 38 Cal.4th at p. 628."
+      },
+      {
+        "text": "• Intent to Use as a Weapon. *People v. Baugh* (2018) 20 Cal.App.5th 438, 446 [228 Cal.Rptr.3d 898]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Element 3—Knowledge"
+      },
+      {
+        "text": "“Intent to use a weapon is not an element of the crime of weapon possession.” (*People v. Fannin, supra,* 91 Cal.App.4th at p. 1404.) However, interpreting now-repealed Penal Code section 12020(a)(4), possession of a concealed dirk or dagger, the Supreme Court stated that “[a] defendant who does not know that he is carrying the weapon or that the concealed instrument may be used as a stabbing weapon is . . . not guilty of violating section 12020.” (*People v. Rubalcava, supra,* 23 Cal.4th at pp. 331–332.) Applying this holding to possession of other weapons prohibited under now-repealed Penal Code section 12020(a), the courts have concluded that the defendant must know that the object is a weapon or may be used as a weapon, or must possess the object “as a weapon.” (*People v. Gaitan, supra,* 92 Cal.App.4th at p. 547; *People v. Taylor* (2001) 93 Cal.App.4th 933, 941 [114 Cal.Rptr.2d 23]; *People v. Fannin, supra,* 91 Cal.App.4th at p. 1404.)"
+      },
+      {
+        "text": "In *People v. Gaitan, supra,* 92 Cal.App.4th at p. 547, for example, the court considered the possession of “metal knuckles,” defined in now-repealed Penal Code section 12020(c)(7) as an object “worn for purposes of offense or defense.” The court held that the prosecution does not have to prove that the defendant *intended* to use the object for offense or defense but must prove that the defendant *knew* that “the instrument may be used for purposes of offense or defense.” (*Ibid.*)"
+      },
+      {
+        "text": "Similarly, in *People v. Taylor, supra,* 93 Cal.App.4th at p. 941, involving possession of a cane sword, the court held that “[i]n order to protect against the significant possibility of punishing innocent possession by one who believes he or she simply has an ordinary cane, we infer the Legislature intended a scienter requirement of actual knowledge that the cane conceals a sword.”"
+      },
+      {
+        "text": "Finally, *People v. Fannin, supra,* 91 Cal.App.4th at p. 1404, considered whether a bicycle chain with a lock at the end met the definition of a “slungshot.” The court held that “if the object is not a weapon per se, but an instrument with ordinary innocent uses, the prosecution must prove that the object was possessed *as a weapon*.” (*Ibid.* [emphasis in original]; see also *People v. Grubb, supra,* 63 Cal.2d at pp. 620–621 [possession of modified baseball bat].)"
+      },
+      {
+        "text": "In element 3 of the instruction, the court should give alternative 3B if the object has no innocent uses, inserting the appropriate description of the weapon. If the object has innocent uses, the court should give alternative 3A. The court may choose not to give element 3 if the court concludes that a previous case holding that the prosecution does not need to prove knowledge is still valid authority. However, the committee would caution against this approach in light of *Rubalcava* and *In re Jorge M*. (See *People v. Schaefer* (2004) 118 Cal.App.4th 893, 904–905 [13 Cal.Rptr.3d 442] [observing that, since *In re Jorge M.*, it is unclear if the prosecution must prove that the defendant knew shotgun was “sawed off” but that failure to give instruction was harmless if error].)"
+      },
+      {
+        "text": "It is not unlawful to possess a large-capacity magazine or large-capacity conversion kit. It is unlawful, however, to receive or buy these items after January 1, 2014, the effective date of Penal Code sections 32310 and 32311."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

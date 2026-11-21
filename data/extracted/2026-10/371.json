@@ -1,0 +1,67 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "371",
+  "title": "Consciousness of Guilt: Suppression and Fabrication of Evidence",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      217,
+      218
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "<Alternative A—suppression>",
+    "[If the defendant tried to hide evidence or discourage someone from testifying against (him/her), that conduct may show that (he/she) was aware of (his/her) guilt. If you conclude that the defendant made such an attempt, it is up to you to decide its meaning and importance. However, evidence of such an attempt cannot prove guilt by itself.]",
+    "<Alternative B—fabrication>",
+    "[If the defendant tried to create false evidence or obtain false testimony, that conduct may show that (he/she) was aware of (his/her) guilt. If you conclude that the defendant made such an attempt, it is up to you to decide its meaning and importance. However, evidence of such an attempt cannot prove guilt by itself.]",
+    "<Alternative C—fabrication or suppression by a third party>",
+    "[If someone other than the defendant tried to create false evidence, provide false testimony, or conceal or destroy evidence, that conduct may show the defendant was aware of (his/her) guilt, but only if the defendant was present and knew about that conduct, or, if not present, authorized the other person’s actions. It is up to you to decide the meaning and importance of this evidence. However, evidence of such conduct cannot prove guilt by itself.]",
+    "<Give final paragraph if multiple defendants on trial>",
+    "[If you conclude that a defendant (tried to hide evidence[,]/discouraged someone from testifying[,]/[or] authorized another person to (hide evidence/[or] discourage a witness)), you may consider that conduct only against that defendant. You may not consider that conduct in deciding whether any other defendant is guilty or not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "No authority imposes a duty to give this instruction sua sponte. However, *People v. Atwood* (1963) 223 Cal.App.2d 316 [35 Cal.Rptr. 831] held that the court had a sua sponte duty, under the circumstances of that case, to instruct on consciousness of guilt based on defendant’s false statements because they pertained to the vital question of whether defendant admitted his guilt. (*Id.* at pp. 333–334.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Atwood* (1963) 223 Cal.App.2d 316 [35 Cal.Rptr. 831]; see also *People v. Coffman and Marlow* (2004) 34 Cal.4th 1, 102–103 [17 Cal.Rptr.3d 710, 96 P.3d 30]."
+      },
+      {
+        "text": "• Fabrication or Suppression of Evidence. Evid. Code, § 413; *People v. Jackson* (1996) 13 Cal.4th 1164, 1224–1225 [56 Cal.Rptr.2d 49, 920 P.2d 1254]; *People v. Rodrigues* (1994) 8 Cal.4th 1060, 1138–1140 [36 Cal.Rptr.2d 235, 885 P.2d 1]."
+      },
+      {
+        "text": "• Suppression of Evidence. Evid. Code, § 413; see *People v. Farnam* (2002) 28 Cal.4th 107, 165 [121 Cal.Rptr.2d 106, 47 P.3d 988] [instruction referring to defendant’s refusal to provide blood or hair sample was not an erroneous pinpoint instruction]."
+      },
+      {
+        "text": "• Defendant Present or Authorized Suppression by Third Party. *People v. Hannon* (1977) 19 Cal.3d 588, 597–600 [138 Cal.Rptr. 885, 564 P.2d 1203]; *People v. Weiss* (1958) 50 Cal.2d 535, 554 [327 P.2d 527]; *People v. Kendall* (1952) 111 Cal.App.2d 204, 213–214 [244 P.2d 418]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

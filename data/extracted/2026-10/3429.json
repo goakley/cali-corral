@@ -1,0 +1,68 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3429",
+  "title": "Reasonable Person Standard for Physically Disabled Person",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2393,
+      2394
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "A person with a physical disability is required to (know what/use the amount of care that) a reasonably careful person with the same physical disability would (know/use) in the same situation."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court should give this instruction on request if the defendant has a physical disability and the crimes charged or lesser offenses include a reasonable person standard. (*People v. Mathews* (1994) 25 Cal.App.4th 89, 99–100 [30 Cal.Rptr. 2d 330].) This includes cases where the prosecution must prove that the defendant “reasonably should have known” a fact, and cases involving negligence."
+      },
+      {
+        "text": "For example, in *People v. Mathews, supra,* 25 Cal.App.4th at pp. 93–94 [30 Cal.Rptr.2d 330], the defendant, who was blind, hearing impaired, and confined to a wheelchair, was charged with brandishing a firearm at police officers when the officers entered the defendant’s home. The issue at trial was whether the defendant “reasonably should have known” that these were officers entering his home. (*Id.* at p. 98.) The court held that the trial court erred by failing to give the defense’s requested instruction that the defendant must be held to the standard of a reasonable person with the same physical disabilities, not to the standard of a reasonable person without disabilities. (*Id.* at pp. 99–100.)"
+      },
+      {
+        "text": "If the case requires the prosecution to prove that the defendant “reasonably should have known” a fact, then, in the first parenthesis, select the words “know what” and, in the second, select “know.”"
+      },
+      {
+        "text": "If the case requires the prosecution to prove negligence by the defendant, then, in the first parenthesis, select the phrase “use the amount of care that” and, in the second, select “use.”"
+      },
+      {
+        "text": "By “same” disability, this instruction is referring to the effect of the disability, not the cause."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Mathews* (1994) 25 Cal.App.4th 89, 99–100 [30 Cal.Rptr.2d 330]."
+      },
+      {
+        "text": "• Authority. Restatement Second of Torts, § 283C; see also Restatement Second of Torts, § 283B; CACI No. 403."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Reasonable Person Standard Not Modified by Evidence of Mental Impairment"
+      },
+      {
+        "text": "In *People v. Jefferson* (2004) 119 Cal.App.4th 508, 519 [14 Cal.Rptr.3d 473], the court rejected the argument that the reasonable person standard for self-defense should be the standard of a mentally ill person like the defendant. “The common law does not take account of a person’s mental capacity when determining whether he has acted as the reasonable person would have acted. The law holds ‘the mentally deranged or insane defendant accountable for his negligence as if the person were a normal, prudent person.’ (Prosser & Keeton, Torts (5th ed. 1984) § 32, p. 177.)” (*Ibid.*; see also Rest.2d Torts, § 283B.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

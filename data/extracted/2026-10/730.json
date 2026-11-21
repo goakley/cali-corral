@@ -1,0 +1,141 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "730",
+  "title": "Special Circumstances: Murder in Commission of Felony (Pen. Code, § 190.2(a)(17))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      544,
+      547
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, April 2008, August 2013, March 2021, March 2023",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder committed while engaged in the commission of ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)> [in violation of Penal Code section 190.2(a)(17)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The defendant (committed [or attempted to commit][,]/[or] aided and abetted[,]/[or] was a member of a conspiracy to commit) ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)>;",
+    "2. The defendant (intended to commit[,]/[or] intended to aid and abet the perpetrator in committing[,]/[or] intended that one or more of the members of the conspiracy commit) ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)>;",
+    "<Give element 3 if defendant did not personally commit or attempt felony.>",
+    "[3. If the defendant did not personally commit [or attempt to commit] ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)>, then a perpetrator, (whom the defendant was aiding and abetting before or during the killing/[or] with whom the defendant conspired), personally committed [or attempted to commit] ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)>;]",
+    "AND",
+    "(3/4). (The defendant/______ <insert name or description of person causing death if not defendant>) personally committed (an/the) act[s] that directly caused the death of another person.",
+    "To decide whether (the defendant/[and] the perpetrator) committed [or attempted to commit] ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s]. [To decide whether the defendant aided and abetted a crime, please refer to the separate instructions that I (will give/have given) you on aiding and abetting.] [To decide whether the defendant was a member of a conspiracy to commit a crime, please refer to the separate instructions that I (will give/have given) you on conspiracy.] You must apply those instructions when you decide whether the People have proved this special circumstance.",
+    "<Make certain that all appropriate instructions on all underlying felonies, aiding and abetting, and conspiracy are given.>",
+    "[The defendant must have (intended to commit[,]/[or] aided and abetted/[or] been a member of a conspiracy to commit) the (felony/felonies) of ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)> before or at the time of the act causing the death.]",
+    "[In addition, in order for this special circumstance to be true, the People must prove that the defendant intended to commit ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)> independent of the killing. If you find that the defendant only intended to commit murder and the commission of ______ <insert felony or felonies from Pen. Code, § 190.2(a)(17)> was merely part of or incidental to the commission of that murder, then the special circumstance has not been proved.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].) The court also has a sua sponte duty to instruct on the elements of any felonies alleged. (*People v. Cain* (1995) 10 Cal.4th 1, 36 [40 Cal.Rptr.2d 481, 892 P.2d 1224].)"
+      },
+      {
+        "text": "If the evidence raises the potential for accomplice liability, the court has a sua sponte duty to instruct on that issue. Give CALCRIM No. 703, *Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Felony Murder, Pen. Code, § 190.2(a)(17)*. If the homicide occurred on or before June 5, 1990, give CALCRIM No. 701, *Special Circumstances: Intent Requirement for Accomplice Before June 6, 1990*."
+      },
+      {
+        "text": "If the facts raise an issue whether the homicidal act caused the death, the court has a sua sponte duty to give CALCRIM No. 240, *Causation*."
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant committed or attempted to commit the underlying felony, then select “committed [or attempted to commit]” in element 1 and “intended to commit” in element 2. In addition, in the paragraph that begins with “To decide whether,” select “the defendant” in the first sentence. Give all appropriate instructions on any underlying felonies."
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant aided and abetted or conspired to commit the felony, select one or both of these options in element 1 and the corresponding intent requirement in element 2. Give bracketed element 3. In addition, in the paragraph that begins with “To decide whether,” select “the perpetrator” in the first sentence. Give the second and/or third bracketed sentences. Give all appropriate instructions on any underlying felonies and on aiding and abetting and/or conspiracy with this instruction."
+      },
+      {
+        "text": "If there is evidence that the defendant did not form the intent to commit the felony until after the homicide, the defendant is entitled on request to an instruction pinpointing this issue. (*People v. Hudson* (1955) 45 Cal.2d 121, 124–127 [287 P.2d 497]; *People v. Silva* (2001) 25 Cal.4th 345, 371 [106 Cal.Rptr.2d 93, 21 P.3d 769].) Give the bracketed sentence that begins with “The defendant must have (intended to commit.)” For an instruction specially tailored to robbery-murder cases, see *People v. Turner* (1990) 50 Cal.3d 668, 691 [268 Cal.Rptr. 706, 789 P.2d 887]."
+      },
+      {
+        "text": "In addition, the court must give the final bracketed paragraph stating that the felony must be independent of the murder if the evidence supports a reasonable inference that the felony was committed merely to facilitate the murder. (*People v. Green* (1980) 27 Cal.3d 1, 61 [164 Cal.Rptr. 1, 609 P.2d 468], disapproved on other grounds in *People v. Hall* (1986) 41 Cal.3d 826, 834 fn. 3 [226 Cal.Rptr. 112, 718 P.2d 99]; *People v. Clark* (1990) 50 Cal.3d 583, 609 [268 Cal.Rptr. 399, 789 P.2d 127]; *People v. Kimble* (1988) 44 Cal.3d 480, 501 [244 Cal.Rptr. 148, 749 P.2d 803]; *People v. Navarette* (2003) 30 Cal.4th 458, 505 [133 Cal.Rptr.2d 89, 66 P.3d 1182].)"
+      },
+      {
+        "text": "Proposition 115 added Penal Code section 190.41, eliminating the corpus delicti rule for the felony-murder special circumstance. (Pen. Code, § 190.41; *Tapia v. Superior Court* (1991) 53 Cal.3d 282, 298 [279 Cal.Rptr. 592, 807 P.2d 434].) If, however, the alleged homicide predates the effective date of the statute (June 6, 1990), then the court must modify this instruction to require proof of the corpus delicti of the underlying felony independent of the defendant’s extrajudicial statements. (*Tapia v. Superior Court, supra,* 53 Cal.3d at p. 298.)"
+      },
+      {
+        "text": "If the alleged homicide occurred between 1983 and 1987 (the window of time between *Carlos v. Superior Court* (1983) 35 Cal.3d 131, 135 [197 Cal.Rptr. 79, 672 P.2d 862] and *People v. Anderson* (1987) 43 Cal.3d 1104, 1147 [240 Cal.Rptr. 585, 742 P.2d 1306]), then the prosecution must also prove intent to kill on the part of the actual killer. (*People v. Bolden* (2002) 29 Cal.4th 515, 560 [127 Cal.Rptr.2d 802, 58 P.3d 931]; *People v. Mendoza* (2000) 24 Cal.4th 130, 182 [99 Cal.Rptr.2d 485, 6 P.3d 150].) The court should then modify this instruction to specify intent to kill as an element."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(17)."
+      },
+      {
+        "text": "• Specific Intent to Commit Felony Required. *People v. Valdez* (2004) 32 Cal.4th 73, 105 [8 Cal.Rptr.3d 271, 82 P.3d 296]."
+      },
+      {
+        "text": "• Provocative Act Murder. *People v. Briscoe* (2001) 92 Cal.App.4th 568, 596 [112 Cal.Rptr.2d 401] [citing *People v. Kainzrants* (1996) 45 Cal.App.4th 1068, 1081 [53 Cal.Rptr.2d 207]]."
+      },
+      {
+        "text": "• Concurrent Intent. *People v. Mendoza, supra,* 24 Cal.4th at p.183; *People v. Clark, supra,* 50 Cal.3d at pp. 608–609."
+      },
+      {
+        "text": "• Felony Cannot Be Incidental to Murder. *People v. Green, supra,* 27 Cal.3d at p. 61; *People v. Mendoza, supra,* 24 Cal.4th at p. 182."
+      },
+      {
+        "text": "• Instruction on Felony as Incidental to Murder. *People v. Kimble, supra,* 44 Cal.3d at p. 501; *People v. Clark, supra,* 50 Cal.3d at p. 609; *People v. Navarette, supra,* 30 Cal.4th at p. 505."
+      },
+      {
+        "text": "• Proposition 115 Amendments to Special Circumstance. *Tapia v. Superior Court, supra,* 53 Cal.3d at p. 298."
+      },
+      {
+        "text": "• Meaning of “Actual Killer.” *People v. Garcia* (2020) 46 Cal.App.5th 123, 149–155 [259 Cal.Rptr.3d 600]; *People v. Lopez* (2022) 78 Cal.App.5th 1, 4 [293 Cal.Rptr.3d 272]; *People v. Vang* (2022) 82 Cal.App.5th 64, 88 [297 Cal.Rptr.3d 806]; *People v. Garcia* (2022) 82 Cal.App.5th 956, 966–971 [299 Cal.Rptr.3d 131]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Applies to Felony Murder and Provocative Act Murder"
+      },
+      {
+        "text": "“The fact that the defendant is convicted of murder under the application of the provocative act murder doctrine rather than pursuant to the felony-murder doctrine is irrelevant to the question of whether the murder qualified as a special-circumstances murder under former section 190.2, subdivision (a)(17). The statute requires only that the murder be committed while the defendant was engaged in the commission of an enumerated felony.” (*People v. Briscoe, supra,* 92 Cal.App.4th at p. 596 [citing *People v. Kainzrants* (1996) 45 Cal.App.4th 1068, 1081 [53 Cal.Rptr.2d 207]].)"
+      },
+      {
+        "heading": true,
+        "text": "Concurrent Intent to Kill and Commit Felony"
+      },
+      {
+        "text": "“Concurrent intent to kill and to commit an independent felony will support a felony-murder special circumstance.” (*People v. Mendoza, supra,* 24 Cal.4th at p. 183; *People v. Clark, supra,* 50 Cal.3d at pp. 608–609.)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Special Circumstances May Be Alleged"
+      },
+      {
+        "text": "The defendant may be charged with multiple felony-related special circumstances based on multiple felonies committed against one victim or multiple victims of one felony. (*People v. Holt* (1997) 15 Cal.4th 619, 682 [63 Cal.Rptr.2d 782, 937 P.2d 213]; *People v. Andrews* (1989) 49 Cal.3d 200, 225–226 [260 Cal.Rptr. 583, 776 P.2d 285].)"
+      },
+      {
+        "heading": true,
+        "text": "Actual Killer vs. Aider and Abettor"
+      },
+      {
+        "text": "The meaning of *actual killer* is literal. It is not enough that the defendant’s act formed part of a series of events that resulted in the death, if the act itself would not cause death. (*People v. Garcia* (2020) 46 Cal.App.5th 123, 149–155 [259 Cal.Rptr.3d 600].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

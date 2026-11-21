@@ -1,0 +1,143 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1070",
+  "title": "Unlawful Sexual Intercourse: Defendant 21 or Older (Pen. Code, § 261.5(a) & (d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      897,
+      899
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with having unlawful sexual intercourse with a person who was under the age of 16 years at a time after the defendant had reached (his/her) 21st birthday [in violation of Penal Code section 261.5(d)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual intercourse with another person;",
+    "2. The defendant and the other person were not married to each other at the time of the intercourse;",
+    "3. The defendant was at least 21 years old at the time of the intercourse;",
+    "AND",
+    "4. The other person was under the age of 16 years at the time of the intercourse.",
+    "*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]",
+    "[It is not a defense that the other person may have consented to the intercourse.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "<Defense: Good Faith Belief 18 or Over>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that the other person was age 18 or older. In order for reasonable and actual belief to excuse the defendant’s behavior, there must be evidence tending to show that (he/she) reasonably and actually believed that the other person was age 18 or older. If you have a reasonable doubt about whether the defendant reasonably and actually believed that the other person was age 18 or older, you must find (him/her) not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "For a discussion of the sua sponte duty to instruct on the defense of mistake of fact, see CALCRIM No. 3406."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “It is not a defense that” on request, if there is evidence that the minor consented to the act. (See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502].)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant reasonably and actually believed that the minor was age 18 or older, the court has a sua sponte duty to instruct on the defense. (See *People v. Hernandez* (1964) 61 Cal.2d 529, 535–536 [39 Cal.Rptr. 361, 393 P.2d 673]; *People v. Winters* (1966) 242 Cal.App.2d 711, 716 [51 Cal.Rptr. 735].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instruction"
+      },
+      {
+        "text": "CALCRIM No. 3406, *Mistake of Fact*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 261.5(a) & (d)."
+      },
+      {
+        "text": "• Minor’s Consent Not a Defense. *People v. Kemp* (1934) 139 Cal.App. 48, 51."
+      },
+      {
+        "text": "• Penetration Defined. Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585, 600 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      },
+      {
+        "text": "• Good Faith Belief in Victim’s Age. *People v. Zeihm* (1974) 40 Cal.App.3d 1085, 1089 [115 Cal.Rptr. 528]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Unlawful Sexual Intercourse. Pen. Code, §§ 664, 261.5; see, e.g., *People v. Nicholson* (1979) 98 Cal.App.3d 617, 622–624 [159 Cal.Rptr. 766]."
+      },
+      {
+        "text": "Contributing to the delinquency of a minor (Pen. Code, § 272) is not a lesser included offense of unlawful sexual intercourse. (*People v. Bobb* (1989) 207 Cal.App.3d 88, 93–96 [254 Cal.Rptr. 707], disapproved on another ground in *People v. Barton* (1995) 12 Cal.4th 186, 198, fn. 7 [47 Cal.Rptr.2d 569, 906 P.2d 531].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Calculating Age"
+      },
+      {
+        "text": "The “birthday rule” of former Civil Code section 26 (now see Fam. Code, § 6500) applies. A person attains a given age as soon as the first minute of his or her birthday has begun, not on the day before the birthday. (*In re Harris* (1993) 5 Cal.4th 813, 844–845, 849 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Participant Must be Over 21"
+      },
+      {
+        "text": "One of the two participants in the act of unlawful sexual intercourse must be over 21 and the other person must be under 16. Proof that an aider and abettor was over 21 is insufficient to sustain the aider and abettor’s conviction if neither of the actual participants was over 21 years old. (See *People v. Culbertson* (1985) 171 Cal.App.3d 508, 513, 515 [217 Cal.Rptr. 347] [applying same argument to section 287(c), where perpetrator must be 10 years older than victim under 14].)"
+      },
+      {
+        "heading": true,
+        "text": "Mistaken Belief About Victim’s Age"
+      },
+      {
+        "text": "A defendant is not entitled to a mistake of fact instruction if he claims that he believed that the complaining witness was over 16. His belief would still constitute the *mens rea* of intending to have sex with a minor. (*People v. Scott* (2000) 83 Cal.App.4th 784, 800–801 [100 Cal.Rptr.2d 70].) However, if he claims that he believed that the complaining witness was over 18 years old, he is entitled to the mistake of fact instruction. (See *People v. Hernandez* (1964) 61 Cal.2d 529, 535–536 [39 Cal.Rptr. 361, 393 P.2d 673].)"
+      },
+      {
+        "heading": true,
+        "text": "Married Minor Victim"
+      },
+      {
+        "text": "A defendant may be convicted of unlawful sexual intercourse even if the minor victim is married or was previously married to another person. (*People v. Courtney* (1960) 180 Cal.App.2d 61, 62 [4 Cal.Rptr. 274] [construing former statute]; *People v. Caldwell* (1967) 255 Cal.App.2d 229, 230–231 [63 Cal.Rptr. 63].)"
+      },
+      {
+        "heading": true,
+        "text": "Sterility"
+      },
+      {
+        "text": "Sterility is not a defense to unlawful sexual intercourse. (*People v. Langdon* (1987) 192 Cal.App.3d 1419, 1421 [238 Cal.Rptr. 158].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

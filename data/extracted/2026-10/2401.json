@@ -1,0 +1,114 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2401",
+  "title": "Aiding and Abetting Unlawful Use of Controlled Substance (Health & Saf. Code, § 11365)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1692,
+      1694
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with aiding and abetting unlawful use of a controlled substance in a place [in violation of Health and Safety Code section 11365].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully and intentionally (visited/[or] was present in) a place where someone else was (smoking/[or] using) ______ <insert controlled substance specified in Health & Saf. Code, § 11365>, a controlled substance;",
+    "2. The defendant knew that the other person intended to (smoke/[or] use) the controlled substance;",
+    "3. The defendant intended to aid and abet the other person in (smoking/[or] using) the controlled substance;",
+    "4. The defendant did or said something that did in fact aid and abet the other person in (smoking/[or] using) the controlled substance;",
+    "AND",
+    "5. The defendant knew that (his/her) words or conduct aided and abetted the other person in (smoking/[or] using) the controlled substance.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "Someone *aids and abets* a crime if, before or during the commission of the crime, he or she knows of the perpetrator’s unlawful purpose and he or she specifically intends to, and does in fact, aid, facilitate, promote, encourage, or instigate the perpetrator’s commission of that crime.",
+    "[If you conclude that the defendant was present at the scene of the crime or failed to prevent the crime, you may consider that fact in determining whether the defendant was an aider and abettor. However, the fact that a person is present at the scene of a crime or fails to prevent the crime does not, by itself, make him or her an aider and abettor.]",
+    "[A person who aids and abets a crime is not guilty of that crime if he or she withdraws before the crime is committed. To withdraw, a person must do two things:",
+    "1. He or she must notify everyone else he or she knows is involved in the commission of the crime that he or she is no longer participating. The notification must be made early enough to prevent the commission of the crime;",
+    "AND",
+    "2. He or she must do everything reasonably within his or her power to prevent the crime from being committed. He or she does not have to actually prevent the crime.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw. If the People have not met this burden, you may not find the defendant guilty under an aiding and abetting theory.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. (See *People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318] [duty to instruct on aiding and abetting].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is evidence that the defendant was merely present at the scene or only had knowledge that a crime was being committed, the court has a sua sponte duty to give the bracketed portion that begins with “If you conclude that the defendant was present.” (*People v. Boyd* (1990) 222 Cal.App.3d 541, 557, fn. 14 [271 Cal.Rptr. 738]; *In re Michael T.* (1978) 84 Cal.App.3d 907, 911 [149 Cal.Rptr. 87].)"
+      },
+      {
+        "text": "If there is evidence that the defendant withdrew from participation in the crime, the court has a sua sponte duty to instruct on withdrawal. (*People v. Norton* (1958) 161 Cal.App.2d 399, 403 [327 P.2d 87]; *People v. Ross* (1979) 92 Cal.App.3d 391, 404–405 [154 Cal.Rptr. 783].) Give the bracketed portion that begins with “A person who aids and abets a crime is not guilty.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, § 11365."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Aiding and Abetting Required. Health. & Saf. Code, § 11365(b); *People v. Cressey* (1970) 2 Cal.3d 836, 848–849 [87 Cal.Rptr. 699, 471 P.2d 19]."
+      },
+      {
+        "text": "• Knowledge and Willful, Intentional Involvement Required. *People v. Brim* (1968) 257 Cal.App.2d 839, 842 [65 Cal.Rptr. 265]."
+      },
+      {
+        "text": "• Requirements for Aiding and Abetting Generally. *People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318]."
+      },
+      {
+        "text": "• Withdrawal. *People v. Norton* (1958) 161 Cal.App.2d 399, 403 [327 P.2d 87]; *People v. Ross* (1979) 92 Cal.App.3d 391, 404–405 [154 Cal.Rptr. 783]."
+      },
+      {
+        "text": "• Presence or Knowledge Insufficient. *People v. Boyd* (1990) 222 Cal.App.3d 541, 557, fn. 14 [271 Cal.Rptr. 738]; *In re Michael T.* (1978) 84 Cal.App.3d 907, 911 [149 Cal.Rptr. 87]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Drug Use in Car"
+      },
+      {
+        "text": "A car is a “place” for the purposes of this offense. (*People v. Lee* (1968) 260 Cal.App.2d 836, 840–841 [67 Cal.Rptr. 709].)"
+      },
+      {
+        "text": "See also the Related Issues section of CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

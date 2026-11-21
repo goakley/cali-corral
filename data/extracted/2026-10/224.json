@@ -1,0 +1,85 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "224",
+  "title": "Circumstantial Evidence: Sufficiency of Evidence",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      129,
+      130
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, March 2022",
+  "revision_legend": null,
+  "body": [
+    "Before you may rely on circumstantial evidence to conclude that a fact necessary to find the defendant guilty has been proved, you must be convinced that the People have proved each fact essential to that conclusion beyond a reasonable doubt.",
+    "Also, before you may rely on circumstantial evidence to find the defendant guilty, you must be convinced that the only reasonable conclusion supported by the circumstantial evidence is that the defendant is guilty. If you can draw two or more reasonable conclusions from the circumstantial evidence, and one of those reasonable conclusions points to innocence and another to guilt, you must accept the one that points to innocence. However, when considering circumstantial evidence, you must accept only reasonable conclusions and reject any that are unreasonable."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on how to evaluate circumstantial evidence if the prosecution substantially relies on circumstantial evidence to establish any element of the case. (*People v. Yrigoyen* (1955) 45 Cal.2d 46, 49 [286 P.2d 1] [duty exists where circumstantial evidence relied on to prove any element, including intent]; see *People v. Bloyd* (1987) 43 Cal.3d 333, 351–352 [233 Cal.Rptr. 368, 729 P.2d 802]; *People v. Heishman* (1988) 45 Cal.3d 147, 167 [246 Cal.Rptr. 673, 753 P.2d 629].)"
+      },
+      {
+        "text": "There is no sua sponte duty to give this instruction when the circumstantial evidence is incidental to and corroborative of direct evidence. (*People v. Malbrough* (1961) 55 Cal.2d 249, 250–251 [10 Cal.Rptr. 632, 359 P.2d 30]; *People v. Watson* (1956) 46 Cal.2d 818, 831 [299 P.2d 243]; *People v. Shea* (1995) 39 Cal.App.4th 1257, 1270–1271 [46 Cal.Rptr.2d 388].) This is so even when the corroborative circumstantial evidence is essential to the prosecution’s case, e.g., when corroboration of an accomplice’s testimony is required under Penal Code section 1111. (*People v. Williams* (1984) 162 Cal.App.3d 869, 874 [208 Cal.Rptr. 790].)"
+      },
+      {
+        "text": "If intent is the only element proved by circumstantial evidence, do not give this instruction. Give CALCRIM No. 225, *Circumstantial Evidence: Intent or Mental State*. (*People v. Marshall* (1996) 13 Cal.4th 799, 849 [55 Cal.Rptr.2d 347, 919 P.2d 1280].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Direct Evidence Defined. Evid. Code, § 410. • Inference Defined. Evid. Code, § 600(b)."
+      },
+      {
+        "text": "• Between Two Reasonable Interpretations of Circumstantial Evidence, Accept the One That Points to Innocence. *People v. Merkouris* (1956) 46 Cal.2d 540, 560–562 [297 P.2d 999] [error to refuse requested instruction on this point]; *People v. Johnson* (1958) 163 Cal.App.2d 58, 62 [328 P.2d 809] [sua sponte duty to instruct]."
+      },
+      {
+        "text": "• “Innocence” Means Not Guilty of the Charged Crime. *People v. Doane* (2021) 66 Cal.App.5th 965, 976–977 [281 Cal.Rptr.3d 594]; *People v. Wade* (1995) 39 Cal.App.4th 1487, 1493 [46 Cal.Rptr.2d 645]."
+      },
+      {
+        "text": "• Circumstantial Evidence Must Be Entirely Consistent With a Theory of Guilt and Inconsistent With Any Other Rational Conclusion. *People v. Bender* (1945) 27 Cal.2d 164, 175 [163 P.2d 8] [sua sponte duty to instruct]; *People v. Yrigoyen* (1955) 45 Cal.2d 46, 49 [286 P.2d 1] [same]."
+      },
+      {
+        "text": "• Difference Between Direct and Circumstantial Evidence. *People v. Lim Foon* (1915) 29 Cal.App. 270, 274 [155 P. 477] [no sua sponte duty to instruct, but court approves definition]; *People v. Goldstein* (1956) 139 Cal.App.2d 146, 152–153 [293 P.2d 495] [sua sponte duty to instruct]."
+      },
+      {
+        "text": "• Each Fact in Chain of Circumstantial Evidence Must Be Proved. *People v. Watson* (1956) 46 Cal.2d 818, 831 [299 P.2d 243] [error to refuse requested instruction on this point]."
+      },
+      {
+        "text": "• Sua Sponte Duty When Prosecutor’s Case Rests Substantially on Circumstantial Evidence. *People v. Bloyd* (1987) 43 Cal.3d 333, 351–352 [233 Cal.Rptr. 368, 729 P.2d 802]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1186–1187 [67 Cal.Rptr.3d 871]."
+      },
+      {
+        "text": "• This Instruction Cited With Approval. *People v. Livingston* (2012) 53 Cal.4th 1145, 1166 [140 Cal.Rptr.3d 139, 274 P.3d 1132]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Extrajudicial Admissions"
+      },
+      {
+        "text": "Extrajudicial admissions are not the type of indirect evidence requiring instruction on circumstantial evidence. (*People v. Wiley* (1976) 18 Cal.3d 162, 174–175 [133 Cal.Rptr. 135, 554 P.2d 881].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

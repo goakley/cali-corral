@@ -1,0 +1,173 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1121",
+  "title": "Annoying or Molesting a Child in a Dwelling (Pen. Code, § 647.6(a)–(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      941,
+      944
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with annoying or molesting a child in an inhabited dwelling [in violation of Penal Code section 647.6(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant entered an inhabited (dwelling house/part of a building/trailer coach) without consent;",
+    "2. After entering the (house/building/trailer coach), the defendant engaged in conduct directed at a child;",
+    "3. A normal person, without hesitation, would have been disturbed, irritated, offended, or injured by the defendant’s conduct;",
+    "4. The defendant’s conduct was motivated by an unnatural or abnormal sexual interest in the child;",
+    "AND",
+    "5. The child was under the age of 18 years at the time of the conduct.",
+    "[It is not necessary that the child actually be irritated or disturbed.] [It is [also] not necessary that the child actually be touched.]",
+    "[It is not a defense that the child may have consented to the act.]",
+    "[A (house/part of a building/trailer coach) is *inhabited* if someone uses it as a dwelling, whether or not someone is inside at the time of the alleged conduct.]",
+    "[A (house/part of a building/trailer coach) is *inhabited* if someone used it as a dwelling and left only because a natural or other disaster caused him or her to leave.]",
+    "[A (house/part of a building/trailer coach) is not *inhabited* if the former residents have moved out and do not intend to return, even if some personal property remains inside.]",
+    "[A *house* includes any (structure/garage/office/______ <insert other description>) that is attached to the house and functionally connected with it.]",
+    "[A *trailer coach* is a vehicle without its own mode of power, designed to be pulled by a motor vehicle. It is made for human habitation or human occupancy and for carrying property.]",
+    "[A *trailer coach* is [also] a park trailer that is intended for human habitation for recreational or seasonal use only and",
+    "(1) has a floor area of no more than 400 square feet;",
+    "(2) is not more than 14 feet wide;",
+    "(3) is built on a single chassis;",
+    "AND",
+    "(4) may be transported on public highways only with a permit.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "<Defense: Good Faith Belief Over 18>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that the child was at least 18 years of age. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe the child was at least 18 years of age. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    14.0,
+    14.0,
+    14.0,
+    16.0,
+    14.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged in a single count with multiple alleged acts, the court has a sua sponte duty to instruct on unanimity. (*People v. Jones* (1990) 51 Cal.3d 294, 321–322 [270 Cal.Rptr. 611, 792 P.2d 643]; *People v. Epps* (1981) 122 Cal.App.3d 691, 703–704 [176 Cal.Rptr. 332].) However, child annoyance or molestation may be committed by a single act or a repetitive course of conduct. There is no sua sponte duty to give a unanimity instruction when a defendant’s conduct clearly constituted a single course of conduct. (*People v. Moore* (1986) 185 Cal.App.3d 1005, 1014–1016 [230 Cal.Rptr. 237].) The court must determine if a unanimity instruction is required and whether it is appropriate to give the standard unanimity instruction, CALCRIM No. 3500, *Unanimity*, or the modified unanimity instruction, CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*. Review the discussion in the bench notes to these two instructions and *People v. Jones*, *supra*, 51 Cal.3d at pp. 321–322."
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of the crime. (*People v. Valenti* (2016) 243 Cal.App.4th 1140, 1165 [197 Cal.Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      },
+      {
+        "text": "If the defendant is charged with a prior conviction for a violation of Penal Code section 647.6 or any other specified sexual offense (see Pen. Code, § 647.6(c)), give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*, unless the defendant has stipulated to the truth of the prior conviction. (*People v. Merkley* (1996) 51 Cal.App.4th 472, 476 [58 Cal.Rptr.2d 21]; see *People v. Bouzas* (1991) 53 Cal.3d 467, 477–480 [279 Cal.Rptr. 847, 807 P.2d 1076].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins, “It is not a defense that,” on request if there is evidence that the minor consented to the act. (See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502].)"
+      },
+      {
+        "text": "If appropriate, give any of the bracketed definitions of “inhabited,” “house” or “trailer coach” on request."
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "text": "If the defendant was charged with simple annoying or molesting a child without any allegations about entering an inhabited house, building, or trailer coach, do not give this instruction. Give CALCRIM No. 1122, *Annoying or Molesting a Child*."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant reasonably believed that the child was over 18 years of age, the court has a sua sponte duty to instruct on the defense. (See *People v. Atchison* (1978) 22 Cal.3d 181, 183 [148 Cal.Rptr. 881, 583 P.2d 735]; *People v. Paz* (2000) 80 Cal.App.4th 293, 300 [95 Cal.Rptr.2d 166].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 647.6(a)–(c)."
+      },
+      {
+        "text": "• Inhabitation Defined. See Pen. Code, § 459 [in context of burglary]."
+      },
+      {
+        "text": "• Trailer Coach Defined. Veh. Code, § 635; Health & Saf. Code, § 18009.3."
+      },
+      {
+        "text": "• Acts Motivated by Unnatural or Abnormal Sexual Interest. *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335]; *In re Gladys R.* (1970) 1 Cal.3d 855, 867 [83 Cal.Rptr. 671, 464 P.2d 127]."
+      },
+      {
+        "text": "• Annoy and Molest Defined; Objective Standard. *People v. Lopez* (1998) 19 Cal.4th 282, 289–290 [79 Cal.Rptr.2d 195]; *People v. Kongs* (1994) 30 Cal.App.4th 1741, 1749–1750 [37 Cal.Rptr.2d 327]; *People v. Pallares* (1952) 112 Cal.App.2d Supp. 895, 901–902 [246 P.2d 173]."
+      },
+      {
+        "text": "• Lewd Act Not Required. *People v. Thompson* (1988) 206 Cal.App.3d 459, 465–466 [253 Cal.Rptr. 564]."
+      },
+      {
+        "text": "• Minor’s Consent Not a Defense. See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 937, fn. 7 [26 Cal.Rptr.2d 567] [dicta, in context of lewd act]."
+      },
+      {
+        "text": "• Minor Need Not Actually Be Annoyed. *People v. Lopez* (1998) 19 Cal.4th 282, 290 [79 Cal.Rptr.2d 195, 965 P.2d 713]."
+      },
+      {
+        "text": "• Actual Touching Not Required. *People v. Memro* (1995) 11 Cal.4th 786, 871 [47 Cal.Rptr.2d 219, 905 P.2d 1305]; *People v. Lopez* (1998) 19 Cal.4th 282, 289 [79 Cal.Rptr.2d 195]."
+      },
+      {
+        "text": "• House Not Inhabited If Former Residents Not Returning. *People v. Cardona* (1983) 142 Cal.App.3d 481, 483 [191 Cal.Rptr. 109]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "See the Commentary section of the Bench Notes for CALCRIM No. 1122, *Annoying or Molesting a Child*."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Annoying or Molesting of Minor. Pen. Code, §§ 664, 647.6(b)."
+      },
+      {
+        "text": "Annoying or molesting a child without entering an inhabited dwelling is a misdemeanor and lesser included offense. (Pen. Code, § 647.6(a).)"
+      },
+      {
+        "text": "Neither simple assault (*People v. Greene* (1973) 34 Cal.App.3d 622, 654–655 [110 Cal.Rptr. 160]) or contributing to the delinquency of a minor (*People v. Romero* (1975) 48 Cal.App.3d 752, 757 [121 Cal.Rptr. 800] [construing former versions of Pen. Code, §§ 272 and 647.6]) is a necessarily included lesser offense of annoying or molesting a child."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "After Entering"
+      },
+      {
+        "text": "The statute does not require that the defendant engage in the molesting conduct while still in the home. (*People v. Mendoza* (2004) 118 Cal.App.4th 571, 575–576 [13 Cal.Rptr.3d 195].) It is sufficient if the defendant engaged in the conduct after entering the home and there is a “nexus between the residential entry and the molesting conduct.” (*Id.* at p. 576.)"
+      },
+      {
+        "text": "See the Related Issues section of the Bench Notes for CALCRIM No. 1122, *Annoying or Molesting a Child*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

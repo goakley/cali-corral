@@ -1,0 +1,44 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "351",
+  "title": "Cross-Examination of Character Witness",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      193,
+      193
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The attorney for the People was allowed to ask defendant’s character witness[es] if (he/she/they) had heard that the defendant had engaged in certain conduct. These “have you heard” questions and their answers are not evidence that the defendant engaged in any such conduct. You may consider these questions and answers only to evaluate the meaning and importance of (the/a) character witness’s testimony."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give an instruction on cross-examination of character witnesses; however it must be given on request. (*People v. Hempstead* (1983) 148 Cal.App.3d 949, 954 [196 Cal.Rptr. 412] [when cross-examination of character witness is permitted, a limiting admonition should be given]; Evid. Code, § 355.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Hempstead* (1983) 148 Cal.App.3d 949, 954 [196 Cal.Rptr. 412]; *People v. Eli* (1967) 66 Cal.2d 63, 79 [56 Cal.Rptr. 916, 424 P.2d 356]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

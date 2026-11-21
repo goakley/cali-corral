@@ -1,0 +1,108 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "905",
+  "title": "Assault on Juror (Pen. Code, §§ 240, 241.7)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      714,
+      716
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault on a juror [in violation of Penal Code section 241.7].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was a party to a case for which a jury had been selected;",
+    "2. The defendant did an act that by its nature would directly and probably result in the application of force to someone who had been sworn as a juror [or alternate juror] to decide that case;",
+    "3. The defendant did that act willfully;",
+    "4. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in the application of force to someone;",
+    "[AND]",
+    "5. When the defendant acted, (he/she) had the present ability to apply force to a person(;/.)",
+    "<Give element 6 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "6. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "The People are not required to prove that the defendant actually intended to use force against someone when (he/she) acted.",
+    "No one needs to actually have been injured by defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was].",
+    "[Voluntary intoxication is not a defense to assault.]",
+    "[It is not a defense that an assault was committed after the trial was completed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 6 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "Do not give an attempt instruction in conjunction with this instruction. There is no crime of “attempted assault” in California. (*In re James M.* (1973) 9 Cal.3d 517, 519, 521–522 [108 Cal.Rptr. 89, 510 P.2d 33].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 240, 241.7."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Unlike other statutes penalizing assault on a particular person, Penal Code section 241.7 does not state that the defendant must have known that the person assaulted was a juror. Thus, the committee has not included knowledge among the elements."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

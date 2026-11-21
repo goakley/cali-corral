@@ -1,0 +1,207 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1202",
+  "title": "Kidnapping: For Ransom, Reward, Extortion, or to Exact From Another Person (Pen. Code, § 209(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1052,
+      1057
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2015, March 2017, September 2020, March 2021, September 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______ ] with kidnapping (for ransom[,]/[or] for reward[,]/[or] to commit extortion[,]/[or] to get from a different person money or something valuable) [that resulted in (death[,]/[or] bodily harm[,]/[or] exposure to a substantial likelihood of death)] [in violation of Penal Code section 209(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (kidnapped[,]/[or] abducted[,]/[or] seized[,]/[or] confined[,]/[or] concealed[,]/[or] carried away[,]/[or] inveigled[,]/[or] enticed[,]/[or] decoyed) a person;",
+    "<Alternative 2A—held or detained>",
+    "[2. The defendant held or detained that person;]",
+    "<Alternative 2B—intended to hold or detain that person>",
+    "[2. When the defendant acted, (he/she) intended to hold or detain that person;]",
+    "3. The defendant did so (for ransom[,]/[or] for reward[,]/[or] to commit extortion[,]/[or] to get from a different person money or something valuable);",
+    "[AND]",
+    "4. The person did not consent to being (kidnapped[,]/[or] abducted[,]/[or] seized[,]/[or] confined[,]/[or] concealed[,]/[or] carried away[,]/[or] inveigled[,]/[or] enticed[,]/[or] decoyed)(;/.)",
+    "<Give element 5 if instructing on reasonable belief in consent.>",
+    "[AND",
+    "5. The defendant did not actually and reasonably believe that the person consented to being (kidnapped[,]/[or] abducted[,]/[or] seized[,]/[or] confined[,]/[or] concealed[,]/[or] carried away[,]/[or] inveigled[,]/[or] enticed[,]/[or] decoyed).]",
+    "[It is not necessary that the person be moved for any distance.]",
+    "[In order to *consent*, a person must act freely and voluntarily and know the nature of the act.]",
+    "<Defense: Good Faith Belief in Consent>",
+    "[The defendant is not guilty of kidnapping if (he/she) reasonably and actually believed that the person consented to the movement. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe that the person consented to the movement. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "<Defense: Consent Given>",
+    "[The defendant is not guilty of kidnapping if the person consented to go with the defendant. The person consented if (he/she) (1) freely and voluntarily agreed to go with or be moved by the defendant, (2) was aware of the movement, and (3) had sufficient mental capacity to choose to go with the defendant. The People have the burden of proving beyond a reasonable doubt that the person did not consent to go with the defendant. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "[Consent may be withdrawn. If, at first, a person agreed to go with the defendant, that consent ended if the person changed his or her mind and no longer freely and voluntarily agreed to go with or be moved by the defendant. The defendant is guilty of kidnapping if after the person withdrew consent, the defendant committed the crime as I have defined it.]",
+    "[Someone intends to commit *extortion* if he or she intends to: (1) obtain a person’s property with the person’s consent and (2) obtain the person’s consent through the use of force or fear.]",
+    "[Someone intends to commit *extortion* if he or she: (1) intends to get a public official to do an official act and (2) uses force or fear to make the official do the act.] [An *official act* is an act that a person does in his or her official capacity using the authority of his or her public office.]",
+    "<Sentencing Factor>",
+    "[If you find the defendant guilty of kidnapping (for ransom [,]/[or] for reward[,]/[or] to commit extortion[,]/[or] to get from a different person money or something valuable), you must then decide whether the People have proved the additional allegation that the defendant (caused the kidnapped person to (die/suffer bodily harm)/[or] intentionally confined the kidnapped person in a way that created a substantial likelihood of death).",
+    "[*Bodily harm* means any substantial physical injury resulting from the use of force that is more than the force necessary to commit kidnapping.]",
+    "[The defendant caused ______’s <insert name of allegedly kidnapped person> (death/bodily harm) if:",
+    "1. A reasonable person in the defendant’s position would have foreseen that the defendant’s use of force or fear could begin a chain of events likely to result in ______’s <insert name of allegedly kidnapped person> (death/bodily harm);",
+    "2. The defendant’s use of force or fear was a direct and substantial factor in causing ______’s <insert name of allegedly kidnapped person> (death/bodily harm);",
+    "AND",
+    "3. ______’s <insert name of allegedly kidnapped person> (death/bodily harm) would not have happened if the defendant had not used force or fear to hold or detain ______ <insert name of allegedly kidnapped person>.",
+    "A *substantial factor* is more than a trivial or remote factor. However, it need not have been the only factor that caused ______’s <insert name of allegedly kidnapped person> (death/bodily harm).]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges that the kidnapping resulted in death or bodily harm, or exposed the victim to a substantial likelihood of death (see Pen. Code, § 209(a)), the court has a sua sponte duty to instruct on the sentencing factor. (See *People v. Schoenfeld* (1980) 111 Cal.App.3d 671, 685–686 [168 Cal.Rptr. 762] [bodily harm defined]); see also *People v. Ryan* (1999) 76 Cal.App.4th 1304, 1318 [76 Cal.Rptr.2d 160] [court must instruct on general principles of law relevant to issues raised by the evidence].) The court must also give the jury a verdict form on which the jury can indicate whether this allegation has been proved. If causation is an issue, the court has a sua sponte duty to give the bracketed section that begins “The defendant caused.” (See Pen. Code, § 209(a); *People v. Monk* (1961) 56 Cal.2d 288, 296 [14 Cal.Rptr. 633, 363 P.2d 865]; *People v. Reed* (1969) 270 Cal.App.2d 37, 48–49 [75 Cal.Rptr. 430].)"
+      },
+      {
+        "text": "Give the bracketed definition of “consent” on request."
+      },
+      {
+        "text": "Give alternative 2A if the evidence supports the conclusion that the defendant actually held or detained the alleged victim. Otherwise, give alternative 2B. (See Pen. Code, § 209(a).)"
+      },
+      {
+        "text": "“Extortion” is defined in Penal Code section 518. If the kidnapping was for purposes of extortion, give one of the bracketed definitions of extortion on request. Give the second definition if the defendant is charged with intending to extort an official act. (*People v. Hill* (1983) 141 Cal.App.3d 661, 668 [190 Cal.Rptr. 628]; see *People v. Ordonez* (1991) 226 Cal.App.3d 1207, 1229–1230 [277 Cal.Rptr. 382]; *People v. Norris* (1985) 40 Cal.3d 51, 55–56 [219 Cal.Rptr. 7, 706 P.2d 1141] [defining “official act”].) Extortion may also be committed by using “the color of official right” to make an official do an act. (Pen. Code, § 518; see *Evans v. United States* (1992) 504 U.S. 255, 258 [112 S.Ct. 1881, 119 L.Ed.2d 57]; *McCormick v. United States* (1990) 500 U.S. 257, 273 [111 S.Ct. 1807, 114 L.Ed.2d 307] [both discussing common law definition].) It appears that this type of extortion rarely occurs in the context of kidnapping, so it is excluded from this instruction."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of consent if there is sufficient evidence to support the defense. (See *People v. Davis* (1995) 10 Cal.4th 463, 516–518 [41 Cal.Rptr.2d 826, 896 P.2d 119] [approving consent instruction as given]; see also *People v. Sedeno* (1974) 10 Cal.3d 703, 717, fn. 7 [112 Cal.Rptr. 1, 518 P.2d 913], overruled on other grounds in *People v. Breverman* (1998) 19 Cal.4th 142, 165 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [when court must instruct on defenses].) Give the bracketed paragraph on the defense of consent. On request, if supported by the evidence, also give the bracketed paragraph that begins with “Consent may be withdrawn.” (See *People v. Camden* (1976) 16 Cal.3d 808, 814 [129 Cal.Rptr. 438, 548 P.2d 1110].)"
+      },
+      {
+        "text": "The defendant’s reasonable and actual belief in the victim’s consent to go with the defendant may be a defense. (See *People v. Greenberger* (1997) 58 Cal.App.4th 298, 375 [68 Cal.Rptr.2d 61]; *People v. Isitt* (1976) 55 Cal.App.3d 23, 28 [127 Cal.Rptr. 279] [reasonable, good faith belief that victim consented to movement is a defense to kidnapping].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "For the elements of extortion, see CALCRIM No. 1830, *Extortion by Threat or Force*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 209(a)."
+      },
+      {
+        "text": "• Requirement of Lack of Consent. *People v. Eid* (2010) 187 Cal.App.4th 859, 878 [114 Cal.Rptr.3d 520]."
+      },
+      {
+        "text": "• Extortion. Pen. Code, § 518; *People v. Hill, supra*, 141 Cal.App.3d at p. 668; see *People v. Ordonez, supra*, 226 Cal.App.3d at pp. 1229–1230."
+      },
+      {
+        "text": "• Amount of Physical Force Required. *People v. Chacon* (1995) 37 Cal.App.4th 52, 59 [43 Cal.Rptr.2d 434]; *People v. Schoenfeld, supra*, 111 Cal.App.3d at pp. 685–686."
+      },
+      {
+        "text": "• “Bodily Injury” Defined. *People v. Chacon, supra*, 37 Cal.App.4th at p. 59; *People v. Schoenfeld, supra*, 111 Cal.App.3d at pp. 685–686; see *People v. Reed, supra*, 270 Cal.App.2d at pp. 48–50 [injury reasonably foreseeable from defendant’s act]."
+      },
+      {
+        "text": "• Control Over Victim When Intent Formed. *People v. Martinez* (1984) 150 Cal.App.3d 579, 600–602 [198 Cal.Rptr. 565] [disapproved on other ground in *People v. Hayes* (1990) 52 Cal.3d 577, 627–628, fn. 10 [276 Cal.Rptr. 874, 802 P.2d 376].]"
+      },
+      {
+        "text": "• No Asportation Required. *People v. Macinnes* (1973) 30 Cal.App.3d 838, 844 [106 Cal.Rptr. 589]; see *People v. Rayford* (1994) 9 Cal.4th 1, 11–12, fn. 8 [36 Cal.Rptr.2d 317, 884 P.2d 1369]; *People v. Ordonez, supra*, 226 Cal.App.3d at p. 1227."
+      },
+      {
+        "text": "• “Official Act” Defined. *People v. Mayfield* (1997) 14 Cal.4th 668, 769–773 [60 Cal.Rptr.2d 1, 928 P.2d 485]; *People v. Norris, supra*, 40 Cal.3d at pp. 55–56."
+      },
+      {
+        "text": "• Kidnapping to Extract From Another Person Any Money or Valuable Thing Requires That the Other Person Not Be the Person Kidnapped. *People v. Harper* (2020) 44 Cal.App.5th 172, 192–193 [257 Cal.Rptr.3d 440]; *People v. Stringer* (2019) 41 Cal.App.5th 974, 983 [254 Cal.Rptr.3d 678]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "A trial court may refuse to define “reward.” There is no need to instruct a jury on the meaning of terms in common usage. Reward means something given in return for good or evil done or received, and especially something that is offered or given for some service or attainment. (*People v. Greenberger, supra*, 58 Cal.App.4th at pp. 367–368.) In the absence of a request, there is also no duty to define “ransom.” The word has no statutory definition and is commonly understood by those familiar with the English language. (*People v. Hill, supra*, 141 Cal.App.3d at p. 668.)"
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• False Imprisonment. Pen. Code, §§ 236, 237; *People v. Chacon, supra*, 37 Cal.App.4th at p. 65; *People v. Magana* (1991) 230 Cal.App.3d 1117, 1121 [281 Cal.Rptr. 338]; *People v. Gibbs* (1970) 12 Cal.App.3d 526, 547 [90 Cal.Rptr. 866]."
+      },
+      {
+        "text": "• Extortion. Pen. Code, § 518."
+      },
+      {
+        "text": "• Attempted Extortion. Pen. Code, §§ 664, 518."
+      },
+      {
+        "text": "• Multiple Convictions of Lesser Included Offenses of Pen. Code, § 209(a) Possible. *People v. Eid, supra*, 59 Cal.4th at pp. 655–658."
+      },
+      {
+        "text": "If the prosecution alleges that the kidnapping resulted in death or bodily harm, or exposed the victim to a substantial likelihood of death (see Pen. Code, § 209(a)), then kidnapping for ransom without death or bodily harm is a lesser included offense. The court must provide the jury with a verdict form on which the jury will indicate if the allegation has been proved."
+      },
+      {
+        "text": "Simple kidnapping under section 207 of the Penal Code is not a lesser and necessarily included offense of kidnapping for ransom, reward, or extortion. (*People v. Greenberger, supra*, 58 Cal.App.4th at p. 368, fn. 56 [kidnapping for ransom can be accomplished without asportation while simple kidnapping cannot]; see *People v. Macinnes, supra*, 30 Cal.App.3d at pp. 843–844; *People v. Bigelow* (1984) 37 Cal.3d 731, 755, fn. 14 [209 Cal.Rptr. 328, 691 P.2d 994].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Extortion Target"
+      },
+      {
+        "text": "The kidnapped victim may also be the person from whom the defendant wishes to extort something. (*People v. Ibrahim* (1993) 19 Cal.App.4th 1692, 1696–1698 [24 Cal.Rptr.2d 269].)"
+      },
+      {
+        "heading": true,
+        "text": "No Good-Faith Exception"
+      },
+      {
+        "text": "A good faith exception to extortion or kidnapping for ransom does not exist. Even actual debts cannot be collected by the reprehensible and dangerous means of abducting and holding a person to be ransomed by payment of the debt. (*People v. Serrano* (1992) 11 Cal.App.4th 1672, 1677–1678 [15 Cal.Rptr.2d 305].)"
+      },
+      {
+        "heading": true,
+        "text": "Kidnap for Ransom in Multiple Victim Robbery Case"
+      },
+      {
+        "text": "In *People v. Daniels* (1969) 71 Cal.2d 1119, 1139 [80 Cal.Rptr. 897, 459 P.2d 225], the California Supreme Court held that kidnap for robbery does not include robberies “in which the movements of the victim are merely incidental to the commission of the robbery and do not substantially increase the risk of harm over and above that necessarily present in the crime of robbery itself.” *People v. Martinez, supra*, 150 Cal.App.3d at pp. 591–594, applied the *Daniels* rationale to a kidnap for ransom case in which the defendants held two victims during a home invasion robbery. In order “to prevent the *Daniels* line of cases from being circumvented by charging what is essentially a multivictim robbery as a kidnapping for ransom,” *Martinez* held that “the movement *or restraint* of the purported kidnap victim . . . [must] substantially increase the risk of harm over and above that necessarily present in the crime of the robbery itself.” (*Id.* at p. 595.) After *Martinez*, the legislature amended Penal Code section 209 as it pertained to kidnapping for robbery and specified sex offenses and did not include the word “substantial” with respect to the increased risk. (*People v. Robertson* (2012) 208 Cal.App.4th 965, 979–982 [146 Cal.Rptr.3d 66].) If substantial evidence supports this theory, modify the instruction to include the additional element of legally sufficient movement."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

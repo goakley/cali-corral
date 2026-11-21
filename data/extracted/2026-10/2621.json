@@ -1,0 +1,95 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2621",
+  "title": "Influencing a Witness by Fraud (Pen. Code, § 137(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1874,
+      1875
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with using fraud to influence a person to (give false (testimony/[or] information)/[or] withhold true (testimony/[or] information)) [in violation of Penal Code section 137(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant used fraud against ______ <insert name/description of person defendant allegedly sought to influence>;",
+    "AND",
+    "<Alternative 2A—to give or withhold testimony>",
+    "[2. When the defendant used fraud, (he/she) intended to cause ______ <insert name/description of person defendant allegedly sought to influence> to (give false testimony/[or] withhold true testimony).]",
+    "<Alternative 2B—to give or withhold information>",
+    "[2. When the defendant used fraud, (he/she) intended to cause ______ <insert name/description of person defendant allegedly sought to influence> to (give false material information about a crime to/[or] withhold true material information about a crime from) a law enforcement official.]",
+    "A person *uses fraud* when he or she makes a false statement, misrepresents information, hides the truth, or otherwise does something with the intent to deceive.",
+    "[Information is *material* if it is significant or important.]",
+    "[(A/The) (district attorney[,]/[or] deputy district attorney[,]/[or] city attorney[,]/[or] deputy city attorney[,]/[or] Attorney General[,]/[or] deputy attorney general[,]/[or] ______ <insert title of peace officer included in Pen. Code, § 830 et seq.>) is a *law enforcement official*.]",
+    "[The People do not need to prove that ______ <insert name/description of person defendant allegedly sought to influence> actually (gave false (testimony/information)/[or] withheld true (testimony/information)).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The People do not need to prove that” if the evidence shows that the testimony or information of the alleged target was not affected."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 137(b)."
+      },
+      {
+        "text": "• Fraud Defined. *People v. Pugh* (2002) 104 Cal.App.4th 66, 72 [127 Cal.Rptr.2d 770]."
+      },
+      {
+        "text": "• Law Enforcement Official Defined. Pen. Code, § 137(e)."
+      },
+      {
+        "text": "• Specific Intent Required. *People v. Womack* (1995) 40 Cal.App.4th 926, 929–930 [47 Cal.Rptr.2d 76]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "The misdemeanor offense of knowingly inducing a false statement to a law enforcement official in violation of Penal Code section 137(c) is not a lesser included offense of section 137(b) because the latter offense lacks the element that the defendant must actually cause a false statement to be made. (*People v. Miles* (1996) 43 Cal.App.4th 575, 580 [51 Cal.Rptr.2d 52].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Deceiving a Witness"
+      },
+      {
+        "text": "Deceiving a witness is a separate crime under Penal Code section 133:"
+      },
+      {
+        "text": "Every person who practices any fraud or deceit, or knowingly makes or exhibits any false statement, representation, token, or writing, to any witness or person about to be called as a witness upon any trial, proceeding, inquiry, or investigation whatever, authorized by law, with intent to affect the testimony of such witness, is guilty of a misdemeanor."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

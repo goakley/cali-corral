@@ -1,0 +1,147 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1701",
+  "title": "Burglary: Degrees (Pen. Code, § 460)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1221,
+      1223
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "Burglary is divided into two degrees. If you conclude that the defendant committed a burglary, you must then decide the degree.",
+    "First degree burglary is the burglary of an inhabited (house [or a room within an inhabited house]/vessel/floating home/trailer coach/part of a building).",
+    "A (house/vessel/floating home/trailer coach/part of a building) is *inhabited* if someone uses it as a dwelling, whether or not someone is inside at the time of the alleged entry.",
+    "[A (house/vessel/floating home/trailer coach/part of a building) is *inhabited* if someone used it as a dwelling and left only because a natural or other disaster caused him or her to leave.]",
+    "[A (house/vessel/floating home/trailer coach/part of a building) is not *inhabited* if the former residents have moved out and do not intend to return, even if some personal property remains inside.]",
+    "[A *house* includes any (structure/garage/office/______) that is attached to the house and functionally connected with it.]",
+    "[A *vessel* includes ships of all kinds, steamboats, steamships, canal boats, barges, sailing vessels, and any structure intended to transport people or merchandise over water.]",
+    "[A *floating home* is a floating structure that:",
+    "(1) is intended to be used as a stationary waterborne residence;",
+    "(2) does not have its own mode of power;",
+    "(3) is dependent on a continuous utility link originating on shore;",
+    "AND",
+    "(4) has a permanent continuous hookup to a sewage system on shore.]",
+    "[A *trailer coach* is a vehicle without its own mode of power, designed to be pulled by a motor vehicle. It is made for human habitation or human occupancy and for carrying property.]",
+    "[A *trailer coach* is also a park trailer that is intended for human habitation for recreational or seasonal use only and:",
+    "(1) has a floor area of no more than 400 square feet;",
+    "(2) is not more than 14 feet wide;",
+    "(3) is built on a single chassis;",
+    "AND",
+    "(4) may only be transported on public highways with a permit.]",
+    "All other burglaries are second degree.",
+    "The People have the burden of proving beyond a reasonable doubt that the burglary was first degree burglary. If the People have not met this burden, you must find the defendant not guilty of first degree burglary."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    14.0,
+    14.0,
+    14.0,
+    16.0,
+    14.0,
+    0.0,
+    0.0,
+    14.0,
+    14.0,
+    14.0,
+    16.0,
+    14.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction if there is evidence supporting first degree burglary."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Determination of Degrees. Pen. Code, § 460."
+      },
+      {
+        "text": "• Floating Home Defined. Health & Saf. Code, § 18075.55(d)."
+      },
+      {
+        "text": "• Inhabitation Defined. Pen. Code, § 459."
+      },
+      {
+        "text": "• Definition of “Inhabited” Properly Excludes Word “Currently.” *People v. Meredith* (2009) 174 Cal.App.4th 1257, 1264–1265 [95 Cal.Rptr.3d 297]."
+      },
+      {
+        "text": "• Trailer Coach Defined. Veh. Code, § 635; Health & Saf. Code, § 18009.3."
+      },
+      {
+        "text": "• Vessel Defined. Harb. & Nav. Code, § 21."
+      },
+      {
+        "text": "• Room Within Inhabited House. *People v. Sparks* (2002) 28 Cal.4th 71, 86–87 [120 Cal.Rptr.2d 508, 47 P.3d 289]."
+      },
+      {
+        "text": "• House Not Inhabited if Former Residents Not Returning. *People v. Cardona* (1983) 142 Cal.App.3d 481, 483 [191 Cal.Rptr. 109]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Dwelling Houses for Purposes of First Degree Burglary"
+      },
+      {
+        "text": "A “house” has been broadly defined as “any structure which has walls on all sides and is covered by a roof.” (*People v. Wilson* (1992) 11 Cal.App.4th 1483, 1487–1489 [15 Cal.Rptr.2d 77], citing *People v. Buyle* (1937) 22 Cal.App.2d 143, 148 [70 P.2d 955].) In determining whether a structure is part of an inhabited dwelling, the essential inquiry is whether the structure is “functionally interconnected with and immediately contiguous to other portions of the house.” (*People v. Ingram* (1995) 40 Cal.App.4th 1397, 1404 [48 Cal.Rptr.2d 256], disapproved on another ground in *People v. Dotson* (1997) 16 Cal.4th 547, 559 [66 Cal.Rptr.2d 423, 941 P.2d 56]; *People v. Rodriguez* (2000) 77 Cal.App.4th 1101, 1107, 1113 [92 Cal.Rptr.2d 236].) The following structures have each been held to be a dwelling house or part of a dwelling house for purposes of first degree burglary:"
+      },
+      {
+        "text": "a. A hospital room to which a patient was assigned overnight. (*People v. Fond* (1999) 71 Cal.App.4th 127, 131–132 [83 Cal.Rptr.2d 660].)"
+      },
+      {
+        "text": "b. An occupied hotel room. (*People v. Fleetwood* (1985) 171 Cal.App.3d 982, 988 [217 Cal.Rptr. 612].)"
+      },
+      {
+        "text": "c. A tent. (*Wilson, supra,* 11 Cal.App.4th at pp. 1487–1489.)"
+      },
+      {
+        "text": "d. A common-area laundry room located under the same roof as and contiguous to occupied apartments. (*People v. Woods* (1998) 65 Cal.App.4th 345, 348–350 [75 Cal.Rptr.2d 917].)"
+      },
+      {
+        "text": "e. An attached garage. (*People v. Fox* (1997) 58 Cal.App.4th 1041, 1046–1047 [68 Cal.Rptr.2d 424]; *People v. Moreno* (1984) 158 Cal.App.3d 109, 112 [204 Cal.Rptr. 17].)"
+      },
+      {
+        "text": "f. A home office sharing a common wall and roof with the living quarters. (*People v. Rodriguez* (2000) 77 Cal.App.4th 1101, 1107–1112 [92 Cal.Rptr.2d 236].)"
+      },
+      {
+        "text": "g. A storeroom connected to a house by a breezeway. (*People v. Coutu* (1985) 171 Cal.App.3d 192, 193 [217 Cal.Rptr. 191].)"
+      },
+      {
+        "text": "h. An unoccupied but occasionally used guest house. (*People v. Hines* (1989) 210 Cal.App.3d 945, 949–951 [259 Cal.Rptr. 128], disapproved of on other grounds in *People v. Allen* (1999) 21 Cal.4th 846, 862–866 [89 Cal.Rptr.2d 279, 984 P.2d 486].)"
+      },
+      {
+        "heading": true,
+        "text": "Mistake Concerning Residential Nature of Building"
+      },
+      {
+        "text": "A reasonable but mistaken belief that a dwelling house is not inhabited is not a defense to first degree burglary. (*People v. Parker* (1985) 175 Cal.App.3d 818, 821–824 [223 Cal.Rptr. 284].) The Penal Code does not make knowledge that a “dwelling house” is “inhabited” an element of first degree burglary. (See Pen. Code, §§ 459, 460; *People v. Guthrie* (1983) 144 Cal.App.3d 832, 843–848 [193 Cal.Rptr. 54].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

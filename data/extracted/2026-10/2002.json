@@ -1,0 +1,94 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2002",
+  "title": "Insurance Fraud: Vehicle Accident (Pen. Code, § 550(a)(3))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1449,
+      1450
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with insurance fraud in connection with a vehicle accident [in violation of Penal Code section 550(a)(3)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant caused or participated in a vehicle accident;",
+    "2. The defendant knew that the purpose of the accident was to present a false or fraudulent insurance claim;",
+    "AND",
+    "3. When the defendant caused or participated in the accident, (he/she) intended to defraud.",
+    "Someone *intends to defraud* if he or she intends to deceive another person either to cause a loss of (money[,]/[or] goods[,]/[or] services[,]/[or] something [else] of value), or to cause damage to, a legal, financial, or property right.",
+    "[For the purpose of this instruction, a *person* includes (a governmental agency/a corporation/a business/an association/the body politic).]",
+    "[It is not necessary that anyone actually be defrauded or actually suffer a financial, legal, or property loss as a result of the defendant’s acts.]",
+    "A person *presents a claim* by demanding payment under a contract of insurance for (a/an) ((loss/[or] injury)/health-care benefit).",
+    "[A person *causes an accident* if the accident is the direct, natural, and probable consequence of the person’s action and the accident would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence.]",
+    "[There may be more than one cause of an accident. An act causes an accident only if it is a substantial factor in causing the accident. A *substantial factor* is more than a trivial or remote factor. However, it need not be the only factor that causes the accident.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. Use this instruction if a violation of Penal Code section 550(a)(3) is alleged. If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of the accident, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of the accident, the court should also give the “substantial factor” instruction in the second bracketed paragraph on causation. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “For the purpose of this instruction” if the evidence shows an intent to defraud an entity or association rather than a natural person. (Pen. Code, § 8.)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “It is not necessary” if the evidence shows that the defendant did not succeed in defrauding anyone."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 2000, *Insurance Fraud: Fraudulent Claims*."
+      },
+      {
+        "text": "CALCRIM No. 2001, Insurance *Fraud: Multiple Claims*."
+      },
+      {
+        "text": "CALCRIM No. 2003, *Insurance Fraud: Health-Care Claims—Total Value*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 550(a)(3)."
+      },
+      {
+        "text": "• Intent to Defraud Element of Offense. *People v. Scofield* (1971) 17 Cal.App.3d 1018, 1025–1026 [95 Cal.Rptr. 405]; *People v. Benson* (1962) 206 Cal.App.2d 519, 529 [23 Cal.Rptr. 908], overruled on other grounds in *People v. Perez* (1965) 62 Cal.2d 769, 776, fn. 2 [44 Cal.Rptr. 326, 401 P.2d 934]."
+      },
+      {
+        "text": "• Intent to Defraud—Defined. *People v. Pugh* (2002) 104 Cal.App.4th 66, 72 [127 Cal.Rptr.2d 770]; *People v. Gaul-Alexander* (1995) 32 Cal.App.4th 735, 745 [38 Cal.Rptr.2d 176]."
+      },
+      {
+        "text": "• Intent to Defraud Entity. Pen. Code, § 8."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

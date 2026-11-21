@@ -1,0 +1,144 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2131",
+  "title": "Refusal—Enhancement (Veh. Code, §§ 23577, 23612)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1522,
+      1526
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2009, March 2017, September 2022",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of (causing injury while driving under the influence/[or] [the lesser offense of] driving under the influence), you must then decide whether the People have proved the additional allegation that the defendant willfully refused to (submit to/[or] complete) a chemical test to determine ((his/her) blood alcohol content/[or] whether (he/she) had consumed a drug).",
+    "To prove this allegation, the People must prove that:",
+    "1. A peace officer asked the defendant to submit to a chemical test to determine ((his/her) blood alcohol content/[or] whether (he/she) had consumed a drug);",
+    "2. The peace officer fully advised the defendant of the requirement to submit to a test and the consequences of not submitting to a test;",
+    "3. The defendant willfully refused to (submit to a test/[or] to complete the test);",
+    "AND",
+    "4. The peace officer lawfully arrested the defendant and had reasonable cause to believe that defendant was driving a motor vehicle in violation of Vehicle Code section 23140, 23152, or 23153.",
+    "To have *fully advised the defendant*, the peace officer must have told (him/her) all of the following information:",
+    "1. (He/She) may choose a blood(,/or) breath[, or urine] test; [if (he/she) completes a breath test, (he/she) may also be required to submit to a blood [or urine] test to determine if (he/she) had consumed a drug;] [if only one test is available, (he/she) must complete the test available;] [if (he/she) is not able to complete the test chosen, (he/she) must submit to (the other/another) test;]",
+    "2. (He/She) does not have the right to have an attorney present before saying whether (he/she) will submit to a test, before deciding which test to take, or during administration of a test;",
+    "3. If (he/she) refuses to submit to a test, the refusal may be used against (him/her) in court;",
+    "4. Failure to submit to or complete a test will result in a fine and mandatory imprisonment if (he/she) is convicted of driving under the influence or with a blood alcohol level of 0.08 percent or more;",
+    "AND",
+    "5. Failure to submit to or complete a test will result in suspension of (his/her) driving privilege for one year or revocation of (his/her) driving privilege for two or three years.",
+    "5. <Short Alternative; see Bench Notes>",
+    "5. [(His/Her) driving privilege will be revoked for two or three years if (he/she) has previously been convicted of one or more specific offenses related to driving under the influence or if (his/her) driving privilege has previously been suspended or revoked.]",
+    "5. <Long Alternative; see Bench Notes>",
+    "[A. (His/Her) driving privilege will be revoked for two years if (he/she) has been convicted within the previous (seven/ten) years of a separate violation of Vehicle Code section 23140, 23152, 23153, or 23103 as specified in section 23103.5, or of Penal Code section 191.5 or 192(c)(3). (His/Her) driving privilege will also be revoked for two years if (his/her) driving privilege has been suspended or revoked under Vehicle Code section 13353, 13353.1, or 13353.2 for an offense that occurred on a separate occasion within the previous (seven/ten) years;",
+    "[A. AND",
+    "B. (His/Her) driving privilege will be revoked for three years if (he/she) has been convicted within the previous (seven/ten) years of two or more of the offenses just listed. (His/Her) driving privilege will also be revoked for three years if (his/her) driving privilege was previously suspended or revoked on two occasions, or if (he/she) has had any combination of two convictions, suspensions, or revocations, on separate occasions, within the previous (seven/ten) years.]",
+    "[Vehicle Code section 23140 prohibits a person under the age of 21 from driving with a blood alcohol content of 0.05 percent or more. Vehicle Code section 23152 prohibits driving under the influence of alcohol or drugs or driving with a blood alcohol level of 0.08 percent or more. Vehicle Code section 23153 prohibits causing injury while driving under the influence of alcohol or drugs or causing injury while driving with a blood alcohol level of 0.08 percent or more. Vehicle Code section 23103 as specified in section 23103.5 prohibits reckless driving involving alcohol. Penal Code section 191.5 prohibits gross vehicular manslaughter while intoxicated, and Penal Code section 192(c)(3) prohibits vehicular manslaughter while intoxicated.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[A person employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[A defendant’s silence in response to an officer’s request to (submit to a chemical test/[or] complete a chemical test) may be a refusal. If you conclude that the defendant was silent in response to an officer’s request to (submit to a chemical test/[or] complete a chemical test), you must decide whether that conduct was a refusal.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant willfully refused to (submit to/[or] complete) a chemical test to determine ((his/her) blood alcohol content/[or] whether (he/she) had consumed a drug). If the People have not met this burden, you must find this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    28.3,
+    28.3,
+    33.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the enhancement."
+      },
+      {
+        "text": "Do not give this instruction if the defendant is exempted from the implied consent law because the defendant has hemophilia or is taking anticoagulants. (See Veh. Code, § 23612(b), (c).)"
+      },
+      {
+        "text": "The implied consent statute states that “[t]he testing shall be incidental to a lawful arrest and administered at the direction of a peace officer having reasonable cause to believe the person was driving a motor vehicle in violation of Section 23140, 23152, or 23153.” (Veh. Code, § 23612(a)(1)(C).) For an instruction on lawful arrest and reasonable cause, see CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      },
+      {
+        "text": "No reported case has established the degree of detail with which the jury must be instructed regarding the refusal admonition mandated by statute. The committee has provided several different options. The first sentence of element 5 under the definition of “fully advised” must be given. The court then may add either the short alternative or the long alternative or neither. If there is no issue regarding the two-and three-year revocations in the case and both parties agree, the court may choose to use the short alternative or to give just the first sentence of element 5. The court may choose to use the long alternative if there is an objection to the short version or the court determines that the longer version is more appropriate. The court may also choose to give the bracketed paragraph defining the Vehicle and Penal Code sections discussed in the long alternative at its discretion."
+      },
+      {
+        "text": "When giving the long version, give the option of “ten years” for the time period in which the prior conviction may be used, unless the court determines that the law prior to January 1, 2005 is applicable. In such case, the court must select the “seven-year” time period."
+      },
+      {
+        "text": "The jury must determine whether the witness is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). (*Ibid.*) However, the court may not instruct the jury that the witness was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). (*Ibid.*) If the witness is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the witness is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancements. Veh. Code, §§ 23577 & 23612."
+      },
+      {
+        "text": "• Statute Constitutional. *Quintana v. Municipal Court* (1987) 192 Cal.App.3d 361, 366–369 [237 Cal.Rptr. 397]."
+      },
+      {
+        "text": "• Statutory Admonitions Not Inherently Confusing or Misleading. *Blitzstein v. Dept. of Motor Vehicles* (1988) 199 Cal.App.3d 138, 142 [244 Cal.Rptr. 624]."
+      },
+      {
+        "text": "• Silence in Response to Request May Constitute Refusal. *Garcia v. Department of Motor Vehicles* (2010) 185 Cal.App.4th 73, 82–84 [109 Cal.Rptr.3d 906]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Admonition Must Convey Strong Likelihood of Suspension"
+      },
+      {
+        "text": "It is insufficient for the officer to advise the defendant that his or her license “could” be suspended. (*Decker v. Dept. of Motor Vehicles* (1972) 6 Cal.3d 903, 905–906 [101 Cal.Rptr. 387, 495 P.2d 1307]; *Giomi v. Dept. of Motor Vehicles* (1971) 15 Cal.App.3d 905, 907 [93 Cal.Rptr. 613].) The officer must convey to the defendant that there is a strong likelihood that his or her license will be suspended. (*Decker, supra,* 6 Cal.3d at p. 906; *Giomi, supra,* 15 Cal.App.3d at p. 907.)"
+      },
+      {
+        "heading": true,
+        "text": "Admonition Must Be Clearly Conveyed"
+      },
+      {
+        "text": "“[T]he burden is properly placed on the officer to give the warning required by section 13353 in a manner comprehensible to the driver.” (*Thompson v. Dept. of Motor Vehicles* (1980) 107 Cal.App.3d 354, 363 [165 Cal.Rptr. 626].) Thus, in *Thompson, supra,* 107 Cal.App.3d at p. 363, the court set aside the defendant’s license suspension because radio traffic prevented the defendant from hearing the admonition. However, where the defendant’s own “obstreperous conduct . . . prevented the officer from completing the admonition,” or where the defendant’s own intoxication prevented him or her from understanding the admonition, the defendant may be held responsible for refusing to submit to a chemical test. (*Morphew v. Dept. of Motor Vehicles* (1982) 137 Cal.App.3d 738, 743–744 [188 Cal.Rptr. 126]; *Bush v. Bright* (1968) 264 Cal.App.2d 788, 792 [71 Cal.Rptr. 123].)"
+      },
+      {
+        "heading": true,
+        "text": "Defendant Incapable of Understanding Due to Injury or Illness"
+      },
+      {
+        "text": "When the defendant, through no fault of his or her own, is incapable of understanding the admonition or of submitting to the test, the defendant cannot be penalized for refusing. (*Hughey v. Dept. of Motor Vehicles* (1991) 235 Cal.App.3d 752, 760 [1 Cal.Rptr.2d 115].) Thus, in *Hughey, supra,* 235 Cal.App.3d at p. 760, the court held that the defendant was rendered incapable of refusing due to a head trauma. However, in *McDonnell v. Dept. of Motor Vehicles* (1975) 45 Cal.App.3d 653, 662 [119 Cal.Rptr. 804], the court upheld the license suspension when defendant’s use of alcohol triggered a hypoglycemic attack. The court held that because voluntary alcohol use aggravated the defendant’s illness, the defendant could be held responsible for his subsequent refusal, even if the illness prevented the defendant from understanding the admonition. *(Ibid.)*"
+      },
+      {
+        "text": "See the Related Issues section in CALCRIM No. 2130, *Refusal—Consciousness of Guilt*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

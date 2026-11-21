@@ -1,0 +1,146 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1191A",
+  "title": "Evidence of Uncharged Sex Offense",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1032,
+      1035
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, February 2013, February 2014, March 2017, September 2019, September 2024,* February 2026",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The People presented evidence that the defendant [may have] committed the crime[s] of <insert description of offense[s]> ______ that (was/were) not charged in this case. (This/These) crime[s] (is/are) defined for you in these instructions.",
+    "You may consider this evidence only if the People have proved by a preponderance of the evidence that the defendant in fact committed the uncharged offense[s]. Proof by a preponderance of the evidence is a different burden of proof from proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that it is more likely than not that the fact is true.",
+    "If the People have not met this burden of proof, you must disregard this evidence entirely.",
+    "If you decide that the defendant committed the uncharged offense[s], you may, but are not required to, conclude from that evidence that the defendant was disposed or inclined to commit sexual offenses, and based on that decision, also conclude that the defendant was likely to commit [and did commit] <insert charged sex offense[s]> ______, as charged here. If you conclude that the defendant committed the uncharged offense[s], that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of <insert charged sex offense[s]> ______. The People must still prove (the/each) ______ (charge/[and] allegation) beyond a reasonable doubt.",
+    "[Do not consider this evidence for any other purpose [except for the limited purpose of <insert other permitted purpose, e.g., determining the defendant’s credibility> ______].]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Although there is ordinarily no sua sponte duty (*People v. Cottone* (2013) 57 Cal.4th 269, 293, fn. 15 [159 Cal.Rptr.3d 385, 303 P.3d 1163]), the court must give this instruction on request when evidence of other sexual offenses has been introduced. (See *People v. Falsetta* (1999) 21 Cal.4th 903, 924 [89 Cal.Rptr.2d 847, 986 P.2d 182] [error to refuse limiting instruction on request]; *People v. Jennings* (2000) 81 Cal.App.4th 1301, 1317–1318 [97 Cal.Rptr.2d 727] [in context of prior acts of domestic violence].)"
+      },
+      {
+        "text": "Evidence Code section 1108(a) provides that “evidence of the defendant’s commission of another sexual offense or offenses is not made inadmissible by Section 1101.” Subdivision (d)(1) defines “sexual offense” as “a crime under the law of a state or of the United States that involved any of the following[,]” listing specific sections of the Penal Code as well as specified sexual conduct. In the first sentence, the court must insert the name of the offense or offenses allegedly shown by the evidence. The court must also instruct the jury on elements of the offense or offenses."
+      },
+      {
+        "text": "In the fourth paragraph, the committee has placed the phrase “and did commit” in brackets. One appellate court has criticized instructing the jury that it may draw an inference about disposition. (*People v. James* (2000) 81 Cal.App.4th 1343, 1357, fn. 8 [96 Cal.Rptr.2d 823].) The court should review the Commentary section below and give the bracketed phrase at its discretion."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “Do not consider” on request."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 375, *Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc.*"
+      },
+      {
+        "text": "CALCRIM No. 1191B, *Evidence of Charged Sex Offense*."
+      },
+      {
+        "text": "CALCRIM No. 852A, *Evidence of Uncharged Domestic Violence*."
+      },
+      {
+        "text": "CALCRIM No. 852B, *Evidence of Charged Domestic Violence.*"
+      },
+      {
+        "text": "CALCRIM No. 853A, *Evidence of Uncharged Abuse of Elder or Dependent Person*."
+      },
+      {
+        "text": "CALCRIM No. 853B, *Evidence of Charged Abuse of Elder or Dependent Person*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirement. Evid. Code, § 1108(a); see *People v. Reliford* (2003) 29 Cal.4th 1007, 1012–1016 [130 Cal.Rptr.2d 254, 62 P.3d 601]; *People v. Frazier* (2001) 89 Cal.App.4th 30, 37 [107 Cal.Rptr.2d 100]; *People v. Falsetta, supra*, 21 Cal.4th at pp. 923–924 [dictum]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Panighetti* (2023) 95 Cal.App.5th 978, 999–1000 [313 Cal.Rptr.3d 798]; *People v. Phea* (2018) 29 Cal.App.5th 583, 614 [240 Cal.Rptr.3d 526]."
+      },
+      {
+        "text": "• “Sexual Offense” Defined. Evid. Code, § 1108(d)(1)."
+      },
+      {
+        "text": "• Other Crimes Proved by Preponderance of Evidence. *People v. Carpenter* (1997) 15 Cal.4th 312, 382 [63 Cal.Rptr.2d 1, 935 P.2d 708]; *People v. James, supra*, 81 Cal.App.4th at p. 1359; *People v. Van Winkle* (1999) 75 Cal.App.4th 133, 146 [89 Cal.Rptr.2d 28]."
+      },
+      {
+        "text": "• Propensity Evidence Alone Is Not Sufficient to Support Conviction Beyond a Reasonable Doubt. *People v. Hill* (2001) 86 Cal.App.4th 273, 277–278 [103 Cal.Rptr.2d 127]; see *People v. Younger* (2000) 84 Cal.App.4th 1360, 1382 [101 Cal.Rptr.2d 624] [in context of prior acts of domestic violence]; *People v. James, supra*, 81 Cal.App.4th at pp. 1357–1358, fn. 8 [same]."
+      },
+      {
+        "text": "• Charged Offenses Proved Beyond a Reasonable Doubt May Be Evidence of Propensity. *People v. Cruz* (2016) 2 Cal.App.5th 1178, 1184–1186 [206 Cal.Rptr.3d 835]; *People v. Villatoro* (2012) 54 Cal.4th 1152, 1161 [144 Cal.Rptr.3d 401, 281 P.3d 390]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The fourth paragraph of this instruction tells the jury that they may draw an inference of disposition. (See *People v. Hill, supra*, 86 Cal.App.4th at pp. 275–279; *People v. Brown* (2000) 77 Cal.App.4th 1324, 1334–1335 [92 Cal.Rptr.2d 433] [in context of prior acts of domestic violence].) One appellate court, however, suggests using more general terms to instruct the jury how they may use evidence of other sexual offenses, “leaving particular inferences for the argument of counsel and the jury’s common sense.” (*People v. James, supra*, 81 Cal.App.4th at p. 1357, fn. 8 [includes suggested instruction].) If the trial court adopts this approach, the fourth paragraph may be replaced with the following:"
+      },
+      {
+        "text": "If you decide that the defendant committed the other sexual offense[s], you may consider that evidence and weigh it together with all the other evidence received during the trial to help you determine whether the defendant committed ______ <insert charged sex offense>. Remember, however, that evidence of another sexual offense is not sufficient alone to find the defendant guilty of ______ <insert charged sex offense>. The People must still prove (the/each) ______ (charge/[and] allegation) of ______ <insert charged sex offense> beyond a reasonable doubt."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Constitutional Challenges"
+      },
+      {
+        "text": "Evidence Code section 1108 does not violate a defendant’s rights to due process (*People v. Falsetta, supra*, 21 Cal.4th at pp. 915–922; *People v. Branch* (2001) 91 Cal.App.4th 274, 281 [109 Cal.Rptr.2d 870]; *People v. Fitch* (1997) 55 Cal.App.4th 172, 184 [63 Cal.Rptr.2d 753]) or equal protection (*People v. Jennings, supra*, 81 Cal.App.4th at pp. 1310–1313; *People v. Fitch, supra*, 55 Cal.App.4th at pp. 184–185)."
+      },
+      {
+        "heading": true,
+        "text": "Expert Testimony"
+      },
+      {
+        "text": "Evidence Code section 1108 does not authorize expert opinion evidence of sexual propensity during the prosecution’s case-in-chief. (*People v. McFarland* (2000) 78 Cal.App.4th 489, 495–496 [92 Cal.Rptr.2d 884] [expert testified on ultimate issue of abnormal sexual interest in child].)"
+      },
+      {
+        "heading": true,
+        "text": "Rebuttal Evidence"
+      },
+      {
+        "text": "When the prosecution has introduced evidence of other sexual offenses under Evidence Code section 1108(a), the defendant may introduce rebuttal character evidence in the form of opinion evidence, reputation evidence, and evidence of specific incidents of conduct under similar circumstances. (*People v. Callahan* (1999) 74 Cal.App.4th 356, 378–379 [87 Cal.Rptr.2d 838].)"
+      },
+      {
+        "heading": true,
+        "text": "Subsequent Offenses Admissible"
+      },
+      {
+        "text": "“[E]vidence of subsequently committed sexual offenses may be admitted pursuant to Evidence Code section 1108.” (*People v. Medina* (2003) 114 Cal.App.4th 897, 903 [8 Cal.Rptr.3d 158].)"
+      },
+      {
+        "heading": true,
+        "text": "Evidence of Acquittal"
+      },
+      {
+        "text": "If the court admits evidence that the defendant committed a sexual offense that the defendant was previously acquitted of, the court must also admit evidence of the acquittal. (*People v. Mullens* (2004) 119 Cal.App.4th 648, 663 [14 Cal.Rptr.3d 534].)"
+      },
+      {
+        "text": "See also the Related Issues section of CALCRIM No. 375, *Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

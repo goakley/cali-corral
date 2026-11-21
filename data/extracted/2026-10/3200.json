@@ -1,0 +1,89 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3200",
+  "title": "Controlled Substance: Quantity (Pen. Code, §§ 1203.07(a)(1), (2) & (4); Health & Saf. Code, §§ 11352.5, 11370.4)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2277,
+      2279
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the crime involved [more than] a specified amount [or more] of the controlled substance. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation, the People must prove that:",
+    "[1.] The defendant ______ <insert conduct alleged, e.g., sold or conspired to sell> [more than] ______ <insert quantity alleged> by (weight/volume) [or more] of a substance containing ______ <insert controlled substance>(./;)",
+    "<Give element 2 if enhancement alleged in conspiracy count.>",
+    "[AND",
+    "2. The defendant was substantially involved in the planning, direction, execution, or financing of the ______ <insert conduct alleged, e.g., sale> of the ______ <insert controlled substance>.]",
+    "[In deciding whether the required (weight/volume) has been proved, do not take into account plant or vegetable material.]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    11.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction when the defendant is charged with an enhancement or a probation ineligibility clause based on the quantity of the controlled substance. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Give the bracketed phrases “more than” if the defendant is charged with an enhancement under Health and Safety Code section 11370.4. Give the bracketed phrases “or more” if the defendant is charged under Health and Safety Code section 11352.5 or Penal Code section 1203.07."
+      },
+      {
+        "text": "Give bracketed element 2 if an enhancement under Health and Safety Code section 11370.4 is alleged in a count of conspiracy. (Health & Saf. Code, § 11370.4(a); *People v. Salcedo* (1994) 30 Cal.App.4th 209, 217 [35 Cal.Rptr.2d 539].) Do not give element 2 if the defendant is not charged with conspiracy but is being prosecuted for one or more substantive offenses on a theory of coconspirator liability. (*People v. Salcedo, supra,* 30 Cal.App.4th at p. 217.) If the defendant is charged with the enhancement on both conspiracy and substantive offenses, the court should give this instruction once for the conspiracy charge, with element 2, and once for all the substantive offenses, without element 2. If properly instructed, the jury need not make a special finding that the defendant was substantially involved. (*People v. Lobato* (2003) 109 Cal.App.4th 762, 766 [135 Cal.Rptr.2d 429].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancements and Sentencing Factors. Pen. Code, §§ 1203.07(a)(1), (2) & (4); Health & Saf. Code, §§ 11352.5, 11370.4."
+      },
+      {
+        "text": "• Substance Containing Controlled Substance—Need Not Be Pure. *People v. Pieters* (1991) 52 Cal.3d 894, 903 [276 Cal.Rptr. 918, 802 P.2d 420]."
+      },
+      {
+        "text": "• Knowledge of Quantity or Specific Intent Not Required. *People v. Meza* (1995) 38 Cal.App.4th 1741, 1748 [45 Cal.Rptr.2d 844]."
+      },
+      {
+        "text": "• Conspiracy Instruction. *People v. Duran* (2001) 94 Cal.App.4th 923, 941–942 [114 Cal.Rptr.2d 595]; *People v. Salcedo* (1994) 30 Cal.App.4th 209, 217 [35 Cal.Rptr.2d 539]; *People v. Lobato* (2003) 109 Cal.App.4th 762, 766 [135 Cal.Rptr.2d 429]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Must Controlled Substance Actually Exist?"
+      },
+      {
+        "text": "In *Valenzuela v. Superior Court* (1995) 33 Cal.App.4th 1445, 1447 [39 Cal.Rptr.2d 781], the court held that, where a defendant is charged with offering to sell, an enhancement under Health and Safety Code section 11370.4 “must be based on the weight of a substance in existence, not on an amount merely offered or negotiated.” Thus, the enhancement was not proper where the defendant negotiated to sell five kilograms of heroin but in fact only produced less than one kilogram, or where the defendant offered to sell four kilograms of cocaine but never possessed that substance. (*Valenzuela, supra,* 33 Cal.App.4th at p. 1455.) Similarly, *People v. Lopez* (1993) 20 Cal.App.4th 897, 902–903 [24 Cal.Rptr.2d 649], held that an enhancement under Health and Safety Code section 11379.8 was not proper where the defendant agreed to manufacture more than three pounds of methamphetamine but failed to produce any of the substance. On the other hand, in *People v. Howard* (1995) 33 Cal.App.4th 1407, 1414–1416 [39 Cal.Rptr.2d 766], the court upheld an enhancement where the defendants agreed to purchase seven kilograms of cocaine and had the required money on hand, but the officers conducting the undercover operation only provided one kilogram of the substance. The court distinguished prior holdings, finding that where a defendant is charged with conspiracy to purchase a controlled substance in an undercover operation, it is not necessary for the officers to produce all of the drugs promised. (*Id.* at p. 1416.)"
+      },
+      {
+        "heading": true,
+        "text": "Sentencing Entrapment or Manipulation"
+      },
+      {
+        "text": "Some jurisdictions have recognized a defense of “sentencing entrapment or manipulation,” where undercover law enforcement officers persuade a defendant to sell or produce a greater quantity of the controlled substance for the purpose of later obtaining a higher mandatory sentence. (See *People v. Smith* (2003) 31 Cal.4th 1207, 1212 [7 Cal.Rptr.3d 559, 80 P.3d 662].) The doctrine of “sentencing entrapment” does not apply in California. *(Ibid.)* In *Smith*, the Court did not decide whether the doctrine of “sentence manipulation” does apply. *(Ibid.)* The Court did find that if the doctrine of sentence manipulation applies in California, its application to a particular case would require “truly outrageous” conduct by law enforcement officers. *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

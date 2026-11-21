@@ -1,0 +1,97 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "225",
+  "title": "Circumstantial Evidence: Intent or Mental State",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      131,
+      133
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007, April 2011",
+  "revision_legend": null,
+  "body": [
+    "The People must prove not only that the defendant did the act[s] charged, but also that (he/she) acted with a particular (intent/[and/or] mental state). The instruction for (the/each) crime [and allegation] explains the (intent/[and/or] mental state) required.",
+    "A[n] (intent/[and/or] mental state) may be proved by circumstantial evidence.",
+    "Before you may rely on circumstantial evidence to conclude that a fact necessary to find the defendant guilty has been proved, you must be convinced that the People have proved each fact essential to that conclusion beyond a reasonable doubt.",
+    "Also, before you may rely on circumstantial evidence to conclude that the defendant had the required (intent/[and/or] mental state), you must be convinced that the only reasonable conclusion supported by the circumstantial evidence is that the defendant had the required (intent/[and/or] mental state). If you can draw two or more reasonable conclusions from the circumstantial evidence, and one of those reasonable conclusions supports a finding that the defendant did have the required (intent/[and/or] mental state) and another reasonable conclusion supports a finding that the defendant did not, you must conclude that the required (intent/[and/or] mental state) was not proved by the circumstantial evidence. However, when considering circumstantial evidence, you must accept only reasonable conclusions and reject any that are unreasonable."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on how to evaluate circumstantial evidence if the prosecution substantially relies on circumstantial evidence to establish the element of a specific intent or a mental state. (*People v. Yrigoyen* (1955) 45 Cal.2d 46, 49 [286 P.2d 1].)"
+      },
+      {
+        "text": "Give this instruction when the defendant’s intent or mental state is the only element of the offense that rests substantially or entirely on circumstantial evidence. If other elements of the offense also rest substantially or entirely on circumstantial evidence, do not give this instruction. Give CALCRIM No. 224, *Circumstantial Evidence: Sufficiency of Evidence*. (See *People v. Marshall* (1996) 13 Cal.4th 799, 849 [55 Cal.Rptr.2d 347, 919 P.2d 1280]; *People v. Hughes* (2002) 27 Cal.4th 287, 347 [116 Cal.Rptr.2d 401, 39 P.3d 432].)"
+      },
+      {
+        "text": "If the court is also instructing on a strict-liability offense, the court may wish to modify this instruction to clarify the charges to which it applies."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Lizarraga* (1990) 219 Cal.App.3d 476, 481–482 [268 Cal.Rptr. 262] [when both specific intent and mental state are elements]."
+      },
+      {
+        "text": "• Intent Manifested by Circumstances. Pen. Code, § 29.2(a)."
+      },
+      {
+        "text": "• Accept Reasonable Interpretation of Circumstantial Evidence That Points Against Specific Intent. *People v. Yokum* (1956) 145 Cal.App.2d 245, 253–254 [302 P.2d 406], disapproved on other grounds in *People v. Cook* (1983) 33 Cal.3d 400, 413 [189 Cal.Rptr. 159, 658 P.2d 86]."
+      },
+      {
+        "text": "• Circumstantial Evidence Must Be Entirely Consistent With Existence of Specific Intent. *People v. Yokum* (1956) 145 Cal.App.2d 245, 253–254 [302 P.2d 406], disapproved on other grounds in *People v. Cook* (1983) 33 Cal.3d 400, 413 [189 Cal.Rptr. 159, 658 P.2d 86]."
+      },
+      {
+        "text": "• Reject Unreasonable Interpretations. *People v. Hines* (1997) 15 Cal.4th 997, 1049–1050 [64 Cal.Rptr.2d 594, 938 P.2d 388]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Golde* (2008) 163 Cal.App.4th 101, 118 [77 Cal.Rptr.3d 120]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "General or Specific Intent Explained"
+      },
+      {
+        "text": "A crime is a general-intent offense when the statutory definition of the crime consists of only the description of a particular act, without reference to intent to do a further act or achieve a future consequence. A crime is a specific-intent offense when the statutory definition refers to the defendant’s intent to do some further act or achieve some additional consequence. (*People v. McDaniel* (1979) 24 Cal.3d 661, 669 [156 Cal.Rptr. 865, 597 P.2d 124]; *People v. Hood* (1969) 1 Cal.3d 444, 456–457 [82 Cal.Rptr. 618, 462 P.2d 370]; *People v. Swanson* (1983) 142 Cal.App.3d 104, 109 [190 Cal.Rptr. 768]; see, e.g., *People v. Whitfield* (1994) 7 Cal.4th 437, 449–450 [27 Cal.Rptr.2d 858, 868 P.2d 272] [second degree murder based on implied malice is a specific-intent crime].)"
+      },
+      {
+        "heading": true,
+        "text": "Only One Possible Inference"
+      },
+      {
+        "text": "The fact that elements of a charged offense include mental elements that must necessarily be proved by inferences drawn from circumstantial evidence does not alone require an instruction on the effect to be given to such evidence. (*People v. Heishman* (1988) 45 Cal.3d 147, 167 [246 Cal.Rptr. 673, 753 P.2d 629]; *People v. Wiley* (1976) 18 Cal.3d 162, 174–176 [133 Cal.Rptr. 135, 554 P.2d 881].) When the only inference to be drawn from circumstantial evidence points to the existence of a required specific intent or mental state, a circumstantial evidence instruction need not be given sua sponte, but should be given on request. (*People v. Gordon* (1982) 136 Cal.App.3d 519, 531 [186 Cal.Rptr. 373]; *People v. Morrisson* (1979) 92 Cal.App.3d 787, 793–794 [155 Cal.Rptr. 152].)"
+      },
+      {
+        "heading": true,
+        "text": "Direct Evidence, Extrajudicial Admission, or No Substantial Reliance"
+      },
+      {
+        "text": "This instruction should not be given if direct evidence of the mental elements exists (*People v. Wiley* (1976) 18 Cal.3d 162, 175 [133 Cal.Rptr. 135, 554 P.2d 881]), if the only circumstantial evidence is an extrajudicial admission (*People v. Gould* (1960) 54 Cal.2d 621, 629 [7 Cal.Rptr. 273, 354 P.2d 865], overruled on other grounds in *People v. Cuevas* (1995) 12 Cal.4th 252, 271–272 [48 Cal.Rptr.2d 135, 906 P.2d 1290]), or if the prosecution does not substantially rely on circumstantial evidence (*People v. DeLeon* (1982) 138 Cal.App.3d 602, 607–608 [188 Cal.Rptr. 63])."
+      },
+      {
+        "text": "See the Related Issues section of CALCRIM No. 224, *Circumstantial Evidence: Sufficiency of Evidence*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,75 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "760",
+  "title": "Death Penalty: Introduction to Penalty Phase",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      573,
+      574
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2014",
+  "revision_legend": null,
+  "body": [
+    "This [phase of the] trial is to determine (the/each) defendant’s penalty. The law provides for two possible penalties: death or life in prison without the possibility of parole. You must decide which penalty (the/each) defendant will receive.",
+    "[You must disregard all of the instructions I gave you earlier. I will give you a set of instructions that apply only to this phase of the trial. Some of these instructions will be the same or similar to instructions you have heard before. However, you must follow only this new set of instructions in this phase of the trial.]",
+    "[The first step in this process is the opening statements.",
+    "Next, the People will offer evidence. Evidence usually includes witness testimony and exhibits. After the People’s case, the defense (will/may) also present evidence.",
+    "After you have heard all the evidence and [before] the attorneys have given their final arguments, I will instruct you on the law that applies to the case.",
+    "After you have heard the arguments and instructions, you will go to the jury room to deliberate.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on general concepts of law. (*People v. Babbitt* (1988) 45 Cal.3d 660, 718 [248 Cal.Rptr. 69, 755 P.2d 253].) Because the introductory instructions for the guilt phase contain concepts that do not apply to the penalty phase, the court must clarify for the jury which instructions apply to the penalty phase. (*People v. Babbitt, supra,* 45 Cal.3d at p. 718, fn. 26; *People v. Weaver* (2001) 26 Cal.4th 876, 982 [111 Cal.Rptr.2d 2, 29 P.3d 103], cert. den. sub nom. *Weaver v. California* (2002) 535 U.S. 1058 [122 S.Ct. 1920, 152 L.Ed.2d 828].) The Supreme Court has stated that, in order to avoid confusion, the trial court should provide the jury with a completely new set of instructions for the penalty phase. (*People v. Weaver, supra,* 26 Cal.4th at p. 982.)"
+      },
+      {
+        "text": "The court has a sua sponte duty to give the bracketed paragraph instructing the jury to disregard all previous instructions unless the current jury did not hear the guilt phase of the case. (See *People v. Arias* (1996) 13 Cal.4th 92, 171 [51 Cal.Rptr.2d 770, 913 P.2d 980], cert. den. sub nom. *Arias v. California* (1997) 520 U.S. 1251 [117 S.Ct. 2408, 138 L.Ed.2d 175].)"
+      },
+      {
+        "text": "This instruction should be followed by any other introductory instructions the court deems appropriate prior to the presentation of penalty phase evidence. The committee recommends that the court give CALCRIM No. 101, *Cautionary Admonitions: Jury Conduct (Before or After Jury Is Selected)*. The court may also consider giving CALCRIM No. 102, *Note-Taking*; CALCRIM No. 104, *Evidence*; and CALCRIM No. 105, *Witnesses*."
+      },
+      {
+        "text": "When CALCRIM No. 101, *Cautionary Admonitions: Jury Conduct (Before or After Jury Is Selected)*, is given, the court has a sua sponte duty to delete the sentence which reads “Do not let bias, sympathy, prejudice, or public opinion influence your decision.” (*People v. Lanphear* (1984) 36 Cal.3d 163, 165 [203 Cal.Rptr. 122, 680 P.2d 1081]; *California v. Brown* (1987) 479 U.S. 538, 545 [107 S.Ct. 837, 93 L.Ed.2d 934].) The court should also delete the following sentence: “You must reach your verdict without any consideration of punishment.”"
+      },
+      {
+        "text": "If the current jury did not hear the previous phases of the case, the court should give the bracketed paragraphs that begin with “The first step in this process.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Death Penalty Statute. Pen. Code, § 190.3."
+      },
+      {
+        "text": "• Must Tell Jury Which Instructions Apply. *People v. Babbitt* (1988) 45 Cal.3d 660, 718, fn. 26 [248 Cal.Rptr. 69, 755 P.2d 253]."
+      },
+      {
+        "text": "• Should Give Jury New Set of Instructions. *People v. Weaver* (2001) 26 Cal.4th 876, 982 [111 Cal.Rptr.2d 2, 29 P.3d 103], cert. den. sub nom. *Weaver v. California* (2002) 535 U.S. 1058 [122 S.Ct. 1920, 152 L.Ed.2d 828]."
+      },
+      {
+        "text": "• Error to Instruct Not to Consider Sympathy. *People v. Easley* (1983) 34 Cal.3d 858, 876 [196 Cal.Rptr. 309, 671 P.2d 813]; *People v. Lanphear* (1984) 36 Cal.3d 163, 165 [203 Cal.Rptr. 122, 680 P.2d 1081]; *California v. Brown* (1987) 479 U.S. 538, 542 [107 S.Ct. 837, 93 L.Ed.2d 934]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

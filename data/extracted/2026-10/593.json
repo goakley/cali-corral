@@ -1,0 +1,123 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "593",
+  "title": "Misdemeanor Vehicular Manslaughter (Pen. Code, § 192(c)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      435,
+      438
+    ]
+  },
+  "revision_line": "New January 2006; Revised December 2008, October 2010, April 2011, October 2025*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "<If misdemeanor vehicular manslaughter—ordinary negligence is a charged offense, give alternative A; if this instruction is being given as a lesser included offense, give alternative B.>",
+    "<Introductory Sentence: Alternative A—Charged Offense>",
+    "[The defendant is charged [in Count ______] with vehicular manslaughter [in violation of Penal Code section 192(c)(2)].]",
+    "<Introductory Sentence: Alternative B—Lesser Included Offense>",
+    "[Vehicular manslaughter with ordinary negligence is a lesser crime than (gross vehicular manslaughter while intoxicated/[and] gross vehicular manslaughter/[and] vehicular manslaughter with ordinary negligence while intoxicated.)]",
+    "To prove that the defendant is guilty of vehicular manslaughter with ordinary negligence, the People must prove that:",
+    "1. While (driving a vehicle/operating a vessel), the defendant committed (a misdemeanor[,]/[or] an infraction/[or] a lawful act in an unlawful manner);",
+    "2. The (misdemeanor[,]/[or] infraction/[or] otherwise lawful act) was dangerous to human life under the circumstances of its commission;",
+    "3. The defendant committed the (misdemeanor[,]/[or] infraction/[or] otherwise lawful act) with ordinary negligence;",
+    "AND",
+    "4. The (misdemeanor[,]/[or] infraction/[or] otherwise lawful act) caused the death of another person.",
+    "[The People allege that the defendant committed the following (misdemeanor[s]/[and] infraction[s]): ______ <insert misdemeanor[s]/infraction[s]>.",
+    "Instruction[s] ______ tell[s] you what the People must prove in order to prove that the defendant committed ______ <insert misdemeanor[s]/infraction[s]>.]",
+    "[The People [also] allege that the defendant committed the following otherwise lawful act[s] with ordinary negligence: ______ <insert act[s] alleged>.]",
+    "[The difference between this offense and the charged offense of gross vehicular manslaughter is the degree of negligence required. I have already defined gross negligence for you.]",
+    "*Ordinary negligence*[, on the other hand,] is the failure to use reasonable care to prevent reasonably foreseeable harm to oneself or someone else. A person is negligent if he or she (does something that a reasonably careful person would not do in the same situation/[or] fails to do something that a reasonably careful person would do in the same situation).",
+    "[A person facing a sudden and unexpected emergency situation not caused by that person’s own negligence is required only to use the same care and judgment that an ordinarily careful person would use in the same situation, even if it appears later that a different course of action would have been safer.]",
+    "[An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.]",
+    "[There may be more than one cause of death. An act causes death only if it is a substantial factor in causing the death. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death.]",
+    "[The People allege that the defendant committed the following (misdemeanor[s][,]/[and] infraction[s][,]/[and] lawful act[s] that might cause death): ______ <insert alleged predicate acts when multiple acts alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant committed at least one of these alleged (misdemeanors[,]/[or] infractions[,]/[or] otherwise lawful acts that might cause death) and you all agree on which (misdemeanor[,]/[or] infraction[,]/[or] otherwise lawful act that might cause death) the defendant committed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to specify the predicate misdemeanor(s) or infraction(s) alleged and to instruct on the elements of the predicate offense(s). (*People v. Milham* (1984) 159 Cal.App.3d 487, 506 [205 Cal.Rptr. 688]; *People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409].) In element 2, instruct on either theory of vehicular manslaughter (misdemeanor/infraction or lawful act committed with negligence) as appropriate. The court must also give the appropriate instruction on the elements of the predicate misdemeanor or infraction."
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of death, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of death, the court should also give the “substantial factor” instruction in the second bracketed paragraph on causation. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to give a unanimity instruction when the prosecution presents evidence of multiple acts to prove a single count, if the prosecution has not elected the specific act relied upon to prove the charge and if the continuous course of conduct exception does not apply. (See *People v. Jennings* (2010) 50 Cal.4th 616, 679 [114 Cal.Rptr.3d 133, 237 P.3d 474].) See the Bench Notes to CALCRIM No. 3500, *Unanimity*, for an extensive discussion of the sua sponte duty to instruct on unanimity. A unanimity instruction is included in a bracketed paragraph for the court to use at its discretion. In the definition of ordinary negligence, the court should use the entire phrase “harm to oneself or someone else” if the facts of the case show a failure by the defendant to prevent harm to him- or herself rather than solely harm to another."
+      },
+      {
+        "text": "If there is sufficient evidence and the defendant requests it, the court should instruct on the imminent peril/sudden emergency doctrine. (*People v. Boulware* (1940) 41 Cal.App.2d 268, 269–270 [106 P.2d 436].) Give the bracketed sentence that begins with “A person facing a sudden and unexpected emergency.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Vehicular Manslaughter Without Gross Negligence. Pen. Code, § 192(c)(2)."
+      },
+      {
+        "text": "• Vehicular Manslaughter During Operation of a Vessel Without Gross Negligence. Pen. Code, § 192.5(b)."
+      },
+      {
+        "text": "• Unlawful Act Dangerous Under the Circumstances of Its Commission. *People v. Wells* (1996) 12 Cal.4th 979, 982 [50 Cal.Rptr.2d 699, 911 P.2d 1374]."
+      },
+      {
+        "text": "• Specifying Predicate Unlawful Act. *People v. Milham* (1984) 159 Cal.App.3d 487, 506 [205 Cal.Rptr. 688]."
+      },
+      {
+        "text": "• Elements of Predicate Unlawful Act. *People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409]."
+      },
+      {
+        "text": "• Ordinary Negligence. Pen. Code, § 7, subd. 2; Rest.2d Torts, § 282."
+      },
+      {
+        "text": "• Causation. *People v. Rodriguez* (1960) 186 Cal.App.2d 433, 440 [8 Cal.Rptr. 863]."
+      },
+      {
+        "text": "• Imminent Peril/Sudden Emergency Doctrine. *People v. Boulware* (1940) 41 Cal.App.2d 268, 269 [106 P.2d 436]."
+      },
+      {
+        "text": "• Criminal Negligence Requirement. *People v. Butler* (2010) 187 Cal.App.4th 998, 1014 [114 Cal.Rptr.3d 696]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 592, *Gross Vehicular Manslaughter*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

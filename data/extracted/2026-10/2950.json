@@ -1,0 +1,94 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2950",
+  "title": "Failing to Maintain Control of a Dangerous Animal (Pen. Code, § 399)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2105,
+      2106
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with causing (injury/death) by failing to maintain control of a dangerous animal [in violation of Penal Code section 399].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (owned/[or] had custody or control of) a dangerous animal;",
+    "2. The defendant knew that the animal was dangerous;",
+    "<Alternative 3A—allowed to run free>",
+    "[3. The defendant willfully allowed the animal to run free;]",
+    "<Alternative 3B—failed to use ordinary care>",
+    "[3. The defendant failed to use ordinary care in keeping the animal;]",
+    "[AND]",
+    "4. The animal (killed/caused serious bodily injury to) ______ <insert name of person allegedly attacked> while the defendant (allowed it to run free/failed to use ordinary care in keeping it)(;/.)",
+    "<Give element 5 unless alleged victim not capable of taking precautions; see Bench Notes.>",
+    "[AND",
+    "5. ______ <insert name of person allegedly attacked> took all the precautions that a reasonable person would have taken in the same situation.]",
+    "[If the People have proved that ______ <insert name of person allegedly attacked> was (under the age of five years/incapable of taking reasonable precautions because ______ <insert reason for incapacity>), then the People do not need to prove item 5 and you do not have to find that (he/she) took all the precautions that a reasonable person would have taken in the same situation.]",
+    "[Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.]",
+    "[Using *ordinary care* means using reasonable care to prevent reasonably foreseeable harm to someone else. A person fails to use ordinary care if he or she (does something that a reasonably careful person would not do in the same situation/[or] fails to do something that a reasonably careful person would do in the same situation).]",
+    "[A *serious bodily injury* means a serious impairment of physical condition. Such an injury may include[, but is not limited to]: (loss of consciousness/concussion/bone fracture/protracted loss or impairment of function of any bodily member or organ/a wound requiring extensive suturing/[and] serious disfigurement).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 3, give either alternative 3A or 3B as appropriate based on the facts of the case. When giving alternative 3A, also give the definition of “willfully.” When giving alternative 3B, also give the definition of “ordinary care.”"
+      },
+      {
+        "text": "The first bracketed paragraph is for use when the victim is by law incapable of being held to the ordinary standard of care under the law of negligence. (See *People v. Berry* (1992) 1 Cal.App.4th 778, 785–786 [2 Cal.Rptr.2d 416] [children under five are deemed incapable of negligent acts.]) If the parties agree that the alleged victim was under five years old or incapable of taking responsible precautions, the court may omit element 5 and not give the bracketed paragraph."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 399."
+      },
+      {
+        "text": "• Victim Incapable of Negligence Due to Lack of Capacity. *People v. Berry* (1992) 1 Cal.App.4th 778, 785–786 [2 Cal.Rptr.2d 416]."
+      },
+      {
+        "text": "• Definition of Dangerous Animal. *Sea Horse Ranch Inc. v. Superior Court* (1994) 24 Cal.App.4th 446, 460 [30 Cal.Rptr.2d 681]."
+      },
+      {
+        "text": "• Negligence—Ordinary Care. Pen. Code, § 7(2); Restatement Second of Torts, § 282."
+      },
+      {
+        "text": "• Serious Bodily Injury Defined. Pen. Code, § 243(f)(4); *People v. Taylor* (2004) 118 Cal.App.4th 11, 25, fn. 4 [12 Cal.Rptr.3d 693]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

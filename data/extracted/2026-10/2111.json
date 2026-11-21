@@ -1,0 +1,119 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2111",
+  "title": "Driving With 0.08 Percent Blood Alcohol (Veh. Code, § 23152(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1503,
+      1505
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007, April 2008, August 2015, March 2018, February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with driving with a blood alcohol level of 0.08 percent or more [in violation of Vehicle Code section 23152(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant drove a vehicle;",
+    "AND",
+    "2. When (he/she) drove, the defendant’s blood alcohol level was 0.08 percent or more by weight.",
+    "[If the People have proved beyond a reasonable doubt that a sample of the defendant’s (blood/breath) was taken within three hours of the defendant’s [alleged] driving and that a chemical analysis of the sample showed a blood alcohol level of 0.08 percent or more, you may, but are not required to, conclude that the defendant’s blood alcohol level was 0.08 percent or more at the time of the alleged offense.]",
+    "[In evaluating any test results in this case, you may consider whether or not the person administering the test or the agency maintaining the testing device followed the regulations of the California Department of Public Health.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. Give this instruction if the defendant is charged with a misdemeanor or a felony based on prior convictions."
+      },
+      {
+        "text": "If the defendant is charged with one or more prior convictions for driving under the influence, the defendant may stipulate to the convictions. (*People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170].) In addition, either the defendant or the prosecution may move for a bifurcated trial. (*People v. Calderon* (1994) 9 Cal.4th 69, 77–78 [36 Cal.Rptr.2d 333, 885 P.2d 83]; *People v. Cline* (1998) 60 Cal.App.4th 1327, 1334–1336 [71 Cal.Rptr.2d 41]; *People v. Weathington, supra,* 231 Cal.App.3d at p. 90.) If the defendant does not stipulate and the court does not grant a bifurcated trial, give CALCRIM No. 2125, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions*. If the court grants a bifurcated trial, give CALCRIM No. 2126, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions—Bifurcated Trial*. If the defendant stipulates to the truth of the convictions, the prior convictions should not be disclosed to the jury unless the court admits them as otherwise relevant. (See *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal. Rptr. 2d 690].)"
+      },
+      {
+        "text": "The bracketed paragraph that begins with “If the People have proved beyond a reasonable doubt that a sample of” explains a rebuttable presumption created by statute. (See Veh. Code, § 23152(b); Evid. Code, §§ 600–607.) The California Supreme Court has held that a jury instruction phrased as a rebuttable presumption in a criminal case creates an unconstitutional mandatory presumption. (*People v. Roder* (1983) 33 Cal.3d 491, 497–505 [189 Cal.Rptr. 501, 658 P.2d 1302].) In accordance with *Roder*, the instructions have been written as permissive inferences."
+      },
+      {
+        "text": "The court must not give the bracketed paragraph that begins with “If the People have proved beyond a reasonable doubt that a sample of” if there is no substantial evidence that the defendant’s blood alcohol level was at or above 0.08 percent at the time of the test."
+      },
+      {
+        "text": "If the evidence demonstrates that the person administering the test or agency maintaining the testing device failed to follow the title 17 regulations, give the bracketed sentence that begins with “In evaluating any test results in this case.” (*People v. Adams* (1976) 59 Cal.App.3d 559, 567 [131 Cal.Rptr. 190] [failure to follow regulations in administering breath test goes to weight, not admissibility, of the evidence]; *People v. Williams* (2002) 28 Cal.4th 408, 417 [121 Cal.Rptr.2d 854, 49 P.3d 203] [same]; *People v. Esayian* (2003) 112 Cal.App.4th 1031, 1039 [5 Cal.Rptr.3d 542] [results of blood test admissible even though phlebotomist who drew blood not authorized under title 17].)"
+      },
+      {
+        "text": "On request, give CALCRIM No. 2241, *Driver and Driving Defined*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 2110, *Driving Under the Influence*."
+      },
+      {
+        "text": "CALCRIM No. 2125, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions*."
+      },
+      {
+        "text": "CALCRIM No. 2126, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions—Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 23152(b); *Burg v. Municipal Court* (1983) 35 Cal.3d 257, 265–266 [198 Cal.Rptr. 145, 673 P.2d 732]."
+      },
+      {
+        "text": "• Partition Ratio. Veh. Code, § 23152(b); *People v. Bransford* (1994) 8 Cal.4th 885, 890 [35 Cal.Rptr.2d 613, 884 P.2d 70]."
+      },
+      {
+        "text": "• Presumptions. Veh. Code, §§ 23152(b), 23610; Evid. Code, § 607; *People v. Milham* (1984) 159 Cal.App.3d 487, 503–505 [205 Cal.Rptr. 688]."
+      },
+      {
+        "text": "• “Vehicle” Defined. Veh. Code, § 670."
+      },
+      {
+        "text": "• Driving. *Mercer v. Dept. of Motor Vehicles* (1991) 53 Cal.3d 753, 768 [280 Cal.Rptr. 745, 809 P.2d 404]."
+      },
+      {
+        "text": "• Statute Constitutional. *Burg v. Municipal Court, supra*, 35 Cal.3d at p. 273."
+      },
+      {
+        "text": "• Prior Convictions. *People v. Weathington, supra*, 231 Cal.App.3d at p. 90."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "If the defendant is charged with felony driving under the influence based on prior convictions, then the misdemeanor offense is a lesser included offense. The court must provide the jury with a verdict form on which the jury will indicate if the prior convictions have been proved. If the jury finds that the prior convictions have not been proved, then the offense should be set at a misdemeanor."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Partition Ratio"
+      },
+      {
+        "text": "In 1990, the Legislature amended Vehicle Code section 23152(b) to state that the “percent, by weight, of alcohol in a person’s blood is based upon grams of alcohol per 100 milliliters of blood or grams of alcohol per 210 liters of breath.” Following this amendment, the Supreme Court held that evidence of variability of breath-alcohol partition ratios was not relevant and properly excluded. (*People v. Bransford* (1994) 8 Cal.4th 885, 890–893 [35 Cal.Rptr.2d 613, 884 P.2d 70].)"
+      },
+      {
+        "text": "See the Related Issues section in CALCRIM No. 2110, *Driving Under the Influence*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

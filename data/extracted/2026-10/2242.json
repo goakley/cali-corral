@@ -1,0 +1,330 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2242",
+  "title": "Altering, Counterfeiting, Defacing, Destroying, Etc. Vehicle Identification Numbers (Veh. Code, § 10802)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1582,
+      1589
+    ]
+  },
+  "revision_line": "New February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (altering[,]/[or] counterfeiting[,]/[or] defacing[,]/[or] destroying[,]/[or] disguising[,]/[or] falsifying[,]/[or] forging[,]/[or] obliterating[,]/[or] removing) [a] vehicle identification number[s] [in violation of Vehicle Code section 10802].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant knowingly (altered[,]/[or] counterfeited[,]/[or] defaced[,]/[or] destroyed[,]/[or] disguised[,]/[or] falsified[,]/[or] forged[,]/[or] obliterated[,]/[or] removed) [a] vehicle identification number[s];",
+    "2. When the defendant did (that/those) act[s], (he/she) intended to (misrepresent the identity/[or] prevent the identification) of ([a] motor vehicle[s]/[or] [a] motor vehicle part[s]);",
+    "2. AND",
+    "3. The defendant did (that/those) act[s] for the purpose of (sale/[or] transfer/[or] import/[or] export) of the (motor vehicle[s]/[or] motor vehicle part[s]).",
+    "A *vehicle identification number* is the distinguishing number, letter, or mark used by the manufacturer or the Department of Motor Vehicles to uniquely identify a motor vehicle or a motor vehicle part for registration.",
+    "[For the purpose of (sale/[or] transfer) of the motor vehicle[s] or motor vehicle part[s], the defendant need not have intended to act as seller, buyer, transferor, or transferee.]",
+    "[The People allege that the defendant (altered[,]/[or] counterfeited[,]/[or] defaced[,]/[or] destroyed[,]/[or] disguised[,]/[or] falsified[,]/[or] forged[,]/[or] obliterated[,]/[or] removed) the vehicle identification number[s] on the following (motor vehicle[s]/[(and/or)] motor vehicle part[s]): ______ <insert description when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant (altered[,]/[or] counterfeited[,]/[or] defaced[,]/[or] destroyed[,]/[or] disguised[,]/[or] falsified[,]/[or] forged[,]/[or] obliterated[,]/[or] removed) at least one of these vehicle identification numbers and you all agree on which vehicle identification number[s] (he/she) (altered[,]/[or] counterfeited[,]/[or] defaced[,]/[or] destroyed[,]/[or] disguised[,]/[or] falsified[,]/[or] forged[,]/[or] obliterated[,]/[or] removed).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant altered the vehicle identification numbers of multiple motor vehicles or motor vehicle parts, the court has a sua sponte duty to instruct on unanimity. (See *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752].) Give the last bracketed paragraph, inserting the items alleged. (See also Bench Notes to CALCRIM No. 3500, *Unanimity*, discussing when instruction on unanimity is and is not required.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 10802."
+      },
+      {
+        "text": "• “Vehicle Identification Number” Defined. Veh. Code, § 671."
+      },
+      {
+        "text": "• Tampering of Vehicle Identification Number on Single Motor Vehicle or Motor Vehicle Part Violates Statute. *People v. Killian* (2024) 100 Cal.App.5th 191, 211 [319 Cal.Rptr.3d 13]."
+      },
+      {
+        "text": "• Purpose of Sale or Transfer. *People v. Killian, supra,* 100 Cal.App.5th at p. 214."
+      },
+      {
+        "text": "• No Aider and Abettor Liability for Conduct After Tampering Complete. *People v. Joiner* (2000) 84 Cal.App.4th 946, 952, 966–968 [101 Cal.Rptr.2d 270]."
+      },
+      {
+        "text": "• Unanimity Instruction if Multiple Items. *People v. Sutherland, supra,* 17 Cal.App.4th at p. 619, fn. 6."
+      },
+      {
+        "text": "2243–2299. Reserved for Future Use"
+      },
+      {
+        "text": "CONTROLLED SUBSTANCES"
+      },
+      {
+        "text": "A. CONTROLLED SUBSTANCES"
+      },
+      {
+        "text": "2300. Sale, Transportation for Sale, etc., of Controlled Substance (Health & Saf. Code, §§ 11352, 11379)"
+      },
+      {
+        "text": "2301. Offering to Sell, Transport for Sale, etc., a Controlled Substance (Health & Saf. Code, §§ 11352, 11379)"
+      },
+      {
+        "text": "2302. Possession for Sale of Controlled Substance (Health & Saf. Code, §§ 11351, 11351.5, 11378, 11378.5)"
+      },
+      {
+        "text": "2303. Possession of Controlled Substance While Armed With Firearm (Health & Saf. Code, § 11370.1)"
+      },
+      {
+        "text": "2304. Simple Possession of Controlled Substance (Health & Saf. Code, §§ 11350, 11377)"
+      },
+      {
+        "text": "2305. Defense: Momentary Possession of Controlled Substance"
+      },
+      {
+        "text": "2306. Possession of Controlled Substance with Intent to Commit Sexual Assault (Health & Saf. Code, §§ 11350.5, 11377.5)"
+      },
+      {
+        "text": "2307. Possession of Hard Drug With Prior Controlled Substance Convictions (Health & Saf. Code, § 11395)"
+      },
+      {
+        "text": "2308–2314. Reserved for Future Use"
+      },
+      {
+        "text": "B. SUBSTITUTE SUBSTANCE"
+      },
+      {
+        "text": "2315. Sale of Substitute Substance (Health & Saf. Code, §§ 11355, 11382)"
+      },
+      {
+        "text": "2316. Offer to Sell Substitute Substance (Health & Saf. Code, §§ 11355, 11382)"
+      },
+      {
+        "text": "2317–2319. Reserved for Future Use"
+      },
+      {
+        "text": "C. FORGED SUBSTANCE"
+      },
+      {
+        "text": "2320. Forged Prescription for Narcotic (Health & Saf. Code, § 11368)"
+      },
+      {
+        "text": "2321. Forged Prescription for Narcotic: With Possession of Drug (Health & Saf. Code, § 11368)"
+      },
+      {
+        "text": "2322–2329. Reserved for Future Use"
+      },
+      {
+        "text": "D. MANUFACTURING"
+      },
+      {
+        "text": "(i) Manufacturing and Offering"
+      },
+      {
+        "text": "2330. Manufacturing a Controlled Substance (Health & Saf. Code, §§ 11379.6(a), 11362.3)"
+      },
+      {
+        "text": "2331. Offering to Manufacture a Controlled Substance (Health & Saf. Code, §§ 11379.6(a) & (c))"
+      },
+      {
+        "text": "2332–2334. Reserved for Future Use"
+      },
+      {
+        "text": "(ii) Possession of Materials"
+      },
+      {
+        "text": "2335. Possession With Intent to Manufacture Methamphetamine or N-ethylamphetamine (Health & Saf. Code, § 11383.5(a))"
+      },
+      {
+        "text": "2336. Possession With Intent to Manufacture PCP (Health & Saf. Code, § 11383(a))"
+      },
+      {
+        "text": "2337. Possession With Intent to Manufacture Methamphetamine (Health & Saf. Code, § 11383.5(b)(1))"
+      },
+      {
+        "text": "2338. Possession of Isomers or Precursors With Intent to Manufacture Controlled Substance (Health & Saf. Code, § 11383.5(c)–(f))"
+      },
+      {
+        "text": "2339–2349. Reserved for Future Use"
+      },
+      {
+        "text": "E. CANNABIS"
+      },
+      {
+        "text": "(i) Sale, Offering to Sell, Possession for Sale"
+      },
+      {
+        "text": "2350. Sale, Furnishing, Administering or Importing of Cannabis (Health & Saf. Code, § 11360(a))"
+      },
+      {
+        "text": "2351. Offering to Sell, Furnish, etc., Cannabis (Health & Saf. Code, § 11360)"
+      },
+      {
+        "text": "2352. Possession for Sale of Cannabis (Health & Saf. Code, § 11359)"
+      },
+      {
+        "text": "2353–2360. Reserved for Future Use"
+      },
+      {
+        "text": "(ii) Transportation or Offering to Transport"
+      },
+      {
+        "text": "2361. Transporting for Sale or Giving Away Cannabis: More Than 28.5 Grams (Health & Saf. Code, § 11360(a))"
+      },
+      {
+        "text": "2362. Reserved for Future Use"
+      },
+      {
+        "text": "2363. Offering or Attempting to Transport for Sale or Offering to Give Away Cannabis: More Than 28.5 Grams (Health & Saf. Code, § 11360(a))"
+      },
+      {
+        "text": "2364. Felony Cannabis Penalty Allegations (Health & Saf. Code, § 11360(a)(3))"
+      },
+      {
+        "text": "2365–2369. Reserved for Future Use"
+      },
+      {
+        "text": "(iii) Planting"
+      },
+      {
+        "text": "2370. Planting, etc., Cannabis (Health & Saf. Code, §§ 11358(c)–(d))"
+      },
+      {
+        "text": "2371–2374. Reserved for Future Use"
+      },
+      {
+        "text": "(iv) Simple Possession"
+      },
+      {
+        "text": "2375. Simple Possession of Cannabis or Concentrated Cannabis: Misdemeanor (Health & Saf. Code, § 11357(b))"
+      },
+      {
+        "text": "2376. Simple Possession of Cannabis or Concentrated Cannabis on School Grounds: Misdemeanor (Health & Saf. Code, § 11357(c))"
+      },
+      {
+        "text": "2377–2379. Reserved for Future Use"
+      },
+      {
+        "text": "F. OFFENSES INVOLVING MINORS"
+      },
+      {
+        "text": "(i) Controlled Substances"
+      },
+      {
+        "text": "2380. Sale, Furnishing, etc., of Controlled Substance to Minor (Health & Saf. Code, §§ 11353, 11354, 11380(a))"
+      },
+      {
+        "text": "2381. Offering to Sell, Furnish, etc., Controlled Substance to Minor (Health & Saf. Code, §§ 11353, 11354, 11380(a))"
+      },
+      {
+        "text": "2382. Employment of Minor to Sell Controlled Substance (Health & Saf. Code, §§ 11353, 11354)"
+      },
+      {
+        "text": "2383. Use of Minor as Agent to Violate Controlled Substance Law (Health & Saf. Code, § 11380(a))"
+      },
+      {
+        "text": "2384. Inducing Minor to Violate Controlled Substance Laws (Health & Saf. Code, §§ 11353, 11354, 11380(a))"
+      },
+      {
+        "text": "2385–2389. Reserved for Future Use"
+      },
+      {
+        "text": "(ii) Marijuana"
+      },
+      {
+        "text": "2390. Sale, Furnishing, etc., of Cannabis to Minor (Health & Saf. Code, § 11361)"
+      },
+      {
+        "text": "2391. Offering to Sell, Furnish, etc., Cannabis to Minor (Health & Saf. Code, § 11361)"
+      },
+      {
+        "text": "2392. Employment of Minor to Sell, etc., Cannabis (Health & Saf. Code, § 11361(a))"
+      },
+      {
+        "text": "2393. Inducing Minor to Use Cannabis (Health & Saf. Code, § 11361(a))"
+      },
+      {
+        "text": "2394–2399. Reserved for Future Use"
+      },
+      {
+        "text": "G. USE AND POSSESSION OF PARAPHERNALIA"
+      },
+      {
+        "text": "(i) Use"
+      },
+      {
+        "text": "2400. Using or Being Under the Influence of Controlled Substance (Health & Saf. Code, § 11550)"
+      },
+      {
+        "text": "2401. Aiding and Abetting Unlawful Use of Controlled Substance (Health & Saf. Code, § 11365)"
+      },
+      {
+        "text": "2402–2409. Reserved for Future Use"
+      },
+      {
+        "text": "(ii) Possession of Paraphernalia"
+      },
+      {
+        "text": "2410. Possession of Controlled Substance Paraphernalia (Health & Saf. Code, § 11364)"
+      },
+      {
+        "text": "2411. Reserved for Future Use"
+      },
+      {
+        "text": "2412. Fraudulently Obtaining a Hypodermic Needle or Syringe (Bus. & Prof. Code, § 4326(a))"
+      },
+      {
+        "text": "2413. Using or Permitting Improper Use of a Hypodermic Needle or Syringe (Bus. & Prof. Code, § 4326(b))"
+      },
+      {
+        "text": "2414–2429. Reserved for Future Use"
+      },
+      {
+        "text": "H. MONEY FROM CONTROLLED SUBSTANCES"
+      },
+      {
+        "text": "2430. Possession of More Than $100,000 Related to Transaction Involving Controlled Substance: Proceeds (Health & Saf. Code, § 11370.6)"
+      },
+      {
+        "text": "2431. Possession of More Than $100,000 Related to Transaction Involving Controlled Substance: Money to Purchase (Health & Saf. Code, § 11370.6)"
+      },
+      {
+        "text": "2432. Attorney’s Possession of More Than $100,000 Related to Transaction Involving Controlled Substance (Health & Saf. Code, § 11370.6(b))"
+      },
+      {
+        "text": "2433–2439. Reserved for Future Use"
+      },
+      {
+        "text": "I. OTHER RELATED OFFENSES"
+      },
+      {
+        "text": "2440. Maintaining a Place for Controlled Substance Sale or Use (Health & Saf. Code, § 11366)"
+      },
+      {
+        "text": "2441. Use of False Compartment to Conceal Controlled Substance (Health & Saf. Code, § 11366.8)"
+      },
+      {
+        "text": "2442–2499. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

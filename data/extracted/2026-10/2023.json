@@ -1,0 +1,73 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2023",
+  "title": "False Financial Statement: Use of False Identifying Information (Pen. Code, § 532a(4))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1464,
+      1465
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of ((making/[or] causing to be made) a false written statement as charged in Count ______[,]/[or] obtaining a benefit using a false written statement as charged in Count ______[,]/[or] representing as true a false written statement as charged in Count ______), you must then decide whether the People have proved that the defendant used false identifying information.",
+    "<Alternative A—fictitious information>",
+    "[To prove this allegation, the People must prove that the defendant used a fictitious (name[,]/[or] social security number[,]/[or] business name[,]/[or] business address).]",
+    "<Alternative B—represented self as someone else>",
+    "[To prove this allegation, the People must prove that the defendant falsely (represented that (he/she) was someone else/[or] claimed that (he/she) represented a business when (he/she) did not).]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If the defendant is charged with a felony based on using false identifying information, the court has a sua sponte duty to instruct on this sentencing factor."
+      },
+      {
+        "text": "This instruction must be given with the appropriate instruction on the other elements of the offense, CALCRIM Nos. 2020 to 2022."
+      },
+      {
+        "text": "The court must provide the jury with a verdict form on which the jury will indicate if the prosecution has or has not been proved that the defendant used false identifying information."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 2020, *False Financial Statement: Making False Statement*."
+      },
+      {
+        "text": "CALCRIM No. 2021, *False Financial Statement: Obtaining Benefit*."
+      },
+      {
+        "text": "CALCRIM No. 2022, *False Financial Statement: Reaffirming Statement*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 532a(4)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

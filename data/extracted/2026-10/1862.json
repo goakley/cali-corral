@@ -1,0 +1,63 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1862",
+  "title": "Return of Property Not a Defense to Theft (Pen. Code, §§ 512, 513)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1307,
+      1308
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2010",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that the People have proved that the defendant committed ______ <insert charged theft crime>, the return or offer to return (some/all) of the property wrongfully obtained is not a defense to that charge."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "An instruction that restoration of wrongfully obtained property is no defense to a charge of theft may be given on request. (See *People v. Pond* (1955) 44 Cal.2d 665, 674–675 [284 P.2d 793]; see also *People v. Jenkins* (1994) 29 Cal.App.4th 287, 297 [34 Cal.Rptr.2d 483] [court need not instruct on its own motion on specific points developed at trial]; *People v. Hood* (1969) 1 Cal.3d 444, 449 [82 Cal.Rptr. 618, 462 P.2d 370].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, §§ 512, 513; see *People v. Pond* (1955) 44 Cal.2d 665, 674–675 [284 P.2d 793]."
+      },
+      {
+        "text": "• Intent to Return Embezzled Property At Time of Taking Not a Defense Under Pen. Code, § 512 Unless the Property was Returned Before the Person was Charged. *People v. Sisuphan* (2010) 181 Cal.App.4th 800, 812 [104 Cal.Rptr.3d 654]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Exception to Show Evidence of Intent"
+      },
+      {
+        "text": "This instruction relates to wrongfully obtained property. However, a defendant may present evidence that he or she restored or improved property to show that his or her intent at the time of the taking was not larcenous. But there must be a relevant and probative link in the defendant’s subsequent actions from which an original, innocent intent might be inferred. (*People v. Edwards* (1992) 8 Cal.App.4th 1092, 1100–1101 [10 Cal.Rptr.2d 821].)"
+      },
+      {
+        "heading": true,
+        "text": "Embezzlement of Public Funds"
+      },
+      {
+        "text": "In a case of alleged embezzlement of public funds, it is error to instruct that restoration may be used to mitigate punishment. (*People v. Smith* (1929) 206 Cal. 235, 237 [273 P. 789]; *People v. Marquis* (1957) 153 Cal.App.2d 553, 558–559 [315 P.2d 57]; see Pen. Code, § 1203(e)(7) [probation prohibited for embezzlement of public funds].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,208 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "334",
+  "title": "Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      175,
+      180
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2010, April 2011, February 2016, March 2019, April 2020, September 2023",
+  "revision_legend": null,
+  "body": [
+    "Before you may consider the (statement/[or] testimony) of ______ <insert name[s] of witness[es]> as evidence against (the defendant/______ <insert names of defendants> ) [regarding the crime[s] of ______ <insert name[s] of crime[s] if corroboration only required for some crime[s]>], you must decide whether ______ <insert name[s] of witness[es>) (was/were) [an] accomplice[s] [to (that/those) crime[s]]. A person is an *accomplice* if he or she is subject to prosecution for the identical crime charged against the defendant. Someone is subject to prosecution if:",
+    "1. He or she personally committed the crime;",
+    "OR",
+    "2. He or she knew of the criminal purpose of the person who committed the crime;",
+    "AND",
+    "3. He or she intended to, and did in fact, (aid, facilitate, promote, encourage, or instigate the commission of the crime[;]/[or] participate in a criminal conspiracy to commit the crime).",
+    "[The burden is on the defendant to prove that it is more likely than not that ______ <insert name[s] of witness[es]> (was/were) [an] accomplice[s].]",
+    "[An accomplice does not need to be present when the crime is committed. On the other hand, a person is not an accomplice just because he or she is present at the scene of a crime, even if he or she knows that a crime will be committed or is being committed and does nothing to stop it.]",
+    "[A person who lacks criminal intent but who pretends to join in a crime only to detect or prosecute those who commit that crime is not an accomplice.]",
+    "[A person may be an accomplice even if he or she is not actually prosecuted for the crime.]",
+    "[You may not conclude that a child under 14 years old was an accomplice unless you also decide that when the child acted, (he/she) understood:",
+    "1. The nature and effect of the criminal conduct;",
+    "2. That the conduct was wrongful and forbidden;",
+    "AND",
+    "3. That (he/she) could be punished for participating in the conduct.]",
+    "If you decide that a (declarant/[or] witness) was not an accomplice, then supporting evidence is not required and you should evaluate his or her (statement/[or] testimony) as you would that of any other witness.",
+    "If you decide that a (declarant/[or] witness) was an accomplice, then you may not convict the defendant of ______ <insert charged crime[s]> based on his or her (statement/[or] testimony) alone. You may use (a statement/[or] testimony) of an accomplice that tends to incriminate the defendant to convict the defendant only if:",
+    "1. The accomplice’s (statement/[or] testimony) is supported by other evidence that you believe;",
+    "2. That supporting evidence is independent of the accomplice’s (statement/[or] testimony);",
+    "AND",
+    "3. That supporting evidence tends to connect the defendant to the commission of the crime[s].",
+    "Supporting evidence, however, may be slight. It does not need to be enough, by itself, to prove that the defendant is guilty of the charged crime[s], and it does not need to support every fact (mentioned by the accomplice in the statement/[or] about which the accomplice testified). On the other hand, it is not enough if the supporting evidence merely shows that a crime was committed or the circumstances of its commission. The supporting evidence must tend to connect the defendant to the commission of the crime.",
+    "[The evidence needed to support the (statement/[or] testimony) of one accomplice cannot be provided by the (statement/[or] testimony) of another accomplice.]",
+    "Any (statement/[or] testimony) of an accomplice that tends to incriminate the defendant should be viewed with caution. You may not, however, arbitrarily disregard it. You should give that (statement/[or] testimony) the weight you think it deserves after examining it with care and caution and in the light of all the other evidence."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is a sua sponte duty to instruct on the principles governing the law of accomplices, including the need for corroboration, if the evidence at trial suggests that a witness could be an accomplice. (*People v. Tobias* (2001) 25 Cal.4th 327, 331 [106 Cal.Rptr.2d 80, 21 P.3d 758]; *People v. Guiuan* (1998) 18 Cal.4th 558, 569 [76 Cal.Rptr.2d 239, 957 P.2d 928].)"
+      },
+      {
+        "text": "“Whether a person is an accomplice is a question of fact for the jury unless the facts and the inferences to be drawn therefrom are undisputed.” (*People v. Coffman and Marlow* (2004) 34 Cal.4th 1, 104 [17 Cal.Rptr.3d 710, 96 P.3d 30].) When the court concludes that the witness is an accomplice as a matter of law or the parties agree about the witness’s status as an accomplice, do not give this instruction. Give CALCRIM No. 335, *Accomplice Testimony: No Dispute Whether Witness Is Accomplice*."
+      },
+      {
+        "text": "If a codefendant’s testimony tends to incriminate another defendant, the court must give an appropriate instruction on accomplice testimony. (*People v. Avila* (2006) 38 Cal.4th 491, 562 [43 Cal.Rptr.3d 1, 133 P.3d 1076]; *citing People v. Box* (2000) 23 Cal.4th 1153, 1209 [99 Cal.Rptr.2d 69, 5 P.3d 130]; *People v. Alvarez* (1996) 14 Cal.4th 155, 218 [58 Cal.Rptr.2d 385, 926 P.2d 365].) The court must also instruct on accomplice testimony when two codefendants testify against each other and blame each other for the crime. (*Id.* at 218–219)."
+      },
+      {
+        "text": "When the witness is a codefendant whose testimony includes incriminating statements, the court should not instruct that the witness is an accomplice as a matter of law. (*People v. Hill* (1967) 66 Cal.2d 536, 555 [58 Cal.Rptr. 340, 426 P.2d 908].) Instead, the court should give this instruction, informing the jury that it must decide whether the testifying codefendant is an accomplice. In addition, the court should instruct that when the jury considers this testimony as it relates to the testifying codefendant’s defense, the jury should evaluate the testimony using the general rules of credibility, but if the jury considers testimony as incriminating evidence against the non-testifying codefendant, the testimony must be corroborated and should be viewed with caution. (See *People v. Coffman and Marlow, supra,* 34 Cal.4th at p. 105.)"
+      },
+      {
+        "text": "Do not give this instruction if accomplice testimony is solely exculpatory or neutral. (*People v. Smith* (2017) 12 Cal.App.5th 766, 778–780 [218 Cal.Rptr.3d 892] [telling jurors that corroboration is required to support neutral or exonerating accomplice testimony was prejudicial error].)"
+      },
+      {
+        "text": "If the court concludes that the corroboration requirement applies to an out-of-court statement, use the word “statement” throughout the instruction. (See discussion in Related Issues section below.)"
+      },
+      {
+        "text": "In a multiple codefendant case, if the corroboration requirement does not apply to all defendants, insert the names of the defendants for whom corroboration is required where indicated in the first sentence."
+      },
+      {
+        "text": "If the witness was an accomplice to only one or some of the crimes he or she testified about, the corroboration requirement only applies to those crimes and not to other crimes he or she may have testified about. (*People v. Wynkoop* (1958) 165 Cal.App.2d 540, 546 [331 P.2d 1040].) In such cases, the court may insert the specific crime or crimes requiring corroboration in the first sentence."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “A person who lacks criminal intent” when the evidence suggests that the witness did not share the defendant’s specific criminal intent, e.g., witness was an undercover police officer or an unwitting assistant."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “You may not conclude that a child under 14 years old” on request if the defendant claims that a child witness’s testimony must be corroborated because the child acted as an accomplice. (Pen. Code, § 26; *People v. Williams* (1936) 12 Cal.App.2d 207, 209 [55 P.2d 223].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The burden is on the defendant” unless acting with an accomplice is an element of the charged crime. (*People v. Martinez* (2019) 34 Cal.App.5th 721, 723 [246 Cal.Rptr.3d 442].) *Martinez* only involved charges where acting as an accomplice was an element."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1111; *People v. Guiuan, supra,* 18 Cal.4th at p. 569."
+      },
+      {
+        "text": "• Accomplice May Not Provide Sole Basis for Admission of Other Evidence. *People v. Bowley* (1963) 59 Cal.2d 855, 863 [31 Cal.Rptr. 471, 382 P.2d 591]."
+      },
+      {
+        "text": "• Consideration of Incriminating Testimony. *People v. Guiuan, supra,* 18 Cal.4th at p. 569."
+      },
+      {
+        "text": "• Defendant’s Burden of Proof. *People v. Belton* (1979) 23 Cal.3d 516, 523 [153 Cal.Rptr. 195, 591 P.2d 485]."
+      },
+      {
+        "text": "• Defense Admissions May Provide Necessary Corroboration. *People v. Williams* (1997) 16 Cal.4th 635, 680 [66 Cal.Rptr.2d 573, 941 P.2d 752]."
+      },
+      {
+        "text": "• Accomplice Includes Co-perpetrator. *People v. Felton* (2004) 122 Cal.App.4th 260, 268 [18 Cal.Rptr.3d 626]."
+      },
+      {
+        "text": "• Definition of Accomplice as Aider and Abettor. *People v. Stankewitz* (1990) 51 Cal.3d 72, 90–91 [270 Cal.Rptr. 817, 793 P.2d 23]."
+      },
+      {
+        "text": "• Extent of Corroboration Required. *People v. Szeto* (1981) 29 Cal.3d 20, 27 [171 Cal.Rptr. 652, 623 P.2d 213]."
+      },
+      {
+        "text": "• One Accomplice May Not Corroborate Another. *People v. Montgomery* (1941) 47 Cal.App.2d 1, 15 [117 P.2d 437], disapproved on other grounds in *Murgia v. Municipal Court* (1975) 15 Cal.3d 286, 301, fn. 11 [124 Cal.Rptr. 204, 540 P.2d 44] and *People v. Dillon* (1983) 34 Cal.3d 441, 454, fn. 2 [194 Cal.Rptr. 390, 668 P.2d 697]."
+      },
+      {
+        "text": "• Presence or Knowledge Insufficient. *People v. Boyd* (1990) 222 Cal.App.3d 541, 557, fn. 14 [271 Cal.Rptr. 738]; *In re Michael T.* (1978) 84 Cal.App.3d 907, 911 [149 Cal.Rptr. 87]."
+      },
+      {
+        "text": "• Testimony of Feigned Accomplice Need Not Be Corroborated. *People v. Salazar* (1962) 201 Cal.App.2d 284, 287 [20 Cal.Rptr. 25]; but see *People v. Brocklehurst* (1971) 14 Cal.App.3d 473, 476 [92 Cal.Rptr. 340]; *People v. Bohmer* (1975) 46 Cal.App.3d 185, 191–193 [120 Cal.Rptr. 136]."
+      },
+      {
+        "text": "• Uncorroborated Accomplice Testimony May Establish Corpus Delicti. *People v. Williams* (1988) 45 Cal.3d 1268, 1317 [248 Cal.Rtpr. 834, 756 P.2d 221]."
+      },
+      {
+        "text": "• Witness an Accomplice as a Matter of Law. *People v. Williams, supra,* 16 Cal.4th at p. 679."
+      },
+      {
+        "text": "• In-Custody Informant Testimony and Accomplice Testimony May Corroborate Each Other. *People v. Huggins* (2015) 235 Cal.App.4th 715, 719–720 [185 Cal.Rptr.3d 672]."
+      },
+      {
+        "text": "• No Corroboration Requirement for Exculpatory Accomplice Testimony. *People v. Smith, supra,* 12 Cal.App.5th at pp. 778–780."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Thomas* (2023) 14 Cal.5th 327, 391–392 [304 Cal.Rptr.3d 1, 523 P.3d 323]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Out-of-Court Statements"
+      },
+      {
+        "text": "The out-of-court statement of a witness *may* constitute “testimony” within the meaning of Penal Code section 1111, and may require corroboration. (*People v. Williams, supra,* 16 Cal.4th at p. 245; *People v. Belton, supra,* 23 Cal.3d at p. 526.) The Supreme Court has quoted with approval the following summary of the corroboration requirement for out-of-court statements:"
+      },
+      {
+        "text": "‘[T]estimony’ within the meaning of . . . section 1111 includes . . . all out-of-court statements of accomplices and coconspirators used as substantive evidence of guilt which are made under suspect circumstances. The most obvious suspect circumstances occur when the accomplice has been arrested or is questioned by the police. [Citation.] On the other hand, when the out-of-court statements are not given under suspect circumstances, those statements do not qualify as ‘testimony’ and hence need not be corroborated under . . . section 1111."
+      },
+      {
+        "text": "(*People v. Williams, supra*, 16 Cal.4th at p. 245 [quoting *People v. Jeffery* (1995) 37 Cal.App.4th 209, 218 [43 Cal.Rptr.2d 526] [quotation marks, citations, and italics removed]; see also *People v. Sully* (1991) 53 Cal.3d 1195, 1230 [283 Cal.Rptr. 144, 812 P.2d 163] [out-of-court statement admitted as excited utterance did not require corroboration].) The court must determine whether the out-of-court statement requires corroboration and, accordingly, whether this instruction is appropriate. The court should also determine whether the statement is testimonial, as defined in *Crawford v. Washington* (2004) 541 U.S. 36 [124 S.Ct. 1354, 158 L.Ed.2d 177], and whether the *Crawford* holding effects the corroboration requirement of Penal Code section 1111."
+      },
+      {
+        "heading": true,
+        "text": "Incest With a Minor"
+      },
+      {
+        "text": "Accomplice instructions are not appropriate in a trial for incest with a minor. A minor is a victim, not an accomplice, to incest. (*People v. Tobias, supra,* 25 Cal.4th at p. 334; see CALCRIM No. 1180, *Incest*.)"
+      },
+      {
+        "heading": true,
+        "text": "Liable to Prosecution When Crime Committed"
+      },
+      {
+        "text": "The test for determining if a witness is an accomplice is not whether that person is subject to trial when he or she testifies, but whether he or she was liable to prosecution for the same offense at the time the acts were committed. (*People v. Gordon* (1973) 10 Cal.3d 460, 469 [110 Cal.Rptr. 906, 516 P.2d 298].) However, the fact that a witness was charged for the same crime and then granted immunity does not necessarily establish that he or she is an accomplice. (*People v. Stankewitz, supra,* 51 Cal.3d at p. 90.)"
+      },
+      {
+        "heading": true,
+        "text": "Threats and Fear of Bodily Harm"
+      },
+      {
+        "text": "A person who is induced by threats and fear of bodily harm to participate in a crime, other than murder, is not an accomplice. (*People v. Brown* (1970) 6 Cal.App.3d 619, 624 [86 Cal.Rptr. 149]; *People v. Perez* (1973) 9 Cal.3d 651, 659–660 [108 Cal.Rptr. 474, 510 P.2d 1026].)"
+      },
+      {
+        "heading": true,
+        "text": "Defense Witness"
+      },
+      {
+        "text": "“[A]lthough an accomplice witness instruction must be properly formulated . . . , there is no error in giving such an instruction when the accomplice’s testimony favors the defendant.” (*United States v. Tirouda* (9th Cir. 2005) 394 F.3d 683, 688.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

@@ -1,0 +1,67 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1192",
+  "title": "Expert Testimony on Adult Sexual Assault Victims",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      64,
+      65
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2020, September 2022, October 2026",
+  "revision_legend": null,
+  "body": [
+    "You have heard testimony from ______ <insert name of expert> offered for the purposes of explaining the range of behaviors of adult sexual assault victims, possible misconceptions about those behaviors, and that those behaviors are not necessarily inconsistent with having been sexually assaulted. You may consider this testimony only for those purposes. ______’s <insert name of expert> testimony about the behaviors of adult sexual assault victims is not evidence that the defendant committed any of the crimes charged against (him/her) [or any conduct or crime[s] with which (he/she) was not charged]."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Several courts of review have concluded there is no sua sponte duty to give a similar limiting instruction (see CALCRIM No. 1193, *Expert Testimony on Child Sexual Abuse Victims*) when an expert testifies on child sexual abuse accommodation syndrome. (*People v. Mateo* (2016) 243 Cal.App.4th 1063, 1073–1074 [197 Cal.Rptr.3d 248]; *People v. Sanchez* (1989) 208 Cal.App.3d 721, 736 [256 Cal.Rptr. 446] and *People v. Stark* (1989) 213 Cal.App.3d 107, 116 [261 Cal.Rptr. 479] [instruction required only on request].) See also *People v. Humphrey* (1996) 13 Cal.4th 1073, 1088, fn. 5, 1090–1091, 1100 [56 Cal.Rptr.2d 142, 921 P.2d 1], which concludes that a limiting instruction on battered woman syndrome is required only on request. But see *People v. Housley* (1992) 6 Cal.App.4th 947, 958–959 [8 Cal.Rtpr.2d 431], which did find a sua sponte duty to give CALCRIM No. 1193."
+      },
+      {
+        "text": "In *People v. Brown* (2004) 33 Cal.4th 892, 906–908 [16 Cal.Rptr.3d 447, 94 P.3d 574], the Supreme Court held that testimony from an expert in battered women’s syndrome could be admitted under Evidence Code section 801 even though there was no evidence of prior incidents of violence between the defendant and the alleged victim. The court held that the expert could testify generally about the “cycle of violence” and the frequency of recantation by victims of domestic abuse without testifying specifically about “battered women’s syndrome.” (*Ibid.*) It is unclear if the court is required to give a cautionary admonition sua sponte when such evidence is admitted."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If this instruction is given, also give CALCRIM No. 303, *Limited Purpose Evidence in General*, and CALCRIM No. 332, *Expert Witness Testimony*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Rebut Inference That Victim’s Conduct Inconsistent With Claim of Rape. *People v. Bledsoe* (1984) 36 Cal.3d 236, 247–248 [203 Cal.Rptr. 450, 681 P.2d 291]."
+      },
+      {
+        "text": "• Syndrome Evidence Not Admissible to Prove Rape Occurred. *People v. Bledsoe, supra,* 36 Cal.3d at p. 251."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "It is unnecessary and potentially misleading to instruct that the expert testimony assumes that a rape has in fact occurred. (See *People v. Gilbert* (1992) 5 Cal.App.4th 1372, 1387 [7 Cal.Rptr.2d 660] [in context of child molestation].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised April 2020, September 2022"
+  },
+  "supplement_status": "revised"
+}

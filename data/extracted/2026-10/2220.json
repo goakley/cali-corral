@@ -1,0 +1,116 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2220",
+  "title": "Driving With Suspended or Revoked Driving Privilege (Veh. Code, §§ 13106, 14601, 14601.1, 14601.2, 14601.5)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1571,
+      1573
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with driving while (his/her) driving privilege was (suspended/[or] revoked) [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant drove a motor vehicle while (his/her) driving privilege was (suspended/[or] revoked) [for ______ <insert basis for suspension or revocation>];",
+    "AND",
+    "2. When the defendant drove, (he/she) knew that (his/her) driving privilege was (suspended/[or] revoked).",
+    "[If the People prove that:",
+    "1. The California Department of Motor Vehicles mailed a notice to the defendant telling (him/her) that (his/her) driving privilege had been (suspended/[or] revoked);",
+    "2. The notice was sent to the most recent address reported to the department [or any more recent address reported by the person, a court, or a law enforcement agency];",
+    "AND",
+    "3. The notice was not returned to the department as undeliverable or unclaimed;",
+    "then you may, but are not required to, conclude that the defendant knew that (his/her) driving privilege was (suspended/[or] revoked).]",
+    "[If the People prove beyond a reasonable doubt that a court informed the defendant that (his/her) driving privilege had been (suspended/[or] revoked), you may but are not required to conclude that the defendant knew that (his/her) driving privilege was (suspended/[or] revoked).]",
+    "[A *motor vehicle* includes a (passenger vehicle/motorcycle/motor scooter/bus/school bus/commercial vehicle/truck tractor and trailer/______ <insert other type of motor vehicle>).]",
+    "[The term *motor vehicle* is defined in another instruction to which you should refer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 1, the court may insert the reason for the suspension or revocation unless the court has accepted a stipulation regarding this issue."
+      },
+      {
+        "text": "The two bracketed paragraphs that begin with “If the People prove” each explain rebuttable presumptions created by statute. (See Veh. Code, §§ 14601(a), 14601.1(a), 14602(c), 14601.5(c); Evid. Code, §§ 600–607.) The California Supreme Court has held that a jury instruction phrased as a rebuttable presumption in a criminal case creates an unconstitutional mandatory presumption. (*People v. Roder* (1983) 33 Cal.3d 491, 497–505 [658 P.2d 1302].) In accordance with *Roder,* the bracketed paragraphs have been written as permissive inferences."
+      },
+      {
+        "text": "The court must not give the bracketed paragraph that begins with “If the People prove that the California Department of Motor Vehicles mailed a notice” if there is evidence that the defendant did not receive the notice or for other reasons did not know that his or her driving privilege was revoked or suspended."
+      },
+      {
+        "text": "Similarly, the court must not give the bracketed paragraph that begins with “If the People prove beyond a reasonable doubt that a court informed the defendant” if there is evidence that the defendant did not receive the notice or for other reasons did not know that his or her driving privilege was revoked or suspended. In addition, this provision regarding notice by the court only applies if the defendant is charged with a violation of Vehicle Code section 14601.2. (See Veh. Code, § 14601.2(c).) Do not give this paragraph if the defendant is charged under any other Vehicle Code section."
+      },
+      {
+        "text": "Give the bracketed definition of motor vehicle unless the court has already given the definition in another instruction. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "Give CALCRIM No. 2241, *Driver and Driving Defined*, on request."
+      },
+      {
+        "text": "If the defendant is charged with one or more prior convictions, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, unless the defendant has stipulated to the conviction. If the court has granted a bifurcated trial on the prior conviction, use CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, §§ 13106, 14601, 14601.1, 14601.2, 14601.5."
+      },
+      {
+        "text": "• Motor Vehicle Defined. Veh. Code, § 415."
+      },
+      {
+        "text": "• Actual Knowledge of Suspension or Revocation Required. *In re Murdock* (1968) 68 Cal.2d 313, 315–316 [66 Cal.Rptr. 380, 437 P.2d 764]."
+      },
+      {
+        "text": "• Mandatory Presumption Unconstitutional Unless Instructed as Permissive Inference. *People v. Roder* (1983) 33 Cal.3d 491, 497–505 [189 Cal.Rptr. 501, 658 P.2d 1302]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Suspension or Revocation Continues Until License Restored"
+      },
+      {
+        "text": "In *People v. Gutierrez* (1998) 65 Cal.App.4th Supp. 1 [76 Cal.Rptr.2d 166], the defendant’s license had been suspended for a period of one year for driving under the influence. The defendant was arrested for driving after that one-year period had expired. The court held that the defendant’s license remained suspended even though the stated time period had passed because the defendant had not taken the steps necessary to restore his driving privilege. (*Id.* at pp. 8–9.)"
+      },
+      {
+        "heading": true,
+        "text": "Privilege to Drive May Be Suspended or Revoked Even If No License Issued"
+      },
+      {
+        "text": "A person’s privilege to drive may be suspended or revoked even though that person has never been issued a valid driver’s license. (*People v. Matas* (1988) 200 Cal.App.3d Supp. 7, 9 [246 Cal.Rptr. 627].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

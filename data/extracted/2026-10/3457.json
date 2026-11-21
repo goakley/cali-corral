@@ -1,0 +1,109 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3457",
+  "title": "Extension of Commitment as Offender With A Mental Health Disorder (Pen. Code, § 2970)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2420,
+      2422
+    ]
+  },
+  "revision_line": "New December 2008; Revised September 2017, September 2020, September 2022",
+  "revision_legend": null,
+  "body": [
+    "The petition alleges that ______ <insert name of respondent> is an offender with a mental health disorder.",
+    "To prove this allegation, the People must prove beyond a reasonable doubt that [at the time of (his/her) hearing before the Board of Parole Hearings]:",
+    "1. (He/She) (has/had) a severe mental disorder;",
+    "2. The severe mental disorder (is/was) not in remission or (cannot/could not) be kept in remission without continued treatment;",
+    "AND",
+    "3. Because of (his/her) severe mental disorder, (he/she) (presently represents/represented) a substantial danger of physical harm to others.",
+    "A *severe mental disorder* is an illness or disease or condition that substantially impairs the person’s thought, perception of reality, emotional process, or judgment; or that grossly impairs his or her behavior; or that demonstrates evidence of an acute brain syndrome for which prompt remission, in the absence of treatment, is unlikely. [It does not include (a personality or adjustment disorder[,]/[or] epilepsy[,]/[or] mental retardation or other developmental disabilities[,]/[or] addiction to or abuse of intoxicating substances).]",
+    "*Remission* means that the external signs and symptoms of the severe mental disorder are controlled by either psychotropic medication or psychosocial support.",
+    "[A severe mental disorder cannot be *kept in remission without treatment* if, during the period of the year prior to ______ <insert the date the trial commenced> , the person:",
+    "<Give one or more alternatives, as applicable.>",
+    "[1. Was physically violent except in self-defense(;/.) [or]]",
+    "[2. Made a serious threat of substantial physical harm upon the person of another so as to cause the target of the threat to reasonably fear for his or her safety or the safety of his or her immediate family(;/.) [or]]",
+    "[3. Intentionally caused property damage(;/.) [or]]",
+    "[4. Did not voluntarily follow the treatment plan.]]",
+    "[A person has voluntarily followed the treatment plan if he or she has acted as a reasonable person would in following the treatment plan.]",
+    "[A *substantial danger of physical harm* does not require proof of a recent overt act.]",
+    "You will receive [a] verdict form[s] on which to indicate your finding of whether the allegation that ______ <insert name of respondent> is an offender with a mental health disorder is true or not true. To find the allegation true or not true, all of you must agree. You may not find it to be true unless all of you agree the People have proved it beyond a reasonable doubt."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    15.0,
+    15.0,
+    15.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury about the basis for a finding that a respondent is an offender with a mental health disorder."
+      },
+      {
+        "text": "Give this instruction for a successive commitment. For an initial commitment as a condition of parole, give CALCRIM No. 3456, *Initial Commitment of Offender With A Mental Health Disorder as Condition of Parole.*"
+      },
+      {
+        "text": "The court also must give CALCRIM No. 219, *Reasonable Doubt in Civil Proceedings*, CALCRIM No. 222, *Evidence*, CALCRIM No. 226, *Witnesses*, CALCRIM No. 3550, *Pre-Deliberation Instructions*, and any other relevant post-trial instructions. These instructions may need to be modified."
+      },
+      {
+        "text": "Give the bracketed language in the sentence beginning with “To prove this allegation” and use the past tense for an on-parole recommitment pursuant to Penal Code section 2966. For a recommitment after the parole period pursuant to Penal Code sections 2970 and 2972, omit the bracketed phrase and use the present tense."
+      },
+      {
+        "text": "Case law provides no direct guidance about whether a finding of an enumerated act is necessary to show that the disorder cannot be kept in remission without treatment or whether some alternative showing, such as medical opinion or non-enumerated conduct evidencing lack of remission, would suffice. One published case has said in dictum that “the option of ‘cannot be kept in remission without treatment’ requires a further showing that the prisoner, within the preceding year, has engaged in violent or threatening conduct or has not voluntarily followed the treatment plan.” (*People v. Buffington* (1999) 74 Cal.App.4th 1149, 1161, fn. 4 [88 Cal.Rptr.2d 696]). The *Buffington* case involved a sexually violent predator."
+      },
+      {
+        "text": "The committee found no case law addressing the issue of whether or not instruction about an affirmative obligation to provide treatment exists."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements and Definitions. Pen. Code, §§ 2966, 2970, 2972; *People v. Merfield* (2007) 147 Cal.App.4th 1071, 1075, fn. 2 [54 Cal.Rptr.3d 834]."
+      },
+      {
+        "text": "• Unanimous Verdict, Burden of Proof. Pen. Code, § 2972(a); *Conservatorship of Roulet* (1979) 23 Cal.3d 219, 235 [152 Cal.Rptr. 425, 590 P.2d 1] [discussing conservatorship proceedings under the Lanterman-Petris-Short Act and civil commitment proceedings in general]."
+      },
+      {
+        "text": "• Treatment Must Be for Serious Mental Disorder Only. *People v. Sheek* (2004) 122 Cal.App.4th 1606, 1611 [19 Cal.Rptr.3d 737]."
+      },
+      {
+        "text": "• Definition of Remission. Pen. Code, § 2962(a)."
+      },
+      {
+        "text": "• Recommitment Must Be for the Same Disorder That Was Basis For Initial Commitment. *People v. Torfason* (2019) 38 Cal.App.5th 1062, 1067–68 [252 Cal.Rptr.3d 11]; *People v. Garcia* (2005) 127 Cal.App.4th 558, 565 [25 Cal.Rptr.3d 660]."
+      },
+      {
+        "text": "• Proof of Recent Overt Act Not Required. Pen. Code, § 2962(g)."
+      },
+      {
+        "text": "• Redesignation of Qualifying Conviction to Misdemeanor Under Penal Code Section 1170.18 Does Not Bar Recommitment. *People v. Foster* (2019) 7 Cal.5th 1202, 1211 [251 Cal.Rptr.3d 312, 447 P.3d 228]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 1
+  },
+  "warnings": []
+}

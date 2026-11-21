@@ -1,0 +1,121 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "604",
+  "title": "Attempted Voluntary Manslaughter: Imperfect Self-Defense—Lesser Included Offense (Pen. Code, §§ 21a, 192, 664)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      459,
+      461
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2009, October 2010, February 2012, February 2013, September 2020, September 2023, October 2025",
+  "revision_legend": null,
+  "body": [
+    "An attempted killing that would otherwise be attempted murder is reduced to attempted voluntary manslaughter if the defendant attempted to kill a person because (he/she) acted in imperfect (self-defense/[or] defense of another).",
+    "If you conclude the defendant acted in complete (self-defense/[or] defense of another), (his/her) action was lawful and you must find (him/her) not guilty of any crime. The difference between complete (self-defense/[or] defense of another) and imperfect (self-defense/[or] defense of another) depends on whether the defendant’s belief in the need to use deadly force was reasonable.",
+    "The defendant acted in imperfect (self-defense/[or] defense of another) if:",
+    "1. The defendant took at least one direct but ineffective step toward killing a person.",
+    "2. The defendant intended to kill when (he/she) acted.",
+    "3. The defendant believed that (he/she/[or] someone else/______ <insert name of third party>) was in imminent danger of being killed or suffering great bodily injury.",
+    "3. AND",
+    "4. The defendant believed that the immediate use of deadly force was necessary to defend against the danger.",
+    "4. BUT",
+    "5. At least one of the defendant’s beliefs was unreasonable.",
+    "[Imperfect self-defense does not apply when the defendant, through (his/her) own wrongful conduct, has created circumstances that justify (his/her) adversary’s use of force.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be. The defendant must have actually believed there was imminent danger of death or great bodily injury to (himself/herself/[or] someone else).",
+    "In evaluating the defendant’s beliefs, consider all the circumstances as they were known and appeared to the defendant.",
+    "[If you find that ______ <insert name or description of alleged victim> threatened or harmed the defendant [or others] in the past, you may consider that information in evaluating the defendant’s beliefs.]",
+    "[If you find that the defendant knew that ______ <insert name or description of alleged victim> had threatened or harmed others in the past, you may consider that information in evaluating the defendant’s beliefs.]",
+    "[If you find that the defendant received a threat from someone else that (he/she) reasonably associated with ______ <insert name or description of alleged victim>, you may consider that threat in evaluating the defendant’s beliefs.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant was not acting in imperfect self-defense. If the People have not met this burden, you must find the defendant not guilty of attempted murder."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on attempted voluntary manslaughter on either theory, heat of passion or imperfect self-defense, when evidence of either is “substantial enough to merit consideration” by the jury. (See *People v. Breverman* (1998) 19 Cal.4th 142, 153–163 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [discussing charge of completed murder]; *People v. Barton* (1995) 12 Cal.4th 186, 201 [47 Cal.Rptr.2d 569, 906 P.2d 531] [same].)"
+      },
+      {
+        "heading": true,
+        "text": "Perfect Self-Defense"
+      },
+      {
+        "text": "Most courts hold that an instruction on imperfect self-defense is required in every case in which a court instructs on perfect self-defense. If there is substantial evidence of a defendant’s belief in the need for self-defense, there will *always* be substantial evidence to support an imperfect self-defense instruction because the reasonableness of that belief will always be at issue. (See *People v. Ceja* (1994) 26 Cal.App.4th 78, 85–86 [31 Cal.Rptr.2d 475], overruled in part in *People v. Blakeley* (2000) 23 Cal.4th 82, 91 [96 Cal.Rptr.2d 451, 999 P.2d 675]; see also *People v. De Leon* (1992) 10 Cal.App.4th 815, 824 [12 Cal.Rptr.2d 825].) The court in *People v. Rodriguez* disagreed, however, and found that an imperfect self-defense instruction was not required sua sponte on the facts of the case where the defendant’s version of the crime “could only lead to an acquittal based on justifiable homicide,” and when the prosecutor’s version of the crime could only lead to a conviction of first degree murder. (*People v. Rodriguez* (1997) 53 Cal.App.4th 1250, 1275 [62 Cal.Rptr.2d 345]; see also *People v. Williams* (1992) 4 Cal.4th 354, 362 [14 Cal.Rptr.2d 441, 841 P.2d 961] [in a rape prosecution, the court was not required to give a mistake-of-fact instruction where the two sides gave wholly divergent accounts with no middle ground to support a mistake-of-fact instruction].)"
+      },
+      {
+        "text": "In evaluating whether the defendant actually believed in the need for self-defense, the jury may consider the effect of antecedent threats and assaults against the defendant, including threats received by the defendant from a third party that the defendant reasonably associated with the aggressor. (*People v. Minifie* (1996) 13 Cal.4th 1055, 1065, 1069 [56 Cal.Rptr.2d 133, 920 P.2d 1337].) If there is sufficient evidence, the court should give the bracketed paragraphs on prior threats or assaults on request."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM Nos. 3470–3477, *Defense Instructions*."
+      },
+      {
+        "text": "CALCRIM No. 571, *Voluntary Manslaughter: Imperfect Self-Defense—Lesser Included Offense*."
+      },
+      {
+        "text": "CALCRIM No. 603, *Attempted Voluntary Manslaughter: Heat of Passion—Lesser Included Offense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Attempt Defined. Pen. Code, §§ 21a, 664."
+      },
+      {
+        "text": "• Manslaughter Defined. Pen. Code, § 192."
+      },
+      {
+        "text": "• Attempted Voluntary Manslaughter. *People v. Van Ronk* (1985) 171 Cal.App.3d 818, 824–825 [217 Cal.Rptr. 581]; *People v. Williams* (1980) 102 Cal.App.3d 1018, 1024–1026 [162 Cal.Rptr. 748]."
+      },
+      {
+        "text": "• “Imperfect Self-Defense” Defined. *People v. Flannel* (1979) 25 Cal.3d 668, 680–683 [160 Cal.Rptr. 84, 603 P.2d 1]; *People v. Barton, supra,* 12 Cal.4th at p. 201; *In re Christian S.* (1994) 7 Cal.4th 768, 773 [30 Cal.Rptr.2d 33, 872 P.2d 574]; see *People v. Uriarte* (1990) 223 Cal.App.3d 192, 197–198 [272 Cal.Rptr. 693] [insufficient evidence to support defense of another person]."
+      },
+      {
+        "text": "• Availability of Imperfect Self-Defense. *People v. Enraca* (2012) 53 Cal.4th 735, 761 [137 Cal.Rptr.3d 117, 269 P.3d 543] [not available]; *People v. Vasquez* (2006) 136 Cal.App.4th 1176, 1179–1180 [39 Cal.Rptr.3d 433] [available]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Lopez* (2011) 199 Cal.App.4th 1297, 1307 [132 Cal.Rptr.3d 248]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 603, *Attempted Voluntary Manslaughter: Heat of Passion—Lesser Included Offense* and CALCRIM No. 571, *Voluntary Manslaughter: Imperfect Self-Defense—Lesser Included Offense*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

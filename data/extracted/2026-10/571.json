@@ -1,0 +1,175 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "571",
+  "title": "Voluntary Manslaughter: Imperfect Self-Defense or Imperfect Defense of Another—Lesser Included Offense (Pen. Code, § 192)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      399,
+      402
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, February 2015, September 2020, March 2022, September 2022, March 2024,* February 2025, October 2025, February 2026",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "A killing that would otherwise be murder is reduced to voluntary manslaughter if the defendant killed a person because (he/she) acted in (imperfect self-defense/[or] imperfect defense of another).",
+    "If you conclude the defendant acted in complete (self-defense/[or] defense of another), (his/her) action was lawful and you must find (him/her) not guilty of any crime. The difference between complete (self-defense/[or] defense of another) and (imperfect self-defense/[or] imperfect defense of another) depends on whether the defendant’s belief in the need to use deadly force was reasonable.",
+    "The defendant acted in (imperfect self-defense/[or] imperfect defense of another) if:",
+    "1. The defendant actually believed that (he/she/[or] someone else/______ <insert name of third party>) was in imminent danger of being killed or suffering great bodily injury;",
+    "AND",
+    "2. The defendant actually believed that the immediate use of deadly force was necessary to defend against the danger;",
+    "BUT",
+    "3. At least one of those beliefs was unreasonable.",
+    "[If the defendant used more force than was reasonable to defend against the defendant’s perceived danger, the defendant did not act in (imperfect self-defense/[ or] imperfect defense of another).]",
+    "Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be.",
+    "In evaluating the defendant’s beliefs, consider all the circumstances as they were known and appeared to the defendant.",
+    "<The following definition may be given if requested.>",
+    "[Danger is *imminent* if, when the defendant used [deadly] force, the danger actually existed or the defendant actually believed it existed. The danger must seem immediate and present, so that it must be instantly dealt with. It may not be merely prospective or in the near future.]",
+    "[Imperfect self-defense does not apply when the defendant, through (his/her) own wrongful conduct, has created circumstances that justify (his/her) adversary’s use of force.]",
+    "[If you find that ______ <insert name of decedent/victim> threatened or harmed the defendant [or others] in the past, you may consider that information in evaluating the defendant’s beliefs.]",
+    "[If you find that the defendant knew that ______ <insert name of decedent/victim> had threatened or harmed others in the past, you may consider that information in evaluating the defendant’s beliefs.]",
+    "[If you find that the defendant received a threat from someone else that (he/she) associated with ______ <insert name of decedent/victim>, you may consider that threat in evaluating the defendant’s beliefs.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant was not acting in (imperfect self-defense/[or] imperfect defense of another). If the People have not met this burden, you must find the defendant not guilty of murder."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on voluntary manslaughter on either theory, heat of passion or imperfect self-defense, when evidence of either is “substantial enough to merit consideration” by the jury. (*People v. Breverman* (1998) 19 Cal.4th 142, 153–163 [77 Cal.Rptr.2d 870, 960 P.2d 1094]; *People v. Barton* (1995) 12 Cal.4th 186, 201 [47 Cal.Rptr.2d 569, 906 P.2d 531].)"
+      },
+      {
+        "text": "See discussion of imperfect self-defense in Related Issues section of CALCRIM No. 505, *Justifiable Homicide: Self-Defense or Defense of Another*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 505, *Justifiable Homicide: Self-Defense or Defense of Another*."
+      },
+      {
+        "text": "CALCRIM No. 3470, *Right to Self-Defense or Defense of Another (Non-Homicide)*."
+      },
+      {
+        "text": "CALCRIM No. 3471, *Right to Self-Defense: Mutual Combat or Initial Aggressor*."
+      },
+      {
+        "text": "CALCRIM No. 3472, *Right to Self-Defense: May Not Be Contrived*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 192(a)."
+      },
+      {
+        "text": "• “Imperfect Self-Defense” Defined. *People v. Flannel* (1979) 25 Cal.3d 668, 680–683 [160 Cal.Rptr. 84, 603 P.2d 1]; *People v. Barton, supra,* 12 Cal.4th at p. 201; *In re Christian S.* (1994) 7 Cal.4th 768, 773 [30 Cal.Rptr.2d 33, 872 P.2d 574]; see *People v. Uriarte* (1990) 223 Cal.App.3d 192, 197–198 [272 Cal.Rptr. 693] [insufficient evidence to support defense of another person]."
+      },
+      {
+        "text": "• Imperfect Defense of Others. *People v. Randle* (2005) 35 Cal.4th 987, 995–1000 [28 Cal.Rptr.3d 725, 111 P.3d 987], overruled on another ground in *People v. Chun* (2009) 45 Cal.4th 1172 [91 Cal.Rptr.3d 106, 203 P.3d 425]."
+      },
+      {
+        "text": "• Availability of Imperfect Self-Defense. *People v. Enraca* (2012) 53 Cal.4th 735, 761 [137 Cal.Rptr.3d 117, 269 P.3d 543] [not available]; *People v. Vasquez* (2006) 136 Cal.App.4th 1176, 1179–1180 [39 Cal.Rptr.3d 433] [available]."
+      },
+      {
+        "text": "• Unreasonable Use of Force Can Defeat Imperfect Self-Defense Claim. *People v. Temple* (2025) 110 Cal.App.5th 1281, 1295–1297 [332 Cal.Rptr.3d 490] [imperfect self-defense or defense of others unavailable if defendant used more force than reasonably necessary to repel the attack]."
+      },
+      {
+        "text": "• Imperfect Self-Defense Does Not Apply When Defendant’s Belief in Need for Self-Defense Is Entirely Delusional. *People v. Elmore* (2014) 59 Cal.4th 121, 145 [172 Cal.Rptr.3d 413, 325 P.3d 951]."
+      },
+      {
+        "text": "• Prior Version of This Instruction Upheld. *People v. Temple, supra*, 110 Cal.App.5th at p. 1293; *People v. Lopez* (2011) 199 Cal.App.4th 1297, 1306 [132 Cal.Rptr.3d 248]; *People v. Genovese* (2008) 168 Cal.App.4th 817, 832 [85 Cal.Rptr.3d 664]."
+      },
+      {
+        "text": "• Defendant Relying on Imperfect Self-Defense Must Actually, Although Not Reasonably, Associate Threat With Victim. *People v. Minifie* (1996) 13 Cal.4th 1055, 1069 [56 Cal.Rptr.2d 133, 920 P.2d 1337] [in dicta]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Voluntary Manslaughter. *People v. Van Ronk* (1985) 171 Cal.App.3d 818, 822 [217 Cal.Rptr. 581]; *People v. Williams* (1980) 102 Cal.App.3d 1018, 1024–1026 [162 Cal.Rptr. 748]."
+      },
+      {
+        "text": "Involuntary manslaughter is *not* a lesser included offense of voluntary manslaughter. (*People v. Orr* (1994) 22 Cal.App.4th 780, 784 [27 Cal.Rptr.2d 553].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Intimate Partner Battering and Its Effects"
+      },
+      {
+        "text": "Evidence relating to intimate partner battering (formerly “battered women’s syndrome”) and its effects may be considered by the jury when deciding if the defendant actually feared the batterer and if that fear was reasonable. (See *People v. Humphrey* (1996) 13 Cal.4th 1073, 1082–1089 [56 Cal.Rptr.2d 142, 921 P.2d 1]; see also *In re Walker* (2007) 147 Cal.App.4th 533, 536, fn.1 [54 Cal.Rptr.3d 411].)"
+      },
+      {
+        "heading": true,
+        "text": "Blakeley Not Retroactive"
+      },
+      {
+        "text": "The decision in *Blakeley*—that one who, acting with conscious disregard for life, unintentionally kills in imperfect self-defense is guilty of voluntary manslaughter—may not be applied to defendants whose offense occurred prior to *Blakeley*’s June 2, 2000, date of decision. (*People v. Blakeley* (2000) 23 Cal.4th 82, 91–93 [96 Cal.Rptr.2d 451, 999 P.2d 675].) If a defendant asserts a killing was done in an honest but mistaken belief in the need to act in self-defense and the offense occurred prior to June 2, 2000, the jury must be instructed that an unintentional killing in imperfect self-defense is involuntary manslaughter. (*People v. Johnson* (2002) 98 Cal.App.4th 566, 576–577 [119 Cal.Rptr.2d 802]; *People v. Blakeley, supra,* 23 Cal.4th at p. 93.)"
+      },
+      {
+        "heading": true,
+        "text": "Inapplicable to Felony Murder"
+      },
+      {
+        "text": "Imperfect self-defense does not apply to felony murder. “Because malice is irrelevant in first and second degree felony murder prosecutions, a claim of imperfect self-defense, offered to negate malice, is likewise irrelevant.” (See *People v. Tabios* (1998) 67 Cal.App.4th 1, 6–9 [78 Cal.Rptr.2d 753]; see also *People v. Anderson* (1991) 233 Cal.App.3d 1646, 1666 [285 Cal.Rptr. 523]; *People v. Loustaunau* (1986) 181 Cal.App.3d 163, 170 [226 Cal.Rptr. 216].)"
+      },
+      {
+        "heading": true,
+        "text": "Fetus"
+      },
+      {
+        "text": "Manslaughter does not apply to the death of a fetus. (*People v. Carlson* (1974) 37 Cal.App.3d 349, 355 [112 Cal.Rptr. 321].) While the Legislature has included the killing of a fetus, as well as a human being, within the definition of murder under Penal Code section 187, it has “left untouched the provisions of section 192, defining manslaughter [as] the ‘unlawful killing of a human being.’ ” (37 Cal.App.3d at p. 355.)"
+      },
+      {
+        "text": "See also the Related Issues section to CALCRIM No. 505, *Justifiable Homicide: Self-Defense or Defense of Another*."
+      },
+      {
+        "heading": true,
+        "text": "Reasonable Person Standard Not Modified by Evidence of Mental Impairment"
+      },
+      {
+        "text": "In *People v. Jefferson* (2004) 119 Cal.App.4th 508, 519 [14 Cal.Rptr.3d 473], the court rejected the argument that the reasonable person standard for self-defense should be the standard of a mentally ill person like the defendant. “The common law does not take account of a person’s mental capacity when determining whether he has acted as the reasonable person would have acted. The law holds ‘the mentally deranged or insane defendant accountable for his negligence as if the person were a normal, prudent person.’ (Prosser & Keeton, Torts (5th ed. 1984) § 32, p. 177.)” (*Ibid.*; see also Rest.2d Torts, § 283B.)"
+      },
+      {
+        "heading": true,
+        "text": "Reasonable Person Standard and Physical Limitations"
+      },
+      {
+        "text": "A defendant’s physical limitations are relevant when deciding the reasonable person standard for self-defense. (*People v. Horn* (2021) 63 Cal.App.5th 672, 686 [277 Cal.Rptr.3d 901].) See also CALCRIM No. 3429, *Reasonable Person Standard for Physically Disabled Person*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

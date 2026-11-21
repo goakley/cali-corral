@@ -1,0 +1,180 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2511",
+  "title": "Possession of Firearm by Person Prohibited Due to Conviction—Stipulation to Conviction (Pen. Code, §§ 29800, 29805, 29820, 29900)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1740,
+      1744
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2010, February 2012, August 2013, February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully possessing a firearm [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (owned/purchased/received/possessed) a firearm;",
+    "2. The defendant knew that (he/she) (owned/purchased/received/possessed) the firearm;",
+    "[AND]",
+    "3. The defendant had previously been convicted of (a/two) (felony/misdemeanor[s])(;/.)",
+    "[AND]",
+    "<Alternative 4A—give only if the defendant is charged under Pen. Code, § 29805.>",
+    "[4. The previous conviction was within 10 years of the date the defendant possessed the firearm.]",
+    "<Alternative 4B—give only if the defendant is charged under Pen. Code, § 29820.>",
+    "[4. The defendant was under 30 years old at the time (he/she) possessed the firearm.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is expelled or discharged through a barrel by the force of an explosion or other form of combustion. [The frame or receiver of such a *firearm* is also a *firearm* for the purpose of this instruction.]]",
+    "<Do not use the language below unless the other instruction defines firearm in the context of a crime charged pursuant to Pen. Code, § 29800.>",
+    "[The term *firearm* is defined in another instruction.]",
+    "[A firearm does not need to be in working order if it was designed to shoot and appears capable of shooting.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person).]",
+    "The defendant and the People have stipulated, or agreed, that the defendant was previously convicted of (a/two) (felony/misdemeanor[s]). This stipulation means that you must accept this fact as proved.",
+    "[Do not consider this fact for any other purpose [except for the limited purpose of ______ <insert other permitted purpose, e.g., determining the defendant’s credibility>]. Do not speculate about or discuss the nature of the conviction.]",
+    "[The People allege that the defendant (owned/purchased/received/possessed) the following firearms: ______ <insert description of each firearm when multiple firearms alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (owned/purchased/received/possessed) at least one of the firearms, and you all agree on which firearm (he/she) (owned/purchased/received/possessed).]",
+    "<Defense: Momentary Possession>",
+    "[If you conclude that the defendant possessed a firearm, that possession was not unlawful if the defendant can prove the defense of momentary possession. In order to establish this defense, the defendant must prove that:",
+    "1. (He/She) possessed the firearm only for a momentary or transitory period;",
+    "2. (He/She) possessed the firearm in order to (abandon[,]/[or] dispose of[,]/[or] destroy) it;",
+    "AND",
+    "3. (He/She) did not intend to prevent law enforcement officials from seizing the firearm.",
+    "The defendant has the burden of proving each element of this defense by a preponderance of the evidence. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that each element of the defense is true. If the defendant has not met this burden, (he/she) has not proved this defense.]",
+    "<Defense: Justifiable Possession>",
+    "[If you conclude that the defendant possessed a firearm, that possession was not unlawful if the defendant can prove that (he/she) was justified in possessing the firearm. In order to establish this defense, the defendant must prove that:",
+    "1. (He/She) (found the firearm/took the firearm from a person who was committing a crime against the defendant);",
+    "[AND]",
+    "2. (He/She) possessed the firearm no longer than was necessary to deliver or transport the firearm to a law enforcement agency for that agency to dispose of the weapon(;/.)",
+    "[AND",
+    "3. If the defendant was transporting the firearm to a law enforcement agency, (he/she) gave prior notice to the law enforcement agency that (he/she) would be delivering a firearm to the agency for disposal.]]",
+    "The defendant has the burden of proving each element of this defense by a preponderance of the evidence. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that each element of the defense is true."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. Use this instruction only if the defendant stipulates to the prior conviction. (*People v. Sapp* (2003) 31 Cal.4th 240, 261 [2 Cal.Rptr.3d 554, 73 P.3d 433]; *People v. Valentine* (1986) 42 Cal.3d 170, 173 [228 Cal.Rptr. 25, 720 P.2d 913].) If the defendant does not stipulate, use CALCRIM No. 2510, *Possession of Firearm by Person Prohibited Due to Conviction—No Stipulation to Conviction*. (*People v. Sapp, supra,* 31 Cal.4th at p. 261; *People v. Valentine, supra,* 42 Cal.3d at p. 173.)"
+      },
+      {
+        "text": "If the defendant has stipulated to the fact of the conviction, the court should sanitize all references to the conviction to prevent disclosure of the nature of the conviction to the jury. (*People v. Sapp, supra,* 31 Cal.4th at p. 261; *People v. Valentine, supra,* 42 Cal.3d at p. 173.) If the defendant agrees, the court should not read the portion of the information describing the nature of the conviction. Likewise, the court should ensure that the verdict forms do not reveal the nature of the conviction."
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the union of act and specific intent or mental state. (*People v. Alvarez* (1996) 14 Cal.4th 155, 220 [58 Cal.Rptr.2d 385, 926 P.2d 365].) Therefore, because of the knowledge requirement in element 2 of this instruction, the court must give the instruction “for crimes requiring one or more specific mental states” in CALCRIM No. 252, *Union of Act and Intent*, together with this instruction."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple firearms and the possession was “fragmented as to time . . . [or] space,” the court has a sua sponte duty to instruct on unanimity. (*People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483].) Give the bracketed paragraph beginning “The People allege that the defendant possessed the following firearms,” inserting the items alleged."
+      },
+      {
+        "text": "Element 4 should be given only if the defendant is charged under Penal Code section 29805, possession within 10 years of a specified misdemeanor conviction, or Penal Code section 29820, possession by someone under 30 years old with a specified juvenile finding."
+      },
+      {
+        "text": "The court should give the bracketed definition of “firearm” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "On request, the court should give the limiting instruction regarding the evidence of the prior conviction that begins, “Do not consider this fact for any other purpose . . . .” (*People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913].) There is no sua sponte duty to give the limiting instruction, and the defense may prefer that no limiting instruction be given. (*People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "“[T]he defense of transitory possession devised in [*People v. Mijares* (1971) 6 Cal.3d 415, 420, 423 [99 Cal.Rptr. 139, 491 P.2d 1115]] applies only to momentary or transitory possession of contraband for the purpose of disposal.” (*People v. Martin* (2001) 25 Cal.4th 1180, 1191–1192 [108 Cal.Rptr.2d 599, 25 P.3d 1081].) The court in *Martin, supra,* approved of *People v. Hurtado* (1996) 47 Cal.App.4th 805, 814 [54 Cal.Rptr.2d 853], which held that the defense of momentary possession applies to a charge of violating now-repealed Penal Code section 12021. This is an affirmative defense, and the defense bears the burden of establishing it by a preponderance of the evidence. (*People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067].) If sufficient evidence has been presented, the court has a sua sponte duty to give the bracketed paragraph, “Defense: Momentary Possession.”"
+      },
+      {
+        "text": "Penal Code section 29850 states that a violation of the statute is “justifiable” if the listed conditions are met. This is an affirmative defense, and the defense bears the burden of establishing it by a preponderance of the evidence. *(Ibid.)* If sufficient evidence has been presented, the court has a sua sponte duty to give the bracketed paragraph, “Defense: Justifiable Possession.”"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant possessed the firearm only in self-defense, the court has a sua sponte duty to give CALCRIM No. 2514, *Possession of Firearm by Person Prohibited by Statute—Self-Defense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 23515, 29800, 29805, 29820, 29900; *People v. Snyder* (1982) 32 Cal.3d 590, 592 [186 Cal.Rptr. 485, 652 P.2d 42]."
+      },
+      {
+        "text": "• Defense of Justifiable Possession. Pen. Code, § 29850."
+      },
+      {
+        "text": "• Presenting Evidence of Prior Conviction to Jury. *People v. Sapp* (2003) 31 Cal.4th 240, 261 [2 Cal.Rptr.3d 554, 73 P.3d 433]; *People v. Valentine* (1986) 42 Cal.3d 170, 173 [228 Cal.Rptr. 25, 720 P.2d 913]."
+      },
+      {
+        "text": "• Limiting Instruction on Prior Conviction. *People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913]; *People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380]."
+      },
+      {
+        "text": "• Accidental Possession. *People v. Jeffers* (1996) 41 Cal.App.4th 917, 922 [49 Cal.Rptr.2d 86]."
+      },
+      {
+        "text": "• Lack of Knowledge of Nature of Conviction Not a Defense. *People v. Snyder* (1982) 32 Cal.3d 590, 593 [186 Cal.Rptr. 485, 652 P.2d 42]."
+      },
+      {
+        "text": "• Momentary Possession Defense. *People v. Martin* (2001) 25 Cal.4th 1180, 1191–1192 [108 Cal.Rptr.2d 599, 25 P.3d 1081]; *People v. Hurtado* (1996) 47 Cal.App.4th 805, 814 [54 Cal.Rptr.2d 853]; *People v. Mijares* (1971) 6 Cal.3d 415, 420, 423 [99 Cal.Rptr. 139, 491 P.2d 1115]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6 [98 Cal.Rptr.2d 466, 4 P.3d 297]."
+      },
+      {
+        "text": "• Possession of Frame or Receiver Sufficient but not Necessary For Crimes Charged Under [Now-Superseded] Section 12021. *People v. Arnold* (2006) 145 Cal.App.4th 1408, 1414 [52 Cal.Rptr.3d 545]."
+      },
+      {
+        "text": "• Statute Constitutional. *People v. Richardson* (2025) 108 Cal.App.5th 1203, 1209–1213 [330 Cal.Rptr.3d 130]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See CALCRIM No. 2510, *Possession of Firearm by Person Prohibited Due to Conviction—No Stipulation to Conviction*."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Neither possessing firearm after conviction of felony nor possessing firearm after conviction of specified violent offense is a lesser included offense of the other. (*People v. Sanders* (2012) 55 Cal.4th 731, 739–740 [149 Cal.Rptr.3d 26, 288 P.3d 83]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "938",
+  "title": "Sexual Battery: Misdemeanor (Pen. Code, § 243.4(e)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      750,
+      751
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2016, September 2017, September 2024",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sexual battery [in violation of Penal Code section 243.4(e)(1)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant touched an intimate part of ______ <insert name of complaining witness>;",
+    "2. The touching was done against ______’s <insert name of complaining witness> will;",
+    "AND",
+    "3. The touching was done for the specific purpose of sexual arousal, sexual gratification, or sexual abuse.",
+    "An *intimate part* is a female’s breast or the anus, groin, sexual organ, or buttocks of anyone.",
+    "*Touching*, as used here, means making physical contact with another person. *Touching* includes contact made through the clothing.",
+    "[An act is done *against a person’s will* if that person does not consent to the act. In order to *consent*, a person must act freely and voluntarily and know the nature of the act.]",
+    "[*Sexual abuse* includes touching a person’s intimate part[s] (to insult, humiliate, or intimidate that person for a sexual purpose/[or] to physically harm the person for a sexual purpose).]",
+    "<Defense: Reasonable Belief in Consent>",
+    "[The defendant is not guilty of sexual battery if (he/she) actually and reasonably believed that the other person consented to the touching [and actually and reasonably believed that (he/she) consented throughout the act of touching]. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the other person consented. If the People have not met this burden, you must find the defendant not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of mistaken but honest and reasonable belief in consent if there is substantial evidence of equivocal conduct that would have led a defendant to reasonably and in good faith believe consent existed where it did not. (See *People v. Andrews* (2015) 234 Cal.App.4th 590, 602 [184 Cal.Rptr.3d 183]; following *People v. Williams* (1992) 4 Cal.4th 354, 362 [14 Cal.Rptr.2d 441, 841 P.2d 961]; *People v. Mayberry* (1975) 15 Cal.3d 143, 153–158 [125 Cal.Rptr. 745, 542 P.2d 1337].)"
+      },
+      {
+        "text": "Give the bracketed definition of “against a person’s will” on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 243.4(e)(1)."
+      },
+      {
+        "text": "• “Touches” Defined. Pen. Code, § 243.4(e)(2)."
+      },
+      {
+        "text": "• “Intimate Part” Defined. Pen. Code, § 243.4(g)(1)."
+      },
+      {
+        "text": "• “Consent” Defined. Pen. Code, §§ 261.6, 261.7."
+      },
+      {
+        "text": "• Specific-Intent Crime. *People v. Chavez* (2000) 84 Cal.App.4th 25, 29 [100 Cal.Rptr.2d 680]."
+      },
+      {
+        "text": "• Defendant Must Touch Intimate Part of Victim. *People v. Elam* (2001) 91 Cal.App.4th 298, 309–310 [110 Cal.Rptr.2d 185]."
+      },
+      {
+        "text": "• Defendant Need Not Touch Skin. *People v. Dayan* (1995) 34 Cal.App.4th 707, 716 [40 Cal.Rptr.2d 391]."
+      },
+      {
+        "text": "• Sexual Abuse Includes Insulting, Intimidating, or Humiliating. *In re Shannon T.* (2006) 144 Cal.App.4th 618, 622 [50 Cal.Rptr.3d 564]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Misdemeanor sexual battery is not a lesser included offense of sexual battery by misrepresentation of professional purpose under the statutory elements test. *People v. Robinson* (2016) 63 Cal.4th 200, 210–213 [202 Cal.Rptr.3d 485, 370 P.3d 1043]."
+      },
+      {
+        "text": "• Attempted sexual battery is not a lesser included offense of sexual battery by fraudulent representation. *People v. Babaali* (2009) 171 Cal.App.4th 982, 1000 [90 Cal.Rptr.3d 278]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

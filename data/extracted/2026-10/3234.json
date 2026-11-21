@@ -1,0 +1,100 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3234",
+  "title": "Aggravating Factor: Serious Danger to Society",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2327,
+      2329
+    ]
+  },
+  "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "<Introductory paragraph for nonbifurcated trial>",
+    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______][ or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether the People have proved the additional allegation that ______ <insert name of defendant> has engaged in violent conduct, to wit: ______ <insert description of conduct>, which indicates (he/she) is a serious danger to society.]",
+    "<Introductory paragraph for bifurcated trial>",
+    "[The People have alleged that ______ <insert name of defendant> has engaged in violent conduct, to wit: ______ <insert description of conduct>, which indicates (he/she) is a serious danger to society.]",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant has engaged in violent conduct;",
+    "AND",
+    "2. The violent conduct, considered in light of all the evidence presented[ and the defendant’s background], shows that the defendant is a serious danger to society.",
+    "[To determine whether the defendant is a serious danger to society, you may consider the defendant’s conduct before or after commission of the crime[ as well as evidence about the defendant’s background].]",
+    "You may not find the allegation true unless all of you agree that the People have proved that the defendant engaged in violent conduct that shows (he/she) is a serious danger to society. However, all of you do not need to agree on which violent conduct shows that the defendant is a serious danger to society.",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction is provided for the court to use for an aggravating factor as stated in California Rules of Court, rule 4.421. (See Pen. Code, §§ 1170, 1170.1; see also *People v. Wiley* (2025) 17 Cal.5th 1069, 1086 [333 Cal.Rptr.3d 635, 570 P.3d 436]; *Cunningham v. California* (2007) 549 U.S. 270 [127 S.Ct. 856, 166 L.Ed.2d 856].)"
+      },
+      {
+        "text": "Do not give an aggravating factor that is an element of the convicted offense. (Pen. Code, § 1170(b)(5).)"
+      },
+      {
+        "text": "The court should specify the crime(s) to which the aggravating factor pertains."
+      },
+      {
+        "text": "The court must bifurcate the jury’s determination of the aggravating factors on the defendant’s request “[e]xcept where evidence supporting an aggravating circumstance is admissible to prove or defend against the charged offense or enhancement at trial, or it is otherwise authorized by law.” (Pen. Code, § 1170(b)(2).) For a bifurcated trial, the court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggravating Factors. California Rules of Court, rule 4.421(b)(1)."
+      },
+      {
+        "text": "• Unanimity Not Required Regarding Facts Underlying the Aggravating Factor. *People v. McDaniel* (2021) 12 Cal.5th 97, 142–148 [283 Cal.Rptr.3d 32, 493 P.3d 815]."
+      },
+      {
+        "text": "• Danger to Society: Subsequent Conduct Can Be Considered. *People v. Gonzales* (1989) 208 Cal.App.3d 1170, 1173 [256 Cal.Rptr. 669]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Aggravating Factors Relating to the Defendant"
+      },
+      {
+        "text": "Each of the instructions for aggravating factors related to the manner in which the defendant committed one or more charged crimes includes language informing the jury that they may not find the aggravating factor allegation true unless the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime. (See CALCRIM Nos. 3224–3233; see also Cal. Rules of Court, rule 4.421(a) [setting forth aggravating factors “relating to the crime”].) This instructional language is derived from case law holding that “[t]he essence of ‘aggravation’ relates to the effect of a particular fact in making the offense distinctively worse than the ordinary.” (*People v. Moreno* (1982) 128 Cal.App.3d 103, 110; see also *People v. Black* (2007) 41 Cal.4th 799, 817, overruled on other grounds by *People v. Wiley* (2025) 17 Cal.5th 1069, 1085.)"
+      },
+      {
+        "text": "California Rules of Court, rule 4.421(b) sets forth additional aggravating factors “relating to the defendant.” The published cases addressing the requirement that aggravating factors should only be found true where the defendant’s conduct was “distinctively worse than an ordinary commission of the underlying crime” all address aggravating factors “relating to the crime.” In the absence of any published case law applying this rule to aggravating factors “related to the defendant”—which generally involve indicia of recidivism—the committee has not included any instructional language directing the jury to evaluate whether aggravating factors “related to the defendant” render the defendant’s conduct “distinctively worse than an ordinary commission of the underlying crime.”"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Prohibition Against Dual Use of Facts at Sentencing"
+      },
+      {
+        "text": "The jury may find true multiple aggravating factors based on the same underlying fact. However, at sentencing, a single underlying fact may not support more than one aggravating factor. (*People v. Fernandez* (1990) 226 Cal.App.3d 669, 680 [276 Cal.Rptr. 631].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

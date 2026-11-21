@@ -1,0 +1,66 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "333",
+  "title": "Opinion Testimony of Lay Witness",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      174,
+      174
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "(A witness/Witnesses)[, who (was/were) not testifying as [an] expert[s],] gave (his/her/their) opinion[s] during the trial. You may but are not required to accept (that/those) opinion[s] as true or correct. You may give the opinion[s] whatever weight you think appropriate. Consider the extent of the witness’s opportunity to perceive the matters on which his or her opinion is based, the reasons the witness gave for any opinion, and the facts or information on which the witness relied in forming that opinion. You must decide whether information on which the witness relied was true and accurate. You may disregard all or any part of an opinion that you find unbelievable, unreasonable, or unsupported by the evidence."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Give this instruction on request when a lay witness gives opinion testimony."
+      },
+      {
+        "text": "Give the bracketed phrase “who was not testifying as an expert” if an expert witness also testified in the case."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 332, *Expert Witness Testimony*."
+      },
+      {
+        "text": "CALCRIM No. 1860, *Owner’s Opinion of Value*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Opinion Testimony. Evid. Code, §§ 800, 802."
+      },
+      {
+        "text": "• Opinion Testimony to Prove Character. Evid. Code, § 1100."
+      },
+      {
+        "text": "• Jury Must Decide What Weight to Give Lay Opinion. See *People v. Pena* (1977) 68 Cal.App.3d 100, 102–103 [135 Cal.Rptr. 602]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Golde* (2008) 163 Cal.App.4th 101, 120 [77 Cal.Rptr.3d 120]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

@@ -1,0 +1,102 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1051",
+  "title": "Sexual Penetration by Fraud (Pen. Code, § 289(f))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      889,
+      890
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2015, April 2020, September 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sexual penetration by fraud [in violation of Penal Code section 289(f)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed an act of sexual penetration with another person;",
+    "2. At the time of the act, the defendant and the other person were not married to each other;",
+    "3. The penetration was accomplished by using (a/an) (foreign object[,]/[or] substance[,]/[or] instrument[,]/[or] device[,]/[or] unknown object);",
+    "4. The other person submitted to the act because (he/she) believed the person (committing the act/causing the act to be committed) was someone (he/she) knew, other than the defendant;",
+    "AND",
+    "5. The defendant tricked, lied, [used an artifice or pretense,] or concealed information, intending to make the other person believe that (he/she) was someone (he/she) knew, while intending to hide (his/her) own identity.",
+    "*Sexual penetration* means (penetration, however slight, of the genital or anal opening of the other person/[or] causing the other person to penetrate, however slightly, the defendant’s or someone else’s genital or anal opening/[or] causing the other person to penetrate, however slightly, his or her own genital or anal opening) for the purpose of sexual abuse, arousal, or gratification.",
+    "[A *foreign object, substance, instrument, or device* includes any part of the body except a sexual organ.] [An *unknown object* includes any foreign object, substance, instrument, or device, or any part of the body, including a penis, if it is not known what object was used to accomplish the penetration.]",
+    "[Penetration for *sexual abuse* means penetration for the purpose of causing pain, injury, or discomfort.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1046, *Sexual Penetration in Concert*, may be given in conjunction with this instruction if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 289(f)."
+      },
+      {
+        "text": "• Specific Intent Crime. *People v. McCoy* (2013) 215 Cal.App.4th 1510, 1538 [156 Cal.Rptr.3d 382]."
+      },
+      {
+        "text": "• Foreign Object, Substance, Instrument, or Device Defined. Pen. Code, § 289(k)(2); see *People v. Wilcox* (1986) 177 Cal.App.3d 715, 717 [223 Cal.Rptr. 170] [a finger is a “foreign object”]."
+      },
+      {
+        "text": "• Sexual Penetration Defined. Pen. Code, § 289(k)(1); see *People v. Quintana* (2001) 89 Cal.App.4th 1362, 1371 [108 Cal.Rptr.2d 235] [penetration of genital opening refers to penetration of labia majora, not the vagina]."
+      },
+      {
+        "text": "• Unknown Object Defined. Pen. Code, § 289(k)(3)."
+      },
+      {
+        "text": "• Sexual Abuse Defined. *People v. White* (1986) 179 Cal.App.3d 193, 205–206 [224 Cal.Rptr. 467]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Attempted Sexual Penetration by Fraud. Pen. Code, §§ 664, 289(f)."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1045, *Sexual Penetration by Force, Fear, or Threats*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

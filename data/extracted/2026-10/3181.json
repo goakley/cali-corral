@@ -1,0 +1,61 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3181",
+  "title": "Sex Offenses: Sentencing Factors—Multiple Victims (Pen. Code, § 667.61(e)(4))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2267,
+      2267
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2019",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of two or more sex offenses, as charged in Counts ______ <insert counts charging sex offense[s] from Pen. Code, § 667.61(c)>, you must then decide whether the People have proved the additional allegation that those crimes were committed against more than one victim in this case.",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the sentencing factor when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "This sentencing factor must be pleaded, proved, and found true by the trier of fact. (*People v. Mancebo* (2002) 27 Cal.4th 735, 743 [117 Cal.Rptr.2d 550, 41 P.3d 556].) The court may not impose a sentence using this factor unless the jury has specifically made a finding that the factor has been proved, even if the defendant is convicted in the proceeding of qualifying offenses against more than one person. *(Ibid.)*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• One-Strike Sex Offense Statute—Multiple Victims Factor. Pen. Code, § 667.61(e)(4)."
+      },
+      {
+        "text": "• Factors Must Be Pleaded and Proved. Pen. Code, § 667.61(j); *People v. Mancebo* (2002) 27 Cal.4th 735, 743 [117 Cal.Rptr.2d 550, 41 P.3d 556].)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "“Present Case or Cases”"
+      },
+      {
+        "text": "This sentencing factor applies when the “offenses are prosecuted ‘in the present case or cases.’ ” (*People v. Stewart* (2004) 119 Cal.App.4th 163, 171 [14 Cal.Rptr.3d 353].) There is no requirement that the offenses be committed on the same date or in the course of the same transaction, so long as the offenses are tried together. (*Id.* at p. 172.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

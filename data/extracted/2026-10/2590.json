@@ -1,0 +1,95 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2590",
+  "title": "Armed Criminal Action (Pen. Code, § 25800)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1837,
+      1838
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with carrying a loaded firearm with intent to commit a felony [in violation of Penal Code section 25800].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant carried a firearm;",
+    "2. The defendant knew that (he/she) was carrying the firearm;",
+    "3. When the defendant carried the firearm, (he/she) intended to commit ______ <insert felony alleged>;",
+    "[AND]",
+    "4. The firearm was loaded(;/.)",
+    "<See Commentary regarding element 5.>",
+    "[AND",
+    "5. The defendant knew that the firearm was loaded.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is expelled or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[The term *firearm* is defined in another instruction.]",
+    "As used here, a firearm is *loaded* if the firearm and ammunition capable of being discharged from the firearm are in the immediate possession of the same person.",
+    "<See Commentary regarding this paragraph.>",
+    "[A firearm does not need to be in working order if it was designed to shoot and appears capable of shooting.]",
+    "<See Commentary regarding this paragraph.>",
+    "[A person *carries* a firearm when he or she has the firearm on his or her person or has it available for use in either offense or defense.]",
+    "To decide whether the defendant intended to commit ______ <insert felony alleged>, please refer to the separate instructions that I (will give/have given) you on that crime."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court should give the bracketed definition of “firearm” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 25800."
+      },
+      {
+        "text": "• Firearm Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• Loaded Defined. Pen. Code, § 16840."
+      },
+      {
+        "text": "• Knowledge of Presence of Weapon Required. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "There are no published cases on this statute. Thus, it is unclear whether the firearm must be operable or whether the defendant must know the firearm is “loaded.” It is also unclear whether the statute requires that the defendant carry the firearm on his or her person or whether it is sufficient if the defendant “has the firearm available.” (See *People v. Wandick* (1991) 227 Cal.App.3d 918, 928 [278 Cal.Rptr. 274] [discussing meaning of “armed” in Pen. Code, § 12022(a)].) The instruction has been drafted to provide the court options on these issues. If these issues are present in the case, the court must decide whether to give bracketed element 5 and which of the bracketed paragraphs are appropriate."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

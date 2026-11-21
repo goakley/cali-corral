@@ -1,0 +1,153 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1151",
+  "title": "Pandering (Pen. Code, § 266i)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      998,
+      1001
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2012, August 2012, February 2015, April 2020, March 2021",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with pandering [in violation of Penal Code section 266i].",
+    "To prove that the defendant is guilty of pandering, the People must prove that:",
+    "<Alternative 1A—persuaded/procured>",
+    "[1. The defendant successfully (persuaded/procured) ______ <insert name> to become a prostitute(;/.)]",
+    "<Alternative 1B—promises/threats/violence used to cause person to become prostitute>",
+    "[1. The defendant used (promises[,]/threats[,]/violence[,]/[or] any device or scheme) to (cause/persuade/encourage/induce) ______ <insert name> to become a prostitute[, although the defendant’s efforts need not have been successful](;/.)]",
+    "<Alternative 1C—arranged/procured a position>",
+    "[1. The defendant (arranged/procured a position) for ______ <insert name> to be a prostitute in either a house of prostitution or any other place where prostitution is encouraged or allowed(;/.)]",
+    "<Alternative 1D—promises/threats/violence used to cause person to remain>",
+    "[1. The defendant used (promises[,]/threats[,]/violence[,]/[or] any device or scheme) to (cause/persuade/encourage/induce) ______ <insert name> to remain as a prostitute in a house of prostitution or any other place where prostitution is encouraged or allowed(;/.)]",
+    "<Alternative 1E—used fraud>",
+    "[1. The defendant used fraud, trickery, or duress [or abused a position of confidence or authority] to (persuade/procure) ______ <insert name> to (be a prostitute/enter any place where prostitution is encouraged or allowed/enter or leave California for the purpose of prostitution)(;/.)]",
+    "<Alternative 1F—received money>",
+    "[1. The defendant (received/gave/agreed to receive/agreed to give) money or something of value in exchange for (persuading/attempting to persuade/procuring/attempting to procure) ______ <insert name> to (be a prostitute/enter or leave California for the purpose of prostitution)(;/.)]",
+    "AND",
+    "2. The defendant intended to influence ______ <insert name> to be a prostitute(;/.)",
+    "<Give element 3 when defendant charged with pandering a minor.>",
+    "[AND",
+    "3. ______ <insert name> was (16 years old or older/under the age of 16) at the time the defendant acted.]",
+    "[It does not matter whether ______ <insert name> was (a prostitute already/[or] an undercover police officer).]",
+    "A *prostitute* is a person who engages in sexual intercourse or any lewd act with another person in exchange for money [or other compensation]. [Pandering requires that an intended act of prostitution be with someone other than the defendant.] A *lewd act* means physical contact of the genitals, buttocks, or female breast of either the prostitute or customer with some part of the other person’s body for the purpose of sexual arousal or gratification.",
+    "[*Duress* means a direct or implied threat of force, violence, danger, hardship, or retribution that would cause a reasonable person to do [or submit to] something that he or she would not do [or submit to] otherwise. When deciding whether the act was accomplished by duress, consider all the circumstances, including the person’s age and (her/his) relationship to the defendant.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 1, give the appropriate alternative A–F depending on the evidence in the case. (See *People v. Montgomery* (1941) 47 Cal.App.2d 1, 12, 24, 27–28 [117 P.2d 437] [statutory alternatives are not mutually exclusive], disapproved on other grounds in *People v. Dillon* (1983) 34 Cal.3d 441, 454 fn. 2 [194 Cal.Rptr. 390, 668 P.2d 697] and *Murgia v. Municipal Court* (1975) 15 Cal.3d 286, 301 fn. 11 [124 Cal.Rtpr. 204, 540 P.2d 44].)"
+      },
+      {
+        "text": "The committee included “persuade” and “arrange” as options in element one because the statutory language, “procure,” may be difficult for jurors to understand."
+      },
+      {
+        "text": "Give bracketed element 3 if it is alleged that the person procured, or otherwise caused to act, by the defendant was a minor “over” or “under” the age of 16 years. (Pen. Code, § 266i(b).)"
+      },
+      {
+        "text": "Give the bracketed paragraph defining duress on request if there is sufficient evidence that duress was used to procure a person for prostitution. (Pen. Code, § 266i(a)(5); see *People v. Leal* (2004) 33 Cal.4th 999, 1004–1010 [16 Cal.Rptr.3d 869, 94 P.3d 1071] [definition of “duress”].)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "text": "There is a split of authority on whether pandering requires that services be procured for a person other than the defendant. (*People v. Dixon* (2011) 191 Cal.App.4th 1154, 1159–1160 [119 Cal.Rptr.3d 901] [third person required]; *People v. Jacobo* (2019) 37 Cal.App.5th 32, 47 [249 Cal.Rptr.3d 236] [no third person required].) If the court concludes that Penal Code section 266i(a)(2) requires a third person, give the bracketed sentence that begins with “Pandering requires.”"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If necessary for the jury’s understanding of the case, the court must instruct sua sponte on a defense theory in evidence, for example, that nude modeling does not constitute an act of prostitution and that an act of procuring a person solely for the purpose of nude modeling does not violate either the pimping or pandering statute. (*People v. Hill* (1980) 103 Cal.App.3d 525, 536–537 [163 Cal.Rptr. 99].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 266i."
+      },
+      {
+        "text": "• Prostitution Defined. Pen. Code, § 647(b); *People v. Hill* (1980) 103 Cal.App.3d 525, 534–535 [163 Cal.Rptr. 99]; *People v. Romo* (1962) 200 Cal.App.2d 83, 90–91 [19 Cal.Rptr. 179]; *Wooten v. Superior Court* (2001) 93 Cal.App.4th 422, 431–433 [113 Cal.Rptr.2d 195] [lewd act requires touching between prostitute and customer]."
+      },
+      {
+        "text": "• Procurement Defined. *People v. Montgomery* (1941) 47 Cal.App.2d 1, 12 [117 P.2d 437], disapproved on other grounds in *People v. Dillon* (1983) 34 Cal.3d 441, 454 fn. 2 [194 Cal.Rptr. 390, 668 P.2d 697] and *Murgia v. Municipal Court* (1975) 15 Cal.3d 286, 301 fn. 11 [124 Cal.Rtpr. 204, 540 P.2d 44]."
+      },
+      {
+        "text": "• Proof of Actual Prostitution Not Required. *People v. Osuna* (1967) 251 Cal.App.2d 528, 531–532 [59 Cal.Rptr. 559]."
+      },
+      {
+        "text": "• Duress Defined. *People v. Leal* (2004) 33 Cal.4th 999, 1004–1010 [16 Cal.Rptr.3d 869, 94 P.3d 1071]; *People v. Pitmon* (1985) 170 Cal.App.3d 38, 50 [216 Cal.Rptr. 221]; *People v. Cochran* (2002) 103 Cal.App.4th 8, 13–14 [126 Cal.Rptr.2d 416]."
+      },
+      {
+        "text": "• Good Faith Belief That Minor Is 18 No Defense to Pimping and Pandering. *People v. Branch* (2010) 184 Cal.App.4th 516, 521–522 [109 Cal.Rptr.3d 412]."
+      },
+      {
+        "text": "• Specific Intent Crime. *People v. Zambia* (2011) 51 Cal.4th 965, 980 [127 Cal.Rptr.3d 662, 254 P.3d 965]."
+      },
+      {
+        "text": "• Victim May [Appear to] Be a Prostitute Already. *People v. Zambia* (2011) 51 Cal.4th 965, 981 [127 Cal.Rptr.3d 662, 254 P.3d 965]."
+      },
+      {
+        "text": "• Encouraging Person to Become Prostitute Need Not Be Successful. *People v. Zambia* (2011) 51 Cal.4th 965, 980 [127 Cal.Rptr.3d 662, 254 P.3d 965]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Campbell* (2020) 51 Cal.App.5th 463, 495–496 [265 Cal.Rptr.3d 136]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Pandering. Pen. Code, §§ 664, 266i; *People v. Charles* (1963) 218 Cal.App.2d 812, 819 [32 Cal.Rptr. 653]; *People v. Benenato* (1946) 77 Cal.App.2d 350, 366–367 [175 P.2d 296], disapproved on other grounds in *In re Wright* (1967) 65 Cal.2d 650, 654–655, fn. 3 [56 Cal.Rptr. 110, 422 P.2d 998]."
+      },
+      {
+        "text": "There is no crime of aiding and abetting prostitution. (*People v. Gibson* (2001) 90 Cal.App.4th 371, 385 [108 Cal.Rptr.2d 809].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See Related Issues section to CALCRIM No. 1150, *Pimping*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

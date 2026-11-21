@@ -1,0 +1,87 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2763",
+  "title": "Escape After Remand or Arrest: Force or Violence (Pen. Code, § 836.6)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2024,
+      2026
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of (escape/[or] attempted escape) following (remand/arrest), you must then decide whether the People have proved the additional allegation that the defendant used force or violence and caused serious bodily injury to a peace officer.",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant committed the (escape/[or] attempted escape) by force or violence;",
+    "AND",
+    "2. The defendant caused serious bodily injury to a peace officer.",
+    "As used here, *using force or violence* means the wrongful application of physical force against the person of another. To *use force* against a person means to touch the other person in a harmful or offensive manner.",
+    "[The People must prove that the defendant personally used force or violence or aided and abetted another in using force or violence. Mere knowledge that someone else used force or violence is not enough. Instruction[s] ______ <insert instruction numbers; see Bench Notes> explain[s] when a person aids and abets another.]",
+    "A *serious bodily injury* means a serious impairment of physical condition. Such an injury may include[, but is not limited to]: (loss of consciousness/concussion/bone fracture/protracted loss or impairment of function of any bodily member or organ/a wound requiring extensive suturing/[and] serious disfigurement).",
+    "[An act causes bodily injury to another person if the injury is the direct, natural, and probable consequence of the act and the injury would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.]",
+    "[There may be more than one cause of injury. An act causes bodily injury to another person only if it is a substantial factor in causing the injury. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the injury.]",
+    "A sworn member of ______ <insert name of agency that employs peace officer>, authorized by ______ <insert appropriate section from Pen. Code, § 830 et seq.> to ______ <describe statutory authority>, is a *peace officer*.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant used force or violence and caused serious bodily injury to a peace officer. If the People have not met this burden, you must find that this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the sentencing factor."
+      },
+      {
+        "text": "This instruction must be given with CALCRIM No. 2762, *Escape After Remand or Arrest*. The court must provide the jury with a verdict form on which the jury will indicate if the prosecution has or has not been proved the additional allegation of the use of force."
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of injury, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of injury, the court should also give the “substantial factor” instruction in the second bracketed paragraph on causation. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “The People must prove that the defendant personally” if this is an issue in the case. (*People v. Moretto* (1994) 21 Cal.App.4th 1269, 1278 [26 Cal.Rptr.2d 719].) Give also CALCRIM No. 400, *Aiding and Abetting: General Principles*, and CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*."
+      },
+      {
+        "text": "The jury must determine whether the person who arrested the defendant is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the person was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 836.6."
+      },
+      {
+        "text": "• Force or Violence Defined. *People v. Lozano* (1987) 192 Cal.App.3d 618, 627 [237 Cal.Rptr. 612]; *People v. Bravot* (1986) 183 Cal.App.3d 93, 97 [227 Cal.Rptr. 810]."
+      },
+      {
+        "text": "• Defendant Must Personally Use Force or Aid and Abet Another. *People v. Moretto* (1994) 21 Cal.App.4th 1269, 1278 [26 Cal.Rptr.2d 719]."
+      },
+      {
+        "text": "• Serious Bodily Injury Defined. Pen. Code, § 243(f)(4); *People v. Taylor* (2004) 118 Cal.App.4th 11, 25, fn. 4 [12 Cal.Rptr.3d 693]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

@@ -1,0 +1,111 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2690",
+  "title": "Disturbing the Peace: Offensive Words (Pen. Code, §§ 415(3), 415.5(a)(3))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1957,
+      1959
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with disturbing the peace [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant used offensive words that were inherently likely to provoke an immediate violent reaction;",
+    "[AND]",
+    "2. When the defendant used those words, (he/she) was (in a public place/in a building or on the grounds of ______ <insert description of school from Pen. Code, § 415.5>)(;/.)",
+    "<Give element 3 when instructing on Pen. Code, § 415.5(f).>",
+    "[AND",
+    "3. The defendant was not (a registered student of the school/[or] a person engaged in lawful employee-related activity).]",
+    "A person *uses offensive words inherently likely to provoke an immediate violent reaction* if:",
+    "1. He or she says something that is reasonably likely to provoke someone else to react violently;",
+    "AND",
+    "2. When he or she makes that statement, there is a clear and present danger that the other person will immediately erupt into violence.",
+    "In deciding whether the People have proved both of these factors, consider all the circumstances in which the statement was made and the person to whom the statement was addressed.",
+    "The People do not have to prove that the defendant intended to provoke a violent response.",
+    "<Defense: Good Faith Belief Language Not Likely to Provoke>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that the language (he/she) used was not inherently likely to provoke an immediate violent reaction. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe this to be true. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. Give this instruction if the defendant is charged with violating Penal Code section 415(3) or section 415.5(a)(3)."
+      },
+      {
+        "text": "If the defendant is charged under Penal Code section 415.5(a)(3), select “within a building or on the grounds of” in element 2 and insert the type of school from the statute. If there is sufficient evidence that the exemption in Penal Code section 415.5(f) applies, the court has a sua sponte duty to give bracketed element 3."
+      },
+      {
+        "text": "If the defendant is charged under Penal Code section 415(3), select “in a public place” in element 2. Do not give bracketed element 3."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence to support the defense that the defendant reasonably believed that his or her words would not provoke, the court has a sua sponte duty to give the instruction on that defense. (See *In re John V.* (1985) 167 Cal.App.3d 761, 770 [213 Cal.Rptr. 503] [recognizing defense].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 415(3), 415.5(a)(3)."
+      },
+      {
+        "text": "• Must Be Clear and Present Danger of Immediate Violence. *Cohen v. California* (1971) 403 U.S. 15, 17 [91 S.Ct. 1780, 29 L.Ed.2d 284]; *In re Brown* (1973) 9 Cal.3d 612, 618 [108 Cal.Rptr. 465, 510 P.2d 1017]."
+      },
+      {
+        "text": "• Statement Must Be Uttered in Provocative Manner. *Jefferson v. Superior Court* (1975) 51 Cal.App.3d 721, 724–725 [124 Cal.Rptr. 507]*; In re John V.* (1985) 167 Cal.App.3d 761, 767–768 [213 Cal.Rptr. 503]; *In re Alejandro G.* (1995) 37 Cal.App.4th 44, 47–50 [43 Cal.Rptr.2d 471]."
+      },
+      {
+        "text": "• Context Must Be Considered. *Jefferson v. Superior Court* (1975) 51 Cal.App.3d 721, 724–725 [124 Cal.Rptr. 507]*; In re John V.* (1985) 167 Cal.App.3d 761, 767–768 [213 Cal.Rptr. 503]; *In re Alejandro G.* (1995) 37 Cal.App.4th 44, 47–50 [43 Cal.Rptr.2d 471]."
+      },
+      {
+        "text": "• Intention to Cause Violence Not Required. *Cantwell v. Connecticut* (1940) 310 U.S. 296, 309 [60 S.Ct. 900, 84 L.Ed. 1213]."
+      },
+      {
+        "text": "• Good Faith Defense. *In re John V.* (1985) 167 Cal.App.3d 761, 770 [213 Cal.Rptr. 503]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Statement Made to Police Officer"
+      },
+      {
+        "text": "“In determining whether section 415 subdivision (3) was violated, courts must consider the totality of the circumstances, including the status of the addressee. That the addressee was a police officer trained and obliged to exercise a higher degree of restraint than the average citizen is merely one factor to be considered along with the other circumstances.” (*In re Alejandro G.* (1995) 37 Cal.App.4th 44, 47–50 [43 Cal.Rptr.2d 471]; see also *People v. Callahan* (1985) 168 Cal.App.3d 631, 635 [214 Cal.Rptr. 294] [evidence showed officer “was neither offended . . . nor provoked”].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

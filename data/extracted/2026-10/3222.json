@@ -1,0 +1,103 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3222",
+  "title": "Characteristics of Victim (Pen. Code, §§ 667.9(a) & (b), 667.10(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2291,
+      2292
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]][ or the lesser crimes[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant committed that crime against a person who was (65 years of age or older/under the age of 14 years/blind/deaf/developmentally disabled/paraplegic/[or] quadriplegic). [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation, the People must prove that:",
+    "1. At the time of the crime, ______ <insert name of alleged victim> was (65 years of age or older/under the age of 14 years/blind/deaf/developmentally disabled/paraplegic/[or] quadriplegic);",
+    "AND",
+    "2. At that time, the defendant knew or reasonably should have known that ______ <insert name of alleged victim> was (65 years of age or older/under the age of 14 years/blind/deaf/developmentally disabled/paraplegic/[or] quadriplegic).",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[*Developmentally disabled* means a severe, chronic disability of a person that:",
+    "1. Is attributable to a mental or physical impairment or a combination of mental and physical impairments;",
+    "2. Is likely to continue indefinitely;",
+    "AND",
+    "3. Results in substantial functional limitation in three or more of the following abilities:",
+    "a. To care for one’s self;",
+    "b. To understand and express language;",
+    "c. To learn;",
+    "d. To be independently mobile;",
+    "e. To engage in self-direction;",
+    "f. To live independently;",
+    "OR",
+    "g. To be economically self-sufficient.]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    35.0,
+    34.3,
+    35.7,
+    34.3,
+    35.7,
+    37.0,
+    16.0,
+    35.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the enhancement when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "If the defendant is charged with a prior conviction under Penal Code section 667.9(b) or 667.10, the court must also give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, unless the defendant has stipulated to the prior or the court has granted a bifurcated trial on the prior conviction."
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "text": "Give the bracketed definition of developmental disability if that enhancement is charged."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancements. Pen. Code, §§ 667.9(a) & (b), 667.10(a)."
+      },
+      {
+        "text": "• Developmental Disability Defined. Pen. Code, § 667.9(d)."
+      },
+      {
+        "text": "• Reasonably Should Have Known Not Unconstitutionally Vague. *People v. Smith* (1993) 13 Cal.App.4th 1182, 1188–1190 [16 Cal.Rptr.2d 820]."
+      },
+      {
+        "text": "• Prior Conviction Not Required for Enhancement Under Penal Code Section 667.9(a). *People v. Huricks* (1995) 32 Cal.App.4th 1201, 1213 [38 Cal.Rptr.2d 592]."
+      },
+      {
+        "text": "• Proof of Knowledge Requirement. *People v. Morris* (2010) 185 Cal.App.4th 1147, 1153–1154 [111 Cal.Rptr.3d 204]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

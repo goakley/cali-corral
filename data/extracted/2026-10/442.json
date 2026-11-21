@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "442",
+  "title": "Solicitation of a Minor (Pen. Code, § 653j)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      277,
+      279
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with soliciting a minor to commit a crime [in violation of Penal Code section 653j].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant voluntarily (asked/[or] encouraged /[or] induced/[or] intimidated) a minor to commit the crime of ______ <insert target offense>;",
+    "2. (He/She) intended that the minor commit the crime of ______ <insert target offense>;",
+    "[AND]",
+    "3. At the time of the offense, the defendant was at least 18 years old(;/.)",
+    "[AND]",
+    "<Alternative 4—defendant five years older>",
+    "[4. At the time of the offense, the minor was 16 or 17 years old, and the defendant was at least 5 years older than the minor(;/.)]",
+    "<Give element 5 when instructing that person solicited must receive message; see Bench Notes.>",
+    "[AND",
+    "5. The minor received the communication containing the request.]",
+    "To decide whether the defendant intended that the minor commit ______ <insert target offense>, please refer to the separate instructions that I (will give/have given) you on that crime.",
+    "A *minor* is a person under the age of 18.",
+    "[If you find the defendant guilty of solicitation, you must decide how many crimes (he/she) solicited. When deciding this question, consider the following factors:",
+    "1. Were the crimes solicited part of a plan with a single objective or motive or did each crime solicited have a different objective or motive?",
+    "2. Were the crimes solicited to be committed at the same time?",
+    "3. Were the crimes solicited to be committed in the same place?",
+    "4. Were the crimes solicited to be committed in the same way?",
+    "5. Was the payment, if any, for the crimes solicited one amount or were different amounts solicited for each crime?",
+    "Consider all of these factors when deciding whether the defendant’s alleged acts were a single crime or ______ <insert number of solicitations alleged by the People> separate crimes of solicitation.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the minor is 16 or 17 years old, the jury must find that the defendant is at least 5 years older and the court must instruct sua sponte on element 3A. (Pen. Code, § 653j(a).) Give element 3B if element 3A does not apply."
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the target offense. (See *People v. Baskins* (1946) 72 Cal.App.2d 728, 732 [165 P.2d 510].) Give all relevant instructions on the target crime alleged. Penal Code section 653j lists those offenses that may be the target of a solicitation of a minor. If the crime is solicitation to commit murder, do not instruct on implied malice murder. (*People v. Bottger* (1983) 142 Cal.App.3d 974, 980–981 [191 Cal.Rptr. 408].)"
+      },
+      {
+        "text": "One court has held that the person solicited must actually receive the solicitous communication. (*People v. Saephanh* (2000) 80 Cal.App.4th 451, 458–459 [94 Cal.Rptr.2d 910].) In *Saephanh*, the defendant mailed a letter from prison containing a solicitation to harm the fetus of his girlfriend. (*Id.* at p. 453.) The letter was intercepted by prison authorities and, thus, never received by the intended person. *(Ibid.)* If there is an issue over whether the intended person actually received the communication, give bracketed element 4."
+      },
+      {
+        "text": "Authority is divided on whether the judge or jury is to determine the number of solicitations if multiple crimes were solicited by the defendant. The bracketed portion at the end of the instruction should be given if multiple solicitations have been charged and the trial court determines that this is a question for the jury. (Compare *People v. Davis* (1989) 211 Cal.App.3d 317, 322–323 [259 Cal.Rptr. 348] with *People v. Morocco* (1987) 191 Cal.App.3d 1449, 1454 [237 Cal.Rptr. 113].) If the court decides to present this issue to the jury, multiple target offenses must be inserted in elements 1 and 2, and the paragraph immediately following the elements."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 653j."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 441, *Solicitation: Elements*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

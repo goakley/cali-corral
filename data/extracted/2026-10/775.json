@@ -1,0 +1,89 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "775",
+  "title": "Death Penalty: Intellectual Disability (Pen. Code, § 1376)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      596,
+      598
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2021",
+  "revision_legend": null,
+  "body": [
+    "I will now instruct you on the law that applies to this [phase of the] case.",
+    "[You must disregard all the instructions I gave you earlier and decide this phase of the trial applying only the instructions that I am giving you now. Some of these instructions will be the same or similar to instructions you have heard before. However, you must follow only this new set of instructions in this phase of the trial.]",
+    "You must decide whether the defendant is intellectually disabled.",
+    "In order to establish that (he/she) is intellectually disabled, the defendant must prove by a preponderance of the evidence that:",
+    "1. (His/Her) general intellectual functioning is significantly below average;",
+    "2. (He/She) also has deficits in two or more areas of adaptive behavior;",
+    "AND",
+    "3. These conditions were observable before the defendant reached the end of the developmental period.",
+    "*Adaptive behavior* is the set of learned skills that people generally need to function in their everyday lives. Those skill areas include communication, self-care, home-living, social/interpersonal skills, use of community resources, self-direction, functional academic skills, work, leisure, health and safety.",
+    "*Proof by a preponderance of the evidence* is a different standard than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that (he/she) is intellectually disabled. If the defendant has not met this burden, you must find that (he/she) has not proved that (he/she) is intellectually disabled. In order to return a finding that the defendant is or is not intellectually disabled, you must all agree on that finding."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on general concepts of law. (*People v. Babbitt* (1988) 45 Cal.3d 660, 718 [248 Cal.Rptr. 69, 755 P.2d 253].) In the context of penalty phase instructions, the Supreme Court has stated that the trial court must clarify for the jury which instructions apply to the penalty phase. (*People v. Babbitt, supra,* 45 Cal.3d at p. 718, fn. 26; *People v. Weaver* (2001) 26 Cal.4th 876, 982 [111 Cal.Rptr.2d 2, 29 P.3d 103], cert. den. sub nom. *Weaver v. California* (2002) 535 U.S. 1058 [122 S.Ct. 1920, 152 L.Ed.2d 828].) In order to avoid confusion, the Supreme Court has indicated that the preferable practice is for the court to provide the jury with a completely new set of instructions. (*People v. Weaver, supra,* 26 Cal.4th at p. 982.) The committee recommends this approach in the intellectual disability phase as well."
+      },
+      {
+        "text": "When the defendant in a capital trial raises the issue of intellectual disability, the jury must decide the question unless the defendant has waived a jury on the issue. (Pen. Code, § 1376(b)(1).) The hearing on intellectual disability shall be conducted after the guilt phase and prior to the penalty phase. *(Ibid.)* If the defendant has entered a plea of not guilty by insanity, the hearing on intellectual disability shall be conducted after the sanity phase. (Pen. Code, § 1376(e).) The defense bears the burden of proving intellectual disability by a preponderance of the evidence. (Pen. Code, § 1376(b)(2).)"
+      },
+      {
+        "text": "The court must also give any necessary instructions on witnesses and evidence, such as CALCRIM No. 222, *Evidence*, CALCRIM No. 226, *Witnesses*, and CALCRIM No. 332, *Expert Witness*. The court must conclude with CALCRIM No. 3550, *Pre-Deliberation Instructions*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Hearing on Intellectual Disability in Death Penalty Case. Pen. Code, § 1376."
+      },
+      {
+        "text": "• Execution of Intellectually Disabled Unconstitutional. *Atkins v. Virginia* (2002) 536 U.S. 304, 319–321 [122 S.Ct. 2242, 153 L.Ed.2d 335]."
+      },
+      {
+        "text": "• Intellectual Disability Defined. Pen. Code, § 1376(a)."
+      },
+      {
+        "text": "• Weight of IQ Tests in Assessing Intellectual Disability. *Hall v. Florida* (2014) 572 U.S. 701, 722–723 [134 S.Ct. 1986, 188 L.Ed.2d 1007]; *In re Hawthorne* (2005) 35 Cal.4th 40, 48–49 [24 Cal.Rptr.3d 189, 105 P.3d 552]."
+      },
+      {
+        "text": "• Should Give Jury New Set of Instructions (Penalty Phase). *People v. Weaver* (2001) 26 Cal.4th 876, 982 [111 Cal.Rptr.2d 2, 29 P.3d 103], cert. den. sub nom. *Weaver v. California* (2002) 535 U.S. 1058 [122 S.Ct. 1920, 152 L.Ed.2d 828]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Scope of Expert Testing"
+      },
+      {
+        "text": "When the defendant places at issue the question of whether he or she is intellectually disabled, the defendant must submit to examination by a prosecution expert. (*Centeno v. Superior Court* (2004) 117 Cal.App.4th 30, 40 [11 Cal.Rptr.3d 533].) “However, those examinations are permissible only to the extent they are reasonably related to the determination of the existence of the mental condition raised . . . . [On] a defense objection to specific proposed prosecution tests, the trial court must make a threshold determination that the tests bear some reasonable relation to measuring mental retardation, including factors that might confound or explain the testing, such as malingering . . . . The trial court must prohibit any tests it concludes are not reasonably related to determining mental retardation.” (*Id.* at p. 45.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 130
+  },
+  "warnings": []
+}

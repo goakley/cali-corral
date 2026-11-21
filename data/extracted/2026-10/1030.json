@@ -1,0 +1,207 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1030",
+  "title": "Sodomy by Force, Fear, or Threats (Pen. Code, § 286(c)(2) & (3), (k))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      850,
+      854
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, February 2012, October 2021, March 2022, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sodomy by force [in violation of Penal Code section 286].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed an act of sodomy with another person;",
+    "2. The other person did not consent to the act;",
+    "AND",
+    "3. The defendant accomplished the act:",
+    "<Alternative 3A—force or fear>",
+    "[by force, violence, duress, menace, or fear of immediate and unlawful bodily injury to another person.]",
+    "<Alternative 3B—future threats of bodily harm>",
+    "[by threatening to retaliate against someone when there was a reasonable possibility that the defendant would carry out the threat. A *threat to retaliate* is a threat to kidnap, unlawfully restrain or confine, or inflict extreme pain, serious bodily injury, or death.]",
+    "<Alternative 3C—threat of official action>",
+    "[by threatening to use the authority of a public office to incarcerate, arrest, or deport someone. A *public official* is a person employed by a government agency who has authority to incarcerate, arrest, or deport. The other person must have reasonably believed that the defendant was a public official even if (he/she) was not.]",
+    "*Sodomy* is any penetration, no matter how slight, of the anus of one person by the penis of another person. [Ejaculation is not required.]",
+    "[To *consent,* a person must know the nature of the act or transaction involved, act freely and voluntarily, and positively cooperate by act or attitude.]",
+    "[Evidence that the defendant and the other person (dated/were married/had been married) is not enough by itself to constitute consent.]",
+    "[Evidence that the other person (requested/suggested/communicated) that the defendant use a condom or other birth control device is not enough by itself to constitute consent.]",
+    "[An act is *accomplished by force* if a person uses enough physical force to overcome the other person’s will.]",
+    "[*Duress* means a direct or implied threat of force, violence, danger, hardship, or retribution that causes a reasonable person to do [or submit to] something that he or she would not otherwise do [or submit to]. When deciding whether the act was accomplished by duress, consider all the circumstances, including the age of the other person and (his/her) relationship to the defendant.]",
+    "[*Retribution* is a form of payback or revenge.]",
+    "[*Menace* means a threat, statement, or act showing an intent to injure someone.]",
+    "[An act is *accomplished by fear* if the other person is actually and reasonably afraid [or he or she is actually but unreasonably afraid and the defendant knows of his or her fear and takes advantage of it].]",
+    "[The other person must be alive at the time of the act for the crime of sodomy to occur.]",
+    "<Defense: Reasonable Belief in Consent>",
+    "[The defendant is not guilty of forcible sodomy if (he/she) actually and reasonably believed that the other person consented to the act. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the other person consented. If the People have not met this burden, you must find the defendant not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of sodomy. (Pen. Code, § 286(c)(2), (3), (k); *People v. Martinez* (1986) 188 Cal.App.3d 19, 24–26 [232 Cal.Rptr. 736]; *People v. Moore* (1989) 211 Cal.App.3d 1400, 1407 [260 Cal.Rptr. 134].)"
+      },
+      {
+        "text": "The court should select the appropriate alternative in element 3 to instruct how the sodomy was accomplished."
+      },
+      {
+        "text": "Sodomy requires that the victim be alive at the moment of the act. (*People v. Ramirez* (1990) 50 Cal.3d 1158, 1175–1177 [270 Cal.Rptr. 286, 791 P.2d 965]; If this is an issue in the case, give the bracketed sentence that begins with “The other person must be alive . . .”"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of reasonable belief in consent if there is “substantial evidence of equivocal conduct that would have led a defendant to reasonably and in good faith believe consent existed where it did not.” (See *People v. Williams* (1992) 4 Cal.4th 354, 362 [14 Cal.Rptr.2d 441, 841 P.2d 961]; *People v. Mayberry* (1975) 15 Cal.3d 143, 153–158 [125 Cal.Rptr. 745, 542 P.2d 1337].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 3185, *Sex Offenses: Sentencing Factor—Using Force or Fear Against Minor Under 14 Years/14 Years or Older*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 286(c)(2), (3), (k)."
+      },
+      {
+        "text": "• “Consent” Defined. Pen. Code, §§ 261.6, 261.7."
+      },
+      {
+        "text": "• “Duress” Defined. *People v. Guenther* (2024) 104 Cal.App.5th 483, 513–521 [324 Cal.Rptr.3d 765]; *People v. Leal* (2004) 33 Cal.4th 999, 1004–1010 [16 Cal.Rptr.3d 869, 94 P.3d 1071]; *People v. Pitmon* (1985) 170 Cal.App.3d 38, 50 [216 Cal.Rptr. 221]."
+      },
+      {
+        "text": "• “Menace” Defined. Pen. Code, § 261(c) [in context of rape]."
+      },
+      {
+        "text": "• “Sodomy” Defined. Pen. Code, § 286(a); see *People v. Singh* (1923) 62 Cal.App. 450, 452 [217 P. 121] [ejaculation is not required]."
+      },
+      {
+        "text": "• “Threatening to Retaliate” Defined. Pen. Code, § 286(*l*)."
+      },
+      {
+        "text": "• “Fear” Defined. *People v. Reyes* (1984) 153 Cal.App.3d 803, 810 [200 Cal.Rptr. 651]; *People v. Iniguez* (1994) 7 Cal.4th 847, 856 [30 Cal.Rptr.2d 258, 872 P.2d 1183] [in context of rape]."
+      },
+      {
+        "text": "• “Force” Defined. *People v. Griffin* (2004) 33 Cal.4th 1015, 1023–1024 [16 Cal.Rptr.3d 891, 94 P.3d 1089]; see also *People v. Guido* (2005) 125 Cal.App.4th 566, 574 [22 Cal.Rptr.3d 826]."
+      },
+      {
+        "text": "• Duress Caused by Threats of Retribution. *People v. Guenther, supra*, 104 Cal.App.5th at pp. 516–521 [324 Cal.Rptr.3d 765]."
+      },
+      {
+        "text": "• Prior Version of This Instruction Upheld. *People v. Guenther, supra*, 104 Cal.App.5th at p. 521."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Penal Code section 286 requires that the sodomy be “against the will” of the other person. (Pen. Code, § 286(c)(2), (3), (k).) “Against the will” has been defined as “without consent.” (*People v. Key* (1984) 153 Cal.App.3d 888, 895 [203 Cal.Rptr. 144] [in context of rape]; see also *People v. Young* (1987) 190 Cal.App.3d 248, 257 [235 Cal.Rptr. 361].)"
+      },
+      {
+        "text": "The instruction includes a definition of the sufficiency of “fear” because that term has meaning in the context of forcible sodomy that is technical and may not be readily apparent to jurors. (See *People v. Reyes, supra*, 153 Cal.App.3d at p. 810 [fear]; *People v. Iniguez, supra*, 7 Cal.4th at pp. 856–857 [fear in context of rape].)"
+      },
+      {
+        "text": "The court is not required to instruct sua sponte on the definition of “duress” or “menace” and Penal Code section 286 does not define either term. (*People v. Pitmon, supra*, 170 Cal.App.3d at p. 52 [duress].) Optional definitions are provided for the court to use at its discretion. The definition of “duress” is based on *People v. Leal, supra*, 33 Cal.4th at pp. 1004–1010, and *People v. Pitmon*, *supra*, 170 Cal.App.3d at p. 50. The definition of “menace” is based on the statutory definition contained in Penal Code section 261 (rape). (See *People v. Cochran* (2002) 103 Cal.App.4th 8, 13–14 [126 Cal.Rptr.2d 416] [using rape definition in case involving forcible lewd acts].) In *People v. Leal, supra,* 33 Cal.4th at pp. 1004–1010, the court held that the statutory definition of “duress” contained in Penal Code sections 261 and former 262 does not apply to the use of that term in any other statute. The court did not discuss the statutory definition of “menace.” The court should consider the *Leal* opinion before giving the definition of “menace.”"
+      },
+      {
+        "text": "The term “force” as used in the forcible sex offense statutes does not have a specialized meaning and court is not required to define the term sua sponte. (*People v. Griffin, supra*, 33 Cal.4th at pp. 1023–1024.) In *People v. Griffin, supra,* the Supreme Court further stated,"
+      },
+      {
+        "text": "Nor is there anything in the common usage definitions of the term “force,” or in the express statutory language of section 261 itself, that suggests force in a forcible rape prosecution actually means force “*substantially* different from or *substantially* greater than” the physical force normally inherent in an act of consensual sexual intercourse. (*People v. Cicero* (1984) 157 Cal.App.3d 465, 474 [204 Cal.Rptr. 582].) To the contrary, it has long been recognized that “in order to establish force within the meaning of section 261, [former] subdivision (2), the prosecution need only show the defendant used physical force of a degree sufficient to support a finding that the act of sexual intercourse was against the will of the [victim].” (*People v. Young, supra*, 190 Cal.App.3d at pp. 257–258.)"
+      },
+      {
+        "text": "(*Ibid.* [emphasis in original]; see also *People v. Guido* (2005) 125 Cal.App.4th 566, 574 [22 Cal.Rptr.3d 826].)"
+      },
+      {
+        "text": "The committee has provided a bracketed definition of “force,” consistent with *People v. Griffin, supra,* that the court may give on request."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Assault With Intent to Commit Sodomy. Pen. Code, § 220; see *In re Jose M.* (1994) 21 Cal.App.4th 1470, 1477 [27 Cal.Rptr.2d 55] [in context of rape]; *People v. Moran* (1973) 33 Cal.App.3d 724, 730 [109 Cal.Rptr. 287] [where forcible crime is charged]."
+      },
+      {
+        "text": "• Attempted Forcible Sodomy. Pen. Code, §§ 664, 286."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242; *People v. Hughes* (2002) 27 Cal.4th 287, 366 [116 Cal.Rptr.2d 401, 39 P.3d 432]."
+      },
+      {
+        "text": "Non-forcible sex crimes requiring the perpetrator and victim to be within certain age limits are not lesser included offenses of forcible sex crimes. (*People v. Scott* (2000) 83 Cal.App.4th 784, 794 [100 Cal.Rptr.2d 70].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Consent Obtained by Fraudulent Representation"
+      },
+      {
+        "text": "A person may also induce someone else to consent to engage in sodomy by a false or fraudulent representation made with an intent to create fear, and which does induce fear and would cause a reasonable person to act contrary to his or her free will. (Pen. Code, § 266c.) While section 266c requires coercion and fear to obtain consent, it does not involve physical force or violence. (See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 937–938 [26 Cal.Rptr.2d 567] [rejecting defendant’s argument that certain acts were consensual and without physical force, and were only violations of section 266c].)"
+      },
+      {
+        "heading": true,
+        "text": "Consent Withdrawn"
+      },
+      {
+        "text": "A forcible rape occurs when, during apparently consensual intercourse, the victim expresses an objection and attempts to stop the act and the defendant forcibly continues despite the objection. (*In re John Z.* (2003) 29 Cal.4th 756, 760 [128 Cal.Rptr.2d 783, 60 P.3d 183].) If there is an issue whether consent to sodomy was withdrawn, see CALCRIM No. 1000, *Rape by Force, Fear, or Threats*, for language that may be adapted for use in this instruction."
+      },
+      {
+        "heading": true,
+        "text": "Victim Must Be Alive"
+      },
+      {
+        "text": "Sodomy requires that the victim be alive at the moment of penetration. (*People v. Davis* (1995) 10 Cal.4th 463, 521, fn. 20 [41 Cal.Rptr.2d 826, 896 P.2d 119]; *People v. Ramirez* (1990) 50 Cal.3d 1158, 1176 [270 Cal.Rptr. 286, 791 P.2d 965].) Sodomy with a deceased victim can constitute attempted sodomy if the defendant attempted an act of forcible sodomy while the victim was alive or with the mistaken belief that the victim was alive. (*People v. Davis, supra,* 10 Cal.4th at p. 521, fn. 20; *People v. Hart* (1999) 20 Cal.4th 546, 611 [85 Cal.Rptr.2d 132, 976 P.2d 683].)"
+      },
+      {
+        "heading": true,
+        "text": "Penetration May Be Through Victim’s Clothing"
+      },
+      {
+        "text": "If there is penetration into a victim’s anus by a perpetrator’s sexual organ, it is sodomy, even if the victim is wearing clothing at the time. (*People v. Ribera* (2005) 133 Cal.App.4th 81, 85–86 [34 Cal.Rptr.3d 538].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

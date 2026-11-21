@@ -1,0 +1,176 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1820",
+  "title": "Felony Unlawful Taking or Driving of Vehicle (Veh. Code, § 10851(a), (b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1279,
+      1282
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2018, March 2021, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully taking or driving a vehicle [in violation of Vehicle Code section 10851].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative A—taking with intent to deprive>",
+    "[1. The defendant took someone else’s vehicle without the owner’s consent;",
+    "2. When the defendant took the vehicle, (he/she) intended to deprive the owner of possession or ownership of the vehicle for any period of time;",
+    "AND",
+    "3. The vehicle was worth more than $950.]",
+    "[OR]",
+    "<Alternative B—posttheft driving>",
+    "[1. The defendant drove someone else’s vehicle without the owner’s consent;",
+    "2. When the defendant drove the vehicle, (he/she) intended to deprive the owner of possession or ownership of the vehicle for any period of time;",
+    "AND",
+    "3. The driving occurred after a substantial break from the original theft of the vehicle.]",
+    "[Even if you conclude that the owner had allowed the defendant or someone else to take or drive the vehicle before, you may not conclude that the owner consented to the driving or taking on ______ <insert date of alleged crime> based on that previous consent alone.]",
+    "[A *taking* requires that the vehicle be moved for any distance, no matter how small.]",
+    "[A *vehicle* includes a (passenger vehicle/motorcycle/motor scooter/bus/schoolbus/commercial vehicle/truck tractor/[and] trailer/[and] semitrailer/______ <insert other type of vehicle>).]",
+    "<Sentencing Factor: Ambulance, Police Vehicle, Fire Dept. Vehicle>",
+    "[If you find the defendant guilty of unlawfully taking or driving a vehicle, you must then decide whether the People have proved the additional allegation that the defendant took or drove an emergency vehicle on call. To prove this allegation, the People must prove that:",
+    "1. The vehicle was (an ambulance/a distinctively marked law enforcement vehicle/a distinctively marked fire department vehicle);",
+    "2. The vehicle was on an emergency call when it was taken;",
+    "AND",
+    "3. The defendant knew that the vehicle was on an emergency call.",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved.]",
+    "<Sentencing Factor: Modified for Disabled Person>",
+    "[If you find the defendant guilty of unlawfully taking or driving a vehicle, you must then decide whether the People have proved the additional allegation that the defendant took or drove a vehicle modified for a disabled person. To prove this allegation, the People must prove that:",
+    "1. The vehicle was modified for the use of a disabled person;",
+    "2. The vehicle displayed a distinguishing license plate or placard issued to disabled persons;",
+    "AND",
+    "3. The defendant knew or reasonably should have known that the vehicle was so modified and displayed the distinguishing plate or placard.",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    15.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    0.0,
+    15.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges that the vehicle was an emergency vehicle or was modified for a disabled person, the court has a sua sponte duty to instruct on the sentencing factor. (Veh. Code, § 10851(b); see Veh. Code, § 10851(d) [fact issues for jury].)"
+      },
+      {
+        "text": "If the defendant is charged with unlawfully driving or taking an automobile and with receiving the vehicle as stolen property, and there is evidence of only one act or transaction, the trial court has a sua sponte duty to instruct the jury that the defendant cannot be convicted of both stealing the vehicle and receiving a stolen vehicle. (*People v. Black* (1990) 222 Cal.App.3d 523, 525 [271 Cal.Rptr. 771]; *People v. Strong* (1994) 30 Cal.App.4th 366, 376 [35 Cal.Rptr.2d 494].) In such cases, give CALCRIM No. 3516, *Multiple Counts: Alternative Charges for One Event—Dual Conviction Prohibited*."
+      },
+      {
+        "text": "Similarly, a defendant cannot be convicted of grand theft of a vehicle and unlawfully taking the vehicle in the absence of any evidence showing a substantial break between the taking and the use of the vehicle. (*People v. Kehoe* (1949) 33 Cal.2d 711, 715 [204 P.2d 321]; see *People v. Malamut* (1971) 16 Cal.App.3d 237, 242 [93 Cal.Rptr. 782] [finding substantial lapse between theft and driving].) In such cases, give CALCRIM No. 3516, *Multiple Counts: Alternative Charges for One Event—Dual Conviction Prohibited*."
+      },
+      {
+        "text": "The bracketed paragraph that begins with “Even if you conclude that” may be given on request if there is evidence that the owner of the vehicle previously agreed to let the defendant or another person drive or take the vehicle. (Veh. Code, § 10851(c).)"
+      },
+      {
+        "text": "The bracketed sentence defining “taking” may be given on request if there is a question whether a vehicle that was taken was moved any distance. (*People v. White* (1945) 71 Cal.App.2d 524, 525 [162 P.2d 862].)"
+      },
+      {
+        "text": "The definition of “vehicle” may be given on request. (See Veh. Code, § 670 [“vehicle” defined].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 10851(a), (b); *De Mond v. Superior Court* (1962) 57 Cal.2d 340, 344 [19 Cal.Rptr. 313, 368 P.2d 865]."
+      },
+      {
+        "text": "• “Ambulance” Defined. Veh. Code, § 165(a)."
+      },
+      {
+        "text": "• “Owner” Defined. Veh. Code, § 460."
+      },
+      {
+        "text": "• Application to Trolley Coaches. Veh. Code, § 21051."
+      },
+      {
+        "text": "• Expiration of Owner’s Consent to Drive. *People v. Hutchings* (1966) 242 Cal.App.2d 294, 295 [51 Cal.Rptr. 415]."
+      },
+      {
+        "text": "• “Taking” Defined. *People v. White, supra,* 71 Cal.App.2d at p. 525 [any removal, however slight, constitutes taking]; *People v. Frye* (1994) 28 Cal.App.4th 1080, 1088 [34 Cal.Rptr.2d 180] [taking is limited to removing vehicle from owner’s possession]."
+      },
+      {
+        "text": "• Vehicle Value Must Exceed $950 for Felony Taking With Intent to Temporarily or Permanently Deprive. *People v. Bullard* (2020) 9 Cal.5th 94, 109 [260 Cal.Rptr.3d 153, 460 P.3d 262]; *People v. Page* (2017) 3 Cal.5th 1175, 1183–1187 [225 Cal.Rptr.3d 786, 406 P.3d 319]."
+      },
+      {
+        "text": "• Substantial Break Requirement. *People v. Bullard, supra,* 9 Cal.5th at p. 110; *People v. Lara* (2019) 6 Cal.5th 1128, 1137 [245 Cal.Rptr.3d 426, 438 P.3d 251]; *People v. Martell* (2019) 42 Cal.App.5th 225, 234 [255 Cal.Rptr.3d 277]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Unlawful Driving or Taking of Vehicle. Pen. Code, § 664; Veh. Code, § 10851(a), (b)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Other Modes of Transportation"
+      },
+      {
+        "text": "The “joyriding” statute, Penal Code section 499b, now only prohibits the unlawful taking of bicycles, motorboats, or vessels. The unlawful taking or operation of an aircraft is a felony, as prohibited by Penal Code section 499d."
+      },
+      {
+        "heading": true,
+        "text": "Community Property"
+      },
+      {
+        "text": "A spouse who takes a community property vehicle with the intent to temporarily, not permanently, deprive the other spouse of its use is not guilty of violating Vehicle Code section 10851. (*People v. Llamas* (1997) 51 Cal.App.4th 1729, 1739–1740 [60 Cal.Rptr.2d 357].)"
+      },
+      {
+        "heading": true,
+        "text": "Consent Not Vitiated by Fraud"
+      },
+      {
+        "text": "The fact that an owner’s consent was obtained by fraud or misrepresentation does not supply the element of nonconsent. (*People v. Cook* (1964) 228 Cal.App.2d 716, 719 [39 Cal.Rptr. 802].)"
+      },
+      {
+        "heading": true,
+        "text": "Theft-Related Convictions"
+      },
+      {
+        "text": "A person cannot be convicted of taking a vehicle and receiving it as stolen property unless the jury finds that the defendant unlawfully drove the vehicle, as opposed to unlawfully taking it, and there is other evidence that establishes the elements of receiving stolen property. (*People v. Jaramillo* (1976) 16 Cal.3d 752, 757–759 [129 Cal.Rptr. 306, 548 P.2d 706]; *People v. Cratty* (1999) 77 Cal.App.4th 98, 102–103 [91 Cal.Rptr.2d 370]; *People v. Strong, supra,* 30 Cal.App.4th at pp. 372–374.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,88 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1124",
+  "title": "Contacting Minor With Intent to Commit Certain Felonies (Pen. Code, § 288.3(a))",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      54,
+      55
+    ]
+  },
+  "revision_line": "New August 2009; Revised March 2017, September 2020, October 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with (contacting/[or] attempting to contact) a minor with the intent to commit ______ <insert enumerated offense from statute> [in violation of Penal Code section 288.3(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (contacted or communicated with/[or] attempted to contact or communicate with) a minor;",
+    "2. When the defendant did so, (he/she) intended to commit ______ <insert enumerated offense from statute> involving that minor;",
+    "AND",
+    "3. [The defendant knew or reasonably should have known that the person was a minor(;/.)]",
+    "3. [OR]",
+    "3. [The defendant believed that the person was a minor.]",
+    "A *minor* is a person under the age of 18.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "*Contacting or communicating* with a minor includes direct and indirect contact or communication. [That contact or communication may take place personally or by using (an agent or agency/[or] any print medium/[or] any postal service/[or] a common carrier/[or] communication common carrier/[or] any electronic communications system/[or] any telecommunications/[or] wire/[or] computer/[or] radio communications [device or system]).]",
+    "To decide whether the defendant intended to commit ______ <specify sex offense[s] listed in Pen. Code, § 288.3(a)>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to define the elements of the underlying/target sex offense. (See *People v. Hughes* (2002) 27 Cal.4th 287, 349 [116 Cal.Rptr.2d 401, 39 P.3d 432 and *People v. May* (1989) 213 Cal.App.3d 118, 129 [261 Cal.Rptr. 502].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements and Enumerated Offenses. Pen. Code, § 288.3(a)."
+      },
+      {
+        "text": "• Calculating Age. Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391]."
+      },
+      {
+        "text": "• Attempted Contact or Communication Does Not Require Minor Victim. *People v. Korwin* (2019) 36 Cal.App.5th 682, 688 [248 Cal.Rptr.3d 763]."
+      },
+      {
+        "text": "• Specific Intent Required. *People v. Ismaiel* (2025) 116 Cal.App.5th 1221, 1231 [339 Cal.Rptr.3d 914]; *People v. Keister* (2011) 198 Cal.App.4th 442, 449 [129 Cal.Rptr.3d 566]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Attempted oral copulation is not a necessarily included offense of Penal Code section 288.3 under the statutory elements test, because luring can be committed without a direct act. (*People v. Medelez* (2016) 2 Cal.App.5th 659, 663 [206 Cal.Rptr.3d 402].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New August 2009; Revised March 2017, September 2020"
+  },
+  "supplement_status": "revised"
+}

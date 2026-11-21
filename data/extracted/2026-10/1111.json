@@ -1,0 +1,150 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1111",
+  "title": "Lewd or Lascivious Act: By Force or Fear (Pen. Code, § 288(b)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      930,
+      933
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, August 2014, August 2016",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with a lewd or lascivious act by force or fear on a child under the age of 14 years [in violation of Penal Code section 288(b)(1)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—defendant touched child>",
+    "[1A. The defendant willfully touched any part of a child’s body either on the bare skin or through the clothing;]",
+    "[OR]",
+    "<Alternative 1B—child touched defendant>",
+    "[1B. The defendant willfully caused a child to touch (his/her) own body, the defendant’s body, or the body of someone else, either on the bare skin or through the clothing;]",
+    "2. In committing the act, the defendant used force, violence, duress, menace, or fear of immediate and unlawful bodily injury to the child or someone else;",
+    "3. The defendant committed the act with the intent of arousing, appealing to, or gratifying the lust, passions, or sexual desires of (himself/herself) or the child;",
+    "AND",
+    "4. The child was under the age of 14 years at the time of the act.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[Actually arousing, appealing to, or gratifying the lust, passions, or sexual desires of the perpetrator or the child is not required.]",
+    "The *force* used must be substantially different from or substantially greater than the force needed to accomplish the act itself.",
+    "[*Duress* means the use of a direct or implied threat of force, violence, danger, hardship, or retribution sufficient to cause a reasonable person to do [or submit to] something that he or she would not otherwise do [or submit to]. When deciding whether the act was accomplished by duress, consider all the circumstances, including the age of the child and (his/her) relationship to the defendant.]",
+    "[*Retribution* is a form of payback or revenge.]",
+    "[*Menace* means a threat, statement, or act showing an intent to injure someone.]",
+    "[An act is accomplished by *fear* if the child is actually and reasonably afraid [or (he/she) is actually but unreasonably afraid and the defendant knows of (his/her) fear and takes advantage of it].]",
+    "[It is not a defense that the child may have consented to the act.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    18.0,
+    16.0,
+    18.0,
+    18.0,
+    16.0,
+    16.0,
+    16.0,
+    18.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged in a single count with multiple alleged acts, the court has a sua sponte duty to instruct on unanimity. (*People v. Jones* (1990) 51 Cal.3d 294, 321–322 [270 Cal.Rptr. 611, 792 P.2d 643].) The court must determine whether it is appropriate to give the standard unanimity instruction, CALCRIM No. 3500, *Unanimity*, or the modified unanimity instruction, CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*. Review the discussion in the bench notes to these two instructions and *People v. Jones*, *supra*, 51 Cal.3d at pp. 321–322."
+      },
+      {
+        "text": "Give the bracketed sentence that begins, “Actually arousing, appealing to,” on request. (People v. McCurdy (1923) 60 Cal.App. 499, 502 [213 P. 59].)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; In re Harris (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Lack of consent by a minor is not an element of lewd act or lascivious act against a child under 14 in violation of Penal Code section 288, subdivision (b), whether accomplished by force, duress, or otherwise. Likewise, consent by the child is not an affirmative defense to such a charge. (*People v. Soto* (2011) 51 Cal.4th 229, 232 [119 Cal.Rptr.3d 775, 245 P.3d 410].) The bracketed paragraph that begins “It is not a defense that the child” may be given on request if there is evidence of consent."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 288(b)(1)."
+      },
+      {
+        "text": "• Duress Defined. *People v. Soto* (2011) 51 Cal.4th 229, 232 [119 Cal.Rptr.3d 775, 245 P.3d 410]; *People v. Leal* (2004) 33 Cal.4th 999, 1004–1010 [16 Cal.Rptr.3d 869, 94 P.3d 1071]; *People v. Pitmon* (1985) 170 Cal.App.3d 38, 50 [216 Cal.Rptr. 221]; *People v. Cochran* (2002) 103 Cal.App.4th 8, 13–14 [126 Cal.Rptr.2d 416]."
+      },
+      {
+        "text": "• Menace Defined. Pen. Code, § 261(c) [in context of rape]."
+      },
+      {
+        "text": "• Actual Arousal Not Required. *People v. McCurdy* (1923) 60 Cal.App. 499, 502 [213 P. 59]."
+      },
+      {
+        "text": "• Any Touching of Child With Intent to Arouse. *People v. Martinez* (1995) 11 Cal.4th 434, 444, 452 [45 Cal.Rptr.2d 905, 903 P.2d 1037] [disapproving *People v. Wallace* (1992) 11 Cal.App.4th 568, 574–580 [14 Cal.Rptr.2d 67] and its progeny]; see *People v. Diaz* (1996) 41 Cal.App.4th 1424, 1427–1428 [49 Cal.Rptr.2d 252] [list of examples]."
+      },
+      {
+        "text": "• Child Touching Own Body Parts at Defendant’s Instigation. *People v. Meacham* (1984) 152 Cal.App.3d 142, 152–153 [199 Cal.Rptr. 586] [“constructive” touching; approving *Austin* instruction]; *People v. Austin* (1980) 111 Cal.App.3d 110, 114–115 [168 Cal.Rptr. 401]."
+      },
+      {
+        "text": "• Fear Defined. *People v. Cardenas* (1994) 21 Cal.App.4th 927, 939–940 [26 Cal.Rptr.2d 567]; *People v. Iniguez* (1994) 7 Cal.4th 847 [30 Cal.Rptr.2d 258, 872 P.2d 1183] [in context of rape]."
+      },
+      {
+        "text": "• Force Defined. *People v. Cicero* (1984) 157 Cal.App.3d 465, 474 [204 Cal.Rptr. 582]; *People v. Pitmon* (1985) 170 Cal.App.3d 38, 52 [216 Cal.Rptr. 221]; see also *People v. Griffin* (2004) 33 Cal.4th 1015, 1018–1019 [16 Cal.Rptr.3d 891, 94 P.3d 1089] [discussing *Cicero* and *Pitmon*]."
+      },
+      {
+        "text": "• Lewd Defined. *In re Smith* (1972) 7 Cal.3d 362, 365 [102 Cal.Rptr. 335, 497 P.2d 807] [in context of indecent exposure]; see *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256–257, fn. 13 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The instruction includes definitions of “force” and “fear” because those terms have meanings in the context of the crime of lewd acts by force that are technical and may not be readily apparent to jurors. (*People v. Pitmon* (1985) 170 Cal.App.3d 38, 52 [216 Cal.Rptr. 221] [force]; see *People v. Cardenas* (1994) 21 Cal.App.4th 927, 939–940 [26 Cal.Rptr.2d 567] [fear]; *People v. Iniguez* (1994) 7 Cal.4th 847, 856–857 [30 Cal.Rptr.2d 258, 872 P.2d 1183] [fear in context of rape].) The definition of “force” as used in Penal Code section 288(b)(1) is different from the meaning of “force” as used in other sex offense statutes. (*People v. Cicero* (1984) 157 Cal.App.3d 465, 474 [204 Cal.Rptr. 582].) In other sex offense statutes, such as Penal Code section 261 defining rape, “force” does not have a technical meaning and there is no requirement to define the term. (*People v. Griffin* (2004) 33 Cal.4th 1015, 1018–1019 [16 Cal.Rptr.3d 891, 94 P.3d 1089].) In Penal Code section 288(b)(1), on the other hand, “force” means force “*substantially* different from or *substantially* greater than” the physical force normally inherent in the sexual act. (*Id.* at p. 1018 [quoting *People v. Cicero* (1984) 157 Cal.App.3d 465, 474 [204 Cal.Rptr. 582]] [emphasis in *Griffin*].) The court is required to instruct sua sponte in this special definition of “force.” (*People v. Pitmon*, *supra*, 170 Cal.App.3d at p. 52; see also *People v. Griffin*, *supra*, 33 Cal.4th at pp. 1026–1028.)"
+      },
+      {
+        "text": "The court is not required to instruct sua sponte on the definition of “duress” or “menace” and Penal Code section 288 does not define either term. (*People v. Pitmon* (1985) 170 Cal.App.3d 38, 52 [216 Cal.Rptr. 221] [duress]). Optional definitions are provided for the court to use at its discretion. The definition of “duress” is based on *People v. Leal* (2004) 33 Cal.4th 999, 1004–1010 [16 Cal.Rptr.3d 869, 94 P.3d 1071] and *People v. Pitmon* (1985) 170 Cal.App.3d 38, 50 [216 Cal.Rptr. 221]. The definition of “menace” is based on the statutory definitions contained in Penal Code sections 261 and 262 [rape]. (See *People v. Cochran* (2002) 103 Cal.App.4th 8, 13–14 [126 Cal.Rptr.2d 416] [using rape definition in case involving forcible lewd acts].) In *People v. Leal*, *supra*, 33 Cal.4th at p. 1007, the court held that the statutory definition of “duress” contained in Penal Code sections 261 and 262 does not apply to the use of that term in any other statute. The court did not discuss the statutory definition of “menace.” The court should consider the *Leal* opinion before giving the definition of “menace.”"
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Lewd Act by Force With Child Under 14. Pen. Code, §§ 664, 288(b)."
+      },
+      {
+        "text": "• Lewd or Lascivious Act on Child Under 14. Pen. Code, § 288(a)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Evidence of Duress"
+      },
+      {
+        "text": "In looking at the totality of the circumstances to determine if duress was used to commit forcible lewd acts on a child, “relevant factors include threats to harm the victim, physically controlling the victim when the victim attempts to resist, and warnings to the victim that revealing the molestation would result in jeopardizing the family. . . . The fact that the victim testifies the defendant did not use force or threats does not require a finding of no duress; the victim’s testimony must be considered in light of her age and her relationship to the defendant.” (*People v. Cochran*, *supra*, 103 Cal.App.4th at p. 14.)"
+      },
+      {
+        "text": "See the Related Issues section of the Bench Notes for CALCRIM No. 1110, *Lewd or Lascivious Act: Child Under 14 Years*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

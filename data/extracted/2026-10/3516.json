@@ -1,0 +1,146 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3516",
+  "title": "Multiple Counts: Alternative Charges for One Event—Dual Conviction Prohibited",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2455,
+      2457
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, October 2010, April 2011, October 2025*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "<Give this paragraph when the law does not specify which crime must be sustained or dismissed if the defendant is found guilty of both.>",
+    "[The defendant is charged in Count ______ with ______ <insert name of alleged offense> and in Count ______ with ______ <insert name of alleged offense>. These are alternative charges. If you find the defendant guilty of one of these charges, you must find (him/her) not guilty of the other. You cannot find the defendant guilty of both.]",
+    "<Give the following paragraph when the defendant is charged with both theft and receiving stolen property offenses based on the same incident.>",
+    "[The defendant is charged in Count ______ with ______ <insert theft offense> and in Count ______ with ______ <insert receiving stolen property offense>. You must first decide whether the defendant is guilty of ______ <insert name of theft offense>. If you find the defendant guilty of ______ <insert name of theft offense>, you must return the verdict form for ______ <insert name of receiving stolen property offense> unsigned. If you find the defendant not guilty of ______ <insert theft offense> you must then decide whether the defendant is guilty of ______ <insert name of receiving stolen property offense>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction where the defendant is charged in the alternative with multiple counts for a single event. (See *People v. Allen* (1999) 21 Cal.4th 846, 851 [89 Cal.Rptr.2d 279, 984 P.2d 486]; *People v. Jaramillo* (1976) 16 Cal.3d 752, 757 [129 Cal.Rptr. 306, 548 P.2d 706].) This instruction applies only to those cases in which the defendant may be legally convicted of only one of the alternative charges. See dual conviction list in *Related Issues* section below."
+      },
+      {
+        "text": "If the evidence raises the issue whether the same act or single event underlies both a theft conviction and a receiving stolen property conviction, this may be a question for the jury and the instruction should be modified accordingly."
+      },
+      {
+        "text": "If the defendant is charged with both theft and receiving stolen property, and the jury informs the court that it cannot reach a verdict on the theft count, the court may then instruct the jury to consider the receiving stolen property count."
+      },
+      {
+        "text": "If the defendant is charged with multiple counts for separate offenses, give"
+      },
+      {
+        "text": "CALCRIM No. 3515, *Multiple Counts: Separate Offenses*."
+      },
+      {
+        "text": "If the case involves separately charged greater and lesser offenses, the court should give CALCRIM No. 3519."
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if the defendant is charged with specific sexual offenses for the same time period as continuous sexual abuse under Penal Code section 288.5. (*People v. Martinez* (2024) 105 Cal.App.5th 178, 184 [325 Cal.Rptr.3d 700].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Prohibition Against Dual Conviction. *People v. Ortega* (1998) 19 Cal.4th 686, 692 [80 Cal.Rptr.2d 489, 968 P.2d 48]; *People v. Sanchez* (2001) 24 Cal.4th 983, 988 [103 Cal.Rptr.2d 698, 16 P.3d 118]; *People v. Allen, supra,* 21 Cal.4th at p. 851; *People v. Jaramillo, supra,* 16 Cal.3d at p. 757."
+      },
+      {
+        "text": "• Instructional Requirements. See *People v. Allen, supra,* 21 Cal.4th at p. 851; *People v. Jaramillo, supra,* 16 Cal.3d at p. 757."
+      },
+      {
+        "text": "• Conviction of Receiving Stolen Property Not Possible if Defendant Convicted of Theft. *People v. Ceja* (2010) 49 Cal.4th 1, 3–4 [108 Cal.Rptr.3d 568, 229 P.3d 995]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Dual Conviction May Not Be Based on Necessarily Included Offenses"
+      },
+      {
+        "text": "“[T]his court has long held that multiple convictions may *not* be based on necessarily included offenses. The test in this state of a necessarily included offense is simply that where an offense cannot be committed without necessarily committing another offense, the latter is a necessarily included offense.” (*People v. Ortega, supra,* 19 Cal.4th at p. 692 [emphasis in original, citations and internal quotation marks omitted]; see also *People v. Montoya* (2004) 33 Cal.4th 1031, 1034 [16 Cal.Rptr.3d 902, 94 P.3d 1098].) “In deciding whether an offense is necessarily included in another, we apply the elements test, asking whether all the legal ingredients of the corpus delicti of the lesser offense are included in the elements of the greater offense.” (*People v. Montoya, supra,* 33 Cal.4th at p. 1034 [internal quotation marks and citation omitted].)"
+      },
+      {
+        "heading": true,
+        "text": "Dual Conviction—Examples of Offense Where Prohibited or Permitted"
+      },
+      {
+        "text": "The courts have held that dual conviction is *prohibited* for the following offenses:"
+      },
+      {
+        "text": "• Robbery and theft. *People v. Ortega, supra,* 19 Cal.4th at p. 699."
+      },
+      {
+        "text": "• Robbery and receiving stolen property. *People v. Stephens* (1990) 218 Cal.App.3d 575, 586–587 [267 Cal.Rptr. 66]."
+      },
+      {
+        "text": "• Theft and receiving stolen property. *People v. Jaramillo, supra,* 16 Cal.3d at p. 757."
+      },
+      {
+        "text": "• Battery and assault. See *People v. Ortega, supra,* 19 Cal.4th at p. 693."
+      },
+      {
+        "text": "• Forgery and check fraud. *People v. Hawkins* (1961) 196 Cal.App.2d 832, 838 [17 Cal.Rptr. 66]."
+      },
+      {
+        "text": "• Forgery and credit card fraud. *People v. Cobb* (1971) 15 Cal.App.3d 1, 4 [93 Cal.Rptr. 152]."
+      },
+      {
+        "text": "The courts have held that dual conviction is *permitted* for the following offenses (although dual punishment is not):"
+      },
+      {
+        "text": "• Burglary and theft. *People v. Bernal* (1994) 22 Cal.App.4th 1455, 1458 [27 Cal.Rptr.2d 839]."
+      },
+      {
+        "text": "• Burglary and receiving stolen property. *People v. Allen* (1999) 21 Cal.4th 846, 866 [89 Cal.Rptr.2d 279, 984 P.2d 486]."
+      },
+      {
+        "text": "• Carjacking and grand theft. *People v. Ortega, supra,* 19 Cal.4th at p. 693."
+      },
+      {
+        "text": "• Carjacking and robbery. *People v. Ortega, supra,* 19 Cal.4th at p. 700."
+      },
+      {
+        "text": "• Carjacking and unlawful taking of a vehicle. *People v. Montoya, supra,* 33 Cal.4th at p. 1035."
+      },
+      {
+        "text": "• Murder and gross vehicular manslaughter while intoxicated. *People v. Sanchez, supra,* 24 Cal.4th at p. 988."
+      },
+      {
+        "text": "• Murder and child abuse resulting in death. *People v. Malfavon* (2002) 102 Cal.App.4th 727, 743 [125 Cal.Rptr.2d 618]."
+      },
+      {
+        "heading": true,
+        "text": "Joy Riding and Receiving Stolen Property"
+      },
+      {
+        "text": "A defendant cannot be convicted of both joy riding (Veh. Code, § 10851) and receiving stolen property (Pen. Code, § 496), unless the record clearly demonstrates that the joy riding conviction is based exclusively on the theory that the defendant drove the car, temporarily depriving the owner of possession, not on the theory that the defendant stole the car. (*People v. Allen, supra,* 21 Cal.4th at p. 851; *People v. Jaramillo, supra,* 16 Cal.3d at pp. 758–759; *People v. Austell* (1990) 223 Cal.App.3d 1249, 1252 [273 Cal.Rptr. 212].)"
+      },
+      {
+        "heading": true,
+        "text": "Accessory and Principal"
+      },
+      {
+        "text": "In *People v. Prado* (1977) 67 Cal.App.3d 267, 273 [136 Cal.Rptr. 521], and *People v. Francis* (1982) 129 Cal.App.3d 241, 248 [180 Cal.Rptr. 873], the courts held that the defendant could not be convicted as both a principal and as an accessory after the fact for the same offense. However, later opinions have criticized these cases, concluding, “there is no bar to conviction as both principal and accessory where the evidence shows distinct and independent actions supporting each crime.” (*People v. Mouton* (1993) 15 Cal.App.4th 1313, 1324 [19 Cal.Rptr.2d 423]; *People v. Riley* (1993) 20 Cal.App.4th 1808, 1816 [25 Cal.Rptr.2d 676]; see also *People v. Nguyen* (1993) 21 Cal.App.4th 518, 536, fn. 6 [26 Cal.Rptr.2d 323].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

@@ -1,0 +1,187 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "520",
+  "title": "First or Second Degree Murder With Malice Aforethought (Pen. Code, § 187)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      325,
+      329
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2009, October 2010, February 2013, August 2013, September 2017, March 2019, September 2019, March 2021, March 2024, September 2024,* October 2025",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with murder [in violation of Penal Code section 187].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "[1A. The defendant committed an act that caused the death of (another person/[ or] a fetus);]",
+    "[OR]",
+    "[1B. The defendant had a legal duty to (help/care for/protect/rescue/warn/maintain the property of/______ <insert other required action[s]>) ______ <insert description of decedent/person to whom duty is owed> and the defendant failed to perform that duty and that failure caused the death of (another person/[or] a fetus);]",
+    "[AND]",
+    "2. When the defendant (acted/[ or] failed to act), (he/she) had a state of mind called malice aforethought(;/.)",
+    "<Give element 3 when instructing on justifiable or excusable homicide.>",
+    "[AND",
+    "3. (He/She) killed without lawful (excuse/[ or] justification).]",
+    "There are two kinds of malice aforethought, express malice and implied malice. Proof of either is sufficient to establish the state of mind required for murder.",
+    "The defendant had *express malice* if (he/she) unlawfully intended to kill.",
+    "The defendant had *implied malice* if:",
+    "1. (He/She) intentionally (committed the act/[ or] failed to act);",
+    "2. The natural and probable consequences of the (act/[ or] failure to act) were dangerous to human life;",
+    "3. At the time (he/she) (acted/[ or] failed to act), (he/she) knew (his/her) (act/[ or] failure to act) was dangerous to human life;",
+    "AND",
+    "4. (He/She) deliberately (acted/[ or] failed to act) with conscious disregard for (human/[ or] fetal) life.",
+    "Malice aforethought does not require hatred or ill will toward the victim. It is a mental state that must be formed before the act that causes death is committed. It does not require deliberation or the passage of any particular period of time.",
+    "An (act/[ or] failure to act) is *dangerous to human life* if it involved a high degree of probability that it would result in death.",
+    "<Applicable only to driving under the influence cases.>",
+    "[If you find that the defendant drove a motor vehicle while impaired by (alcohol/[ and] drugs), you may consider that as a factor in deciding whether the defendant acted with conscious disregard for (human/[ or] fetal) life.]",
+    "[It is not necessary that the defendant be aware of the existence of a fetus to be guilty of murdering that fetus.]",
+    "[A *fetus* is an unborn human being that has progressed beyond the embryonic stage after major structures have been outlined, which typically occurs at seven to eight weeks after fertilization.]",
+    "[(An act/[or] (A/a) failure to act) causes death if the death is the direct, natural, and probable consequence of the (act/[or] failure to act) and the death would not have happened without the (act/[or] failure to act). A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.]",
+    "[There may be more than one cause of death. (An act/[or] (A/a) failure to act) causes death only if it is a substantial factor in causing the death. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death.]",
+    "[(A/An) ______ <insert description of person owing duty> has a legal duty to (help/care for/rescue/warn/maintain the property of/______ <insert other required action[s]>) ______ <insert description of decedent/person to whom duty is owed>.]",
+    "<Give in parental duty to protect cases.>",
+    "[A parent has a legal duty to protect (his/her) child when the parent knows to a substantial degree of certainty that a life-endangering act has occurred or is about to occur. This duty to protect does not require a parent to place (him/her)self in danger of death or great bodily harm.]",
+    "<Give the following bracketed paragraph if the second degree is the only possible degree of the crime for which the jury may return a verdict.>",
+    "[If you find the defendant guilty of murder, it is murder of the second degree.]",
+    "<Give the following bracketed paragraph if there is substantial evidence of first degree murder.>",
+    "[If you decide that the defendant committed murder, it is murder of the second degree, unless the People have proved beyond a reasonable doubt that it is murder of the first degree as defined in CALCRIM No. ______ <insert number of appropriate first degree murder instruction>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    6.3,
+    16.0,
+    7.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the first two elements of the crime. If there is sufficient evidence of excuse or justification, the court has a sua sponte duty to include the third, bracketed element in the instruction. (*People v. Frye* (1992) 7 Cal.App.4th 1148, 1155–1156 [10 Cal.Rptr.2d 217].) The court also has a sua sponte duty to give any other appropriate defense instructions. (See CALCRIM Nos. 505–627, and CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of death, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of death, the court should also give the “substantial factor” instruction and definition in the second bracketed causation paragraph. (See *People v. Carney* (2023) 14 Cal.5th 1130, 1138–1139 [310 Cal.Rptr.3d 685, 532 P.3d 696]; *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].) If there is an issue regarding a superseding or intervening cause, give the appropriate portion of CALCRIM No. 620, *Causation: Special Issues*."
+      },
+      {
+        "text": "If the prosecution’s theory of the case is that the defendant committed implied malice second degree murder based on driving while impaired by alcohol or drugs, see CALCRIM No. 3426, *Voluntary Intoxication*."
+      },
+      {
+        "text": "If the prosecution’s theory of the case is that the defendant committed murder based on his or her failure to perform a legal duty, the court may give element 1B. In selecting the term to include in element 1B, insert the applicable legal duty or duties. Review the legal duty Bench Notes to CALCRIM No. 582, *Involuntary Manslaughter: Failure to Perform Legal Duty—Murder Not Charged*."
+      },
+      {
+        "text": "If the defendant is charged with first degree murder, give this instruction and CALCRIM No. 521, *First Degree Murder*. If the defendant is charged with second degree murder, no other instruction need be given."
+      },
+      {
+        "text": "If the defendant is also charged with first degree felony murder, instruct on that crime and give CALCRIM No. 548, *Murder: Alternative Theories*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 187."
+      },
+      {
+        "text": "• Malice. Pen. Code, § 188; *People v. Dellinger* (1989) 49 Cal.3d 1212, 1217–1222 [264 Cal.Rptr. 841, 783 P.2d 200]; *People v. Nieto Benitez* (1992) 4 Cal.4th 91, 103–105 [13 Cal.Rptr.2d 864, 840 P.2d 969]; *People v. Blakeley* (2000) 23 Cal.4th 82, 87 [96 Cal.Rptr.2d 451, 999 P.2d 675]."
+      },
+      {
+        "text": "• “Dangerous to Human Life” Defined. *People v. Reyes* (2023) 14 Cal.5th 981, 989 [309 Cal.Rptr.3d 832, 531 P.3d 357]."
+      },
+      {
+        "text": "• Causation. *People v. Carney, supra*, 14 Cal.5th at pp. 1137–1139 [concurrent causation]; *People v. Roberts* (1992) 2 Cal.4th 271, 315–321 [6 Cal.Rptr.2d 276, 826 P.2d 274] [successive causation]."
+      },
+      {
+        "text": "• “Fetus” Defined. *People v. Davis* (1994) 7 Cal.4th 797, 814–815 [30 Cal.Rptr.2d 50, 872 P.2d 591]; *People v. Taylor* (2004) 32 Cal.4th 863, 867 [11 Cal.Rptr.3d 510, 86 P.3d 881]."
+      },
+      {
+        "text": "• Ill Will Not Required for Malice. *People v. Sedeno* (1974) 10 Cal.3d 703, 722 [112 Cal.Rptr. 1, 518 P.2d 913], overruled on other grounds in *People v. Flannel* (1979) 25 Cal.3d 668, 684, fn. 12 [160 Cal.Rptr. 84, 603 P.2d 1]; *People v. Breverman* (1998) 19 Cal.4th 142, 163 [77 Cal.Rptr.2d 870, 960 P.2d 1094]."
+      },
+      {
+        "text": "• Prior Version of This Instruction Upheld. *People v. Genovese* (2008) 168 Cal.App.4th 817, 831 [85 Cal.Rptr.3d 664]."
+      },
+      {
+        "text": "• Parental Duty to Protect. *People v. Collins* (2025) 17 Cal.5th 293, 308–310 [328 Cal.Rptr.3d 641, 561 P.3d 801]."
+      },
+      {
+        "text": "• Implied Malice Murder Based on DUI. *People v. Watson* (1981) 30 Cal.3d 290, 300–301 [179 Cal.Rptr. 43, 637 P.2d 279]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Voluntary Manslaughter. Pen. Code, § 192(a)."
+      },
+      {
+        "text": "• Involuntary Manslaughter. Pen. Code, § 192(b)."
+      },
+      {
+        "text": "• Attempted Murder. Pen. Code, §§ 663, 189."
+      },
+      {
+        "text": "• Sentence Enhancements and Special Circumstances Not Considered in Lesser Included Offense Analysis. *People v. Boswell* (2016) 4 Cal.App.5th 55, 59–60 [208 Cal.Rptr.3d 244]."
+      },
+      {
+        "text": "Gross vehicular manslaughter while intoxicated (Pen. Code, § 191.5(a)) and vehicular manslaughter (Pen. Code, § 192(c)) are not lesser included offenses of murder. (*People v. Sanchez* (2001) 24 Cal.4th 983, 988–992 [103 Cal.Rptr.2d 698, 16 P.3d 118]; *People v. Bettasso* (2020) 49 Cal.App.5th 1050, 1059 [263 Cal.Rptr.3d 563].) Similarly, child abuse homicide (Pen. Code, § 273ab) is not a necessarily included offense of murder. (*People v. Malfavon* (2002) 102 Cal.App.4th 727, 744 [125 Cal.Rptr.2d 618].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Causation—Foreseeability"
+      },
+      {
+        "text": "Authority is divided on whether a causation instruction should include the concept of foreseeability. (See *People v. Autry, supra,* 37 Cal.App.4th at pp. 362–363; *People v. Temple* (1993) 19 Cal.App.4th 1750, 1756 [24 Cal.Rptr.2d 228] [refusing defense-requested instruction on foreseeability in favor of standard causation instruction]; but see *People v. Gardner* (1995) 37 Cal.App.4th 473, 483 [43 Cal.Rptr.2d 603] [suggesting the following language be used in a causation instruction: “[t]he death of another person must be foreseeable in order to be the natural and probable consequence of the defendant’s act”].) It is clear, however, that it is error to instruct a jury that foreseeability is immaterial to causation. (*People v. Roberts, supra,* 2 Cal.4th at p. 315 [error to instruct a jury that when deciding causation it “[w]as immaterial that the defendant could not reasonably have foreseen the harmful result”].)"
+      },
+      {
+        "heading": true,
+        "text": "Second Degree Murder of a Fetus"
+      },
+      {
+        "text": "The defendant does not need to know a woman is pregnant to be convicted of second degree murder of her fetus. (*People v. Taylor, supra*, 32 Cal.4th at p. 868 [“[t]here is no requirement that the defendant specifically know of the existence of each victim”].) “[B]y engaging in the conduct he did, the defendant demonstrated a conscious disregard for all life, fetal or otherwise, and hence is liable for all deaths caused by his conduct.” (*Id.* at p. 870.)"
+      },
+      {
+        "heading": true,
+        "text": "Youth as a Factor for Implied Malice"
+      },
+      {
+        "text": "In *People v. Pittman* (2023) 96 Cal.App.5th 400, 416–418 [314 Cal.Rptr.3d 409], the court considered the role of youth—commonly defined as 25 years of age or younger—in analyzing a resentencing petition under Penal Code section 1172.6 where the defendant was 21 years old at the time of the offense. The court concluded that youth was a relevant factor and remanded the case for the trial court to consider whether the defendant’s youth had impacted his ability to form the requisite mental state for implied malice second degree murder. (*People v. Pittman, supra*, 96 Cal.App.5th at p. 418.) In reaching this conclusion, *Pittman* relied on a series of cases that found youth relevant to reckless indifference determination in the felony murder context. That line of cases can be found in the authority section of No. 540B, *Felony Murder: First Degree—Coparticipant Allegedly Committed Fatal Act*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

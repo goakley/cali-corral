@@ -1,0 +1,107 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2570",
+  "title": "Possession of Destructive Device (Pen. Code, § 18710)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1803,
+      1805
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully possessing a destructive device [in violation of Penal Code section 18710].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant possessed a destructive device;",
+    "2. The defendant knew (he/she) possessed it;",
+    "AND",
+    "3. The defendant knew that what (he/she) possessed was a destructive device.",
+    "[A *destructive device* is ______ <insert definition from Pen. Code, § 16460>.]",
+    "[______ <insert type of destructive device from Pen. Code, § 16460> is a *destructive device*.]",
+    "[The term *destructive device* is defined in another instruction.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The People allege that the defendant possessed the following destructive devices: ______ <insert description of each destructive device when multiple devices alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant possessed at least one of the alleged devices, and you all agree on which alleged device (he/she) possessed.]",
+    "<Defense: Permit>",
+    "[The defendant did not unlawfully possess a destructive device if (he/she) had a valid permit to do so. The People have the burden of proving beyond a reasonable doubt that the defendant did not have a valid permit. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple items, the court has a sua sponte duty to instruct on unanimity. (*People v. Heideman* (1976) 58 Cal.App.3d 321, 333 [130 Cal.Rptr. 349].) Give the bracketed paragraph that begins, “The People allege that the defendant possessed the following destructive devices,” inserting the items alleged."
+      },
+      {
+        "text": "Give the bracketed definition of “destructive device,” inserting the appropriate definition from Penal Code section 16460, unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere. If the case involves a specific device listed in Penal Code section 16460, the court may instead give the bracketed sentence stating that the listed item “is a destructive device.” For example, “A grenade is a destructive device.” However, the court may not instruct the jury that the defendant used a destructive device. For example, the court may not state that “the defendant used a destructive device, a grenade,” or “the device used by the defendant, a grenade, was a destructive device.” (*People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257].)"
+      },
+      {
+        "text": "If the device used is a bomb, the court may insert the word “bomb” in the bracketed definition of destructive device without further definition. (*People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) Appellate courts have held that the term “bomb” is not vague and is understood in its “common, accepted, and popular sense.” (*People v. Quinn* (1976) 57 Cal.App.3d 251, 258 [129 Cal.Rptr. 139]; *People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) If the court wishes to define the term “bomb,” the court may use the following definition: “A bomb is a device carrying an explosive charge fused to blow up or detonate under certain conditions.” (See *People v. Morse* (1992) 2 Cal.App.4th 620, 647, fn. 8 [3 Cal.Rptr.2d 343].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Penal Code section 18900 allows for the possession of a destructive device with a permit. The existence of a valid permit is an affirmative defense. (*People v. Yoshimura* (1979) 91 Cal.App.3d 609, 627–629 [154 Cal.Rptr. 314].) The defendant bears the burden of producing evidence of a valid permit. If there is sufficient evidence to raise a reasonable doubt about the existence of a permit, the court has a sua sponte duty to give the bracketed instruction on the defense. (See *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067] [discussing affirmative defenses generally and the burden of proof].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 18710."
+      },
+      {
+        "text": "• Destructive Device Defined. Pen. Code, § 16460."
+      },
+      {
+        "text": "• Permit Exemption. Pen. Code, § 18900; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 627–628 [154 Cal.Rptr. 314]."
+      },
+      {
+        "text": "• Knowledge. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]; *In re Jorge M.* (2000) 23 Cal.4th 866, 887 [98 Cal.Rptr.2d 466, 4 P.3d 297]; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 629 [154 Cal.Rptr. 314]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. See *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6 [98 Cal.Rptr.2d 466, 4 P.3d 297]; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 619 [154 Cal.Rptr. 314]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Tracer Ammunition"
+      },
+      {
+        "text": "Penal Code section 16460(a)(1) states that “destructive device” includes “that which is commonly known as tracer or incendiary ammunition, except tracer ammunition manufactured for use in shotguns.” In *People v. Miller* (1999) 69 Cal.App.4th 190, 213 [81 Cal.Rptr.2d 410], the court held that “proof of the purpose for which tracer ammunition was manufactured is an affirmative defense to the charge of possessing a destructive device, and not an element of the offense.”"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

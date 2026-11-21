@@ -1,0 +1,116 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "720",
+  "title": "Special Circumstances: Financial Gain (Pen. Code, § 190.2(a)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      519,
+      521
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder for financial gain [in violation of Penal Code section 190.2(a)(1)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The defendant intended to kill;",
+    "[AND]",
+    "2. The killing was carried out for financial gain(;/.)",
+    "<Give element 3 only if robbery-murder also charged; see Bench Notes.>",
+    "[AND",
+    "3. (The defendant/______ <insert name or description of principal if not defendant>) expected the financial gain to result from the death of ______ <insert name of decedent>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "The third element should only be given when the defendant is also charged with a robbery-murder special circumstance. (*People v. Bigelow* (1984) 37 Cal.3d 731, 751 [209 Cal.Rptr. 328, 691 P.2d 994]; *People v. Howard* (1988) 44 Cal.3d 375, 409 [243 Cal.Rptr. 842, 749 P.2d 279].) When both are charged, there is a risk that the jury will read the financial gain circumstance broadly, causing it to overlap with the robbery-murder special circumstance. (*People v. Bigelow, supra,* 37 Cal.3d at p. 751.) In such cases, the financial gain special circumstance is subject to “a limiting construction under which . . . [it] applies only when the victim’s death is the consideration for, or an essential prerequisite to, the financial gain sought by the defendant.” *(Ibid.)*"
+      },
+      {
+        "text": "The third element should not be given if the robbery-murder special circumstance is not charged. (*People v. Howard* (1988) 44 Cal.3d 375, 410 [243 Cal.Rptr. 842, 749 P.2d 279].) “*Bigelow’s* formulation should be applied when it is important to serve the purposes underlying that decision, but . . . it is not intended to restrict construction of ‘for financial gain’ when overlap is *not* a concern.” (*Ibid.* [emphasis in original].) In such cases, the unadorned language of the statute is sufficiently clear for the jury to understand. (*Id.* at pp. 408–409; *People v. Noguera* (1992) 4 Cal.4th 599, 635–637 [15 Cal.Rptr.2d 400, 842 P.2d 1160].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(1)."
+      },
+      {
+        "text": "• Cannot Overlap With Robbery Murder. *People v. Bigelow* (1984) 37 Cal.3d 731, 751 [209 Cal.Rptr. 328, 691 P.2d 994]; *People v. Montiel* (1985) 39 Cal.3d 910, 927 [218 Cal.Rptr. 572, 705 P.2d 1248]."
+      },
+      {
+        "text": "• Language of Statute Sufficient If No Robbery-Murder Charge. *People v. Howard* (1988) 44 Cal.3d 375, 410 [243 Cal.Rtpr. 842, 749 P.2d 279]; *People v. Noguera* (1992) 4 Cal.4th 599, 635–637 [15 Cal.Rptr.2d 400, 842 P.2d 1160]."
+      },
+      {
+        "text": "• Expectation of Financial Benefit. *People v. Howard* (1988) 44 Cal.3d 375, 409 [243 Cal.Rptr. 842, 749 P.2d 279]; *People v. Edelbacher* (1989) 47 Cal.3d 983, 1025 [254 Cal.Rptr. 586, 766 P.2d 1]; *People v. Noguera* (1992) 4 Cal.4th 599, 636 [15 Cal.Rptr.2d 400, 842 P.2d 1160]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Financial Gain Need Not Be Primary or Sole Motive"
+      },
+      {
+        "text": "“[T]he relevant inquiry is whether the defendant committed the murder in the expectation that he would thereby obtain the desired financial gain.” (*People v. Howard* (1988) 44 Cal.3d 375, 409 [243 Cal.Rptr. 842, 749 P.2d 279]; *People v. Noguera* (1992) 4 Cal.4th 599, 636 [15 Cal.Rptr.2d 400, 842 P.2d 1160].) Financial gain does not have to be “a ‘dominant,’ ‘substantial,’ or ‘significant’ motive.” (*People v. Noguera, supra,* 4 Cal.4th at pp. 635–636 [special circumstance applied where defendant both wanted to kill wife in order to be with another woman and to inherit her estate]; *People v. Michaels* (2002) 28 Cal.4th 486, 519 [122 Cal.Rptr.2d 285, 49 P.3d 1032] [applied where defendant wanted to protect friend from abuse by victim and help friend get proceeds of insurance policy].)"
+      },
+      {
+        "heading": true,
+        "text": "Need Not Actually Receive Financial Gain"
+      },
+      {
+        "text": "“Proof of actual pecuniary benefit to the defendant from the victim’s death is neither necessary nor sufficient to establish the financial-gain special circumstance.” (*People v. Edelbacher* (1989) 47 Cal.3d 983, 1025–1026 [254 Cal.Rptr. 586, 766 P.2d 1] [financial gain element satisfied where defendant believed death would relieve him of debt to victim even though legally not true]; *People v. Noguera* (1992) 4 Cal.4th 599, 636 [15 Cal.Rptr.2d 400, 842 P.2d 1160]; *People v. Michaels* (2002) 28 Cal.4th 486, 519 [122 Cal.Rptr.2d 285, 49 P.3d 1032] [satisfied even though insurance company refused to pay].)"
+      },
+      {
+        "heading": true,
+        "text": "Defendant May Act for Another to Receive Financial Gain"
+      },
+      {
+        "text": "“Defendant’s other proffered instructions were similarly flawed. His second alternative would not have embraced the prospect that the killing was committed with the expectation that *another* would benefit financially . . . .” (*People v.*"
+      },
+      {
+        "text": "*Howard* (1988) 44 Cal.3d 375, 409, fn. 9 [243 Cal.Rptr. 842, 749 P.2d 279] [emphasis in original]; see also *People v. Michaels* (2002) 28 Cal.4th 486, 519 [122 Cal.Rptr.2d 285, 49 P.3d 1032] [defendant killed for friend to receive insurance proceeds].)"
+      },
+      {
+        "heading": true,
+        "text": "Financial Gain Need Not Be Cash"
+      },
+      {
+        "text": "“[A] murder for the purpose of avoiding a debt is a murder for financial gain . . . .” (*People v. Edelbacher* (1989) 47 Cal.3d 983, 1025 [254 Cal.Rptr. 586, 766 P.2d 1] [avoidance of child support payments]; see also *People v. Silberman* (1989) 212 Cal.App.3d 1099, 1114–1115 [261 Cal.Rptr. 45] [prevent discovery of embezzlement].) “A murder for purposes of eliminating a business competitor is a murder for financial gain . . . .” (*People v. McLead* (1990) 225 Cal.App.3d 906, 918 [276 Cal.Rptr. 187] [elimination of rival drug dealer].) “[I]t makes little difference whether the coin of the bargain is money or something else of value: the vice of the agreement is the same, the calculated hiring of another to commit premeditated murder.” (*People v. Padilla* (1995) 11 Cal.4th 891, 933 [47 Cal.Rptr.2d 426, 906 P.2d 388] [payment in drugs sufficient].)"
+      },
+      {
+        "heading": true,
+        "text": "Murder for Hire: Hirer Need Not Receive Financial Gain"
+      },
+      {
+        "text": "[W]hen a person commits murder for hire, the one who did the hiring is guilty of the financial gain special circumstance only as an *accomplice*. (See, e.g., *People v. Bigelow, supra*, 37 Cal.3d at p. 750, fn. 11 [construing the 1978 law].) Moreover, in this case, before defendant could be found subject to the financial gain special circumstance as an accomplice, the jury was required to find that defendant had the intent to kill. (See *People v. Anderson* (1987) 43 Cal.3d 1104, 1142 [240 Cal.Rptr. 585, 742 P.2d 1306] [“. . . section 190.2(b) lays down a special rule for a certain class of first degree murderers: if the defendant is guilty as an aider and abettor, he must be proved to have acted with intent to kill before any special circumstance (with the exception of a prior murder conviction) can be found true.”].)"
+      },
+      {
+        "text": "(*People v. Padilla* (1995) 11 Cal.4th 891, 933 [47 Cal.Rptr.2d 426, 906 P.2d 388] [emphasis in original]; see also *People v. Bigelow* (1984) 37 Cal.3d 731, 751, fn. 11 [209 Cal.Rptr. 328, 691 P.2d 994]; *People v. Freeman* (1987) 193 Cal.App.3d 337, 339 [238 Cal.Rptr. 257].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

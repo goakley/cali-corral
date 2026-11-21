@@ -1,0 +1,144 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3517",
+  "title": "Deliberations and Completion of Verdict Forms: For Use When Lesser Included Offenses and Greater Crimes Are Not Separately Charged and the Jury Receives Guilty and Not Guilty Verdict Forms for Greater and Lesser Offenses (Non-Homicide)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2458,
+      2462
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007, February 2012, August 2012, February 2015, March 2024",
+  "revision_legend": null,
+  "body": [
+    "If all of you find that the defendant is not guilty of a greater charged crime, you may find (him/her) guilty of a lesser crime if you are convinced beyond a reasonable doubt that the defendant is guilty of that lesser crime. A defendant may not be convicted of both a greater and lesser crime for the same conduct.",
+    "[Now I will explain to you the crimes affected by this instruction [including lesser crimes of the lesser crimes]:]",
+    "[______ <insert crime> is a lesser crime of ______ <insert crime> [charged in Count ______.]]",
+    "[______ <insert crime> is a lesser crime of ______ <insert crime> [charged in Count ______.]]",
+    "[______ <insert crime> is a lesser crime of ______ <insert crime> [charged in Count ______.]]",
+    "It is up to you to decide the order in which you consider the greater and lesser crimes and the relevant evidence. You do not have to reach a verdict on the greater crime before considering a lesser crime. However, I can accept a verdict of guilty of a lesser crime only if you have found the defendant not guilty of the corresponding greater crime.",
+    "<Give the following paragraphs if the jury has separate guilty and not guilty forms for both greater and lesser offenses pursuant to Stone v. Superior Court.>",
+    "[[For (the/any) count in which a greater and lesser crime is charged,] (Y/y)ou will receive verdict forms of guilty and not guilty for the greater crime and also verdict forms of guilty and not guilty for the lesser crime. Follow these directions before you give me any completed and signed, final verdict form. Return any unused verdict forms to me, unsigned.",
+    "1. If all of you agree the People have proved that the defendant is guilty of the greater crime, complete and sign the verdict form for guilty of that crime. Do not complete or sign any other verdict form [for that count].",
+    "2. If all of you cannot agree whether the People have proved that the defendant is guilty of the greater crime, inform me only that you cannot reach an agreement and do not complete or sign any verdict form [for that count].",
+    "3. If all of you agree that the People have not proved that the defendant is guilty of the greater crime and you also agree that the People have proved that (he/she) is guilty of the lesser crime, complete and sign the verdict form for not guilty of the greater crime and the verdict form for guilty of the lesser crime.",
+    "4. If all of you agree the People have not proved that the defendant is guilty of the greater or lesser crime, complete and sign the verdict form for not guilty of the greater crime and the verdict form for not guilty of the lesser crime.",
+    "5. If all of you agree the People have not proved that the defendant is guilty of the greater crime, but all of you cannot agree on a verdict for the lesser crime, complete and sign the verdict form for not guilty of the greater crime and inform me only that you cannot reach an agreement about the lesser crime.]",
+    "<Give the following paragraphs if the jury has a combined verdict form for both greater and lesser offenses.>",
+    "[[For (the/any) charge with a lesser crime,] (Y/y)ou will receive a form for indicating your verdict on both the greater crime and the lesser crime. The greater crime is listed first. When you have reached a verdict, have the foreperson complete the form, sign, and date it. Follow these directions before writing anything on the form.",
+    "1. If all of you agree that the People have proved that the defendant is guilty of the greater crime as charged, (write “guilty” in the blank/circle the word “guilty”/check the box for “guilty”) for that crime, then sign, date, and return the form. Do not (write/circle/check) anything for the lesser crime.",
+    "2. If all of you cannot agree whether the People have proved that the defendant is guilty of the greater crime as charged, inform me only that you cannot reach an agreement and do not write anything on the verdict form.",
+    "3. If all of you agree that the People have not proved that the defendant is guilty of the greater crime and you also agree that the People have proved that (he/she) is guilty of the lesser crime, (write “not guilty” in the blank/circle the words “not guilty”/check the box for “not guilty”) for the greater crime and (write “guilty” in the blank/circle the word “guilty”/check the box for “guilty”) for the lesser crime. You must not (write/circle/check) anything for the lesser crime unless you have (written/circled/checked) “not guilty” for the greater crime.",
+    "4. If all of you agree that the People have not proved that the defendant is guilty of either the greater or the lesser crime, (write “not guilty” in the blank/circle the words “not guilty”/check the box for “not guilty”) for both the greater crime and the lesser crime.",
+    "5. If all of you agree that the People have not proved that the defendant is guilty of the greater crime, but all of you cannot agree on a verdict for the lesser crime, (write “not guilty” in the blank/circle the words “not guilty”/check the box for “not guilty”) for the greater crime, then sign, date, and return the form. Do not (write/circle/check) anything for the lesser crime, and inform me only that you cannot reach an agreement about that crime.]",
+    "Whenever I tell you the People must prove something, I mean they must prove it beyond a reasonable doubt [unless I specifically tell you otherwise]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If lesser included crimes are not charged separately and the jury receives only one verdict form for each count, the court should use CALCRIM No. 3518 instead of this instruction. For separately charged greater and lesser included offenses, use CALCRIM No. 3519."
+      },
+      {
+        "text": "In all cases in which one or more lesser included offenses are submitted to the jury, whether charged or not, the court has a sua sponte duty to instruct on the applicable procedures. (*People v. Breverman* (1998) 19 Cal.4th 142, 162 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [duty to instruct on lesser included offenses]; *People v. Dewberry* (1959) 51 Cal.2d 548, 555–557 [334 P.2d 852] [duty to instruct that if jury has reasonable doubt of greater offense, must acquit of that charge]; *People v. Fields* (1996) 13 Cal.4th 289, 309–310 [52 Cal.Rptr.2d 282, 914 P.2d 832] [duty to instruct that jury cannot convict of a lesser included offense unless it has concluded that defendant is not guilty of the greater offense]; *Stone v. Superior Court* (1982) 31 Cal.3d 503, 519 [183 Cal.Rptr. 647, 646 P.2d 809] [duty to give jury opportunity to render a verdict of partial acquittal on a greater offense], clarified in *People v. Marshall* (1996) 13 Cal.4th 799, 826 [55 Cal.Rptr.2d 347, 919 P.2d 1280] [no duty to inquire about partial acquittal in absence of indication jury may have found defendant not guilty of greater offense].)"
+      },
+      {
+        "text": "In *Stone v. Superior Court, supra,* 31 Cal.3d at p. 519, the Supreme Court suggested that the trial court provide the jury with verdict forms of guilty/not guilty on each of the charged and lesser included offenses. The court later referred to this “as a judicially declared rule of criminal procedure.” (*People v. Kurtzman* (1988) 46 Cal.3d 322, 328 [250 Cal.Rptr. 244, 758 P.2d 572].) However, this is not a mandatory procedure. *(Ibid.)* If the court chooses not to follow the procedure suggested in *Stone*, the court may give CALCRIM No. 3518 in place of this instruction."
+      },
+      {
+        "text": "Do not give this instruction for charges of murder or manslaughter; instead give the appropriate homicide instruction for lesser included offenses: CALCRIM No. 640, *Deliberations and Completion of Verdict Forms: For Use When Defendant is Charged With First Degree Murder and Jury Is Given Not Guilty Forms for Each Level of Homicide*, CALCRIM No. 641, *Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With First Degree Murder and Jury Is Given Only One Not Guilty Verdict Form for Each Count; Not to Be Used When Both Voluntary and Involuntary Manslaughter Are Lesser Included Offenses*, CALCRIM No. 642, *Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With Second Degree Murder and Jury Is Given Not Guilty Forms for Each Level of Homicide*, or CALCRIM No. 643, *Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With Second Degree Murder and Jury Is Given Only One Not Guilty Verdict Form for Each Count; Not to Be Used When Both Voluntary and Involuntary Manslaughter Are Lesser Included Offenses*."
+      },
+      {
+        "text": "The court should tell the jury it may not return a guilty verdict on a lesser included offense unless it has found the defendant not guilty of the greater offense. (*People v. Fields, supra*, 13 Cal.4th at pp. 310–311.) If the jury announces that it is deadlocked on the greater offense but, despite the court’s instructions, has returned a guilty verdict on the lesser included offense, the court should again instruct the jury that it may not convict of the lesser included offense unless it has found the defendant not guilty of the greater offense. *(Ibid.)* The court should direct the jury to reconsider the “lone verdict of conviction of the lesser included offense” in light of this instruction. (*Ibid.*; Pen. Code, § 1161.) If the jury is deadlocked on the greater offense but the court nevertheless records a guilty verdict on the lesser included offense and then discharges the jury, retrial on the greater offense will be barred. (*People v. Fields, supra,* 13 Cal.4th at p. 307; Pen. Code, § 1023.)"
+      },
+      {
+        "text": "The court may not control the sequence in which the jury considers the offenses. (*People v. Kurtzman, supra,* 46 Cal.3d at p. 330.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Lesser Included Offenses—Duty to Instruct. Pen. Code, § 1159; *People v. Breverman, supra,* 19 Cal.4th at p. 162."
+      },
+      {
+        "text": "• Lesser Included Offenses—Standard. *People v. Birks* (1998) 19 Cal.4th 108, 117 [77 Cal.Rptr.2d 848, 960 P.2d 1073]."
+      },
+      {
+        "text": "• Reasonable Doubt as to Degree or Level of Offense. Pen. Code, § 1097; *People v. Dewberry* (1959) 51 Cal.2d 548, 555–557 [334 P.2d 852]."
+      },
+      {
+        "text": "• Conviction of Lesser Precludes Retrial on Greater. Pen. Code, § 1023; *People v. Fields, supra,* 13 Cal.4th at pp. 309–310; *People v. Kurtzman, supra,* 46 Cal.3d at p. 329."
+      },
+      {
+        "text": "• Court May Ask Jury to Reconsider Conviction on Lesser If Jury Deadlocked on Greater. Pen. Code, § 1161; *People v. Fields, supra,* 13 Cal.4th at p. 310."
+      },
+      {
+        "text": "• Must Permit Partial Verdict of Acquittal on Greater. *People v. Marshall* (1996) 13 Cal.4th 799, 826 [55 Cal.Rptr.2d 347, 919 P.2d 1280]; *Stone v. Superior Court* (1982) 31 Cal.3d 503, 519 [183 Cal.Rptr. 647, 646 P.2d 809]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Duty to Instruct on Lesser"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct “on lesser included offenses when the evidence raises a question as to whether all of the elements of the charged offense were present [citation] but not when there is no evidence that the offense was less than that charged. [Citations.] The obligation to instruct on lesser included offenses exists even when as a matter of trial tactics a defendant not only fails to request the instruction but expressly objects to its being given. [Citations.] Just as the People have no legitimate interest in obtaining a conviction of a greater offense than that established by the evidence, a defendant has no right to an acquittal when that evidence is sufficient to establish a lesser included offense. [Citations.]” (*People v. Breverman, supra,* 19 Cal.4th at pp. 154–155.)"
+      },
+      {
+        "heading": true,
+        "text": "Acquittal of Greater Does Not Bar Retrial of Lesser"
+      },
+      {
+        "text": "Where the jury acquits of a greater offense but deadlocks on the lesser, retrial of the lesser is not barred. (*People v. Smith* (1983) 33 Cal.3d 596, 602 [189 Cal.Rptr. 862, 659 P.2d 1152].)"
+      },
+      {
+        "heading": true,
+        "text": "Lesser Included Offenses Barred by Statute of Limitations"
+      },
+      {
+        "text": "The defendant may waive the statute of limitations to obtain a jury instruction on a lesser offense that would otherwise be time-barred. (*Cowan v. Superior Court* (1996) 14 Cal.4th 367, 373 [58 Cal.Rptr.2d 458, 926 P.2d 438].) However, the court has no sua sponte duty to instruct on a lesser that is time-barred. (*People v. Diedrich* (1982) 31 Cal.3d 263, 283 [182 Cal.Rptr. 354, 643 P.2d 971].) If the court instructs on an uncharged lesser offense that is time-barred without obtaining an explicit waiver from the defendant, it is unclear if the defendant must object at that time in order to raise the issue on appeal or if the defendant may raise the issue for the first time on appeal. (See *People v. Stanfill* (1999) 76 Cal.App.4th 1137, 1145–1151 [90 Cal.Rptr.2d 885] [reasoning criticized in *People v. Smith* (2002) 98 Cal.App.4th 1182, 1193–1194 [120 Cal.Rptr.2d 185]].) The better practice is to obtain an explicit waiver on the statute of limitations when instructing on a time-barred lesser."
+      },
+      {
+        "heading": true,
+        "text": "Conviction of Greater and Lesser"
+      },
+      {
+        "text": "The defendant cannot be convicted of a greater and a lesser included offense. (*People v. Moran* (1970) 1 Cal.3d 755, 763 [83 Cal.Rptr. 411, 463 P.2d 763].) If the evidence supports the conviction on the greater offense, the conviction on the lesser included offense should be set aside. *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

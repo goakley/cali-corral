@@ -1,0 +1,90 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "723",
+  "title": "Special Circumstances: Murder to Prevent Arrest or Complete Escape (Pen. Code, § 190.2(a)(5))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      527,
+      528
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder (to prevent arrest/[or] to escape from custody) [in violation of Penal Code section 190.2(a)(5)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. [The murder was committed to avoid or prevent a lawful arrest(./;)]",
+    "[OR",
+    "2.] [The murder was committed while completing or attempting to complete an escape from lawful custody.]",
+    "<A. Lawful Arrest>",
+    "[In order for a killing to be committed for the purpose of avoiding or preventing a lawful arrest, a lawful arrest must be [or appear to be] imminent.]",
+    "[Instruction 2670 explains when an officer is lawfully arresting someone.]",
+    "<B. Escape From Custody>",
+    "[A killing is committed *while completing or attempting to complete escape* from lawful custody if a person is killed during the escape itself or while the prisoner[s] (is/are) fleeing from the scene.",
+    "A killing is not committed *while completing or attempting to complete escape* if the prisoner[s] (has/have) actually reached a temporary place of safety before the killing.]",
+    "[*Lawful custody* includes (confinement/placement) in (county jail/prison/the California Youth Authority/work furlough/______ <insert name or description of other detention facility, see Pen. Code, § 4532>. [A person is in lawful custody if he or she has been entrusted to the custody of an officer or other individual during a temporary release from the place of confinement.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "Intent to kill is not required for the actual killer but is required for an accomplice. If the evidence raises the issue of accomplice liability, the court has a sua sponte duty to instruct on that issue. (See *People v. Jones* (2003) 30 Cal.4th 1084, 1117 [135 Cal.Rptr.2d 370, 70 P.3d 359].) Give CALCRIM No. 702, *Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Other Than Felony Murder*. If the homicide occurred prior to June 5, 1990, give CALCRIM No. 701, *Special Circumstances: Intent Requirement for Accomplice Before June 6, 1990*."
+      },
+      {
+        "text": "Give the bracketed paragraph stating that the arrest must be “imminent” only if the evidence does not clearly establish that an arrest would have been made in the near future. (See *People v. Bigelow* (1984) 37 Cal.3d 731, 752 [209 Cal.Rptr. 328, 691 P.2d 994]; *People v. Cummings* (1993) 4 Cal.4th 1233, 1300–1301 [18 Cal.Rptr.2d 796, 850 P.2d 1].) For example, it may be appropriate to instruct that the arrest must be imminent if no peace officer is present or if the decedent is not a peace officer. (See *People v. Cummings, supra,* 4 Cal.4th at pp. 1300–1301; but see *People v. Vorise* (1999) 72 Cal.App.4th 312, 322 [85 Cal.Rptr.2d 12].)"
+      },
+      {
+        "text": "If the lawfulness of the arrest is an issue, give relevant portion of CALCRIM No. 2670, *Lawful Performance: Peace Officer*, and the bracketed sentence telling the jury that CALCRIM No. 2670 explains lawful arrest."
+      },
+      {
+        "text": "Give the bracketed paragraphs defining “completing or attempting to complete escape” if there is an issue in the case about whether the defendant had reached a temporary place of safety prior to the killing. (See *People v. Bigelow* (1984) 37 Cal.3d 731, 754 [209 Cal.Rptr. 328, 691 P.2d 994].)"
+      },
+      {
+        "text": "Give the bracketed paragraph explaining lawful custody if there is an issue about whether the defendant was in lawful custody. (See Pen. Code, § 4532; *People v. Diaz* (1978) 22 Cal.3d 712, 716–717 [150 Cal.Rptr. 471, 586 P.2d 952].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(5)."
+      },
+      {
+        "text": "• Arrest Must Be Imminent. *People v. Bigelow* (1984) 37 Cal.3d 731, 752 [209 Cal.Rptr. 328, 691 P.2d 994]; *People v. Coleman* (1989) 48 Cal.3d 112, 146 [255 Cal.Rptr. 813, 768 P.2d 32]; *People v. Cummings* (1993) 4 Cal.4th 1233, 1300–1301 [18 Cal.Rptr.2d 796, 850 P.2d 1]."
+      },
+      {
+        "text": "• Killing During Escape Must Be During Hot Pursuit. *People v. Bigelow* (1984) 37 Cal.3d 731, 754 [209 Cal.Rptr. 328, 691 P.2d 994]."
+      },
+      {
+        "text": "• Lawful Custody. See Pen. Code, § 4532 (escape from custody); *People v. Diaz* (1978) 22 Cal.3d 712, 716–717 [150 Cal.Rptr. 471, 586 P.2d 952]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

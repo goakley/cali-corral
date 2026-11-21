@@ -1,0 +1,80 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2826",
+  "title": "Willful Failure to Pay Tax (Rev. & Tax. Code, § 19701(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2052,
+      2053
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with intentionally failing to pay a required (tax/estimated tax) to the Franchise Tax Board [in violation of Revenue and Taxation Code section 19701(c)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was required to pay a (tax/estimated tax) to the Franchise Tax Board;",
+    "2. The defendant failed to pay the (tax/estimated tax) by the date it was due;",
+    "AND",
+    "3. The defendant voluntarily chose not to pay, with intent to violate a legal duty known to (him/her).",
+    "[The People do not have to prove the exact amount of (unreported income/[or] [additional] tax owed). The People must prove beyond a reasonable doubt that the defendant (failed to report a substantial amount of income/[or] owed a substantial amount in [additional] taxes).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The statute states that the defendant’s acts must be “willful.” (Rev. & Tax. Code, § 19701(c).) As used in the tax code, “willful” means that the defendant must act “in voluntary, intentional violation of a known legal duty.” (*People v. Hagen* (1998) 19 Cal.4th 652, 666 [80 Cal.Rptr.2d 24, 967 P.2d 563].) The committee has chosen to use this description of the meaning of the term in place of the word “willful” to avoid confusion with other instructions that provide a different definition of “willful.”"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “The People do not have to prove the exact amount” on request. (*United States v. Wilson* (3d Cir. 1979) 601 F.2d 95, 99; Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.08.) Federal cases have held that when intent to evade is an element of the offense, the prosecution must show that the amount owed in taxes or the amount of unreported income was substantial. (*United States v. Wilson, supra,* 601 F.2d at p. 99; see also Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.08.) “The word ‘substantial’ . . . is necessarily a relative term and not susceptible of an exact meaning.” (*Canaday v. United States* (8th Cir. 1966) 354 F.2d 849, 852–853.) “[It] is not measured in terms of gross or net income nor by any particular percentage of the tax shown to be due and payable. All the attendant circumstances must be taken into consideration.” (*United States v. Nunan* (2d Cir. 1956) 236 F.2d 576, 585, cert. den. (1957) 353 U.S. 912.) “Whether the tax evaded was ‘substantial’ is, therefore, a jury question . . . .” (Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.08 [see also § 67.03, noting that “substantial” is generally not defined for the jury].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant had a good faith belief that his or her conduct was legal, the court has a sua sponte duty to give the instruction on this defense. (*People v. Hagen* (1998) 19 Cal.4th 652, 660 [80 Cal.Rptr.2d 24, 967 P.2d 563].) Give CALCRIM No. 2860, *Defense: Good Faith Belief Conduct Legal*."
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant relied on the advice of a professional, the court has a sua sponte duty to give the instruction on this defense. (*United States v. Mitchell* (4th Cir. 1974) 495 F.2d 285, 287–288; see Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.25.) Give CALCRIM No. 2861, *Defense: Reliance on Professional Advice*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Rev. & Tax. Code, § 19701(c)."
+      },
+      {
+        "text": "• Willful Requires Volitional Violation of Known Legal Duty. *People v. Hagen* (1998) 19 Cal.4th 652, 666 [80 Cal.Rptr.2d 24, 967 P.2d 563]; see also Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.20."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Revenue and Taxation Code section 19701(c) provides that a person who willfully fails to pay any estimated tax or tax that the person is required to pay is guilty of a misdemeanor and shall upon conviction be fined not to exceed five thousand dollars or be imprisoned not to exceed one year, or both, at the discretion of the court, together with costs of investigation and prosecution. However, subdivision (c) also provides that the preceding sentence “shall not apply to any person who is mentally incompetent, or suffers from dementia, Alzheimer’s disease, or similar condition.” Rev. & Tax. Code, § 19701(c)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

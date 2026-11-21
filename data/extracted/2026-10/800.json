@@ -1,0 +1,113 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "800",
+  "title": "Aggravated Mayhem (Pen. Code, § 205)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      603,
+      605
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2015, September 2018",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with aggravated mayhem [in violation of Penal Code section 205].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant unlawfully and maliciously (disabled or disfigured someone permanently/[or] deprived someone else of a limb, organ, or part of (his/her) body);",
+    "2. When the defendant acted, (he/she) intended to (permanently disable or disfigure the other person/[or] deprive the other person of a limb, organ, or part of (his/her) body);",
+    "AND",
+    "3. Under the circumstances, the defendant’s act showed extreme indifference to the physical or psychological well-being of the other person.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else.",
+    "[A disfiguring injury may be *permanent* even if it can be repaired by medical procedures.]",
+    "[The People do not have to prove that the defendant intended to kill.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 1, give the first option if the defendant was prosecuted for permanently disabling or disfiguring the victim. Give the second option if the defendant was prosecuted for depriving someone of a limb, organ, or body part. (See Pen. Code, § 205.)"
+      },
+      {
+        "text": "The bracketed sentence regarding “permanent injury” may be given on request if there is evidence that the injury may be repaired by medical procedures. (*People v. Hill* (1994) 23 Cal.App.4th 1566, 1574–1575 [28 Cal.Rptr.2d 783] [not error to instruct that an injury may be permanent even though cosmetic repair may be medically feasible].)"
+      },
+      {
+        "text": "The bracketed sentence stating that “The People do not have to prove that the defendant intended to kill,” may be given on request if there is no evidence or conflicting evidence that the defendant intended to kill someone. (See Pen. Code, § 205.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 205."
+      },
+      {
+        "text": "• Malicious Defined. Pen. Code, § 7, subd. 4; *People v. Lopez* (1986) 176 Cal.App.3d 545, 550 [222 Cal.Rptr. 101]."
+      },
+      {
+        "text": "• Permanent Disability. See, e.g., *People v. Thomas* (1979) 96 Cal.App.3d 507, 512 [158 Cal.Rptr. 120] [serious ankle injury lasting over six months], overruled on other grounds *People v. Kimble* (1988) 44 Cal.3d 480, 498 [244 Cal.Rptr. 148, 749 P.2d 803]."
+      },
+      {
+        "text": "• Permanent Disfigurement. See *People v. Hill* (1994) 23 Cal.App.4th 1566, 1571 [28 Cal.Rptr.2d 783]; see also *People v. Newble* (1981) 120 Cal.App.3d 444, 451 [174 Cal.Rptr. 637] [head is member of body for purposes of disfigurement]."
+      },
+      {
+        "text": "• Specific Intent to Cause Maiming Injury. *People v. Ferrell* (1990) 218 Cal.App.3d 828, 833 [267 Cal.Rptr. 283]; *People v. Lee* (1990) 220 Cal.App.3d 320, 324–325 [269 Cal.Rptr. 434]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Simple Mayhem. *People v. Robinson* (2014) 232 Cal.App.4th 69, 77–80 [180 Cal.Rptr.3d 796]."
+      },
+      {
+        "text": "• Attempted Aggravated Mayhem. Pen. Code, §§ 205, 663."
+      },
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "Assault with force likely to produce great bodily injury (Pen. Code, § 245(a)(1)) is not a lesser included offense to mayhem. (*People v. Ausbie* (2004) 123 Cal.App.4th 855, 862–863 [20 Cal.Rptr.3d 371])."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Victim Must Be Alive"
+      },
+      {
+        "text": "A victim of mayhem must be alive at the time of the act. (*People v. Kraft* (2000) 23 Cal.4th 978, 1058 [99 Cal.Rptr.2d 1, 5 P.3d 68]; see *People v. Jentry* (1977) 69 Cal.App.3d 615, 629 [138 Cal.Rptr. 250].)"
+      },
+      {
+        "text": "*Evidence of Indiscriminate Attack or Actual Injury Constituting Mayhem Insufficient to Show Specific Intent*"
+      },
+      {
+        "text": "“Aggravated mayhem . . . requires the specific intent to cause the maiming injury. [Citation.] Evidence that shows no more than an ‘indiscriminate attack’ is insufficient to prove the required specific intent. [Citation.] Furthermore, specific intent to maim may not be inferred solely from evidence that the injury inflicted actually constitutes mayhem; instead, there must be other facts and circumstances which support an inference of intent to maim rather than to attack indiscriminately. [Citation.]” (*People v. Park* (2000) 112 Cal.App.4th 61, 64 [4 Cal.Rptr.3d 815].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

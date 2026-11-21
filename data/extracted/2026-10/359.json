@@ -1,0 +1,93 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "359",
+  "title": "Corpus Delicti: Independent Evidence of a Charged Crime",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      205,
+      207
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, February 2014, February 2015, September 2017, March 2018",
+  "revision_legend": null,
+  "body": [
+    "The defendant may not be convicted of any crime based on (his/her) out-of-court statement[s] alone. You may rely on the defendant’s out-of-court statements to convict (him/her) only if you first conclude that other evidence shows that the charged crime [or a lesser included offense] was committed.",
+    "That other evidence may be slight and need only be enough to support a reasonable inference that a crime was committed.",
+    "This requirement of other evidence does not apply to proving the identity of the person who committed the crime [and the degree of the crime]. If other evidence shows that the charged crime [or a lesser included offense] was committed, the identity of the person who committed it [and the degree of the crime] may be proved by the defendant’s statement[s] alone.",
+    "You may not convict the defendant unless the People have proved (his/her) guilt beyond a reasonable doubt."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on corpus delicti whenever an accused’s extrajudicial statements form part of the prosecution’s evidence. (*People v. Howk* (1961) 56 Cal.2d 687, 707 [16 Cal.Rptr. 370, 365 P.2d 426], unless the statement was made during the commission of the crime. (*People v. Carpenter* (1997) 15 Cal.4th 312, 394 [63 Cal.Rptr.2d 1, 935 P.2d 708].)"
+      },
+      {
+        "text": "Give the bracketed language in the first paragraph if the court will be instructing on lesser included offenses."
+      },
+      {
+        "text": "An earlier version of this instruction was upheld in *People v. Reyes* (2007) 151 Cal.App.4th 1491, 1496 [60 Cal.Rptr.3d 777]. A later case, *People v. Rivas* (2013) 214 Cal.App.4th 1410, 1427–1429 [155 Cal.Rptr.3d 403], found fault with the same earlier version of the instruction without referring to *Reyes*. The instruction has been modified in light of the discussion in *Rivas*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Ray* (1996) 13 Cal.4th 313, 342 [52 Cal.Rptr.2d 296, 914 P.2d 846]; *People v. Jennings* (1991) 53 Cal.3d 334, 368 [279 Cal.Rptr. 780, 807 P.2d 1009]; *People v. Howk* (1961) 56 Cal.2d 687, 707 [16 Cal.Rptr. 370, 365 P.2d 426]."
+      },
+      {
+        "text": "• Burden of Proof. *People v. Lara* (1994) 30 Cal.App.4th 658, 676 [35 Cal.Rptr.2d 886]."
+      },
+      {
+        "text": "• Earlier Version of This Instruction Correctly States the Law. *People v. Rosales* (2014) 222 Cal.App.4th 1254, 1260–1261 [166 Cal.Rptr.3d 620]; *People v. Reyes* (2007) 151 Cal.App.4th 1491, 1496 [60 Cal.Rptr.3d 777]."
+      },
+      {
+        "text": "• Proof of Identity Independent of “Elements.” *People v. Rivas* (2013) 214 Cal.App.4th 1410, 1427–1429 [155 Cal.Rptr.3d 403]."
+      },
+      {
+        "text": "• Corpus Delicti Rule Does Not Apply Generally to All Uncharged Acts. *People v. Davis* (2008) 168 Cal.App.4th 617, 636 [86 Cal.Rptr.3d 55]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Harm Caused by Criminal Conduct"
+      },
+      {
+        "text": "The instruction states that the other evidence need only “be enough to support a reasonable inference that someone’s criminal conduct caused an injury, loss, or harm.” This is based in part on *People v. Alvarez* (2002) 27 Cal.4th 1161, 1171 [119 Cal.Rptr.2d 903, 46 P.3d 372], in which the court stated that “[t]here is no requirement of independent evidence ‘of every physical act constituting an element of an offense,’ so long as there is some slight or prima facie showing of injury, loss, or harm by a criminal agency.” (Citing *People v. Jones* (1998) 17 Cal.4th 279, 303 [70 Cal.Rptr.2d 793, 949 P.2d 890].)"
+      },
+      {
+        "heading": true,
+        "text": "Scope of Corpus Delicti"
+      },
+      {
+        "text": "The following are not elements of a crime and need not be proved by independent evidence: the degree of the crime charged (*People v. Cooper* (1960) 53 Cal.2d 755, 765 [3 Cal.Rptr. 148, 349 P.2d 964]), the identity of the perpetrator (*People v. Westfall* (1961) 198 Cal.App.2d 598, 601 [18 Cal.Rptr. 356]), elements of the underlying felony when the defendant is charged with felony murder (*People v. Cantrell* (1973) 8 Cal.3d 672, 680–681 [105 Cal.Rptr. 792, 504 P.2d 1256], disapproved on other grounds in *People v. Wetmore* (1978) 22 Cal.3d 318, 324 [149 Cal.Rptr. 265, 583 P.2d 1308] and *People v. Flannel* (1979) 25 Cal.3d 668, 684–685, fn. 12 [160 Cal.Rptr. 84, 603 P.2d 1]), special circumstances when the defendant is charged with a felony-based special circumstance murder as listed in Penal Code section 190.2(a)(17) (Pen. Code, § 190.41; see *People v. Ray* (1996) 13 Cal.4th 313, 341, fn. 13 [52 Cal.Rptr.2d 296, 914 P.2d 846]), the knowledge and intent required for aider-abettor liability (*People v. Gutierrez* (2002) 28 Cal.4th 1083, 1128–1129 [124 Cal.Rptr.2d 373, 52 P.3d 572]; *People v. Ott* (1978) 84 Cal.App.3d 118, 131 [148 Cal.Rptr. 479]), or facts necessary for a sentencing enhancement (see *People v. Shoemake* (1993) 16 Cal.App.4th 243, 252–256 [20 Cal.Rptr.2d 36])."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Truth-in-Evidence Initiative"
+      },
+      {
+        "text": "The “truth-in-evidence” provision of the California Constitution abrogates the corpus delicti rule insofar as it restricts the admissibility of incriminatory extrajudicial statements by an accused. (*People v. Alvarez* (2002) 27 Cal.4th 1161, 1173–1174 [119 Cal.Rptr.2d 903, 46 P.3d 372]; see Cal. Const., art. I, § 28(d) [Proposition 8 of the June 8, 1982 General Election].) The constitutional provision, however, does not eliminate the rule insofar as it prohibits *conviction* when the only evidence that the crime was committed is the defendant’s own statements outside of court. Thus, the provision does not affect the rule to the extent it requires a jury instruction that no person may be convicted absent evidence of the crime independent of his or her out-of-court statements. (*People v. Alvarez, supra*, 27 Cal.4th at p. 1180.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

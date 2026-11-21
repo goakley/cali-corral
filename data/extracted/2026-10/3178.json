@@ -1,0 +1,95 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3178",
+  "title": "Sex Offenses: Sentencing Factors—Burglary With Intent to Commit Sex Offense (Pen. Code, § 667.61(d)(4))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2258,
+      2260
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ <insert counts charging sex offense[s] from Pen. Code, § 667.61(c)>, you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant committed the crime during the commission of burglary, with the intent to commit ______ <insert sex offense[s] from Pen. Code, § 667.61(c)>. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant entered an inhabited (house [or a room within an inhabited house]/vessel/floating home/trailer coach/part of a building);",
+    "2. When the defendant entered the (house [or room within the house]/vessel/floating home/trailer coach/part of a building), (he/she) intended to commit ______ <insert sex offense[s] from Pen. Code, § 667.61(c)>;",
+    "AND",
+    "3. After the defendant entered the (house [or room within the house]/vessel/floating home/trailer coach/part of a building), (he/she) committed ______ <insert sex offense[s] from Pen. Code, § 667.61(c)> [before (he/she) escaped to a place of temporary safety].",
+    "A (house [or a room within an inhabited house]/vessel/floating home/trailer coach/part of a building) is *inhabited* if someone uses it as a dwelling, whether or not someone is inside at the time of the alleged entry.",
+    "[A *house* includes any (structure/garage/office/______ <insert description>) that is attached to the house and functionally connected with it.]",
+    "[The defendant intended to commit rape if he intended to have sexual intercourse with a woman [who was not his wife], without her consent, by (using force, duress, menace, or fear of immediate and unlawful bodily injury to her or to another person/threatening to retaliate against her or against a third person with a reasonable possibility that the threat would be carried out/threatening to have her or a third person incarcerated, arrested, or deported).]",
+    "[To decide whether the defendant intended to commit ______ <insert sex offense[s] other than rape from Pen. Code, § 667.61(c)>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]",
+    "[A person has *reached a place of temporary safety* if he or she has successfully escaped from the scene of the crime and is no longer being pursued.]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the sentencing factor when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "If the defendant is charged with rape, give the bracketed sentence that begins with “The defendant intended to commit rape . . . .” If the defendant is charged with another offense, use the next bracketed paragraph, and give all necessary instructions on the Penal Code section 667.61(c) offenses alleged."
+      },
+      {
+        "text": "For a definition of “vessel,” “floating home,” or “trailer coach,” see CALCRIM No. 1701, *Burglary: Degrees*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• One-Strike Sex Offense Statute—Burglary With Intent to Commit Sex Offense. Pen. Code, § 667.61(d)(4)."
+      },
+      {
+        "text": "• Factors Must Be Pleaded and Proved. Pen. Code, § 667.61(j); *People v. Mancebo* (2002) 27 Cal.4th 735, 743 [117 Cal.Rptr.2d 550, 41 P.3d 556]."
+      },
+      {
+        "text": "• During the Commission of Burglary Defined for Sentencing Factor. *People v. Alvarado* (2001) 87 Cal.App.4th 178, 191 [104 Cal.Rptr.2d 624]."
+      },
+      {
+        "text": "• Elements of Burglary. Pen. Code, § 459."
+      },
+      {
+        "text": "• Determination of Degrees. Pen. Code, § 460."
+      },
+      {
+        "text": "• Inhabitation Defined. Pen. Code, § 459."
+      },
+      {
+        "text": "• Room Within Inhabited House. *People v. Sparks* (2002) 28 Cal.4th 71, 86–87 [120 Cal.Rptr.2d 508, 47 P.3d 289]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues sections of CALCRIM No. 1700, *Burglary*, and CALCRIM No. 1701, *Burglary: Degrees*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

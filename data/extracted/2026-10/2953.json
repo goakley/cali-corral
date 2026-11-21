@@ -1,0 +1,79 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2953",
+  "title": "Cruelty to Animals (Pen. Code, § 597(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2111,
+      2112
+    ]
+  },
+  "revision_line": "New August 2012; Revised February 2014",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with cruelty to animals [in violation of Penal Code section 597(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (maimed[,]/[or] mutilated[,]/[or] tortured[,]/[or] wounded[,]/[or] killed) a living animal);",
+    "AND",
+    "2. The defendant acted maliciously.",
+    "[*Torture* means every act, failure to act, or neglect that causes or permits unnecessary or unjustifiable physical pain or suffering.]",
+    "[*Maiming* means disabling or disfiguring an animal permanently or depriving it of a limb, organ, or other part of the body.]",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to disturb, annoy, or injure an animal."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    34.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court will need to modify this instruction if Penal Code section 599(c) applies."
+      },
+      {
+        "text": "The committee concluded that the definition of “animal” provided in Penal Code section 599b, including “every dumb creature,” would not be helpful to a jury and that no definition of the word was necessary."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 597(a)."
+      },
+      {
+        "text": "• Definition of Torture. Pen. Code, § 599b"
+      },
+      {
+        "text": "• Definition of Malicious. Pen. Code, § 7"
+      },
+      {
+        "text": "• Maiming. See CALCRIM No. 800, *Aggravated Mayhem*"
+      },
+      {
+        "text": "• General Intent Crime. *People v. Alvarado* (2005) 125 Cal.App.4th 1179, 1182 [23 Cal.Rptr.3d 391]"
+      },
+      {
+        "text": "• Cruelty. *People v. Burnett* (2003) 110 Cal.App.4th 868, 873 [2 Cal.Rptr.3d 120] • Any Living Animal. *People v. Thomason* (2000) 84 Cal.App.4th 1064, 1067 [101 Cal.Rptr.2d 247]"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

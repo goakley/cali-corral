@@ -1,0 +1,49 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "917",
+  "title": "Insulting Words Are Not a Defense",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      733,
+      733
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "Words, no matter how offensive, and acts that are not threatening, are not enough to justify an assault or battery.",
+    "[However, if you conclude that ______ <insert name> spoke or acted in a way that threatened ______ <insert name of defendant or third party allegedly threatened> with immediate harm [or an unlawful touching]/[or] great bodily injury/[or] trespass on land/[or] trespass against goods], you may consider that evidence in deciding whether ______ <insert name of defendant> acted in (self-defense/[or] defense of others).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is no sua sponte duty to give this instruction. It is no defense to battery or assault that insulting or offensive words, or acts that fall short of a threat of immediate harm, were used. (*People v. Mayes* (1968) 262 Cal.App.2d 195, 197 [68 Cal.Rptr. 476]; *People v. Mueller* (1956) 147 Cal.App.2d 233, 239–240 [305 P.2d 178].)"
+      },
+      {
+        "text": "If the evidence raises the issue of defense of self or others, give the bracketed paragraph along with any other appropriate defense instruction. (See *People v. Johnston* (2003) 113 Cal.App.4th 1299, 1303 [7 Cal.Rptr.3d 161]; see CALCRIM Nos. 3470–3477.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. See *People v. Davis* (1995) 10 Cal.4th 463, 542 [41 Cal.Rptr.2d 826, 896 P.2d 119]; *People v. Mueller* (1956) 147 Cal.App.2d 233, 239–240 [305 P.2d 178]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,136 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "926",
+  "title": "Battery Against Specified Victim Not a Peace Officer (Pen. Code, §§ 242, 243(b)–(c)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      738,
+      740
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with battery against (a/an) ______ <insert title specified in Pen. Code, § 243(c)(1)> [in violation of Penal Code section 243].",
+    "To prove that the defendant is guilty of this charge, the People must prove that:",
+    "1. The defendant willfully [and unlawfully] touched ______ <insert name> in a harmful or offensive manner;",
+    "<Alternative 2A—specified person performing duties>",
+    "[2. When the defendant acted, ______ <insert name> was a ______ <insert title specified in Pen. Code, § 243(c)(1)> and was performing the duties of (a/an) ______ <insert title specified in Pen. Code, § 243(c)(1)>;]",
+    "<Alternative 2B—nurse or doctor>",
+    "[2. When the defendant used that force, ______ <insert name> was a (nurse/medical doctor) who was giving emergency medical care outside of a hospital, clinic, or other health care facility;]",
+    "[AND]",
+    "3. When the defendant acted, (he/she) knew or reasonably should have known, that ______ <insert name> was (a/an) ______ <insert title specified in Pen. Code, § 243(c)(1)> who was performing (his/her) duties(;/.)",
+    "<Give element 4 when the defendant is charged with Pen. Code, § 243(c)(1).>",
+    "[AND",
+    "4. ______ <insert name> suffered injury as a result of the force used(;/.)]",
+    "<Give element 5 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "(4/5). The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "Making contact with another person, including through his or her clothing, is enough to commit a battery.",
+    "[The duties of (a/an) ______ <insert title specified in Pen. Code, § 243(c)(1)> include ______ <insert appropriate list of job duties from statutory definition of professions, if available>.]",
+    "[It does not matter whether ______ <insert name> was actually on duty at the time.]",
+    "[An *injury* is any physical injury that requires professional medical treatment. The question whether an injury requires such treatment cannot be answered simply by deciding whether or not a person sought or received treatment. You may consider those facts, but you must decide this question based on the nature, extent, and seriousness of the injury itself.]",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime. This instruction should be used when the alleged victim is not a peace officer. If the alleged victim is a peace officer, use CALCRIM No. 945, *Battery Against Peace Officer*."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 2, the bracketed words “and unlawfully” in element 1, and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "If the alleged victim is a doctor or nurse, give element 2B. Otherwise give element 2A."
+      },
+      {
+        "text": "If the defendant is charged under Penal Code section 243(c)(1), give bracketed element 4 and the definition of “injury.” If the defendant is charged with misdemeanor battery under Penal Code section 243(b), do not give element 4 or the definition of “injury.”"
+      },
+      {
+        "text": "Give the appropriate list of job duties for the alleged victim’s profession from the current Penal Code section, if one is provided. Emergency medical technician, nurse, custodial officer, lifeguard, traffic officer, and animal control officer are defined in Penal Code section 243(f). Firefighter is defined in Penal Code section 245.1. If a definition is provided in the statute, it should be given. (See *People v. Lara* (1994) 30 Cal.App.4th 658, 669 [35 Cal.Rptr.2d 886].)"
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 242, 243(b)–(c)(1); see *People v. Martinez* (1970) 3 Cal.App.3d 886, 889 [83 Cal.Rptr. 914] [harmful or offensive touching]."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• “Injury” Defined. Pen. Code, § 243(f)(6); *People v. Longoria* (1995) 34 Cal.App.4th 12, 17 [40 Cal.Rptr.2d 213]."
+      },
+      {
+        "text": "• Contact With Object Held in Another Person’s Hand May Constitute Touching. *In re B.L.* (2015) 239 Cal.App.4th 1491, 1495–1497 [192 Cal.Rptr.3d 154]."
+      },
+      {
+        "text": "• Hitting a Vehicle Occupied by Another Person May Constitute Touching. *People v. Dealba* (2015) 242 Cal.App.4th 1142, 1144, 1153 [195 Cal.Rptr.3d 848]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "*People v. Longoria, supra,* 34 Cal.App.4th at p. 17, explains the meaning of injury as defined in the statute:"
+      },
+      {
+        "text": "It is the nature, extent, and seriousness of the injury—not the inclination or disinclination of the victim to seek medical treatment—which is determinative. A peace officer who obtains “medical treatment” when none is required, has not sustained an “injury” within the meaning of section 243, subdivision (c). And a peace officer who does not obtain “medical treatment” when such treatment is required, has sustained an “injury” within the meaning of section 243, subdivision (c). The test is objective and factual."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Assault on Specified Victim. Pen. Code, § 241(b)."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "• Misdemeanor Battery on Specified Victim. Pen. Code, § 243(b)."
+      },
+      {
+        "text": "• Resisting Officer. Pen. Code, § 148."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

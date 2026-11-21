@@ -1,0 +1,94 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1252",
+  "title": "Defense to Child Abduction: Protection From Immediate Injury (Pen. Code, § 278.7(a) and (b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1096,
+      1098
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2015",
+  "revision_legend": null,
+  "body": [
+    "The defendant did not maliciously deprive a (lawful custodian of a right to custody/[or] person of a right to visitation) if the defendant:",
+    "1. Had a right to custody of the child when (he/she) abducted the child;",
+    "2. Had a good faith and reasonable belief when abducting the child that the child would suffer immediate bodily injury or emotional harm if left with the other person;",
+    "3. Made a report to the district attorney’s office in the county where the child lived within a reasonable time after the abduction;",
+    "4. Began a custody proceeding in an appropriate court within a reasonable time after the abduction;",
+    "AND",
+    "5. Informed the district attorney’s office of any change of address or telephone number for (himself/herself) and the child.",
+    "To *abduct* means to take, entice away, keep, withhold, or conceal.",
+    "The *right to custody* means the right to physical care, custody, and control of the child because of a court order or under the law.",
+    "[One way a child may suffer *emotional harm* is if he or she has a parent who has committed domestic violence against the parent accused of abducting the child. Acts of “domestic violence” include, but are not limited to (1) sexual assault; (2) causing or attempting to cause bodily injury, either intentionally or recklessly; or (3) causing a person to reasonably fear imminent serious bodily injury to himself or herself or another.]",
+    "The report to the district attorney must include the defendant’s name, the defendant’s or child’s current address and telephone number, and the reasons the child was abducted.",
+    "A reasonable time within which to make a report to the district attorney’s office is at least 10 days from when the defendant took the child.",
+    "A reasonable time to begin a custody proceeding is at least 30 days from the time the defendant took the child.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant maliciously deprived a (lawful custodian of a right to custody/[or] person of a right to visitation). If the People have not met this burden, you must find the defendant not guilty of ______ <insert crime charged>."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on this defense if the defendant is relying on it, or if there is substantial evidence supporting the defense and the defense is not inconsistent with the defendant’s theory of the case. (See *People v. Neidinger* (2006) 40 Cal.4th 67, 75, 79 [51 Cal.Rptr.3d 45, 146 P.3d 502] [defendant must raise a reasonable doubt]; *People v. Mehaisin* (2002) 101 Cal.App.4th 958, 965 [124 Cal.Rptr.2d 683]; *People v. Sedeno* (1974) 10 Cal.3d 703, 715–716 [112 Cal.Rptr. 1, 518 P.2d 913] [duty to instruct on defenses], disapproved on other grounds in *People v. Flannel* (1979) 25 Cal.3d 668, 684–685, fn. 12 [160 Cal.Rptr. 84, 603 P.2d 1] and in *People v. Breverman* (1998) 19 Cal.4th 142, 163, fn. 10, 164–178 [77 Cal.Rptr.2d 870, 960 P.2d 1094].)"
+      },
+      {
+        "text": "*People v. Mehaisin* (2002) 101 Cal.App.4th 958, 965 [124 Cal.Rptr.2d 683] holds that the “defendant was not entitled to a section 278.7 defense because he did not report the taking to the Sacramento District Attorney and did not commence a custody proceeding”]; *People v. Neidinger* (2006) 40 Cal.4th 67, 73 fn.4, 79 [51 Cal.Rptr.3d 45, 146 P.3d 502] explains that “the section 278.7(a) defense provides a specific example of when the person does not act maliciously.”"
+      },
+      {
+        "text": "Give on request the bracketed paragraph regarding “emotional harm” and “domestic violence” if there is evidence that the defendant had been a victim of domestic violence committed by the other parent. (See Pen. Code, §§ 278.7(b), 277(j); Fam. Code, §§ 6203, 6211.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements of Defense. Pen. Code, § 278.7."
+      },
+      {
+        "text": "• Abduct Defined Pen. Code, § 277(k)."
+      },
+      {
+        "text": "• Court Order or Custody Order Defined. Pen. Code, § 277(b)."
+      },
+      {
+        "text": "• Domestic Violence Defined. Pen. Code, § 277(j); see Fam. Code, §§ 6203, 6211."
+      },
+      {
+        "text": "• Person Defined. Pen. Code, § 277(i) [includes parent or parent’s agent]."
+      },
+      {
+        "text": "• Right to Custody Defined. Pen. Code, § 277(e); see *People v. Mehaisin* (2002) 101 Cal.App.4th 958, 964 [124 Cal.Rptr.2d 683] [liberal visitation period does not constitute right to custody]."
+      },
+      {
+        "text": "• Pen. Code § 278.7, subdivision (a), Is Specific Example of Proving Absence of Malice. (*People v. Neidinger* (2006) 40 Cal.4th 67, 79 [51 Cal.Rptr.3rd 45, 146 P.3d 502].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 27
+  },
+  "warnings": []
+}

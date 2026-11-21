@@ -1,0 +1,135 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3116",
+  "title": "Armed With Firearm: Assault Weapon, Machine Gun, or .50 BMG Rifle (Pen. Code, § 12022(a)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2194,
+      2197
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, February 2012",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that one of the principals was armed with (an assault weapon/a machine gun/a .50 BMG rifle) in the commission [or attempted commission] of that crime. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "A person is a *principal* in a crime if he or she directly commits [or attempts to commit] the crime or if he or she aids and abets someone else who commits [or attempts to commit] the crime.",
+    "[(A/An) ______ <insert type of weapon from Pen. Code, § 30510 or description from § 30515> is an *assault weapon*.]",
+    "[A *machine gun* is any weapon that (shoots[,]/[or] is designed to shoot[,]/[or] can readily be restored to shoot) automatically more than one shot by a single function of the trigger and without manual reloading.] [(A/An) ______ <insert name of weapon deemed by the federal Bureau of Alcohol, Tobacco, and Firearms as readily convertible to a machine gun> is [also] a *machine gun.*]",
+    "[A *.50 BMG rifle* is a center fire rifle that can fire a .50 BMG cartridge [and that is not an assault weapon or a machine gun]. A *.50 BMG cartridge* is a cartridge that is designed and intended to be fired from a center fire rifle and that has all three of the following characteristics:",
+    "1. The overall length is 5.54 inches from the base to the tip of the bullet;",
+    "2. The bullet diameter for the cartridge is from .510 to, and including, .511 inch;",
+    "AND",
+    "3. The case base diameter for the cartridge is from .800 inch to, and including, .804 inch.]",
+    "[The term *(assault weapon/machine gun/.50 BMG rifle)* is defined in another instruction.]",
+    "[(An assault weapon/A machine gun/A .50 BMG rifle) does not need to be in working order if it was designed to shoot and appears capable of shooting.] [(An assault weapon/A machine gun/A .50 BMG rifle) does not need to be loaded.]",
+    "A principal is *armed* with (an assault weapon/a machine gun/a .50 BMG rifle) when that person:",
+    "1. Carries (an assault weapon/a machine gun/a .50 BMG rifle) [or has (an assault weapon/a machine gun/a .50 BMG rifle) available] for use in either offense or defense in connection with the crime[s] charged in Count[s] ______ [or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>];",
+    "[AND]",
+    "2. Knows that he or she is carrying the weapon [or has it available](./;)",
+    "<See Bench Notes regarding element 3.>",
+    "[AND",
+    "3. Knows or reasonably should know that the weapon has characteristics that make it (an assault weapon/a machine gun/a .50 BMG rifle).]",
+    "<If there is an issue in the case over whether the principal was armed with the firearm “in the commission of” the offense, see Bench Notes.>",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the enhancement. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "The Supreme Court has held that for the crime of possession of an assault weapon, the prosecution must prove that the defendant knew or reasonably should have known that the weapon possessed the characteristics of an assault weapon. (*In re Jorge M.* (2000) 23 Cal.4th 866, 887 [98 Cal.Rptr.2d 466, 4 P.3d 297].) It is unclear if this holding applies to an enhancement for being armed with an assault weapon. Element 3 is provided for the court to use at its discretion."
+      },
+      {
+        "text": "The court should give the bracketed definition of “assault weapon,” “machine gun,” or “.50 BMG rifle” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "When two or more defendants are charged with an arming enhancement for the same offense, the preferred approach is for the court to provide the jury with a separate verdict form for the enhancement for each defendant. (*People v. Paul* (1998) 18 Cal.4th 698, 708 [76 Cal.Rptr.2d 660, 958 P.2d 412].) However, this procedure is not required. (*Id.* at p. 705.)"
+      },
+      {
+        "text": "In the definition of “armed,” the court may give the bracketed phrase “or has (an assault weapon/a machine gun) available” on request if the evidence shows that the weapon was at the scene of the alleged crime and “available to the defendant to use in furtherance of the underlying felony.” (*People v. Bland* (1995) 10 Cal.4th 991, 997–998 [43 Cal.Rptr.2d 77, 898 P.2d 391]; see also *People v. Wandick* (1991) 227 Cal.App.3d 918, 927–928 [278 Cal.Rptr. 274] [language of instruction approved; sufficient evidence defendant had firearm available for use]; *People v. Jackson* (1995) 32 Cal.App.4th 411, 419–422 [38 Cal.Rptr.2d 214] [evidence that firearm was two blocks away from scene of rape insufficient to show available to defendant].)"
+      },
+      {
+        "text": "If the case involves an issue of whether the principal was armed “during the commission of” the offense, the court may give CALCRIM No. 3261, *While Committing a Felony: Defined—Escape Rule*. (See *People v. Jones* (2001) 25 Cal.4th 98, 109 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127].)"
+      },
+      {
+        "text": "If there is evidence that the defendant was an aider and abettor, give the appropriate instructions on aider and abettor liability, CALCRIM Nos. 400–410."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, § 12022(a)(2)."
+      },
+      {
+        "text": "• Principal Defined. Pen. Code, § 31."
+      },
+      {
+        "text": "• Assault Weapon Defined. Pen. Code, §§ 30510, 30515."
+      },
+      {
+        "text": "• Machine Gun Defined. Pen. Code, § 16880."
+      },
+      {
+        "text": "• .50 BMG Rifle Defined. Pen. Code, § 30530."
+      },
+      {
+        "text": "• Knowledge Required for Possession of Assault Weapon. *In re Jorge M.* (2000) 23 Cal.4th 866, 887 [98 Cal.Rptr.2d 466, 4 P.3d 297]."
+      },
+      {
+        "text": "• Armed. *People v. Bland* (1995) 10 Cal.4th 991, 997–998 [43 Cal.Rptr.2d 77, 898 P.2d 391]; *People v. Jackson* (1995) 32 Cal.App.4th 411, 419–422 [38 Cal.Rptr.2d 214]; *People v. Wandick* (1991) 227 Cal.App.3d 918, 927–928 [278 Cal.Rptr. 274]."
+      },
+      {
+        "text": "• Firearm Need Not Be Operable. *People v. Nelums* (1982) 31 Cal.3d 355, 360 [182 Cal.Rptr. 515, 644 P.2d 201]."
+      },
+      {
+        "text": "• Firearm Need Not Be Loaded. See *People v. Steele* (1991) 235 Cal.App.3d 788, 791–795 [286 Cal.Rptr. 887]."
+      },
+      {
+        "text": "• “In Commission of” Felony/Facilitative Nexus. *People v. Bland* (1995) 10 Cal.4th 991, 1002 [43 Cal.Rptr.2d 77, 898 P.2d 391]; *People v. Jones* (2001) 25 Cal.4th 98, 109–110 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1011–1013 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127]."
+      },
+      {
+        "text": "• Presence of Gun Cannot Be Accident or Coincidence. (*Smith v. United States* (1993) 508 U.S. 223, 238 [113 S.Ct. 2050, 124 L.Ed.2d 138])."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 3115, *Armed With Firearm*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

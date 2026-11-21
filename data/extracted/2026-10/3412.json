@@ -1,0 +1,66 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3412",
+  "title": "Compassionate Use (Health & Saf. Code, § 11362.5)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2371,
+      2372
+    ]
+  },
+  "revision_line": "New February 2015; Revised September 2018, March 2019",
+  "revision_legend": null,
+  "body": [
+    "Possession or cultivation of cannabis is lawful if authorized by the Compassionate Use Act. The Compassionate Use Act allows a person to possess or cultivate cannabis (for personal medical purposes/[or] as the primary caregiver of a patient with a medical need) when a physician has recommended [or approved] such use. The amount of cannabis possessed or cultivated must be reasonably related to the patient’s current medical needs.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to possess or cultivate cannabis for medical purposes. If the People have not met this burden, you must find the defendant not guilty of this crime.",
+    "[A *primary caregiver* is someone who has consistently assumed responsibility for the housing, health, or safety of a patient who may legally possess or cultivate cannabis.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Pursuant to Health & Saf. Code, § 11362.5, defendants may raise a medical cannabis defense in appropriate cases. The burden is on the defendant to produce sufficient evidence to raise a reasonable doubt that possession was lawful. (*People v. Mower* (2002) 28 Cal.4th 457, 470 [122 Cal.Rptr.2d 326, 49 P.3d 1067]; *People v. Jones* (2003) 112 Cal.App.4th 341, 350 [4 Cal.Rptr.3d 916] [error to exclude defense where defendant’s testimony raised reasonable doubt about physician approval]; see also *People v. Tilehkooh* (2003) 113 Cal.App.4th 1433, 1441 [7 Cal.Rptr.3d 226] [defendant need not establish “medical necessity”].)"
+      },
+      {
+        "text": "If the evidence shows that a physician may have “approved” but not “recommended” the cannabis use, give the bracketed phrase “or approved” in the first paragraph of this instruction. (*People v. Jones*, *supra*, 112 Cal.App.4th at p. 347 [“approved” distinguished from “recommended”].)"
+      },
+      {
+        "text": "A local ordinance prohibiting cannabis dispensaries does not nullify a defense under the Medical Marijuana Program Act or the Compassionate Use Act. (*People v. Ahmed* (2018) 25 Cal.App.5th 136, 142–143 [235 Cal.Rptr.3d 472])."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, § 11362.5; *People v. Jackson* (2012) 210 Cal.App.4th 525, 538–539 [148 Cal.Rptr.3d 375]."
+      },
+      {
+        "text": "• Burden of Proof for Defense of Medical Use. *People v. Mower* (2002) 28 Cal.4th 457, 470 [122 Cal.Rptr.2d 326, 49 P.3d 1067]."
+      },
+      {
+        "text": "• Amount Must Be Reasonably Related to Patient’s Medical Needs. *People v. Trippet* (1997) 56 Cal.App.4th 1532, 1550–1551 [66 Cal.Rptr.2d 559]."
+      },
+      {
+        "text": "• Primary Caregiver. *People v. Mentch* (2008) 45 Cal.4th 274, 282–292 [85 Cal.Rptr.3d 480, 195 P.3d 1061]."
+      },
+      {
+        "text": "• Defendant’s Burden of Proof on Compassionate Use Defense. *People v. Mentch* (2008) 45 Cal.4th 274, 292–294 [85 Cal.Rptr.3d 480, 195 P.3d 1061] (conc.opn. of Chin, J.)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

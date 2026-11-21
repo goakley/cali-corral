@@ -1,0 +1,108 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1953",
+  "title": "Making Counterfeit Access Card or Account Number (Pen. Code, § 484f(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1418,
+      1420
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (designing[,]/[or] making[,]/[or] altering[,]/[or] embossing) a counterfeit access card [in violation of Penal Code section 484f(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (designed[,]/[or] made[,]/[or] altered[,]/[or] embossed) a counterfeit access card;",
+    "AND",
+    "2. When the defendant did that act, (he/she) intended to defraud.",
+    "An *access card* is a card, plate, code, account number, or other means of account access that can be used, alone or with another access card, to obtain (money[,]/[or] goods[,]/[or] services[,]/[or] anything of value), or that can be used to begin a transfer of funds[, other than a transfer originated solely by a paper document].",
+    "[(A/An) ______ <insert description, e.g., ATM card, credit card> is an access card.]",
+    "A *counterfeit access card* is a counterfeit, fictitious, altered, or forged access card or a false representation or depiction of an access card or any part of such a card.",
+    "Someone *intends to defraud* if he or she intends to deceive another person either to cause a loss of (money[,]/[or] goods[,]/[or] services[,]/[or] something [else] of value), or to cause damage to, a legal, financial, or property right.",
+    "[For the purpose of this instruction, a *person* includes (a governmental agency/a corporation/a business/an association/the body politic).]",
+    "[It is not necessary that anyone actually be defrauded or actually suffer a financial, legal, or property loss as a result of the defendant’s acts.]",
+    "[A person *alters* an access card if he or she adds to, erases, or changes a part of the card that affects a legal, financial, or property right.]",
+    "[The People allege that the defendant (designed[,]/[or] made[,]/[or] altered[,]/[or] embossed) the following counterfeit access cards: ______ <insert description of each card when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant (designed[,]/[or] made[,]/[or] altered[,]/[or] embossed) at least one of these cards and you all agree on which card (he/she) (designed[,]/[or] made[,]/[or] altered[,]/[or] embossed).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant made multiple cards, the court has a sua sponte duty to instruct on unanimity. (See *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752].) Give the last bracketed paragraph, inserting the items alleged. (See also Bench Notes to CALCRIM No. 3500, *Unanimity*, discussing when instruction on unanimity is and is not required.)"
+      },
+      {
+        "text": "In the definition of “access card,” the court may give the bracketed portion that begins with “other than a transfer” at its discretion. This statement is included in the statutory definition of access card. (Pen. Code, § 484d(2).) However, the committee believes it would rarely be relevant."
+      },
+      {
+        "text": "The court may also give the bracketed sentence stating “(A/An) ______ is an access card” if the parties agree on that point."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “For the purpose of this instruction” if the evidence shows an intent to defraud an entity or association rather than a natural person. (Pen. Code, § 8.)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “It is not necessary” if the evidence shows that the defendant did not succeed in defrauding anyone. (*People v. Morgan* (1956) 140 Cal.App.2d 796, 801 [296 P.2d 75].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 484f(a)."
+      },
+      {
+        "text": "• Definitions. Pen. Code, § 484d."
+      },
+      {
+        "text": "• Intent to Defraud. *People v. Pugh* (2002) 104 Cal.App.4th 66, 72 [127 Cal.Rptr.2d 770]; *People v. Gaul-Alexander* (1995) 32 Cal.App.4th 735, 745 [38 Cal.Rptr.2d 176]."
+      },
+      {
+        "text": "• Intent to Defraud Entity. Pen. Code, § 8."
+      },
+      {
+        "text": "• Alteration Defined. *People v. Nesseth* (1954) 127 Cal.App.2d 712, 718–720 [274 P.2d 479]; *People v. Hall* (1942) 55 Cal.App.2d 343, 352 [130 P.2d 733]."
+      },
+      {
+        "text": "• Unanimity Instruction If Multiple Items. *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Forgery of Access Card. Pen. Code, §§ 664, 484f."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues sections in CALCRIM No. 1900, *Forgery by False Signature*, and CALCRIM No. 1950, *Sale or Transfer of Access Card or Account Number*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

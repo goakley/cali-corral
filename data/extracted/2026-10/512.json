@@ -1,0 +1,60 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "512",
+  "title": "Presumption That Killing Not Criminal (Pen. Code, § 194)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      323,
+      323
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The law presumes that a killing is not criminal if the person killed dies more than three years and one day from the day of the incident that caused the death.",
+    "The People must overcome this presumption by proving that the killing was criminal. If you have a reasonable doubt whether the killing was criminal, you must find the defendant not guilty.",
+    "[To count the three year and one day period, begin with the day on which the incident happened. Count that day as one whole day regardless of what time the incident happened.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on presumptions relevant to the issues of the case. (See *People v. Hood* (1969) 1 Cal.3d 444, 449 [82 Cal.Rptr. 618, 462 P.2d 370].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Presumption of Lawful Killing. Pen. Code, § 194."
+      },
+      {
+        "text": "• Rebuttable Presumptions Affecting Burden of Proof. Evid. Code, §§ 601, 604, 606."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "May Prosecute Defendant for Attempted Murder and Murder"
+      },
+      {
+        "text": "Double jeopardy does not preclude prosecution of the defendant for attempted murder and also for murder if the victim dies after the conviction for attempted murder. (*In re Saul S.* (1985) 167 Cal.App.3d 1061, 1068 [213 Cal.Rptr. 541].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

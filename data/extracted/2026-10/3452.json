@@ -1,0 +1,99 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3452",
+  "title": "Determining Restoration to Sanity (Pen. Code, § 1026.2)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2401,
+      2402
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant was previously found not guilty of a crime and committed to a mental health facility. You must decide whether the defendant currently poses a danger to the health and safety of others as a result of a mental disease, defect, or disorder. That is the only purpose of this proceeding. You are not being asked to decide the defendant’s mental condition at any other time or whether (he/she) is guilty of any crime.",
+    "<Alternative A—defendant’s ability to continue unsupervised self-medication not an issue>",
+    "[The law presumes that the defendant currently poses a danger to the health and safety of others as a result of a mental disease, defect, or disorder. In order to overcome this presumption, the defendant has the burden of proving that it is more likely than not that (he/she) no longer poses such a danger.]",
+    "<Alternative B—defendant’s ability to continue unsupervised self-medication an issue>",
+    "[The law presumes that the defendant currently poses a danger to the health and safety of others as a result of a mental disease, defect, or disorder. In order to overcome this presumption, the defendant has the burden of proving that it is more likely than not that:",
+    "1. (He/She) is no longer a danger to the health and safety of others because (he/she) is now taking prescribed medicine that controls (his/her) mental condition;",
+    "AND",
+    "2. (He/She) will continue to take that medicine in an unsupervised environment.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the standard for determining if a defendant has been restored to sanity."
+      },
+      {
+        "text": "Revise and give CALCRIM No. 3550, *Pre-Deliberation Instructions*, as follows: replace the paragraph that begins with “Your verdict [on each count and any special finding(s)] must be unanimous” with “Nine or more of you must agree on your verdict.” (*In re Franklin* (1972) 7 Cal.3d 126, 149 [101 Cal.Rptr. 553, 496 P.2d 465].) In addition, give any other relevant post-trial instructions, such as CALCRIM No. 222, *Evidence*, or CALCRIM No. 226, *Witnesses*."
+      },
+      {
+        "text": "Do not give CALCRIM No. 224, *Circumstantial Evidence: Sufficiency of Evidence*, or CALCRIM No. 225, *Circumstantial Evidence: Intent or Mental State*. These instructions have “no application when the standard of proof is preponderance of the evidence.” (*People v. Johnwell* (2004) 121 Cal.App.4th 1267, 1274 [18 Cal.Rptr.3d 286].)"
+      },
+      {
+        "text": "Do not give this instruction in conjunction with proceedings under Penal Code sections 2970 and 2972. (*People v. Noble* (2002) 100 Cal.App.4th 184, 190 [121 Cal.Rptr.2d 918].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1026.2."
+      },
+      {
+        "text": "• Unsupervised Self-Medication. *People v. Williams* (1988) 198 Cal.App.3d 1476, 1481–1482 [244 Cal.Rptr. 429]."
+      },
+      {
+        "text": "• Presumption of Continuing Insanity. *In re Franklin* (1972) 7 Cal.3d 126, 141 [101 Cal.Rptr. 553, 496 P.2d 465] [interpreting precursor statute]."
+      },
+      {
+        "text": "• Three-Fourths Verdict and Defendant’s Burden of Proof. *In re Franklin* (1972) 7 Cal.3d 126, 149 [101 Cal.Rptr. 553, 496 P.2d 465]; *People v. Mapp* (1983) 150 Cal.App.3d 346, 351 [198 Cal.Rptr. 177]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Court May Order a Directed Verdict"
+      },
+      {
+        "text": "The court may order a directed verdict when insufficiency of the evidence warrants it. (*People v. Mapp* (1983) 150 Cal.App.3d 346, 351 [198 Cal.Rptr. 177].)"
+      },
+      {
+        "heading": true,
+        "text": "Both Parties Have Right to Jury Trial on Issue of Restoration of Sanity"
+      },
+      {
+        "text": "Even if the defendant waives the right to a jury on the issue of restoration of sanity, the prosecution may still assert its right to a jury. (*People v. Superior Court (Almond)* (1990) 219 Cal.App.3d 607, 612 [268 Cal.Rptr. 375].)"
+      },
+      {
+        "heading": true,
+        "text": "No Right to Jury Trial on First-Stage Hearing on Outpatient Treatment"
+      },
+      {
+        "text": "Even though success at the first-stage hearing is a necessary step on the way to eventual release, equal protection does not require that a criminal defendant who has been committed has a right to a jury at such a hearing. (*People v. Tilbury* (1991) 54 Cal.3d 56, 67 [284 Cal.Rptr. 288, 813 P.2d 1318].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

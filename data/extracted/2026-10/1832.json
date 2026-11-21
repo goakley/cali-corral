@@ -1,0 +1,102 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1832",
+  "title": "Extortion of Signature (Pen. Code, § 522)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1296,
+      1297
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with obtaining a signature by extortion [in violation of Penal Code section 522].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—threatened to injure or used force>",
+    "[1. The defendant (threatened to unlawfully injure/[or] used force against) (another person or someone else/[or] the property of another person or someone else);]",
+    "<Alternative 1B—threatened to accuse of crime>",
+    "[1. The defendant threatened to accuse another person[, or that person’s relative or family member,] of a crime;]",
+    "<Alternative 1C—threatened to expose secret>",
+    "[1. The defendant threatened to expose a secret about another person[, or that person’s relative or family member,] [or to expose or connect (him/her/any of them) with a (disgrace[,]/[or] crime[,]/[or] deformity)];]",
+    "2. When (making the threat/[or] using force), the defendant intended to use that (fear/[or] force) to obtain the other person’s signature on (a/an) (document/check/______ <specify other paper or instrument>) that, if voluntarily signed, would transfer property or create a (debt/demand/charge/right of legal action);",
+    "AND",
+    "3. As a result of the (threat/[or] use of force), the other person signed the (document/check/______ <specify other paper or instrument>).",
+    "[Threatening to do something that a person has a legal right to do is not a threat to commit an unlawful injury.]",
+    "[The fear caused by the threat must be the controlling reason that the other person signed the document. If the person signed the document because of some other controlling reason, the defendant is not guilty of extortion.]",
+    "[A *secret* is a fact that:",
+    "1. Is unknown to the general public or to someone who might be interested in knowing the fact;",
+    "AND",
+    "2. Harms the threatened person’s reputation or other interest so greatly that he or she would be likely to sign (a/an) (document/check/______ <specify other paper or instrument>) to prevent the fact from being revealed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Depending on the evidence, in element 1, give the appropriate alternative A–C describing the threat. (See Pen. Code, § 519.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 522."
+      },
+      {
+        "text": "• Coerced Consent. *People v. Goodman* (1958) 159 Cal.App.2d 54, 61 [323 P.2d 536]; *People v. Peck* (1919) 43 Cal.App. 638, 645 [185 P. 881] [extortion under Pen. Code, §§ 518, 519]."
+      },
+      {
+        "text": "• Crime Complete When Document Signed. *People v. Massengale* (1970) 10 Cal.App.3d 689, 692 [89 Cal.Rptr. 237]."
+      },
+      {
+        "text": "• Fear Must Be Controlling Cause. *People v. Goodman* (1958) 159 Cal.App.2d 54, 61 [323 P.2d 536] [extortion under Pen. Code, §§ 518, 519]."
+      },
+      {
+        "text": "• Secret Defined. *People v. Lavine* (1931) 115 Cal.App. 289, 295 [1 P.2d 496] [extortion under Pen. Code, §§ 518, 519]."
+      },
+      {
+        "text": "• Unlawful Injury Defined. *People v. Schmitz* (1908) 7 Cal.App. 330, 369–370 [94 P. 407, 94 P. 419] [extortion under Pen. Code, §§ 518, 519]."
+      },
+      {
+        "text": "• Threat to Accuse of Crime Includes Threat to Continue Pursuit of Criminal Charge. *People v. Umana* (2006) 138 Cal.App.4th 625, 640–641 [41 Cal.Rptr.3d 573]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Extortion. Pen. Code, § 524."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

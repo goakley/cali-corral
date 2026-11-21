@@ -1,0 +1,123 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3224",
+  "title": "Aggravating Factor: Great Violence, Great Bodily Harm, or High Degree of Cruelty, Viciousness, or Callousness",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2294,
+      2297
+    ]
+  },
+  "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "<Introductory paragraph for nonbifurcated trial>",
+    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______][ or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the crime[s][ in Count[s] ______] involved (great violence[,]/[or ]great bodily harm[,]/[or ]threat[s] of great bodily harm[,]/[or ][(other/an)] act[s] revealing a high degree of cruelty, viciousness, or callousness).]",
+    "<Introductory paragraph for bifurcated trial>",
+    "[The People have alleged that the crime[s][ in Count[s] ______] involved (great violence[,]/[or ]great bodily harm[,]/[or ]threat[s] of great bodily harm[,]/[or ][(other/an)] act[s] revealing a high degree of cruelty, viciousness, or callousness).]",
+    "To prove this allegation, the People must prove that:",
+    "1. During the commission of the crime[s], the defendant (used great violence[,]/[or ]inflicted great bodily harm[,]/[or ]threatened to inflict great bodily harm[,]/[or ]committed (other/an) act[s] showing a high degree of cruelty, viciousness, or callousness);",
+    "AND",
+    "2. The (type/level) of (violence[,]/[or ]bodily harm[,]/[or ]threat of bodily harm[,]/[or ]cruelty, viciousness, or callousness) was distinctively worse than what was necessary to commit the crime[s].",
+    "[For the crime to have been committed with (great violence[,]/[or ]cruelty[,]/[or ]viciousness[,]/[or ]callousness), no one needs to actually have been injured by the defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed the crime with (great violence[,]/[or ]cruelty[,]/[or ]viciousness[,]/[or ]callousness).]",
+    "[*Great bodily harm* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[*Threat of great bodily harm* means the threat of significant or substantial physical injury. It is a threatened injury that would result in greater than moderate harm.]",
+    "[*Viciousness* means dangerously aggressive or marked by violence or ferocity. *Viciousness* is not the same as violence. For example, some acts which may be described as vicious do not involve violence at all, but rather involve acts such as deceit and slander. On the other hand, many violent acts do not indicate viciousness, but instead show frustration, justifiable rage, or self-defense.]",
+    "[An act discloses *cruelty* when it demonstrates the deliberate infliction of physical or mental suffering.]",
+    "[An act discloses *callousness* when it demonstrates a lack of sympathy for the suffering of, or harm to, the victim[s].]",
+    "You may not find the allegation true unless all of you agree that the People have proved at least one of the following: that the defendant (used great violence[,]/[or ]inflicted great bodily harm[,]/[or ]threatened to inflict great bodily harm[,]/[or ]committed[ other] acts showing a high degree of cruelty, viciousness, or callousness). However, you need not all agree on the act[s] or conduct that [constitutes the (use of great violence[,]/[or ]infliction of great bodily harm[,]/[or ]threat to inflict great bodily harm)][ or][ show a high degree of cruelty, viciousness, or callousness.",
+    "You may not find the allegation true unless all of you agree that the People have proved that the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime.",
+    "[You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction is provided for the court to use for an aggravating factor as stated in California Rules of Court, rule 4.421. (See Pen. Code, §§ 1170, 1170.1; see also *People v. Wiley* (2025) 17 Cal.5th 1069, 1086 [333 Cal.Rptr.3d 635, 570 P.3d 436]; *Cunningham v. California* (2007) 549 U.S. 270 [127 S.Ct. 856, 166 L.Ed.2d 856].)"
+      },
+      {
+        "text": "Do not give an aggravating factor that is an element of the convicted offense. (Pen. Code, § 1170(b)(5).)"
+      },
+      {
+        "text": "The court should specify which crimes the aggravating factor pertains to if it applies to one or more specific counts."
+      },
+      {
+        "text": "The court must bifurcate the jury’s determination of the aggravating factors on the defendant’s request “[e]xcept where evidence supporting an aggravating circumstance is admissible to prove or defend against the charged offense or enhancement at trial, or it is otherwise authorized by law.” (Pen. Code, § 1170(b)(2).) For a bifurcated trial, the court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggravating Factor. California Rules of Court, rule 4.421(a)(1)."
+      },
+      {
+        "text": "• “Aggravating Fact” Defined. *People v. Hicks* (2017) 17 Cal.App.5th 496, 512 [225 Cal.Rptr.3d 682]; *People v. Zamarron* (1994) 30 Cal.App.4th 865, 872 [36 Cal.Rptr.2d 17]; *People v. Moreno* (1982) 128 Cal.App.3d 103, 110 [179 Cal.Rptr. 879] [“The essence of ‘aggravation’ relates to the effect of a particular fact in making the offense distinctively worse than the ordinary”]."
+      },
+      {
+        "text": "• Unanimity Not Required Regarding Facts Underlying the Aggravating Factor. *People v. McDaniel* (2021) 12 Cal.5th 97, 142–148 [283 Cal.Rptr.3d 32, 493 P.3d 815]."
+      },
+      {
+        "text": "• Force, Violence, or Threat Beyond What Is Necessary to Accomplish Criminal Purpose. *People v. Karsai* (1982) 131 Cal.App.3d 224, 239 [182 Cal.Rptr. 406]; see also *People v. Cortez* (1980) 103 Cal.App.3d 491, 496 [163 Cal.Rptr. 1]; *People v. Harvey* (1984) 163 Cal.App.3d 90, 116 [208 Cal.Rptr. 910]; *People v. Garcia* (1989) 209 Cal.App.3d 790, 793–794 [257 Cal.Rptr. 495]."
+      },
+      {
+        "text": "• Viciousness Not Equivalent to Violence. *People v. Reed* (1984) 157 Cal.App.3d 489, 492 [203 Cal.Rptr. 659]."
+      },
+      {
+        "text": "• Actual Bodily Harm Not Required. *People v. Duran* (1982) 130 Cal.App.3d 987, 990 [182 Cal.Rptr. 17]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Distinctively Worse Than the Ordinary"
+      },
+      {
+        "text": "The committee is aware of *Johnson v. United States* (2015) 576 U.S. 591, 597–598 [135 S.Ct. 2551, 192 L.Ed.2d 569], in which the United States Supreme Court held that determining what constitutes an “ordinary” violation of a criminal statute may create a constitutional vagueness problem. Nevertheless, in light of California case law that has never been disapproved (see, e.g., *People v. Moreno, supra,* 128 Cal.App.3d at p. 110), the committee has elected to include in the instruction the state law requirement that an aggravating factor may not be found to be true unless the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime."
+      },
+      {
+        "text": "One court has held that the aggravating factor scheme under California Rules of Court, rule 4.421 does not present the same problem as *Johnson* because comparing the defendant’s conduct with other ways in which the same offense has been or may be committed “does not require the decisionmaker to define a single, imaginary fact pattern as the ‘ordinary’ way of committing the offense” and thus does not raise a constitutional concern. (See *Chavez Zepeda v. Superior Court* (2023) 97 Cal.App.5th 65, 88–90 [315 Cal.Rptr.3d 202].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Prohibition Against Dual Use of Facts at Sentencing"
+      },
+      {
+        "text": "The jury may find true multiple aggravating factors based on the same underlying fact. However, at sentencing, a single underlying fact may not support more than one aggravating factor. (*People v. Fernandez* (1990) 226 Cal.App.3d 669, 680 [276 Cal.Rptr. 631].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

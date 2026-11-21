@@ -1,0 +1,121 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "524",
+  "title": "Second Degree Murder: Peace Officer (Pen. Code, § 190(b), (c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      343,
+      346
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2009, February 2013, September 2019, September 2020, March 2022, October 2025",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of second degree murder [as charged in Count ______], you must then decide whether the People have proved the additional allegation that (he/she) murdered a peace officer.",
+    "To prove this allegation the People must prove that:",
+    "1. ______ <insert officer’s name, excluding title> was a peace officer lawfully performing (his/her) duties as a peace officer;",
+    "[AND]",
+    "2. When the defendant killed ______ <insert officer’s name, excluding title>, the defendant knew, or reasonably should have known, that ______ <insert officer’s name, excluding title> was a peace officer who was performing (his/her) duties(;/.)",
+    "<Give element 3 when defendant charged with Pen. Code, § 190(c)>",
+    "[AND",
+    "3. The defendant (intended to kill the peace officer/[or] intended to inflict great bodily injury on the peace officer/[or] personally used a (deadly or dangerous weapon/[or] firearm) in the commission of the offense).]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[A *deadly or dangerous weapon* is any object, instrument, or weapon [that is inherently deadly or dangerous or one] that is used in such a way that it is capable of causing and likely to cause death or great bodily injury.]",
+    "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it was designed.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[Someone *personally uses* a (deadly weapon/[or] firearm) if he or she intentionally does any of the following:",
+    "1. Displays the weapon in a menacing manner;",
+    "2. Hits someone with the weapon;",
+    "OR",
+    "3. Fires the weapon.]",
+    "[The People allege that the defendant ______ <insert all of the factors from element 3 when multiple factors are alleged>. You may not find the defendant guilty unless you all agree that the People have proved at least one of these alleged facts and you all agree on which fact or facts were proved. You do not need to specify the fact or facts in your verdict.]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[The duties of (a/an) ______ <insert title of peace officer> include ______ <insert job duties>.]",
+    "<When lawful performance is an issue, give the following paragraph and Instruction 2670, Lawful Performance: Peace Officer.>",
+    "[A peace officer is not lawfully performing his or her duties if he or she is (unlawfully arresting or detaining someone/[or] using unreasonable or excessive force in his or her duties). Instruction 2670 explains (when an arrest or detention is unlawful/[and] when force is unreasonable or excessive).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the sentencing enhancement. (See *People v. Marshall* (2000) 83 Cal.App.4th 186, 193–195 [99 Cal.Rptr.2d 441]; *Apprendi v. New Jersey* (2000) 530 U.S. 466, 475–476, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "If the defendant is charged under Penal Code section 190(b), give only elements 1 and 2. If the defendant is charged under Penal Code section 190(c), give all three elements, specifying the appropriate factors in element 3, and give the appropriate definitions, which follow in brackets. Give the bracketed unanimity instruction if the prosecution alleges more than one factor in element 3."
+      },
+      {
+        "text": "In order to be “engaged in the performance of his or her duties,” a peace officer must be acting lawfully. (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1217 [275 Cal.Rptr. 729, 800 P.2d 1159].) “[D]isputed facts bearing on the issue of legal cause must be submitted to the jury considering an engaged-in-duty element.” (*Ibid.*) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) On request, the court must instruct that the prosecution has the burden of proving the lawfulness of the arrest beyond a reasonable doubt. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651].) If lawful performance is an issue, give the bracketed paragraph on lawful performance and the appropriate portions of CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). (*Ibid.*) However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). (*Ibid.*) If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "“Peace officer,” as used in this statute, means “as defined in subdivision (a) of Section 830.1, subdivision (a), (b), or (c) of Section 830.2, subdivision (a) of Section 830.33, or Section 830.5.” (Pen. Code, § 190(b) & (c).)"
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins, “The duties of a ______ <insert title . . . .> include,” on request. The court may insert a description of the officer’s duties such as “the correct service of a facially valid search warrant.” (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1222 [275 Cal.Rptr. 729, 800 P.2d 1159].)"
+      },
+      {
+        "text": "Give the bracketed phrase “that is inherently deadly or one” and give the bracketed definition of *inherently deadly* only if the object is a deadly weapon as a matter of law. (*People v. Stutelberg* (2018) 29 Cal.App.5th 314, 317–318 [240 Cal.Rptr.3d 156].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Second Degree Murder of a Peace Officer. Pen. Code, § 190(b) & (c)."
+      },
+      {
+        "text": "• Personally Used Deadly or Dangerous Weapon. Pen. Code, § 12022."
+      },
+      {
+        "text": "• Personally Used Firearm. Pen. Code, § 12022.5."
+      },
+      {
+        "text": "• Personal Use. Pen. Code, § 1203.06(b)(2)."
+      },
+      {
+        "text": "• “Inherently Deadly” Defined. *People v. Perez* (2018) 4 Cal.5th 1055, 1065 [232 Cal.Rptr.3d 51, 416 P.3d 42]; *People v. Aguilar* (1997) 16 Cal.4th 1023, 1028–1029 [68 Cal.Rptr.2d 655, 945 P.2d 1204]."
+      },
+      {
+        "text": "• Examples of Noninherently Deadly Weapon. *People v. Aledamat* (2019) 8 Cal.5th 1, 6 [251 Cal.Rptr.3d 371, 447 P.3d 277] [box cutter]; *People v. Perez* (2018) 4 Cal.5th 1055, 1065 [232 Cal.Rptr.3d 51, 416 P.3d 42] [vehicle]; *People v. McCoy* (1944) 25 Cal.2d 177, 188 [153 P.2d 315] [knife]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

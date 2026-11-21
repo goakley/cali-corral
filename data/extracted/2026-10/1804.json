@@ -1,0 +1,201 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1804",
+  "title": "Theft by False Pretense (Pen. Code, § 484)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1260,
+      1264
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, December 2008, April 2010",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with [grand/petty] theft by false pretense [in violation of Penal Code section 484].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant knowingly and intentionally deceived a property owner [or the owner’s agent] by false or fraudulent representation or pretense;",
+    "2. The defendant did so intending to persuade the owner [or the owner’s agent] to let the defendant [or another person] take possession and ownership of the property;",
+    "AND",
+    "3. The owner [or the owner’s agent] let the defendant [or another person] take possession and ownership of the property because the owner [or the owner’s agent] relied on the representation or pretense.",
+    "You may not find the defendant guilty of this crime unless the People have proved that:",
+    "[A. The false pretense was accompanied by either a false writing or false token(;/.)]",
+    "[OR]",
+    "[(A/B). There was a note or memorandum of the pretense signed or handwritten by the defendant(;/.)]",
+    "[OR]",
+    "[(A/B/C). Testimony from two witnesses or testimony from a single witness along with other evidence supports the conclusion that the defendant made the pretense.]",
+    "[*Property* includes money, labor, and real or personal property.]",
+    "A *false pretense* is any act, word, symbol, or token the purpose of which is to deceive.",
+    "[Someone makes a false pretense if, intending to deceive, he or she does [one or more of] the following:",
+    "[1. Gives information he or she knows is false(./;)]",
+    "[OR",
+    "2. Makes a misrepresentation recklessly without information that justifies a reasonable belief in its truth(./;)]",
+    "[OR",
+    "3. Does not give information when he or she has an obligation to do so(./;)]",
+    "[OR",
+    "4. Makes a promise not intending to do what he or she promises.]]",
+    "[Proof that the representation or pretense was false is not enough by itself to prove that the defendant intended to deceive.]",
+    "[Proof that the defendant did not perform as promised is not enough by itself to prove that the defendant did not intend to perform as promised.]",
+    "[A false token is a document or object that is not authentic, but appears to be, and is used to deceive.]",
+    "[For petty theft, the property taken can be of any value, no matter how slight.]",
+    "[An owner [or an owner’s agent] relies on false pretense, if the falsehood is an important part of the reason the owner [or agent] decides to give up the property. The false pretense must be an important factor, but it does not have to be the only factor the owner [or agent] considers in making the decision. [If the owner [or agent] gives up property some time after the pretense is made, the owner [or agent] must do so because he or she relies on the pretense.]]",
+    "[An *agent* is someone to whom the owner has given complete or partial authority and control over the owner’s property.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    15.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of this crime, including the corroboration requirements stated in Penal Code section 532(b). (*People v. Mason* (1973) 34 Cal.App.3d 281, 286 [109 Cal.Rptr. 867] [error not to instruct on corroboration requirements].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If the defendant is also charged with grand theft, give CALCRIM No. 1801, *Theft: Degrees*. If the defendant is charged with petty theft, no other instruction is required, and the jury should receive a petty theft verdict form."
+      },
+      {
+        "text": "If the defendant is charged with petty theft with a prior conviction, give CALCRIM No. 1850, *Petty Theft With Prior Conviction*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code § 484; *People v. Wooten* (1996) 44 Cal.App.4th 1834, 1842 [52 Cal.Rptr.2d 765]; see *People v. Webb* (1999) 74 Cal.App.4th 688, 693–694 [88 Cal.Rptr.2d 259, 64 Cal. Comp. Cases 1040] [false statement of opinion]."
+      },
+      {
+        "text": "• Corroboration Requirements. Pen. Code § 532(b); *People v. Gentry* (1991) 234 Cal.App.3d 131, 139 [285 Cal.Rptr. 591]; *People v. Fujita* (1974) 43 Cal.App.3d 454, 470–471 [117 Cal.Rptr. 757]."
+      },
+      {
+        "text": "• Agent. *People v. Britz* (1971) 17 Cal.App.3d 743, 753 [95 Cal.Rptr. 303]."
+      },
+      {
+        "text": "• Reckless Misrepresentation. *People v. Schmitt* (1957) 155 Cal.App.2d 87, 110 [317 P.2d 673]; *People v. Ryan* (1951) 103 Cal.App.2d 904, 908–909 [230 P.2d 359]."
+      },
+      {
+        "text": "• Defendant Need Not Be Beneficiary of Theft. *People v. Cheeley* (1951) 106 Cal.App.2d 748, 753 [236 P.2d 22]."
+      },
+      {
+        "text": "• Reliance. *People v. Wooten* (1996) 44 Cal.App.4th 1834, 1842–1843 [52 Cal.Rptr.2d 765] [defining reliance]; *People v. Sanders* (1998) 67 Cal.App.4th 1403, 1413 [79 Cal.Rptr.2d 806] [reversible error to fail to instruct on reliance]; *People v. Whight* (1995) 36 Cal.App.4th 1143, 1152–1153 [43 Cal.Rptr.2d 163] [no reliance if victim relies solely on own investigation]."
+      },
+      {
+        "text": "• Theft of Real Property by False Pretenses. *People v. Sanders* (1998) 67 Cal.App.4th 1403, 1413–1417 [79 Cal.Rptr.2d 806]."
+      },
+      {
+        "text": "• Theft by False Pretenses Includes Obtaining Loan by False Pretenses. *Perry v. Superior Court of Los Angeles County* (1962) 57 Cal.2d 276, 282–283 [19 Cal.Rptr.1, 368 P.2d 529]."
+      },
+      {
+        "text": "• Either Token or Writing Must Be False. *People v. Henning* (2009) 173 Cal.App.4th 632, 641–642 [92 Cal.Rptr.3d 775]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Petty Theft. Pen. Code, § 486."
+      },
+      {
+        "text": "• Attempted Theft. Pen. Code, §§ 664, 484."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Attempted Theft by False Pretense"
+      },
+      {
+        "text": "Reliance on the false pretense need not be proved for a person to be guilty of attempted theft by false pretense. (*People v. Fujita* (1974) 43 Cal.App.3d 454, 467 [117 Cal.Rptr. 757].)"
+      },
+      {
+        "heading": true,
+        "text": "Continuing Nature of False Pretense"
+      },
+      {
+        "text": "Penal Code section 484 recognizes that theft by false pretense is a crime of a continuing nature and covers any “property or service received as a result thereof, and the complaint, information or indictment may charge that the crime was committed on any date during the particular period in question.” (Pen. Code, § 484(a).)"
+      },
+      {
+        "heading": true,
+        "text": "Corroboration—Defined/Multiple Witnesses"
+      },
+      {
+        "text": "“Corroborating evidence is sufficient if it tends to connect the defendant with the commission of the crime in such a way so as to reasonably satisfy the jury that the complaining witness is telling the truth.” (*People v. Fujita* (1974) 43 Cal.App.3d 454, 470 [117 Cal.Rptr. 757].) When considering if the pretense is corroborated the jury may consider “the entire conduct of the defendant, and his declarations to other persons.” (*People v. Wymer* (1921) 53 Cal.App. 204, 206 [199 P. 815].) The test for corroboration of false pretense is the same as the test for corroborating the testimony of an accomplice in Penal Code section 1111. (*Ibid.*; see also *People v. MacEwing* (1955) 45 Cal.2d 218, 224 [288 P.2d 257].) To establish corroboration by multiple witnesses, the witnesses do not have to testify to the same false pretense. The requirement is satisfied as long as they testify to the same scheme or type of false pretense. (*People v. Gentry* (1991) 234 Cal.App.3d 131, 139 [285 Cal.Rptr. 591]; *People v. Ashley* (1954) 42 Cal.2d 246, 268 [267 P.2d 271].)"
+      },
+      {
+        "heading": true,
+        "text": "Distinguished from Theft by Trick"
+      },
+      {
+        "text": "Although fraud is used to obtain the property in both theft by trick and theft by false pretense, in theft by false pretense, the thief obtains *both* possession and title to the property. For theft by trick, the thief gains only possession of the property. (*People v. Ashley* (1954) 42 Cal.2d 246, 258 [267 P.2d 271]; *People v. Randono* (1973) 32 Cal.App.3d 164, 172 [108 Cal.Rptr. 326].) False pretenses does not require that the title pass perfectly and the victim may even retain a security interest in the property transferred to the defendant. (*People v. Counts* (1995) 31 Cal.App.4th 785, 789–792 [37 Cal.Rptr.2d 425].)"
+      },
+      {
+        "heading": true,
+        "text": "Fraudulent Checks"
+      },
+      {
+        "text": "If a check is the basis for the theft by false pretense, it cannot also supply the written corroboration required by statute. (*People v. Mason* (1973) 34 Cal.App.3d 281, 288 [109 Cal.Rptr. 867].)"
+      },
+      {
+        "heading": true,
+        "text": "Genuine Writings"
+      },
+      {
+        "text": "A genuine writing that is falsely used is not a false token. (*People v. Beilfuss* (1943) 59 Cal.App.2d 83, 91 [138 P.2d 332] [valid check obtained by fraud not object of theft by false pretense].)"
+      },
+      {
+        "heading": true,
+        "text": "Implicit Misrepresentations"
+      },
+      {
+        "text": "The misrepresentation does not have to be made in an express statement; it may be implied from behavior or other circumstances. (*People v. Mace* (1925) 71 Cal.App. 10, 21 [234 P. 841]; *People v. Randono* (1973) 32 Cal.App.3d 164, 174–175 [108 Cal.Rptr. 326] [analogizing to the law of implied contracts].)"
+      },
+      {
+        "heading": true,
+        "text": "Non-Performance of a Promise Is Insufficient to Prove a False Pretense"
+      },
+      {
+        "text": "The pretense may be made about a past or present fact or about a promise to do something in the future. (*People v. Ashley* (1954) 42 Cal.2d 246, 259–265 [267 P.2d 271].) If the pretense relates to future actions, evidence of non-performance of the promise is not enough to establish the falsity of a promise. (*People v. Fujita* (1974) 43 Cal.App.3d 454, 469 [117 Cal.Rptr. 757].) The intent to defraud at the time the promise is made must be demonstrated. As the court in *Ashley* stated, “[w]hether the pretense is a false promise or a misrepresentation of fact, the defendant’s intent must be proved in both instances by something more than mere proof of non-performance or actual falsity.” (*People v. Ashley, supra,* 42 Cal.2d at p. 264 [court also stated that defendant is entitled to instruction on this point but did not characterize duty as sua sponte].)"
+      },
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1800, *Theft by Larceny*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

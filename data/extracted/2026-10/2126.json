@@ -1,0 +1,74 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2126",
+  "title": "Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions—Bifurcated Trial (Veh. Code, §§ 23550, 23550.5 & 23566)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1517,
+      1518
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2018",
+  "revision_legend": null,
+  "body": [
+    "The People have alleged that the defendant was previously convicted of (another/other) driving under the influence offense[s]. It has already been determined that the defendant is the person named in exhibits ______ <insert numbers or descriptions of exhibits>. You must decide whether the evidence proves that the defendant was convicted of the alleged crime[s].",
+    "The People allege that the defendant has been convicted of:",
+    "[1.] A violation of ______ <insert Veh. Code section violated>, on ______ <insert date of conviction>, in the ______ <insert name of court>, in Case Number ______ <insert docket or case number>(;/.)",
+    "[AND <Repeat for each prior conviction alleged>.]",
+    "[In deciding whether the People have proved the allegation[s], consider only the evidence presented in this proceeding. Do not consider your verdict or any evidence from the earlier part of the trial.]",
+    "You may not return a finding that (the/any) alleged conviction has or has not been proved unless all 12 of you agree on that finding."
+  ],
+  "body_indents": [
+    0.0,
+    12.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on proof of the alleged prior convictions. Give this instruction if the court has granted a bifurcated trial. The court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “In deciding whether the People have proved” on request."
+      },
+      {
+        "text": "The court must provide the jury with a verdict form on which the jury will indicate if the prior conviction has been proved. (Pen. Code, § 1158.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancements. Veh. Code, §§ 23550, 23550.5 & 23566."
+      },
+      {
+        "text": "• Prior Convictions. *People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170]."
+      },
+      {
+        "text": "• Bifurcation. *People v. Calderon* (1994) 9 Cal.4th 69, 77–79 [36 Cal.Rptr.2d 333]; *People v. Cline* (1998) 60 Cal.App.4th 1327, 1334–1336 [71 Cal.Rptr.2d 41]."
+      },
+      {
+        "text": "• Judge Determines if Defendant Person Named in Documents. Pen. Code, § 1025(b); *People v. Garcia* (2003) 107 Cal.App.4th 1159, 1165 [132 Cal.Rptr.2d 694]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section in CALCRIM No. 2125, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions*, and CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,109 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3261",
+  "title": "While Committing a Felony: Defined—Escape Rule",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2340,
+      2342
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, August 2013, September 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The People must prove that ______ <insert allegation, e.g., the defendant personally used a firearm> while committing [or attempting to commit] ______ <insert felony or felonies>.",
+    "<Give one or more bracketed paragraphs below depending on crime[s] alleged.>",
+    "<Robbery>",
+    "[The crime of robbery [or attempted robbery] continues until the perpetrator[s] (has/have) actually reached a place of temporary safety.",
+    "The perpetrator[s] (has/have) reached a place of temporary safet*y* if:",
+    "• (He/She/They) (has/have) successfully escaped from the scene; [and]",
+    "• (He/She/They) (is/are) not or (is/are) no longer being chased(; [and]/.)",
+    "• [(He/She/They) (has/have) unchallenged possession of the property(; [and]/.)]",
+    "• [(He/She/They) (is/are) no longer in continuous physical control of the person who is the target of the robbery.]]",
+    "<Burglary>",
+    "[The crime of burglary [or attempted burglary] continues until the perpetrator[s] (has/have) actually reached a place of temporary safety. The perpetrator[s] (has/have) reached a place of temporary safety if (he/she/they) (has/have) successfully escaped from the scene[,] [and] (is/are) no longer being chased[, and (has/have) unchallenged possession of the property].]",
+    "<Sexual Assault>",
+    "[The crime of ______ <insert sexual assault alleged> [or attempted ______ <insert sexual assault alleged>] continues until the perpetrator[s] (has/have) actually reached a place of temporary safety. The perpetrator[s] (has/have) reached a place of temporary safety if (he/she/they) (has/have) successfully escaped from the scene[,] [and] (is/are) no longer being chased[, and (is/are) no longer in continuous physical control of the person who was the target of the crime].]",
+    "<Kidnapping>",
+    "[The crime of kidnapping [or attempted kidnapping] continues until the perpetrator[s] (has/have) actually reached a place of temporary safety. The perpetrator[s] (has/have) reached a place of temporary safety if (he/she/they) (has/have) successfully escaped from the scene, (is/are) no longer being chased, and (is/are) no longer in continuous physical control of the person kidnapped.]",
+    "<Other Felony>",
+    "[The crime of ______ <insert felony alleged> [or attempted ______ <insert felony alleged>] continues until the perpetrator[s] (has/have) actually reached a place of temporary safety. The perpetrator[s] (has/have) reached a place of temporary safety if (he/she/they) (has/have) successfully escaped from the scene and (is/are) no longer being chased.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    23.8,
+    23.8,
+    23.8,
+    23.8,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Give this instruction whenever the evidence raises an issue over the duration of the felony and another instruction given to the jury has required some act “during the commission or attempted commission” of the felony. (See *People v. Wilkins* (2013) 56 Cal.4th 333, 347–348 [153 Cal.Rptr.3d 519, 295 P.3d 903].)"
+      },
+      {
+        "text": "This instruction should not be given if the issue is when the defendant formed the intent to aid and abet a robbery or a burglary. For robbery, give CALCRIM No. 1603, *Robbery: Intent of Aider and Abettor*. For burglary, give CALCRIM No. 1702, *Burglary: Intent of Aider and Abettor*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Escape Rule. *People v. Wilkins, supra*, 56 Cal.4th at pp. 347–348."
+      },
+      {
+        "text": "• Place of Temporary Safety. *People v. Salas* (1972) 7 Cal.3d 812, 823 [103 Cal.Rptr. 431, 500 P.2d 7]; *People v. Johnson* (1992) 5 Cal.App.4th 552, 560 [7 Cal.Rptr.2d 23]."
+      },
+      {
+        "text": "• Continuous Control of Victim. *People v. Thompson* (1990) 50 Cal.3d 134, 171–172 [266 Cal.Rptr. 309, 785 P.2d 857] [lewd acts]; *People v. Carter* (1993) 19 Cal.App.4th 1236, 1251–1252 [23 Cal.Rptr.2d 888] [robbery]."
+      },
+      {
+        "text": "• Robbery. *People v. Salas, supra*, 7 Cal.3d at p. 823; *People v. Cooper* (1991) 53 Cal.3d 1158, 1170 [282 Cal.Rptr. 450, 811 P.2d 742]."
+      },
+      {
+        "text": "• Burglary. *People v. Bodely* (1995) 32 Cal.App.4th 311, 313–314 [38 Cal.Rptr.2d 72]."
+      },
+      {
+        "text": "• Lewd Acts on Child. *People v. Thompson, supra*, 50 Cal.3d at pp. 171–172."
+      },
+      {
+        "text": "• Sexual Assault. *People v. Portillo* (2003) 107 Cal.App.4th 834, 841–846 [132 Cal.Rptr.2d 435]; *People v. Hart* (1999) 20 Cal.4th 546, 611 [85 Cal.Rptr.2d 132, 976 P.2d 683]; *People v. Hernandez* (1988) 47 Cal.3d 315, 348 [253 Cal.Rptr. 199, 763 P.2d 1289]."
+      },
+      {
+        "text": "• Kidnapping. *People v. Pearch* (1991) 229 Cal.App.3d 1282, 1299 [280 Cal.Rptr. 584]; *People v. Silva* (1988) 45 Cal.3d 604, 632 [247 Cal.Rptr. 573, 754 P.2d 1070]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Place of Temporary Safety Based on Objective Standard"
+      },
+      {
+        "text": "Whether the defendant had reached a place of temporary safety is judged on an objective standard. The “issue to be resolved is whether a robber had actually reached a place of temporary safety, not whether the defendant thought that he or she had reached such a location.” (*People v. Johnson, supra*, 5 Cal.App.4th at p. 560.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 63
+  },
+  "warnings": []
+}

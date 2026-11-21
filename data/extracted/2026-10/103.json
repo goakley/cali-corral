@@ -1,0 +1,64 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "103",
+  "title": "Reasonable Doubt",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      86,
+      87
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007",
+  "revision_legend": null,
+  "body": [
+    "I will now explain the presumption of innocence and the People’s burden of proof. The defendant[s] (has/have) pleaded not guilty to the charge[s]. The fact that a criminal charge has been filed against the defendant[s] is not evidence that the charge is true. You must not be biased against the defendant[s] just because (he/she/they) (has/have) been arrested, charged with a crime, or brought to trial.",
+    "A defendant in a criminal case is presumed to be innocent. This presumption requires that the People prove a defendant guilty beyond a reasonable doubt. Whenever I tell you the People must prove something, I mean they must prove it beyond a reasonable doubt [unless I specifically tell you otherwise].",
+    "Proof beyond a reasonable doubt is proof that leaves you with an abiding conviction that the charge is true. The evidence need not eliminate all possible doubt because everything in life is open to some possible or imaginary doubt.",
+    "In deciding whether the People have proved their case beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the defendant[s] guilty beyond a reasonable doubt, (he/she/they) (is/are) entitled to an acquittal and you must find (him/her/them) not guilty."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the presumption of innocence and the state’s burden of proof before deliberations. (*People v. Vann* (1974) 12 Cal.3d 220, 225–227 [115 Cal.Rptr. 352, 524 P.2d 824]; *People v. Soldavini* (1941) 45 Cal.App.2d 460, 463 [114 P.2d 415]; *People v. Phillips* (1997) 59 Cal.App.4th 952, 956–958 [69 Cal.Rptr.2d 532].) This instruction is included in this section for the convenience of judges who wish to instruct on this point during voir dire or before testimony begins."
+      },
+      {
+        "text": "If the court will be instructing that the prosecution must prove something by a preponderance of the evidence, give the bracketed phrase “unless I specifically tell you otherwise.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, §§ 1096, 1096a; *People v. Freeman* (1994) 8 Cal.4th 450, 503–504 [34 Cal.Rptr.2d 558, 882 P.2d 249]; *Victor v. Nebraska* (1994) 511 U.S. 1, 16–17 [114 S.Ct. 1239, 127 L.Ed.2d 583]; *Lisenbee v. Henry* (9th Cir. 1999) 166 F.3d 997."
+      },
+      {
+        "text": "• Previous Version of CALCRIM 103 Upheld. *People v. Reyes* (2007) 151 Cal.App.4th 1491, 1496 [60 Cal.Rptr.3d 777]."
+      },
+      {
+        "text": "• Reference to Elements Not Required. *People v. Ramos* (2008) 163 Cal.App.4th 1082, 1088–1089 [78 Cal.Rptr.3d 186]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "This instruction is based directly on Penal Code section 1096. The primary changes are a reordering of concepts and a definition of reasonable doubt stated in the affirmative rather than in the negative. The instruction also refers to the jury’s duty to impartially compare and consider all the evidence. (See *Victor v. Nebraska* (1994) 511 U.S. 1, 16–17 [114 S.Ct. 1239, 127 L.Ed.2d 583].) The appellate courts have urged the trial courts to exercise caution in modifying the language of section 1096 to avoid error in defining reasonable doubt. (See *People v. Freeman* (1994) 8 Cal.4th 450, 503–504 [34 Cal.Rptr.2d 558, 882 P.2d 249]; *People v. Garcia* (1975) 54 Cal.App.3d 61 [126 Cal.Rptr. 275].) The instruction includes all the concepts contained in section 1096 and substantially tracks the statutory language."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

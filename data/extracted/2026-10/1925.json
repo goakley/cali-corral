@@ -1,0 +1,83 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1925",
+  "title": "Forgery of Government, Public, or Corporate Seal (Pen. Code, § 472)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1388,
+      1389
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (forging/[or] counterfeiting) a (government/public/corporate) seal [or (falsely making[,]/[or] forging[,]/[or] counterfeiting) an impression representing a seal] [in violation of Penal Code section 472].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (forged/[or] counterfeited) a seal [or (falsely made[,]/[or] forged[,]/[or] counterfeited) an impression representing a seal] of (this state[,] /[or] a legally authorized public officer[,] /[or] a court of record[,] /[or] a corporation[,]/[or] a public seal legally authorized or recognized by any state, government, or country);",
+    "AND",
+    "2. When the defendant did that act, (he/she) intended to defraud.",
+    "Someone *intends to defraud* if he or she intends to deceive another person either to cause a loss of (money[,]/[or] goods[,]/[or] services[,]/[or] something [else] of value), or to cause damage to, a legal, financial, or property right.",
+    "[For the purpose of this instruction, a *person* includes (a governmental agency/a corporation/a business/an association/the body politic).]",
+    "[It is not necessary that anyone actually be defrauded or actually suffer a financial, legal, or property loss as a result of the defendant’s acts.]",
+    "[The People allege that the defendant (forged[,]/[or] counterfeited[,]/[or] falsely made) the following items: ______ <insert description of each seal or impression when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant (forged[,]/[or] counterfeited[,]/[or] falsely made) at least one of these items and you all agree on which item (he/she) (forged[,]/[or] counterfeited[,]/[or] falsely made).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant forged multiple items, the court has a sua sponte duty to instruct on unanimity. (See *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752].) Give the last bracketed paragraph, inserting the items alleged. (See also Bench Notes to CALCRIM No. 3500, *Unanimity*, discussing when instruction on unanimity is and is not required.)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “For the purpose of this instruction” if the evidence shows an intent to defraud an entity or association rather than a natural person. (Pen. Code, § 8.)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “It is not necessary” if the evidence shows that the defendant did not succeed in defrauding anyone. (*People v. Morgan* (1956) 140 Cal.App.2d 796, 801 [296 P.2d 75].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 472."
+      },
+      {
+        "text": "• Intent to Defraud. *People v. Pugh* (2002) 104 Cal.App.4th 66, 72 [127 Cal.Rptr.2d 770]; *People v. Gaul-Alexander* (1995) 32 Cal.App.4th 735, 745 [38 Cal.Rptr.2d 176]."
+      },
+      {
+        "text": "• Intent to Defraud Entity. Pen. Code, § 8."
+      },
+      {
+        "text": "• Unanimity Instruction If Multiple Items. *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Forgery of Seal. Pen. Code, §§ 664, 472."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

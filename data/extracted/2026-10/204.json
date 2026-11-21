@@ -1,0 +1,56 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "204",
+  "title": "Defendant Physically Restrained",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      110,
+      111
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The fact that physical restraints have been placed on [the] defendant[s] [______ <insert name[s] of defendant[s] if multiple defendants in case but not all are restrained>] is not evidence. Do not speculate about the reason. You must completely disregard this circumstance in deciding the issues in this case. Do not consider it for any purpose or discuss it during your deliberations."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if a defendant has been restrained in a manner that is visible to the jury. (*People v. Duran* (1976) 16 Cal.3d 282, 291–292 [127 Cal.Rptr. 618, 545 P.2d 1322].) If the restraints are not visible, do not give this instruction unless requested by the defense."
+      },
+      {
+        "text": "The court must find a “manifest need for such restraints” and the record must clearly disclose the reasons the restraints were used. (*People v. Duran, supra*, 16 Cal.3d at pp. 290–291.) “The imposition of physical restraints in the absence of a record showing . . . violence or a threat of violence or other nonconforming conduct will be deemed to constitute an abuse of discretion.” (*Id.* at p. 291.) The court must make the determination based on facts, not rumor, and may not delegate the decision to law enforcement personnel. (*People v. Mar* (2002) 28 Cal.4th 1201, 1218 [124 Cal.Rptr.2d 161, 52 P.3d 95].) The reasons supporting physical restraints must relate to the individual defendant. The court cannot rely on the nature of the charges, the courtroom design, or the lack of sufficient staff. (*People v. Slaughter* (2002) 27 Cal.4th 1187, 1213 [120 Cal.Rptr.2d 477, 47 P.3d 262]; *People v. Cunningham* (2001) 25 Cal.4th 926, 986–987 [108 Cal.Rptr.2d 291, 25 P.3d 519]; *People v. Seaton* (2001) 26 Cal.4th 598, 652 [110 Cal.Rptr.2d 441, 28 P.3d 175].)"
+      },
+      {
+        "text": "The use of stun belts is subject to the same requirements. (*People v. Mar, supra*, 28 Cal.4th at pp. 1205–1206.) In addition, the Supreme Court has urged “great caution” in using stun belts at all, stating that, prior to using such devices, courts must consider the psychological impact, risk of accidental activation, physical dangers, and limited ability to control the level of shock delivered. (*Ibid.*)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Duty. *People v. Duran* (1976) 16 Cal.3d 282, 291–292 [127 Cal.Rptr. 618, 545 P.2d 1322]."
+      },
+      {
+        "text": "• Requirements Before Use. *People v. Duran* (1976) 16 Cal.3d 282, 290–292 [127 Cal.Rptr. 618, 545 P.2d 1322]; *People v. Mar* (2002) 28 Cal.4th 1201, 1218 [124 Cal.Rptr.2d 161, 52 P.3d 95]."
+      },
+      {
+        "text": "• Use of Stun Belts. *People v. Mar* (2002) 28 Cal.4th 1201, 1205–1206 [124 Cal.Rptr.2d 161, 52 P.3d 95]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

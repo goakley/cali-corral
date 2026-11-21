@@ -1,0 +1,47 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "706",
+  "title": "Special Circumstances: Jury May Not Consider Punishment",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      510,
+      510
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "In your deliberations, you may not consider or discuss penalty or punishment in any way when deciding whether a special circumstance, or any other charge, has been proved."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury not to consider penalty or punishment when deciding on the special circumstances or other charges. (*People v. Robertson* (1982) 33 Cal.3d 21, 36 [188 Cal.Rptr. 77, 655 P.2d 279]; *People v. Holt* (1984) 37 Cal.3d 436, 458 [208 Cal.Rptr. 547, 690 P.2d 1207] [jury may not consider punishment in deciding on special circumstances].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Duty to Instruct. *People v. Robertson* (1982) 33 Cal.3d 21, 36 [188 Cal.Rptr. 77, 655 P.2d 279]."
+      },
+      {
+        "text": "• Jury May Not Consider Punishment. *People v. Holt* (1984) 37 Cal.3d 436, 458 [208 Cal.Rptr. 547, 690 P.2d 1207]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

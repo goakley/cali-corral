@@ -1,0 +1,98 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "761",
+  "title": "Death Penalty: Duty of Jury",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      575,
+      577
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2023",
+  "revision_legend": null,
+  "body": [
+    "I will now instruct you on the law that applies to this [phase of the] case. [I will give you a copy of the instructions to use in the jury room.] [Each of you has a copy of these instructions to use in the jury room.]",
+    "[You must disregard all of the instructions I gave you earlier. I will give you a set of instructions that apply only to this phase of the trial. Some of these instructions will be the same or similar to instructions you have heard before. However, you must follow only this new set of instructions in this phase of the trial.]",
+    "You must decide whether (the/each) defendant will be sentenced to death or life in prison without the possibility of parole. It is up to you and you alone to decide what the penalty will be. [In reaching your decision, consider all of the evidence from the entire trial [unless I specifically instruct you not to consider something from an earlier phase].] Do not allow bias, prejudice, or public opinion to influence your opinion in any way.",
+    "You must follow the law as I explain it to you, even if you disagree with it. If you believe that the attorneys’ comments on the law conflict with my instructions, you must follow my instructions.",
+    "Pay careful attention to all of these instructions and consider them together. If I repeat any instruction or idea, do not conclude that it is more important than any other instruction or idea just because I repeated it.",
+    "Some words or phrases used during this trial have legal meanings that are different from their meanings in everyday use. These words and phrases will be specifically defined in these instructions. Please be sure to listen carefully and follow the definitions that I give you. Words and phrases not specifically defined in these instructions are to be applied using their ordinary, everyday meanings.",
+    "Some of these instructions may not apply, depending on your findings about the facts of the case. [Do not assume just because I give a particular instruction that I am suggesting anything about the facts.] After you have decided what the facts are, follow the instructions that apply to the facts as you find them."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on general concepts of law. (*People v. Babbitt* (1988) 45 Cal.3d 660, 718 [248 Cal.Rptr. 69, 755 P.2d 253].) Because the introductory instructions for the guilt phase contain concepts that do not apply to the penalty phase, the court must clarify for the jury which instructions apply to the penalty phase. (*People v. Babbitt, supra,* 45 Cal.3d at p. 718, fn. 26; *People v. Weaver* (2001) 26 Cal.4th 876, 982 [111 Cal.Rptr.2d 2, 29 P.3d 103], cert. den. sub nom. *Weaver v. California* (2002) 535 U.S. 1058 [122 S.Ct. 1920, 152 L.Ed.2d 828].) The Supreme Court has stated that, in order to avoid confusion, the trial court should provide the jury with a completely new set of instructions for the penalty phase. (*People v. Weaver, supra,* 26 Cal.4th at p. 982.)"
+      },
+      {
+        "text": "The court has a sua sponte duty to give the bracketed paragraph instructing the jury to disregard all previous instructions unless the current jury did not hear the guilt phase of the case. (See *People v. Arias* (1996) 13 Cal.4th 92, 171 [51 Cal.Rptr.2d 770, 913 P.2d 980], cert. den. sub nom. *Arias v. California* (1997) 520 U.S. 1251 [117 S.Ct. 2408, 138 L.Ed.2d 175].)"
+      },
+      {
+        "text": "The court should give the bracketed portion of the last paragraph that begins with “Do not assume just because,” unless the court will be commenting on the evidence pursuant to Penal Code section 1127. The committee recommends against any comment on the evidence in the penalty phase of a capital case."
+      },
+      {
+        "text": "This instruction should be followed by any other general instructions on evidence or principles of law the court deems appropriate based on the facts of the case. Specifically:"
+      },
+      {
+        "text": "• The court has a sua sponte duty to give CALCRIM No. 222, *Evidence* and CALCRIM No. 226, *Witnesses*. (See *People v. Miranda* (1987) 44 Cal.3d 57, 107–108 [241 Cal.Rptr. 594, 744 P.2d 1127].)"
+      },
+      {
+        "text": "• The court has a sua sponte duty to give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*, if the prosecution offers aggravating evidence of other criminal conduct or other felony convictions. However, the reasonable doubt standard does not apply to the question of whether the jury should impose the death penalty or to proof of other aggravating factors. (*People v. Miranda, supra,* 44 Cal.3d at p. 107; *People v. Rodriguez* (1986) 42 Cal.3d 730, 777–779 [230 Cal.Rptr. 667, 726 P.2d 113].)"
+      },
+      {
+        "text": "• If the prosecution relies on circumstantial evidence to prove other criminal conduct, the court has a sua sponte duty to instruct on circumstantial evidence in the penalty phase. (See *People v. Brown* (2003) 31 Cal.4th 518, 564 [3 Cal.Rptr.3d 145, 73 P.3d 1137] [no error where prosecution relied exclusively on direct evidence].)"
+      },
+      {
+        "text": "• When requested, the court must give instructions admonishing the jury not to consider the defendant’s failure to testify during the penalty phase. (*People v. Melton* (1988) 44 Cal.3d 713, 757–758 [244 Cal.Rptr. 867, 750 P.2d 741].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Death Penalty Statute. Pen. Code, § 190.3."
+      },
+      {
+        "text": "• Must Tell Jury Which Instructions Apply. *People v. Babbitt, supra,* 45 Cal.3d at p. 718, fn. 26."
+      },
+      {
+        "text": "• Should Give Jury New Set of Instructions. *People v. Weaver, supra,* 26 Cal.4th at p. 982."
+      },
+      {
+        "text": "• Error to Instruct Not to Consider Sympathy. *People v. Lanphear* (1984) 36 Cal.3d 163, 165 [203 Cal.Rptr. 122, 680 P.2d 1081]; *California v. Brown* (1987) 479 U.S. 538, 542 [107 S.Ct. 837, 93 L.Ed.2d 934]."
+      },
+      {
+        "text": "• Reasonable Doubt. *People v. Miranda, supra,* 44 Cal.3d at p. 107; *People v. Rodriguez, supra,* 42 Cal.3d at pp. 777–779."
+      },
+      {
+        "text": "• Circumstantial Evidence. *People v. Brown, supra,* 31 Cal.4th at p. 564."
+      },
+      {
+        "text": "• Defendant’s Failure to Testify. *People v. Melton, supra,* 44 Cal.3d at pp. 757–758."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Tran* (2022) 13 Cal.5th 1169, 1220–1221 [298 Cal.Rptr.3d 150, 515 P.3d 1210]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

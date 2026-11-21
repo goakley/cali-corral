@@ -1,0 +1,130 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1047",
+  "title": "Sexual Penetration of an Intoxicated Person (Pen. Code, § 289(e))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      878,
+      880
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2020",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sexual penetration of a person while that person was intoxicated [in violation of Penal Code section 289(e)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed an act of sexual penetration with another person;",
+    "2. The penetration was accomplished by using (a/an) (foreign object[,]/[or] substance[,]/[or]instrument[,]/[or]device[,]/[or] unknown object);",
+    "3. The effect of (a/an) (intoxicating/anesthetic/controlled) substance prevented the other person from resisting the act;",
+    "AND",
+    "4. The defendant knew or reasonably should have known that the effect of that substance prevented the other person from resisting the act.",
+    "*Sexual penetration* means (penetration, however slight, of the genital or anal opening of the other person/[or] causing the other person to penetrate, however slightly, the defendant’s or someone else’s genital or anal opening/[or] causing the other person to penetrate, however slightly, his or her own genital or anal opening) for the purpose of sexual abuse, arousal, or gratification.",
+    "A person is *prevented from resisting* if he or she is so intoxicated that he or she cannot give legal consent. In order to give legal consent, a person must be able to exercise reasonable judgment. In other words, the person must be able to understand and weigh the physical nature of the act, its moral character, and probable consequences. Legal consent is consent given freely and voluntarily by someone who knows the nature of the act involved.",
+    "[______ <If appropriate, insert controlled substance> (is/are) [a] controlled substance[s].]",
+    "[A *foreign object, substance, instrument, or device* includes any part of the body except a sexual organ.] [An *unknown object* includes any foreign object, substance, instrument, or device, or any part of the body, including a penis, if it is not known what object penetrated the opening.]",
+    "[Penetration for *sexual abuse* means penetration for the purpose of causing pain, injury, or discomfort.]",
+    "<Defense: Reasonable Belief Capable of Consent>",
+    "[The defendant is not guilty of this crime if (he/she) actually and reasonably believed that the person was capable of consenting to the act, even if the defendant’s belief was wrong. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the woman was capable of consenting. If the People have not met this burden, you must find the defendant not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "A space is provided to identify controlled substances if the parties agree that there is no issue of fact."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of reasonable belief the person was capable of consent if there is sufficient evidence to support the defense. (See *People v. Giardino* (2000) 82 Cal.App.4th 454, 472 [98 Cal.Rptr.2d 315].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1046, *Sexual Penetration in Concert*, may be given in conjunction with this instruction if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 289(e)."
+      },
+      {
+        "text": "• Specific Intent Crime. *People v. McCoy* (2013) 215 Cal.App.4th 1510, 1538 [156 Cal.Rptr.3d 382]."
+      },
+      {
+        "text": "• Controlled Substances Defined. Health & Safety Code, §§ 11054–11058; see *People v. Avila* (2000) 80 Cal.App.4th 791, 798, fn. 7 [95 Cal.Rptr.2d 651]."
+      },
+      {
+        "text": "• Foreign Object, Substance, Instrument, or Device Defined. Pen. Code, § 289(k)(2); *People v. Wilcox* (1986) 177 Cal.App.3d 715, 717 [223 Cal.Rptr. 170] [a finger is a “foreign object”]."
+      },
+      {
+        "text": "• Sexual Penetration Defined. Pen. Code, § 289(k)(1); see *People v. Quintana* (2001) 89 Cal.App.4th 1362, 1371 [108 Cal.Rptr.2d 235] [penetration of genital opening refers to penetration of labia majora, not the vagina]."
+      },
+      {
+        "text": "• Unknown Object Defined. Pen. Code, § 289(k)(3)."
+      },
+      {
+        "text": "• Anesthetic Effect Defined. See *People v. Avila* (2000) 80 Cal.App.4th 791, 798–799 [95 Cal.Rptr.2d 651] [in context of sodomy]."
+      },
+      {
+        "text": "• Prevented From Resisting Defined. See *People v. Giardino* (2000) 82 Cal.App.4th 454, 465–467 [98 Cal.Rptr.2d 315] [in context of rape]."
+      },
+      {
+        "text": "• Sexual Abuse Defined. *People v. White* (1986) 179 Cal.App.3d 193, 205–206 [224 Cal.Rptr. 467]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Attempted Sexual Penetration. Pen. Code, §§ 664, 289(a)(1) & (2), (g)."
+      },
+      {
+        "text": "• Attempted Sexual Penetration of Intoxicated Person. Pen. Code, §§ 663, 289(e)."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1045, *Sexual Penetration by Force, Fear, or Threats*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

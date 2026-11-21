@@ -1,0 +1,161 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "401",
+  "title": "Aiding and Abetting: Intended Crimes",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      239,
+      242
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, September 2023",
+  "revision_legend": null,
+  "body": [
+    "To prove that the defendant is guilty of a crime based on aiding and abetting that crime, the People must prove that:",
+    "1. The perpetrator committed the crime;",
+    "2. The defendant knew that the perpetrator intended to commit the crime;",
+    "3. Before or during the commission of the crime, the defendant intended to aid and abet the perpetrator in committing the crime;",
+    "AND",
+    "4. The defendant’s words or conduct did in fact aid and abet the perpetrator’s commission of the crime.",
+    "Someone *aids and abets* a crime if he or she knows of the perpetrator’s unlawful purpose and he or she specifically intends to, and does in fact, aid, facilitate, promote, encourage, or instigate the perpetrator’s commission of that crime.",
+    "If all of these requirements are proved, the defendant does not need to actually have been present when the crime was committed to be guilty as an aider and abettor.",
+    "[If you conclude that defendant was present at the scene of the crime or failed to prevent the crime, you may consider that fact in determining whether the defendant was an aider and abettor. However, the fact that a person is present at the scene of a crime or fails to prevent the crime does not, by itself, make him or her an aider and abettor.]",
+    "[A person who aids and abets a crime is not guilty of that crime if he or she withdraws before the crime is committed. To withdraw, a person must do two things:",
+    "1. He or she must notify everyone else he or she knows is involved in the commission of the crime that he or she is no longer participating. The notification must be made early enough to prevent the commission of the crime.",
+    "AND",
+    "2. He or she must do everything reasonably within his or her power to prevent the crime from being committed. He or she does not have to actually prevent the crime.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw. If the People have not met this burden, you may not find the defendant guilty under an aiding and abetting theory.]"
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on aiding and abetting when the prosecution relies on it as a theory of culpability. (*People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318].)"
+      },
+      {
+        "text": "If there is evidence that the defendant was merely present at the scene or only had knowledge that a crime was being committed, the court has a sua sponte duty to give the bracketed paragraph that begins with “If you conclude that defendant was present.” (*People v. Boyd* (1990) 222 Cal.App.3d 541, 557 fn.14 [271 Cal.Rptr. 738]; *In re Michael T.* (1978) 84 Cal.App.3d 907, 911 [149 Cal.Rptr. 87].)"
+      },
+      {
+        "text": "If there is evidence that the defendant withdrew from participation in the crime, the court has a sua sponte duty to give the bracketed portion regarding withdrawal. (*People v. Norton* (1958) 161 Cal.App.2d 399, 403 [327 P.2d 87]; *People v. Ross* (1979) 92 Cal.App.3d 391, 404–405 [154 Cal.Rptr. 783].)"
+      },
+      {
+        "text": "Do not give this instruction when instructing on aiding and abetting implied malice murder. Instead, give CALCRIM No. 526, *Implied Malice Murder: Aiding and Abetting*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "Give CALCRIM No. 400, *Aiding and Abetting: General Principles*, before this instruction. Note that Penal Code section 30 uses “principal” but that CALCRIM Nos. 400 and 401 substitute “perpetrator” for clarity."
+      },
+      {
+        "text": "If the prosecution charges non-target crimes under the Natural and Probable Consequences Doctrine, give CALCRIM No. 402, *Natural and Probable Consequences Doctrine (Target and Non-Target Offenses Charged)*, if both non-target and target crimes have been charged. Give CALCRIM No. 403, *Natural and Probable Consequences (Only Non-Target Offense Charged)*, if only the non-target crimes have been charged."
+      },
+      {
+        "text": "If the defendant is charged with aiding and abetting robbery and there is an issue as to when intent to aid and abet was formed, give CALCRIM No. 1603, *Robbery: Intent of Aider and Abettor*."
+      },
+      {
+        "text": "If the defendant is charged with aiding and abetting burglary and there is an issue as to when intent to aid and abet was formed, give CALCRIM No. 1702, *Burglary: Intent of Aider and Abettor*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Definition of Principals. Pen. Code, § 31."
+      },
+      {
+        "text": "• Parties to Crime. Pen. Code, § 30."
+      },
+      {
+        "text": "• Presence or Knowledge Insufficient. *People v. Boyd, supra,* 222 Cal.App.3d at p. 557 fn.14; *In re Michael T., supra,* 84 Cal.App.3d at p. 911."
+      },
+      {
+        "text": "• Requirements for Aiding and Abetting. *People v. Beeman, supra,* 35 Cal.3d at pp. 560–561."
+      },
+      {
+        "text": "• Withdrawal. *People v. Norton, supra,* 161 Cal.App.2d at p. 403; *People v. Ross, supra,* 92 Cal.App.3d at pp. 404–405."
+      },
+      {
+        "text": "• This Instruction Correct re Withdrawal Defense. *People v. Battle* (2011) 198 Cal.App.4th 50, 67 [129 Cal.Rptr.3d 828]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Perpetrator versus Aider and Abettor"
+      },
+      {
+        "text": "For purposes of culpability, the law does not distinguish between perpetrators and aiders and abettors; however, the required mental states that must be proved for each are different. One who engages in conduct that is an element of the charged crime is a perpetrator, not an aider and abettor of the crime. (*People v. Cook* (1998) 61 Cal.App.4th 1364, 1371 [72 Cal.Rptr.2d 183].)"
+      },
+      {
+        "heading": true,
+        "text": "Accessory After the Fact"
+      },
+      {
+        "text": "The prosecution must show that an aider and abettor intended to facilitate or encourage the target offense before or during its commission. If the defendant formed an intent to aid after the crime was completed, then he or she may be liable as an accessory after the fact. (*People v. Cooper* (1991) 53 Cal.3d 1158, 1160–1161 [282 Cal.Rptr. 450, 811 P.2d 742] [get-away driver, whose intent to aid was formed after asportation of property, was an accessory after the fact, not an aider and abettor]; *People v. Rutkowsky* (1975) 53 Cal.App.3d 1069, 1072–1073 [126 Cal.Rptr. 104]; *People v. Rodriguez* (1986) 42 Cal.3d 730, 760–761 [230 Cal.Rptr. 667, 726 P.2d 113].)"
+      },
+      {
+        "heading": true,
+        "text": "Factors Relevant to Aiding and Abetting"
+      },
+      {
+        "text": "Factors relevant to determining whether a person is an aider and abettor include: presence at the scene of the crime, companionship, and conduct before or after the offense. (*People v. Singleton* (1987) 196 Cal.App.3d 488, 492 [241 Cal.Rptr. 842] [citing *People v. Chagolla* (1983) 144 Cal.App.3d 422, 429 [193 Cal.Rptr. 711]]; *People v. Campbell* (1994) 25 Cal.App.4th 402, 409 [30 Cal.Rptr.2d 525].)"
+      },
+      {
+        "heading": true,
+        "text": "Presence Not Required"
+      },
+      {
+        "text": "A person may aid and abet a crime without being physically present. (*People v. Bohmer* (1975) 46 Cal.App.3d 185, 199 [120 Cal.Rptr. 136]; see also *People v. Sarkis* (1990) 222 Cal.App.3d 23, 27 [272 Cal.Rptr. 34].) Nor does a person have to physically assist in the commission of the crime; a person may be guilty of aiding and abetting if he or she intends the crime to be committed and instigates or encourages the perpetrator to commit it. (*People v. Booth* (1996) 48 Cal.App.4th 1247, 1256 [56 Cal.Rptr.2d 202].)"
+      },
+      {
+        "heading": true,
+        "text": "Principal Acquitted or Convicted of Lesser Offense"
+      },
+      {
+        "text": "Although the jury must find that the principal committed the crime aided and abetted, the fact that a principal has been acquitted of a crime or convicted of a lesser offense in a separate proceeding does not bar conviction of an aider and abettor. (*People v. Wilkins* (1994) 26 Cal.App.4th 1089, 1092–1094 [31 Cal.Rptr.2d 764]; *People v. Summersville* (1995) 34 Cal.App.4th 1062, 1066–1069 [40 Cal.Rptr.2d 683]; *People v. Rose* (1997) 56 Cal.App.4th 990 [65 Cal.Rptr.2d 887].) A single Supreme Court case has created an exception to this principle and held that non-mutual collateral estoppel bars conviction of an aider and abettor when the principal was acquitted in a separate proceeding. (*People v. Taylor* (1974) 12 Cal.3d 686, 696–698 [117 Cal.Rptr.70, 527 P.2d 622].) In *Taylor*, the defendant was the “get-away driver” in a liquor store robbery in which one of the perpetrators inadvertently killed another during a gun battle inside the store. In a separate trial, the gunman was acquitted of the murder of his co-perpetrator because the jury did not find malice. The court held that collateral estoppel barred conviction of the aiding and abetting driver, reasoning that the policy considerations favoring application of collateral estoppel were served in the case. The court specifically limited its holding to the facts, emphasizing the clear identity of issues involved and the need to prevent inconsistent verdicts. (See also *People v. Howard* (1988) 44 Cal.3d 375, 411–414 [243 Cal.Rptr. 842, 749 P.2d 279] [court rejected collateral estoppel argument and reiterated the limited nature of its holding in *Taylor*].)"
+      },
+      {
+        "heading": true,
+        "text": "Specific Intent Crimes"
+      },
+      {
+        "text": "If a specific intent crime is aided and abetted, the aider and abettor must share the requisite specific intent with the perpetrator. “[A]n aider and abettor will ‘share’ the perpetrator’s specific intent when he or she knows the full extent of the perpetrator’s criminal purpose and gives aid or encouragement with the intent or purpose of facilitating the perpetrator’s commission of the crime.” (*People v. Beeman, supra,* 35 Cal.3d at p. 560 [citations omitted].) The perpetrator must have the requisite specific intent and the jury must be so instructed. (*People v. Patterson* (1989) 209 Cal.App.3d 610 [257 Cal.Rptr. 407] [trial court erred in failing to instruct jury that perpetrator must have specific intent to kill]; *People v. Torres* (1990) 224 Cal.App.3d 763, 768–769 [274 Cal.Rptr. 117].) And the jury must find that the aider and abettor shared the perpetrator’s specific intent. (*People v. Acero* (1984) 161 Cal.App.3d 217, 224 [208 Cal.Rptr. 565] [to convict defendant of aiding and abetting and attempted murder, jury must find that he shared perpetrator’s specific intent to kill].)"
+      },
+      {
+        "heading": true,
+        "text": "Greater Guilt Than Actual Killer"
+      },
+      {
+        "text": "An aider and abettor may be guilty of greater homicide-related crimes than the actual killer. When a person, with the mental state necessary for an aider and abettor, helps or induces another to kill, that person’s guilt is determined by the combined acts of all the participants as well as that person’s own mens rea. If that person’s mens rea is more culpable than another’s, that person’s guilt may be greater even if the other is deemed the actual killer. (*People v. McCoy* (2001) 25 Cal.4th 1111, 1121 [108 Cal.Rptr.2d 188, 24 P.3d 1210].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

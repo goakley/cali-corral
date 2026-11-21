@@ -1,0 +1,72 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2993",
+  "title": "Receiving or Holding Bets (Pen. Code, § 337a(a)(3))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2154,
+      2155
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (receiving[,]/[or] holding[,]/[or] forwarding) bets [in violation of Penal Code section 337a(a)(3)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (received[,]/[or] held[,]/[or] forwarded) money [or something valuable];",
+    "AND",
+    "2. The defendant knew that it was given to (him/her) as a bet.",
+    "A *bet* is a wager or agreement between two or more people that if an uncertain future event happens, the loser will (pay money to the winner/[or] give the winner something of value). [A bet includes a wager made on the outcome of any actual or purported event, including but not limited to any kind of sporting contest [or ______ <insert description of event from Pen. Code, § 337a>].] [It is not necessary that the event that was bet on actually take place.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    24.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 337a(a)(3); *People v. Gaspard* (1960) 177 Cal.App.2d 487, 488 [2 Cal.Rptr. 193]."
+      },
+      {
+        "text": "• Must Receive Money or Thing of Value. *People v. Gaspard* (1960) 177 Cal.App.2d 487, 488 [2 Cal.Rptr. 193]; *People v. Chavez* (1950) 100 Cal.App.2d 356, 359 [223 P.2d 663]."
+      },
+      {
+        "text": "• Bet Defined. *People v. Oreck* (1946) 74 Cal.App.2d 215, 220 [168 P.2d 186]."
+      },
+      {
+        "text": "• Event Need Not Occur. *People v. Chavez* (1950) 100 Cal.App.2d 356, 359 [223 P.2d 663]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Cash Not Required"
+      },
+      {
+        "text": "A bet does not require that the defendant receive cash. (*People v. Raze* (1949) 91 Cal.App.2d 918, 922 [205 P.2d 1062].) It is sufficient if the defendant received something of value equivalent to money. *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

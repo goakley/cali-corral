@@ -1,0 +1,21 @@
+{
+  "release": "2026-10",
+  "release_label": "CALCRIM 2026 edition with October 2026 supplement",
+  "index_url": "https://courts.ca.gov/advisory-body/criminal-jury-instructions-advisory-committee",
+  "files": [
+    {
+      "key": "calcrim-2026",
+      "kind": "edition",
+      "order": 1,
+      "label": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+      "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf"
+    },
+    {
+      "key": "calcrim-2026-supplement",
+      "kind": "supplement",
+      "order": 2,
+      "label": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+      "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf"
+    }
+  ]
+}

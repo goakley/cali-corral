@@ -1,0 +1,85 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1353",
+  "title": "Hate Crime: Disability Defined",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1129,
+      1130
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The term *disability* includes a (mental/[or] physical) disability.",
+    "<Alternative A—mental disability>",
+    "[A person has a *mental disability* if he or she has a mental or psychological condition that limits a major life activity. The term *mental disability* includes (mental retardation[,]/[and] organic brain syndrome[,]/[and] emotional or mental illness[,]/[and] specific learning disabilities).]",
+    "<Alternative B—physical disability>",
+    "[A person has a *physical disability* if he or she has (a physiological (disease[,]/[or] disorder[,]/[or] condition)[;]/[or] a cosmetic disfigurement[;]/[or] an anatomical loss) that:",
+    "1. Affects one or more of the following body systems: (neurological[(,/;)]/immunological[(,/;)]/musculoskeletal[(,/;)]/sensory, primarily the special sense organs[(,/;)]/respiratory, including speech organs[(,/;)]/cardiovascular[(,/;)]/reproductive[(,/;)]/digestive[(,/;)]/genitourinary[(,/;)]/hemic and lymphatic[(,/;)]/skin[(,/;)]/[or] endocrine);",
+    "AND",
+    "2. Limits a major life activity.]",
+    "*Major life activities* include physical, mental, and social activities, including but not limited to working.",
+    "A (disease[,]/[or] disorder[,]/[or] condition) *limits* a major life activity if it makes participation in the major life activity difficult.",
+    "[In deciding whether a (disease[,]/[or] disorder[,]/[or] condition) *limits* a major life activity, do not consider whether the limitation can be overcome with medications, assistive devices, reasonable accommodations, or other mitigating measures. [However, if a mitigating measure itself limits a major life activity, you may consider this as evidence that the (disease[,]/[or] disorder[,]/[or] condition) limits a major life activity.]]",
+    "[A person has a *disability* if he or she has a (mental or psychological condition/[or] health impairment) that requires special education or related services.]",
+    "[A person has a *disability* if ______ <insert description of other condition not covered by the foregoing but included in Americans With Disabilities Act (ADA) of 1990>.]",
+    "[*Disability* does not include (sexual behavior disorders[,]/[or] compulsive gambling[,]/[or] kleptomania[,]/[or] pyromania[,]/[or] psychoactive substance—use disorders resulting from the current unlawful use of controlled substances or other drugs).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Give this instruction when using the term “disability” in any other instruction."
+      },
+      {
+        "text": "If the case involves a person with a mental disability, give alternative A. If the case involves a person with a physical disability, give alternative B."
+      },
+      {
+        "text": "Give any of the bracketed paragraphs on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Disability Defined. Pen. Code, § 422.56(b); Gov. Code, § 12926(i)–(*l*)."
+      },
+      {
+        "text": "• Mental Disability. Gov. Code, § 12926(i)."
+      },
+      {
+        "text": "• Physical Disability. Gov. Code, § 12926(k)."
+      },
+      {
+        "text": "• Disability Includes Anything Covered by ADA. Gov. Code, § 12926(*l*)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

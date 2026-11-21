@@ -1,0 +1,117 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "901",
+  "title": "Assault on Custodial Officer (Pen. Code, §§ 240, 241.1)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      702,
+      704
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault on a custodial officer [in violation of Penal Code section 241.1].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant did an act that by its nature would directly and probably result in the application of force to a person;",
+    "2. The defendant did that act willfully;",
+    "3. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in the application of force to someone;",
+    "4. When the defendant acted, (he/she) had the present ability to apply force to a person;",
+    "5. When the defendant acted, the person assaulted was lawfully performing (his/her) duties as a custodial officer;",
+    "[AND]",
+    "6. When the defendant acted, (he/she) knew, or reasonably should have known, both that the person assaulted was a custodial officer and that (he/she) was performing (his/her) duties as a custodial officer(;/.)",
+    "<Give element 7 when instructing on self-defense or defense of another>",
+    "[AND",
+    "7. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "The People are not required to prove that the defendant actually intended to use force against someone when (he/she) acted.",
+    "No one needs to actually have been injured by the defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was].",
+    "[Voluntary intoxication is not a defense to assault.]",
+    "A *custodial officer* is someone who works for a law enforcement agency of a city or county, is responsible for maintaining custody of prisoners, and helps operate a local detention facility. [A (county jail/city jail/______ <insert other detention facility>) is a local detention facility.] [A custodial officer is not a peace officer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 7 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "In addition, the court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (*People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) If lawful performance is an issue, give the appropriate portions of CALCRIM No. 2671, *Lawful Performance: Custodial Officer*."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "In the bracketed definition of “local detention facility,” do not insert the name of a specific detention facility. Instead, insert a description of the type of detention facility at issue in the case. (See *People v. Flood* (1998) 18 Cal.4th 470, 482 [76 Cal.Rptr.2d 180, 957 P.2d 869] [jury must determine if alleged victim is a peace officer]; see Penal Code section 6031.4 [defining local detention facility].)"
+      },
+      {
+        "text": "Do not give an attempt instruction in conjunction with this instruction. There is no crime of “attempted assault” in California. (*In re James M.* (1973) 9 Cal.3d 517, 519, 521–522 [108 Cal.Rptr. 89, 510 P.2d 33].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 240, 241.1."
+      },
+      {
+        "text": "• “Custodial Officer” Defined. Pen. Code, § 831."
+      },
+      {
+        "text": "• “Local Detention Facility” Defined. Pen. Code, § 6031.4."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7, subd. 1; *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

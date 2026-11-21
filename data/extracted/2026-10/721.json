@@ -1,0 +1,83 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "721",
+  "title": "Special Circumstances: Multiple Murder Convictions (Same Case) (Pen. Code, § 190.2(a)(3))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      522,
+      523
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of having been convicted of more than one murder in this case [in violation of Penal Code section 190.2(a)(3)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The defendant has been convicted of at least one charge of first degree murder in this case;",
+    "AND",
+    "2. The defendant has also been convicted of at least one additional charge of either first or second degree murder in this case."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].) The court must submit the multiple-murder special circumstance to the jury unless the defendant has specifically waived jury trial on the special circumstance. (*People v. Marshall* (1996) 13 Cal.4th 799, 850 [55 Cal.Rptr.2d 347, 919 P.2d 1280].)"
+      },
+      {
+        "text": "Intent to kill is not required for the actual killer but is required for an accomplice. If the evidence raises the issue of accomplice liability, the court has a sua sponte duty to instruct on that issue. (See *People v. Jones* (2003) 30 Cal.4th 1084, 1117 [135 Cal.Rptr.2d 370, 70 P.3d 359].) Give CALCRIM No. 702, *Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Other Than Felony Murder*. If the homicide occurred prior to June 5, 1990, give CALCRIM No. 701, *Special Circumstances: Intent Requirement for Accomplice Before June 6, 1990*."
+      },
+      {
+        "text": "In a case in which the prosecution seeks the death penalty, only one special circumstance of multiple murder may be alleged. (*People v. Harris* (1984) 36 Cal.3d 36, 67 [201 Cal.Rptr. 782, 679 P.2d 433]; *People v. Anderson* (1987) 43 Cal.3d 1104, 1150 [240 Cal.Rptr. 585, 742 P.2d 1306].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(3)."
+      },
+      {
+        "text": "• One Special Circumstance May Be Alleged When Death Penalty Sought. *People v. Harris* (1984) 36 Cal.3d 36, 67 [201 Cal.Rptr. 782, 679 P.2d 433]; *People v. Anderson* (1987) 43 Cal.3d 1104, 1150 [240 Cal.Rptr. 585, 742 P.2d 1306]."
+      },
+      {
+        "text": "• Must Submit to Jury. *People v. Marshall* (1996) 13 Cal.4th 799, 850 [55 Cal.Rptr.2d 347, 919 P.2d 1280]."
+      },
+      {
+        "text": "• Intent to Kill Not Required for Actual Killer. *People v. Anderson* (1987) 43 Cal.3d 1104, 1150 [240 Cal.Rptr. 585, 742 P.2d 1306]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Applies to Killing of Woman and Fetus"
+      },
+      {
+        "text": "Application of the multiple-murder special circumstance to the killing of a woman and her unborn fetus is constitutional. (*People v. Dennis* (1998) 17 Cal.4th 468, 510 [71 Cal.Rptr.2d 680, 950 P.2d 1035].)"
+      },
+      {
+        "heading": true,
+        "text": "One Count of First Degree Murder Required"
+      },
+      {
+        "text": "The defendant must be convicted of one count of first degree murder for this special circumstance to apply. (*People v. Williams* (1988) 44 Cal.3d 883, 923 [245 Cal.Rptr. 336, 751 P.2d 395]; *People v. Cooper* (1991) 53 Cal.3d 771, 828 [281 Cal.Rptr. 90, 809 P.2d 865].) However, the additional murder or murders may be second degree. (See *People v. Miller* (1990) 50 Cal.3d 954, 995 [269 Cal.Rptr. 492, 790 P.2d 1289].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

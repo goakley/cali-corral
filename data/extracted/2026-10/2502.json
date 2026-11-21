@@ -1,0 +1,115 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2502",
+  "title": "Possession, etc., of Switchblade Knife (Pen. Code, § 21510)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1727,
+      1729
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2015",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully (possessing in a vehicle/carrying on (his/her) person/selling/offering or exposing for sale/giving/lending/transferring) a switchblade knife [in violation of Penal Code section 21510].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (possessed in the (passenger’s/[or] driver’s) area of a motor vehicle in a (public place/place open to the public)/carried on (his/her) person/sold/offered or exposed for sale/gave/lent/transferred) a switchblade knife [to another person];",
+    "2. The blade of the knife was two or more inches long;",
+    "3. The defendant knew that (he/she) (possessed/carried/sold/offered or exposed for sale/gave/lent/transferred) it [to another person];",
+    "[AND]",
+    "4. The defendant knew that it had the characteristics of a switchblade(;/.)",
+    "<Give element 5 only if defendant is charged with offering or exposing for sale.>",
+    "[AND",
+    "5. The defendant intended to sell it.]",
+    "A *switchblade* knife is a knife that looks like a pocketknife and has a blade that can be released automatically by a flick of a button, pressure on the handle, flip of the wrist or other mechanical device, or is released by the weight of the blade or any other mechanism. A *switchblade* includes a spring-blade knife, snap-blade knife, gravity knife, or any other similar type knife. A *switchblade* knife does not include a knife that opens with one hand utilizing thumb pressure applied solely to the blade of the knife or a thumb stud attached to the blade, if the knife has a detent or other mechanism that provides resistance that must be overcome in opening the blade or that biases the blade back toward its closed position.",
+    "[The *(passenger’s/[or] driver’s) area* means that part of a motor vehicle that is designed to carry the (driver/[and] passengers), including the interior compartment or space within.]",
+    "The People do not have to prove that the defendant used or intended to use the alleged switchblade knife as a weapon.",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The People allege that the defendant (possessed in a vehicle/carried/sold/offered or exposed for sale/gave/lent/transferred) the following switchblade knives: ______ <insert description of each knife when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (possessed in a vehicle/carried/sold/offered or exposed for sale/gave/lent/transferred) at least one of these knives which was a switchblade and you all agree on which switchblade knife (he/she) (possessed in a vehicle/carried/sold/offered or exposed for sale/gave/lent/transferred).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple weapons and the possession was “fragmented as to time . . . [or] space,” the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483].) Give the bracketed paragraph beginning “The People allege that the defendant possessed the following switchblade knives,” inserting the items alleged."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 21510."
+      },
+      {
+        "text": "• Need Not Prove Intent to Use. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 328 [96 Cal.Rptr.2d 735, 1 P.3d 52]; *People v. Mendoza* (1967) 251 Cal.App.2d 835, 842–843 [60 Cal.Rptr. 5]."
+      },
+      {
+        "text": "• Knowledge Required. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]."
+      },
+      {
+        "text": "• Specific Intent Required for Offer to Sell. *People v. Jackson* (1963) 59 Cal.2d 468, 469–470 [30 Cal.Rptr. 329, 381 P.2d 1]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6, [98 Cal.Rptr.2d 466, 4 P.3d 297]."
+      },
+      {
+        "text": "• Passenger’s or Driver’s Area Defined. Pen. Code, § 16965."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Butterfly and Tekna Knives Included"
+      },
+      {
+        "text": "Butterfly and Tekna knives are prohibited switchblades under Penal Code section 17235 [formerly section 653k]. (*People ex rel. Mautner v. Quattrone* (1989) 211 Cal.App.3d 1389, 1395 [260 Cal.Rptr. 44].)"
+      },
+      {
+        "heading": true,
+        "text": "Broken-Spring Knife"
+      },
+      {
+        "text": "Where the spring mechanism on the knife did not work, the court found insufficient evidence that the knife was a prohibited switchblade under Penal Code section 17235 [formerly section 653k]. (*In re Roderick S.* (1981) 125 Cal.App.3d 48, 52 [177 Cal.Rptr. 800].)"
+      },
+      {
+        "heading": true,
+        "text": "Public Place"
+      },
+      {
+        "text": "On the meaning of “public place,” see *In re Danny H.* (2002) 104 Cal.App.4th 92, 98 [128 Cal.Rptr.2d 222], discussing the meaning of public place in Penal Code section 594.1. See also CALCRIM No. 2966, *Disorderly Conduct: Under the Influence in Public*, and cases cited therein."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

@@ -1,0 +1,102 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "850",
+  "title": "Expert Testimony on Intimate Partner Battering Victims",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      41,
+      43
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017, April 2020, September 2022, October 2026",
+  "revision_legend": null,
+  "body": [
+    "You have heard testimony from ______ <insert name of expert> offered for the purposes of explaining the range of behaviors of intimate partner battering victims, possible misconceptions about those behaviors, and that those behaviors are not necessarily inconsistent with having been abused. You may consider this testimony only for these purposes.",
+    "______’s <insert name of expert> testimony about the behaviors of intimate partner battering victims is not evidence that the defendant committed any of the crimes charged against (him/her) [or any conduct or crime[s] with which (he/she) was not charged]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Several courts of review have concluded there is no sua sponte duty to give a similar limiting instruction (see CALCRIM No. 1193, *Expert Testimony on Child Sexual Abuse Victims)* when an expert testifies on child sexual abuse accommodation syndrome. (*People v. Mateo* (2016) 243 Cal.App.4th 1063, 1073–1074 [197 Cal.Rptr.3d 248]; *People v. Sanchez* (1989) 208 Cal.App.3d 721, 736 [256 Cal.Rptr. 446] and *People v. Stark* (1989) 213 Cal.App.3d 107, 116 [261 Cal.Rptr. 479] [instruction required only on request].) See also *People v. Humphrey* (1996) 13 Cal.4th 1073, 1088, fn. 5, 1090–1091, 1100 [56 Cal.Rptr.2d 142, 921 P.2d 1], which concludes that a limiting instruction on battered woman syndrome is required only on request. But see *People v. Housley* (1992) 6 Cal.App.4th 947, 958–959 [8 Cal.Rtpr.2d 431], which did find a sua sponte duty to give CALCRIM No. 1193."
+      },
+      {
+        "text": "In *People v. Brown* (2004) 33 Cal.4th 892, 906–908 [16 Cal.Rptr.3d 447, 94 P.3d 574], the Supreme Court held that testimony from an expert in battered women’s syndrome could be admitted under Evidence Code section 801 even though there was no evidence of prior incidents of violence between the defendant and the alleged victim. The court held that the expert could testify generally about the “cycle of violence” and the frequency of recantation by victims of domestic abuse, without testifying specifically about “battered women’s syndrome.” (*Ibid.*) It is unclear if the court is required to give a cautionary admonition sua sponte when such evidence is admitted."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If this instruction is given, also give CALCRIM No. 303, *Limited Purpose Evidence in General*, and CALCRIM No. 332, *Expert Witness Testimony*."
+      },
+      {
+        "text": "See also CALCRIM No. 851, *Testimony on Intimate Partner Battering and Its Effects: Offered by the Defense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. See Evid. Code, § 1107(a); *People v. Humphrey, supra,* 13 Cal.4th at p. 1088, fn. 5."
+      },
+      {
+        "text": "• “Abuse” Defined. Evid. Code, § 1107(c); Fam. Code, § 6203."
+      },
+      {
+        "text": "• “Domestic Violence” Defined. Evid. Code, § 1107(c); Fam. Code, § 6211."
+      },
+      {
+        "text": "• Relevant After Single Incident of Abuse. See *People v. Brown, supra,* 33 Cal.4th at pp. 906–908; *People v. Williams* (2000) 78 Cal.App.4th 1118, 1129 [93 Cal.Rptr.2d 356]."
+      },
+      {
+        "text": "• Relevant to Rehabilitate Victim’s Credibility. *People v. Gadlin* (2000) 78 Cal.App.4th 587, 594–595 [92 Cal.Rptr.2d 890] [victim recanted incident and reunited with abuser]; *People v. Morgan* (1997) 58 Cal.App.4th 1210, 1215–1217 [68 Cal.Rptr.2d 772] [victim recanted]."
+      },
+      {
+        "text": "• Previous Version of This Instruction Upheld. *People v. Sexton* (2019) 37 Cal.App.5th 457, 465-468 [250 Cal.Rptr.3d 496]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Assumptions Underlying Expert Testimony"
+      },
+      {
+        "text": "It is unnecessary, and potentially misleading, to instruct that the expert testimony assumes that physical or mental abuse has in fact occurred. (See *People v. Gilbert* (1992) 5 Cal.App.4th 1372, 1387 [7 Cal.Rptr.2d 660] [in context of child sexual abuse accommodation syndrome].)"
+      },
+      {
+        "heading": true,
+        "text": "Definition and Preferred Name"
+      },
+      {
+        "text": "In 2004, the Legislature amended Evidence Code section 1107, changing all references from “battered women’s syndrome” to “intimate partner battering and its effects.” Previous decisional law continues to apply. (Evid. Code, § 1107(f).) Battered women’s syndrome has been defined as “a series of common characteristics that appear in women who are abused physically and psychologically over an extended period of time by the dominant male figure in their lives.” (*People v. Humphrey, supra,* 13 Cal.4th at pp. 1083–1084.) The Supreme Court had previously noted that experts prefer to call the syndrome “expert testimony on battered women’s experiences.” (See *id.* at pp. 1083–1084, fn. 3.)"
+      },
+      {
+        "heading": true,
+        "text": "No Testimony on Actual State of Mind"
+      },
+      {
+        "text": "While evidence is admissible “to explain how [a] defendant’s asserted subjective perception of a need to defend herself ‘would reasonably follow from the defendant’s experience as a battered woman,’ ” an expert may not give an opinion “that the defendant *actually perceived* that she was in danger and needed to defend herself.” (*People v. Erickson* (1997) 57 Cal.App.4th 1391, 1400, 1401 [67 Cal.Rptr.2d 740] [§ 1107(a) codifies existing rules regarding battered women’s syndrome testimony; original italics].) Section 1107 “does not create an exception to Penal Code section 29,” which prohibits an expert who is testifying about a mental defect from testifying about whether a defendant had a required mental state. (*People v. Erickson, supra,* 57 Cal.App.4th at pp. 1401–1402 [syndrome was characterized as mental defect].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised March 2017, April 2020, September 2022"
+  },
+  "supplement_status": "revised"
+}

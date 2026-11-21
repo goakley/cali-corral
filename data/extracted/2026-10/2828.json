@@ -1,0 +1,86 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2828",
+  "title": "Failure to Withhold Tax (Rev. & Tax. Code, §§ 19708, 19709)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2057,
+      2058
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with intentionally failing to (withhold/collect, or truthfully account for,) and pay (a/an) (tax/[or] amount required to be withheld) to the Franchise Tax Board [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. Under state tax laws, the defendant was required to (withhold/collect, or truthfully account for,) and pay (a/an) (tax/[or] amount required to be withheld) to the Franchise Tax Board;",
+    "2. The defendant did not do so;",
+    "AND",
+    "3. The defendant voluntarily chose not to do so, with intent to violate a legal duty known to (him/her).",
+    "[The People do not have to prove the exact amount owed. The People must prove beyond a reasonable doubt that the amount the defendant failed to (withhold/collect, or truthfully account for,) and pay to the Franchise Tax Board was substantial.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged with a violation of Revenue and Taxation Code section 19709, give the option “withhold” in the introduction, element 1, and the last bracketed paragraph. If the defendant is charged with a violation of Revenue and Taxation Code section 19708, give the option “collect or truthfully account for.” See Commentary below on the use of the term “willful.”"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “The People do not have to prove the exact amount” on request. (*United States v. Wilson* (3d Cir. 1979) 601 F.2d 95, 99; Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.08.) Federal cases have held that when intent to evade is an element of the offense, the prosecution must show that the amount owed in taxes or the amount of unreported income was substantial. (*United States v. Wilson, supra,* 601 F.2d at p. 99; see also Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.08.) “The word ‘substantial’ . . . is necessarily a relative term and not susceptible of an exact meaning.” (*Canaday v. United States* (8th Cir. 1966) 354 F.2d 849, 852–853.) “[It] is not measured in terms of gross or net income nor by any particular percentage of the tax shown to be due and payable. All the attendant circumstances must be taken into consideration.” (*United States v. Nunan* (2d Cir. 1956) 236 F.2d 576, 585, cert. den. (1957) 353 U.S. 912.) “Whether the tax evaded was ‘substantial’ is, therefore, a jury question . . . .” (Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.08 [see also § 67.03, noting that “substantial” is generally not defined for the jury].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant had a good faith belief that his or her conduct was legal, the court has a sua sponte duty to give the instruction on this defense. (*People v. Hagen* (1998) 19 Cal.4th 652, 660 [80 Cal.Rptr.2d 24, 967 P.2d 563].) Give CALCRIM No. 2860, *Defense: Good Faith Belief Conduct Legal*."
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant relied on the advice of a professional, the court has a sua sponte duty to give the instruction on this defense. (*United States v. Mitchell* (4th Cir. 1974) 495 F.2d 285, 287–288; see Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.25.) Give CALCRIM No. 2861, *Defense: Reliance on Professional Advice*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Rev. & Tax. Code, §§ 19708, 19709."
+      },
+      {
+        "text": "• Violation of Section 19709 Must Be Willful. *People v. Singer* (1980) 115 Cal.App.3d Supp. 7, 10 [171 Cal.Rptr. 587]."
+      },
+      {
+        "text": "• Willful Requires Volitional Violation of Known Legal Duty. *People v. Hagen* (1998) 19 Cal.4th 652, 666 [80 Cal.Rptr.2d 24, 967 P.2d 563]; see also Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.20."
+      },
+      {
+        "text": "• Need Not Prove Exact Amount. *United States v. Wilson* (3d Cir. 1979) 601 F.2d 95, 99; *United States v. Johnson* (1943) 319 U.S. 503, 517–518 [63 S.Ct. 1233, 87 L.Ed. 1546]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Element 3 contains the definition of “willful” violation of a tax law derived from *People v. Hagen* (1998) 19 Cal.4th 652, 659–660 [80 Cal.Rptr.2d 24, 967 P.2d 563], and *United States v. Bishop* (1973) 412 U.S. 346, 360–361 [93 S.Ct. 2008, 36 L.Ed.2d 941]. Revenue and Taxation Code section 19708 specifically requires that the defendant’s act be willful, but section 19709 does not explicitly include the element of willfulness. In *People v. Singer* (1980) 115 Cal.App.3d Supp. 7, 10 [171 Cal.Rptr. 587], the court construed section 19709 as also requiring a willful violation. Although it is unclear, it appears that based on this ruling, the *Hagen-Bishop* definition of willful also applies to a violation of section 19709."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,113 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "876",
+  "title": "Assault With Stun Gun or Less Lethal Weapon (Pen. Code, §§ 240, 244.5(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      686,
+      688
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2009, February 2012, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault with a (stun gun/[or] less lethal weapon) [in violation of Penal Code section 244.5(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant did an act with a (stun gun/[or] less lethal weapon) that by its nature would directly and probably result in the application of force to a person;",
+    "2. The defendant did that act willfully;",
+    "3. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in the application of force to someone;",
+    "[AND]",
+    "4. When the defendant acted, (he/she) had the present ability to apply force with a (stun gun/[or] less lethal weapon) to a person(;/.)",
+    "<Give element 5 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "5. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "[A stun gun is anything, except a less lethal weapon, that is used or intended to be used as either an offensive or defensive weapon and is capable of temporarily immobilizing someone by inflicting an electrical charge.]",
+    "[A *less lethal weapon* is any device that is either designed to or that has been converted to expel or propel less lethal ammunition by any action, mechanism, or process for the purpose of incapacitating, immobilizing, or stunning a human being through the infliction of any less than lethal impairment of physical condition, function, or senses, including physical pain or discomfort. It is not necessary that the weapon leave any lasting or permanent incapacitation, discomfort, pain, or other injury or disability in order to qualify as a *less lethal weapon*.]",
+    "[*Less lethal ammunition* is any ammunition that is designed to be used in any less lethal weapon or any other kind of weapon, including, but not limited to, firearms, pistols, revolvers, shotguns, rifles, and spring, compressed air, and compressed gas weapons. When used in a less lethal weapon or other weapon, *less lethal ammunition* is designed to immobilize or incapacitate or stun a human being by inflicting less than lethal impairment of physical condition, function, or senses, including physical pain or discomfort.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "The People are not required to prove that the defendant actually intended to use force against someone when (he/she) acted.",
+    "No one needs to actually have been injured by the defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was].",
+    "[Voluntary intoxication is not a defense to assault.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 5 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "Do not give an attempt instruction in conjunction with this instruction. There is no crime of “attempted assault” in California. (*In re James M.* (1973) 9 Cal.3d 517, 519, 521–522 [108 Cal.Rptr. 89, 510 P.2d 33].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 240, 244.5. • “Willful” Defined. Pen. Code, § 7, subd. 1; *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• “Less Lethal Weapon” Defined. Pen. Code, § 16780."
+      },
+      {
+        "text": "• “Less Lethal Ammunition” Defined. Pen. Code, § 16770."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

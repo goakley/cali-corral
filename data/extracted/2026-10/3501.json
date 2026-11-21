@@ -1,0 +1,73 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3501",
+  "title": "Unanimity: When Generic Testimony of Offense Presented",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2450,
+      2451
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with ______ <insert description[s] of offense[s]> [in Count[s] ______] sometime during the period of ______ to ______ [, and the court has also instructed you on the lesser crime[s] of ______ <insert description of lesser crime(s)>].",
+    "The People have presented evidence of more than one act to prove that the defendant committed the charged offense[s] [and the lesser crime[s]]. You must not find the defendant guilty [of <insert description of lesser crime(s)>] unless:",
+    "1. You all agree that the People have proved that the defendant committed at least one of these acts and you all agree on which act (he/she) committed [for each offense];",
+    "OR",
+    "2. You all agree that the People have proved that the defendant committed all the acts alleged to have occurred during this time period [and have proved that the defendant committed at least the number of offenses charged]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "In *People v. Jones* (1990) 51 Cal.3d 294 [270 Cal.Rptr. 611, 792 P.2d 643], the Court analyzed the due process concerns raised when a witness testifies to numerous, repeated acts of child molestation over a period of time, but the witness is unable to give specifics on time and date. The Court held that prosecutions based on this type of evidence satisfied due process where the testimony met specified criteria. (*Id.* at p. 316.) The Court then addressed what type of unanimity instruction is required in such cases:"
+      },
+      {
+        "text": "In a case in which the evidence indicates the jurors might disagree as to the particular act defendant committed, the standard unanimity instruction should be given. (See, e.g., *People v. Gordon* [(1985)] 165 Cal. App.3d [839,] 855–856 [defendant raised separate defenses to the two offenses at issue].) But when there is no reasonable likelihood of juror disagreement as to particular acts, and the only question is whether or not the defendant in fact committed all of them, the jury should be given a modified unanimity instruction which, in addition to allowing a conviction if the jurors unanimously agree on specific acts, also allows a conviction if the jury unanimously agrees the defendant committed all the acts described by the victim."
+      },
+      {
+        "text": "(*Id.* at pp. 321–322; *People v. Matute* (2002) 103 Cal.App.4th 1437, 1448 [127 Cal.Rptr.2d 472].) If the court concludes that the modified jury instruction is appropriate, give this instruction. If the court determines that the standard unanimity instruction is appropriate, give CALCRIM No. 3500, *Unanimity*."
+      },
+      {
+        "text": "Give the bracketed portions when the defendant is charged with numerous charges for the same offense alleged to have occurred during the specified time period. (See *People v. Matute, supra,* 103 Cal.App.4th at p. 1448 [15 rapes charged during 15 months].)"
+      },
+      {
+        "text": "Consider giving the bracketed language about lesser crimes if applicable and to avoid any potential confusion. (See *People v. Fish* (2024) 102 Cal.App.5th 730, 735–737 [321 Cal.Rptr.3d 738].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Unanimity Required. Cal. Const., art. I, § 16; *People v. Russo* (2001) 25 Cal.4th 1124, 1132 [108 Cal.Rptr.2d 436, 25 P.3d 641]."
+      },
+      {
+        "text": "• Instruction Required if Multiple Acts Could Support Single Charge. *People v. Russo, supra,* 25 Cal.4th at p. 1132; *People v. Diedrich* (1982) 31 Cal.3d 263, 282 [182 Cal.Rptr. 354, 643 P.2d 971]; *People v. Madden* (1981) 116 Cal.App.3d 212, 218 [171 Cal.Rptr. 897]; *People v. Alva* (1979) 90 Cal.App.3d 418, 426 [153 Cal.Rptr. 644]."
+      },
+      {
+        "text": "• Generic Testimony. *People v. Jones, supra,* 51 Cal.3d at pp. 321–322."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Fernandez* (2013) 216 Cal.App.4th 540, 555–558 [157 Cal.Rptr.3d 43]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

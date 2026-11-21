@@ -1,0 +1,58 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2315",
+  "title": "Sale of Substitute Substance (Health & Saf. Code, §§ 11355, 11382)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1611,
+      1611
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (selling/transporting/administering/giving/furnishing/delivering) a substance in lieu of ______ <insert name of controlled substance> [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (agreed/consented/offered/arranged/negotiated) to (sell/transport/administer/give/furnish/deliver) ______ <insert name of controlled substance>, a controlled substance;",
+    "AND",
+    "2. After doing so, the defendant (sold/transported/administered/gave/furnished/delivered) a substance in lieu of ______ <insert name of controlled substance>.",
+    "[*Selling* for the purpose of this instruction means exchanging the substance for money, services, or anything of value.]",
+    "[A person *transports* something if he or she carries or moves it from one location to another, even if the distance is short.]",
+    "[A person *administers* a substance if he or she applies it directly to the body of another person by injection, or by any other means, or causes the other person to inhale, ingest, or otherwise consume the substance.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, §§ 11355, 11382; *People v. McDaniel* (1979) 24 Cal.3d 661, 669–670 [156 Cal.Rptr. 865, 597 P.2d 124]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

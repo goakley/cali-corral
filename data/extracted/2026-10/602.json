@@ -1,0 +1,113 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "602",
+  "title": "Attempted Murder: Peace Officer, Firefighter, Custodial Officer, or Custody Assistant (Pen. Code, §§ 21a, 664(e))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      452,
+      455
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of attempted murder [under Count ______], you must then decide whether the People have proved the additional allegation that (he/she) attempted to murder a (peace officer/firefighter/custodial officer).",
+    "To prove this allegation, the People must prove that:",
+    "1. ______ <insert officer’s name, excluding title> was a (peace officer/firefighter/custodial officer/custody assistant/nonsworn uniformed employee of a sheriff’s department) lawfully performing (his/her) duties as a (peace officer/firefighter/custodial officer/custody assistant/nonsworn uniformed employee of a sheriff’s department);",
+    "AND",
+    "2. When the defendant attempted the murder, the defendant knew, or reasonably should have known, that ______ <insert officer’s name, excluding title> was a (peace officer/firefighter/custodial officer/custody assistant/nonsworn uniformed employee of a sheriff’s department) who was performing (his/her) duties.",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g, “designated by the director of the agency as a peace officer”>. ]",
+    "[The duties of (a/an) ______ <insert title of peace officer, firefighter, custodial officer, custody assistant or nonsworn uniformed employee of a sheriff’s department> include ______ <insert job duties>. ]",
+    "[A *firefighter* includes anyone who is an officer, employee, or member of a (governmentally operated (fire department/fire protection or firefighting agency) in this state/federal fire department/federal fire protection or firefighting agency), whether or not he or she is paid for his or her services.]",
+    "[A *custodial officer* is someone who works for a law enforcement agency of a city or county, is responsible for maintaining custody of prisoners, and helps operate a local detention facility. [[A/An] (county jail/city jail/______ <insert other detention facility>) is a local detention facility.]",
+    "[A custodial officer is not a peace officer.]]",
+    "<If the custodial officer is employed by a law enforcement agency of San Diego County, Fresno County, Kern County, Stanislaus County, Riverside County, Santa Clara County, or a county having a population of 425,000 or less, give the following sentence in place of the definition above.>",
+    "[A person designated as (a/an) (correctional officer/jailer/______ <insert similar title>) employed by the county of ______ <insert name of county designated by Penal Code section 831.5(a)> is a custodial officer.]",
+    "[A custody assistant is a person who is a full-time, non-peace officer employee of the county sheriff’s department who assists peace officer personnel in maintaining order and security in a custody detention, court detention, or station jail facility of the sheriff’s department.]",
+    "[For the purpose of this instruction, a nonsworn uniformed employee of a sheriff’s department is someone whose job includes the care or control of inmates in a detention facility. [A prison, jail, camp, or other correctional facility used for the confinement of adults or both adults and minors/______ <insert other applicable definition from Penal Code section 289.6(c)> is a detention facility for the purpose of this definition.]]",
+    "<When lawful performance is an issue, give the following paragraph and Instruction 2670, Lawful Performance: Peace Officer.>",
+    "[A peace officer is not lawfully performing his or her duties if he or she is (unlawfully arresting or detaining someone/[or] using unreasonable or excessive force in his or her duties). Instruction 2670 explains (when an arrest or detention is unlawful/[and] when force is unreasonable or excessive).]",
+    "<When lawful performance is an issue, give the following paragraph and Instruction 2671, Lawful Performance: Custodial Officer.>",
+    "[A custodial officer is not lawfully performing his or her duties if he or she is using unreasonable or excessive force in his or her duties. Instruction 2671 explains when force is unreasonable or excessive.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the sentencing enhancement. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 475–476, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "In order to be “engaged in the performance of his or her duties,” a peace officer or custodial officer must be acting lawfully. (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1217 [275 Cal.Rptr. 729, 800 P.2d 1159].) “[D]isputed facts bearing on the issue of legal cause must be submitted to the jury considering an engaged-in-duty element.” *(Ibid*.) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) On request, the court must instruct that the prosecution has the burden of proving the lawfulness of the arrest beyond a reasonable doubt. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651].) If lawful performance of a peace officer is an issue, give the bracketed paragraph on lawful performance of a peace officer and the appropriate portions of CALCRIM No. 2670, *Lawful Performance: Peace Officer*. If lawful performance of a custodial officer is an issue, give the bracketed paragraph on lawful performance of a custodial officer and the appropriate portions of CALCRIM No. 2671, *Lawful Performance: Custodial Officer.*"
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown*(1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "Penal Code section 664(e) refers to the definition of peace officer used in Penal Code section 190.2(a)(7), which defines “peace officer” as “defined in Section 830.1, 830.2, 830.3, 830.31, 830.32, 830.33, 830.34, 830.35, 830.36, 830.37, 830.4, 830.5, 830.6, 830.10, 830.11, or 830.12.”"
+      },
+      {
+        "text": "Penal Code section 664(e) refers to the definition of firefighter used in Penal Code section 190.2(a)(9), which defines “firefighter” “as defined in Section 245.1.”"
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins, “The duties of (a/an) ______ <insert title . . . .> include,” on request.The court may insert a description of the officer’s duties such as “the correct service of a facially valid search . . . warrant.” (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1222 [275 Cal.Rptr. 729, 800 P.2d 1159].)"
+      },
+      {
+        "text": "In the bracketed definition of “local detention facility,” do not insert the name of a specific detention facility. Instead, insert a description of the type of detention facility at issue in the case. (See *People v. Flood* (1998) 18 Cal.4th 470, 482 [76 Cal.Rptr.2d 180, 957 P.2d 869] [jury must determine if alleged victim is a peace officer]; see Penal Code section 6031.4 [defining local detention facility].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Attempted Murder on a Peace Officer or Firefighter. Pen. Code, § 664(e)."
+      },
+      {
+        "text": "• Peace Officer Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• Firefighter Defined. Pen. Code, § 245.1."
+      },
+      {
+        "text": "• Custody Assistant Defined. Pen. Code, § 831.7."
+      },
+      {
+        "text": "• Nonsworn Uniformed Employee of Sheriff’s Department Defined. Pen. Code, § 664(e)."
+      },
+      {
+        "text": "• Custodial Officer as Referenced in Pen. Code, § 664, Defined. Pen. Code, §§ 831(a) and 831.5(a)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

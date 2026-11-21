@@ -1,0 +1,89 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3201",
+  "title": "Controlled Substance: Quantity—Manufacture of Controlled Substance (Health & Saf. Code, § 11379.8)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2280,
+      2281
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ <insert counts charging manufacturing or processing of controlled substance>, you must then decide whether[, for each crime,] the People have proved the additional allegation that the crime involved more than a specified amount of the controlled substance. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation, the People must prove that:",
+    "1. A substance used in, to be used in, or produced during the (manufacturing/______ <insert description of alleged other process>) process contained ______ <insert controlled substance from Health & Saf. Code, §§ 11054–11058>;",
+    "[AND]",
+    "2. The substance containing ______ <insert controlled substance> was more than ______ <insert quantity alleged> by (weight/volume)(./;)",
+    "<Give element 3 if enhancement alleged in conspiracy count.>",
+    "[AND",
+    "3. The defendant was substantially involved in the direction or supervision of, or in a significant portion of the financing of, the (manufacturing/______ <insert description of alleged other process>) of ______ <insert controlled substance>.]",
+    "[In deciding whether the required (weight/volume) has been proved, do not take into account plant or vegetable material.]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction when the defendant is charged with an enhancement based on the quantity of the controlled substance. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Give bracketed element 3 if the enhancement is alleged in a count of conspiracy to manufacture a controlled substance. (Health & Saf. Code, § 11379.8(e); *People v. Duran* (2001) 94 Cal.App.4th 923, 941 [114 Cal.Rptr.2d 595].) Do not give element 3 if the defendant is not charged with conspiracy but is being prosecuted for one or more substantive offenses on a theory of coconspirator liability. (*People v. Duran, supra,* 94 Cal.App.4th at p. 942.) If the defendant is charged with the enhancement on both conspiracy and substantive offenses, the court should give this instruction once for the conspiracy charge, with element 3, and once for all the substantive offenses, without element 3. If properly instructed, the jury need not make a special finding that the defendant was substantially involved. (*People v. Lobato* (2003) 109 Cal.App.4th 762, 766 [135 Cal.Rptr.2d 429].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Health & Saf. Code, § 11379.8."
+      },
+      {
+        "text": "• Substance Containing Controlled Substance—Need Not Be Pure. *People v. Burgio* (1993) 16 Cal.App.4th 769, 774 [20 Cal.Rptr.2d 397]."
+      },
+      {
+        "text": "• Substance Containing Controlled Substance—Used or to Be Used in Process. *People v. Hard* (2003) 112 Cal.App.4th 272, 275 [5 Cal.Rptr.3d 107]."
+      },
+      {
+        "text": "• Knowledge of Quantity or Specific Intent Not Required. *People v. Meza* (1995) 38 Cal.App.4th 1741, 1748 [45 Cal.Rptr.2d 844]."
+      },
+      {
+        "text": "• Conspiracy Instruction. *People v. Duran* (2001) 94 Cal.App.4th 923, 941–942 [114 Cal.Rptr.2d 595]; *People v. Salcedo* (1994) 30 Cal.App.4th 209, 217 [35 Cal.Rptr.2d 539]; *People v. Lobato* (2003) 109 Cal.App.4th 762, 766 [135 Cal.Rptr.2d 429]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Combining Measurements"
+      },
+      {
+        "text": "Health and Safety Code section 11379.8 provides two sets of measurements, one for “liquid by volume” and one for “solids by weight.” “[S]o long as there is sufficient evidence, the trier of fact should be permitted to add the common measures of the seized substances in order to meet the statute’s standards.” (*People v. Good* (1990) 217 Cal.App.3d 1533, 1537 [266 Cal.Rptr. 608].)"
+      },
+      {
+        "text": "See the Related Issues section of CALCRIM No. 3200, *Controlled Substance: Quantity*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

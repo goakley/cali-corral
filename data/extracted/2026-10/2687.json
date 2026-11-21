@@ -1,0 +1,94 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2687",
+  "title": "Refusal to Disperse: Intent to Commit Unlawful Act (Pen. Code, § 416(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1950,
+      1952
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with refusal to disperse after being ordered to do so [in violation of Penal Code section 416(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant assembled with one or more other people;",
+    "2. The defendant intended to (disturb the public peace/[or] commit a crime);",
+    "3. A public officer had probable cause to believe that the purpose of the assembly was unlawful;",
+    "4. The public officer lawfully warned the defendant to disperse;",
+    "AND",
+    "5. The defendant willfully remained present at the location after the order to disperse.",
+    "[As used here, a person *intends to disturb the public peace* if he or she intends to commit overt acts that are themselves violent or that tend to incite others to violence.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "(A/An) ______ <insert description> is a *public officer.*",
+    "A public officer *lawfully warns people to disperse* when the officer directs them, in the name of the People of the State, to immediately disperse. The officer is not required to use any particular words. However, the words used must be sufficient to inform a reasonable person that the officer is acting in an official capacity and ordering people to leave the area. In addition, the officer must communicate the order in a reasonable way that ensures that the order is heard.",
+    "An officer has *probable cause* to believe that the purpose of the assembly is unlawful if the officer knows facts that would persuade someone of reasonable caution to believe that the people present intend to (immediately commit criminal or violent acts/[or] incite others to immediately commit acts of violence).",
+    "In deciding whether the officer has probable cause, consider evidence of the officer’s training and experience and all the circumstances the officer knew about at the time."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The jury must determine whether the person who allegedly gave the order was a public officer. (See *People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “public officer” (e.g., in the case of “peace officer,” the court may state “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the person was a public officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 416(a)."
+      },
+      {
+        "text": "• First Amendment Limitations on Statute. *Chambers v. Municipal Court* (1977) 65 Cal.App.3d 904, 909–911 [135 Cal.Rptr. 695]."
+      },
+      {
+        "text": "• Command to Disperse. Pen. Code, § 726."
+      },
+      {
+        "text": "• No Particular Manner of Warning Required. *In re Bacon* (1966) 240 Cal.App.2d 34, 50–51 [49 Cal.Rptr. 322]; *People v. Cipriani* (1971) 18 Cal.App.3d 299, 307–308 [95 Cal.Rptr. 722]; *In re Wagner* (1981) 119 Cal.App.3d 90, 105 [173 Cal.Rptr. 766]."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Penal Code Sections 409 and 416(a)"
+      },
+      {
+        "text": "Penal Code section 409 applies to any person remaining at an unlawful assembly following an order to disperse, whether or not that person is involved in the violent or illegal activity. (*Dubner v. City and Co. of San Francisco* (9th Cir. 2001) 266 F.3d 959, 967–968; *In re Bacon* (1966) 240 Cal.App.2d 34, 49 [49 Cal.Rptr. 322].) Refusal to disperse is also punishable under Penal Code section 416(a). Penal Code section 416(a) applies only to those who have the specific intent to commit violent or unlawful acts but does not require that the gathering meet the definition of riot, rout, or unlawful assembly. (*Dubner v. City and Co. of San Francisco* (9th Cir. 2001) 266 F.3d 959, 967–968; *In re Wagner* (1981) 119 Cal.App.3d 90, 110–111 [173 Cal.Rptr. 766].) Use this instruction only for a charge of violating Penal Code section 416(a). If the defendant is charged under Penal Code section 409, give CALCRIM No. 2686, *Refusal to Disperse: Riot, Rout, or Unlawful Assembly*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

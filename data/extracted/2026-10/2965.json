@@ -1,0 +1,105 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2965",
+  "title": "Parent Permitting Child to Consume Alcoholic Beverage: Causing Traffic Collision (Bus. & Prof. Code, § 25658.2)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2126,
+      2128
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with permitting a child to consume an alcoholic beverage at (his/her) home [in violation of Business and Professions Code section 25658.2].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was the (parent/guardian) of ______ <insert name of defendant’s child>;",
+    "2. The defendant permitted ______ <insert name of defendant’s child> [or ______, <insert name of other person under 18 years old> who was in the company of ______ <insert name of defendant’s child>, or both,] to (consume an alcoholic beverage/[or] use ______ <insert controlled substance listed in Health & Saf. Code, § 11550>, a controlled substance,) in the defendant’s home;",
+    "3. ______ <insert name of defendant’s child> [and ______ <insert name of other person under 18 years old>] (was/were) under 18 years old at the time;",
+    "4. The defendant knew that (he/she) was permitting ______ <insert name of defendant’s child> [or ______ <insert name of other person under 18 years old>, or both,] to (consume an alcoholic beverage/[or] use ______ <insert controlled substance listed in Health & Saf. Code, § 11550>, a controlled substance,) in the defendant’s home;",
+    "5. As a result of (consuming the alcoholic beverage/[or] using the controlled substance), ______ <insert name of defendant’s child or other person under 18 years old> (had a blood-alcohol concentration of 0.05 percent or greater, as measured by a chemical test[,]/[or] was under the influence of a controlled substance);",
+    "6. The defendant allowed ______ <insert name of defendant’s child or other person under 18 years old> to drive a vehicle after leaving the defendant’s home;",
+    "7. The defendant knew that (he/she) was allowing ______ <insert name of defendant’s child or other person under 18 years old> to drive a vehicle after leaving the defendant’s home;",
+    "AND",
+    "8. ______ <insert name of defendant’s child or other person under 18 years old> caused a traffic collision while driving the vehicle.",
+    "An *alcoholic beverage* is a liquid or solid material intended to be consumed that contains one-half of 1 percent or more of alcohol by volume. [An *alcoholic beverage* includes ______ <insert type[s] of beverage[s] from Bus. & Prof. Code, § 23004, e.g., wine, beer>.]",
+    "An act causes a traffic collision if the collision is the direct, natural, and probable consequence of the act and the collision would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence.",
+    "<Defense: Good Faith Belief at Least 18>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that ______ <insert name of person under 18> was at least 18 years old. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe that ______ <insert name of person under 18> was at least 18 years old. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "[There may be more than one cause of a traffic collision. An act causes a collision only if it is a substantial factor in causing the collision. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the collision.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[In evaluating the test results in this case, you may consider whether or not the person administering the test or the agency maintaining the testing device followed the regulations of the California Department of Health Services.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If there is evidence of multiple causes of the collision, the court should also give bracketed paragraph on causation that begins with “There may be more than one cause of a traffic collision.” (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "Give the bracketed sentence about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "text": "If the evidence demonstrates that the person administering the test or agency maintaining the testing device failed to follow the title 17 regulations, give the bracketed that begins with “In evaluating (the/any) test results in this case.” (*People v. Adams* (1976) 59 Cal.App.3d 559, 567 [131 Cal.Rptr. 190] [failure to follow regulations in administering breath test goes to weight, not admissibility, of evidence]; *People v. Williams* (2002) 28 Cal.4th 408, 417 [121 Cal.Rptr.2d 854, 49 P.3d 203] [same]; *People v. Esayian* (2003) 112 Cal.App.4th 1031, 1039 [5 Cal.Rptr.3d 542] [results of blood test admissible even though phlebotomist who drew blood not authorized under title 17].)"
+      },
+      {
+        "text": "Subdivision (a)(2) of Business and Professions Code section 25658.2 only contemplates a “parent” as a defendant, whereas the other subdivisions include both “parent” as well as “legal guardian.” The committee concluded that this omission, as well as the typographical error in subdivision (a) of the statute, are inadvertent and has therefore included both options. If the court disagrees, it must revise the language of element 1 accordingly."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "In *In re Jennings* (2004) 34 Cal.4th 254, 280 [17 Cal.Rptr.3d 645, 95 P.3d 906], the Supreme Court held that, for a prosecution under Business and Professions Code section 25658(a), the defendant may assert as a defense a good faith belief that the person was at least 21. If the trial court concludes that this defense also applies to a prosecution under Business and Professions Code section 25658.2, and there is sufficient evidence that the defendant had a good faith belief that the “other person under 18” with the defendant’s child was actually over 18, the court has a sua sponte duty to instruct on the defense. The court may use the bracketed language to instruct on this defense, if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Bus. & Prof. Code, § 25658.2."
+      },
+      {
+        "text": "• Alcoholic Beverage Defined. Bus. & Prof. Code, § 23004."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 2962, *Selling or Furnishing Alcoholic Beverage to Person Under 21*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,89 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "851",
+  "title": "Testimony on Intimate Partner Battering and Its Effects: Offered by the Defense",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      647,
+      648
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "You have heard testimony from ______ <insert name of expert> regarding the effect of (battered women’s syndrome/intimate partner battering/______ <insert other description used by expert for syndrome>).",
+    "______’s <insert name of expert> testimony about (battered women’s syndrome/intimate partner battering/______ <insert other description used by expert for syndrome>) is not evidence that the defendant committed any of the crimes charged against (him/her).",
+    "You may consider this evidence only in deciding whether the defendant actually believed that (he/she) needed to defend (himself/herself) against an immediate threat of great bodily injury or death, and whether that belief was reasonable or unreasonable.",
+    "When deciding whether the defendant’s belief was reasonable or unreasonable, consider all the circumstances as they were known by or appeared to the defendant. Also consider what conduct would appear to be necessary to a reasonable person in a similar situation with similar knowledge."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if an expert testifies on intimate partner battering and its effects, previously known as battered women’s syndrome. (See *People v. Housley* (1992) 6 Cal.App.4th 947, 958–959 [8 Cal.Rptr.2d 431] [sua sponte duty in context of child sexual abuse accommodation syndrome]; *People v. Bledsoe* (1984) 36 Cal.3d 236, 250 [203 Cal.Rptr. 450, 681 P.2d 291] [rape trauma syndrome not admissible to prove rape occurred].)"
+      },
+      {
+        "text": "The court may need to modify this instruction if the defense offers testimony on intimate partner battering and its effects on an issue other than whether the defendant actually and reasonably believed in the need for self-defense. (See *People v. Coffman and Marlow* (2004) 34 Cal.4th 1, 98–101 [17 Cal.Rptr.3d 710, 96 P.3d 30] [evidence offered to show defendant did not act with intent to kill but acted out of fear of codefendant].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If this instruction is given, also give CALCRIM No. 303, *Limited Purpose Evidence in General* and CALCRIM No. 332, *Expert Witness Testimony*."
+      },
+      {
+        "text": "See also:"
+      },
+      {
+        "text": "CALCRIM No. 850, *Testimony on Intimate Partner Battering and Its Effects: Credibility of Complaining Witness*."
+      },
+      {
+        "text": "CALCRIM No. 505, *Justifiable Homicide: Self-Defense or Defense of Another*."
+      },
+      {
+        "text": "CALCRIM No. 571, *Voluntary Manslaughter: Imperfect Self-Defense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. See Evid. Code, § 1107(a); *People v. Humphrey* (1996) 13 Cal.4th 1073, 1088, fn. 5 [56 Cal.Rptr.2d 142, 921 P.2d 1]; *People v. Jaspar* (2002) 98 Cal.App.4th 99, 111, fn. 6 [119 Cal.Rptr.2d 470]."
+      },
+      {
+        "text": "• Abuse Defined. Evid. Code, § 1107(c); Fam. Code, § 6203."
+      },
+      {
+        "text": "• Domestic Violence Defined. Evid. Code, § 1107(c); Fam. Code, § 6211."
+      },
+      {
+        "text": "• Relevant After Single Incident of Abuse. See *People v. Brown* (2004) 33 Cal.4th 892, 906–908 [16 Cal.Rptr.3d 447, 94 P.3d 574]; *People v. Williams* (2000) 78 Cal.App.4th 1118, 1129 [93 Cal.Rptr.2d 356]."
+      },
+      {
+        "text": "• Relevant to Claim of Self-Defense. *People v. Humphrey* (1996) 13 Cal.4th 1073, 1082–1083, 1088–1089 [56 Cal.Rptr.2d 142, 921 P.2d 1]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 850, *Testimony on Intimate Partner Battering and Its Effects: Credibility of Complaining Witness*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

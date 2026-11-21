@@ -1,0 +1,180 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "600",
+  "title": "Attempted Murder (Pen. Code, §§ 21a, 663, 664)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      445,
+      449
+    ]
+  },
+  "revision_line": "New January 2006; Revised December 2008, August 2009, April 2011, August 2013, September 2019, April 2020, September 2023, March 2024,* February 2025, October 2025*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with attempted murder.",
+    "To prove that the defendant is guilty of attempted murder, the People must prove that:",
+    "1. The defendant took at least one direct but ineffective step toward killing (another person/[or] a fetus);",
+    "1. AND",
+    "2. The defendant intended to kill (that/a) (person/[or] fetus).",
+    "A *direct step* requires more than merely planning or preparing to commit murder or obtaining or arranging for something needed to commit murder. A direct step is one that goes beyond planning or preparation and shows that a person is putting his or her plan into action. A direct step indicates a definite and unambiguous intent to kill. It is a direct movement toward the commission of the crime after preparations are made. It is an immediate step that puts the plan in motion so that the plan would have been completed if some circumstance outside the plan had not interrupted the attempt.",
+    "[A person who attempts to commit murder is guilty of attempted murder even if, after taking a direct step toward killing, he or she abandons further efforts to complete the crime, or his or her attempt fails or is interrupted by someone or something beyond his or her control. On the other hand, if a person freely and voluntarily abandons his or her plans before taking a direct step toward committing the murder, then that person is not guilty of attempted murder.]",
+    "[The defendant may be guilty of attempted murder even if you conclude that murder was actually completed.]",
+    "[A *fetus* is an unborn human being that has progressed beyond the embryonic stage after major structures have been outlined, which typically occurs at seven to eight weeks after fertilization.]",
+    "<Give when kill zone theory applies; repeat the relevant paragraphs for each victim.>",
+    "[A person may intend to kill a primary target and also [a] secondary target[s] within a zone of fatal harm or “kill zone.” A “kill zone” is an area in which the defendant used lethal force that was designed and intended to kill everyone in the area around the primary target.",
+    "In order to convict the defendant of the attempted murder of ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory>, the People must prove that the defendant not only intended to kill ______ <insert name of primary target alleged> but also either intended to kill ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory>, or intended to kill everyone within the kill zone.",
+    "In determining whether the defendant intended to kill ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory>, the People must prove that (1) the only reasonable conclusion from the defendant’s use of lethal force, is that the defendant intended to create a kill zone; and (2) ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory> was located within the kill zone.",
+    "In determining whether the defendant intended to create a “kill zone” and the scope of such a zone, you should consider all of the circumstances including, but not limited to, the following:",
+    "[• The type of weapon used(;/.)]",
+    "[• The number of shots fired(;/.)]",
+    "[• The distance between the defendant and ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory>(;/.)]",
+    "[• The distance between ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory> and the primary target.]",
+    "If you have a reasonable doubt whether the defendant intended to kill ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory> or intended to kill ______ <insert name or description of primary target alleged> by killing everyone in the kill zone, then you must find the defendant not guilty of the attempted murder of ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the crime of attempted murder when charged, or if not charged, when the evidence raises a question whether all the elements of the charged offense are present. (See *People v. Breverman* (1998) 19 Cal.4th 142, 154 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [discussing duty to instruct on lesser included offenses in homicide generally].)"
+      },
+      {
+        "text": "The second bracketed paragraph is provided for cases in which the prosecution theory is that the defendant created a “kill zone,” harboring the specific and concurrent intent to kill others in the zone. (*People v. Bland* (2002) 28 Cal.4th 313, 331 [121 Cal.Rptr.2d 546, 48 P.3d 1107].) “The conclusion that transferred intent does not apply to attempted murder still permits a person who shoots at a group of people to be punished for the actions towards everyone in the group even if that person primarily targeted only one of them.” (*Id.* at p. 329.)"
+      },
+      {
+        "text": "The *Bland* court stated that a special instruction on this issue was not required. (*Id*. at p. 331, fn.6.) The bracketed language is provided for the court to use when substantial evidence exists that the defendant intended to kill a primary target; the defendant concurrently intended to achieve that goal by killing all others in the fatal zone created by the defendant; and the alleged attempted murder victim was in that zone. (See *People v. Mumin* (2023) 15 Cal.5th 176, 203 [312 Cal.Rptr.3d 255, 534 P.3d 1].) “The use or attempted use of force that merely *endangered* everyone in the area is insufficient to support a kill zone instruction.” (*People v. Canizales* (2019) 7 Cal.5th 591, 608 [248 Cal.Rptr.3d 370, 442 P.3d 686], original italics.)"
+      },
+      {
+        "text": "Give the next-to-last bracketed paragraph when the defendant has been charged only with attempt to commit murder, but the evidence at trial reveals that the murder was actually completed. (See Pen. Code, § 663.)"
+      },
+      {
+        "text": "A verdict of attempted murder may not be based on the natural and probable consequences doctrine. (Pen. Code, § 188(a)(3); *People v. Sanchez* (2022) 75 Cal.App.5th 191, 196 [290 Cal.Rptr.3d 390].)"
+      },
+      {
+        "text": "If the evidence supports a claim of accident during the course of lawful self-defense, give CALCRIM No. 510, *Excusable Homicide: Accident*, modified for a charge of attempted murder. (*People v. Villanueva* (2008) 169 Cal.App.4th 41, 54 [86 Cal.Rptr.3d 534].) If the evidence supports a claim of accident as to other, nonhomicide charges, give CALCRIM No. 3404, *Accident*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM Nos. 3470–3477, Defense Instructions."
+      },
+      {
+        "text": "CALCRIM No. 601, *Attempted Murder: Deliberation and Premeditation*."
+      },
+      {
+        "text": "CALCRIM No. 602, *Attempted Murder: Peace Officer, Firefighter, Custodial Officer, or Custody Assistant.*"
+      },
+      {
+        "text": "CALCRIM No. 603, *Attempted Voluntary Manslaughter: Heat of Passion-Lesser Included Offense*."
+      },
+      {
+        "text": "CALCRIM No. 604, *Attempted Voluntary Manslaughter: Imperfect Self-Defense-Lesser Included Offense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• “Attempt” Defined. Pen. Code, §§ 21a, 663, 664."
+      },
+      {
+        "text": "• “Murder” Defined. Pen. Code, § 187."
+      },
+      {
+        "text": "• Specific Intent to Kill Required. *People v. Guerra* (1985) 40 Cal.3d 377, 386 [220 Cal.Rptr. 374, 708 P.2d 1252]."
+      },
+      {
+        "text": "• “Fetus” Defined. *People v. Davis* (1994) 7 Cal.4th 797, 814–815 [30 Cal.Rptr.2d 50, 872 P.2d 591]; *People v. Taylor* (2004) 32 Cal.4th 863, 867 [11 Cal.Rptr.3d 510, 86 P.3d 881]."
+      },
+      {
+        "text": "• Kill Zone Explained. *People v. Mumin, supra,* 15 Cal.5th at p. 193; *People v. Canizales, supra,* 7 Cal.5th at pp. 607–608; *People v. Stone* (2009) 46 Cal.4th 131, 137–138 [92 Cal.Rptr.3d 362, 205 P.3d 272]."
+      },
+      {
+        "text": "• Application of Kill Zone Theory When Shooter Unaware of Presence of Other People. *People v. Hin* (2025) 17 Cal.5th 401, 458 [329 Cal.Rptr.3d 612, 563 P.3d 514] [did not apply]; *People v. Ibarra* (2024) 106 Cal.App.5th 1070, 1077–1080 [327 Cal.Rptr.3d 478] [did not apply]; *People v. Adams* (2008) 169 Cal.App.4th 1009, 1022–1023 [86 Cal.Rptr.3d 915] [applied]; *People v. Vang* (2001) 87 Cal.App.4th 554, 564 [104 Cal.Rptr.2d 704] [applied]."
+      },
+      {
+        "text": "• This Instruction Correctly States the Law of Attempted Murder. *People v. Lawrence* (2009) 177 Cal.App.4th 547, 556–557 [99 Cal.Rptr.3d 324]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Attempted voluntary manslaughter is a lesser included offense. (*People v. Van Ronk* (1985) 171 Cal.App.3d 818, 824–825 [217 Cal.Rptr. 581]; *People v. Williams* (1980) 102 Cal.App.3d 1018, 1024–1026 [162 Cal.Rptr. 748].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Specific Intent Required"
+      },
+      {
+        "text": "“[T]he crime of attempted murder requires a specific intent to kill . . . .” (*People v. Guerra, supra,* 40 Cal.3d at p. 386.)"
+      },
+      {
+        "text": "In instructing upon the crime of attempt to commit murder, there should never be any reference whatsoever to implied malice. Nothing less than a specific intent to kill must be found before a defendant can be convicted of attempt to commit murder, and the instructions in this respect should be lean and unequivocal in explaining to the jury that only a specific intent to kill will do."
+      },
+      {
+        "text": "*(People v. Santascoy* (1984) 153 Cal.App.3d 909, 918 [200 Cal.Rptr. 709].)"
+      },
+      {
+        "heading": true,
+        "text": "Solicitation"
+      },
+      {
+        "text": "Attempted solicitation of murder is a crime. (*People v. Saephanh* (2000) 80 Cal.App.4th 451, 460 [94 Cal.Rptr.2d 910].)"
+      },
+      {
+        "heading": true,
+        "text": "Single Bullet, Two Victims"
+      },
+      {
+        "text": "A shooter who fires a single bullet at two victims who are both in his line of fire can be found to have acted with express malice toward both victims. (*People v.* Smith) (2005) 37 Cal.4th 733, 744 [37 Cal.Rptr.3d 163, 124 P.3d 730]. See also *People v. Perez* (2010) 50 Cal.4th 222, 225 [112 Cal.Rptr.3d 310, 234 P.3d 557].)"
+      },
+      {
+        "heading": true,
+        "text": "No Attempted Involuntary Manslaughter"
+      },
+      {
+        "text": "“[T]here is no such crime as attempted involuntary manslaughter.” (*People v. Johnson* (1996) 51 Cal.App.4th 1329, 1332 [59 Cal.Rptr.2d 798].)"
+      },
+      {
+        "heading": true,
+        "text": "Transferred and Concurrent Intent"
+      },
+      {
+        "text": "“[T]he doctrine of transferred intent does not apply to attempted murder.” (*People v. Bland, supra,* 28 Cal.4th at p. 331.) “[T]he defendant may be convicted of the attempted murders of any[one] within the kill zone, although on a concurrent, not transferred, intent theory.” (*Ibid.*)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

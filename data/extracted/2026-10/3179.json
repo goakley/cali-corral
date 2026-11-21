@@ -1,0 +1,74 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3179",
+  "title": "Sex Offenses: Sentencing Factors—Kidnapping (Pen. Code, § 667.61(e)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2261,
+      2262
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ <insert counts charging sex offense[s] from Pen. Code, § 667.61(c)>, you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant kidnapped ______ <insert name[s] of alleged victim[s]>. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To decide whether the defendant kidnapped ______ <insert name[s] of alleged victim[s]>, please refer to the separate instructions that I (will give/have given) you on kidnapping. You must apply those instructions when you decide whether the People have proved this additional allegation.",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the sentencing factor when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "This sentencing factor applies if “the defendant kidnapped the victim of the present offense in violation of Section 207, 209, or 209.5.” (Pen. Code, § 667.61(e)(1).) Give the appropriate instruction on kidnapping, depending on which Penal Code section the prosecution alleges, as follows:"
+      },
+      {
+        "text": "Pen. Code, § 207: CALCRIM No. 1215, *Kidnapping* CALCRIM No. 1200, *Kidnapping: For Child Molestation* CALCRIM No. 1201, *Kidnapping: Person Incapable of Consent*"
+      },
+      {
+        "text": "Pen. Code, § 209: CALCRIM No. 1202, *Kidnapping: For Ransom, Reward, or Extortion* CALCRIM No. 1203, *Kidnapping: For Robbery, Rape, or Other Sex Offenses*"
+      },
+      {
+        "text": "Pen. Code, § 209.5: CALCRIM No. 1204, *Kidnapping: During Carjacking*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• One-Strike Sex Offense Statute—Kidnapping Factor. Pen. Code, § 667.61(e)(1)."
+      },
+      {
+        "text": "• Factors Must Be Pleaded and Proved. Pen. Code, § 667.61(j); *People v. Mancebo* (2002) 27 Cal.4th 735, 743 [117 Cal.Rptr.2d 550, 41 P.3d 556]."
+      },
+      {
+        "text": "• Sentencing Factor Does Not Require Specific Intent to Commit Sex Offense. *People v. Jones* (1997) 58 Cal.App.4th 693, 717 [68 Cal.Rptr.2d 506]."
+      },
+      {
+        "text": "• Sentencing Factor Requires More Movement Than Incidental to Offense. *People v. Diaz* (2000) 78 Cal.App.4th 243, 246 [92 Cal.Rptr.2d 682]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See also the Related Issues sections of the instructions on kidnapping, CALCRIM Nos. 1200–1204, 1215."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

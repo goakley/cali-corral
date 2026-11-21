@@ -1,0 +1,47 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "207",
+  "title": "Proof Need Not Show Actual Date",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      114,
+      114
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014, February 2016, September 2022",
+  "revision_legend": null,
+  "body": [
+    "It is alleged that the crime[s] occurred on [or about] ______ <insert alleged date(s) or date ranges by count>. The People are not required to prove that the crime[s] took place exactly on (that/those) day[s] but only that (it/they) happened reasonably close to (that/those) day[s]."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give this instruction. This instruction should not be given: (1) when the evidence demonstrates that the offense was committed at a specific time and place and the defendant has presented a defense of alibi or lack of opportunity; or (2) when two similar offenses are charged in separate counts. (*People v. Jennings* (1991) 53 Cal.3d 334, 358–359 [279 Cal.Rptr. 780, 807 P.2d 1009]; *People v. Jones* (1973) 9 Cal.3d 546, 557 [108 Cal.Rptr. 345, 510 P.2d 705], overruled on other grounds in *Hernandez v. Municipal Court* (1989) 49 Cal.3d 713 [263 Cal.Rptr. 513, 781 P.2d 547]; *People v. Barney* (1983) 143 Cal.App.3d 490, 497–498 [192 Cal.Rptr. 172]; *People v. Gavin* (1971) 21 Cal.App.3d 408, 415–416 [98 Cal.Rptr. 518]; *People v. Deletto* (1983) 147 Cal.App.3d 458, 474–475 [195 Cal.Rptr. 233].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 955; *People v. Jennings, supra,* 53 Cal.3d at pp. 358–359; *People v. Jones, supra,* 9 Cal.3d at p. 557; *People v. Barney, supra,* 143 Cal.App.3d at pp. 497–498; *People v. Gavin, supra,* 21 Cal.App.3d at pp. 415–416; *People v. Deletto, supra,* 147 Cal.App.3d at pp. 474–475."
+      },
+      {
+        "text": "• This Instruction Correctly States the Law. *People v. Rojas* (2015) 237 Cal.App.4th 1298, 1304 [188 Cal.Rptr.3d 811]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

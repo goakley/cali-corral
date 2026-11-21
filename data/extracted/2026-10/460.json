@@ -1,0 +1,114 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "460",
+  "title": "Attempt Other Than Attempted Murder (Pen. Code, § 21a)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      287,
+      289
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2013, February 2015",
+  "revision_legend": null,
+  "body": [
+    "[The defendant is charged [in Count ______] with attempted ______ <insert target offense>.]",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant took a direct but ineffective step toward committing ______ <insert target offense>;",
+    "AND",
+    "2. The defendant intended to commit ______ <insert target offense>.",
+    "A *direct step* requires more than merely planning or preparing to commit ______ <insert target offense> or obtaining or arranging for something needed to commit ______ <insert target offense>. A direct step is one that goes beyond planning or preparation and shows that a person is putting his or her plan into action. A direct step indicates a definite and unambiguous intent to commit ______ <insert target offense>. It is a direct movement towards the commission of the crime after preparations are made. It is an immediate step that puts the plan in motion so that the plan would have been completed if some circumstance outside the plan had not interrupted the attempt.",
+    "[A person who attempts to commit ______ <insert target offense> is guilty of attempted ______ <insert target offense> even if, after taking a direct step towards committing the crime, he or she abandoned further efforts to complete the crime or if his or her attempt failed or was interrupted by someone or something beyond his or her control. On the other hand, if a person freely and voluntarily abandons his or her plans before taking a direct step toward committing ______ <insert target offense>, then that person is not guilty of attempted ______ <insert target offense>.]",
+    "To decide whether the defendant intended to commit ______ <insert target offense>, please refer to the separate instructions that I (will give/have given) you on that crime.",
+    "[The defendant may be guilty of attempt even if you conclude that ______ <insert target offense> was actually completed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the crime of attempt when charged, or, if not charged, when the evidence raises a question whether all the elements of the charged offense are present. (*See People v. Breverman* (1998) 19 Cal.4th 142, 154 [77 Cal.Rptr.2d 870, 960 P.2d 1094].)"
+      },
+      {
+        "text": "If the jury is instructed on attempted criminal threat, give the following third element, as required by *People v. Chandler* (2014) 60 Cal.4th 508, 525 [176 Cal.Rptr.3d 548, 332 P.3d 538], along with CALCRIM No. 1300, *Criminal Threat*."
+      },
+      {
+        "text": "3. The intended criminal threat was sufficient under the circumstances to cause a reasonable person to be in sustained fear."
+      },
+      {
+        "text": "If an attempted crime is charged, give the first bracketed paragraph and choose the phrase “this crime” in the opening line of the second paragraph. If an attempted crime is not charged but is a lesser included offense, omit the first bracketed paragraph and insert the attempted target offense in the opening line of the second paragraph."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “A person who attempts to commit” if abandonment is an issue."
+      },
+      {
+        "text": "If the attempted crime is murder, do not give this instruction; instead give the specific instruction on attempted murder. (*People v. Santascoy* (1984) 153 Cal.App.3d 909, 918 [200 Cal.Rptr. 709]; see CALCRIM No. 600, *Attempted Murder*.)"
+      },
+      {
+        "text": "Do not give this instruction if the crime charged is assault. There can be no attempt to commit assault, since an assault is by definition an attempted battery. (*In re James M.* (1973) 9 Cal.3d 517, 522 [108 Cal.Rptr. 89, 510 P.2d 33].)"
+      },
+      {
+        "text": "If instructing on attempt to escape, *see People v. Bailey* (2012) 54 Cal.4th 740, 748–752 [143 Cal.Rptr.3d 647, 279 P.3d 1120] [specific intent to escape and intent to avoid further confinement required]."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Attempt Defined. Pen. Code, §§ 21a, 664; *People v. Toledo* (2001) 26 Cal.4th 221, 229–230 [109 Cal.Rptr.2d 315, 26 P.3d 1051]."
+      },
+      {
+        "text": "• Conviction for Charged Attempt Even If Crime Is Completed. Pen. Code, § 663."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Insufficient Evidence of Attempt"
+      },
+      {
+        "text": "The court is not required to instruct on attempt as a lesser-included offense unless there is sufficient evidence that the crime charged was not completed. (*People v. Aguilar* (1989) 214 Cal.App.3d 1434, 1436 [263 Cal.Rptr. 314]; *People v. Llamas* (1997) 51 Cal.App.4th 1729, 1743–1744 [60 Cal.Rptr.2d 357]; *People v. Strunk* (1995) 31 Cal.App.4th 265, 271–272 [36 Cal.Rptr.2d 868].)"
+      },
+      {
+        "heading": true,
+        "text": "Legal or Factual Impossibility"
+      },
+      {
+        "text": "Although legal impossibility is a defense to attempt, factual impossibility is not. (*People v. Cecil* (1982) 127 Cal.App.3d 769, 775–777 [179 Cal.Rptr. 736]; *People v. Meyer* (1985) 169 Cal.App.3d 496, 504–505 [215 Cal.Rptr. 352].)"
+      },
+      {
+        "heading": true,
+        "text": "Solicitation"
+      },
+      {
+        "text": "Some courts have concluded that a mere solicitation is not an attempt. (*People v. Adami* (1973) 36 Cal.App.3d 452, 457 [111 Cal.Rptr. 544]; *People v. La Fontaine* (1978) 79 Cal.App.3d 176, 183 [144 Cal.Rptr. 729], overruled on other grounds in *People v. Lopez* (1998) 19 Cal.4th 282, 292–293 [79 Cal.Rptr.2d 195, 965 P.2d 713].) At least one court disagrees, stating that simply because “an invitation to participate in the defendant’s commission of a crime consists only of words does not mean it cannot constitute an ‘act’ toward the completion of the crime, particularly where the offense by its nature consists of or requires the requested type of participation.” (*People v. Herman* (2002) 97 Cal.App.4th 1369, 1387 [119 Cal.Rptr.2d 199] [attempted lewd acts on a child under Pen. Code, § 288(c)(1)]; see *People v. Delvalle* (1994) 26 Cal.App.4th 869, 877 [31 Cal.Rptr.2d 725.)"
+      },
+      {
+        "heading": true,
+        "text": "Specific Intent Crime"
+      },
+      {
+        "text": "An attempted offense is a specific intent crime, even if the underlying crime requires only general intent. (See *People v. Martinez* (1980) 105 Cal.App.3d 938, 942 [165 Cal.Rptr. 11].) However, an attempt is not possible if the underlying crime can only be committed unintentionally. (See *People v. Johnson* (1996) 51 Cal.App.4th 1329, 1332 [59 Cal.Rptr.2d 798] [no attempted involuntary manslaughter].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 173
+  },
+  "warnings": []
+}

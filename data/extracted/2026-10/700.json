@@ -1,0 +1,85 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "700",
+  "title": "Special Circumstances: Introduction (Pen. Code, § 190.2)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      493,
+      494
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find (the/a) defendant guilty of first degree murder, you must also decide whether the People have proved that [one or more of] the special circumstance[s] is true.",
+    "The People have the burden of proving (the/each) special circumstance beyond a reasonable doubt. If the People have not met this burden, you must find the special circumstance has not been proved. [You must return a verdict form stating true or not true for each special circumstance on which you all agree.]",
+    "In order for you to return a finding that a special circumstance is or is not true, all 12 of you must agree.",
+    "[You must (consider each special circumstance separately/[and you must] consider each special circumstance separately for each defendant).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury on the special circumstances and to instruct that, in the case of a reasonable doubt, the jury must find the special circumstance not true. (Pen. Code, § 190.4; see *People v. Frierson* (1979) 25 Cal.3d 142, 180 [158 Cal.Rptr. 281, 599 P.2d 587]; *People v. Ochoa* (1998) 19 Cal.4th 353, 420 [79 Cal.Rptr.2d 408, 966 P.2d 442].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury to consider each special circumstance separately. (See *People v. Holt* (1997) 15 Cal.4th 619, 681 [63 Cal.Rptr.2d 782, 937 P.2d 213].) Give the bracketed paragraph if more than one special circumstance is charged or there are multiple defendants."
+      },
+      {
+        "text": "Where multiple special circumstances are charged, the court may accept a partial verdict if the jury is unable to unanimously agree on all of the special circumstances. (Pen. Code, § 190.4.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Reasonable Doubt. Pen. Code, § 190.4; *People v. Frierson* (1979) 25 Cal.3d 142, 180 [158 Cal.Rptr. 281, 599 P.2d 587]; *People v. Ochoa* (1998) 19 Cal.4th 353, 420 [79 Cal.Rptr.2d 408, 966 P.2d 442]."
+      },
+      {
+        "text": "• Partial Verdict. Pen. Code, § 190.4."
+      },
+      {
+        "text": "• Consider Each Special Circumstance Separately. *People v. Holt* (1997) 15 Cal.4th 619, 681 [63 Cal.Rptr.2d 782, 937 P.2d 213]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Right to Jury Trial on Special Circumstances"
+      },
+      {
+        "text": "Unless specifically waived, the defendant has a right to jury trial on the special circumstance allegations even if the defendant pleaded guilty to the underlying charges. (*People v. Granger* (1980) 105 Cal.App.3d 422, 428 [164 Cal.Rptr. 363].)"
+      },
+      {
+        "heading": true,
+        "text": "Prior Conviction for Murder Requires Bifurcated Trial"
+      },
+      {
+        "text": "If the defendant is charged with the special circumstance of a prior conviction for murder, under Penal Code section 190.2(a)(2), the court must bifurcate the trial. (Pen. Code, § 190.1.) The jury should first determine whether the defendant is guilty of first degree murder and whether any other special circumstances charged are true. *(Ibid.)* The prior conviction special circumstance should then be submitted to the jury in a separate proceeding. *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "All Special Circumstances Constitutional Except Heinous or Atrocious Murder"
+      },
+      {
+        "text": "The special circumstance for a heinous, atrocious, or cruel murder (Pen. Code, § 190.2(a)(14)) has been held to be unconstitutionally vague. (*People v. Superior Court (Engert)* (1982) 31 Cal.3d 797, 803 [183 Cal.Rptr. 800, 647 P.2d 76]; *People v. Sanders* (1990) 51 Cal.3d 471, 520 [273 Cal.Rptr. 537, 797 P.2d 561].) No other special circumstance has been found unconstitutional."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

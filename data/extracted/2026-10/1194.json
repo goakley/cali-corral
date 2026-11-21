@@ -1,0 +1,59 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1194",
+  "title": "Consent: Prior Sexual Intercourse",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1042,
+      1042
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "You have heard evidence that (______ <insert name of complaining witness>/Jane Doe/John Doe) had consensual sexual intercourse with the defendant before the act that is charged in this case. You may consider this evidence only to help you decide (whether the alleged victim consented to the charged act[s]/[and] whether the defendant reasonably and in good faith believed that (______ <insert name of complaining witness>/Jane Doe/John Doe) consented to the charged act[s]). Do not consider this evidence for any other purpose."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give a limiting admonition if the defendant is charged with rape or unlawful sexual intercourse or an attempt or assault with intent to commit either crime and evidence of prior sexual intercourse with the alleged victim has been admitted. (Pen. Code, § 1127d.)"
+      },
+      {
+        "text": "If during the trial the court referred to a complaining witness by the name of Jane or John Doe, use that designation in giving this instruction. (See Pen. Code, §§ 293, 293.5.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1127d."
+      },
+      {
+        "text": "• Protecting Identity of Complaining Witness. Pen. Code §§ 293, 293.5."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Admissibility of Sexual Conduct of Complaining Witness"
+      },
+      {
+        "text": "Evidence Code section 782 sets out the procedure for admitting evidence of the sexual conduct of the complaining witness."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 38
+  },
+  "warnings": []
+}

@@ -1,0 +1,82 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2040",
+  "title": "Unauthorized Use of Personal Identifying Information (Pen. Code, § 530.5(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1467,
+      1468
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007, August 2009, April 2010, August 2012, August 2013, September 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with the unauthorized use of someone else’s personal identifying information [in violation of Penal Code section 530.5(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully obtained someone else’s personal identifying information;",
+    "2. The defendant willfully used that information for an unlawful purpose;",
+    "AND",
+    "3. The defendant used the information without the consent of the person whose identifying information (he/she) was using.",
+    "*Personal identifying information* means ______ <insert relevant items from Pen. Code, § 530.55(b)> or an equivalent form of identification.",
+    "[As used here, *person* means a human being, whether living or dead, or a firm, association, organization, partnership, business trust, company, corporation, limited liability company, or public entity, or any other legal entity.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "An *unlawful purpose* includes unlawfully (obtaining/[or] attempting to obtain) (credit[,]/[or] goods[,]/[or] services[,]/[or] real property[,]/[or] medical information)/[or] ______ <insert other unlawful purpose>) without the consent of the other person.",
+    "It is not necessary that anyone actually be defrauded or actually suffer a financial, legal, or property loss as a result of the defendant’s acts."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In the definition of personal identifying information, give the relevant items based on the evidence presented."
+      },
+      {
+        "text": "The definition of unlawful purpose is not limited to acquiring information for financial motives, and may include any unlawful purpose for which the defendant may have acquired the personal identifying information, such as using the information to facilitate violation of a restraining order. (*See, e.g., People v. Tillotson* (2007) 157 Cal.App.4th 517, 533 [69 Cal.Rptr.3d 42].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 530.5(a)."
+      },
+      {
+        "text": "• Personal Identifying Information Defined. Pen. Code, § 530.55(b)."
+      },
+      {
+        "text": "• Person Defined. Pen. Code, § 530.55(a)."
+      },
+      {
+        "text": "• No Personation Requirement. *People v. Barba* (2012) 211 Cal.App.4th 214, 223–224 [149 Cal.Rptr.3d 371]."
+      },
+      {
+        "text": "• Proof of Knowledge that Information Belonged to a Real Person Not Required. *People v. Zgurski* (2021) 73 Cal.App.5th 250, 264 [288 Cal.Rptr.3d 214]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

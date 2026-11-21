@@ -1,0 +1,151 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "582",
+  "title": "Involuntary Manslaughter: Failure to Perform Legal Duty—Murder Not Charged (Pen. Code, § 192(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      416,
+      419
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2020, October 2021, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with involuntary manslaughter [in violation of Penal Code section 192(b)] based on failure to perform a legal duty.",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had a legal duty to ______ <insert name of decedent>;",
+    "2. The defendant failed to perform that legal duty;",
+    "3. The defendant’s failure was criminally negligent;",
+    "AND",
+    "4. The defendant’s failure caused the death of ______ <insert name of decedent>.",
+    "(A/An) ______ <insert description of person owing duty> has a legal duty to (help/care for/rescue/warn/maintain the property of/______ <insert other required action[s]>) ______ <insert description of decedent, not name>.",
+    "*Criminal negligence* involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with criminal negligence when:",
+    "1. He or she acts in a reckless way that creates a high risk of death or great bodily injury;",
+    "AND",
+    "2. A reasonable person would have known that acting in that way would create such a risk.",
+    "In other words, a person acts with criminal negligence when the way he or she acts is so different from how an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act.",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.]",
+    "[There may be more than one cause of death. An act causes death, only if it is a substantial factor in causing the death. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "heading": true,
+        "text": "Legal Duty"
+      },
+      {
+        "text": "The existence of a legal duty is a matter of law to be decided by the judge. (*Kentucky Fried Chicken v. Superior Court* (1997) 14 Cal.4th 814, 819 [59 Cal.Rtpr.2d 756, 927 P.2d 1260]; *Isaacs v. Huntington Memorial Hospital* (1985) 38 Cal.3d 112, 124 [211 Cal.Rptr. 356, 695 P.2d 653].) The court should instruct the jury if a legal duty exists. (See *People v. Burden* (1977) 72 Cal.App.3d 603, 614 [140 Cal.Rptr. 282] [proper instruction that parent has legal duty to furnish necessary clothing, food, and medical attention for his or her minor child].) In the instruction on legal duty, the court should use generic terms to describe the relationship and duty owed. For example:"
+      },
+      {
+        "text": "A parent has a legal duty to care for a child."
+      },
+      {
+        "text": "A paid caretaker has a legal duty to care for the person he or she was hired to care for."
+      },
+      {
+        "text": "A person who has assumed responsibility for another person has a legal duty to care for that other person."
+      },
+      {
+        "text": "The court should not state “the defendant had a legal duty to the decedent.” (See *People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135] [correct to state “a Garden Grove Regular Police Officer [is a] peace officer”; would be error to state “Officer Reed was a peace officer”].)"
+      },
+      {
+        "text": "However, in a small number of cases where the legal duty to act is based on the defendant having created or increased risk to the victim, the existence of the legal duty may depend on facts in dispute. (See *People v. Oliver* (1989) 210 Cal.App.3d 138, 149 [258 Cal.Rptr. 138].) If there is a conflict in testimony over the facts necessary to establish that the defendant owed a legal duty to the victim, then the issue must be submitted to the jury. In such cases, the court should insert a section similar to the following:"
+      },
+      {
+        "text": "The People must prove that the defendant had a legal duty to (help/rescue/warn/______ <insert other required action[s]>) ______ <insert name of decedent>."
+      },
+      {
+        "text": "In order to prove that the defendant had this legal duty, the People must prove that the defendant ______ <insert facts that establish legal duty>."
+      },
+      {
+        "text": "If you decide that the People have proved that the defendant ______ <insert facts that establish legal duty>, then the defendant had a legal duty to (help/rescue/warn/______ <insert other required action[s]>) ______ <insert name of decedent>."
+      },
+      {
+        "text": "If you have a reasonable doubt whether the defendant ______ <insert facts that establish legal duty>, then you must find (him/her) not guilty."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 192(b); *People v. Oliver, supra,* 210 Cal.App.3d at p. 146."
+      },
+      {
+        "text": "• Criminal Negligence. *People v. Penny* (1955) 44 Cal.2d 861, 879–880 [285 P.2d 926]; *People v. Rodriguez* (1960) 186 Cal.App.2d 433, 440 [8 Cal.Rptr. 863]."
+      },
+      {
+        "text": "• Legal Duty. *People v. Heitzman* (1994) 9 Cal.4th 189, 198–199 [37 Cal.Rptr.2d 236, 886 P.2d 1229]; *People v. Oliver* (1989) 210 Cal.App.3d 138, 149 [258 Cal.Rptr. 138]."
+      },
+      {
+        "text": "• Causation. *People v. Roberts* (1992) 2 Cal.4th 271, 315–321 [6 Cal.Rptr.2d 276, 826 P.2d 274]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Skiff* (2021) 59 Cal.App.5th 571, 579–580 [273 Cal.Rptr.3d 572]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Aggravated assault is not a lesser included offense of involuntary manslaughter. (*People v. Murray* (2008) 167 Cal.App.4th 1133, 1140 [84 Cal.Rptr.3d 676].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Legal Duty to Aid"
+      },
+      {
+        "text": "In *People v. Oliver, supra,* 210 Cal.App.3d at p. 147, the court explained the requirement of a legal duty to act as follows:"
+      },
+      {
+        "text": "A necessary element of negligence, whether criminal or civil, is a duty owed to the person injured and a breach of that duty . . . . Generally, one has no legal duty to rescue or render aid to another in peril, even if the other is in danger of losing his or her life, absent a special relationship which gives rise to such duty . . . . In California civil cases, courts have found a special relationship giving rise to an affirmative duty to act where some act or omission on the part of the defendant either created or increased the risk of injury to the plaintiff, or created a dependency relationship inducing reliance or preventing assistance from others . . . . Where, however, the defendant took no affirmative action which contributed to, increased, or changed the risk which would otherwise have existed, and did not voluntarily assume any responsibility to protect the person or induce a false sense of security, courts have refused to find a special relationship giving rise to a duty to act."
+      },
+      {
+        "heading": true,
+        "text": "Duty Based on Dependency/Voluntary Assumption of Responsibility"
+      },
+      {
+        "text": "A legal duty to act exists when the defendant is a caretaker or has voluntarily assumed responsibility for the victim. (*Walker v. Superior Court* (1988) 47 Cal.3d 112, 134–138 [253 Cal.Rptr. 1, 763 P.2d 852] [parent to child]; *People v. Montecino* (1944) 66 Cal.App.2d 85, 100 [152 P.2d 5] [contracted caretaker to dependent].)"
+      },
+      {
+        "heading": true,
+        "text": "Duty Based on Conduct Creating or Increasing Risk"
+      },
+      {
+        "text": "A legal duty to act may also exist where the defendant’s behavior created or substantially increased the risk of harm to the victim, either by creating the dangerous situation or by preventing others from rendering aid. (*People v. Oliver, supra,* 210 Cal.App.3d at pp. 147–148 [defendant had duty to act where she drove victim to her home knowing he was drunk, knowingly allowed him to use her bathroom to ingest additional drugs, and watched him collapse on the floor]; *Sea Horse Ranch, Inc. v. Superior Court* (1994) 24 Cal.App.4th 446, 456 [30 Cal.Rptr.2d 681] [defendant had duty to prevent horses from running onto adjacent freeway creating risk].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

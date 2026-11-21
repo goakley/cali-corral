@@ -1,0 +1,74 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "316",
+  "title": "Additional Instructions on Witness Credibility—Other Conduct",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      161,
+      162
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "<Alternative A—felony conviction>",
+    "[If you find that a witness has been convicted of a felony, you may consider that fact [only] in evaluating the credibility of the witness’s testimony. The fact of a conviction does not necessarily destroy or impair a witness’s credibility. It is up to you to decide the weight of that fact and whether that fact makes the witness less believable.]",
+    "<Alternative B—prior criminal conduct with or without conviction>",
+    "[If you find that a witness has committed a crime or other misconduct, you may consider that fact [only] in evaluating the credibility of the witness’s testimony. The fact that a witness may have committed a crime or other misconduct does not necessarily destroy or impair a witness’s credibility. It is up to you to decide the weight of that fact and whether that fact makes the witness less believable.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is no sua sponte duty to give this instruction; however, the instruction must be given on request. (*People v. Kendrick* (1989) 211 Cal.App.3d 1273, 1278 [260 Cal.Rptr. 27]; *People v. Hernandez* (2004) 33 Cal.4th 1040, 1051–1052 [16 Cal.Rptr.3d 880, 94 P.3d 1080] [overruling *People v. Mayfield* (1972) 23 Cal.App.3d 236 [100 Cal.Rptr. 104], which had found a sua sponte duty to give limiting instruction on felony conviction admitted for impeachment].)"
+      },
+      {
+        "text": "If a felony conviction or other misconduct has been admitted only on the issue of credibility, give the bracketed word “only.”"
+      },
+      {
+        "text": "Do not give this instruction if a conviction also has been admitted to prove an element of a charged offense. (*People v. Dewberry* (1959) 51 Cal.2d 548, 553–554 [334 P.2d 852].)"
+      },
+      {
+        "text": "It is unclear whether this instruction is appropriate if the evidence also has been admitted for a purpose other than to prove an element of the offense (as discussed above). For example, the evidence may have been admitted under Evidence Code section 1108. In such cases, if the court does give this instruction, the court may omit the bracketed “only.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Limiting Instruction Must Be Given on Request. *People v. Kendrick* (1989) 211 Cal.App.3d 1273, 1278 [260 Cal.Rptr. 27]; *People v. Hernandez* (2004) 33 Cal.4th 1040, 1051–1052 [16 Cal.Rptr.3d 880, 94 P.3d 1080]."
+      },
+      {
+        "text": "• Felony Conviction Admissible for Impeachment. Evid. Code, § 788."
+      },
+      {
+        "text": "• Standard for Admitting Felony Conviction. *People v. Castro* (1985) 38 Cal.3d 301, 306–319 [211 Cal.Rptr. 719, 696 P.2d 111]; *People v. Beagle* (1972) 6 Cal.3d 441, 451–452 [99 Cal.Rptr. 313, 492 P.2d 1]."
+      },
+      {
+        "text": "• Misdemeanor Conduct Admissible for Impeachment. *People v. Wheeler* (1992) 4 Cal.4th 284, 295–296 [14 Cal.Rptr.2d 418, 841 P.2d 938]."
+      },
+      {
+        "text": "• Record Must Demonstrate Court Conducted Evid. Code, § 352 Weighing. *People v. Navarez* (1985) 169 Cal.App.3d 936, 950 [215 Cal.Rptr. 519]."
+      },
+      {
+        "text": "• Modifications to this Instruction Created Error. *People v. Gray* (2007) 158 Cal.App.4th 635, 640–641 [69 Cal.Rptr.3d 876]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

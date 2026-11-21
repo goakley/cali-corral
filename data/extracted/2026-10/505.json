@@ -1,0 +1,170 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "505",
+  "title": "Justifiable Homicide: Self-Defense or Defense of Another",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      299,
+      304
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, August 2012, September 2020, March 2022, September 2022, February 2025, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of (murder/[or] manslaughter/attempted murder/[or] attempted voluntary manslaughter) if (he/she) was justified in (killing/attempting to kill) someone in (self-defense/[or] defense of another). The defendant acted in lawful (self-defense/[or] defense of another) if:",
+    "1. The defendant reasonably believed that (he/she/[or] someone else/[or] ______ <insert name or description of third party>) was in imminent danger of being killed or suffering great bodily injury [or was in imminent danger of being a victim of (______ <insert inherently forcible and atrocious crime such as rape or mayhem>/<insert noninherently forcible and atrocious crime such as robbery>under circumstances in which (he/she) reasonably believed that (he/she) would suffer great bodily injury or death)];",
+    "2. The defendant reasonably believed that the immediate use of deadly force was necessary to defend against that danger;",
+    "AND",
+    "3. The defendant used no more force than was reasonably necessary to defend against that danger.",
+    "Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be. The defendant must have believed there was imminent danger of death or great bodily injury to (himself/herself/[or] someone else). Defendant’s belief must have been reasonable and (he/she) must have acted only because of that belief. The defendant is only entitled to use that amount of force that a reasonable person would believe is necessary in the same situation. If the defendant used more force than was reasonable, the [attempted] killing was not justified.",
+    "<The following definition may be given if requested.>",
+    "[Danger is *imminent* if, when the defendant used [deadly] force, the danger actually existed or the defendant reasonably believed it existed. The danger must seem immediate and present, so that it must be instantly dealt with. It may not be merely prospective or in the near future.]",
+    "When deciding whether the defendant’s beliefs were reasonable, consider all the circumstances as they were known to and appeared to the defendant and consider what a reasonable person in a similar situation with similar knowledge would have believed. If the defendant’s beliefs were reasonable, the danger does not need to have actually existed.",
+    "[The defendant’s belief that (he/she/[or] someone else) was threatened may be reasonable even if (he/she) relied on information that was not true. However, the defendant must actually and reasonably have believed that the information was true.]",
+    "[If you find that ______ <insert name of decedent/victim> threatened or harmed the defendant [or others] in the past, you may consider that information in deciding whether the defendant’s conduct and beliefs were reasonable.]",
+    "[If you find that the defendant knew that ______ <insert name of decedent/victim> had threatened or harmed others in the past, you may consider that information in deciding whether the defendant’s conduct and beliefs were reasonable.]",
+    "[Someone who has been threatened or harmed by a person in the past, is justified in acting more quickly or taking greater self-defense measures against that person.]",
+    "[If you find that the defendant received a threat from someone else that (he/she) reasonably associated with ______ <insert name of decedent/victim>, you may consider that threat in deciding whether the defendant was justified in acting in (self-defense/[or] defense of another).]",
+    "[A defendant is not required to retreat. He or she is entitled to stand his or her ground and defend himself or herself and, if reasonably necessary, to pursue an assailant until the danger of (death/great bodily injury/______ <insert forcible and atrocious crime>) has passed. This is so even if safety could have been achieved by retreating.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "The People have the burden of proving beyond a reasonable doubt that the [attempted] killing was not justified. If the People have not met this burden, you must find the defendant not guilty of (murder/[or] manslaughter/attempted murder/[or] attempted voluntary manslaughter)."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on self-defense when: “it appears that the defendant is relying on such a defense, or if there is substantial evidence supportive of such a defense and the defense is not inconsistent with the defendant’s theory of the case.” (*People v. Breverman* (1998) 19 Cal.4th 142, 157 [77 Cal.Rtpr.2d 870, 960 P.2d 1094] [addressing duty to instruct on voluntary manslaughter as lesser included offense, but also discussing duty to instruct on defenses generally]; see also *People v. Lemus* (1988) 203 Cal.App.3d 470, 478 [249 Cal.Rptr. 897] [if substantial evidence of self-defense exists, court must instruct sua sponte and let jury decide credibility of witnesses].)"
+      },
+      {
+        "text": "If there is substantial evidence of self-defense that is inconsistent with the defendant’s testimony, the court must ascertain whether the defendant wants an instruction on self-defense. (*People v. Breverman, supra,* 19 Cal.4th at p. 156.) The court is then required to give the instruction if the defendant so requests. (*People v. Elize* (1999) 71 Cal.App.4th 605, 611–615 [84 Cal.Rptr.2d 35].)"
+      },
+      {
+        "text": "On defense request and when supported by sufficient evidence, the court must instruct that the jury may consider the effect of “antecedent threats and assaults against the defendant on the reasonableness of defendant’s conduct.” (*People v. Garvin* (2003) 110 Cal.App.4th 484, 488 [1 Cal.Rptr.3d 774].) The court must also instruct that the jury may consider previous threats or assaults by the aggressor against someone else or threats received by the defendant from a third party that the defendant reasonably associated with the aggressor. (See *People v. Pena* (1984) 151 Cal.App.3d 462, 475 [198 Cal.Rptr. 819]; *People v. Minifie* (1996) 13 Cal.4th 1055, 1065, 1068 [56 Cal.Rptr.2d 133, 920 P.2d 1337].)"
+      },
+      {
+        "text": "Forcible and atrocious crimes are generally those crimes whose character and manner reasonably create a fear of death or serious bodily harm. (*People v. Ceballos* (1974) 12 Cal.3d 470, 479 [116 Cal.Rptr. 233, 526 P.2d 241].) In *Ceballos*, the court identified murder, mayhem, rape, and robbery as examples of forcible and atrocious crimes. (*Id.* at p. 478.) However, as noted in *People v. Morales* (2021) 69 Cal.App.5th 978, 992–993 [284 Cal.Rptr.3d 693], *Ceballos* involved a burglary, not a robbery, and contemplated the traditional common law robbery, which, unlike the modern understanding of robbery in California, did not include situations where very little force or threat of force is involved. *Morales* concluded that “[a] robbery therefore cannot trigger the right to use deadly force in self-defense unless the circumstances of the robbery gave rise to a reasonable belief that the victim would suffer great bodily injury or death.” (*Id.* at p. 992.)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM Nos. 506–511, Justifiable and Excusable Homicides."
+      },
+      {
+        "text": "CALCRIM Nos. 3470–3477, Defense Instructions: Defense of Self, Another, Property."
+      },
+      {
+        "text": "CALCRIM No. 571, *Voluntary Manslaughter: Imperfect Self-Defense or Imperfect Defense of Another—Lesser Included Offense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Justifiable Homicide. Pen. Code, §§ 197–199."
+      },
+      {
+        "text": "• Fear. Pen. Code, § 198."
+      },
+      {
+        "text": "• Lawful Resistance. Pen. Code, §§ 692–694."
+      },
+      {
+        "text": "• Burden of Proof. Pen. Code, § 189.5; *People v. Banks* (1976) 67 Cal.App.3d 379, 383–384 [137 Cal.Rptr. 652]."
+      },
+      {
+        "text": "• Elements. *People v. Humphrey* (1996) 13 Cal.4th 1073, 1082 [56 Cal.Rptr.2d 142, 921 P.2d 1]."
+      },
+      {
+        "text": "• Forcible and Atrocious Crimes. *People v. Ceballos, supra,* 12 Cal.3d at pp. 478–479; *People v. Morales, supra,* 69 Cal.App.5th at pp. 992–993."
+      },
+      {
+        "text": "• Imminence. *People v. Aris* (1989) 215 Cal.App.3d 1178, 1187 [264 Cal.Rptr. 167], overruled on other grounds in *People v. Humphrey, supra,* 13 Cal.4th at p. 1089."
+      },
+      {
+        "text": "• No Duty to Retreat. *People v. Hughes* (1951) 107 Cal.App.2d 487, 493 [237 P.2d 64]; *People v. Hatchett* (1942) 56 Cal.App.2d 20, 22 [132 P.2d 51]."
+      },
+      {
+        "text": "• Reasonable Belief. *People v. Humphrey, supra,* 13 Cal.4th at p. 1082; *People v. Clark* (1982) 130 Cal.App.3d 371, 377 [181 Cal.Rptr. 682]."
+      },
+      {
+        "text": "• Must Act Under Influence of Fear Alone. Pen. Code, § 198."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Lopez* (2011) 199 Cal.App.4th 1297, 1306 [132 Cal.Rptr.3d 248]; *People v. Genovese* (2008) 168 Cal.App.4th 817, 832 [85 Cal.Rptr.3d 664]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Penal Code section 197, subdivision 1 provides that self-defense may be used in response to threats of death or great bodily injury, or to resist the commission of a felony. (Pen. Code, § 197, subd. 1.) However, in *People v. Ceballos, supra,* 12 Cal.3d at pp. 477–479, the court held that although the latter part of section 197 appears to apply when a person resists the commission of any felony, it should be read in light of common law principles that require the felony to be: “some atrocious crime attempted to be committed by force.” (*Id.* at p. 478.) This instruction is therefore written to provide that self-defense may be used in response to threats of great bodily injury or death or to resist the commission of forcible and atrocious crimes."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Imperfect Self-Defense"
+      },
+      {
+        "text": "Most courts hold that an instruction on imperfect self-defense is required in every case in which a court instructs on perfect self-defense. If there is substantial evidence of a defendant’s belief in the need for self-defense, there will *always* be substantial evidence to support an imperfect self-defense instruction because the reasonableness of that belief will always be at issue. (*People v. Ceja* (1994) 26 Cal.App.4th 78, 85–86 [31 Cal.Rptr.2d 475], overruled on other grounds in *People v. Blakeley* (2000) 23 Cal.4th 82, 91 [96 Cal.Rptr.2d 451, 999 P.2d 675]; *People v. De Leon* (1992) 10 Cal.App.4th 815, 824 [12 Cal.Rptr.2d 825].) The court in *People v. Rodriguez* disagreed, however, and found that an imperfect self-defense instruction was not required sua sponte on the facts of the case where defendant’s version of the crime “could only lead to an acquittal based on justifiable homicide,” and when the prosecutor’s version could only lead to a conviction of first degree murder. (*People v. Rodriguez* (1992) 53 Cal.App.4th 1250, 1275 [62 Cal.Rptr.2d 345]; see also *People v. Williams* (1997) 4 Cal.4th 354, 362 [14 Cal.Rptr.2d 441, 841 P.2d 961] [in rape prosecution, no mistake-of-fact instruction was required when two sides gave wholly divergent accounts with no middle ground to support a mistake-of-fact instruction].)"
+      },
+      {
+        "heading": true,
+        "text": "No Defense for Initial Aggressor"
+      },
+      {
+        "text": "An aggressor whose victim fights back in self-defense may not invoke the doctrine of self-defense against the victim’s legally justified acts. (*In re Christian S.* (1994) 7 Cal.4th 768, 773, fn. 1 [30 Cal.Rptr.2d 33, 872 P.2d 574].) If the aggressor attempts to break off the fight and communicates this to the victim, but the victim continues to attack, the aggressor may use self-defense against the victim to the same extent as if he or she had not been the initial aggressor. (Pen. Code, § 197, subd. 3; *People v. Trevino* (1988) 200 Cal.App.3d 874, 879 [246 Cal.Rptr. 357]; see CALCRIM No. 3471, *Right to Self-Defense: Mutual Combat or Initial Aggressor*.) In addition, if the victim responds with a sudden escalation of force, the aggressor may legally defend against the use of force. (*People v. Quach* (2004) 116 Cal.App.4th 294, 301–302 [10 Cal.Rptr.3d 196]; see CALCRIM No. 3471, *Right to Self-Defense: Mutual Combat or Initial Aggressor*.)"
+      },
+      {
+        "heading": true,
+        "text": "Transferred Intent Applies"
+      },
+      {
+        "text": "“[T]he doctrine of self-defense is available to insulate one from criminal responsibility where his act, justifiably in self-defense, inadvertently results in the injury of an innocent bystander.” (*People v. Mathews* (1979) 91 Cal.App.3d 1018, 1024 [154 Cal.Rptr. 628]; see also *People v. Curtis* (1994) 30 Cal.App.4th 1337, 1357 [37 Cal.Rptr.2d 304].) There is no sua sponte duty to instruct on this principle, although such an instruction must be given on request when substantial evidence supports it. (*People v. Mathews, supra,* 91 Cal.App.3d at p. 1025; see also CALCRIM No. 562, *Transferred Intent*.)"
+      },
+      {
+        "heading": true,
+        "text": "Reasonable Person Standard Not Modified by Evidence of Mental Impairment"
+      },
+      {
+        "text": "In *People v. Jefferson* (2004) 119 Cal.App.4th 508, 519 [14 Cal.Rptr.3d 473], the court rejected the argument that the reasonable person standard for self-defense should be the standard of a mentally ill person like the defendant. “The common law does not take account of a person’s mental capacity when determining whether he has acted as the reasonable person would have acted. The law holds ‘the mentally deranged or insane defendant accountable for his negligence as if the person were a normal, prudent person.’ (Prosser & Keeton, Torts (5th ed. 1984) § 32, p. 177.)” (*Ibid.*; see also Rest.2d Torts, § 283B.)"
+      },
+      {
+        "heading": true,
+        "text": "Reasonable Person Standard and Physical Limitations"
+      },
+      {
+        "text": "A defendant’s physical limitations are relevant when deciding the reasonable person standard for self-defense. (*People v. Horn* (2021) 63 Cal.App.5th 672, 686 [277 Cal.Rptr.3d 901].) See also CALCRIM No. 3429, *Reasonable Person Standard for Physically Disabled Person*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

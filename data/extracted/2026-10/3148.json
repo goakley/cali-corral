@@ -1,0 +1,81 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3148",
+  "title": "Personally Used Firearm: Intentional Discharge (Pen. Code, § 12022.53(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2221,
+      2222
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant personally and intentionally discharged a firearm during that offense. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant personally discharged a firearm during the commission [or attempted commission] of the crime;",
+    "AND",
+    "2. The defendant intended to discharge the firearm.",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[The term *firearm* is defined in another instruction.]",
+    "<If there is an issue in the case over whether the defendant discharged the firearm “during the commission of” the offense, see Bench Notes.>",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the enhancement. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].) If the defendant is charged with an enhancement for both intentional discharge *and* intentional discharge causing great bodily injury or death, the court may give CALCRIM No. 3150, *Personally Used Firearm: Intentional Discharge and Discharge Causing Injury or Death Both Charged*, instead of this instruction."
+      },
+      {
+        "text": "The court should give the bracketed definition of “firearm” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "If the case involves an issue of whether the defendant used the weapon “during the commission of” the offense, the court may give CALCRIM No. 3261, *While Committing a Felony: Defined—Escape Rule*. (See *People v. Jones* (2001) 25 Cal.4th 98, 109 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, § 12022.53(c)."
+      },
+      {
+        "text": "• Firearm Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• “During Commission of” Felony. *People v. Jones* (2001) 25 Cal.4th 98, 109–110 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Self-Defense and Imperfect Self-Defense"
+      },
+      {
+        "text": "Penal Code section 12022.53(*l*) provides that “[t]he enhancements specified in this section shall not apply to the lawful use or discharge of a firearm . . . by any person in lawful self-defense, lawful defense of another, or lawful defense of property, as provided in Sections 197, 198, and 198.5.” In *People v. Watie* (2002) 100 Cal.App.4th 866, 884 [124 Cal.Rptr.2d 258], the court held, “[t]his subdivision, on its face, exempts lawful (perfect) self-defense from the section’s application. It does not exempt imperfect self-defense.” Further, an instruction informing the jury that the defense of self-defense applies to the enhancement is not necessary. (*Id.* at p. 886.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

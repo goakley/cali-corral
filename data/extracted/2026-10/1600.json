@@ -1,0 +1,235 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1600",
+  "title": "Robbery (Pen. Code, § 211)",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      82,
+      87
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2009, October 2010, April 2011, August 2013, August 2014, March 2017, September 2018, March 2022, February 2025, October 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with robbery [in violation of Penal Code section 211].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant took property that was not (his/her) own;",
+    "2. The property was in the possession of another person;",
+    "3. The property was taken from the other person or (his/her) immediate presence;",
+    "4. The property was taken against that person’s will;",
+    "5. The defendant used force or fear to (take/[or] retain/[or] resist an attempt to regain) the property or to prevent the person from resisting;",
+    "AND",
+    "6. When the defendant used force or fear, (he/she) intended (to deprive the owner of the property permanently/[or] to remove the property from the owner’s possession for so extended a period of time that the owner would be deprived of a major portion of the value or enjoyment of the property).",
+    "The defendant’s intent to take the property must have been formed before or during the time (he/she) used force or fear. If the defendant did not form this required intent until after using the force or fear, then (he/she) did not commit robbery.",
+    "<Give the following bracketed paragraph if the second degree is the only possible degree of the charged crime for which the jury may return a verdict.>",
+    "[If you find the defendant guilty of robbery, it is robbery of the second degree.]",
+    "[A person *takes* something when he or she gains possession of it and moves it some distance. The distance moved may be short.]",
+    "[The property taken can be of any value, however slight.] [Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[A (store/[or] business) (employee/______ <insert description>)",
+    "who is on duty has possession of the (store/[or] business) owner’s property.]",
+    "[*Fear*, as used here, means fear of (injury to the person himself or herself[,]/[or] injury to the person’s family or property[,]/[or] immediate injury to someone else present during the incident or to that person’s property).]",
+    "An act is accomplished by *fear* if the other person is actually afraid. The other person’s actual fear may be inferred from the circumstances.",
+    "[Property is within a person’s *immediate presence* if it is sufficiently within his or her physical control that he or she could keep possession of it if not prevented by force or fear.]",
+    "[An act is done *against a person’s will* if that person does not consent to the act. In order to *consent*, a person must act freely and voluntarily and know the nature of the act.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "To have the requisite intent for theft, the defendant must either intend to deprive the owner permanently or to deprive the owner of a major portion of the property’s value or enjoyment. (See *People v. Avery* (2002) 27 Cal.4th 49, 57–58 [115 Cal.Rptr.2d 403, 38 P.3d 1].) Select the appropriate language in element 5."
+      },
+      {
+        "text": "There is no sua sponte duty to define the terms “possession,” “fear,” “force,” and “immediate presence.” (*People v. Anderson* (1966) 64 Cal.2d 633, 639 [51 Cal.Rptr. 238, 414 P.2d 366] [fear]; *People v. Mungia* (1991) 234 Cal.App.3d 1703, 1708 [286 Cal.Rptr. 394] [fear].) These definitions are discussed in the Commentary below."
+      },
+      {
+        "text": "If second degree robbery is the only possible degree of robbery that the jury may return as their verdict, do not give CALCRIM No. 1602, *Robbery: Degrees*."
+      },
+      {
+        "text": "Give the bracketed definition of “against a person’s will” on request."
+      },
+      {
+        "text": "If the use of force or fear is not contemporaneous with the original taking, the court should use the “retain” or “resist an attempt to regain” options in element 5. (See *People v. McKinnon* (2011) 52 Cal.4th 610, 686–687 [130 Cal.Rptr.3d 590, 259 P.3d 1186]; *People v. Gomez* (2008) 43 Cal.4th 249, 255–265 [74 Cal.Rptr.3d 123, 179 P.3d 917]; *People v. Estes* (1983) 147 Cal.App.3d 23, 28 [194 Cal.Rptr. 909].) See CALCRIM No. 3261, *While Committing a Felony: Defined—Escape Rule*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 211."
+      },
+      {
+        "text": "• “Fear” Defined. Pen. Code, § 212; see *People v. Collins* (2021) 65 Cal.App.5th 333, 340–341 [279 Cal.Rptr.3d 407]; *People v. Cuevas* (2001) 89 Cal.App.4th 689, 698 [107 Cal.Rptr.2d 529] [victim must actually be afraid]."
+      },
+      {
+        "text": "• “Immediate Presence” Defined. *People v. Hayes* (1990) 52 Cal.3d 577, 626–627 [276 Cal.Rptr. 874, 802 P.2d 376]."
+      },
+      {
+        "text": "• Force When No Physical Touching. *People v. Mendez-Torres* (2025) 113 Cal.App.5th 1007, 1019 [336 Cal.Rptr.3d 298]."
+      },
+      {
+        "text": "• Intent. *People v. Green* (1980) 27 Cal.3d 1, 52–53 [164 Cal.Rptr. 1, 609 P.2d 468], overruled on other grounds in *People v. Hall* (1986) 41 Cal.3d 826, 834, fn. 3 [226 Cal.Rptr. 112, 718 P.2d 99]; see *Rodriguez v. Superior Court* (1984) 159 Cal.App.3d 821, 826 [205 Cal.Rptr. 750] [same intent as theft]."
+      },
+      {
+        "text": "• Intent to Deprive Owner of Main Value. See *People v. Avery, supra,* 27 Cal.4th at pp. 57–58 [in context of theft]; *People v. Zangari* (2001) 89 Cal.App.4th 1436, 1447 [108 Cal.Rptr.2d 250] [same]."
+      },
+      {
+        "text": "• “Possession” Defined. *People v. Bekele* (1995) 33 Cal.App.4th 1457, 1461 [39 Cal.Rptr.2d 797], disapproved on other grounds in *People v. Rodriguez* (1999) 20 Cal.4th 1, 13–14 [82 Cal.Rptr.2d 413, 971 P.2d 618]."
+      },
+      {
+        "text": "• Robbery of Store Employee or Contractor. *People v. Frazer* (2003) 106 Cal.App.4th 1105, 1115–1117 [131 Cal.Rptr.2d 319]; *People v. Gilbeaux* (2003) 111 Cal.App.4th 515, 521–522 [3 Cal.Rptr.3d 835]."
+      },
+      {
+        "text": "• Constructive Possession by Employee. *People v. Scott* (2009) 45 Cal.4th 743, 751 [89 Cal.Rptr.3d 213, 200 P.3d 837]."
+      },
+      {
+        "text": "• Constructive Possession by Subcontractor/Janitor. *People v. Gilbeaux* (2003) 111 Cal.App.4th 515, 523 [3 Cal.Rptr.3d 835]."
+      },
+      {
+        "text": "• Constructive Possession by Person With Special Relationship. *People v. Weddles* (2010) 184 Cal.App.4th 1365, 1369–1370 [109 Cal.Rptr.3d 479]."
+      },
+      {
+        "text": "• Felonious Taking Not Satisfied by Theft by False Pretense. *People v. Williams* (2013) 57 Cal.4th 776, 784–789 [161 Cal.Rptr.3d 81, 305 P.3d 1241]."
+      },
+      {
+        "text": "• Constructive Possession and Immediate Presence of Funds in Account of Robbery Victims Using ATM. *People v. Mullins* (2018) 19 Cal.App.5th 594, 603 [228 Cal.Rptr.3d 198]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The instruction includes definitions of “possession,” “fear,” and “immediate presence” because those terms have meanings in the context of robbery that are technical and may not be readily apparent to jurors. (See *People v. McElheny* (1982) 137 Cal.App.3d 396, 403 [187 Cal.Rptr. 39]; *People v. Pitmon* (1985) 170 Cal.App.3d 38, 52 [216 Cal.Rptr. 221].)"
+      },
+      {
+        "text": "“Possession” was defined in the instruction because either actual or constructive possession of property will satisfy this element, and this definition may not be readily apparent to jurors. (*People v. Bekele, supra,* 33 Cal.App.4th at p. 1461 [defining possession], disapproved on other grounds in *People v. Rodriguez, supra,* 20 Cal.4th at pp. 13–14; see also *People v. Nguyen* (2000) 24 Cal.4th 756, 761, 763 [102 Cal.Rptr.2d 548, 14 P.3d 221] [robbery victim must have actual or constructive possession of property taken; disapproving *People v. Mai* (1994) 22 Cal.App.4th 117, 129 [27 Cal.Rptr.2d 141]].)"
+      },
+      {
+        "text": "“Fear” was defined in the instruction because the statutory definition includes fear of injury to third parties, and this concept is not encompassed within the common understanding of fear. “Force” was not defined because its definition in the context of robbery is commonly understood. (See *People v. Mungia, supra,* 234 Cal.App.3d at p. 1709 [“force is a factual question to be determined by the jury using its own common sense”].)"
+      },
+      {
+        "text": "“Immediate presence” was defined in the instruction because its definition is related to the use of force and fear and to the victim’s ability to control the property. This definition may not be readily apparent to jurors."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Robbery. Pen. Code, §§ 664, 211; *People v. Webster* (1991) 54 Cal.3d 411, 443 [285 Cal.Rptr. 31, 814 P.2d 1273]."
+      },
+      {
+        "text": "• Grand Theft. Pen. Code, §§ 484, 487g; *People v. Webster, supra*, at p. 443; *People v. Ortega* (1998) 19 Cal.4th 686, 694, 699 [80 Cal.Rptr.2d 489, 968 P.2d 48]; see *People v. Cooksey* (2002) 95 Cal.App.4th 1407, 1411–1413 [116 Cal.Rptr.2d 1] [insufficient evidence to require instruction]."
+      },
+      {
+        "text": "• Grand Theft Automobile. Pen. Code, § 487(d); *People v. Gamble* (1994) 22 Cal.App.4th 446, 450 [27 Cal.Rptr.2d 451] [construing former Pen. Code, § 487h]; *People v. Escobar* (1996) 45 Cal.App.4th 477, 482 [53 Cal.Rptr.2d 9] [same]."
+      },
+      {
+        "text": "• Petty Theft. Pen. Code, §§ 484, 488; *People v. Covington* (1934) 1 Cal.2d 316, 320 [34 P.2d 1019]."
+      },
+      {
+        "text": "• Petty Theft With Prior. Pen. Code, § 666; *People v. Villa* (2007) 157 Cal.App.4th 1429, 1433–1434 [69 Cal.Rptr.3d 282]."
+      },
+      {
+        "text": "When there is evidence that the defendant formed the intent to steal after the application of force or fear, the court has a sua sponte duty to instruct on any relevant lesser included offenses. (*People v. Bradford* (1997) 14 Cal.4th 1005, 1055–1057 [60 Cal.Rptr.2d 225, 929 P.2d 544] [error not to instruct on lesser included offense of theft]); *People v. Ramkeesoon* (1985) 39 Cal.3d 346, 350–352 [216 Cal.Rptr. 455, 702 P.2d 613] [same].)"
+      },
+      {
+        "text": "On occasion, robbery and false imprisonment may share some elements (e.g., the use of force or fear of harm to commit the offense). Nevertheless, false imprisonment is not a lesser included offense, and thus the same conduct can result in convictions for both offenses. (*People v. Reed* (2000) 78 Cal.App.4th 274, 281–282 [92 Cal.Rptr.2d 781].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Asportation—Felonious Taking"
+      },
+      {
+        "text": "To constitute a taking, the property need only be moved a small distance. It does not have to be under the robber’s actual physical control. If a person acting under the robber’s direction, including the victim, moves the property, the element of taking is satisfied. (*People v. Martinez* (1969) 274 Cal.App.2d 170, 174 [79 Cal.Rptr. 18]; *People v. Price* (1972) 25 Cal.App.3d 576, 578 [102 Cal.Rptr. 71].)"
+      },
+      {
+        "heading": true,
+        "text": "Claim of Right"
+      },
+      {
+        "text": "If a person honestly believes that he or she has a right to the property even if that belief is mistaken or unreasonable, such belief is a defense to robbery. (*People v. Butler* (1967) 65 Cal.2d 569, 573 [55 Cal.Rptr. 511, 421 P.2d 703]; *People v. Romo* (1990) 220 Cal.App.3d 514, 518 [269 Cal.Rptr. 440] [discussing defense in context of theft]; see CALCRIM No. 1863, *Defense to Theft or Robbery: Claim of Right*.) This defense is only available for robberies when a specific piece of property is reclaimed; it is not a defense to robberies perpetrated to settle a debt, liquidated or unliquidated. (*People v. Tufunga* (1999) 21 Cal.4th 935, 945–950 [90 Cal.Rptr.2d 143, 987 P.2d 168].)"
+      },
+      {
+        "heading": true,
+        "text": "Fear"
+      },
+      {
+        "text": "A victim’s fear may be shown by circumstantial evidence. (*People v. Davison* (1995) 32 Cal.App.4th 206, 212 [38 Cal.Rptr.2d 438].) Even when the victim testifies that he or she is not afraid, circumstantial evidence may satisfy the element of fear. (*People v. Renteria* (1964) 61 Cal.2d 497, 498–499 [39 Cal.Rptr. 213, 393 P.2d 413]; *People v. Collins, supra,* 65 Cal.App.5th at p. 341.)"
+      },
+      {
+        "heading": true,
+        "text": "Force—Amount"
+      },
+      {
+        "text": "The force required for robbery must be more than the incidental touching necessary to take the property. (*People v. Garcia* (1996) 45 Cal.App.4th 1242, 1246 [53 Cal.Rptr.2d 256] [noting that force employed by pickpocket would be insufficient], disapproved on other grounds in *People v. Mosby* (2004) 33 Cal.4th 353, 365, fns. 2, 3 [15 Cal.Rptr.3d 262, 92 P.3d 841].) If the defendant did not physically touch the victim, any amount of force that overcomes the victim’s physical resistance is sufficient. (*People v. Mendez-Torres, supra,* 113 Cal.App.5th at p. 1019.) Administering an intoxicating substance or poison to the victim in order to take property constitutes force. (*People v. Dreas* (1984) 153 Cal.App.3d 623, 628–629 [200 Cal.Rptr. 586]; see also *People v. Wright* (1996) 52 Cal.App.4th 203, 209–210 [59 Cal.Rptr.2d 316] [explaining force for purposes of robbery and contrasting it with force required for assault].)"
+      },
+      {
+        "heading": true,
+        "text": "Force—When Applied"
+      },
+      {
+        "text": "The application of force or fear may be used when taking the property or when carrying it away. (*People v. Cooper* (1991) 53 Cal.3d 1158, 1165, fn. 8 [282 Cal.Rptr. 450, 811 P.2d 742]; *People v. Pham* (1993) 15 Cal.App.4th 61, 65–67 [18 Cal.Rptr.2d 636]; *People v. Estes, supra,* 147 Cal.App.3d at pp. 27–28.)"
+      },
+      {
+        "heading": true,
+        "text": "Immediate Presence"
+      },
+      {
+        "text": "Property that is 80 feet away or around the corner of the same block from a forcibly held victim is not too far away, as a matter of law, to be outside the victim’s immediate presence. (*People v. Harris* (1994) 9 Cal.4th 407, 415–419 [37 Cal.Rptr.2d 200, 886 P.2d 1193]; see also *People v. Prieto* (1993) 15 Cal.App.4th 210, 214 [18 Cal.Rptr.2d 761] [reviewing cases where victim is distance away from property taken].) Property has been found to be within a person’s immediate presence when the victim is lured away from his or her property and force is subsequently used to accomplish the theft or escape (*People v. Webster, supra,* 54 Cal.3d at pp. 440–442) or when the victim abandons the property out of fear (*People v. Dominguez* (1992) 11 Cal.App.4th 1342, 1348–1349 [15 Cal.Rptr.2d 46].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Victims"
+      },
+      {
+        "text": "Multiple counts of robbery are permissible when there are multiple victims even if only one taking occurred. (*People v. Ramos* (1982) 30 Cal.3d 553, 589 [180 Cal.Rptr. 266, 639 P.2d 908], reversed on other grounds *California v. Ramos* (1983) 463 U.S. 992 [103 S.Ct. 3446, 77 L.Ed.2d 1171]; *People v. Miles* (1996) 43 Cal.App.4th 364, 369, fn. 5 [51 Cal.Rptr.2d 87] [multiple punishment permitted].) Conversely, a defendant commits only one robbery, no matter how many items are taken from a single victim pursuant to a single plan. (*People v. Brito* (1991) 232 Cal.App.3d 316, 325–326, fn. 8 [283 Cal.Rptr. 441].)"
+      },
+      {
+        "heading": true,
+        "text": "Value"
+      },
+      {
+        "text": "The property taken can be of small or minimal value. (*People v. Simmons* (1946) 28 Cal.2d 699, 705 [172 P.2d 18]; *People v. Thomas* (1941) 45 Cal.App.2d 128, 134–135 [113 P.2d 706].) The property does not have to be taken for material gain. All that is necessary is that the defendant intended to permanently deprive the person of the property. (*People v. Green, supra,* 27 Cal.3d at p. 57, disapproved on other grounds in *People v. Hall, supra,* 41 Cal.3d at p. 834, fn. 3.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2009, October 2010, April 2011, August 2013, August 2014, March 2017, September 2018, March 2022, February 2025"
+  },
+  "supplement_status": "revised"
+}

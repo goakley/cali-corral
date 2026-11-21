@@ -1,0 +1,81 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "701",
+  "title": "Special Circumstances: Intent Requirement for Accomplice Before June 6, 1990",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      495,
+      497
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you decide that (the/a) defendant is guilty of first degree murder but was not the actual killer, then, when you consider the special circumstance[s] ______ <insert special circumstance[s] without intent requirement for actual killer>, you must also decide whether the defendant acted with the intent to kill.",
+    "In order to prove (this/these) special circumstance[s] for a defendant who is not the actual killer but who is guilty of first degree murder as (an aider and abettor/[or] a member of a conspiracy), the People must prove that the defendant acted with the intent to kill.",
+    "[The People do not have to prove that the actual killer acted with the intent to kill in order for (this/these) special circumstance[s] to be true. [If you decide that the defendant is guilty of first degree murder, but you cannot agree whether the defendant was the actual killer, then, in order to find (this/these) special circumstance[s] true, you must find that the defendant acted with the intent to kill.]]",
+    "If the defendant was not the actual killer, then the People have the burden of proving beyond a reasonable doubt that (he/she) acted with the intent to kill for the special circumstance[s] ______ <insert special circumstance[s] without intent requirement for actual killer> to be true. If the People have not met this burden, you must find (this/these) special circumstance[s] (has/have) not been proved true [for that defendant]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury on the mental state required for accomplice liability when a special circumstance is charged and there is sufficient evidence to support the finding that the defendant was not the actual killer. (See *People v. Jones* (2003) 30 Cal.4th 1084, 1117 [135 Cal.Rptr.2d 370, 70 P.3d 359].) If there is sufficient evidence to show that the defendant may have been an accomplice and not the actual killer, the court has a sua sponte duty to give the accomplice intent instruction, regardless of the prosecution’s theory of the case. *(Ibid.)*"
+      },
+      {
+        "text": "For all murders committed prior to June 6, 1990, the People must prove that an aider and abettor or coconspirator acted with intent to kill for all special circumstances except Penal Code section 190.2(a)(2) (prior conviction for murder). (*People v. Anderson* (1987) 43 Cal.3d 1104, 1147 [240 Cal.Rptr. 585, 742 P.2d 1306] [modifying *Carlos v. Superior Court* (1983) 35 Cal.3d 131, 135 [197 Cal.Rptr. 79, 672 P.2d 862]]; see pre-June 6, 1990, Pen. Code, § 190.2(b).) Since the Supreme Court ruling in *People v. Anderson, supra,* the People do not have to show intent to kill on the part of the actual killer unless specified in the special circumstance. (*People v. Anderson, supra,* 43 Cal.3d at p. 1147.) However, if the killing occurred during the window of time between *Carlos* and *Anderson* (1983 to 1987), then the People must also prove intent to kill on the part of the actual killer. (*People v. Bolden* (2002) 29 Cal.4th 515, 560 [127 Cal.Rptr.2d 802, 58 P.3d 931].)"
+      },
+      {
+        "text": "Use this instruction for any case in which the jury could conclude that the defendant was an accomplice to a homicide that occurred prior to June 6, 1990, where any special circumstance is charged that does not require intent to kill on the part of the actual killer, other than Penal Code section 190.2(a)(2). For those special circumstances where intent to kill is required for both the actual killer and the accomplice, this instruction is not required. For those special circumstances, the instruction on the special circumstance states “the defendant intended to kill” as an element."
+      },
+      {
+        "text": "The court should carefully review the prior versions of Penal Code section 190.2 to determine if the special circumstance required intent to kill at the time of the killing because the special circumstances have been amended by referendum several times."
+      },
+      {
+        "text": "Give the bracketed paragraph stating that the People do not have to prove intent to kill on the part of the actual killer if there is a codefendant alleged to be the actual killer or if the jury could convict the defendant as either the actual killer or an accomplice."
+      },
+      {
+        "text": "If the jury could convict the defendant either as a principal or as an accomplice, and the defendant is charged with a special circumstance that does not require intent to kill by the principal, then jury must find intent to kill if they cannot agree that the defendant was the actual killer. (*People v. Jones* (2003) 30 Cal.4th 1084, 1117 [135 Cal.Rptr.2d 370, 70 P.3d 359].) In such cases, the court should give both bracketed paragraphs."
+      },
+      {
+        "text": "If the homicide occurred between 1983 and 1987, do not give this instruction. (*People v. Bolden* (2002) 29 Cal.4th 515, 560 [127 Cal.Rptr.2d 802, 58 P.3d 931].) For homicides during that period, the prosecution must prove intent to kill by the actual killer as well as the accomplice. The court should make sure that the instruction on the special circumstance states that the prosecution must prove that the defendant intended to kill."
+      },
+      {
+        "text": "Do not give this instruction if accomplice liability is not at issue in the case."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 702, *Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Other Than Felony Murder*."
+      },
+      {
+        "text": "CALCRIM No. 703, *Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Felony Murder*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Accomplice Intent Requirement. Pre-June 6, 1990, Pen. Code, § 190.2(b); *People v. Anderson* (1987) 43 Cal.3d 1104, 1147 [240 Cal.Rptr. 585, 742 P.2d 1306]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

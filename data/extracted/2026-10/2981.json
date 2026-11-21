@@ -1,0 +1,142 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2981",
+  "title": "Failure to Provide (Pen. Code, § 270)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2141,
+      2144
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with failing to provide for (his/her) (child/children) [in violation of Penal Code section 270].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was the parent of ______ <insert name[s] of child or children>;",
+    "2. ______ <insert name[s] of child or children> (was/were) [a] minor[s];",
+    "3. The defendant failed to provide necessities for ______ <insert name[s] of child or children>;",
+    "AND",
+    "4. The failure to provide was willful and without lawful excuse.",
+    "A *minor* is a person under 18 years old.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "*Necessities* are necessary clothing, food, shelter, [and] medical care[, or other remedial care] for a minor child.",
+    "[*Other remedial care* includes spiritual treatment through prayer alone in accordance with the tenets and practices of a recognized church or religious denomination and by one of its duly accredited practitioners.]",
+    "[A parent must do all that is reasonable in order to provide necessities for minor children. A parent has a *lawful excuse* for failing to do so if, through no fault of his or her own, he or she is unable to earn enough money and does not have other income or assets to pay for those necessities. [It is not a *lawful excuse* if the parent is unable to provide necessities because he or she has unreasonably chosen to spend money on other things or has failed to diligently seek work.]]",
+    "[When you decide whether the defendant was able to provide necessities for ______ <insert name[s] of child or children>, consider all of (his/her) income, including social insurance benefits and gifts.]",
+    "[A parent must provide necessities for a minor child even if he or she never married or is divorced from the child’s other parent. This duty also exists regardless of any court order for alimony or child support in a divorce action.]",
+    "[It is not a *lawful excuse* that the other parent has legal custody of the minor child or that the other parent, another person, or an organization voluntarily or involuntarily has provided necessities for the minor child or undertaken to do so.]",
+    "[If the People prove beyond a reasonable doubt that the defendant knew of ______’s <insert name[s] of child or children> existence and either:",
+    "1. Abandoned or deserted ______ <insert name[s] of child or children>,",
+    "OR",
+    "2. Failed to provide ______ <insert name[s] of child or children> with necessities,",
+    "then you may but are not required to conclude that the defendant’s failure to provide was willful and without lawful excuse.]",
+    "[The husband of a woman who bears a child as a result of artificial insemination is the father of that child if he consented in writing to the artificial insemination.]",
+    "[If the People prove beyond a reasonable doubt that:",
+    "1. ______ <insert name[s] of child or children> (was/were) born while the defendant’s wife was cohabiting with him,",
+    "AND",
+    "2. The defendant is neither impotent nor sterile,",
+    "then you may but are not required to conclude that the defendant is ______’s <insert name[s] of child or children> father.]",
+    "[The People have the burden of proving beyond a reasonable doubt that the defendant is the parent of ______ <insert name[s] of child or children>. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[An unborn child is considered a minor for whom a parent must provide necessities.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The bracketed paragraphs that begin with “If the People prove beyond a reasonable doubt that” explain rebuttable presumptions created by statute. (See Pen. Code, § 270; Fam. Code, § 7540; Evid. Code, §§ 600–607.) The California Supreme Court has held that a jury instruction phrased as a rebuttable presumption in a criminal case creates an unconstitutional mandatory presumption. (*People v. Roder* (1983) 33 Cal.3d 491, 497–505 [189 Cal.Rptr. 501, 658 P.2d 1302].) In accordance with *Roder*, these paragraphs of the instruction have been written as permissive inferences. In addition, it is only appropriate to instruct the jury on a permissive inference if there is *no* evidence to contradict the inference. If any evidence has been introduced to support the opposite factual finding, then the jury “shall determine the existence or nonexistence of the presumed fact from the evidence and without regard to the presumption.” (Evid. Code, § 604.)"
+      },
+      {
+        "text": "Therefore, the court must not give the bracketed paragraph that begins with “If the People prove beyond a reasonable doubt that the defendant knew of ______’s <insert name[s] of child or children> existence” if there is evidence that the defendant either did not know of the child’s existence or did not act willfully or without a lawful excuse."
+      },
+      {
+        "text": "In addition, the court must not give the bracketed paragraph that begins with “If the People prove beyond a reasonable doubt that: 1. ______ <insert name[s] of child or children> (was/were) born while the defendant’s wife was cohabiting with him” if there is evidence that the defendant is not the child’s father."
+      },
+      {
+        "text": "If there is evidence that the defendant is not the child’s parent, give the bracketed paragraph that begins with “The People have the burden of proving beyond a reasonable that the defendant is the parent.”"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "text": "The remaining bracketed paragraphs should be given on request if supported by the evidence."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements and Definitions. Pen. Code, § 270."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1)."
+      },
+      {
+        "text": "• Minor Defined. Pen. Code, § 270e; Fam. Code, § 6500."
+      },
+      {
+        "text": "• Inability as Excuse. *People v. Wallach* (1923) 62 Cal.App. 385, 391 [217 P. 81]."
+      },
+      {
+        "text": "• Must Do All Reasonable. *People v. Caseri* (1933) 129 Cal.App. 88, 91–92 [18 P.2d 389]."
+      },
+      {
+        "text": "• Parentage Through Artificial Insemination Defined. Fam. Code, § 7613."
+      },
+      {
+        "text": "• Presumption and Inference Defined. Evid. Code, § 600."
+      },
+      {
+        "text": "• Permissive Inference of Parentage. Fam. Code, § 7540; *People v. Roder* (1983) 33 Cal.3d 491, 506–507 [189 Cal.Rptr. 501, 658 P.2d 1302]."
+      },
+      {
+        "text": "• Evidentiary Presumptions. Evid. Code, §§ 602–604."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

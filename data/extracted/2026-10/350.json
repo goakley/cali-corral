@@ -1,0 +1,72 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "350",
+  "title": "Character of Defendant",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      191,
+      192
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, March 2023",
+  "revision_legend": null,
+  "body": [
+    "You have heard testimony that the defendant (is a ______ <insert character trait relevant to crime[s] committed> person/[or] has a good reputation for ______ <insert character trait relevant to crime[s] committed> in the community where (he/she) lives or works).",
+    "Evidence of the defendant’s character for ______ <insert character trait relevant to crime[s] committed> can by itself create a reasonable doubt [whether the defendant committed ______ <insert name[s] of alleged offenses[s] and count[s], e.g., battery, as charged in Count 1>]. However, evidence of the defendant’s character for ______ <insert character trait> may be countered by other evidence of (his/her) character for the same trait. You must decide the meaning and importance of the character evidence.",
+    "[If the defendant’s character for certain traits has not been discussed among those who know (him/her), you may assume that (his/her) character for those traits is good.]",
+    "You may take that testimony into consideration along with all the other evidence in deciding whether the People have proved that the defendant is guilty beyond a reasonable doubt."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give an instruction on defendant’s character; however, it must be given on request. (*People v. Bell* (1875) 49 Cal. 485, 489–490 [jury should be instructed that evidence of good reputation should be weighed as any other fact established and may be sufficient to create reasonable doubt of guilt]; *People v. Jones* (1954) 42 Cal.2d 219, 222 [266 P.2d 38] [character evidence may be sufficient to create reasonable doubt of guilt]; *People v. Wilson* (1913) 23 Cal.App. 513, 523–524 [138 P. 971] [court erred in failing to give requested instruction or any instruction on character evidence].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Bell, supra,* 49 Cal. at pp. 489–490; *People v. Wilson, supra,* 23 Cal.App. at pp. 523–524; *People v. Jones, supra,* 42 Cal.2d at p. 222."
+      },
+      {
+        "text": "• Character Evidence Must Be Relevant to Offense Charged. *People v. Taylor* (1986) 180 Cal.App.3d 622, 629 [225 Cal.Rptr. 733]."
+      },
+      {
+        "text": "• Admissibility. Evid. Code, §§ 1100–1102."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "No Discussion of Character Is Evidence of Good Character"
+      },
+      {
+        "text": "The fact that the defendant’s character or reputation has not been discussed or questioned among those who know him or her is evidence of the defendant’s good character and reputation. (*People v. Castillo* (1935) 5 Cal.App.2d 194, 198 [42 P.2d 682].) However, the defendant must have resided in the community for a sufficient period of time and become acquainted with the community in order for his or her character to have become known and for some sort of reputation to have been established. (See Evid. Code, § 1324 [reputation may be shown in the community where defendant resides and in a group with which he or she habitually associates]; see also *People v. Pauli* (1922) 58 Cal.App. 594, 596 [209 P. 88] [witness’s testimony about defendant’s good reputation in community was inappropriate where defendant was a stranger in the community, working for a single employer for a few months, going about little, and forming no associations].)"
+      },
+      {
+        "heading": true,
+        "text": "Business Community"
+      },
+      {
+        "text": "The community for purposes of reputation evidence may also be the defendant’s business community and associates. (*People v. Cobb* (1955) 45 Cal.2d 158, 163 [287 P.2d 752].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

@@ -1,0 +1,168 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1301",
+  "title": "Stalking (Pen. Code, § 646.9(a), (e)–(h))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1106,
+      1109
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2010, March 2017, September 2024,* October 2025",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with stalking [in violation of Penal Code section 646.9].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully and maliciously harassed or willfully, maliciously, and repeatedly followed another person;",
+    "AND",
+    "2. The defendant made a credible threat with the intent to place the other person in reasonable fear for (his/her) safety [or for the safety of (his/her) immediate family].",
+    "<If a court order prohibiting defendant’s contact with the threatened person was in effect at the time of the charged conduct, give the following two paragraphs.>",
+    "[If you find the defendant guilty of stalking [in Count[s]______], you must then decide whether the People have proved that a/an (temporary restraining order/injunction/<describe other court order>) ______) prohibiting the defendant from engaging in this conduct against the threatened person was in effect at the time of the conduct.",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved.]",
+    "A *credible threat* is one that causes the target of the threat to reasonably fear for his or her safety [or for the safety of his or her immediate family] and one that the maker of the threat appears to be able to carry out.",
+    "[A person makes a *credible threat* when the maker of the threat consciously disregards a substantial risk that the target of the threat would view the communication as threatening harm to the target [or to the target’s immediate family] and it is reasonably foreseeable that the target would become aware of the threat.]",
+    "A *credible threat* may be made orally, in writing, or electronically or may be implied by a pattern of conduct or a combination of statements and conduct.",
+    "*Harassing* means engaging in a knowing and willful course of conduct directed at a specific person that seriously annoys, alarms, torments, or terrorizes the person and that serves no legitimate purpose.",
+    "A course of conduct means two or more acts occurring over a period of time, however short, demonstrating a continuous purpose.",
+    "[A person is not guilty of stalking if (his/her) conduct is constitutionally protected activity. ______ <Describe type of activity; see Bench Notes below> is constitutionally protected activity.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to disturb, annoy, or injure someone else.",
+    "[*Repeatedly* means more than once.]",
+    "[The People do not have to prove that a person who makes a threat intends to actually carry it out.]",
+    "[Someone who makes a threat while in prison or jail may still be guilty of stalking.]",
+    "[A threat may be made electronically by using a telephone, cellular telephone, pager, computer, video recorder, fax machine, or other similar electronic communication device.]",
+    "[*Immediate family* means (a) any spouse, parents, and children; (b) any grandchildren, grandparents, brothers, and sisters related by blood or marriage; or (c) any person who regularly lives in the other person’s household [or who regularly lived there within the prior six months].]",
+    "[The terms and conditions of (a/an) (restraining order/injunction/______ <describe other court order>) remain enforceable despite the parties’ actions, and may only be changed by court order.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    4.5,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "When the threat is not directly communicated to the victim, give the bracketed sentence that begins with “A person makes a credible threat when the maker of the threat consciously disregards a substantial risk.”"
+      },
+      {
+        "text": "If there is substantial evidence that any of the defendant’s conduct was constitutionally protected, instruct on the type of constitutionally protected activity involved. (See the optional bracketed paragraph regarding constitutionally protected activity.) Examples of constitutionally protected activity include speech, protest, and assembly. (See Civ. Code, § 1708.7(f) [civil stalking statute]; see also *People v. Peterson* (2023) 95 Cal.App.5th 1061, 1066–1067 [314 Cal.Rptr.3d 137] [speech about bond measure, local politics, and criticism of a politician].)"
+      },
+      {
+        "text": "The bracketed sentence that begins with “The People do not have to prove that” may be given on request. (See Pen. Code, § 646.9(g).)"
+      },
+      {
+        "text": "The bracketed sentence about the defendant’s incarceration may be given on request if the defendant was in prison or jail when the threat was made. (See Pen. Code, § 646.9(g).)"
+      },
+      {
+        "text": "Give the bracketed definition of “electronic communication” on request. (See Pen. Code, § 422; 18 U.S.C., § 2510(12).)"
+      },
+      {
+        "text": "If there is evidence that the threatened person feared for the safety of members of his or her immediate family, give the bracketed paragraph defining “immediate family” on request. (See Pen. Code, § 646.9(*l*); see Fam. Code, § 6205; Prob. Code, §§ 6401, 6402.)"
+      },
+      {
+        "text": "If the defendant argues that the alleged victim acquiesced to contact with the defendant contrary to a court order, the court may, on request, give the last bracketed paragraph stating that such orders may only be changed by the court. (See Pen. Code, § 13710(b); *People v. Gams* (1996) 52 Cal.App.4th 147, 151–152, 154–155 [60 Cal.Rptr.2d 423].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 646.9(a), (e)–(h); *People v. Ewing* (1999) 76 Cal.App.4th 199, 210 [90 Cal.Rptr.2d 177]; *People v. Norman* (1999) 75 Cal.App.4th 1234, 1239 [89 Cal.Rptr.2d 806]."
+      },
+      {
+        "text": "• Intent to Cause Victim Fear. *People v. Falck* (1997) 52 Cal.App.4th 287, 295, 297–298 [60 Cal.Rptr.2d 624]; *People v. Carron* (1995) 37 Cal.App.4th 1230, 1236, 1238–1240 [44 Cal.Rptr.2d 328]; see *People v. McCray* (1997) 58 Cal.App.4th 159, 171–173 [67 Cal.Rptr.2d 872] [evidence of past violence toward victim]."
+      },
+      {
+        "text": "• “Repeatedly” Defined. *People v. Heilman* (1994) 25 Cal.App.4th 391, 399, 400 [30 Cal.Rptr.2d 422]."
+      },
+      {
+        "text": "• “Safety” Defined. *People v. Borrelli* (2000) 77 Cal.App.4th 703, 719–720 [91 Cal.Rptr.2d 851]; see *People v. Falck, supra*, 52 Cal.App.4th at pp. 294–295."
+      },
+      {
+        "text": "• “Substantial Emotional Distress” Defined. *People v. Ewing, supra*, 76 Cal.App.4th at p. 210; see *People v. Carron, supra*, 37 Cal.App.4th at pp. 1240–1241."
+      },
+      {
+        "text": "• Victim’s Fear Not Contemporaneous With Stalker’s Threats. *People v. Norman, supra*, 75 Cal.App.4th at pp. 1239–1241."
+      },
+      {
+        "text": "• Subsections (b) & (c) of Pen. Code, § 646.9 are Alternate Penalty Provisions. *People v. Muhammad* (2007) 157 Cal.App.4th 484, 494 [68 Cal.Rptr.3d 695]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1195–1197 [67 Cal.Rptr.3d 871]."
+      },
+      {
+        "text": "• Examples of Credible Threats. *People v. Tafoya* (2025) 109 Cal.App.5th 868, 892–895 [330 Cal.Rptr.3d 845]; *People v. Planchard* (2025) 109 Cal.App.5th 157, 170 [330 Cal.Rptr.3d 277]; *People v. Frias* (2024) 98 Cal.App.5th 999, 1018–1019 [317 Cal.Rptr.3d 202]; *People v. Lopez* (2015) 240 Cal.App.4th 436, 452–454 [192 Cal.Rptr.3d 585]; *People v. Uecker* (2009) 172 Cal.App.4th 583, 594–595 [91 Cal.Rptr.3d 355]."
+      },
+      {
+        "text": "• First Amendment Requires Recklessness as to Threat. *Counterman v. Colorado* (2023) 600 U.S. 66, 69 [143 S.Ct. 2106, 216 L.Ed.2d 775]."
+      },
+      {
+        "text": "• Conscious Disregard of Substantial Risk that Victim Would View Communication as Threatening Harm. *People v. Obermueller* (2024) 104 Cal.App.5th 207, 220 [324 Cal.Rptr.3d 544]."
+      },
+      {
+        "text": "• Threat to Victim May Be Conveyed Indirectly. *People v. Planchard* (2025) 109 Cal.App.5th 157, 166, 169 [330 Cal.Rptr.3d 277]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Stalking. Pen. Code, §§ 664, 646.9."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Harassment Not Contemporaneous With Fear"
+      },
+      {
+        "text": "The harassment need not be contemporaneous with the fear caused. (See *People v. Norman, supra*, 75 Cal.App.4th at pp. 1239–1241.)"
+      },
+      {
+        "heading": true,
+        "text": "Constitutionality of Terms"
+      },
+      {
+        "text": "The term “credible threat” is not unconstitutionally vague. (*People v. Halgren* (1996) 52 Cal.App.4th 1223, 1230 [61 Cal.Rptr.2d 176].) The element that the objectionable conduct “serve[] no legitimate purpose” (Pen. Code, § 646.9(e) is also not unconstitutionally vague; “an ordinary person can reasonably understand what conduct is expressly prohibited.” (*People v. Tran* (1996) 47 Cal.App.4th 253, 260 [54 Cal.Rptr.2d 650].)"
+      },
+      {
+        "heading": true,
+        "text": "Labor Picketing"
+      },
+      {
+        "text": "Section 646.9 does not apply to conduct that occurs during labor picketing. (Pen. Code, § 646.9(i).)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

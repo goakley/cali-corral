@@ -1,0 +1,92 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "750",
+  "title": "Special Circumstances: Prior Murder Conviction (Pen. Code, § 190.2(a)(2))—Trial on Prior Murder (Pen. Code, § 190.1(a) & (b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      569,
+      570
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of having been convicted previously of murder. You must now decide if the People have proved that this special circumstance is true.",
+    "To prove that this special circumstance is true, the People must prove that the defendant was convicted previously of murder in the (first/second) degree.",
+    "[A conviction of ______ <insert name of offense from other state> is the same as a conviction for (first/second) degree murder.]",
+    "[In deciding whether the People have proved this special circumstance, consider only the evidence presented in this proceeding. Do not consider your verdict or any evidence from the earlier part of the trial.]",
+    "[You may not return a finding that this special circumstance has or has not been proved unless all 12 of you agree on that finding.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].) The court must bifurcate trial on this special circumstance from trial on the other charges unless the defendant specifically waives bifurcation. (Pen. Code, § 190.1(b); *Curl v. Superior Court* (1990) 51 Cal.3d 1292, 1302 [276 Cal.Rptr. 49, 801 P.2d 292].)"
+      },
+      {
+        "text": "The court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial* and CALCRIM No. 3550, *Pre-Deliberation Instructions*."
+      },
+      {
+        "text": "If the defendant has waived bifurcation, the court should give paragraphs one and two. The court may also give paragraph three if appropriate. The remainder of the instruction should not be given."
+      },
+      {
+        "text": "“The jury sitting as trier of fact must determine ‘the truth of’ the prior conviction—i.e., the fact that defendant was previously convicted of first or second degree murder.” (*Curl v. Superior Court* (1990) 51 Cal.3d 1292, 1301 [276 Cal.Rptr. 49, 801 P.2d 292].) The court must determine the validity of the prior conviction. (*Id.* at p. 1302.) For an out-of-state prior, the court must determine whether the elements of the offense for which the defendant was convicted satisfy the elements of first or second degree murder in California. (*People v. Martinez* (2003) 31 Cal.4th 673, 684–686 [3 Cal.Rptr.3d 648, 74 P.3d 748]; *People v. Andrews* (1989) 49 Cal.3d 200, 223 [260 Cal.Rptr. 583, 776 P.2d 285].)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins, “In deciding whether the People have proved,” on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(2)."
+      },
+      {
+        "text": "• Bifurcated Trial. Pen. Code, § 190.1(a) & (b)."
+      },
+      {
+        "text": "• Fact of Conviction Determined by Jury. *Curl v. Superior Court* (1990) 51 Cal.3d 1292, 1301 [276 Cal.Rptr. 49, 801 P.2d 292]."
+      },
+      {
+        "text": "• Validity of Conviction Determined by Court. *Curl v. Superior Court* (1990) 51 Cal.3d 1292, 1302 [276 Cal.Rptr. 49, 801 P.2d 292]."
+      },
+      {
+        "text": "• Out-of-State Priors. *People v. Martinez* (2003) 31 Cal.4th 673, 684–686 [3 Cal.Rptr.3d 648, 74 P.3d 748]; *People v. Trevino* (2001) 26 Cal.4th 237, 242 [109 Cal.Rptr.2d 567, 27 P.3d 283]; *People v. Andrews* (1989) 49 Cal.3d 200, 223 [260 Cal.Rptr. 583, 776 P.2d 285]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Order of Conviction Relevant, Not Order of Murders"
+      },
+      {
+        "text": "“The unambiguous language and purpose of section 190.2(a)(2) thus require that a person such as defendant, already convicted of murder in a prior proceeding, must be considered eligible for the death penalty if convicted of first degree murder in a subsequent trial. The order of the commission of the homicides is immaterial.” (*People v. Hendricks* (1987) 43 Cal.3d 584, 596 [238 Cal.Rptr. 66, 737 P.2d 1350]; *People v. Gurule* (2002) 28 Cal.4th 557, 636 [123 Cal.Rtpr.2d 345, 51 P.3d 224].)"
+      },
+      {
+        "heading": true,
+        "text": "Intent to Kill Not Required"
+      },
+      {
+        "text": "“Defendant also contends that section 190.2(a)(2) requires a finding of intent to kill. Plainly, the provision does not expressly require such a finding.” (*People v. Hendricks* (1987) 43 Cal.3d 584, 596 [238 Cal.Rptr. 66, 737 P.2d 1350]; *People v. Gurule* (2002) 28 Cal.4th 557, 633 [123 Cal.Rtpr.2d 345, 51 P.3d 224].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

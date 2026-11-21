@@ -1,0 +1,94 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "725",
+  "title": "Special Circumstances: Murder of Witness (Pen. Code, § 190.2(a)(10))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      533,
+      534
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2013",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder of a witness [in violation of Penal Code section 190.2(a)(10)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The defendant intended to kill ______ <insert name of decedent>;",
+    "2. ______ <insert name of decedent> was a witness to a crime;",
+    "3. The killing was not committed during the commission [or attempted commission] of the crime to which ______ <insert name of decedent> was a witness;",
+    "AND",
+    "4. The defendant intended that ______ <insert name of decedent> be killed (to prevent (him/her) from testifying in a (criminal/[or] juvenile) proceeding/[or] in retaliation for (his/her) testimony in a (criminal/[or] juvenile) proceeding).",
+    "[A killing is committed during the commission [or attempted commission] of a crime if the killing and the crime are part of one continuous transaction. The continuous transaction may occur over a period of time or in more than one location.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "The last bracketed paragraph should be given if there is evidence that the killing and the crime witnessed were part of one continuous transaction. The court may choose to give further instruction on one continuous transaction on request. (See *People v. Silva* (1988) 45 Cal.3d 604, 631 [247 Cal.Rptr. 573, 754 P.2d 1070].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(10)."
+      },
+      {
+        "text": "• Continuous Transaction. *People v. Clark* (2011) 52 Cal.4th 856, 1015–1016 [131 Cal.Rptr.3d 225, 261 P.3d 243]; *People v. Silva* (1988) 45 Cal.3d 604, 631 [247 Cal.Rptr. 573, 754 P.2d 1070]; *People v. Beardslee* (1991) 53 Cal.3d 68, 95 [279 Cal.Rptr. 276, 806 P.2d 1311]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Purpose of Killing"
+      },
+      {
+        "text": "In order for this special circumstance to apply, the defendant must kill the witness for the purpose of preventing him or her from testifying or in retaliation for his or her testimony. (*People v. Stanley* (1995) 10 Cal.4th 764, 800 [42 Cal.Rptr.2d 543, 897 P.2d 481].) However, this does not have to be the sole or predominant purpose of the killing. (*Ibid.; People v. Sanders* (1990) 51 Cal.3d 471, 519 [273 Cal.Rptr. 537, 797 P.2d 561].)"
+      },
+      {
+        "heading": true,
+        "text": "Victim Does Not Have to Be An Eyewitness or Important Witness"
+      },
+      {
+        "text": "“[N]othing in the language of the applicable special circumstance or in our decisions applying this special circumstance supports the suggestion that the special circumstance is confined to the killing of an ‘eyewitness,’ as opposed to any other witness who might testify in a criminal proceeding.” (*People v. Jones* (1996) 13 Cal.4th 535, 550 [54 Cal.Rptr.2d 42, 917 P.2d 1165].) “It is no defense to the special circumstance allegation that the victim was not an important witness in the criminal proceeding, so long as one of the defendant’s purposes was to prevent the witness from testifying.” (*People v. Jenkins* (2000) 22 Cal.4th 900, 1018 [95 Cal.Rptr.2d 377, 997 P.2d 1044]; see also *People v. Bolter* (2001) 90 Cal.App.4th 240, 242–243 [108 Cal.Rptr.2d 760] [special circumstance applied to retaliation for testifying where witness’s actual testimony was “innocuous”].)"
+      },
+      {
+        "heading": true,
+        "text": "Defendant Must Believe Victim Will Be Witness"
+      },
+      {
+        "text": "“[S]ection 190.2, subd. (a)(10) is applicable if defendant *believes* the victim will be a witness in a criminal prosecution, whether or not such a proceeding is pending or about to be initiated.” (*People v. Jenkins* (2000) 22 Cal.4th 900, 1018 [95 Cal.Rptr.2d 377] [emphasis in original]; see also *People v. Weidert* (1985) 39 Cal.3d 836, 853 [218 Cal.Rptr. 57, 705 P.2d 380] [abrogated by statutory amendment]; *People v. Sanders* (1990) 51 Cal.3d 471, 518 [273 Cal.Rptr. 537, 797 P.2d 561].)"
+      },
+      {
+        "heading": true,
+        "text": "“Continuous Transaction” in Context of Witness Special Circumstance"
+      },
+      {
+        "text": "“[T]o establish one continuous criminal transaction, the time-lag between the first and second killing does not matter so much as whether the defendant shows a common criminal intent toward all the victims upon the initiation of the first criminal act. When that criminal intent toward all victims is present, the criminal transaction does not conclude until the killing of the final victim.” (*People v. San Nicolas* (2004) 34 Cal.4th 614, 655 [21 Cal.Rptr.3d 612, 101 P.3d 509].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

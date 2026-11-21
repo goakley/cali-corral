@@ -1,0 +1,56 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "318",
+  "title": "Prior Statements as Evidence",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      164,
+      164
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, September 2023",
+  "revision_legend": null,
+  "body": [
+    "You have heard evidence of [a] statement[s] that a witness made before the trial. If you decide that the witness made (that/those) statement[s], you may use (that/those) statement[s] in two ways:",
+    "1. To evaluate whether the witness’s testimony in court is believable;",
+    "AND",
+    "2. As evidence that the information in (that/those) earlier statement[s] is true."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give this instruction. (*People v. Griffin* (1988) 46 Cal.3d 1011, 1026 [251 Cal.Rptr. 643, 761 P.2d 103].) Use this instruction when a testifying witness has been confronted with a prior inconsistent statement."
+      },
+      {
+        "text": "If prior testimony of an unavailable witness was impeached with a prior inconsistent statement, use CALCRIM No. 319, *Prior Statements of Unavailable Witness*. (*People v. Williams* (1976) 16 Cal.3d 663, 668–669 [128 Cal.Rptr. 888, 547 P.2d 1000].) If the prior statements were obtained by a peace officer in violation of *Miranda*, give CALCRIM No. 356, Miranda*-Defective Statements*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *California v. Green* (1970) 399 U.S. 149, 158 [90 S.Ct. 1930, 26 L.Ed.2d 489]; *People v. Cannady* (1972) 8 Cal.3d 379, 385–386 [105 Cal.Rptr. 129, 503 P.2d 585]; see Evid. Code, §§ 770, 791, 1235, 1236."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Thomas* (2023) 14 Cal.5th 327, 394 [304 Cal.Rptr.3d 1, 523 P.3d 323]; *People v. Tuggles* (2009) 179 Cal.App.4th 339, 363–367 [100 Cal.Rptr.3d 820]; *People v. Golde* (2008) 163 Cal.App.4th 101, 120 [77 Cal.Rptr.3d 120]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

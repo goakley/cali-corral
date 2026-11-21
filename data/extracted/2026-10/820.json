@@ -1,0 +1,142 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "820",
+  "title": "Assault Causing Death of Child (Pen. Code, § 273ab(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      613,
+      615
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014, September 2020, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with killing a child under the age of 8 by assaulting the child with force likely to produce great bodily injury [in violation of Penal Code section 273ab(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had care or custody of a child who was under the age of 8;",
+    "2. The defendant did an act that by its nature would directly and probably result in the application of force to the child;",
+    "3. The defendant did that act willfully;",
+    "4. The force used was likely to produce great bodily injury;",
+    "5. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in great bodily injury to the child;",
+    "6. When the defendant acted, (he/she) had the present ability to apply force likely to produce great bodily injury to the child;",
+    "[AND]",
+    "7. The defendant’s act caused the child’s death(;/.)",
+    "<Give element 8 when instructing on parental right to discipline>",
+    "[AND",
+    "8. When the defendant acted, (he/she) was not reasonably disciplining a child.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "An act *causes death* if:",
+    "1. The death was the natural and probable consequence of the act;",
+    "2. The act was a direct and substantial factor in causing the death;",
+    "AND",
+    "3. The death would not have happened without the act.",
+    "A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.",
+    "A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that caused the death.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence, the court has a sua sponte duty to instruct on the defense of disciplining a child. (*People v. Whitehurst* (1992) 9 Cal.App.4th 1045, 1049 [12 Cal.Rptr.2d 33].) Give bracketed element 8 and CALCRIM No. 3405, *Parental Right to Punish a Child*."
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 875, *Assault With Deadly Weapon or Force Likely to Produce Great Bodily Injury*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 273ab(a); see *People v. Malfavon* (2002) 102 Cal.App.4th 727, 735 [125 Cal.Rptr.2d 618] [sometimes called “child abuse homicide”]."
+      },
+      {
+        "text": "• “Great Bodily Injury” Defined. Pen. Code, § 12022.7(f); *People v. Albritton* (1998) 67 Cal.App.4th 647, 658 [79 Cal.Rptr.2d 169]."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7, subd. 1; see *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Force Likely to Produce Great Bodily Injury. *People v. Preller* (1997) 54 Cal.App.4th 93, 97–98 [62 Cal.Rptr.2d 507] [need not prove that reasonable person would believe force would be likely to result in child’s death]."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Albritton, supra,* 67 Cal.App.4th at pp. 658–659."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Assault on Child With Force Likely to Produce Great Bodily Injury. Pen. Code, §§ 664, 273ab(b)."
+      },
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Assault With Force Likely to Produce Great Bodily Injury. Pen. Code, § 245(a)(1); *People v. Basuta* (2001) 94 Cal.App.4th 370, 392 [114 Cal.Rptr.2d 285]."
+      },
+      {
+        "text": "Involuntary manslaughter is not a lesser included offense of Penal Code section 273ab. (*People v. Stewart* (2000) 77 Cal.App.4th 785, 796 [91 Cal.Rptr.2d 888]; *Orlina v. Superior Court* (1999) 73 Cal.App.4th 258, 261–262 [86 Cal.Rptr.2d 384].)"
+      },
+      {
+        "text": "Neither murder nor child abuse homicide is a necessarily included offense within the other. (*People v. Malfavon, supra,* 102 Cal.App.4th at pp. 743–744.)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Care or Custody"
+      },
+      {
+        "text": "“The terms ‘care or custody’ do not imply a familial relationship but only a willingness to assume duties correspondent to the role of a caregiver.” (*People v. Cochran* (1998) 62 Cal.App.4th 826, 832 [73 Cal.Rptr.2d 257].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

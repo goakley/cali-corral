@@ -1,0 +1,44 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "201",
+  "title": "Do Not Investigate",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      106,
+      106
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2010, February 2012",
+  "revision_legend": null,
+  "body": [
+    "Do not use the Internet (, a dictionary/[, or ______ <insert other relevant source of information or means of communication>]) in any way in connection with this case, either on your own or as a group. Do not investigate the facts or the law or do any research regarding this case, either on your own, or as a group. Do not conduct any tests or experiments, or visit the scene of any event involved in this case. If you happen to pass by the scene, do not stop or investigate."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jurors on how they must conduct themselves during trial. (Pen. Code, § 1122.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• No Independent Research. Pen. Code, § 1122; *People v. Karis* (1988) 46 Cal.3d 612, 642 [250 Cal.Rptr. 659, 758 P.2d 1189]; *People v. Castro* (1986) 184 Cal.App.3d 849, 853 [229 Cal.Rptr. 280]; *People v. Sutter* (1982) 134 Cal.App.3d 806, 820 [184 Cal.Rptr. 829]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,119 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1112",
+  "title": "Lewd or Lascivious Act: Child 14 or 15 Years (Pen. Code, § 288(c)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      934,
+      936
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, August 2014",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with a lewd or lascivious act on a 14- or 15-year-old child who was at least 10 years younger than the defendant [in violation of Penal Code section 288(c)(1)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—defendant touched child>",
+    "[1A. The defendant willfully touched any part of a child’s body either on the bare skin or through the clothing;]",
+    "[OR]",
+    "<Alternative 1B—child touched defendant>",
+    "[1B. The defendant willfully caused a child to touch (his/her) own body, the defendant’s body, or the body of someone else, either on the bare skin or through the clothing;]",
+    "2. The defendant committed the act with the intent of arousing, appealing to, or gratifying the lust, passions, or sexual desires of (himself/herself) or the child;",
+    "3. The child was (14/15) years old at the time of the act;",
+    "AND",
+    "4. When the defendant acted, the child was at least 10 years younger than the defendant.",
+    "The touching need not be done in a lewd or sexual manner.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[Actually arousing, appealing to, or gratifying the lust, passions, or sexual desires of the perpetrator or the child is not required.]",
+    "[It is not a defense that the child may have consented to the act.]",
+    "[In determining whether a person is at least 10 years older than a child, measure from the person’s birthdate to the child’s birthdate.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged in a single count with multiple alleged acts, the court has a sua sponte duty to instruct on unanimity. (*People v. Jones* (1990) 51 Cal.3d 294, 321–322 [270 Cal.Rptr. 611, 792 P.2d 643].) The court must determine whether it is appropriate to give the standard unanimity instruction, CALCRIM No. 3500, *Unanimity*, or the modified unanimity instruction, CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*. Review the discussion in the bench notes to these two instructions and *People v. Jones, supra,* 51 Cal.3d at pp. 321–322."
+      },
+      {
+        "text": "Give the bracketed sentence that begins, “Actually arousing, appealing to,” on request. (*People v. McCurdy* (1923) 60 Cal.App. 499, 502 [213 P. 59].)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “It is not a defense that the child,” on request, if there is evidence that the minor consented to the act. (See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502].)"
+      },
+      {
+        "text": "Give the bracketed paragraphs about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 288(c)(1)."
+      },
+      {
+        "text": "• Actual Arousal Not Required. *People v. McCurdy* (1923) 60 Cal.App. 499, 502 [213 P. 59]."
+      },
+      {
+        "text": "• Any Touching of Child With Intent to Arouse. *People v. Martinez* (1995) 11 Cal.4th 434, 444, 452 [45 Cal.Rptr.2d 905, 903 P.2d 1037] [disapproving *People v. Wallace* (1992) 11 Cal.App.4th 568, 574–580 [14 Cal.Rptr.2d 67] and its progeny]; see *People v. Diaz* (1996) 41 Cal.App.4th 1424, 1427–1428 [49 Cal.Rptr.2d 252] [list of examples]."
+      },
+      {
+        "text": "• Child Touching Own Body Parts at Defendant’s Instigation. *People v. Meacham* (1984) 152 Cal.App.3d 142, 152–153 [199 Cal.Rptr. 586] [“constructive” touching; approving *Austin* instruction]; *People v. Austin* (1980) 111 Cal.App.3d 110, 114–115 [168 Cal.Rptr. 401]."
+      },
+      {
+        "text": "• Lewd Defined. *In re Smith* (1972) 7 Cal.3d 362, 365 [102 Cal.Rptr. 335, 497 P.2d 807] [in context of indecent exposure]; see *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256–257, fn. 13 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      },
+      {
+        "text": "• Minor’s Consent Not a Defense. See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 937, fn. 7 [26 Cal.Rptr.2d 567] [dicta]."
+      },
+      {
+        "text": "• Mistaken Belief About Victim’s Age Not a Defense. *People v. Paz* (2000) 80 Cal.App.4th 293, 298 [95 Cal.Rptr.2d 166]."
+      },
+      {
+        "text": "• Mistake of Fact Defense May Apply to Attempted Lewd Acts on a Child 14 or 15. *People v. Hanna* (2013) 218 Cal.App.4th 455, 461 [160 Cal.Rptr.3d 210]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Lewd Act on a Child of 14 or 15. *In re Lesansky* (2001) 25 Cal.4th 11, 13]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of the Bench Notes for CALCRIM No. 1110, *Lewd or Lascivious Act: Child Under 14 Years*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

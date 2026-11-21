@@ -1,0 +1,88 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "252",
+  "title": "Union of Act and Intent",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      139,
+      141
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2010, April 2011, March 2017, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The crime[s] [(and/or) other allegation[s]] charged in this case require[s] proof of the union of act and wrongful intent.",
+    "<Give for crimes not requiring specific mental states.>",
+    "[For you to find a person guilty of the crime[s] (in this case/of ______ <insert name[s] of alleged offense[s] and count[s], e.g., battery, as charged in Count 1>), [or to find the allegation[s] of ______ <insert name[s] of enhancement[s]> true], that person must not only commit the prohibited act [or fail to do the required act], but must do so with a wrongful intent. A person acts with a wrongful intent when he or she intentionally does a prohibited act [or intentionally fails to do a required act]; however, it is not required that he or she intend to break the law. The act required is explained in the instruction[s] for (that/those) crime[s] [or allegation[s]].]",
+    "<Give for crimes requiring one or more specific mental states.>",
+    "[For you to find a person guilty of the crime[s] (in this case/of ______ <insert offense(s)>) [or to find ______ <insert allegation(s)> true], that person must not only intentionally commit the prohibited act [or intentionally fail to do the required act], but must do so with a specific mental state. The act and the specific mental state required are explained in the instruction[s] for (that/those) crime[s] [or allegation[s]].]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "For general and specific intent crimes, the court has a sua sponte duty to instruct on the joint union of act and intent. (*People v. Alvarez* (1996) 14 Cal.4th 155, 220 [58 Cal.Rptr.2d 385, 926 P.2d 365]; *People v. Jeffers* (1996) 41 Cal.App.4th 917, 920–923 [49 Cal.Rptr.2d 86].)"
+      },
+      {
+        "text": "The court should specify for the jury which offenses do and do not require a specific mental state by inserting the names of the offenses where indicated in the instruction. (See *People v. Hill* (1967) 67 Cal.2d 105, 118 [60 Cal.Rptr. 234, 429 P.2d 586].) If the crime requires a specific mental state, such as knowledge or malice, the court must insert the name of the offense in the third paragraph, explaining the mental state requirement, even if the crime is classified as a general intent offense."
+      },
+      {
+        "text": "If the defendant is charged with aiding and abetting or conspiracy to commit a general intent offense, the court must instruct on the specific mental state required for aiding and abetting or conspiracy. (See *People v. McCoy* (2001) 25 Cal.4th 1111, 1117–1118 [108 Cal.Rptr.2d 188, 24 P.3d 1210]; *People v. Bernhardt* (1963) 222 Cal.App.2d 567, 586–587 [35 Cal.Rptr. 401].)"
+      },
+      {
+        "text": "If the defendant is also charged with a criminal negligence or strict liability offense, insert the name of the offense where indicated in the first sentence. The court may also give CALCRIM No. 253, *Union of Act and Intent: Criminal Negligence*, or CALCRIM No. 254, *Strict Liability Crime*."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "“A person who commits a prohibited act ‘through misfortune or by accident, when it appears that there was no evil design, intention or culpable negligence’ has not committed a crime.” (*People v. Jeffers* (1996) 41 Cal.App.4th 917, 922 [49 Cal.Rptr.2d 86] [quoting Pen. Code, § 26].) Similarly, an honest and reasonable mistake of fact may negate general criminal intent. (*People v. Hernandez* (1964) 61 Cal.2d 529, 535–536 [39 Cal.Rptr. 361, 393 P.2d 673].) If there is sufficient evidence of these or other defenses, such as unconsciousness, the court has a sua sponte duty to give the appropriate defense instructions. (See Defenses and Insanity, CALCRIM No. 3400 et seq.)"
+      },
+      {
+        "text": "Evidence of voluntary intoxication or mental impairment may be admitted to show that the defendant did not form the required mental state. (See *People v. Ricardi* (1992) 9 Cal.App.4th 1427, 1432 [12 Cal.Rptr.2d 364].) The court has no sua sponte duty to instruct on these defenses; however, the trial court must give these instructions on request if supported by the evidence. (*People v. Saille* (1991) 54 Cal.3d 1103, 1119 [2 Cal.Rptr.2d 364, 820 P.2d 588]; see Defenses and Insanity, CALCRIM No. 3400 et seq.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Statutory Authority. Pen. Code, § 20; see also Evid. Code, §§ 665, 668."
+      },
+      {
+        "text": "• Instructional Requirements. *People v. Alvarez* (1996) 14 Cal.4th 155, 220 [58 Cal.Rptr.2d 385, 926 P.2d 365]; *People v. Jeffers* (1996) 41 Cal.App.4th 917, 920–923 [49 Cal.Rptr.2d 86]."
+      },
+      {
+        "text": "• Prior Version of This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1189 [67 Cal.Rptr.3d 871]."
+      },
+      {
+        "text": "• Instruction on Both General and Specific Intent May Be Necessary for Voluntary Manslaughter. *People v. Martinez* (2007) 154 Cal.App.4th 314, 334–336 [64 Cal.Rptr.3d 580]."
+      },
+      {
+        "text": "• Instruction on Both General and Specific Intent May Be Necessary for Continuous Sexual Abuse. *People v. Canales* (2024) 106 Cal.App.5th 1230, 1249–1251 [327 Cal.Rptr.3d 678] [some predicate acts require specific intent]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "In *People v. Canales, supra*, 106 Cal.App.5th at p. 1238, the court noted that the use of the terms “general intent” and “specific intent” in former CALCRIM No. 252 “was unnecessary and can be mischievous.” The court endorsed the position that “ ‘[t]he distinction between specific and general intent has limited application’ ” and that these terms are “ ‘superfluous as long as the instruction . . . tells the jury exactly what the required mens rea consists of.’ ” (*Id.* at pp. 1251–1252.) The court suggested “CALCRIM No. 252, if it is retained, could be improved by eliminating the ambiguous and widely criticized terms ‘specific intent’ and ‘general intent.’ ” (*Id.* at p. 1252.) In response, this instruction has been revised to incorporate language from former CALCRIM Nos. 250 and 251. The committee also removed the terms “general intent” and “specific intent” from the jury’s consideration."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

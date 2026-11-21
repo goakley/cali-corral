@@ -1,0 +1,88 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1225",
+  "title": "Defense to Kidnapping: Protecting Child From Imminent Harm (Pen. Code, § 207(f)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1073,
+      1074
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of kidnapping if (he/she) (took/stole/enticed away/detained/concealed/harbored) a child under the age of 14 years to protect that child from danger of imminent harm.",
+    "An *imminent harm* is an immediate and present threat of harm. Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be. The defendant must have believed that the child was in imminent danger.",
+    "[The People have the burden of proving beyond a reasonable doubt that the defendant did not act to protect the child from the danger of imminent harm. If the People have not met this burden, you must find the defendant not guilty of kidnapping.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "An instruction on a defense must be given sua sponte if there is substantial evidence supporting the defense and the defendant is relying on the defense or the defense is not inconsistent with the defendant’s theory of the case. (*People v. Sedeno* (1974) 10 Cal.3d 703, 716–717 [112 Cal.Rptr. 1, 518 P.2d 913], disapproved on other grounds in *People v. Flannel* (1979) 25 Cal.3d 668, 684–685, fn. 12 [160 Cal.Rptr. 84, 603 P.2d 1] and in *People v. Breverman* (1998) 19 Cal.4th 142, 163, fn. 10, 164–178 [77 Cal.Rptr.2d 870, 960 P.2d 1094]; *People v. Burnham* (1986) 176 Cal.App.3d 1134, 1139, fn. 3 [222 Cal.Rptr. 630].)"
+      },
+      {
+        "text": "The prevention of imminent harm may be asserted against the following forms of kidnapping (Pen. Code, § 207(f)(1)):"
+      },
+      {
+        "text": "1. Simple kidnapping by force or fear. (Pen. Code, § 207(a).)"
+      },
+      {
+        "text": "2. Kidnapping for the purpose of committing a lewd or lascivious act with a child. (Pen. Code, § 207(b).)"
+      },
+      {
+        "text": "3. Kidnapping by force or fear for the purpose of selling the victim into slavery or involuntary servitude. (Pen. Code, § 207(c).)"
+      },
+      {
+        "text": "4. Kidnapping by bringing a person unlawfully abducted out of state into California. (Pen. Code, § 207(d).)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 3403, *Necessity*."
+      },
+      {
+        "text": "CALCRIM No. 3402, *Duress or Threats*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 207(f)(1)."
+      },
+      {
+        "text": "• Imminent Harm Defined. See *People v. Rodriguez* (1997) 53 Cal.App.4th 1250, 1269 [62 Cal.Rptr.2d 345] [defining “imminent” for purposes of imperfect self-defense to murder charge]; *In re Eichorn* (1998) 69 Cal.App.4th 382, 389 [81 Cal.Rptr.2d 535] [citing with approval definition of necessity that includes physical harm]."
+      },
+      {
+        "text": "• Defendant’s Burden of Proof on Imminent Harm Defense. *People v. Neidinger* (2006) 40 Cal.4th 67, 79 [51 Cal.Rptr.3d 45, 146 P.3d 502]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Whether Belief Must Be Reasonable"
+      },
+      {
+        "text": "The language of Penal Code section 207(f)(1) does explicitly require that the defendant “reasonably” believe that the child was in danger of harm. There are no reported cases on this issue."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

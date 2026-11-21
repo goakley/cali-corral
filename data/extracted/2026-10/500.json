@@ -1,0 +1,60 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "500",
+  "title": "Homicide: General Principles",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      297,
+      298
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "Homicide is the killing of one human being by another. (Murder/[and] (Manslaughter/manslaughter)) (is/are) [a] type[s] of homicide. The defendant is charged with (murder/[and] manslaughter). [Manslaughter is a lesser offense to murder.]",
+    "[A homicide can be lawful or unlawful. If a person kills with a legally valid excuse or justification, the killing is lawful and he or she has not committed a crime. If there is no legally valid excuse or justification, the killing is unlawful and, depending on the circumstances, the person is guilty of either murder or manslaughter. You must decide whether the killing in this case was unlawful and, if so, what specific crime was committed. I will now instruct you in more detail on what is a legally permissible excuse or justification for homicide.] [I will [also] instruct you on the different types of (murder/[and] manslaughter).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction should be given if there are multiple theories of homicide or evidence supporting justification or excuse, as a way of introducing the jury to the law of homicide."
+      },
+      {
+        "text": "If no homicide defense instructions are given, do not give the bracketed language in the second paragraph beginning “A homicide can be lawful . . . .” If no instructions will be given on offenses other than first degree murder, do not give the last bracketed sentence."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Homicide Defined. *People v. Antick* (1975) 15 Cal.3d 79, 87 [123 Cal.Rptr. 475, 539 P.2d 43]."
+      },
+      {
+        "text": "• Justification or Excuse. Pen. Code, § 189.5; *People v. Frye* (1992) 7 Cal.App.4th 1148, 1154–1155 [10 Cal.Rptr.2d 217], disapproved on other grounds in *People v. McCoy* (2001) 25 Cal.4th 1111, 1123 [108 Cal.Rptr.2d 188, 24 P.3d 1210]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Genovese* (2008) 168 Cal.App.4th 817, 832 [85 Cal.Rptr.3d 664]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The committee decided that a short introduction on the law of homicide would help the jury understand basic principles governing a complicated body of law. By giving the jury a simple framework, this instruction will help the jurors understand the rest of the instructions. Although “homicide” is a classic legal term, the committee decided to use the word because it appears to now be a part of lay vocabulary and therefore easily recognizable by jurors."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

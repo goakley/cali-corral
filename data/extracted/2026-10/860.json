@@ -1,0 +1,227 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "860",
+  "title": "Assault on Firefighter or Peace Officer With Deadly Weapon or Force Likely to Produce Great Bodily Injury (Pen. Code, §§ 240, 245(c) & (d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      663,
+      668
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2012, February 2013, September 2019, April 2020, September 2020, March 2022, February 2025, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault with (force likely to produce great bodily injury/a deadly weapon/a firearm/a semiautomatic firearm/a machine gun/an assault weapon/a .50 BMG rifle) on a (firefighter/peace officer) [in violation of Penal Code section 245].",
+    "To prove that the defendant is guilty of this crime, the People must prove [either] that:",
+    "<Alternative 1A—force with weapon>",
+    "[1A. The defendant did an act with (a deadly weapon/a firearm/a semiautomatic firearm/a machine gun/an assault weapon/a .50 BMG rifle) that by its nature would directly and probably result in the application of force to a person;]",
+    "[OR]",
+    "<Alternative 1B—force without weapon>",
+    "[1Bi. The defendant did an act that by its nature would directly and probably result in the application of force to a person, and",
+    "1Bii. The force used was likely to produce great bodily injury;]",
+    "2. The defendant did that act willfully;",
+    "3. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in the application of force to someone;",
+    "4. When the defendant acted, (he/she) had the present ability to apply force (likely to produce great bodily injury/with a deadly weapon/with a firearm/with a semiautomatic firearm/with a machine gun/with an assault weapon/with a .50 BMG rifle) to a person;",
+    "5. When the defendant acted, the person assaulted was lawfully performing (his/her) duties as a (firefighter/peace officer);",
+    "[AND]",
+    "6. When the defendant acted, (he/she) knew, or reasonably should have known, that the person assaulted was a (firefighter/peace officer) who was performing (his/her) duties(;/.)",
+    "<Give element 7 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "7. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "The People are not required to prove that the defendant actually intended to use force against someone when (he/she) acted.",
+    "No one needs to actually have been injured by defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was].",
+    "[Voluntary intoxication is not a defense to assault.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[A *deadly weapon* is any object, instrument, or weapon [that is inherently deadly or one] that is used in such a way that it is capable of causing and likely to cause death or great bodily injury.]",
+    "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it is designed.]",
+    "[In deciding whether an object is a deadly weapon, consider all the surrounding circumstances.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[A *semiautomatic firearm* extracts a fired cartridge and chambers a fresh cartridge with each single pull of the trigger.]",
+    "[A *machine gun* is any weapon that (shoots/is designed to shoot/[or] can readily be restored to shoot) automatically more than one shot by a single function of the trigger and without manual reloading.]",
+    "[An *assault weapon* includes ______ <insert names of appropriate designated assault weapons listed in Pen. Code, § 30510 and further defined by Pen. Code, § 30515>.]",
+    "[A *.50 BMG rifle* is a center fire rifle that can fire a .50 BMG cartridge [and that is not an assault weapon or a machine gun]. A *.50 BMG cartridge* is a cartridge that is designed and intended to be fired from a center fire rifle and that has all three of the following characteristics:",
+    "1. The overall length is 5.54 inches from the base of the cartridge to the tip of the bullet;",
+    "2. The bullet diameter for the cartridge is from .510 to, and including, .511 inch;",
+    "AND",
+    "3. The case base diameter for the cartridge is from .800 inch to, and including, .804 inch.]",
+    "[The term[s] (*great bodily injury[,]/deadly weapon[,]/firearm[,]/machine gun[,]/assault weapon[,]/*[and] *.50 BMG rifle)* (is/are) defined in another instruction to which you should refer.]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[The duties of a ______ <insert title of officer> include ______ <insert job duties>.]",
+    "[A *firefighter* includes anyone who is an officer, employee, or member of a (governmentally operated (fire department/fire protection or firefighting agency) in this state/federal fire department/federal fire protection or firefighting agency), whether or not he or she is paid for his or her services.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    6.3,
+    16.0,
+    16.0,
+    3.7,
+    4.3,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 7 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "In addition, the court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (*People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) On request, the court must instruct that the prosecution has the burden of proving the lawfulness of the arrest beyond a reasonable doubt. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651].) If lawful performance is an issue, give the appropriate portions of CALCRIM No. 2670, *Lawful Performance: Peace Officer*. In addition, give CALCRIM No. 2672, *Lawful Performance: Resisting Unlawful Arrest With Force*, if requested."
+      },
+      {
+        "text": "Give element 1A if it is alleged the assault was committed with a deadly weapon, a firearm, a semiautomatic firearm, a machine gun, an assault weapon, or .50 BMG rifle. Give element 1B if it is alleged that the assault was committed with force likely to produce great bodily injury. (See Pen. Code, § 245(c) & (d).)"
+      },
+      {
+        "text": "Give the relevant bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "Give the bracketed phrase “that is inherently deadly or one” and give the bracketed definition of *inherently deadly* only if the object is a deadly weapon as a matter of law. (*People v. Stutelberg* (2018) 29 Cal.App.5th 314, 317–318 [240 Cal.Rptr.3d 156].)"
+      },
+      {
+        "text": "Give the bracketed portion that begins with “In deciding whether” if the object is not a weapon as a matter of law and is capable of innocent uses. (*People v. Aguilar* (1997) 16 Cal.4th 1023, 1028–1029 [68 Cal.Rptr.2d 655, 945 P.2d 1204]; *People v. Godwin* (1996) 50 Cal.App.4th 1562, 1573–1574 [58 Cal.Rptr.2d 545].)"
+      },
+      {
+        "text": "If determining whether the item is an inherently deadly weapon requires resolution of a factual issue, give both bracketed instructions."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins, “The duties of a ______ <insert title . . . .> include,” on request. The court may insert a description of the officer’s duties such as “the correct service of a facially valid search warrant.” (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1222 [275 Cal.Rptr. 729, 800 P.2d 1159].)"
+      },
+      {
+        "text": "Do not give an attempt instruction in conjunction with this instruction. There is no crime of “attempted assault” in California. (*In re James M.* (1973) 9 Cal.3d 517, 519, 521–522 [108 Cal.Rptr. 89, 510 P.2d 33].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 240, 245(c) & (d)(1)–(3)."
+      },
+      {
+        "text": "• “Assault Weapon” Defined. Pen. Code, §§ 30510, 30515."
+      },
+      {
+        "text": "• “Firearm” Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• “Machine Gun” Defined. Pen. Code, § 16880."
+      },
+      {
+        "text": "• “Semiautomatic Pistol” Defined. Pen. Code, § 17140."
+      },
+      {
+        "text": "• “.50 BMG Rifle” Defined. Pen. Code, § 30530."
+      },
+      {
+        "text": "• “Peace Officer” Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• “Firefighter” Defined. Pen. Code, § 245.1."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• “Deadly Weapon” Defined. *People v. Brown* (2012) 210 Cal.App.4th 1, 6–8 [147 Cal.Rptr.3d 848]; *People v. Aguilar* (1997) 16 Cal.4th 1023, 1028–1029 [68 Cal.Rptr.2d 655, 945 P.2d 1204]."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• “Inherently Deadly” Defined. *People v. Perez* (2018) 4 Cal.5th 1055, 1065 [232 Cal.Rptr.3d 51, 416 P.3d 42]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029."
+      },
+      {
+        "text": "• Examples of Noninherently Deadly Weapon. *People v. Aledamat* (2019) 8 Cal.5th 1, 6 [251 Cal.Rptr.3d 371, 447 P.3d 277] [box cutter]; *People v. Perez, supra,* 4 Cal.5th at p. 1065 [vehicle]; *People v. McCoy* (1944) 25 Cal.2d 177, 188 [153 P.2d 315] [knife]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Assault With a Deadly Weapon. Pen. Code, § 245."
+      },
+      {
+        "text": "• Assault on a Peace Officer. Pen. Code, § 241(b)."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section in CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      },
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      },
+      {
+        "heading": true,
+        "text": "Dual Convictions Prohibited"
+      },
+      {
+        "text": "Penal Code section 245(c) describes a single offense. (*In re C.D.* (2017) 18 Cal.App.5th 1021, 1029 [227 Cal.Rptr.3d 360] [“Aggravated assault against a peace officer under section 245, subdivision (c), remains a single offense, and multiple violations of the statute cannot be found when they are based on the same act or course of conduct”].) See CALCRIM No. 3516, Multiple Counts: Alternative Charges For One Event—Dual Conviction Prohibited."
+      },
+      {
+        "text": "If both theories of assault are included in the case, the jury must unanimously agree which theory or theories are the basis for the verdict."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

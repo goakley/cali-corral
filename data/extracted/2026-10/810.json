@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "810",
+  "title": "Torture (Pen. Code, § 206)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      609,
+      611
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2020, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with torture [in violation of Penal Code section 206].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant inflicted great bodily injury on someone else;",
+    "AND",
+    "2. When inflicting the injury, the defendant intended to cause cruel or extreme pain and suffering for the purpose of revenge, extortion, persuasion, or for any sadistic purpose.",
+    "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "[It is not required that a victim actually suffer pain.]",
+    "[Someone acts for the purpose of *extortion* if he or she intends to (1) obtain a person’s property with the person’s consent and (2) obtain the person’s consent through the use of force or fear.]",
+    "[Someone acts for the purpose of *extortion* if he or she (1) intends to get a public official to do an official act and (2) uses force or fear to make the official do the act. An *official act* is an act that an officer does in his or her official capacity using the authority of his or her public office.]",
+    "[Someone acts with a *sadistic purpose* if he or she intends to inflict pain on someone else in order to experience pleasure himself or herself.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Unlike murder by torture, the crime of torture does not require that the intent to cause pain be premeditated or that any cruel or extreme pain be prolonged. (*People v. Pre* (2004) 117 Cal.App.4th 413, 419–420 [11 Cal.Rptr.3d 739]; *People v. Aguilar* (1997) 58 Cal.App.4th 1196, 1204–1205 [68 Cal.Rptr.2d 619]; *People v. Vital* (1996) 45 Cal.App.4th 441, 444 [52 Cal.Rptr.2d 676].) Torture as defined in section 206 of the Penal Code focuses on the mental state of the perpetrator and not the actual pain inflicted. (*People v. Hale* (1999) 75 Cal.App.4th 94, 108 [88 Cal.Rptr.2d 904].) Give the first bracketed paragraph on request if there is no proof that the alleged victim actually suffered pain. (See Pen. Code, § 206.)"
+      },
+      {
+        "text": "“Extortion” need not be defined for purposes of torture. (*People v. Barrera* (1993) 14 Cal.App.4th 1555, 1564 [18 Cal.Rptr.2d 395]; but see *People v. Hill* (1983) 141 Cal.App.3d 661, 668 [190 Cal.Rptr. 628] [term should be defined for kidnapping under Pen. Code, § 209].) Nevertheless, either of the bracketed definitions of extortion, and the related definition of “official act,” may be given on request if any of these issues are raised in the case. (See Pen. Code, § 518 [defining “extortion”]; *People v. Norris* (1985) 40 Cal.3d 51, 55–56 [219 Cal.Rptr. 7, 706 P.2d 1141] [defining “official act”].) Extortion may also be committed by using “the color of official right” to make an official do an act. (Pen. Code, § 518; see *Evans v. United States* (1992) 504 U.S. 255, 258 [112 S.Ct. 1881, 119 L.Ed.2d 57]; *McCormick v. United States* (1990) 500 U.S. 257, 273 [111 S.Ct. 1807, 114 L.Ed.2d 307] [both discussing common law definition of the term].) It appears that this type of extortion would rarely occur in the context of torture, so it is excluded from this instruction."
+      },
+      {
+        "text": "“Sadistic purpose” may be defined on request. (See *People v. Barrera, supra,* 14 Cal.App.4th at p. 1564; *People v. Raley* (1992) 2 Cal.4th 870, 899–901 [8 Cal.Rptr.2d 678, 830 P.2d 712] [approving use of phrase in torture-murder and special circumstances torture-murder instructions].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "First degree murder by torture defines torture differently for the purposes of murder. See CALCRIM No. 521, *Murder: Degrees*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 206."
+      },
+      {
+        "text": "• “Extortion” Defined. Pen. Code, § 518."
+      },
+      {
+        "text": "• “Great Bodily Injury” Defined. Pen. Code, § 12022.7(f); see, e.g., *People v. Hale, supra,* 75 Cal.App.4th at p. 108 [broken and smashed teeth, split lip, and facial cut sufficient evidence of great bodily injury]."
+      },
+      {
+        "text": "• Cruel Pain Equivalent to Extreme or Severe Pain. *People v. Aguilar, supra,* 58 Cal.App.4th at p. 1202."
+      },
+      {
+        "text": "• Intent. *People v. Pre, supra,* 117 Cal.App.4th at pp. 419–420; *People v. Hale, supra,* 75 Cal.App.4th at pp. 106–107; *People v. Jung* (1999) 71 Cal.App.4th 1036, 1042–1043 [84 Cal.Rptr.2d 5]; see *People v. Aguilar, supra,* 58 Cal.App.4th at pp. 1204–1206 [neither premeditation nor intent to inflict prolonged pain are elements of torture]."
+      },
+      {
+        "text": "• “Sadistic Purpose” Defined. *People v. Raley* (1992) 2 Cal.4th 870, 899–901 [8 Cal.Rptr.2d 678, 830 P.2d 712]; *People v. Aguilar, supra,* 58 Cal.App.4th at pp. 1202–1204; see *People v. Healy* (1993) 14 Cal.App.4th 1137, 1142 [18 Cal.Rptr.2d 274] [sexual element not required]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "In *People v. Martinez* (2005) 125 Cal.App.4th 1035, 1042–1046 [23 Cal.Rptr.3d 508], the court held that none of the following offenses were lesser included offenses to torture: assault with a deadly weapon (Pen. Code, § 245(a)(1)); corporal injury on a cohabitant (Pen. Code, § 273.5); forcible rape (Pen. Code, § 261(a)(2)); forcible oral copulation (Pen. Code, § 287(c)); criminal threats (Pen. Code, § 422); dissuading a witness by force or threats (Pen. Code, § 136.1(c)(1)); false imprisonment by violence. (Pen. Code, § 236.)"
+      },
+      {
+        "text": "The court did not decide whether assault with force likely to cause great bodily injury is a lesser included offense to torture. (*Id.* at p. 1043–1044.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

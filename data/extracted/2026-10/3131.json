@@ -1,0 +1,147 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3131",
+  "title": "Personally Armed With Firearm (Pen. Code, §§ 1203.06(b)(3), 12022(c), 12022.3(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2204,
+      2207
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, December 2008, February 2012",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant was personally armed with a firearm in the commission [or attempted commission] of that crime. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[The term *firearm* is defined in another instruction.]",
+    "[A firearm does not need to be in working order if it was designed to shoot and appears capable of shooting.] [A firearm does not need to be loaded.]",
+    "A person is *armed* with a firearm when that person:",
+    "1. Carries a firearm or has a firearm available for use in either offense or defense in connection with the crime[s] charged;",
+    "AND",
+    "2. Knows that he or she is carrying the firearm or has it available for use.",
+    "<If there is an issue in the case over whether the defendant was armed with the firearm “in the commission of” the offense, see Bench Notes.>",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction when the enhancement is charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "The court should give the bracketed definition of “firearm” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "In the definition of “armed,” the court may give the bracketed phrase “or has a firearm available” on request if the evidence shows that the firearm was at the scene of the alleged crime and “available to the defendant to use in furtherance of the underlying felony.” (*People v. Bland* (1995) 10 Cal.4th 991, 997–998 [43 Cal.Rptr.2d 77, 898 P.2d 391]; see also *People v. Wandick* (1991) 227 Cal.App.3d 918, 927–928 [278 Cal.Rptr. 274] [language of instruction approved; sufficient evidence defendant had firearm available for use]; *People v. Jackson* (1995) 32 Cal.App.4th 411, 419–422 [38 Cal.Rptr.2d 214] [evidence that firearm was two blocks away from scene of rape insufficient to show available to defendant].)"
+      },
+      {
+        "text": "If the case involves an issue of whether the defendant was armed “in the commission of” the offense, the court may give CALCRIM No. 3261, *While Committing a Felony: Defined—Escape Rule*. (See *People v. Jones* (2001) 25 Cal.4th 98, 109 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127].)"
+      },
+      {
+        "text": "If the defendant is charged with being ineligible for probation under Penal Code section 1203.06 for being armed during the commission of the offense and having been convicted of a specified prior crime, the court should also give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, with this instruction unless the defendant has stipulated to the prior conviction or the court has granted a bifurcated trial."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, §§ 1203.06(b)(3), 12022(c), 12022.3(b)."
+      },
+      {
+        "text": "• Firearm Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• Armed. *People v. Pitto* (2008) 43 Cal.4th 228, 236–240 [74 Cal.Rptr.3d 590, 180 P.3d 338]; *People v. Bland* (1995) 10 Cal.4th 991, 997–998 [43 Cal.Rptr.2d 77, 898 P.2d 391]; *People v. Jackson* (1995) 32 Cal.App.4th 411, 419–422 [38 Cal.Rptr.2d 214]; *People v. Wandick* (1991) 227 Cal.App.3d 918, 927–928 [278 Cal.Rptr. 274]."
+      },
+      {
+        "text": "• Personally Armed. *People v. Smith* (1992) 9 Cal.App.4th 196, 203–208 [11 Cal.Rptr.2d 645]."
+      },
+      {
+        "text": "• Must Be Personally Armed for Enhancement Under Penal Code Section 12022.3. *People v. Rener* (1994) 24 Cal.App.4th 258, 267 [29 Cal.Rptr.2d 392]; *People v. Reed* (1982) 135 Cal.App.3d 149, 152–153 [185 Cal.Rptr. 169]."
+      },
+      {
+        "text": "• Defendant Not Present When Drugs and Weapon Found. *People v. Bland* (1995) 10 Cal.4th 991, 995 [43 Cal.Rptr.2d 77, 898 P.2d 391]."
+      },
+      {
+        "text": "• Facilitative Nexus. *People v. Pitto* (2008) 43 Cal.4th 228, 236–240 [74 Cal.Rptr.3d 590, 180 P.3d 338]."
+      },
+      {
+        "text": "• Firearm Need Not Be Operable. *People v. Nelums* (1982) 31 Cal.3d 355, 360 [182 Cal.Rptr. 515, 644 P.2d 201]."
+      },
+      {
+        "text": "• Firearm Need Not Be Loaded. See *People v. Steele* (1991) 235 Cal.App.3d 788, 791–795 [286 Cal.Rptr. 887]."
+      },
+      {
+        "text": "• “In Commission of” Felony. *People v. Jones* (2001) 25 Cal.4th 98, 109–110 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Defendant Not Present When Drugs and Weapon Found"
+      },
+      {
+        "text": "In *People v. Bland* (1995) 10 Cal.4th 991, 995 [43 Cal.Rptr.2d 77, 898 P.2d 391], the defendant was convicted of possession of a controlled substance and an enhancement for being armed during that offense despite the fact that he was not present when the police located the illegal drugs and firearm. The Court held that there was sufficient evidence to support the arming enhancement, stating:"
+      },
+      {
+        "text": "[W]hen the prosecution has proved a charge of felony drug possession, and the evidence at trial shows that a firearm was found in close proximity to the illegal drugs in a place frequented by the defendant, a jury may reasonably infer: (1) that the defendant knew of the firearm’s presence; (2) that its presence together with the drugs was not accidental or coincidental; and (3) that, at some point during the period of illegal drug possession, the defendant had the firearm close at hand and thus available for immediate use to aid in the drug offense. These reasonable inferences, if not refuted by defense evidence, are sufficient to warrant a determination that the defendant was “armed with a firearm in the commission” of a felony within the meaning of section 12022."
+      },
+      {
+        "text": "(*Ibid*.)"
+      },
+      {
+        "text": "The *Bland* case did not state that the jury should be specifically instructed in these inferences, and it appears that no special instruction was given in *Bland*. If the prosecution requests a special instruction on this issue, the court may consider using the following language:"
+      },
+      {
+        "text": "If the People have proved that a firearm was found close to the ______ <insert type of controlled substance allegedly possessed> in a place where the defendant was frequently present, you may but are not required to conclude that:"
+      },
+      {
+        "text": "1. The defendant knew the firearm was present;"
+      },
+      {
+        "text": "2. It was not accidental or coincidental that the firearm was present together with the drugs;"
+      },
+      {
+        "text": "AND"
+      },
+      {
+        "text": "3. During at least part of the time that the defendant allegedly possessed the illegal drug, (he/she) had the firearm close at hand and available for immediate use to aid in the drug offense."
+      },
+      {
+        "text": "If you find beyond a reasonable doubt that the evidence supports these conclusions, you may but are not required to conclude that the defendant was personally armed with a firearm in the commission [or attempted commission] of the ______ <insert name of alleged offense>] [or the lesser crime of ______ <insert name of alleged lesser offense>]."
+      },
+      {
+        "heading": true,
+        "text": "Multiple Defendants—Single Weapon"
+      },
+      {
+        "text": "Two or more defendants may be personally armed with a single weapon at the same time. (*People v. Smith* (1992) 9 Cal.App.4th 196, 205 [11 Cal.Rptr.2d 645].) It is for the jury to decide if the firearm was readily available to both defendants for use in offense or defense. *(Ibid.)*"
+      },
+      {
+        "text": "For enhancements charged under Penal Code section 12022.3, see also the Related Issues section of CALCRIM No. 3130, *Personally Armed With Deadly Weapon*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

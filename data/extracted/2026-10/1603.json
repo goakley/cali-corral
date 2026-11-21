@@ -1,0 +1,67 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1603",
+  "title": "Robbery: Intent of Aider and Abettor",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1205,
+      1205
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "To be guilty of robbery as an aider and abettor, the defendant must have formed the intent to aid and abet the commission of the robbery before or while a perpetrator carried away the property to a place of temporary safety.",
+    "A perpetrator has reached a place of temporary safety with the property if he or she has successfully escaped from the scene, is no longer being pursued, and has unchallenged possession of the property."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction when the defendant is charged with aiding and abetting a robbery and an issue exists about when the defendant allegedly formed the intent to aid and abet. (*People v. Cooper* (1991) 53 Cal.3d 1158, 1165–1166 [282 Cal.Rptr. 450, 811 P.2d 742] [defendant who drove get-away car asserted he did not intend to aid and abet at time of robbery].)"
+      },
+      {
+        "text": "This instruction must be given with CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*."
+      },
+      {
+        "text": "Do not give this instruction if the defendant is charged with felony murder."
+      },
+      {
+        "text": "Do not give CALCRIM No. 3261, *While Committing a Felony: Defined-Escape Rule* as a substitute for this instruction."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aider and Abettor to Robbery—When Intent Formed. *People v. Cooper* (1991) 53 Cal.3d 1158, 1165–1166 [282 Cal.Rptr. 450, 811 P.2d 742]."
+      },
+      {
+        "text": "• Place of Temporary Safety. *People v. Fields* (1983) 35 Cal.3d 329, 364–368 [197 Cal.Rptr. 803, 673 P.2d 680]; *People v. Johnson* (1992) 5 Cal.App.4th 552, 560 [7 Cal.Rptr.2d 23]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Place of Temporary Safety Based on Objective Standard"
+      },
+      {
+        "text": "Whether the defendant had reached a place of temporary safety is judged on an objective standard. The “issue to be resolved is whether a robber had actually reached a place of temporary safety, not whether the defendant thought that he or she had reached such a location.” (*People v. Johnson* (1992) 5 Cal.App.4th 552, 560 [7 Cal.Rptr.2d 23].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

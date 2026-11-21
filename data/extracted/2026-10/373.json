@@ -1,0 +1,58 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "373",
+  "title": "Other Perpetrator",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      221,
+      222
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The evidence shows that (another person/other persons) may have been involved in the commission of the crime[s] charged against the defendant. There may be many reasons why someone who appears to have been involved might not be a codefendant in this particular trial. You must not speculate about whether (that other person has/those other persons have) been or will be prosecuted. Your duty is to decide whether the defendant on trial here committed the crime[s] charged.",
+    "[This instruction does not apply to the testimony of ______ <insert names of testifying coparticipants>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give an instruction on unjoined co-participants; however, it must be given on request if there is substantial evidence that another person or persons were involved in the charged offense(s). (See *People v. Sanders* (1990) 221 Cal.App.3d 350, 359 [271 Cal.Rptr. 534].)"
+      },
+      {
+        "text": "If other alleged participants in the crime are testifying, this instruction should not be given or the bracketed portion should be given exempting the testimony of those witnesses. (*People v. Carrera* (1989) 49 Cal.3d 291, 312 [261 Cal.Rptr. 348, 777 P.2d 121]; *People v. Sully* (1991) 53 Cal.3d 1195, 1218 [283 Cal.Rptr. 144, 812 P.2d 163]; *People v. Williams* (1997) 16 Cal.4th 153, 226–227 [66 Cal.Rptr.2d 123, 940 P.2d 710].) It is not error to give the first paragraph of this instruction if a reasonable juror would understand from all the instructions that evidence of criminal activity by a witness not being prosecuted in the current trial should be considered in assessing the witness’s credibility. (*People v. Fonseca* (2003) 105 Cal.App.4th 543, 549–550 [129 Cal.Rptr.2d 513].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Farmer* (1989) 47 Cal.3d 888, 918–919 [254 Cal.Rptr. 508, 765 P.2d 940], disapproved on other grounds in *People v. Waidla* (2000) 22 Cal.4th 690, 724, fn. 6 [94 Cal.Rptr.2d 396, 996 P.2d 46]; *People v. Sanders, supra*, 221 Cal.App.3d at p. 359."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Jury Can Still Consider Evidence That Someone Else Was the Perpetrator"
+      },
+      {
+        "text": "“The instruction does not tell the jury it cannot consider evidence that someone else was the perpetrator. It merely says the jury is not to speculate on whether someone else might or might not be prosecuted.” (*People v. Farmer, supra*, 47 Cal.3d at pp. 918–919, disapproved on other grounds in *People v. Waidla, supra*, 22 Cal.4th at p. 724, fn. 6.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

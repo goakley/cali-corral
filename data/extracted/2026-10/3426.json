@@ -1,0 +1,121 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3426",
+  "title": "Voluntary Intoxication (Pen. Code, § 29.4)",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      108,
+      110
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, August 2013, February 2015, March 2019, September 2024,* October 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "You may consider evidence, if any, of the defendant’s voluntary intoxication only in a limited way. You may consider that evidence only in deciding whether the defendant acted [or failed to do an act] with ______ <insert specific mental state required, e.g., “the intent to permanently deprive the owner of his or her property” or “knowledge that . . .” or “the intent to do the act required”>.",
+    "A person is *voluntarily intoxicated* if he or she becomes intoxicated by willingly using any intoxicating drug, drink, or other substance knowing that it could produce an intoxicating effect, or willingly assuming the risk of that effect.",
+    "In connection with the charge of ______ <insert first charged offense requiring specific intent or mental state>, the People have the burden of proving beyond a reasonable doubt that the defendant acted [or failed to act] with ______ <insert specific mental state required, e.g., “the intent to permanently deprive the owner of his or her property” or “knowledge that . . .”>. If the People have not met this burden, you must find the defendant not guilty of ______ <insert first charged offense requiring specific mental state>.",
+    "<Repeat this paragraph for each offense requiring a specific mental state.>",
+    "You may not consider evidence of voluntary intoxication for any other purpose. [Voluntary intoxication is not a defense to ______ <insert general intent offense[s]>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to instruct on voluntary intoxication; however, the trial court must give this instruction on request. (*People v. Ricardi* (1992) 9 Cal.App.4th 1427, 1432 [12 Cal.Rptr.2d 364]; *People v. Castillo* (1997) 16 Cal.4th 1009, 1014 [68 Cal.Rptr.2d 648, 945 P.2d 1197]; *People v. Saille* (1991) 54 Cal.3d 1103, 1119 [2 Cal.Rptr.2d 364, 820 P.2d 588].) Although voluntary intoxication is not an affirmative defense to a crime, the jury may consider evidence of voluntary intoxication and its effect on the defendant’s formation of any required specific mental state. (Pen. Code, § 29.4; *People v. Mendoza* (1998) 18 Cal.4th 1114, 1131–1134 [77 Cal.Rptr.2d 428, 959 P.2d 735] [relevant to mental state in aiding and abetting].)"
+      },
+      {
+        "text": "Voluntary intoxication may not be considered for general intent crimes. (*People v. Mendoza, supra*, 18 Cal.4th at pp. 1127–1128; *People v. Atkins* (2001) 25 Cal.4th 76, 81 [104 Cal.Rptr.2d 738, 18 P.3d 660]; see also *People v. Hood* (1969) 1 Cal.3d 444, 451 [82 Cal.Rptr. 618, 462 P.2d 370] [applying specific vs. general intent analysis and holding that assault type crimes are general intent; subsequently superseded by amendments to former Penal Code section 22 [now Penal Code section 29.4] on a different point].) Crimes requiring criminal negligence are general intent crimes. (*People v. Midell* (2025) 113 Cal.App.5th 1060, 1082 [336 Cal.Rptr.3d 537].)"
+      },
+      {
+        "text": "A split in authority exists as to whether the jury may consider the effect of voluntary intoxication on a defendant’s subjective knowledge. (Compare *People v. Reyes* (1997) 52 Cal.App.4th 975, 982–986 [61 Cal.Rptr.2d 39] [relevant to knowledge element in receiving stolen property] with *People v. Suazo* (2023) 95 Cal.App.5th 681, 696–703 [313 Cal.Rptr.3d 649] [disagreeing with *Reyes*] and *People v. Berg* (2018) 23 Cal.App.5th 959, 968–970 [233 Cal.Rptr.3d 629] [same].)"
+      },
+      {
+        "text": "If both specific and general intent crimes are charged, the court must specify the general intent crimes in the bracketed portion of the last sentence and instruct the jury that voluntary intoxication is not a defense to those crimes. (*People v. Aguirre* (1995) 31 Cal.App.4th 391, 399–402 [37 Cal.Rptr.2d 48]; *People v. Rivera* (1984) 162 Cal.App.3d 141, 145–146 [207 Cal.Rptr. 756].)"
+      },
+      {
+        "text": "If the defendant claims unconsciousness due to involuntary intoxication as a defense to driving under the influence, see *People v. Mathson* (2012) 210 Cal.App.4th 1297, 1317–1323 [149 Cal.Rptr.3d 167]."
+      },
+      {
+        "text": "The court may need to modify this instruction if given with CALCRIM No. 362, *Consciousness of Guilt*. (*People v. Wiidanen* (2011) 201 Cal.App.4th 526, 528, 533 [135 Cal.Rptr.3d 736].)"
+      },
+      {
+        "text": "Evidence of voluntary intoxication is inadmissible on the question of whether a defendant believed it necessary to act in self-defense. (*People v. Soto* (2018) 4 Cal.5th 968, 970 [231 Cal.Rptr.3rd 732, 415 P.3d 789].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 3427, *Involuntary Intoxication*."
+      },
+      {
+        "text": "CALCRIM No. 625, *Voluntary Intoxication: Effects on Homicide Crimes*."
+      },
+      {
+        "text": "CALCRIM No. 626, *Voluntary Intoxication Causing Unconsciousness: Effects on Homicide Crimes*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 29.4; *People v. Castillo, supra*, 16 Cal.4th at p. 1014; *People v. Saille, supra*, 54 Cal.3d at p. 1119."
+      },
+      {
+        "text": "• Effect of Prescription Drugs. *People v. Mathson, supra*, 210 Cal.App.4th at p. 1328, fn. 32."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Implied Malice"
+      },
+      {
+        "text": "“[E]vidence of voluntary intoxication is no longer admissible on the issue of implied malice aforethought.” (*People v. Martin* (2000) 78 Cal.App.4th 1107, 1114–1115 [93 Cal.Rptr.2d 433], quoting *People v. Reyes, supra*, 52 Cal.App.4th at p. 984, fn. 6.)"
+      },
+      {
+        "heading": true,
+        "text": "Intoxication Based on Mistake of Fact Is Involuntary"
+      },
+      {
+        "text": "Intoxication resulting from trickery is not “voluntary.” (*People v. Scott* (1983) 146 Cal.App.3d 823, 831–833 [194 Cal.Rptr. 633] [defendant drank punch not knowing it contained hallucinogens; court held his intoxication was result of trickery and mistake and involuntary].)"
+      },
+      {
+        "heading": true,
+        "text": "Premeditation and Deliberation"
+      },
+      {
+        "text": "“[T]he trial court has no sua sponte duty to instruct that voluntary intoxication may be considered in determining the existence of premeditation and deliberation.” (*People v. Hughes* (2002) 27 Cal.4th 287, 342 [116 Cal.Rptr.2d 401, 39 P.3d 432], citing *People v. Saille, supra*, 54 Cal.3d at p. 1120; see *People v. Castillo, supra*, 16 Cal.4th at p. 1018 [counsel not ineffective for failing to request instruction specifically relating voluntary intoxication to premeditation and deliberation].)"
+      },
+      {
+        "heading": true,
+        "text": "Unconsciousness Based on Voluntary Intoxication Is Not a Complete Defense"
+      },
+      {
+        "text": "Unconsciousness is typically a complete defense to a crime except when it is caused by voluntary intoxication. (*People v. Heffington* (1973) 32 Cal.App.3d 1, 8 [107 Cal.Rptr. 859].) Unconsciousness caused by voluntary intoxication is governed by Penal Code section 29.4, rather than by section 26 and may only be offered to negate specific intent. (*People v. Suazo* (2023) 95 Cal.App.5th 681, 703–704 [313 Cal.Rptr.3d 649] [no error in refusing to instruct on unconsciousness resulting from voluntary intoxication in gross vehicular manslaughter and fleeing-the-scene allegations]; *People v. Walker* (1993) 14 Cal.App.4th 1615, 1621 [18 Cal.Rptr.2d 431] [no error in refusing to instruct on unconsciousness when defendant was voluntarily under the influence of drugs at the time of the crime]; see also *People v. Ochoa* (1998) 19 Cal.4th 353, 423 [79 Cal.Rptr.2d 408, 966 P.2d 442] [“if the intoxication is voluntarily induced, it can never excuse homicide. Thus, the requisite element of criminal negligence is deemed to exist irrespective of unconsciousness, and a defendant stands guilty of involuntary manslaughter if he voluntarily procured his own intoxication [citation].”].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2012, August 2013, February 2015, March 2019, September 2024*"
+  },
+  "supplement_status": "revised"
+}

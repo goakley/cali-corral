@@ -1,0 +1,182 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2761",
+  "title": "Escape by Force or Violence (Pen. Code, § 4532(a)(2) & (b)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2017,
+      2021
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2013",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (escape/[or] attempted escape) committed by force or violence [in violation of Penal Code section 4532].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was ((arrested and booked for[,]/[or] charged with[,]/[or] convicted of) a (misdemeanor/felony)/committed by order of the juvenile court to an adult facility);",
+    "<Alternative 2A—confined in penal institution>",
+    "[2. The defendant was confined in (a/an) (county jail/city jail/prison/industrial farm/industrial road camp);]",
+    "<Alternative 2B—engaged in county work>",
+    "[2. The defendant was working on (a county road/[or other] county work) as an inmate;]",
+    "<Alternative 2C—lawful custody>",
+    "[2. The defendant was in the lawful custody of (an officer/[or] a person);]",
+    "<Alternative 2D—work furlough>",
+    "[2. The defendant was confined in (a/an) (county jail/city jail/prison/industrial farm/industrial road camp) but was authorized to be away from the place of confinement in connection with a work furlough program;]",
+    "<Alternative 2E—temporary release>",
+    "[2. The defendant was confined in (a/an) (county jail/city jail/prison/industrial farm/industrial road camp) but was away from the place of confinement in connection with an authorized temporary release;]",
+    "<Alternative 2F—home detention>",
+    "[2. The defendant was a participant in a home detention program;]",
+    "<Alternative 2G—confined under Pen. Code, § 4011.9>",
+    "[2. The defendant was confined as an inmate in a hospital for treatment even though no guard was present to detain the defendant;]",
+    "<Alternative 3A—confined in penal institution>",
+    "[3. The defendant (escaped/[or] attempted to escape) from the (jail/prison/farm/camp);]",
+    "<Alternative 3B—engaged in county work>",
+    "[3. The defendant (escaped/[or] attempted to escape) from the custody of the (officer/[or] person in charge of (him/her)) while engaged in or going to or returning from the county work site;]",
+    "<Alternative 3C—lawful custody>",
+    "[3. The defendant (escaped/[or] attempted to escape) from the custody of the (officer/[or] person) who had lawful custody of the defendant;]",
+    "<Alternative 3D—work furlough>",
+    "[3. The defendant (escaped/[or] attempted to escape) from the (jail/prison/farm/camp) by failing to return to the place of confinement;]",
+    "<Alternative 3E—temporary release>",
+    "[3. The defendant (escaped/[or] attempted to escape) from the (jail/prison/farm/camp) by failing to return to the place of confinement;]",
+    "<Alternative 3F—home detention>",
+    "[3. The defendant (escaped/[or] attempted to escape) from the place of confinement in the home detention program;]",
+    "<Alternative 3G—confined under Pen. Code, § 4011.9>",
+    "[3. The defendant (escaped/[or] attempted to escape) from the place of hospital confinement;]",
+    "AND",
+    "4. The defendant committed the (escape/[or] attempted escape) by force or violence.",
+    "[A person has been *booked* for a (misdemeanor/felony) if he or she has been taken to a law enforcement office where an officer or employee has recorded the arrest and taken the person’s fingerprints and photograph.]",
+    "[A person has been *charged* with a (misdemeanor/felony) if a formal complaint, information, or indictment has been filed in court alleging that the person committed a crime.]",
+    "*Escape* means the unlawful departure of a prisoner from the physical limits of his or her custody. [It is not necessary for the prisoner to have left the outer limits of the institution’s property. However, the prisoner must breach a wall or fence marking the security perimeter of the correctional facility. It is not sufficient for the prisoner to be merely outside the particular area within the facility where he or she is permitted to be.]",
+    "[A prisoner also *escapes* if he or she willfully fails to return to his or her place of confinement within the period that he or she was authorized to be away from that place of confinement. Someone commits an act *willfully* when he or she does it willingly or on purpose.]",
+    "To commit an act *by force or violence* means to wrongfully use physical force against the property or person of another. [To *use force* against a person means to touch the other person in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.]",
+    "[The People must prove that the defendant personally used force or violence or aided and abetted another in using force or violence. Mere knowledge that someone else used force or violence is not enough. Instruction[s] ______ <insert instruction numbers; see Bench Notes> explain[s] when a person aids and abets another.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In elements 2 and 3, select the location where the defendant was allegedly confined or the program that the defendant allegedly escaped from and use the appropriate alternative paragraphs."
+      },
+      {
+        "text": "In the definition of escape, give the bracketed sentence if there is an issue as to whether the defendant went far enough to constitute an escape. (See *People v. Lavaie* (1999) 70 Cal.App.4th 456, 459–461 [82 Cal.Rptr.2d 719].)"
+      },
+      {
+        "text": "Give the bracketed paragraph on willful failure to return if appropriate based on the evidence."
+      },
+      {
+        "text": "In the definition of force or violence, use the bracketed sentences if the prosecution alleges that the defendant used force against a person. (*People v. Lozano* (1987) 192 Cal.App.3d 618, 627 [237 Cal.Rptr. 612] [meaning of “force” in Pen. Code, § 4532 equivalent to simple battery].)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “The People must prove that the defendant personally” if this is an issue in the case. (*People v. Moretto* (1994) 21 Cal.App.4th 1269, 1278 [26 Cal.Rptr.2d 719].) Give also CALCRIM No. 400, *Aiding and Abetting: General Principles*, and CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*."
+      },
+      {
+        "text": "If the defendant is charged with attempt, give CALCRIM No. 460, *Attempt Other Than Attempted Murder*. (*People v. Gallegos* (1974) 39 Cal.App.3d 512, 517 [114 Cal.Rptr. 166].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence of necessity, the court has a sua sponte duty to give CALCRIM No. 2764, *Escape: Necessity Defense*. (*People v. Condley* (1977) 69 Cal.App.3d 999, 1008–1013 [138 Cal.Rptr. 515]; *People v. Lovercamp* (1974) 43 Cal.App.3d 823, 831–832 [118 Cal.Rptr. 110].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 4532(a)(2) & (b)(2)."
+      },
+      {
+        "text": "• Specific Intent Not an Element of Completed Escape. *People v. George* (1980) 109 Cal.App.3d 814, 819 [167 Cal.Rptr. 603]."
+      },
+      {
+        "text": "• Attempt to Escape—Must Instruct on Direct Act and Specific Intent. *People v. Gallegos* (1974) 39 Cal.App.3d 512, 517 [114 Cal.Rptr. 166]."
+      },
+      {
+        "text": "• Escape Defined. *People v. Lavaie* (1999) 70 Cal.App.4th 456, 459–461 [82 Cal.Rptr.2d 719]."
+      },
+      {
+        "text": "• Force or Violence Defined. *People v. Lozano* (1987) 192 Cal.App.3d 618, 627 [237 Cal.Rptr. 612]; *People v. Bravott* (1986) 183 Cal.App.3d 93, 97 [227 Cal.Rptr. 810]."
+      },
+      {
+        "text": "• Force Includes Damage to Property. *People v. White* (1988) 202 Cal.App.3d 862, 866 [249 Cal.Rptr. 165]; *People v. Bravott* (1986) 183 Cal.App.3d 93, 97 [227 Cal.Rptr. 810]."
+      },
+      {
+        "text": "• Defendant Must Personally Use Force or Aid and Abet Another. *People v. Moretto* (1994) 21 Cal.App.4th 1269, 1278 [26 Cal.Rptr.2d 719]."
+      },
+      {
+        "text": "• Arrested Defendant Must Be Booked Before Statute Applies. *People v. Diaz* (1978) 22 Cal.3d 712, 716–717 [150 Cal.Rptr. 471, 586 P.2d 952]; see also *People v. Trotter* (1998) 65 Cal.App.4th 965, 967, 971 [76 Cal.Rptr.2d 898]."
+      },
+      {
+        "text": "• Arrest of Probationer—Booking Not Required. *People v. Cisneros* (1986) 179 Cal.App.3d 117, 120–123 [224 Cal.Rptr. 452]."
+      },
+      {
+        "text": "• Must Be Confined in Adult Penal Institution. *People v. Rackley* (1995) 33 Cal.App.4th 1659, 1668 [40 Cal.Rptr.2d 49]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Escape carries a more severe penalty if done with force or violence. (Pen. Code, § 4532(a)(2) & (b)(2).) If the defendant is charged with using force or violence, then the escape without force or violence is a lesser included offense. (*People v. Gallegos* (1974) 39 Cal.App.3d 512, 518–519 [114 Cal.Rptr. 166].) Note that the court must instruct on all the elements of escape with force or violence and must then give a separate instruction on the lesser offense, stating all of the elements except force or violence. (*People v. Lozano* (1987) 192 Cal.App.3d 618, 633 [237 Cal.Rptr. 612].) The court may not give the jury a verdict form asking specifically if the element of force or violence has been proved. *(Ibid.)*"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See Related Issues section in CALCRIM No. 2760, *Escape*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

@@ -1,0 +1,85 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2330",
+  "title": "Manufacturing a Controlled Substance (Health & Saf. Code, §§ 11379.6(a), 11362.3)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1619,
+      1621
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2018",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (manufacturing/compounding/converting/producing/deriving/processing/preparing) ______ <insert concentrated cannabis or a controlled substance from Health & Saf. Code, §§ 11054, 11055, 11056, 11057, or 11058>, a controlled substance [in violation of Health and Safety Code section (11379.6/11362.3)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (manufactured/compounded/converted/produced/derived/processed/prepared) a controlled substance, specifically ______ <insert controlled substance>, using chemical extraction or independent chemical synthesis;",
+    "[AND]",
+    "2. The defendant knew of the substance’s nature or character as a controlled substance.",
+    "[The chemical extraction or independent chemical synthesis may be done either directly or indirectly.]",
+    "[The People do not need to prove that the defendant knew which specific controlled substance was involved, only that (he/she) was aware that it was a controlled substance.]",
+    "[The People do not need to prove that the defendant completed the process of manufacturing or producing a controlled substance. Rather, the People must prove that the defendant knowingly participated in the beginning or intermediate steps to process or make a controlled substance. [Thus, the defendant is guilty of this crime if the People have proved that:",
+    "1. The defendant engaged in the synthesis, processing, or preparation of a chemical that is not itself a controlled substance;",
+    "AND",
+    "2. The defendant knew that the chemical was going to be used in the manufacture of a controlled substance.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed paragraph stating that “The People do not need to prove that the defendant completed the process” when the evidence indicates that the defendant completed only initial or intermediary stages of the process. (*People v. Jackson* (1990) 218 Cal.App.3d 1493, 1503–1504 [267 Cal.Rptr. 841]; *People v. Lancellotti* (1993) 19 Cal.App.4th 809, 813 [23 Cal.Rptr.2d 640].) Give the final bracketed section stating “Thus, the defendant is guilty” when the evidence shows that the defendant manufactured a precursor chemical, such as ephedrine, but had not completed the process of manufacturing a controlled substance. (*People v. Pierson* (2000) 86 Cal.App.4th 983, 992 [103 Cal.Rptr.2d 817].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, §§ 11379.6(a) & (b), 11054–11058, 11362.3(a)(6)."
+      },
+      {
+        "text": "• Knowledge of Controlled Substance. *People v. Coria* (1999) 21 Cal.4th 868, 874 [89 Cal.Rptr.2d 650, 985 P.2d 970]."
+      },
+      {
+        "text": "• Initial or Intermediary Stages. *People v. Jackson* (1990) 218 Cal.App.3d 1493, 1503–1504 [267 Cal.Rptr. 841]; *People v. Lancellotti* (1993) 19 Cal.App.4th 809, 813 [23 Cal.Rptr.2d 640]; *People v. Heath* (1998) 66 Cal.App.4th 697, 703–704 [78 Cal.Rptr.2d 240]."
+      },
+      {
+        "text": "• Precursor Chemicals. *People v. Pierson* (2000) 86 Cal.App.4th 983, 992 [103 Cal.Rptr.2d 817]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Providing Place for Manufacture"
+      },
+      {
+        "text": "Health and Safety Code section 11366.5 prohibits providing a place for the manufacture or storage of a controlled substance. A defendant who provides a place for the manufacture of a controlled substance may be convicted both as an aider and abettor under Health and Safety Code section 11379.6 and as a principal under Health and Safety Code section 11366.5. (*People v. Sanchez* (1994) 27 Cal.App.4th 918, 923 [33 Cal.Rptr.2d 155]; *People v. Glenos* (1992) 7 Cal.App.4th 1201, 1208 [10 Cal.Rptr.2d 363].) Conviction under Health and Safety Code section 11379.6 requires evidence that the defendant specifically intended to aid the manufacture of the controlled substance, while conviction under Health and Safety Code section 11366.5 requires evidence that the defendant knew that the controlled substance was for sale or distribution. (*People v. Sanchez* (1994) 27 Cal.App.4th 918, 923 [33 Cal.Rptr.2d 155]; *People v. Glenos* (1992) 7 Cal.App.4th 1201, 1208 [10 Cal.Rptr.2d 363].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

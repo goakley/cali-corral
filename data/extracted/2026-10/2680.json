@@ -1,0 +1,55 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2680",
+  "title": "Courthouse Picketing (Pen. Code, § 169)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1937,
+      1937
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (picketing/[or] parading) near a courthouse [in violation of Penal Code section 169].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (picketed/[or] paraded) in or near a state court building;",
+    "AND",
+    "2. When the defendant acted, (he/she) did so with the intent (to interfere with, obstruct, or impede the administration of justice/[or] to influence (a/an) (judge[,]/[or] juror[,]/[or] witness[,]/[or] officer of the court) in the discharge of his or her duty)."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 169."
+      },
+      {
+        "text": "• Similar Statute Constitutional. *Cox v. Louisiana* (1964) 379 U.S. 559, 564 [85 S.Ct. 476, 13 L.Ed.2d 487] [upholding Louisiana statute nearly identical to Pen. Code, § 169]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

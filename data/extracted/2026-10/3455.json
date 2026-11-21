@@ -1,0 +1,100 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3455",
+  "title": "Mental Incapacity as a Defense (Pen. Code, §§ 25, 29.8)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2414,
+      2416
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, August 2014",
+  "revision_legend": null,
+  "body": [
+    "You may not find the defendant guilty of ______ <insert description of crime> if (he/she) was legally incapable of committing a crime because of mental incapacity.",
+    "The defendant was legally incapable of committing a crime because of mental incapacity if at the time the crime was committed:",
+    "1. (He/She) had a mental disease or defect;",
+    "AND",
+    "2. Because of that disease or defect, (he/she) was incapable of knowing or understanding the nature and quality of (his/her) act or was incapable of knowing or understanding that (his/her) act was morally or legally wrong.",
+    "The defendant has the burden of proving this defense by a preponderance of the evidence. [This is a different burden of proof from proof beyond a reasonable doubt.] To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that (he/she) was legally incapable of committing a crime because of mental incapacity."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on mental incapacity when the defendant has raised this defense and substantial evidence supports it. (Pen. Code, § 25.) Substantial evidence means evidence of a defense, which, if believed, would be sufficient for a reasonable jury to find a reasonable doubt as to the defendant’s guilt. (*People v. Salas* (2006) 37 Cal.4th 967, 982–983 [38 Cal.Rptr.3d 624, 127 P.3d 40].)"
+      },
+      {
+        "text": "If the court grants a bifurcated trial on the defense of mental incapacity, the court must also give the appropriate post-trial instructions such as CALCRIM No. 3550, *Pre-Deliberation Instructions*, CALCRIM No. 222, *Evidence*, and CALCRIM No. 226, *Witnesses*. (See *In re Ramon M.* (1978) 22 Cal.3d 419, 427, fn. 10 [149 Cal.Rptr. 387, 584 P.2d 524].)"
+      },
+      {
+        "text": "If the court does not grant a bifurcated trial, give the bracketed sentence “This is a different burden of proof from proof beyond a reasonable doubt.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, §§ 25, 29.8, 26. • Burden of Proof. *In re Ramon M.* (1978) 22 Cal.3d 419, 427, fn. 10 [149 Cal.Rptr. 387, 584 P.2d 524].)."
+      },
+      {
+        "text": "• Same Test for Both Mental Incapacity and Insanity. *In re Ramon M.* (1978) 22 Cal.3d 419, 427 [149 Cal.Rptr. 387, 584 P.2d 524].)."
+      },
+      {
+        "text": "• Requirement of Mental Disease or Defect. *People v. McCaslin* (1986) 178 Cal.App.3d 1, 8 [223 Cal.Rptr. 587]."
+      },
+      {
+        "text": "• Incapacity Based on Mental Disease or Defect. *People v. Stress* (1988) 205 Cal.App.3d 1259, 1271 [252 Cal.Rptr. 913]."
+      },
+      {
+        "text": "• Penal Code Section 25(b) Supersedes Model Penal Code Test. *People v. Phillips* (2000) 83 Cal.App.4th 170, 173 [99 Cal.Rptr.2d 448]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "In *In re Ramon M.* (1978) 22 Cal.3d 419, 427 [149 Cal.Rptr. 387, 584 P.2d 524], the Supreme Court held that the same test should apply for determining both mental incapacity and insanity. However, the court was applying the Model Penal Code test, which was subsequently superseded by Proposition 8 as codified in Penal Code section 25(b). The Court of Appeal in *People v. Phillips* (2000) 83 Cal.App.4th 170, 173 [99 Cal.Rptr.2d 448], expressly found that “the test for insanity as stated in section 25, subdivision (b) applies also to determine whether a person is an idiot pursuant to section 26.” Accordingly, the committee followed *Phillips* in drafting this instruction."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Legal and Moral Wrong"
+      },
+      {
+        "text": "The wrong contemplated by the two-part insanity test refers to both the legal wrong and the moral wrong. If the defendant appreciates that his or her act is criminal but does not think it is morally wrong, he or she may still be criminally insane. (See *People v. Skinner* (1985) 39 Cal.3d 765, 777–784 [217 Cal.Rptr. 685, 704 P.2d 752]; see also *People v. Stress* (1988) 205 Cal.App.3d 1259, 1271–1274 [252 Cal.Rptr. 913].)"
+      },
+      {
+        "heading": true,
+        "text": "Penal Code Sections 1016, 1017, 1026, 1027"
+      },
+      {
+        "text": "The Supreme Court found in *In re Ramon M.* (1978) 22 Cal.3d 419, 427 [149 Cal.Rptr. 387, 584 P.2d 524] that the same test for legal incapacity should apply to both insanity and mental retardation. Moreover, the court concluded that the Legislature “probably intended [Pen. Code, §§ 1016, 1017, 1026, 1027] to apply to all persons who assertedly lack mental capacity to commit crime [citation]. In light of this legislative intent, and of the identity of the legal test for mental incapacity and insanity . . . we conclude that the term ‘insanity’ in Penal Code sections 1016 through 1027 refers to mental incapacity, whether arising from mental illness or mental retardation. Accordingly a defendant asserting a defense of mental incapacity should raise that defense by separate plea (see Pen. Code, §§ 1016, 1017), may obtain a bifurcated trial (see Pen. Code, § 1026), [and] must prove his incapacity by a preponderance of the evidence [citation] . . . .” (*Id.* at p. 427, fn. 10.)"
+      },
+      {
+        "heading": true,
+        "text": "Extension of Commitment"
+      },
+      {
+        "text": "The test for extending a person’s commitment is not the same as the test for insanity. (*People v. Superior Court (Williams)* (1991) 233 Cal.App.3d 477, 490 [284 Cal.Rptr. 601].) The test for insanity and mental incapacity is whether the accused “was incapable of knowing or understanding the nature and quality of his or her act or of distinguishing right from wrong at the time of the commission of the offense.” (Pen. Code, § 25(b); *People v. Skinner* (1985) 39 Cal.3d 765 [217 Cal.Rptr. 685, 704 P.2d 752].) In contrast, the standard for recommitment under Penal Code section 1026.5(b) is whether a defendant, “by reason of a mental disease, defect, or disorder [,] represents a substantial danger of physical harm to others.” (*People v. Superior Court, supra,* 233 Cal.App.3d at pp. 489–490; *People v. Wilder* (1995) 33 Cal.App.4th 90, 99 [39 Cal.Rptr.2d 247].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

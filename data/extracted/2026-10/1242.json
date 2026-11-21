@@ -1,0 +1,87 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1242",
+  "title": "Misdemeanor False Imprisonment (Pen. Code, § 236)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1082,
+      1083
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with false imprisonment [in violation of Penal Code section 236].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant intentionally [and unlawfully] (restrained[,]/[or] detained[,]/[or] confined) a person;",
+    "AND",
+    "2. The defendant’s act made that person stay or go somewhere against that person’s will.",
+    "[An act is done *against a person’s will* if that person does not consent to the act. In order to *consent*, a person must act freely and voluntarily and know the nature of the act.]",
+    "[False imprisonment does not require that the person restrained or detained be confined in jail or prison.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed words “and unlawfully” in element 1 on request if there is evidence that the defendant acted lawfully. The court will need to further define for the jury when a restraint, detention, or confinement is legal."
+      },
+      {
+        "text": "Give the bracketed definition of “against a person’s will” on request."
+      },
+      {
+        "text": "Give the final paragraph on request to inform jurors that false “imprisonment” is not limited to confinement in jail or prison. (*People v. Agnew* (1940) 16 Cal.2d 655, 659 [107 P.2d 601]; *People v. Haney* (1977) 75 Cal.App.3d 308, 313 [142 Cal.Rptr. 186].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 236, 237(a); *People v. Agnew, supra,* 16 Cal.2d at pp. 659–660."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Fernandez* (1994) 26 Cal.App.4th 710, 717–718 [31 Cal.Rptr.2d 677]; *People v. Olivencia* (1988) 204 Cal.App.3d 1391, 1399–1400 [251 Cal.Rptr. 880]; *People v. Swanson* (1983) 142 Cal.App.3d 104, 109 [190 Cal.Rptr. 768]."
+      },
+      {
+        "text": "• Confinement in Jail or Prison Not Required. *People v. Agnew, supra,* 16 Cal.2d at p. 659; *People v. Haney, supra,* 75 Cal.App.3d at p. 313."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "General Intent Crime"
+      },
+      {
+        "text": "False imprisonment is a general intent crime. (*People v. Fernandez, supra,* 26 Cal.App.4th at pp. 716–718; *People v. Olivencia, supra,* 204 Cal.App.3d at pp. 1399–1400; *People v. Swanson, supra,* 142 Cal.App.3d at p. 109.) Thus, the court is not required to instruct on the joint union of act and specific intent (*People v. Fernandez, supra,* 26 Cal.App.4th at p. 716), on the use of circumstantial evidence to prove specific intent (*People v. Swanson, supra,* 142 Cal.App.3d at pp. 109–110), or that the jury should consider mental illness in deciding whether the defendant acted with specific intent (*People v. Olivencia, supra,* 204 Cal.App.3d at p. 1399)."
+      },
+      {
+        "heading": true,
+        "text": "Parent Confining Child"
+      },
+      {
+        "text": "A parent who confines his or her child with the intent to endanger the health and safety of the child or for an unlawful purpose can be prosecuted for false imprisonment. (*People v. Checketts* (1999) 71 Cal.App.4th 1190, 1195 [84 Cal.Rptr.2d 491] [unlawful purpose of avoiding prosecution]; see also *People v. Rios* (1986) 177 Cal.App.3d 445, 451 [222 Cal.Rptr. 913].) If there is sufficient evidence that the parent’s restraint or confinement was a reasonable exercise of parental authority, the court has a sua sponte duty to instruct on that defense. (*People v. Checketts, supra,* 71 Cal.App.4th at p. 1196.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

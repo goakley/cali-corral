@@ -1,0 +1,83 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2722",
+  "title": "Battery by Gassing (Pen. Code, §§ 243.9, 4501.1)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1981,
+      1982
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016, March 2017, March 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with battery by gassing [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was (serving a sentence in a [California] state prison/confined in a local detention facility);",
+    "2. While so confined, the defendant intentionally committed an act of gassing, that is, (he/she) (placed[,]/[or] threw[,]/[or] caused to be placed or thrown) (human excrement/human urine/human bodily fluids or substances/a mixture containing human bodily substances) on the body of (a peace officer/an employee of a (state prison/local detention facility));",
+    "AND",
+    "3. The (excrement/urine/bodily fluids or substances/mixture) actually made contact with the skin [or membranes] of (a peace officer/an employee of a (state prison/local detention facility)).",
+    "[A person is *serving a sentence in a state prison* if he or she is (confined in ______ <insert name of institution from Pen. Code, § 5003>/committed to the Department of Corrections and Rehabilitation[, Division of Juvenile Justice,]) by an order made according to law[, regardless of both the purpose of the (confinement/commitment) and the validity of the order directing the (confinement/commitment), until a judgment of a competent court setting aside the order becomes final]. [A person may be *serving a sentence in a state prison* even if, at the time of the offense, he or she is confined in a local correctional institution pending trial or is temporarily outside the prison walls or boundaries for any permitted purpose, including but not limited to serving on a work detail.] [However, a prisoner who has been released on parole is not *serving a sentence in a state prison*.]]",
+    "[A (county jail/city jail/______ <insert description>) is a *local detention facility*.]",
+    "[A sworn member of ______ <insert name of agency that employs peace officer>, authorized by ______ <insert appropriate section from Pen. Code, § 830 et seq.> to ______ <describe statutory authority>, is a *peace officer*.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the battery is charged under Penal Code section 4501.1, in element 1, use the phrase “serving a sentence in state prison” and the bracketed definition of this phrase. If the battery is charged under Penal Code section 243.9, in element 1, give the language referencing a “local detention facility” and the bracketed definition of local detention facility."
+      },
+      {
+        "text": "When giving the definition of “serving a sentence in a state prison,” give the bracketed portion that begins “regardless of the purpose,” or the bracketed second or third sentence, if requested and relevant based on the evidence."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim was a peace officer. (*People v. Flood* (1998) 18 Cal.4th 470, 482 [76 Cal.Rptr.2d 180, 957 P.2d 869].) The court must instruct the jury in the appropriate definition of “peace officer” from the statute. (*Ibid.*) It is error for the court to instruct that the witness is a peace officer as a matter of law. (*Ibid.* [instruction that “Officer Bridgeman and Officer Gurney are peace officers” was error].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 242, 243.9, 4501.1."
+      },
+      {
+        "text": "• “Confined in State Prison” Defined. Pen. Code, § 4504."
+      },
+      {
+        "text": "• “Local Detention Facility” Defined. Pen. Code, § 6031.4."
+      },
+      {
+        "text": "• Employee of Local Detention Facility Includes County Employee Assigned to Work in County Jail. *People v. Tice* (2023) 89 Cal.App.5th 246, 255 [305 Cal.Rptr.3d 794]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Battery by Prisoner on Non-Prisoner. *People v. Flores* (2009) 176 Cal.App.4th 924, 929 [97 Cal.Rptr.3d 924]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,63 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "306",
+  "title": "Untimely Disclosure of Evidence",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      154,
+      155
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014",
+  "revision_legend": null,
+  "body": [
+    "Both the People and the defense must disclose their evidence to the other side before trial, within the time limits set by law. Failure to follow this rule may deny the other side the chance to produce all relevant evidence, to counter opposing evidence, or to receive a fair trial.",
+    "An attorney for the (People/defense) failed to disclose: ______ <describe evidence that was not disclosed> [within the legal time period].",
+    "In evaluating the weight and significance of that evidence, you may consider the effect, if any, of that late disclosure.",
+    "[However, the fact that the defendant’s attorney failed to disclose evidence [within the legal time period] is not evidence that the defendant committed a crime.]",
+    "<Consider for multiple defendant cases>",
+    "[You must not consider the fact that an attorney for defendant ______ <insert defendant’s name> failed to disclose evidence when you decide the charges against defendant[s] ______ <insert names of other defendant[s]>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "While the court has discretion to give an instruction on untimely disclosure of evidence (Pen. Code, § 1054.5(b)), the court should not give this instruction unless there is evidence of a prejudicial violation of the discovery statute. (See *People v. Bell* (2004) 118 Cal.App.4th 249, 254–257 [12 Cal.Rptr.3d 808]; *People v. Cabral* (2004) 121 Cal.App.4th 748, 752–753 [17 Cal.Rptr.3d 456]; *People v. Saucedo* (2004) 121 Cal.App.4th 937, 942–943 [17 Cal.Rptr.3d 692].) The court should consider whether giving this instruction could jeopardize the defendant’s right to a fair trial if the jury were to attribute a defense attorney’s malfeasance to the defendant."
+      },
+      {
+        "text": "This instruction addresses a failure to comply with Penal Code requirements. If the court imposes additional sanctions, it may choose to instruct the jury accordingly. (See *People v. Zamora* (1980) 28 Cal.3d 88, 103 [167 Cal.Rptr. 573, 615 P.2d 1361]; *People v. Edwards* (1993) 17 Cal.App.4th 1248, 1265 [22 Cal.Rptr.2d 3].) A court may make any order necessary to enforce the disclosure provisions, including, but not limited to, orders for immediate disclosure, contempt proceedings, delaying or prohibiting the testimony of a witness or the presentation of real evidence, continuance of the matter, or any other lawful order. (Pen. Code, § 1054.5(b).)"
+      },
+      {
+        "text": "If the court concludes that one defendant in a multidefendant case failed to comply with the statute, the last bracketed paragraph should be given."
+      },
+      {
+        "text": "If the court determines that the defendant is personally responsible for discovery abuse, see CALCRIM No. 371, *Consciousness of Guilt: Supression and Fabrication of Evidence*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1054.5(b); *People v. Bell* (2004) 118 Cal.App.4th 249, 254–257 [12 Cal.Rptr.3d 808]; *People v. Cabral* (2004) 121 Cal.App.4th 748, 752–753 [17 Cal.Rptr.3d 456]; *People v. Saucedo* (2004) 121 Cal.App.4th 937, 942–943 [17 Cal.Rptr.3d 692]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

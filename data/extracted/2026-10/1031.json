@@ -1,0 +1,106 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1031",
+  "title": "Sodomy in Concert (Pen. Code, § 286(d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      856,
+      857
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2021, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant[s] [______ <insert name[s] if not all defendants in trial charged with this count>] (is/are) charged [in Count ______] with committing sodomy by acting in concert [with ______ <insert name[s] or description[s] of uncharged participant[s]>] [in violation of Penal Code section 286(d)].",
+    "To prove that a defendant is guilty of this crime, the People must prove that:",
+    "<Alternative A—defendant committed sodomy>",
+    "[1.] [The defendant personally committed sodomy and voluntarily acted with someone else who aided and abetted its commission(;/.)]",
+    "[OR]",
+    "<Alternative B—defendant aided and abetted>",
+    "[(1/2).] [The defendant voluntarily aided and abetted someone else who personally committed sodomy.]",
+    "To decide whether the defendant[s] [or ______ <insert name[s] or description[s] of uncharged participant[s]>] committed sodomy, please refer to the separate instructions that I (will give/have given) you on that crime. To decide whether the defendant[s] [or ______ <insert name[s] or description[s] of uncharged participant[s]>] aided and abetted sodomy, please refer to the separate instructions that I (will give/have given) you on aiding and abetting. You must apply those instructions when you decide whether the People have proved sodomy in concert.",
+    "<MAKE CERTAIN THAT ALL APPROPRIATE INSTRUCTIONS ON SODOMY AND AIDING AND ABETTING ARE GIVEN.>",
+    "[To prove the crime of sodomy in concert, the People do not have to prove a prearranged plan or scheme to commit sodomy.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime. (*People v. Ramirez* (1987) 189 Cal.App.3d 603, 621 [236 Cal.Rptr. 404] [rape in concert is a separate crime, not an enhancement].) The court also has a sua sponte duty to instruct on sodomy. Give one or more of the following instructions defining sodomy: CALCRIM No. 1030 or CALCRIM Nos. 1032–1037."
+      },
+      {
+        "text": "Select alternative A or B, or both, depending on whether the defendant personally committed the crime or aided and abetted someone else."
+      },
+      {
+        "text": "Depending on the evidence, give the final bracketed paragraph on request regarding the lack of a prearranged plan. (See *People v. Calimee* (1975) 49 Cal.App.3d 337, 341–342 [122 Cal.Rptr. 658].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "See CALCRIM No. 400, *Aiding and Abetting: General Principles*, and CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*."
+      },
+      {
+        "text": "CALCRIM No. 3185, *Sex Offenses: Sentencing Factor—Using Force or Fear Against Minor Under 14 Years/14 Years or Older*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 286(d)."
+      },
+      {
+        "text": "• Aiding and Abetting. *People v. Adams* (1993) 19 Cal.App.4th 412, 429, 444–446 [23 Cal.Rptr.2d 512]; *People v. Caldwell* (1984) 153 Cal.App.3d 947, 951–952 [200 Cal.Rptr. 508]; *People v. Calimee* (1975) 49 Cal.App.3d 337, 341–342 [122 Cal.Rptr. 658]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Assault With Intent to Commit Sodomy. Pen. Code, § 220; see *In re Jose M*. (1994) 21 Cal.App.4th 1470, 1477 [27 Cal.Rptr.2d 55] [in context of rape]; *People v. Moran* (1973) 33 Cal.App.3d 724, 730 [109 Cal.Rptr. 287] [where forcible crime is charged]."
+      },
+      {
+        "text": "• Attempted Sodomy. Pen. Code, §§ 664, 286."
+      },
+      {
+        "text": "• Attempted Sodomy in Concert. Pen. Code, §§ 663, 286(d)."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "• Sodomy. Pen. Code, §§ 663, 286."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1030, *Sodomy by Force, Fear, or Threats*, and CALCRIM No. 1001, *Rape in Concert*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

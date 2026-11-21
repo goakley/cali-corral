@@ -1,0 +1,107 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3231",
+  "title": "Aggravating Factor: Great Monetary Value",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2318,
+      2320
+    ]
+  },
+  "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "<Introductory paragraph for nonbifurcated trial>",
+    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the crime[s][ in Count[s] ______] involved [(a/an)] [attempted] [or] [actual] (taking/[or] damage) of great monetary value.]",
+    "<Introductory paragraph for bifurcated trial>",
+    "[The People have alleged that the crime[s][ in Count[s] ______] involved[ (a/an)][ attempted][ or][ actual] (taking/[or] damage) of great monetary value.]",
+    "To prove this allegation, the People must prove that:",
+    "1. During the commission of the crime[s], the defendant (attempted to take/[or ]actually took/damaged) ______ <insert description of item>;",
+    "AND",
+    "2. The monetary value of the ______ <insert description of item or damage to item> was great.",
+    "[In determining whether the *monetary value* was *great*, you may consider all evidence presented on the issue of value.]",
+    "You may not find the allegation true unless all of you agree that the People have proved that the (item/damage) that the defendant (attempted to take/took /[or] caused) was of great monetary value. However, all of you do not need to agree on a specific monetary value.",
+    "You may not find the allegation true unless all of you agree that the People have proved that the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime.",
+    "[You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction is provided for the court to use for an aggravating factor as stated in California Rules of Court, rule 4.421. (See Pen. Code, §§ 1170, 1170.1; see also *People v. Wiley* (2025) 17 Cal.5th 1069, 1086 [333 Cal.Rptr.3d 635, 570 P.3d 436]; *Cunningham v. California* (2007) 549 U.S. 270 [127 S.Ct. 856, 166 L.Ed.2d 856].)"
+      },
+      {
+        "text": "Do not give an aggravating factor that is an element of the convicted offense. (Pen. Code, § 1170(b)(5).)"
+      },
+      {
+        "text": "The court should specify which crimes the aggravating factor pertains to if it applies to one or more specific counts."
+      },
+      {
+        "text": "The court must bifurcate the jury’s determination of the aggravating factors on the defendant’s request “[e]xcept where evidence supporting an aggravating circumstance is admissible to prove or defend against the charged offense or enhancement at trial, or it is otherwise authorized by law.” (Pen. Code, § 1170(b)(2).) For a bifurcated trial, the court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggravating Factor. California Rules of Court, rule 4.421(a)(9)."
+      },
+      {
+        "text": "• “Aggravating Fact” Defined. *People v. Hicks* (2017) 17 Cal.App.5th 496, 512 [225 Cal.Rptr.3d 682]; *People v. Zamarron* (1994) 30 Cal.App.4th 865, 872 [36 Cal.Rptr.2d 17]; *People v. Moreno* (1982) 128 Cal.App.3d 103, 110 [179 Cal.Rptr. 879] [“The essence of ‘aggravation’ relates to the effect of a particular fact in making the offense distinctively worse than the ordinary”]."
+      },
+      {
+        "text": "• Unanimity Not Required Regarding Facts Underlying the Aggravating Factor. *People v. McDaniel* (2021) 12 Cal.5th 97, 142–148 [283 Cal.Rptr.3d 32, 493 P.3d 815]."
+      },
+      {
+        "text": "• Great Monetary Value. *People v. Wright* (1982) 30 Cal.3d 705, 707 & 714 [180 Cal.Rptr. 196, 639 P.2d 267] [losses of $2,300 and $3,250 qualified]; *People v. Berry* (1981) 117 Cal.App.3d 184, 197 [172 Cal.Rptr. 756] [damage of $450 did not qualify]; *People v. Bejarano* (1981) 114 Cal.App.3d 693, 705–706 [173 Cal.Rptr. 71] [loss of rifle, shotgun, and television did not qualify]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Distinctively Worse Than the Ordinary"
+      },
+      {
+        "text": "The committee is aware of *Johnson v. United States* (2015) 576 U.S. 591, 597–598 [135 S.Ct. 2551, 192 L.Ed.2d 569], in which the United States Supreme Court held that determining what constitutes an “ordinary” violation of a criminal statute may create a constitutional vagueness problem. Nevertheless, in light of California case law that has never been disapproved (see, e.g., *People v. Moreno, supra,* 128 Cal.App.3d at p. 110), the committee has elected to include in the instruction the state law requirement that an aggravating factor may not be found to be true unless the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime."
+      },
+      {
+        "text": "One court has held that the aggravating factor scheme under California Rules of Court, rule 4.421 does not present the same problem as *Johnson* because comparing the defendant’s conduct with other ways in which the same offense has been or may be committed “does not require the decisionmaker to define a single, imaginary fact pattern as the ‘ordinary’ way of committing the offense” and thus does not raise a constitutional concern. (See *Chavez Zepeda v. Superior Court* (2023) 97 Cal.App.5th 65, 88–90 [315 Cal.Rptr.3d 202].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Prohibition Against Dual Use of Facts at Sentencing"
+      },
+      {
+        "text": "The jury may find true multiple aggravating factors based on the same underlying fact. However, at sentencing, a single underlying fact may not support more than one aggravating factor. (*People v. Fernandez* (1990) 226 Cal.App.3d 669, 680 [276 Cal.Rptr. 631].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

@@ -1,0 +1,73 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2685",
+  "title": "Participating in an Unlawful Assembly (Pen. Code, §§ 407, 408)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1945,
+      1946
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with participating in an unlawful assembly [in violation of Penal Code section 408].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully participated in an unlawful assembly;",
+    "AND",
+    "2. The defendant knew that the assembly was unlawful when (he/she) participated.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "An *unlawful* assembly occurs when two or more people assemble together (to commit a crime/[or] to do a lawful act in a violent manner).",
+    "[When two or more people assemble to do a lawful act in a violent manner, the assembly is not *unlawful* unless violence actually occurs or there is a clear and present danger that violence will occur immediately.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Penal Code section 407 defines an “unlawful assembly” as two or more people assembled together “to do an unlawful act, or do a lawful act in a violent, boisterous, or tumultuous manner.” The Supreme Court has held that “the proscriptions of sections 407 and 408 on assemblies to do a lawful act must be limited to assemblies which are violent or which pose a clear and present danger of imminent violence.” (*In re Brown* (1973) 9 Cal.3d 612, 623 [108 Cal.Rptr. 465, 510 P.2d 1017]; see *Collins v. Jordan* (9th Cir. 1996) 110 F.3d 1363, 1371.) Because the assembly must in fact be violent or pose an immediate threat of violence, an assembly that is “boisterous or tumultuous” does not establish a violation of the statute. The committee has therefore eliminated these words from the instruction since they are archaic and potentially confusing."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 407, 408. • Unlawful Assembly Defined. Pen. Code, § 407."
+      },
+      {
+        "text": "• Assembly for Lawful Act Requires Violence or Clear and Present Danger of Violence. *In re Brown* (1973) 9 Cal.3d 612, 623 [108 Cal.Rptr. 465, 510 P.2d 1017]; see *Collins v. Jordan* (9th Cir. 1996) 110 F.3d 1363, 1371."
+      },
+      {
+        "text": "• Specific Intent to Commit Unlawful or Violent Act Not Required. *People v. Kerrick* (1927) 86 Cal.App. 542, 551 [261 P. 756]."
+      },
+      {
+        "text": "• Knowledge That Assembly Unlawful Required. *In re Wagner* (1981) 119 Cal.App.3d 90, 103–104 [173 Cal.Rptr. 766]; *Coverstone v. Davies* (1952) 38 Cal.2d 315, 320 [239 P.2d 876]."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

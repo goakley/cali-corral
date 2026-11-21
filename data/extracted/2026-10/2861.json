@@ -1,0 +1,68 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2861",
+  "title": "Defense: Reliance on Professional Advice",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2079,
+      2080
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant did not voluntarily and intentionally violate a legal duty known to (him/her) if, (in preparing (his/her) (tax return[,]/[or] statement[,]/[or other] document[s] filed with the Franchise Tax Board)/[or] failing to file a tax return), (he/she) relied in good faith on the advice of ______ <insert name of person allegedly relied on>, who represented (himself/herself) to be (a/an) (accountant/attorney/______ <insert other professional>) qualified to provide such advice.",
+    "The defendant did not rely on the advice in good faith if:",
+    "1. The defendant did not give ______ <insert name of person allegedly relied on> all the information about the defendant’s income and expenses for the year(;/.)",
+    "AND",
+    "<Alternative 2A—defendant charged with filing false or inaccurate document>",
+    "[2A. When the defendant submitted the (tax return[,]/[or] statement[,]/[or other] document) to the Franchise Tax Board, (he/she) knew or had reason to believe that the information contained in the document was incorrect or false.]",
+    "[OR]",
+    "<Alternative 2B—defendant charged with failing to file>",
+    "[(2B). When the defendant chose not to file a tax return based on ______’s <insert name of person allegedly relied on> advice, (he/she) knew or had reason to believe that the advice was incorrect or false.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not rely in good faith on the advice of ______ <insert name of person allegedly relied on>. If the People have not met this burden, you must find the defendant not guilty of the crime[s] charged [in Count[s] ______] [or the lesser offense[s] of ______ <insert description of lesser offense[s]>]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The defendant may assert as a defense good faith reliance on the advice of a professional. (*United States v. Segal* (8th Cir. 1988) 867 F.2d 1173, 1179; *United States v. Mitchell* (4th Cir. 1974) 495 F.2d 285, 287–288; see Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.25.) “[T]he defendant must show he actually relied on expert advice and that his reliance was in good faith.” (*United States v. Segal, supra,* 867 F.2d at p. 1179.) Further, this defense is not available if the defendant failed to provide the professional with all of the relevant information or knew that the document was false or inaccurate when submitted. (*United States v. Claiborne* (9th Cir. 1985) 765 F.2d 784, 798; see also *United States v. Segal, supra,* 867 F.2d at p. 1179 [defendant, charged with failing to file tax return, knew advice was inaccurate].) If there is sufficient evidence to raise a reasonable doubt that the defendant relied on professional advice, the court has a sua sponte duty to give this instruction."
+      },
+      {
+        "text": "Give alternative A if the defendant is charged with filing a false tax return or document. Give alternative B if the defendant is charged with failing to file a tax return. The court may give both alternatives if appropriate based on the evidence."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Reliance on Advice Defense. *United States v. Mitchell* (4th Cir. 1974) 495 F.2d 285, 287–288; *United States v. Platt* (2d Cir. 1970) 435 F.2d 789, 792–793; *Bursten v. United States* (5th Cir. 1968) 395 F.2d 976, 981; *United States v. Duncan* (6th Cir. 1988) 850 F.2d 1104, 1117, disapproved on other grounds by Schad v. Arizona (1991) 501 U.S. 624, 634–635 [111 S.Ct. 2491, 115 L.Ed.2d 555]; *United States v. Phillips* (7th Cir. 1954) 217 F.2d 435, 440; *United States v. Claiborne* (9th Cir. 1985) 765 F.2d 784, 798; see also Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.25."
+      },
+      {
+        "text": "• Reliance Must Be Actual and in Good Faith. *United States v. Segal* (8th Cir. 1988) 867 F.2d 1173, 1179; *United States v. Duncan* (6th Cir. 1988) 850 F.2d 1104, 1116."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 68
+  },
+  "warnings": []
+}

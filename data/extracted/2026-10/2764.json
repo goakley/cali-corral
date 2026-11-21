@@ -1,0 +1,58 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2764",
+  "title": "Escape: Necessity Defense",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2027,
+      2028
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that the defendant (escaped/[or] attempted to escape), that conduct was not illegal if the defendant can prove the defense of necessity. In order to establish this defense, the defendant must prove that:",
+    "1. The defendant was faced with a specific threat of (death[,]/[or] forcible sexual attack[,]/[or] substantial bodily injury) in the immediate future;",
+    "2. (There was no time for the defendant to make a complaint to the authorities/[or] (There/there) was a history of complaints that were not acted on, so that a reasonable person would conclude that any additional complaints would be ineffective);",
+    "3. There was no time or opportunity to seek help from the courts;",
+    "4. The defendant did not use force or violence against prison personnel or other people in the escape [other than the person who was the source of the threatened harm to the defendant];",
+    "AND",
+    "5. The defendant immediately reported to the proper authorities when (he/she) had attained a position of safety from the immediate threat.",
+    "The defendant has the burden of proving this defense by a preponderance of the evidence. This is a different standard of proof from proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that each of the five listed items is true."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the defense of necessity if there is sufficient evidence to raise a reasonable doubt. (*People v. Condley* (1977) 69 Cal.App.3d 999, 1008–1013 [138 Cal.Rptr. 515]; *People v. Lovercamp* (1974) 43 Cal.App.3d 823, 831–832 [118 Cal.Rptr. 110].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Escape—Necessity Defense. *People v. Condley* (1977) 69 Cal.App.3d 999, 1008–1013 [138 Cal.Rptr. 515]; *People v. Lovercamp* (1974) 43 Cal.App.3d 823, 831–832 [118 Cal.Rptr. 110]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

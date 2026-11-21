@@ -1,0 +1,119 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1807",
+  "title": "Theft From Elder or Dependent Adult (Pen. Code, § 368(d), (e))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1270,
+      1272
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, February 2013, October 2021, March 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with theft of property from (an elder/a dependent adult) [in violation of Penal Code section 368].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed (theft[,]/embezzlement[,]/forgery[,]/fraud[,]/[or] identity theft);",
+    "2. The (property taken/[or] personal identifying information used) was (owned by/that of) (an elder/a dependent adult);",
+    "<Do not give element 3 in misdemeanor cases where the value is $950 or less.>",
+    "3. [The property, goods, or services obtained was worth more than $950;]",
+    "AND",
+    "<Alternative 4A—defendant not caretaker>",
+    "[4. The defendant knew or reasonably should have known that the (owner of the property/person to whom the identifying information belonged) was (an elder/a dependent adult).]",
+    "[OR]",
+    "<Alternative 4B—defendant caretaker>",
+    "[4. The defendant was a caretaker of the (elder/dependent adult).]",
+    "To decide whether the defendant committed (theft[,]/embezzlement[,]/forgery[,]/fraud[,]/[or] identity theft), please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].",
+    "[An *elder* is someone who is at least 65 years old.]",
+    "[A *dependent adult* is someone who is between 18 and 64 years old and has physical or mental limitations that restrict his or her ability to carry out normal activities or to protect his or her rights.] [This definition includes an adult who has physical or developmental disabilities or whose physical or mental abilities have decreased because of age.] [A *dependent adult* is also someone between 18 and 64 years old who is an inpatient in a [psychiatric] health facility [or chemical dependency recovery hospital/or ______ <insert relevant type of health facility from Health & Saf. Code, § 1250>] that provides 24-hour inpatient care.]",
+    "[A *caretaker* is someone who has the care, custody, or control of (a/an) (elder/dependent adult), or is someone who stands in a position of trust with (a/an) (elder/dependent adult).]",
+    "[*Property* includes money, labor, or real or personal property.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime. The court also has a sua sponte duty to instruct on the elements of the underlying theft offense."
+      },
+      {
+        "text": "If the defendant is charged with taking property valued at more than $950 (see Pen. Code, § 368(d), (e)), give element 3."
+      },
+      {
+        "text": "If the person charged is not alleged to be a caretaker (see Pen. Code, § 368(i)), give alternative 4A. If the person charged stipulated to be a caretaker, give alternative 4B. If it is in dispute whether the person charged is a caretaker, give both alternatives 4A and 4B and the bracketed paragraph defining caretaker."
+      },
+      {
+        "text": "Give the bracketed definition of “elder” or “dependent adult” (see Pen. Code, § 368(g), (h)) on request depending on the evidence in the case. Give the second and/or third bracketed sentences of the definition of “dependent adult” if a further definition is requested."
+      },
+      {
+        "text": "The definition of “property” may be given on request. (See Pen. Code, § 368(d), (e).)"
+      },
+      {
+        "text": "Give the final bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 368(d), (e)."
+      },
+      {
+        "text": "• “Caretaker” Defined. Pen. Code, § 368(i)."
+      },
+      {
+        "text": "• “Dependent Adult” Defined. Pen. Code, § 368(h)."
+      },
+      {
+        "text": "• “Elder” Defined. Pen. Code, § 368(g)."
+      },
+      {
+        "text": "• 24-Hour Health Facility. Health & Saf. Code, §§ 1250, 1250.2, 1250.3."
+      },
+      {
+        "text": "• Felony Value Threshold Applies to Identity Theft. *People v. Baratang* (2020) 56 Cal.App.5th 252, 260–263 [270 Cal.Rptr.3d 280]."
+      },
+      {
+        "text": "• Noncaretaker Status Not an Element of Pen. Code, § 368(d). *People v. Marquez* (2023) 89 Cal.App.5th 1212, 1221–1222 [306 Cal.Rptr.3d 664]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Theft From Elder or Dependent Adult. Pen. Code, §§ 664, 368(d), (e)."
+      },
+      {
+        "text": "• Theft. Pen. Code, § 484."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

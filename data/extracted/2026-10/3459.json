@@ -1,0 +1,107 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3459",
+  "title": "Commitment of Person With Developmental Disability As Dangerous to Self or Others (Welf. & Inst. Code, § 6500)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2425,
+      2429
+    ]
+  },
+  "revision_line": "New February 2026",
+  "revision_legend": null,
+  "body": [
+    "The petition alleges that ______ <insert name of respondent> is a person with a developmental disability who is dangerous to (him/her) self or others.",
+    "To prove this allegation, the People must prove beyond a reasonable doubt that at the time of the hearing:",
+    "1. ______ <insert name of respondent> has a developmental disability;",
+    "2. ______ <insert name of respondent> is dangerous to (him/her) self or others;",
+    "AND",
+    "3. ______ <insert name of respondent>’s developmental disability is a substantial factor causing (him/her) to have serious difficulty controlling dangerous behavior.",
+    "A *developmental disability* is a disability that 1) originates before the person’s 18th birthday; 2) continues, or can be expected to continue, indefinitely; and 3) is a substantial impairment for the person.",
+    "[A *developmental disability* includes (intellectual disability/[,] cerebral palsy/[,] epilepsy/[,] [and] autism).] [A developmental disability [also] includes disabling conditions that are closely related to intellectual disability or that require similar treatment for individuals with an intellectual disability.]",
+    "[A *developmental disability* does not include other disabling conditions that are solely physical in nature.]",
+    "[*Dangerous to self or others* includes a finding of incompetence to stand trial when the person has been charged with ______ <insert felony offense(s) listed in Welf. & Inst. Code, § 6500(a)(1), including any applicable descriptive factor(s)>.]",
+    "[*Dangerous to self or others* requires proof of current dangerousness and cannot be based solely on the charges filed against the person and the person’s incompetence to stand trial.]",
+    "[*Dangerous to self or others* does not require proof of a recent overt act while in the care and treatment of a state hospital, developmental facility, or other facility.]",
+    "You will receive [a] verdict form[s] on which to indicate your finding of whether the allegation that ______ <insert name of respondent> is a person with a developmental disability who is dangerous to (him/her) self or others is true or not true. To find the allegation true or not true, all of you must agree. You may not find the allegation to be true unless all of you agree the People have proved it beyond a reasonable doubt."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury about the basis for a finding that a respondent with a developmental disability is a danger to self or others."
+      },
+      {
+        "text": "The court also must give CALCRIM No. 219, *Reasonable Doubt in Civil Commitment Proceedings*, CALCRIM No. 222, *Evidence*, CALCRIM No. 226, *Witnesses*, CALCRIM No. 3550, *Pre-Deliberation Instructions*, and any other relevant posttrial instructions. These instructions may need to be modified."
+      },
+      {
+        "text": "An extended commitment petition requires the same jury findings as an initial commitment. (Welf. & Inst. Code, § 6500(c)(1).)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Welf. & Inst. Code, § 6500(b)(1); *People v. Nolasco* (2021) 67 Cal.App.5th 209, 218 [281 Cal.Rptr.3d 880]."
+      },
+      {
+        "text": "• “Developmental Disability” Defined. Welf. & Inst. Code, §§ 4512(a)(1), 6500(a)(2)."
+      },
+      {
+        "text": "• “Dangerous to Self or Others” Defined. Welf. & Inst. Code, § 6500(a)(1); *People v. G.A.* (2023) 93 Cal.App.5th 1126, 1137 [311 Cal.Rptr.3d 525] [to comport with due process, statutory definition of “dangerousness to self or others” in Welfare and Institutions Code section 6500(a)(1) must be interpreted as requiring proof of current dangerousness]; *In re O.P.* (2012) 207 Cal.App.4th 924, 935 [143 Cal.Rptr.3d 869] [“section 6500 requires a finding of current dangerousness based on evidence beyond the charges filed against a defendant and the defendant’s incompetence to stand trial”]."
+      },
+      {
+        "text": "• State Must Prove Person’s Developmental Disability Is Substantial Factor in Causing Serious Difficulty Controlling Dangerous Behavior. *People v. Sweeney* (2009) 175 Cal.App.4th 210, 222–225 [95 Cal.Rptr.3d 557]."
+      },
+      {
+        "text": "• Counsel Controls Respondent’s Decision Whether to Demand or Waive Jury Trial. *People v. Barrett* (2012) 54 Cal.4th 1081, 1096–1097, 1105 [144 Cal.Rptr.3d 661, 281 P.3d 753]."
+      },
+      {
+        "text": "• Unanimous Verdict, Burden of Proof. *Money v. Krall* (1982) 128 Cal.App.3d 378, 398 [180 Cal.Rptr. 376] [persons coming within operation of Welfare and Institutions Code section 6500 are entitled to proof beyond a reasonable doubt standard and a unanimous verdict]."
+      },
+      {
+        "text": "• Proof of Recent Overt Act Not Required if Under Care in a Treatment Facility. Welf. & Inst. Code, § 6500(b)(3)."
+      },
+      {
+        "text": "• Petition for Recommitment Follows Same Procedures as Initial Petition for Commitment. Welf. & Inst. Code, § 6500(c)(1)."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Definition of Dangerousness to Self"
+      },
+      {
+        "text": "What constitutes “dangerousness to self” under Welfare and Institutions Code section 6500 is unsettled, and at least one Court of Appeal has noted “conflicting indicia of legislative intent” on proper interpretation of the term. (See *People v. G.A., supra*, 93 Cal.App.5th at pp. 1139–1142 [declining to interpret meaning of “dangerousness to self” in moot case due to the “lack of adequate briefing and the seriousness of the civil liberty and safety interests at stake”].) The Court of Appeal in *People v. G.A.* contemplated, though did not decide, whether Welfare and Institutions Code section 6500 “should be construed as largely precluding the consideration of the symptoms or behaviors constituting a ‘[d]evelopmental disability’ and a ‘[s]ubstantial disability’ ([Welf. & Inst. Code,] § 4512, subds. (a)(1), (l)(1)) as evidence establishing a person’s dangerousness to self” and whether dangerousness to self may be established by showing the person is unable to provide safely for his or her basic personal needs for food, shelter, or clothing. (See *People v. G.A., supra*, 93 Cal.App.5th at pp. 1139–1142, some internal quotation marks omitted.)"
+      },
+      {
+        "text": "3460–3469. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

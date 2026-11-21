@@ -1,0 +1,91 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2736",
+  "title": "Inciting a Riot in a Prison or Jail (Pen. Code, § 404.6(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1988,
+      1989
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with inciting a riot [in a (state prison/county jail)] [in violation of Penal Code section 404.6(c)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (did an act [or engaged in conduct] that encouraged a riot[,]/[or] urged others to commit acts of force or violence[,]/[or] urged others to (burn/[or] destroy) property);",
+    "2. The defendant acted at a time and place and under circumstances that produced a clear, present, and immediate danger that (acts of force or violence would happen/[or] property would be (burned/[or] destroyed));",
+    "3. When the defendant acted, (he/she) intended to cause a riot;",
+    "4. As a result of the defendant’s action [or conduct], a riot occurred [in a (state prison/county jail)];",
+    "AND",
+    "5. The riot resulted in serious bodily injury to someone.",
+    "A *riot* occurs when two or more people, acting together and without legal authority, disturb the public peace by using force or violence or by threatening to use force or violence with the immediate ability to carry out those threats. [A disturbance of the public peace may happen in any place of confinement, including a (state prison/[or] county jail).]",
+    "A *serious bodily injury* means a serious impairment of physical condition. Such an injury may include[, but is not limited to]: (loss of consciousness/concussion/bone fracture/protracted loss or impairment of function of any bodily member or organ/a wound requiring extensive suturing/[and] serious disfigurement).",
+    "[To *commit acts of force or violence* means to wrongfully [and unlawfully] apply physical force to the property or person of another.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The defendant may admit to the fact that the incident occurred in a state prison or county jail. (Pen. Code, § 404.6(d).) If the defendant makes such an admission, the court should delete all bracketed references to state prison or county jail. If the defendant does not make such an admission, the court should give the bracketed portions referring to state prison or county jail."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 404.6(c)."
+      },
+      {
+        "text": "• Riot Defined. Pen. Code, § 404."
+      },
+      {
+        "text": "• Serious Bodily Injury Defined. Pen. Code, § 243(f)(4); *People v. Taylor* (2004) 118 Cal.App.4th 11, 25, fn. 4 [12 Cal.Rptr.3d 693]."
+      },
+      {
+        "text": "• Force or Violence Defined. See *People v. Lozano* (1987) 192 Cal.App.3d 618, 627 [237 Cal.Rptr. 612]; *People v. Bravott* (1986) 183 Cal.App.3d 93, 97 [227 Cal.Rptr. 810]."
+      },
+      {
+        "text": "• Statute Constitutional. *People v. Davis* (1968) 68 Cal.2d 481, 484–487 [67 Cal.Rptr. 547, 439 P.2d 651]."
+      },
+      {
+        "text": "• Terms of Statute Understandable. *People v. Jones* (1971) 19 Cal.App.3d 437, 447 [96 Cal.Rptr. 795]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Defendant Must Urge Others"
+      },
+      {
+        "text": "To be guilty of inciting a riot, the defendant must urge others to commit acts of force or property destruction. (*People v. Boyd* (1985) 38 Cal.3d 762, 778 [215 Cal.Rptr. 1, 700 P.2d 782]; *In re Wagner* (1981) 119 Cal.App.3d 90, 106 [173 Cal.Rptr. 766].) Thus, in *In re Wagner, supra*, 119 Cal.App.3d at p. 106, the court held that the evidence was insufficient to establish incitement to riot where the defendant was observed throwing rocks at the police. *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

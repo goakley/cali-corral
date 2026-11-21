@@ -1,0 +1,70 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3185",
+  "title": "Sex Offenses: Sentencing Factors—Using Force or Fear Against Minor Under 14 Years/14 Years or Older (Pen. Code, §§ 264.1(b), 286(c)(2)(B) & (C), 286(d)(2) & (3), 287(c)(2)(B) & (C), 287(d)(2) & (3), 289(a)(1)(B) & (C))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2275,
+      2277
+    ]
+  },
+  "revision_line": "New October 2021",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______[,] [or of attempting to commit (that/those) crime[s]], you must then decide whether[, for each crime,] the People have proved the additional allegation that when the defendant committed (that/those) crime[s], the defendant used",
+    "<Violations of Pen. Code §§ 286(c)(2)(B) & (C), 287(c)(2)(B) & (C), 289(a)(1)(B) & (C)>",
+    "[(force[,]/[or] violence[,]/[or] duress[,]/[or] menace[,]/[or] fear of immediate and unlawful bodily injury [to another person]) on]",
+    "<Violations of Pen. Code § 264.1(b)>",
+    "[(force/[or] violence) and against the will of]",
+    "<Violations of Pen. Code §§ 286(d)(2) & (3) and 287(d)(2) & (3)>",
+    "[(force/[or] fear of immediate and unlawful bodily injury [to another person]) on]",
+    "a minor who was (under the age of 14 years/14 years of age or older).",
+    "[A *minor* is a person under the age of 18.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction on the sentencing factor. (See *Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements and Definitions. Pen. Code, §§ 264.1(b), 286(c)–(d), 287(c)–(d), 289(a)(1)."
+      },
+      {
+        "text": "• Calculating Age. Fam. Code, § 6500; *People v. Cornett* (2012) 53 Cal.4th 1261, 1264, 1275 [139 Cal.Rptr.3d 837, 274 P.3d 456] [“10 years of age or younger” means “under 11 years of age”]; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391]."
+      },
+      {
+        "text": "3186–3199. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

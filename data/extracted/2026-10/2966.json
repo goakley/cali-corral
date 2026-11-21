@@ -1,0 +1,79 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2966",
+  "title": "Disorderly Conduct: Under the Influence in Public (Pen. Code, § 647(f))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2130,
+      2131
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2019",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with being under the influence of (alcohol/[and/or] a drug) in public [in violation of Penal Code section 647(f)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was willfully under the influence of (alcohol[,]/[and/or] a drug[,]/[and/or] a controlled substance[,]/[and/or] toluene);",
+    "2. When the defendant was under the influence, (he/she) was in a public place;",
+    "AND",
+    "<Alternative 3A—unable to care for self>",
+    "[3. The defendant was unable to exercise care for (his/her) own safety [or the safety of others].]",
+    "<Alternative 3B—obstructed public way>",
+    "[3. Because the defendant was under the influence, (he/she) interfered with, obstructed, or prevented the free use of a street, sidewalk, or other public way.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "As used here, a *public place* is a place that is open and accessible to anyone who wishes to go there."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 647(f)."
+      },
+      {
+        "text": "• Public Place Defined. *In re Zorn* (1963) 59 Cal.2d 650, 652 [30 Cal.Rptr. 811, 381 P.2d 635]; *People v. Strider* (2009) 177 Cal.App.4th 1393, 1401 [100 Cal.Rptr. 3d 66]."
+      },
+      {
+        "text": "• Statute Constitutional. *Sundance v. Municipal Court* (1986) 42 Cal.3d 1101, 1119–1121 [232 Cal.Rptr. 814, 729 P.2d 80]; *In re Joseph G.* (1970) 7 Cal.App.3d 695, 703–704 [87 Cal.Rptr. 25]; *In re Spinks* (1967) 253 Cal.App.2d 748, 752 [61 Cal.Rptr. 743]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Defendant in Parked Car"
+      },
+      {
+        "text": "In *People v. Belanger* (1966) 243 Cal.App.2d 654, 657 [52 Cal.Rptr. 660], the court held that the defendant was in a public place when he was found sitting in a parked car on a public street."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,41 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "205",
+  "title": "Charge Removed From Jury Consideration",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      112,
+      112
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "Count[s] ______ charging the defendant with ______ <insert name[s] of offense[s]> no longer need[s] to be decided in this case.",
+    "Do not speculate about or consider in any way why you no longer need to decide (this/these) count[s]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court may give this instruction if one or more of the original counts has been removed from the case, whether through plea or dismissal."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2997",
+  "title": "Money Laundering (Pen. Code, § 186.10)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2163,
+      2165
+    ]
+  },
+  "revision_line": "New August 2009; Revised April 2010",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with money laundering [in violation of Penal Code section 186.10].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (conducted/[or] attempted to conduct) one or more financial transactions involving at least one monetary instrument through at least one financial institution;",
+    "1. <Give 2A when only one transaction is alleged.>",
+    "[2A. The financial transaction involved [a] monetary instrument[s] with a total value of more than $5,000;]",
+    "[2A. <Give 2B and/or 2C as appropriate when multiple transactions are alleged.>",
+    "[2B. The defendant (conducted/[or] attempted to conduct) the financial transactions within a seven-day period and the monetary instrument[s] involved had a total value of more than $5,000;]",
+    "[OR]",
+    "[2C. The defendant (conducted/[or] attempted to conduct) the financial transactions within a 30-day period and the monetary instrument[s] involved had a total value of more than $25,000;]",
+    "[AND]",
+    "[2C. <Give 3A, 3B, or both, as appropriate.>",
+    "[3A. When the defendant did so, (he/she) intended to (promote/[or] manage/[or] establish/[or] carry on/[or] facilitate) criminal activity;]",
+    "[OR]",
+    "[3B. The defendant knew that the monetary instrument[s] represented the proceeds of criminal activity or (was/were) derived directly or indirectly from the proceeds of criminal activity(;/.)]",
+    "[AND]",
+    "[3B. <Give element 4 as appropriate if the defendant is an attorney.>",
+    "[4. The attorney defendant accepted a fee for representing a client in a criminal investigation or proceeding and accepted the monetary instrument with the intent to disguise or aid in disguising the source of the funds or the nature of the criminal activity.]",
+    "*Conducting* includes, but is not limited to, initiating, participating in, or concluding a transaction.",
+    "*Financial institution* means (any national bank or banking institution/______ <insert appropriate entity from Pen. Code, § 186.9(b)>) located or doing business in the state of California.",
+    "A *transaction* includes the (deposit/[or] withdrawal/[or] transfer/[or] bailment/[or] loan/[or] pledge/[or] payment/[or] exchange) of (currency/[or] a monetary instrument/[or] the electronic, wire, magnetic, or manual transfer) of funds between accounts by, through, or to, a financial institution.",
+    "A *monetary instrument* means (money of the United States of America/[or] ______ <insert appropriate item from Pen. Code, § 186.9(d)>.*",
+    "*Criminal activity* means (a criminal offense punishable under the laws of the state of California by [death or] imprisonment in the state prison/[or] a criminal offense committed in another jurisdiction, which, under the laws of that jurisdiction is punishable by death or imprisonment for a term exceeding one year).",
+    "[*Foreign bank draft* means a bank draft or check issued or made out by a foreign (bank/[or] savings and loan/[or] casa de cambio/[or] credit union/[or] currency dealer or exchanger/[or] check cashing business/[or] money transmitter/[or] insurance company/[or] investment or private bank) [or any other foreign financial institution that provides similar financial services,] on an account in the name of the foreign bank or foreign financial institution held at a bank or other financial institution located in the United States or a territory of the United States.]",
+    "<Give the following paragraph if a sentence enhancement is alleged pursuant to Pen. Code, § 186.10(c).>",
+    "[If you find the defendant guilty of this crime, you must then determine whether the [total] value of the [attempted] transaction[s] was more than ______ <insert alleged minimum value> but less than ______ <insert alleged top limit>. The People have the burden of proving this additional allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    6.3,
+    6.3,
+    7.0,
+    16.0,
+    6.3,
+    16.0,
+    6.3,
+    6.3,
+    16.0,
+    7.0,
+    16.0,
+    7.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the definition of proceeds is an issue, see *United States v. Santos* (2008) 553 U.S. 507 [128 S.Ct. 2020, 2022, 170 L.Ed.2d 912], holding that “proceeds” in the federal money laundering statute means “profits” in the context of an illegal gambling scheme."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 186.10; *People v. Mays* (2007) 148 Cal.App.4th 13, 29 [55 Cal.Rptr.3d 356]."
+      },
+      {
+        "text": "• Definitions. Pen. Code, § 186.9."
+      },
+      {
+        "text": "• Definition of Proceeds. *United States v. Santos* (2008) 553 U.S. 507 [128 S.Ct. 2020, 2022, 170 L.Ed.2d 912]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,144 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2622",
+  "title": "Intimidating a Witness (Pen. Code, § 136.1(a) & (b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1876,
+      1879
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2020, March 2023, February 2025, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with intimidating a witness [in violation of Penal Code section 136.1].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—attending or giving testimony>",
+    "[1. The defendant maliciously (tried to (prevent/[or] discourage)/(prevented/[or] discouraged)) ______ <insert name/description of person defendant allegedly sought to influence> from (attending/[or] giving testimony at) ______ <insert type of judicial proceeding or inquiry authorized by law>;]",
+    "<Alternative 1B—report of victimization>",
+    "[1. The defendant (tried to (prevent/[or] discourage)/(prevented/[or] discouraged)) ______ <insert name/description of person defendant allegedly sought to influence> from making a report that (he/she/someone else) was a victim of a crime to ______ <insert type of official specified in Pen. Code, § 136.1(b)(1)>;]",
+    "<Alternative 1C—causing prosecution>",
+    "[1. [Before the charge[s] (was/were) filed,] (T/t)he defendant (tried to (prevent/[or] discourage)/(prevented/[or] discouraged)) ______ <insert name/description of person defendant allegedly sought to influence> from cooperating or providing information so that a (complaint/indictment/information/probation violation/parole violation) could be sought and prosecuted, and from helping to prosecute that action;]",
+    "<Alternative 1D—causing arrest>",
+    "[1. The defendant (tried to (prevent/[or] discourage)/(prevented/[or] discouraged)) ______ <insert name/description of person defendant allegedly sought to influence> from (arresting[,]/[or] (causing/[or] seeking) the arrest of [,]) someone in connection with a crime;]",
+    "2. ______ <insert name/description of person defendant allegedly sought to influence> was a (witness/[or] crime victim);",
+    "AND",
+    "3. The defendant knew (he/she) was (trying to (prevent/[or] discourage)/(preventing/[or] discouraging)) ______ <insert name/description of person defendant allegedly sought to influence> from ______ <insert appropriate description from element 1> and intended to do so.",
+    "[A person acts *maliciously* when he or she unlawfully intends to annoy, harm, or injure someone else in any way, or intends to interfere in any way with the orderly administration of justice.]",
+    "[As used here, *witness* means someone [or a person the defendant reasonably believed to be someone]:",
+    "<Give the appropriate bracketed paragraph[s].>",
+    "• [Who knows about the existence or nonexistence of facts relating to a crime(;/.)]",
+    "[OR]",
+    "• [Whose declaration under oath has been received as evidence or, but for the defendant’s conduct, would have been received as evidence(;/.)]",
+    "[OR]",
+    "• [Who has reported a crime to a (peace officer[,]/[or] prosecutor[,]/[or] probation or parole officer[,]/[or] correctional officer[,]/[or] judicial officer)(;/.)]",
+    "[OR",
+    "• [Who has been served with a subpoena issued under the authority of any state or federal court.]]",
+    "[A person is a *victim* if there is reason to believe that a federal or state crime is being or has been committed or attempted against him or her.]",
+    "[It is not a defense that the defendant was not successful in preventing or discouraging the (victim/[or] witness).]",
+    "[It is not a defense that no one was actually physically injured or otherwise intimidated.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 1, alternative 1A applies to charges under Penal Code section 136.1(a), which prohibits “knowingly and maliciously” preventing or attempting to prevent a witness or victim from giving testimony. If the court instructs with alternative 1A, the court should also give the bracketed definition of “maliciously.” (See *People v. Serrano* (2022) 77 Cal.App.5th 902, 912–913 [292 Cal.Rptr.3d 865].)"
+      },
+      {
+        "text": "Alternatives 1B through 1D apply to charges under Penal Code section 136.1(b). Because the offense always requires specific intent, the committee has included the knowledge requirement with the specific intent requirement in element 3. (*People v. Ford* (1983) 145 Cal.App.3d 985, 990 [193 Cal.Rptr. 684]; see also *People v. Womack* (1995) 40 Cal.App.4th 926, 929–930 [47 Cal.Rptr.2d 76].)"
+      },
+      {
+        "text": "Give the bracketed language at the beginning of Alternative 1C when there is a factual dispute whether the conduct occurred after the filing of charges."
+      },
+      {
+        "text": "If the defendant is charged with one of the sentencing factors in Penal Code section 136.1(c), give CALCRIM No. 2623, *Intimidating a Witness: Sentencing Factors*. If the defendant is charged with the sentencing factor based on a prior conviction, the court must give both CALCRIM No. 2623 and CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, unless the court has granted a bifurcated trial on the prior conviction or the defendant has stipulated to the conviction."
+      },
+      {
+        "text": "Note that Penal Code section 136.1(a)(3) states, “For purposes of this section, evidence that the defendant was a family member who interceded in an effort to protect the witness or victim shall create a presumption that the act was without malice.” It is unclear whether the court must instruct on this presumption."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 136.1(a) & (b)."
+      },
+      {
+        "text": "• “Malice” Defined. Pen. Code, § 136(1)."
+      },
+      {
+        "text": "• “Witness” Defined. Pen. Code, § 136(2); see also *People v. Copeland* (2025) 109 Cal.App.5th 534, 551 [330 Cal.Rptr.3d 526]."
+      },
+      {
+        "text": "• “Victim” Defined. Pen. Code, § 136(3)."
+      },
+      {
+        "text": "• Specific Intent Required. *People v. Ford, supra,* 145 Cal.App.3d p. 990; see also *People v. Womack, supra,* 40 Cal.App.4th at pp. 929–930."
+      },
+      {
+        "text": "• Malice Not Required for Violations of Penal Code Section 136.1(b). *People v. Brackins* (2019) 37 Cal.App.5th 56, 66–67 [249 Cal.Rptr.3d 261]."
+      },
+      {
+        "text": "• Postcharging Dissuasion Alone Does Not Violate Penal Code Section 136.1(a)(2), (b)(1) & (b)(2). *People v. Reynoza* (2024) 15 Cal.5th 982, 1013 [320 Cal.Rptr.3d 299, 546 P.3d 564] [Pen. Code, § 136.1(b)(2)]; *People v. Morones* (2023) 95 Cal.App.5th 721, 738 [313 Cal.Rptr.3d 688] [Pen. Code, § 136.1(a)(2), (b)(1)]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "A violation of Penal Code section 136.1(a) or (b) is a felony-misdemeanor, punishable by a maximum of three years in state prison. If the defendant is also charged with one of the sentencing factors in Penal Code section 136.1(c), then the offense is a felony punishable by two, three, or four years. If the defendant is charged under Penal Code section 131.6(c), then the offenses under subdivisions (a) and (b) are lesser included offenses. The court must provide the jury with a verdict form on which the jury will indicate if the prosecution has proved the sentencing factor alleged. If the jury finds that this allegation has not been proved, then the offense should be set at the level of the lesser offense."
+      },
+      {
+        "text": "The misdemeanor offense of knowingly inducing a false statement to a law enforcement official in violation of Penal Code section 137(c) is not a lesser included offense of Penal Code section 137(b) because the latter offense lacks the element that the defendant must actually cause a false statement to be made. (*People v. Miles* (1996) 43 Cal.App.4th 575, 580 [51 Cal.Rptr.2d 52].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Penal Code Sections 137(b), 136.1, and 138"
+      },
+      {
+        "text": "Because one cannot “influence” the testimony of a witness if the witness does not testify, a conviction under Penal Code section 137(b) is inconsistent with a conviction under Penal Code section 136.1 or 138, which requires that a defendant prevent, rather than influence, testimony. (*People v. Womack, supra,* 40 Cal.App.4th at p. 931.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

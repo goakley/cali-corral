@@ -1,0 +1,105 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "722",
+  "title": "Special Circumstances: By Means of Destructive Device (Pen. Code, § 190.2(a)(4) & (6))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      524,
+      526
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder by use of (a/an) (bomb[,]/[or] explosive[,]/[or] destructive device) [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The murder was committed by using (a/an) (bomb[,]/[or] explosive[,]/[or] destructive device);",
+    "<Alternative 2A—device planted, Pen. Code, § 190.2(a)(4)>",
+    "[2. The (bomb[,]/[or] explosive[,]/[or] destructive device) was planted, hidden, or concealed in (a/an) (place[,]/[or] area[,]/[or] dwelling[,]/[or] building[,]/[or] structure);]",
+    "<Alternative 2B—device mailed or delivered, Pen. Code, § 190.2(a)(6)>",
+    "[2. The defendant (mailed or delivered[,]/[or] attempted to mail or deliver[,]/[or] caused to be mailed or delivered) the (bomb[,]/[or] explosive[,]/[or] destructive device);]",
+    "AND",
+    "3. The defendant knew, or reasonably should have known, that (his/her) actions would create a great risk of death to one or more human beings.",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) that is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is also any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type of explosive from Health & Saf. Code, § 12000> is an explosive.]",
+    "[A *destructive device* is ______ <insert definition supported by evidence from Pen. Code, § 16460>.]",
+    "[______ <insert type of destructive device from Pen. Code, § 16460> is a destructive device.]",
+    "[For the purpose of this special circumstance, *delivery* of (a/an) (bomb[,]/[or] explosive[,]/[or] destructive device) includes throwing it.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "Intent to kill is not required for the actual killer but is required for an accomplice. If the evidence raises the issue of accomplice liability, the court has a sua sponte duty to instruct on that issue. (See *People v. Jones* (2003) 30 Cal.4th 1084, 1117 [135 Cal.Rptr.2d 370, 70 P.3d 359].) Give CALCRIM No. 702, *Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Other Than Felony Murder*. If the homicide occurred prior to June 5, 1990, give CALCRIM No. 701, *Special Circumstances: Intent Requirement for Accomplice Before June 6, 1990*."
+      },
+      {
+        "text": "In element 2, give alternative 2A, stating that the device was “planted,” if the defendant is charged with the special circumstance under Penal Code section 190.2(a)(4). Give alternative 2B, stating that the device was “mailed or delivered,” if the defendant is charged with the special circumstance under Penal Code section 190.2(a)(6)."
+      },
+      {
+        "text": "Give the bracketed paragraphs defining “explosive” if an explosive was used. (Health & Safety Code, § 12000; *People v. Clark* (1990) 50 Cal.3d 583, 603 [268 Cal.Rptr. 399, 789 P.2d 127].) Give the bracketed definition of “destructive device,” inserting the appropriate description from Penal Code section 16460, if a device covered by that statute was used. If the case involves a specific explosive listed in Health and Safety Code section 12000 or a specific destructive device listed in Penal Code section 16460, the court may also give the bracketed sentence stating that the listed item “is an explosive” or “is a destructive device.” For example, “Dynamite is an explosive.” However, the court may not instruct the jury that the defendant used an explosive. For example, the court may not state that “the defendant used an explosive, dynamite,” or “the material used by the defendant, dynamite, is an explosive.” (*People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257].)"
+      },
+      {
+        "text": "Appellate courts have held that the term “bomb” is not vague and is understood in its “common, accepted, and popular sense.” (*People v. Quinn* (1976) 57 Cal.App.3d 251, 258 [129 Cal.Rptr. 139]; *People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) If the court wishes to define the term “bomb,” the court may use the following definition: “A *bomb* is a device carrying an explosive charge fused to blow up or detonate under certain conditions.” (See *People v. Morse* (1992) 2 Cal.App.4th 620, 647, fn. 8 [3 Cal.Rptr.2d 343].)"
+      },
+      {
+        "text": "Give the bracketed sentence stating that “deliver” includes throwing if the facts demonstrate the item was thrown. (*People v. Snead* (1993) 20 Cal.App.4th 1088, 1095 [24 Cal.Rptr.2d 922].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance: Planting Device. Pen. Code, § 190.2(a)(4)."
+      },
+      {
+        "text": "• Special Circumstance: Mailing or Delivering Device. Pen. Code, § 190.2(a)(6)."
+      },
+      {
+        "text": "• Explosive Defined. Health & Saf. Code, § 12000; *People v. Clark* (1990) 50 Cal.3d 583, 603 [268 Cal.Rptr. 399, 789 P.2d 127]."
+      },
+      {
+        "text": "• Destructive Device Defined. Penal Code, § 16460."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Gasoline Not an Explosive"
+      },
+      {
+        "text": "“Under the statutory definition of explosive, the nature of the substance, not the manner in which a substance is used, is determinative.” (*People v. Clark* (1990) 50 Cal.3d 583, 604 [268 Cal.Rptr. 399, 789 P.2d 127] [gasoline, by its nature, not an explosive even where used to ignite a fire].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,97 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1805",
+  "title": "Theft by Trick (Pen. Code, § 484)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1265,
+      1266
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with [grand/petty] theft by trick [in violation of Penal Code section 484].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant obtained property that (he/she) knew was owned by someone else;",
+    "2. The property owner [or the owner’s agent] consented to the defendant’s possession of the property because the defendant used fraud or deceit;",
+    "3. When the defendant obtained the property, (he/she) intended (to deprive the owner of it permanently/[or] to remove it from the owner’s [or owner’s agent’s] possession for so extended a period of time that the owner would be deprived of a major portion of the value or enjoyment of the property);",
+    "4. The defendant kept the property for any length of time;",
+    "AND",
+    "5. The owner [or the owner’s agent] did not intend to transfer ownership of the property.",
+    "[Obtaining the owner’s [or the owner’s agent’s] consent to use the property for a specified purpose while intending to use it in a different way constitutes fraud or deceit.]",
+    "[An *agent* is someone to whom the owner has given complete or partial authority and control over the owner’s property.]",
+    "[For petty theft, the property taken can be of any value, no matter how slight.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "To have the requisite intent for theft, the thief must either intend to deprive the owner permanently or to deprive the owner of a major portion of the property’s value or enjoyment. (See *People v. Avery* (2002) 27 Cal.4th 49, 57–58 [115 Cal.Rptr.2d 403].) Select the appropriate language in element 3."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If the defendant is also charged with grand theft, give CALCRIM No. 1801, *Theft: Degrees*. If the defendant is charged with petty theft, no other instruction is required, and the jury should receive a petty theft verdict form."
+      },
+      {
+        "text": "If the defendant is charged with petty theft with a prior conviction, give CALCRIM No. 1850, *Petty Theft With Prior Conviction*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements of Theft. Pen. Code, § 484."
+      },
+      {
+        "text": "• Intent to Deprive Owner of Main Value. *People v. Avery* (2002) 27 Cal.4th 49, 57–59 [115 Cal.Rptr.2d 403, 38 P.3d 1], disapproving, to extent it is inconsistent, *People v. Marquez* (1993) 16 Cal.App.4th 115, 123 [20 Cal.Rptr.2d 365]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Petty Theft. Pen. Code, § 486."
+      },
+      {
+        "text": "• Attempted Theft. Pen. Code, §§ 664, 484."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Distinguished From Theft by False Pretense"
+      },
+      {
+        "text": "Although fraud is used to obtain the property in both theft by trick and theft by false pretense, in theft by false pretense, the thief obtains *both* possession and title to the property. For theft by trick, the thief gains only possession of the property. (*People v. Ashley* (1954) 42 Cal.2d 246, 258 [267 P.2d 271]; *People v. Randono* (1973) 32 Cal.App.3d 164, 172 [108 Cal.Rptr. 326]; *People v. Traster* (2003) 111 Cal.App.4th 1377, 1387 [4 Cal.Rptr.3d 680].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

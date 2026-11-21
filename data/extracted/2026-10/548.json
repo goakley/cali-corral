@@ -1,0 +1,57 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "548",
+  "title": "Murder: Alternative Theories",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      376,
+      377
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2014, February 2016, September 2019, April 2020",
+  "revision_legend": null,
+  "body": [
+    "The defendant has been prosecuted for murder under multiple theories.",
+    "Each theory of murder has different requirements, and I will instruct you on each.",
+    "You may not find the defendant guilty of murder unless all of you agree that the People have proved that the defendant committed murder. You need not all agree on the same theory but you must unanimously agree on the degree of murder."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction should be given after the court has given any applicable instructions on defenses to homicide and before CALCRIM No. 520, *Murder With Malice Aforethought*."
+      },
+      {
+        "text": "If there is evidence of multiple acts from which the jury might conclude that the defendant killed the decedent, the court may be required to give CALCRIM No. 3500, *Unanimity*. (See *People v. Dellinger* (1984) 163 Cal.App.3d 284, 300–302 [209 Cal.Rpt. 503] [error not to instruct on unanimity where evidence that the victim was killed either by blunt force or by injection of cocaine].) Review the Bench Notes for CALCRIM No. 3500 discussing when a unanimity instruction is required."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Unanimity on Degrees of Crime and Lesser Included Offenses. Pen. Code § 1157; *People v. Sanchez* (2013) 221 Cal.App.4th 1012, 1025 [164 Cal.Rptr.3d. 880]; *People v. Aikin* (1971) 19 Cal.App.3d 685, 704 [97 Cal.Rptr. 251], disapproved on other grounds in *People v. Lines* (1975) 13 Cal.3d 500, 512 [119 Cal.Rptr. 225]."
+      },
+      {
+        "text": "• Alternate Theories May Support Different Degrees of Murder. *People v. Sanchez* (2013) 221 Cal.App.4th 1012, 1025 [164 Cal.Rptr.3d. 880]."
+      },
+      {
+        "text": "549–559. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

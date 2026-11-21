@@ -1,0 +1,86 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2623",
+  "title": "Intimidating a Witness: Sentencing Factors (Pen. Code, § 136.1(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1880,
+      1881
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2020, March 2023",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of intimidating a witness, you must then decide whether the People have proved the additional allegation[s] that the defendant [acted maliciously] [and] [(acted in furtherance of a conspiracy/[or] used or threatened to use force/[or] acted to obtain money or something of value)].",
+    "To prove (this/these) allegation[s], the People must prove that:",
+    "[1. The defendant acted maliciously(;/.)]",
+    "[AND]",
+    "<Alternative A—furtherance of a conspiracy>",
+    "[(2A/1). The defendant acted with the intent to assist in a conspiracy to intimidate a witness(;/.)]",
+    "<Alternative B—used or threatened force>",
+    "[(2B/2). The defendant used force or threatened, either directly or indirectly, to use force or violence on the person or property of a (witness[,]/[or] victim[,]/[or] person other than (him/her)self)(;/.)]",
+    "<Alternative C—financial gain>",
+    "[(2C/3). The defendant acted (in order to obtain (money/[or] something of value)/[or] at the request of someone else in exchange for something of value).]",
+    "[Instruction[s] ______ <insert instruction number[s]> explain[s] when someone is acting in a conspiracy to intimidate a witness. You must apply (that/those) instruction[s] when you decide whether the People have proved this additional allegation. <The court must modify and give Instruction 415, et seq., explaining the law of conspiracy as it applies to the facts of the particular case.>]",
+    "[A person acts *maliciously* when he or she unlawfully intends to annoy, harm, or injure someone else in any way, or intends to interfere in any way with the orderly administration of justice.]",
+    "The People have the burden of proving (this/each) allegation beyond a reasonable doubt. If the People have not met this burden [for any allegation], you must find that (this/the) allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    15.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If the defendant is charged with a felony based on Penal Code section 136.1(c), the court has a sua sponte duty to instruct on the alleged sentencing factor. This instruction must be given with CALCRIM No. 2622, *Intimidating a Witness*."
+      },
+      {
+        "text": "As noted in the Bench Notes to CALCRIM No. 2622, the court will instruct the jury that knowledge and malice are elements of a violation of Penal Code section 136.1(a). If the court has given the malice element in CALCRIM No. 2622, the court may delete it here. If the court has not already given this element and the defendant is charged under subdivision (c), the court must give the bracketed element requiring malice here, as well as the bracketed definition of “maliciously.” (See *People v. Serrano* (2022) 77 Cal.App.5th 902, 912–913 [292 Cal.Rptr.3d 865].)"
+      },
+      {
+        "text": "If the defendant is charged with the sentencing factor based on a prior conviction, the court must give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, unless the court has granted a bifurcated trial on the prior conviction or the defendant has stipulated to the conviction. In such cases, the court should also give this instruction, CALCRIM No. 2623, only if the court has not already instructed the jury on malice or the defendant is also charged with another sentencing factor."
+      },
+      {
+        "text": "The court must provide the jury with a verdict form on which the jury will indicate if each alleged sentencing factor has or has not been proved."
+      },
+      {
+        "text": "If the court instructs on furtherance of a conspiracy, give the appropriate corresponding instructions on conspiracy. (See CALCRIM No. 415, *Conspiracy*.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Factors. Pen. Code, § 136.1(c)."
+      },
+      {
+        "text": "• “Malice” Defined. Pen. Code, § 136(1)."
+      },
+      {
+        "text": "• Statutory Meaning of “Third Person” Excludes Defendant. *People v. Johnson* (2022) 79 Cal.App.5th 1093, 1110 [295 Cal.Rptr.3d 353]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

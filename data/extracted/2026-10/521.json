@@ -1,0 +1,283 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "521",
+  "title": "First Degree Murder (Pen. Code, § 189)",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      5,
+      12
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007, April 2010, October 2010, February 2012, February 2013, February 2015, August 2015, September 2017, September 2022, September 2023, October 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "<Select the appropriate section[s]. Give the final paragraph in every case.>",
+    "<Give if multiple theories alleged.>",
+    "[The defendant has been prosecuted for first degree murder under (two/______ <insert number>) theories: (1) ______ <insert first theory, e.g., “the murder was willful, deliberate, and premeditated”> [and] (2) ______ <insert second theory, e.g., “the murder was committed by lying in wait”> [and] [______ <insert additional theories>].",
+    "[Each theory of first degree murder has different requirements, and I will instruct you on (both/all ______ <insert number>).",
+    "You may not find the defendant guilty of first degree murder unless all of you agree that the People have proved that the defendant committed murder. But all of you do not need to agree on the same theory.]",
+    "<A. Deliberation and Premeditation>",
+    "[The defendant is guilty of first degree murder if the People have proved that (he/she) acted willfully, deliberately, and with premeditation. The defendant acted *willfully* if (he/she) intended to kill. The defendant acted *deliberately* if (he/she) carefully weighed the considerations for and against (his/her) choice and, knowing the consequences, decided to kill. The defendant *acted with premeditation* if (he/she) decided to kill before completing the act[s] that caused death.",
+    "The length of time the person spends considering whether to kill does not alone determine whether the killing is deliberate and premeditated. The amount of time required for deliberation and premeditation may vary from person to person and according to the circumstances. A decision to kill made rashly, impulsively, or without careful consideration is not deliberate and premeditated. On the other hand, a cold, calculated decision to kill can be reached quickly. The test is the extent of the reflection, not the length of time.]",
+    "<B. Torture>",
+    "[The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by torture. The defendant committed murder by torture if:",
+    "1. (He/She) willfully, deliberately, and with premeditation intended to inflict extreme and prolonged pain on the person killed while that person was still alive;",
+    "2. (He/She) intended to inflict such pain on the person killed for the calculated purpose of revenge, extortion, persuasion, or any other sadistic reason;",
+    "3. The acts causing death involved a high degree of probability of death;",
+    "AND",
+    "4. The torture was a cause of death.]",
+    "[A person commits an act *willfully* when he or she does it willingly or on purpose. A person commits an act *deliberately* if he or she carefully weighs the considerations for and against his or her choice and, knowing the consequences, decides to act. A person commits an act with *premeditation* if (he/she) decided to inflict extreme and prolonged pain on a person before completing the act[s] that caused death.]",
+    "[There is no requirement that the person killed be aware of the pain.]",
+    "[A finding of torture does not require that the defendant intended to kill.]",
+    "<C. Lying in Wait>",
+    "[The defendant is guilty of first degree murder if the People have proved that the defendant committed murder while lying in wait or immediately thereafter. The defendant committed murder by lying in wait if:",
+    "1. (He/She) concealed (his/her) purpose from the person killed;",
+    "2. (He/She) waited and watched for an opportunity to act;",
+    "AND",
+    "3. Then, from a position of advantage, (he/she) intended to and did make a surprise attack on the person killed.",
+    "The lying in wait does not need to continue for any particular period of time, but its duration must be substantial enough to show a state of mind equivalent to deliberation or premeditation. [*Deliberation* means carefully weighing the considerations for and against a choice and, knowing the consequences, deciding to act. An act is done with *premeditation* if the decision to commit the act is made before the act is done.]",
+    "[A person can conceal his or her purpose even if the person killed is aware of the person’s physical presence.]",
+    "[The concealment can be accomplished by ambush or some other secret plan.]]",
+    "<D. Destructive Device or Explosive>",
+    "[The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by using a destructive device or explosive.]",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) which is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is [also] any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type of explosive from Health & Saf. Code, § 12000> is an *explosive.*]",
+    "[A *destructive device* is ______ <insert definition supported by evidence from Pen. Code, § 16460>.]",
+    "[______ <insert type of destructive device from Pen. Code, § 16460> is a *destructive device.*]",
+    "<E. Weapon of Mass Destruction>",
+    "[The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by using a weapon of mass destruction.]",
+    "[______ <insert type of weapon from Pen. Code, § 11417(a)(1)> is a *weapon of mass destruction*.]",
+    "[______ <insert type of agent from Pen. Code, § 11417(a)(2)> is a *chemical warfare agent*.]]",
+    "<F. Penetrating Ammunition>",
+    "[The defendant is guilty of first degree murder if the People have proved that when the defendant committed murder, (he/she) used ammunition designed primarily to penetrate metal or armor to commit the murder and (he/she) knew that the ammunition was designed primarily to penetrate metal or armor.]",
+    "<G. Discharge From Vehicle>",
+    "[The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by shooting a firearm from a motor vehicle. The defendant committed this kind of murder if:",
+    "1. (He/She) shot a firearm from a motor vehicle;",
+    "2. (He/She) intentionally shot at a person who was outside the vehicle;",
+    "AND",
+    "3. (He/She) intended to kill that person.",
+    "A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.",
+    "A *motor vehicle* includes (a/an) (passenger vehicle/motorcycle/motor scooter/bus/school bus/commercial vehicle/truck tractor and trailer/______ <insert other type of motor vehicle>).]",
+    "<H. Poison>",
+    "[The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by using poison. The defendant committed murder by poison if:",
+    "1. (He/She) deliberately gave ______ <insert name of victim> poison;",
+    "AND",
+    "2. When giving the poison, the defendant intended to kill ______ <insert name of victim> or to inflict injury likely to cause ______ <insert name of victim>’s death.",
+    "[*Poison* is a substance, applied externally to the body or introduced into the body, that can kill by its own inherent qualities.]]",
+    "[______ <insert name of substance> is a *poison*.]",
+    "[The requirements for second degree murder based on express or implied malice are explained in CALCRIM No. 520, *First or Second Degree Murder With Malice Aforethought*.]",
+    "The People have the burden of proving beyond a reasonable doubt that the killing was first degree murder rather than a lesser crime. If the People have not met this burden, you must find the defendant not guilty of first degree murder and the murder is second degree murder."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. Before giving this instruction, the court must give CALCRIM No. 520, *Murder With Malice Aforethought*. Depending on the theory of first degree murder relied on by the prosecution, give the appropriate alternatives A through H."
+      },
+      {
+        "text": "The court must give the final paragraph in every case."
+      },
+      {
+        "text": "If the prosecution alleges two or more theories for first degree murder, give the bracketed section that begins with “The defendant has been prosecuted for first degree murder under.” If the prosecution alleges felony murder in addition to one of the theories of first degree murder in this instruction, give CALCRIM No. 548, *Murder: Alternative Theories*, instead of the bracketed paragraph contained in this instruction."
+      },
+      {
+        "text": "When instructing on murder by weapon of mass destruction, explosive, or destructive device, the court may use the bracketed sentence stating, “______ is a weapon of mass destruction” or “is a chemical warfare agent,” only if the device used is listed in the code section noted in the instruction. For example, “Sarin is a chemical warfare agent.” However, the court may not instruct the jury that the defendant used the prohibited weapon. For example, the court may not state, “the defendant used a chemical warfare agent, sarin,” or “the material used by the defendant, sarin, was a chemical warfare agent.” (*People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257].)"
+      },
+      {
+        "text": "When instructing on murder by poison, give the bracketed definition of poison if there is a dispute over whether the substance is a poison. Give the bracketed paragraph stating that the substance is a poison if the parties stipulate that the substance is a poison."
+      },
+      {
+        "text": "Do not modify this instruction to include the factors set forth in *People v. Anderson* (1968) 70 Cal.2d 15, 26–27 [73 Cal.Rptr. 550, 447 P.2d 942]. Although those factors may assist in appellate review of the sufficiency of the evidence to support findings of premeditation and deliberation, they neither define the elements of first degree murder nor guide a jury’s determination of the degree of the offense. (*People v. Moon* (2005) 37 Cal.4th 1, 31 [32 Cal.Rptr.3d 894, 117 P.3d 591]; *People v. Steele* (2002) 27 Cal.4th 1230, 1254 [120 Cal.Rptr.2d 432, 47 P.3d 225]; *People v. Lucero* (1988) 44 Cal.3d 1006, 1020 [245 Cal.Rptr. 185, 750 P.2d 1342].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Types of Statutory First Degree Murder. Pen. Code, § 189."
+      },
+      {
+        "text": "• “Armor Piercing Ammunition” Defined. Pen. Code, § 16660."
+      },
+      {
+        "text": "• “Destructive Device” Defined. Pen. Code, § 16460."
+      },
+      {
+        "text": "• For Torture, Act Causing Death Must Involve a High Degree of Probability of Death. *People v. Cook* (2006) 39 Cal.4th 566, 602 [47 Cal.Rptr.3d 22, 139 P.3d 492]."
+      },
+      {
+        "text": "• Mental State Required for Implied Malice. *People v. Knoller* (2007) 41 Cal.4th 139, 143 [59 Cal.Rptr.3d 157, 158 P.3d 731]."
+      },
+      {
+        "text": "• “Explosive” Defined. Health & Saf. Code, § 12000; *People v. Clark* (1990) 50 Cal.3d 583, 604 [268 Cal.Rptr. 399, 789 P.2d 127]."
+      },
+      {
+        "text": "• “Weapon of Mass Destruction” Defined. Pen. Code, § 11417."
+      },
+      {
+        "text": "• Discharge From Vehicle. *People v. Chavez* (2004) 118 Cal.App.4th 379, 386–387 [12 Cal.Rptr.3d 837] [drive-by shooting clause is not an enumerated felony for purposes of the felony murder rule]."
+      },
+      {
+        "text": "• Lying in Wait Requirements. *People v. Stanley* (1995) 10 Cal.4th 764, 794 [42 Cal.Rptr.2d 543, 897 P.2d 481]; *People v. Ceja* (1993) 4 Cal.4th 1134, 1139 [17 Cal.Rptr.2d 375, 847 P.2d 55]; *People v. Webster* (1991) 54 Cal.3d 411, 448 [285 Cal.Rptr. 31, 814 P.2d 1273]*; People v. Poindexter* (2006) 144 Cal.App.4th 572, 582–585 [50 Cal.Rptr.3d 489]; *People v. Laws* (1993) 12 Cal.App.4th 786, 794–795 [15 Cal.Rptr.2d 668]."
+      },
+      {
+        "text": "• “Poison” Defined. *People v. Van Deleer* (1878) 53 Cal. 147, 149."
+      },
+      {
+        "text": "• “Premeditation and Deliberation” Defined. *People v. Pearson* (2013) 56 Cal.4th 393, 443–444 [154 Cal.Rptr.3d 541, 297 P.3d 793]; *People v. Anderson, supra,* 70 Cal.2d at pp. 26–27; *People v. Bender* (1945) 27 Cal.2d 164, 183–184 [163 P.2d 8]; *People v. Daugherty* (1953) 40 Cal.2d 876, 901–902 [256 P.2d 911]."
+      },
+      {
+        "text": "• Torture Requirements. *People v. Pensinger* (1991) 52 Cal.3d 1210, 1239 [278 Cal.Rptr. 640, 805 P.2d 899]; *People v. Bittaker* (1989) 48 Cal.3d 1046, 1101 [259 Cal.Rptr. 630, 774 P.2d 659], habeas corpus granted in part on other grounds in *In re Bittaker* (1997) 55 Cal.App.4th 1004 [64 Cal.Rptr.2d 679]; *People v. Wiley* (1976) 18 Cal.3d 162, 168–172 [133 Cal.Rptr. 135, 554 P.2d 881]; see also *People v. Pre* (2004) 117 Cal.App.4th 413, 419–420 [11 Cal.Rptr.3d 739] [comparing torture murder with torture]."
+      },
+      {
+        "text": "• Murder by Poison Requirements. *People v. Brown* (2023) 14 Cal.5th 453, 471 [305 Cal.Rptr.3d 127, 524 P.3d 1088]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Murder. Pen. Code, § 187."
+      },
+      {
+        "text": "• Voluntary Manslaughter. Pen. Code, § 192(a)."
+      },
+      {
+        "text": "• Involuntary Manslaughter. Pen. Code, § 192(b)."
+      },
+      {
+        "text": "• Attempted First Degree Murder. Pen. Code, §§ 663, 189."
+      },
+      {
+        "text": "• Attempted Murder. Pen. Code, §§ 663, 187."
+      },
+      {
+        "text": "• Elements of Special Circumstances Not Considered in Lesser Included Offense Analysis. *People v. Boswell* (2016) 4 Cal.App.5th 55, 59–60 [208 Cal.Rptr.3d 244]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Premeditation and Deliberation—Heat of Passion Provocation"
+      },
+      {
+        "text": "Provocation may reduce murder from first to second degree. (*People v. Thomas* (1945) 25 Cal.2d 880, 903 [156 P.2d 7] [provocation raised reasonable doubt about premeditation or deliberation, “leaving the homicide as murder of the second degree; i.e., an unlawful killing perpetrated with malice aforethought but without premeditation and deliberation”]; see *People v. Padilla* (2002) 103 Cal.App.4th 675, 679 [126 Cal.Rptr.2d 889] [evidence of hallucination is admissible at guilt phase to negate deliberation and premeditation and to reduce first degree murder to second degree murder].) There is, however, no sua sponte duty to instruct the jury on this issue. (*People v. Middleton* (1997) 52 Cal.App.4th 19, 31–33 [60 Cal.Rptr.2d 366], disapproved on other grounds in *People v. Gonzalez* (2003) 31 Cal.4th 745, 752 [3 Cal.Rptr.3d 676, 74 P.3d 771].) On request, give CALCRIM No. 522, *Provocation: Effect on Degree of Murder*."
+      },
+      {
+        "heading": true,
+        "text": "Torture—Causation"
+      },
+      {
+        "text": "The finding of murder by torture encompasses the totality of the brutal acts and circumstances that led to a victim’s death. “The acts of torture may not be segregated into their constituent elements in order to determine whether any single act by itself caused the death; rather, it is the continuum of sadistic violence that constitutes the torture [citation].” (*People v. Proctor* (1992) 4 Cal.4th 499, 530–531 [15 Cal.Rptr.2d 340, 842 P.2d 1100].)"
+      },
+      {
+        "heading": true,
+        "text": "Torture—Instruction on Voluntary Intoxication"
+      },
+      {
+        "text": "“[A] court should instruct a jury in a torture-murder case, when evidence of intoxication warrants it, that intoxication is relevant to the specific intent to inflict cruel suffering.” (*People v. Pensinger, supra,* 52 Cal.3d at p. 1242; see CALCRIM No. 625, *Voluntary Intoxication: Effects on Homicide Crimes*.)"
+      },
+      {
+        "heading": true,
+        "text": "Torture—Pain Not an Element"
+      },
+      {
+        "text": "All that is required for first degree murder by torture is the calculated *intent to cause pain* for the purpose of revenge, extortion, persuasion, or any other sadistic purpose. There is no requirement that the victim actually suffer pain. (*People v. Pensinger, supra,* 52 Cal.3d at p. 1239.)"
+      },
+      {
+        "heading": true,
+        "text": "Torture—Premeditated Intent to Inflict Pain"
+      },
+      {
+        "text": "Torture-murder, unlike the substantive crime of torture, requires that the defendant acted with deliberation and premeditation when inflicting the pain. (*People v. Pre, supra,* 117 Cal.App.4th at pp. 419–420; *People v. Mincey* (1992) 2 Cal.4th 408, 434–436 [6 Cal.Rptr.2d 822, 827 P.2d 388].)"
+      },
+      {
+        "heading": true,
+        "text": "Lying in Wait—Length of Time Equivalent to Premeditation and Deliberation"
+      },
+      {
+        "text": "In *People v. Stanley, supra,* 10 Cal.4th at p. 794, the court approved this instruction regarding the length of time a person lies in wait: “[T]he lying in wait need not continue for any particular time, provided that its duration is such as to show a state of mind equivalent to premeditation or deliberation.”"
+      },
+      {
+        "heading": true,
+        "text": "Discharge From a Vehicle—Vehicle Does Not Have to Be Moving"
+      },
+      {
+        "text": "Penal Code section 189 does not require the vehicle to be moving when the shots are fired. (Pen. Code, § 189; see also *People v. Bostick* (1996) 46 Cal.App.4th 287, 291 [53 Cal.Rptr.2d 760] [finding vehicle movement is not required in context of enhancement for discharging firearm from motor vehicle under Pen. Code, § 12022.55].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2006, June 2007, April 2010, October 2010, February 2012, February 2013, February 2015, August 2015, September 2017, September 2022, September 2023"
+  },
+  "supplement_status": "revised"
+}

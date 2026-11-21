@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2382",
+  "title": "Employment of Minor to Sell Controlled Substance (Health & Saf. Code, §§ 11353, 11354)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1670,
+      1671
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014, September 2017",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (hiring/employing/using) someone under 18 years of age to (transport/carry/sell/give away/prepare for sale/peddle) ______ <insert type of controlled substance>, a controlled substance [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [unlawfully] (hired/employed/used) ______ <insert name of person hired>;",
+    "2. ______ <insert name of person hired> was (hired/employed/used) to (transport/carry/sell/give away/prepare for sale/peddle) a controlled substance;",
+    "<If the controlled substance is not listed in the schedules set forth in sections 11054 through 11058 of the Health and Safety Code, give paragraph 3B and the definition of analog substance below instead of paragraph 3A.>",
+    "3A. The controlled substance was ______ <insert type of controlled substance>;",
+    "3B. The controlled substance was an analog of ______ <insert type of controlled substance>;",
+    "4. At that time, the defendant was 18 years of age or older;",
+    "5. At that time, ______ <insert name of person hired> was under 18 years of age;",
+    "AND",
+    "6. The defendant knew of the substance’s nature or character as a controlled substance.",
+    "[In order to prove that the defendant is guilty of this crime, the People must prove that ______ <insert name of analog drug> is an analog of ______ <insert type of controlled substance> . An analog of a controlled substance:",
+    "[1. Has a chemical structure substantially similar to the structure of a controlled substance(./;)]",
+    "[OR]",
+    "[(2/1). Has, is represented as having, or is intended to have a stimulant, depressant, or hallucinogenic effect on the central nervous system substantially similar to or greater than the effect of a controlled substance.]]",
+    "[*Selling* for the purpose of this instruction means exchanging a controlled substance for money, services, or anything of value.]",
+    "[A person *transports* for sale if he or she carries or moves something from one location to another, even if the distance is short.]",
+    "[The People do not need to prove that the defendant knew which specific controlled substance was to be (transported/carried/sold/given away/prepared for sale/peddled), only that (he/she) was aware that it was a controlled substance.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    10.3,
+    11.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    15.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged with violating Health and Safety Code section 11354(a), in element 3, the court should replace “18 years of age or older” with “under 18 years of age.”"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, §§ 11353, 11354."
+      },
+      {
+        "text": "• Age of Defendant Element of Offense. *People v. Montalvo* (1971) 4 Cal.3d 328, 332 [93 Cal.Rptr. 581, 482 P.2d 205]."
+      },
+      {
+        "text": "• Knowledge. *People v. Horn* (1960) 187 Cal.App.2d 68, 74–75 [9 Cal.Rptr. 578]."
+      },
+      {
+        "text": "• Selling. *People v. Lazenby* (1992) 6 Cal.App.4th 1842, 1845 [8 Cal.Rptr.2d 541]."
+      },
+      {
+        "text": "• Definition of Analog Controlled Substance. Health & Saf. Code, § 11401; *People v. Davis* (2013) 57 Cal.4th 353, 357, fn. 2 [159 Cal.Rptr.3d 405, 303 P.3d 1179]."
+      },
+      {
+        "text": "• No Finding Necessary for “Expressly Listed” Controlled Substance. *People v. Davis*, *supra*, 57 Cal.4th 353 at p. 362, fn. 5."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

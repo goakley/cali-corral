@@ -1,0 +1,103 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2410",
+  "title": "Possession of Controlled Substance Paraphernalia (Health & Saf. Code, § 11364)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1695,
+      1697
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2010, April 2011, August 2015, September 2018, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with possessing an object that can be used to unlawfully inject or smoke ______ <insert controlled substance(s) referenced in Health & Saf. Code, § 11364> , [a] controlled substance[s] [in violation of Health and Safety Code section 11364].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [unlawfully] possessed an object used for unlawfully injecting or smoking ______ <insert controlled substance(s) referenced in Health & Saf. Code, § 11364> , [a] controlled substance[s];",
+    "2. The defendant knew of the object’s presence;",
+    "AND",
+    "3. The defendant knew it to be an object used for unlawfully injecting or smoking [a] controlled substance[s].",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The People allege that the defendant possessed the following items: ______ <insert each specific item of paraphernalia when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant possessed at least one of these items and you all agree on which item (he/she) possessed.]",
+    "<Defense: Authorized Possession for Personal Use>",
+    "[The defendant did not unlawfully possess [a] hypodermic (needle[s]/[or] syringe[s]) if (he/she) was legally authorized to possess (it/them). The defendant was legally authorized to possess (it/them) if:",
+    "1. (He/She) possessed the (needle[s]/[or] syringe[s]) for personal use;",
+    "[AND]",
+    "2. (He/She) obtained (it/them) from ______ <insert source authorized by Health & Safety Code section 11364(c)>.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant was not legally authorized to possess the hypodermic (needle[s]/[or] syringe[s]). If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple items, the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483]; *People v. Rowland* (1999) 75 Cal.App.4th 61, 65 [88 Cal.Rptr.2d 900].) Give the bracketed paragraph that begins with “The People allege that the defendant possessed,” inserting the items alleged."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Section 11364 does not apply to possession of hypodermic needles or syringes for personal use if acquired from an authorized source. The defendant need only raise a reasonable doubt about whether his or her possession of these items was lawful. (See *People v. Mower* (2002) 28 Cal.4th 457, 479 [122 Cal.Rptr.2d 326, 49 P.3d 1067].) If there is sufficient evidence, the court has a sua sponte duty to instruct on this defense. (See *People v. Fuentes* (1990) 224 Cal.App.3d 1041, 1045 [274 Cal.Rptr. 17] [authorized possession of hypodermic is an affirmative defense]); *People v. Mower, supra*, 28 Cal.4th at pp. 478–481 [discussing affirmative defenses generally and the burden of proof].) Give the bracketed word “unlawfully” in element 1 and the bracketed paragraph on that defense."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, § 11364."
+      },
+      {
+        "text": "• Statute Constitutional. *People v. Chambers* (1989) 209 Cal.App.3d Supp. 1, 4 [257 Cal.Rptr. 289]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Barnes* (1997) 57 Cal.App.4th 552, 556 [67 Cal.Rptr.2d 162]."
+      },
+      {
+        "text": "• Unanimity. *People v. Wolfe, supra*, 114 Cal.App.4th at pp. 184–185."
+      },
+      {
+        "text": "• Authorized Possession Defense. Health & Saf. Code, § 11364(c)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Cannabis Paraphernalia Excluded"
+      },
+      {
+        "text": "Possession of a device for smoking cannabis, without more, is not a crime. (*In re Johnny O.* (2003) 107 Cal.App.4th 888, 897 [132 Cal.Rptr.2d 471].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

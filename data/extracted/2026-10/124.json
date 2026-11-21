@@ -1,0 +1,48 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "124",
+  "title": "Separation Admonition",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      100,
+      100
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012",
+  "revision_legend": null,
+  "body": [
+    "[You may be permitted to separate during recesses and at the end of the day. I will tell you when to return. Please remember, we cannot begin the trial until all of you are in place, so it is important to be on time.]",
+    "Remember, do not talk about the case or about any of the people or any subject involved in it with anyone, including the other jurors. Do not do research, share information, or talk to each other or to anyone else about the facts of the case or anything else connected with the trial, and do not use any form of electronic or wireless communication to do any of those things, either.",
+    "Do not make up your mind or express any opinion about the case or any issue connected with the trial until after you have discussed the case with the other jurors during deliberations."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to admonish the jury “at each adjournment of the court before the submission of the cause to the jury.” Pen. Code, § 1122(b). Adjournment means continuing proceedings to another court day, not every time the court calls a recess. *People v. Heishman* (1988) 45 Cal.3d 147, 174 [246 Cal.Rptr. 673, 691, 753 P.2d 629], citing *People v. Moore* (1971) 15 Cal.App.3d 851, 852–853 [93 Cal.Rptr. 447]."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Statutory Authority. Pen. Code, § 1122(b)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 35
+  },
+  "warnings": []
+}

@@ -1,0 +1,123 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2381",
+  "title": "Offering to Sell, Furnish, etc., Controlled Substance to Minor (Health & Saf. Code, §§ 11353, 11354, 11380(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1667,
+      1669
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014, September 2017",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with offering to (sell/furnish/administer/give away) ______ <insert type of controlled substance>, a controlled substance, to someone under 18 years of age [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [unlawfully] offered to (sell/furnish/administer/give away) a controlled substance to ______ <insert name of alleged recipient>;",
+    "2. When the defendant made the offer, (he/she) intended to (sell/furnish/administer/give away) the controlled substance;",
+    "<If the controlled substance is not listed in the schedules set forth in sections 11054 through 11058 of the Health and Safety Code, give paragraph 3B and the definition of analog substance below instead of paragraph 3A.>",
+    "3A. The controlled substance was ______ <insert type of controlled substance>;",
+    "3B. The controlled substance was an analog of ______ <insert type of controlled substance>;",
+    "4. At that time, the defendant was 18 years of age or older;",
+    "AND",
+    "5. At that time, ______ <insert name of alleged recipient> was under 18 years of age.",
+    "[In order to prove that the defendant is guilty of this crime, the People must prove that ______ <insert name of analog drug> is an analog of ______ <insert type of controlled substance>. An analog of a controlled substance:",
+    "[1. Has a chemical structure substantially similar to the structure of a controlled substance(./;)]",
+    "[OR]",
+    "[(2/1). Has, is represented as having, or is intended to have a stimulant, depressant, or hallucinogenic effect on the central nervous system substantially similar to or greater than the effect of a controlled substance.]]",
+    "[*Selling* for the purpose of this instruction means exchanging a controlled substance for money, services, or anything of value.]",
+    "[A person *administers* a substance if he or she applies it directly to the body of another person by injection, or by any other means, or causes the other person to inhale, ingest, or otherwise consume the substance.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    10.3,
+    11.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    15.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged with violating Health and Safety Code section 11354(a), in element 3, the court should replace “18 years of age or older” with “under 18 years of age.”"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, §§ 11353, 11354, 11380(a)."
+      },
+      {
+        "text": "• Age of Defendant Element of Offense. *People v. Montalvo* (1971) 4 Cal.3d 328, 332 [93 Cal.Rptr. 581, 482 P.2d 205]."
+      },
+      {
+        "text": "• No Defense of Good Faith Belief Offeree Over 18. *People v. Williams* (1991) 233 Cal.App.3d 407, 410–411 [284 Cal.Rptr. 454]; *People v. Lopez* (1969) 271 Cal.App.2d 754, 760 [77 Cal.Rptr. 59]."
+      },
+      {
+        "text": "• Specific Intent. *People v. Jackson* (1963) 59 Cal.2d 468, 469–470 [30 Cal.Rptr. 329, 381 P.2d 1]."
+      },
+      {
+        "text": "• Administering. Health & Saf. Code, § 11002."
+      },
+      {
+        "text": "• Definition of Analog Controlled Substance. Health & Saf. Code, § 11401; *People v. Davis* (2013) 57 Cal.4th 353, 357, fn. 2 [159 Cal.Rptr.3d 405, 303 P.3d 1179]."
+      },
+      {
+        "text": "• No Finding Necessary for “Expressly Listed” Controlled Substance. *People v. Davis*, *supra*, 57 Cal.4th at p. 362, fn. 5."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Offering to Sell to Person Not a Minor. Health & Saf. Code, §§ 11352, 11360, 11379."
+      },
+      {
+        "text": "• Simple Possession of Controlled Substance. Health & Saf. Code, §§ 11350, 11377; *People v. Tinajero* (1993) 19 Cal.App.4th 1541, 1547 [24 Cal.Rptr.2d 298]; but see *People v. Peregrina-Larios* (1994) 22 Cal.App.4th 1522, 1524 [28 Cal.Rptr.2d 316] [lesser related offense but not necessarily included]."
+      },
+      {
+        "text": "• Possession for Sale of Controlled Substance. Health & Saf. Code, §§ 11351, 11378; *People v. Tinajero*, *supra*, 19 Cal.App.4th at p. 1547; but see *People v. Peregrina-Larios*, *supra*, 22 Cal.App.4th at p. 1524 [lesser related offense but not necessarily included]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "No Requirement That Defendant Delivered or Possessed Drugs"
+      },
+      {
+        "text": "A defendant may be convicted of offering to sell even if there is no evidence that he or she delivered or ever possessed any controlled substance. (*People v. Jackson* (1963) 59 Cal.2d 468, 469 [30 Cal.Rptr. 329, 381 P.2d 1]; *People v. Brown* (1960) 55 Cal.2d 64, 68 [9 Cal.Rptr. 816, 357 P.2d 1072].)"
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 2380, *Sale, Furnishing, etc., of Controlled Substance to Minor*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

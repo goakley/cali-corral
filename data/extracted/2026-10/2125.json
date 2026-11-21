@@ -1,0 +1,125 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2125",
+  "title": "Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions (Veh. Code, §§ 23550, 23550.5 & 23566)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1514,
+      1516
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2018",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of ([causing injury while] driving under the influence/[or] [causing injury while] driving with a blood alcohol level of (0.08/0.04) percent or more), [or the lesser offense of driving under the influence [or driving with a blood alcohol level of (0.08/0.04) percent or more]], you must then determine whether the People have proved the additional allegation that the defendant has been convicted of (another/other) driving under the influence offense[s] before. It has already been determined that the defendant is the person named in exhibits ______ <insert numbers or descriptions of exhibits>. You must decide whether the evidence proves that the defendant was convicted of the alleged crime[s].",
+    "The People allege that the defendant has been convicted of:",
+    "[1.] A violation of ______ <insert Veh. Code section violated>, on ______ <insert date of conviction>, in the ______ <insert name of court>, in Case Number ______ <insert docket or case number>(;/.)",
+    "[AND <Repeat for each prior conviction alleged>.]",
+    "[Consider the evidence presented on this allegation only when deciding whether the defendant was previously convicted of the crime[s] alleged [or for the limited purpose of ______ <insert other permitted purpose, e.g., assessing credibility of the defendant>]. Do not consider this evidence for any other purpose.]",
+    "[You must consider each alleged conviction separately.] The People have the burden of proving (the/each) alleged conviction beyond a reasonable doubt. If the People have not met this burden [for any alleged conviction], you must find that the alleged conviction has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on proof of the alleged prior convictions."
+      },
+      {
+        "text": "Any prior convictions are a sentencing factor for the trial court and not an element of the offense. (*People v. Burris* (2005) 34 Cal.4th 1012, 1016, fn. 3 [22 Cal.Rptr.3d 876, 103 P.3d 276].)"
+      },
+      {
+        "text": "Do not give this instruction if the court has bifurcated the trial. Instead, give CALCRIM No. 2126, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions—Bifurcated Trial*. See the Bench Notes to CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, for an extensive discussion of bifurcation."
+      },
+      {
+        "text": "This instruction must be given with the appropriate instruction defining the elements of the driving under the influence offense charged, CALCRIM Nos. 2100, 2101, 2110, 2111."
+      },
+      {
+        "text": "On request, the court should give the bracketed limiting instruction regarding the evidence of the prior convictions. (See *People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913].) There is no sua sponte duty to give the limiting instruction and the defense may prefer that no limiting instruction be given. (See *People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380].)"
+      },
+      {
+        "text": "The court must provide the jury with a verdict form on which the jury will indicate if the prior convictions have or have not been proved."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancements. Veh. Code, §§ 23550, 23550.5 & 23566."
+      },
+      {
+        "text": "• Prior Convictions. *People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170]."
+      },
+      {
+        "text": "• Judge Determines if Defendant Person Named in Documents. Pen. Code, § 1025(b); *People v. Garcia* (2003) 107 Cal.App.4th 1159, 1165 [132 Cal.Rptr.2d 694]."
+      },
+      {
+        "text": "• Limiting Instruction on Prior Conviction. *People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913]; *People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Ten-Year “Washout” Period"
+      },
+      {
+        "text": "Effective January 1, 2005, prior convictions for driving under the influence within ten years of the current offense may be used for enhancement purposes. (See Veh. Code, §§ 23550, 23550.5 & 23566.)"
+      },
+      {
+        "heading": true,
+        "text": "Order of Convictions, Not Offenses Relevant"
+      },
+      {
+        "text": "In order for the sentencing enhancements for multiple driving under the influence offenses to apply, the conviction for the other offense or offenses must predate the current offense. (*People v. Snook* (1997) 16 Cal.4th 1210, 1216 [69 Cal.Rptr.2d 615, 947 P.2d 808].) The date on which the other offenses occurred is not relevant. *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "All Offenses Must Occur Within Time Period"
+      },
+      {
+        "text": "“[F]or a fourth DUI offense to be charged as a felony, the offense must be committed within [. . . ten] years of three or more separate DUI violations resulting in convictions, and all four must occur within a period of [. . . ten] years.” (*People v. Munoz* (2002) 102 Cal.App.4th 12, 20 [125 Cal.Rptr.2d 182].)"
+      },
+      {
+        "heading": true,
+        "text": "Prior Felony Reduced to Misdemeanor"
+      },
+      {
+        "text": "In *People v. Camarillo* (2000) 84 Cal.App.4th 1386, 1389 [101 Cal.Rptr.2d 618], the defendant had been previously convicted of a felony driving under the influence offense. After successful completion of probation, that felony was reduced to a misdemeanor under Penal Code section 17(b). *(Ibid.)* The court held that that conviction could not later be used as a prior *felony* conviction to enhance the defendant’s sentence. *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "Defense Stipulation to Prior Convictions"
+      },
+      {
+        "text": "The defendant may stipulate to the truth of the prior convictions. (*People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170].) If the defendant stipulates, the prior convictions should not be disclosed to the jury unless the court admits them as otherwise relevant. (See *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690].)"
+      },
+      {
+        "heading": true,
+        "text": "Motion for Bifurcated Trial"
+      },
+      {
+        "text": "Either the defendant or the prosecution may move for a bifurcated trial. (*People v. Calderon* (1994) 9 Cal.4th 69, 77–78 [36 Cal.Rptr.2d 333]; *People v. Cline* (1998) 60 Cal.App.4th 1327, 1334–1336 [71 Cal.Rptr.2d 41]; *People v. Weathington*, *supra*, 231 Cal.App.3d at p. 90.)"
+      },
+      {
+        "text": "See also the Related Issues section and Bench Notes to CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,76 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1193",
+  "title": "Expert Testimony on Child Sexual Abuse Victims",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      66,
+      67
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016, April 2020, March 2021, September 2022, September 2024,* October 2026",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "You have heard testimony from ______ <insert name of expert> offered for the purposes of explaining the range of behaviors of child sexual abuse victims, possible misconceptions about those behaviors, and that those behaviors are not necessarily inconsistent with having been abused. You may consider this testimony only for these purposes. ______’s <insert name of expert> testimony about the behaviors of child sexual abuse victims is not evidence that the defendant committed any of the crimes charged against (him/her) [or any conduct or crime[s] with which (he/she) was not charged]."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Several courts of review have concluded there is no sua sponte duty to give this instruction when an expert testifies on child sexual abuse accommodation syndrome. (*People v. Mateo* (2016) 243 Cal.App.4th 1063, 1073–1074 [197 Cal.Rptr.3d 248]; *People v. Sanchez* (1989) 208 Cal.App.3d 721, 736 [256 Cal.Rptr. 446] and *People v. Stark* (1989) 213 Cal.App.3d 107, 116 [261 Cal.Rptr. 479] [instruction required only on request].) See also *People v. Humphrey* (1996) 13 Cal.4th 1073, 1088, fn. 5, 1090–1091, 1100 [56 Cal.Rptr.2d 142, 921 P.2d 1], which concludes that a limiting instruction on battered woman syndrome is required only on request. But see *People v. Housley* (1992) 6 Cal.App.4th 947, 958–959 [8 Cal.Rtpr.2d 431], which did find a sua sponte duty to give this instruction."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If this instruction is given, also give CALCRIM No. 303, *Limited Purpose Evidence in General*, and CALCRIM No. 332, *Expert Witness*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Eliminate Juror Misconceptions or Rebut Attack on Victim’s Credibility. *People v. Bowker* (1988) 203 Cal.App.3d 385, 393–394 [249 Cal.Rptr. 886]."
+      },
+      {
+        "text": "• Previous Version of This Instruction Upheld. *People v. Ortiz* (2023) 96 Cal.App.5th 768, 815–816 [314 Cal.Rptr.3d 732]; *People v. Lapenias* (2021) 67 Cal.App.5th 162, 175–176 [282 Cal.Rptr.3d 79]; *People v. Munch* (2020) 52 Cal.App.5th 464, 473–474 [266 Cal.Rptr.3d 136]; *People v. Gonzales* (2017) 16 Cal.App.5th 494, 504 [224 Cal.Rptr.3d 421]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The jurors must understand that the research on child sexual abuse accommodation syndrome assumes a molestation occurred and seeks to describe and explain children’s common reactions to the experience. (*People v. Bowker, supra,* 203 Cal.App.3d at p. 394.) However, it is unnecessary and potentially misleading to instruct that the expert testimony assumes that a molestation has in fact occurred. (See *People v. Gilbert* (1992) 5 Cal.App.4th 1372, 1387 [7 Cal.Rptr.2d 660].)"
+      },
+      {
+        "text": "The prosecution must identify the myth or misconception the evidence is designed to rebut (*People v. Bowker, supra*, 203 Cal.App.3d at p. 394; *People v. Sanchez, supra,* 208 Cal.App.3d at p. 735; *People v. Harlan* (1990) 222 Cal.App.3d 439, 449–450 [271 Cal.Rptr. 653]), or the victim’s credibility must have been placed in issue (*People v. Patino* (1994) 26 Cal.App.4th 1737, 1744–1745 [32 Cal.Rptr.2d 345].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Expert Testimony Regarding Parent’s Behavior"
+      },
+      {
+        "text": "An expert may also testify regarding reasons why a parent may delay reporting molestation of his or her child. (*People v. McAlpin* (1991) 53 Cal.3d 1289, 1300–1301 [283 Cal.Rptr. 382, 812 P.2d 563].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2016, April 2020, March 2021, September 2022, September 2024*"
+  },
+  "supplement_status": "revised"
+}

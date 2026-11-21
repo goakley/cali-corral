@@ -1,0 +1,170 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "375",
+  "title": "Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc.",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      224,
+      228
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, February 2016, August 2016, March 2023, February 2026",
+  "revision_legend": null,
+  "body": [
+    "<Introductory Sentence Alternative A—evidence of other offense admitted>",
+    "[The People presented evidence that the defendant [may have] committed ((another/other) offense[s]/the offense[s] of ______ <insert description of alleged offense[s]>) that (was/were) not charged in this case.]",
+    "<Introductory Sentence Alternative B—evidence of other act admitted>",
+    "[The People presented evidence (of other behavior by the defendant that was not charged in this case/that the defendant ______ <insert description of alleged conduct admitted under Evid. Code, § 1101(b)>).]",
+    "You may consider this evidence only if the People have proved by a preponderance of the evidence that the defendant in fact committed the (uncharged offense[s]/act[s]). Proof by a preponderance of the evidence is a different burden of proof than proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that the fact is more likely than not to be true.",
+    "If the People have not met this burden, you must disregard this evidence entirely.",
+    "If you decide that the defendant committed the (uncharged offense[s]/act[s]), you may, but are not required to, consider that evidence for the limited purpose of deciding whether:",
+    "<Select specific grounds of relevance and delete all other options>",
+    "<A. Identity>",
+    "[The defendant was the person who committed the offense[s] alleged in this case](./; or)",
+    "<B. Intent>",
+    "[The defendant acted with the intent to ______ <insert specific intent required to prove the offense[s] alleged> in this case](./; or)",
+    "<C. Motive>",
+    "[The defendant had a motive to commit the offense[s] alleged in this case](./; or)",
+    "<D. Knowledge>",
+    "[The defendant knew ______ <insert knowledge required to prove the offense[s] alleged> when (he/she) allegedly acted in this case](./; or)",
+    "<E. Accident>",
+    "[The defendant’s alleged actions were not the result of mistake or accident](./; or)",
+    "<F. Common Plan>",
+    "[The defendant had a plan [or scheme] to commit the offense[s] alleged in this case](./; or)",
+    "<G. Consent>",
+    "[The defendant reasonably and in good faith believed that ______ <insert name or description of complaining witness> consented](./; or)",
+    "<H. Other Purpose>",
+    "[The defendant ______ <insert description of other permissible purpose; see Evid. Code, § 1101(b)>.]",
+    "[In evaluating this evidence, consider the similarity or lack of similarity between the uncharged (offense[s]/[and] act[s]) and the charged offense[s].]",
+    "Do not consider this evidence for any other purpose [except for the limited purpose of ______ <insert other permitted purpose, e.g., determining the defendant’s credibility>].",
+    "[Do not conclude from this evidence that the defendant has a bad character or is disposed to commit crime.]",
+    "If you conclude that the defendant committed the (uncharged offense[s]/act[s]), that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of ______ <insert charge[s]> [or that the ______ <insert allegation[s]> has been proved]. The People must still prove (the/each) (charge/[and] allegation) beyond a reasonable doubt."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must give this instruction on request when evidence of other offenses has been introduced. (Evid. Code, § 1101(b); *People v. Carpenter* (1997) 15 Cal.4th 312, 382 [63 Cal.Rptr.2d 1, 935 P.2d 708], abrogated on other grounds in *People v. Diaz* (2015) 60 Cal.4th 1176 [185 Cal.Rptr.3d 431, 345 P.3d 62]; *People v. Collie* (1981) 30 Cal.3d 43, 63–64 [177 Cal.Rptr. 458, 634 P.2d 534].) The court is only required to give this instruction sua sponte in the “occasional extraordinary case in which unprotested evidence of past offenses is a dominant part of the evidence against the accused, and is both highly prejudicial and minimally relevant to any legitimate purpose.” (*People v. Collie, supra,* 30 Cal.3d at pp. 63–64.)"
+      },
+      {
+        "text": "Do not give this instruction in the penalty phase of a capital case. (See CALCRIM No. 764, *Death Penalty: Evidence of Other Violent Crimes*.)"
+      },
+      {
+        "text": "If evidence of uncharged conduct is admitted *only* under Evidence Code section 1108 or 1109, do not give this instruction. (See CALCRIM No. 1191, *Evidence of Uncharged Sex Offense*; CALCRIM No. 852, *Evidence of Uncharged Domestic Violence*; and CALCRIM No. 853, *Evidence of Uncharged Abuse of Elder or Dependent Person*.)"
+      },
+      {
+        "text": "If the court admits evidence of uncharged conduct amounting to a criminal offense, give introductory sentence alternative A and select the words “uncharged offense[s]” where indicated. If the court admits evidence under Evidence Code section 1101(b) that does not constitute a criminal offense, give introductory sentence alternative B and select the word “act[s]” where indicated. (*People v. Enos* (1973) 34 Cal.App.3d 25, 42 [109 Cal.Rptr. 876] [evidence tending to show defendant was “casing” a home admitted to prove intent where burglary of another home charged and defendant asserted he was in the second home by accident].) The court is not required to identify the specific acts to which this instruction applies. (*People v. Nicolas* (2004) 34 Cal.4th 614, 668 [21 Cal.Rptr.3d 612, 101 P.3d 509].)"
+      },
+      {
+        "text": "If the court has admitted evidence that the defendant was convicted of a felony or committed a misdemeanor for the purpose of impeachment in addition to evidence admitted under Evidence Code section 1101(b), then the court must specify for the jury what evidence it may consider under section 1101(b). (*People v. Rollo* (1977) 20 Cal.3d 109, 123, fn. 6 [141 Cal.Rptr. 177, 569 P.2d 771], superseded in part on other grounds as recognized in *People v. Olmedo* (1985) 167 Cal.App.3d 1085, 1096 [213 Cal.Rptr. 742].) In alternative A, insert a description of the uncharged offense allegedly shown by the 1101(b) evidence. If the court has not admitted any felony convictions or misdemeanor conduct for impeachment, then the court may give the alternative “another offense” or “other offenses” without specifying the uncharged offenses."
+      },
+      {
+        "text": "The court must instruct the jury on what issue the evidence has been admitted to prove and delete reference to all other potential theories of relevance. (*People v. Swearington* (1977) 71 Cal.App.3d 935, 949 [140 Cal.Rptr. 5]; *People v. Simon* (1986) 184 Cal.App.3d 125, 131 [228 Cal.Rptr. 855].) Select the appropriate grounds from options A through H and delete all grounds that do not apply."
+      },
+      {
+        "text": "When giving option F, the court may give the bracketed “or scheme” at its discretion, if relevant."
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins with “In evaluating this evidence” at its discretion when instructing on evidence of uncharged offenses that has been admitted based on similarity to the current offense. (See *People v. Ewoldt* (1994) 7 Cal.4th 380, 402–404 [27 Cal.Rptr.2d 646, 867 P.2d 757]; *People v. Balcom* (1994) 7 Cal.4th 414, 424 [27 Cal.Rptr.2d 666, 867 P.2d 777].) For example, when the evidence of similar offenses is admitted to prove common plan, intent, or identity, this bracketed sentence would be appropriate."
+      },
+      {
+        "text": "Give the bracketed sentence beginning with “Do not conclude from this evidence that” on request if the evidence is admitted only under Evidence Code section 1101(b). Do not give this sentence if the court is also instructing under Evidence Code section 1108 or 1109."
+      },
+      {
+        "text": "The paragraph that begins with “If you conclude that the defendant committed” has been included to prevent jury confusion regarding the standard of proof. (See *People v. Reliford* (2003) 29 Cal.4th 1007, 1012–1013 [130 Cal.Rptr.2d 254, 62 P.3d 601] [instruction on section 1108 evidence sufficient where it advised jury that prior offense alone not sufficient to convict; prosecution still required to prove all elements beyond a reasonable doubt].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Evidence Admissible for Limited Purposes. Evid. Code, § 1101(b); *People v. Ewoldt, supra,* 7 Cal.4th at pp. 393–394; *People v. Balcom, supra,* 7 Cal.4th at p. 422."
+      },
+      {
+        "text": "• Degree of Similarity Required. *People v. Ewoldt, supra,* 7 Cal.4th at pp. 402–404; *People v. Balcom, supra,* 7 Cal.4th at p. 424."
+      },
+      {
+        "text": "• Analysis Under Evidence Code Section 352 Required. *People v. Ewoldt, supra,* 7 Cal.4th at p. 404; *People v. Balcom, supra,* 7 Cal.4th at pp. 426–427."
+      },
+      {
+        "text": "• Instructional Requirements. *People v. Collie, supra,* 30 Cal.3d at pp. 63–64; *People v. Morrisson* (1979) 92 Cal.App.3d 787, 790 [155 Cal.Rptr. 152]."
+      },
+      {
+        "text": "• Other Crimes Proved by Preponderance of Evidence. *People v. Carpenter, supra,* 15 Cal.4th at p. 382."
+      },
+      {
+        "text": "• Two Burdens of Proof Pose No Problem for Properly Instructed Jury. *People v. Virgil* (2011) 51 Cal.4th 1210, 1258–1259 [126 Cal.Rptr.3d 465, 253 P.3d 553]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Circumstantial Evidence—Burden of Proof"
+      },
+      {
+        "text": "The California Supreme Court has upheld CALJIC Nos. 2.50, 2.50.1, and 2.50.2 on the burden of proof for uncharged crimes and CALJIC No. 2.01 on sufficiency of circumstantial evidence. (*People v. Virgil, supra,* 51 Cal.4th at pp. 1258–1259.) *Virgil* explained it was not error to permit consideration of evidence by two different evidentiary standards: “If the jury finds the facts sufficiently proven [by a preponderance of the evidence] for consideration, it must still decide whether the facts are sufficient, taken with all the other evidence, to prove the defendant’s guilt beyond a reasonable doubt.” (*Id.* at pp. 1259–1260.) Jury instructions on the People’s burden of proof and circumstantial evidence eliminate any danger that the jury might use the preponderance of evidence standard to decide elemental facts or issues because together those instructions make clear that ultimate facts must be proved beyond a reasonable doubt. (*Ibid*.)"
+      },
+      {
+        "heading": true,
+        "text": "Issue in Dispute"
+      },
+      {
+        "text": "The “defendant’s plea of not guilty does put the elements of the crime in issue for the purpose of deciding the admissibility of evidence of uncharged misconduct, unless the defendant has taken some action to narrow the prosecution’s burden of proof.” (*People v. Ewoldt, supra,* 7 Cal.4th at p. 400, fn. 4; *People v. Rowland* (1992) 4 Cal.4th 238, 260 [14 Cal.Rptr.2d 377, 841 P.2d 897].) The defense may seek to “narrow the prosecution’s burden of proof” by stipulating to an issue. (*People v. Bruce* (1989) 208 Cal.App.3d 1099, 1103–1106 [256 Cal.Rptr. 647].) “[T]he prosecution in a criminal case cannot be compelled to accept a stipulation if the effect would be to deprive the state’s case of its persuasiveness and forcefulness.” (*People v. Scheid* (1997) 16 Cal.4th 1, 16–17 [65 Cal.Rptr.2d 348, 939 P.2d 748].) However, an offer to stipulate may make the evidence less probative and more cumulative, weighing in favor of exclusion under Evidence Code section 352. (*People v. Thornton* (2000) 85 Cal.App.4th 44, 49 [101 Cal.Rptr.2d 825] [observing that offer “not to argue” the issue is insufficient].) The court must also consider whether there could be a “reasonable dispute” about the issue. (See *People v. Balcom, supra,* 7 Cal.4th at pp. 422–423 [evidence of other offense not admissible to show intent to rape because if jury believed witness’s account, intent could not reasonably be disputed]; *People v. Bruce, supra,* 208 Cal.App.3d at pp. 1103–1106 [same].)"
+      },
+      {
+        "heading": true,
+        "text": "Subsequent Offenses Admissible"
+      },
+      {
+        "text": "Evidence of a subsequent as well as a prior offense is admissible. (*People v. Balcom, supra,* 7 Cal.4th at pp. 422–423, 425.)"
+      },
+      {
+        "heading": true,
+        "text": "Offenses Not Connected to Defendant"
+      },
+      {
+        "text": "Evidence of other offenses committed in the same manner as the alleged offense is not admissible unless there is sufficient evidence that the defendant committed the uncharged offenses. (*People v. Martinez* (1992) 10 Cal.App.4th 1001, 1006–1007 [12 Cal.Rptr.2d 838] [evidence of how auto-theft rings operate inadmissible]; *People v. Hernandez* (1997) 55 Cal.App.4th 225, 242 [63 Cal.Rptr.2d 769] [evidence from police database of similar sexual offenses committed by unknown assailant inadmissible].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

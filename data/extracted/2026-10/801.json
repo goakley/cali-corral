@@ -1,0 +1,139 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "801",
+  "title": "Mayhem (Pen. Code, § 203)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      606,
+      608
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, February 2014, March 2017",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with mayhem [in violation of Penal Code section 203].",
+    "To prove that the defendant is guilty of mayhem, the People must prove that the defendant unlawfully and maliciously:",
+    "[1. Removed a part of someone’s body(;/.)]",
+    "[OR]",
+    "[2. Disabled or made useless a part of someone’s body and the disability was more than slight or temporary(;/.)]",
+    "[OR]",
+    "[3. Permanently disfigured someone(;/.)]",
+    "[OR]",
+    "[4. Cut or disabled someone’s tongue(;/.)]",
+    "[OR]",
+    "[5. Slit someone’s (nose[, ]/ear[,]/[or] lip) (;/.)]",
+    "[OR]",
+    "[6. Put out someone’s eye or injured someone’s eye in a way that so significantly reduced (his/her) ability to see that the eye was useless for the purpose of ordinary sight.]",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else.",
+    "[A disfiguring injury may be *permanent* even if it can be repaired by medical procedures.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Whether the complaining witness suffered a serious bodily injury is a question for the jury to determine. If the defendant disputes that the injury suffered was a serious bodily injury, use the first bracketed paragraph. If the parties stipulate that the injury suffered was a serious bodily injury, use the second bracketed paragraph."
+      },
+      {
+        "text": "The last bracketed sentence may be given on request if there is evidence of a disfiguring injury that may be repaired by medical procedures. (See *People v. Hill* (1994) 23 Cal.App.4th 1566, 1574–1575 [28 Cal.Rptr.2d 783] [not error to instruct that injury may be permanent even though cosmetic repair may be medically feasible].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 203."
+      },
+      {
+        "text": "• Malicious Defined. Pen. Code, § 7, subd. 4; *People v. Lopez* (1986) 176 Cal.App.3d 545, 550 [222 Cal.Rptr. 101]."
+      },
+      {
+        "text": "• No Serious Bodily Injury Requirement. *People v. Santana* (2013) 56 Cal.4th 999, 1010 [157 Cal.Rptr.3d 547, 301 P.3d 1157]."
+      },
+      {
+        "text": "• Disabled. See, e.g., *People v. Thomas* (1979) 96 Cal.App.3d 507, 512 [158 Cal.Rptr. 120] [serious ankle injury lasting over six months], overruled on other grounds in *People v. Kimble* (1988) 44 Cal.3d 480, 498 [244 Cal.Rptr. 148, 749 P.2d 803]."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Villegas* (2001) 92 Cal.App.4th 1217, 1226 [113 Cal.Rptr.2d 1]; *People v. Sekona* (1994) 27 Cal.App.4th 443, 453 [32 Cal.Rptr.2d 606]."
+      },
+      {
+        "text": "• Permanent Disfigurement. *People v. Hill* (1994) 23 Cal.App.4th 1566, 1571 [28 Cal.Rptr.2d 783]; *Goodman v. Superior Court* (1978) 84 Cal.App.3d 621, 624 [148 Cal.Rptr. 799]; see also *People v. Newble* (1981) 120 Cal.App.3d 444, 451 [174 Cal.Rptr. 637] [head is member of body for purposes of disfigurement]."
+      },
+      {
+        "text": "• Put Out Eye. *People v. Dennis* (1985) 169 Cal.App.3d 1135, 1138 [215 Cal.Rptr. 750]; *People v. Green* (1976) 59 Cal.App.3d 1, 3–4 [130 Cal.Rptr. 318] [addressing corrective lenses]; *People v. Nunes* (1920) 47 Cal.App. 346, 350 [190 P. 486]."
+      },
+      {
+        "text": "• Slit Lip. *People v. Caldwell* (1984) 153 Cal.App.3d 947, 952 [200 Cal.Rptr. 508] [defendant bit through victim’s lower lip]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Mayhem. Pen. Code, §§ 203, 663."
+      },
+      {
+        "text": "• Assault. Pen. Code, § 240; see *People v. De Angelis* (1979) 97 Cal.App.3d 837, 841 [159 Cal.Rptr. 111] [mayhem occurred during continuing assault]."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "Assault with force likely to produce great bodily injury (Pen. Code, § 245(a)(1)) is not a lesser included offense to mayhem. (*People v. Ausbie* (2004) 123 Cal.App.4th 855, 862–863 [20 Cal.Rptr.3d 371].)"
+      },
+      {
+        "text": "Battery with serious bodily injury is not a lesser included offense of mayhem under the statutory elements test. *People v. Poisson* (2016) 246 Cal.App.4th 121, 123–125 [200 Cal.Rptr.3d 542]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Disfigurement"
+      },
+      {
+        "text": "Disfigurement constitutes mayhem “only when the injury is permanent.” (*Goodman v. Superior Court* (1978) 84 Cal.App.3d 621, 624 [148 Cal.Rptr. 799]; *People v. Hill* (1994) 23 Cal.App.4th 1566, 1571 [28 Cal.Rptr.2d 783].) However, the “possibility that a victim’s disfigurement might be alleviated through reconstructive surgery is no bar to a finding of ‘permanent’ injury.” (*People v. Williams* (1996) 46 Cal.App.4th 1767, 1774 [54 Cal.Rptr.2d 521].) “We . . . reject [the] contention that evidence of medical alleviation may be used in a mayhem trial to prove an injury, permanent by its nature, may be corrected by medical procedures.” (*People v. Hill*, *supra*, 23 Cal.App.4th at p. 1574.) In addition, “[t]he fact that [disfiguring injuries] are on a normally unexposed portion of [a] body does not render them any less significant.” (*People v. Keenan* (1991) 227 Cal.App.3d 26, 36 [277 Cal.Rptr. 687] [burns inflicted on victim’s breasts by a cigarette].)"
+      },
+      {
+        "heading": true,
+        "text": "Imperfect Self-Defense Not Available"
+      },
+      {
+        "text": "“[A]part from the *McKelvy* lead opinion, there is no authority to support [the] claim that the mere use of the term ‘malicious’ in section 203 requires a court to instruct a jury that an actual but unreasonable belief will negate the malice required to convict for mayhem . . . . [Mayhem] involves a different requisite mental state and has no statutory history recognizing a malice aforethought element or the availability of the *Flannel* defense.” (*People v. Sekona* (1994) 27 Cal.App.4th 443, 457 [32 Cal.Rptr.2d 606]; contra, *People v. McKelvy* (1987) 194 Cal.App.3d 694, 702–704 [239 Cal.Rptr. 782] (lead opn. of Kline, P.J.).)"
+      },
+      {
+        "heading": true,
+        "text": "Victim Must Be Alive"
+      },
+      {
+        "text": "A victim of mayhem must be alive at the time of the act. (*People v. Kraft* (2000) 23 Cal.4th 978, 1058 [99 Cal.Rptr.2d 1, 5 P.3d 68]; see *People v. Jentry* (1977) 69 Cal.App.3d 615, 629 [138 Cal.Rptr. 250].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

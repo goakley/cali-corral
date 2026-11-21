@@ -1,0 +1,168 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1060",
+  "title": "Lewd or Lascivious Act: Dependent Person (Pen. Code, § 288(b)(2) & (c)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      891,
+      895
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, September 2017, March 2022, September 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with a lewd or lascivious act on a dependent person [by force or fear] [in violation of Penal Code section 288].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was a caretaker of a dependent person;",
+    "2. The defendant willfully (committed/conspired to commit/aided and abetted/facilitated) a lewd or lascivious act on a person;",
+    "[AND]",
+    "3. The defendant (committed/conspired to commit/aided and abetted/facilitated) the act with the intent of arousing, appealing to, or gratifying the lust, passions, or sexual desires of (himself/herself) or the dependent person(;/.)",
+    "<Give element 4 when instructing on force or violence>",
+    "[AND",
+    "4. In (committing/conspiring to commit/aiding and abetting/facilitating) the act, the defendant used force, violence, duress, menace, or fear of immediate and unlawful bodily injury to the dependent person or someone else.]",
+    "A *lewd or lascivious act* is any touching of a person with the intent to sexually arouse the perpetrator or the other person. A *lewd or lascivious act* includes touching any part of the person’s body, either on the bare skin or through the clothes the person is wearing. [A *lewd or lascivious act* includes causing someone to touch his or her own body or someone else’s body at the instigation of the perpetrator who has the required intent.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "A *caretaker* is an owner, operator, administrator, employee, independent contractor, agent, or volunteer of a public or private facility, including (a/an) ______ <insert specific facility from Pen. Code, § 288(f)(1)>, that provides care for dependent persons or for those aged 65 or older.",
+    "A *dependent person* is someone who has physical or mental impairments that substantially restrict his or her ability to carry out normal activities or to protect his or her rights. This definition includes, but is not limited to, those who have developmental disabilities or whose physical or mental abilities have been significantly diminished by age.",
+    "[Actually arousing, appealing to, or gratifying the lust, passions, or sexual desires of the perpetrator or dependent person is not required.]",
+    "[The *force* used must be substantially different from or substantially greater than the force needed to accomplish the lewd and lascivious act itself.]",
+    "[*Duress* is a direct or implied threat of force, violence, danger, hardship, or retribution that causes a reasonable person to do [or submit to] something that he or she would not do [or submit to] otherwise. When deciding whether the act was accomplished by duress, consider all the circumstances, including the age of the dependent person and (his/her) relationship to the defendant.]",
+    "[*Retribution* is a form of payback or revenge.]",
+    "[*Menace* means a threat, statement, or act showing an intent to injure someone.]",
+    "[An act is accomplished by *fear* if the dependent person is actually and reasonably afraid [or (he/she) is actually but unreasonably afraid and the defendant knows of (his/her) fear and takes advantage of it].]",
+    "[It is not a defense that the dependent person may have consented to the act.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged in a single count with multiple alleged acts, the court has a sua sponte duty to instruct on unanimity. (*People v. Jones* (1990) 51 Cal.3d 294, 321–322 [270 Cal.Rptr. 611, 792 P.2d 643].) The court must determine whether it is appropriate to give the standard unanimity instruction, CALCRIM No. 3500, *Unanimity*, or the modified unanimity instruction, CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*. Review the discussion in the bench notes to these two instructions and *People v. Jones, supra,* 51 Cal.3d at pp. 321–322."
+      },
+      {
+        "text": "If the defendant is charged with using force or fear in committing the lewd act on a dependent person, give bracketed element 4 and the bracketed sentence that begins with “The force must be substantially different.” (See *People v. Pitmon* (1985) 170 Cal.App.3d 38, 52 [216 Cal.Rptr. 221] [court has sua sponte duty to define “force” as used in Pen. Code, § 288(b)(1)]; *People v. Griffin* (2004) 33 Cal.4th 1015, 1018–1019 [16 Cal.Rptr.3d 891, 94 P.3d 1089].) On request, give any of the relevant bracketed definitions of duress, menace, or fear."
+      },
+      {
+        "text": "In the paragraph defining “caretaker,” insert applicable caretaker facilities listed in Penal Code section 288(f)(1), such as a 24-hour health facility, a home health agency, or a community care or respite care facility, depending on the facts of the case."
+      },
+      {
+        "text": "Penal Code section 288(b)(2) or (c)(2) does not apply to a caretaker who is a spouse of, or who is in an equivalent domestic relationship with, the dependent person. (Pen. Code, § 288(h).)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins, “Actually arousing, appealing to,” on request. (*People v. McCurdy* (1923) 60 Cal.App. 499, 502 [213 P. 59].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “It is not a defense that” on request, if there is evidence that the dependent adult consented to the act. (*People v. Montoya* (2021) 68 Cal.App.5th 980, 999 [284 Cal.Rptr.3d 18] [“nothing in the language of section 288, subdivisions (a) and (c)(2) indicates that lack of consent is an element of lewd conduct by a caretaker upon a dependent person.”].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 288(b)(2) & (c)(2)."
+      },
+      {
+        "text": "• Caretaker Defined. Pen. Code, § 288(f)(1) & (g)."
+      },
+      {
+        "text": "• Dependent Person Defined. Pen. Code, § 288(f)(3)."
+      },
+      {
+        "text": "• Duress Defined. *People v. Leal* (2004) 33 Cal.4th 999, 1004–1010 [16 Cal.Rptr.3d 869]; *People v. Pitmon, supra,* 170 Cal.App.3d at p. 50; *People v. Cochran* (2002) 103 Cal.App.4th 8, 13–14 [126 Cal.Rptr.2d 416]."
+      },
+      {
+        "text": "• Elder Defined. See Pen. Code, § 368(g)."
+      },
+      {
+        "text": "• Menace Defined. See Pen. Code, § 261(c) [in context of rape]."
+      },
+      {
+        "text": "• Actual Arousal Not Required. See *People v. McCurdy, supra,* 60 Cal.App. at p. 502."
+      },
+      {
+        "text": "• Any Touching With Intent to Arouse. See *People v. Martinez* (1995) 11 Cal.4th 434, 444, 452 [45 Cal.Rptr.2d 905, 903 P.2d 1037] [disapproving *People v. Wallace* (1992) 11 Cal.App.4th 568, 574–580 [14 Cal.Rptr.2d 67] and its progeny]; see *People v. Diaz* (1996) 41 Cal.App.4th 1424, 1427–1428 [49 Cal.Rptr.2d 252] [list of examples]."
+      },
+      {
+        "text": "• Dependent Person Touching Own Body Parts at Defendant’s Instigation. See *People v. Meacham* (1984) 152 Cal.App.3d 142, 152–153 [199 Cal.Rptr. 586] [“constructive” touching; approving *Austin* instruction]; *People v. Austin* (1980) 111 Cal.App.3d 110, 114–115 [168 Cal.Rptr. 401]."
+      },
+      {
+        "text": "• Fear Defined. See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 939–940 [26 Cal.Rptr.2d 567]; *People v. Iniguez* (1994) 7 Cal.4th 847 [30 Cal.Rptr.2d 258, 872 P.2d 1183] [in context of rape]."
+      },
+      {
+        "text": "• Force Defined. *People v. Cicero* (1984) 157 Cal.App.3d 465, 474 [204 Cal.Rptr. 582]; *People v. Pitmon, supra,* 170 Cal.App.3d at p. 52; see also *People v. Griffin, supra,* 33 Cal.4th at pp. 1018–1019 [discussing *Cicero* and *Pitmon*]."
+      },
+      {
+        "text": "• Lewd Defined. See *In re Smith* (1972) 7 Cal.3d 362, 365 [102 Cal.Rptr. 335, 497 P.2d 807] [in context of indecent exposure]; see *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256–257, fn. 13 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      },
+      {
+        "text": "• Defendant Need Not Be Victim’s Caretaker. *People v. Montoya, supra,* 68 Cal.App.5th at p. 1001."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The instruction includes definitions of “force” and “fear” because those terms have meanings in the context of the crime of lewd acts by force that are technical and may not be readily apparent to jurors. (*People v. Pitmon, supra,* 170 Cal.App.3d at p. 52 [force]; see *People v. Cardenas, supra,* 21 Cal.App.4th at pp. 939–940 [fear]; *People v. Iniguez, supra,* 7 Cal.4th at pp. 856–857 [fear in context of rape].) The Court of Appeal has held that the definition of “force” as used in Penal Code section 288(b), subsection (1) (lewd acts by force with a minor) is different from the meaning of “force” as used in other sex offense statutes. (*People v. Cicero, supra,* 157 Cal.App.3d at p. 474 disapproved on other grounds by *People v. Soto* (2011) 51 Cal.4th 229, 241–244 [119 Cal.Rptr.3d 775, 245 P.3d 410].) In other sex offense statutes, such as Penal Code section 261 defining rape, “force” does not have a technical meaning and there is no requirement to define the term. (*People v. Griffin, supra,* 33 Cal.4th at pp. 1018–1019.) In Penal Code section 288(b)(1), on the other hand, “force” means force “*substantially* different from or *substantially* greater than” the physical force normally inherent in the sexual act. (*Id.* at p. 1018 [quoting *People v. Cicero, supra,* 157 Cal.App.3d at p. 474] [emphasis in *Griffin*].) The court is required to instruct sua sponte in this special definition of “force.” (*People v. Pitmon, supra,* 170 Cal.App.3d at p. 52; see also *People v. Griffin, supra,* 33 Cal.4th at pp. 1026–1028.) It would seem that this definition of “force” would also apply to the crime of lewd acts with a dependant person, under Penal Code section 288(b), subsection (2)."
+      },
+      {
+        "text": "The court is not required to instruct sua sponte on the definition of “duress” or “menace” and Penal Code section 288 does not define either term. (*People v. Pitmon, supra,* 170 Cal.App.3d at p. 52 [duress].) Optional definitions are provided for the court to use at its discretion. The definition of “duress” is based on *People v. Leal, supra,* 33 Cal.4th at pp. 1004–1010, and *People v. Pitmon, supra,* 170 Cal.App.3d at p. 50. The definition of “menace” is based on the statutory definition contained in Penal Code section 261 (rape). (See *People v. Cochran, supra,* 103 Cal.App.4th at pp. 13–14 [using rape definition in case involving forcible lewd acts].) In *People v. Leal, supra,* 33 Cal.4th at p. 1007, the court held that the statutory definition of “duress” contained in Penal Code sections 261 and former 262 does not apply to the use of that term in any other statute. The court did not discuss the statutory definition of “menace.” The court should consider the *Leal* opinion before giving the definition of “menace.”"
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Lewd Act With Dependent Person. Pen. Code, §§ 664, 288(c)(2)."
+      },
+      {
+        "text": "• Attempted Lewd Act by Force With Dependent Person. Pen. Code, §§ 664, 288(b)(2)."
+      },
+      {
+        "text": "• Simple Battery Not Lesser Included Offense of Lewd Act on Dependent Person Under the Statutory Elements Test. *People v. Chenelle* (2016) 4 Cal.App.5th 1255, 1263–1264 [209 Cal.Rptr.3d 371]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Developmental Disability"
+      },
+      {
+        "text": "If the dependent person has a developmental disability, arguably there is no sua sponte duty to define “developmental disability” under Welfare and Institutions Code section 4512(a) or Penal Code section 1370.1(a)(1). The Legislature did not intend to limit this phrase in other code sections to such technical medical or legal definitions, although a pinpoint instruction may be requested if it helps the jury in any particular case. (See *People v. Mobley* (1999) 72 Cal.App.4th 761, 781–783 [85 Cal.Rptr.2d 474] [in context of oral copulation of disabled person].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

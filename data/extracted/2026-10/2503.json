@@ -1,0 +1,125 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2503",
+  "title": "Possession of Deadly Weapon With Intent to Assault (Pen. Code, § 17500)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1730,
+      1732
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, February 2013, September 2019, September 2020, March 2022, February 2025, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with possessing a deadly weapon with intent to assault [in violation of Penal Code section 17500].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant possessed a deadly weapon on (his/her) person;",
+    "2. The defendant knew that (he/she) possessed the weapon;",
+    "AND",
+    "3. At the time the defendant possessed the weapon, (he/she) intended to assault someone.",
+    "A person intends to assault someone else if he or she intends to do an act that by its nature would directly and probably result in the application of force to a person.",
+    "[A *deadly weapon* is any object, instrument, or weapon [that is inherently deadly or one] that is used in such a way that it is capable of causing and likely to cause death or great bodily injury.]",
+    "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it was designed.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[The term *deadly weapon* is defined in another instruction to which you should refer.]",
+    "[In deciding whether an object is a deadly weapon, consider all the surrounding circumstances, including when and where the object was possessed[,] [and] [where the person who possessed the object was going][,] [and] [whether the object was changed from its standard form] and any other evidence that indicates that the object would be used for a dangerous, rather than a harmless, purpose.]",
+    "The term *application of force* means to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "[The People allege that the defendant possessed the following weapons: ______ <insert description of each weapon when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant possessed at least one of these weapons and you all agree on which weapon (he/she) possessed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple weapons and the possession was “fragmented as to time [or] space,” the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483].) Give the bracketed paragraph that begins with “The People allege that the defendant possessed the following weapons,” inserting the items alleged."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "Give the definition of deadly weapon unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "Give the bracketed phrase “that is inherently deadly or one” and give the bracketed definition of *inherently deadly* only if the object is a deadly weapon as a matter of law. (*People v. Stutelberg* (2018) 29 Cal.App.5th 314, 317–318 [240 Cal.Rptr.3d 156].)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “In deciding whether” if the object is not a weapon as a matter of law and is capable of innocent uses. (*People v. Aguilar* (1997) 16 Cal.4th 1023, 1028–1029 [68 Cal.Rptr.2d 655, 945 P.2d 1204]; *People v. Godwin* (1996) 50 Cal.App.4th 1562, 1573–1574 [58 Cal.Rptr.2d 545].)"
+      },
+      {
+        "text": "If determining whether the item is an inherently deadly weapon requires resolution of a factual issue, give both bracketed instructions."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Evidence of voluntary intoxication or mental impairment may be admitted to show that the defendant did not form the required mental state. (See *People v. Ricardi* (1992) 9 Cal.App.4th 1427, 1432 [12 Cal.Rptr.2d 364].) The court has no sua sponte duty to instruct on these defenses; however, the trial court must give these instructions on request if supported by the evidence. (*People v. Saille* (1991) 54 Cal.3d 1103, 1119 [2 Cal.Rptr.2d 364, 820 P.2d 588] [on duty to instruct generally]; *People v. Stevenson* (1978) 79 Cal.App.3d 976, 988 [145 Cal.Rptr. 301] [instructions applicable to possession of weapon with intent to assault].) See Defenses and Insanity, CALCRIM No. 3400 et seq."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 17500."
+      },
+      {
+        "text": "• “Deadly Weapon” Defined. *People v. Brown* (2012) 210 Cal.App.4th 1, 6–8 [147 Cal.Rptr.3d 848]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029."
+      },
+      {
+        "text": "• Objects With Innocent Uses. *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029; *People v. Godwin, supra,* 50 Cal.App.4th at pp. 1573–1574."
+      },
+      {
+        "text": "• “Knowledge” Required. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]; *People v. Gaitan* (2001) 92 Cal.App.4th 540, 547 [111 Cal.Rptr.2d 885]."
+      },
+      {
+        "text": "• Assault. Pen. Code, § 240; see also *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• “Inherently Deadly” Defined. *People v. Perez* (2018) 4 Cal.5th 1055, 1065 [232 Cal.Rptr.3d 51, 416 P.3d 42]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029."
+      },
+      {
+        "text": "• Examples of Noninherently Deadly Weapon. *People v. Aledamat* (2019) 8 Cal.5th 1, 6 [251 Cal.Rptr.3d 371, 447 P.3d 277] [box cutter]; *People v. Perez, supra,* 4 Cal.5th at p. 1065 [vehicle]; *People v. McCoy* (1944) 25 Cal.2d 177, 188 [153 P.2d 315] [knife]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

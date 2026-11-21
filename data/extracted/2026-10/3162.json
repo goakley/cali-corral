@@ -1,0 +1,135 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3162",
+  "title": "Great Bodily Injury: Age of Victim (Pen. Code, § 12022.7(c) & (d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2240,
+      2243
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, December 2008, September 2020, March 2024,* October 2025",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______[,] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant personally inflicted great bodily injury on someone who was (under the age of 5 years/70 years of age or older). [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant personally inflicted great bodily injury on ______ <insert name of injured person> during the commission [or attempted commission] of the crime;",
+    "[AND]",
+    "2. At that time, ______ <insert name of injured person> was (under the age of 5 years/70 years of age or older)(./;)",
+    "<Give element 3 when instructing on whether injured person was an accomplice.>",
+    "[AND",
+    "3. ______ <insert name of injured person> was not an accomplice to the crime.]",
+    "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "[Committing the crime of ______ <insert sexual offense charged> is not by itself the infliction of great bodily injury.]",
+    "<Group Assault>",
+    "[If you conclude that more than one person assaulted ______ <insert name of injured person> and you cannot decide which person caused which injury, you may conclude that the defendant personally inflicted great bodily injury on ______ <insert name of injured person> if the People have proved that:",
+    "1. Two or more people, acting at the same time, assaulted ______ <insert name of injured person> and inflicted great bodily injury on (him/her);",
+    "2. The defendant personally used physical force on ______ <insert name of injured person> during the group assault;",
+    "AND",
+    "[3A. The amount or type of physical force the defendant used on ______ <insert name of injured person> was enough that it alone could have caused ______ <insert name of injured person> to suffer great bodily injury(;/.)]",
+    "[OR]",
+    "[3B. The physical force that the defendant used on ______ <insert name of injured person> was sufficient in combination with the force used by the others to cause ______ <insert name of injured person> to suffer great bodily injury.]",
+    "The defendant must have applied substantial force to ______ <insert name of injured person>. If that force could not have caused or contributed to the great bodily injury, then it was not substantial.]",
+    "[A person is an *accomplice* if he or she is subject to prosecution for the identical crime charged against the defendant. Someone is subject to prosecution if he or she personally committed the crime or if:",
+    "1. He or she knew of the criminal purpose of the person who committed the crime;",
+    "AND",
+    "2. He or she intended to, and did in fact, (aid, facilitate, promote, encourage, or instigate the commission of the crime/[or] participate in a criminal conspiracy to commit the crime).]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "<If there is an issue in the case over whether the defendant inflicted the injury “during the commission of” the offense, see Bench Notes.>",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the enhancement when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “Committing the crime of” if the defendant is charged with a sexual offense. (*People v. Escobar* (1992) 3 Cal.4th 740, 746 [12 Cal.Rptr.2d 586, 837 P.2d 1100] [injury must be more than that which is present in every offense of rape].)"
+      },
+      {
+        "text": "The bracketed section beneath the heading “Group Assault” is designed to be used in cases where the evidence shows a group assault."
+      },
+      {
+        "text": "If the court gives bracketed element 3 instructing that the People must prove that the person assaulted “was not an accomplice to the crime,” the court should also give the bracketed definition of “accomplice.” (*People v. Verlinde* (2002) 100 Cal.App.4th 1146, 1167–1168 [123 Cal.Rptr.2d 322].) Additional paragraphs providing further explanation of the definition of “accomplice” are contained in CALCRIM No. 334, *Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice*. The court should review that instruction and determine whether any of these additional paragraphs should be given."
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "text": "The jury must determine whether an injury constitutes “great bodily injury.” (*People v. Escobar, supra,* 3 Cal.4th at p. 750; *People v. Nava* (1989) 207 Cal.App.3d 1490, 1498 [255 Cal.Rptr. 903] [reversible error to instruct that a bone fracture is a significant or substantial injury].) A jury’s finding of serious bodily injury is not equivalent to a finding of great bodily injury. (*In re Cabrera* (2023) 14 Cal.5th 476, 491 [304 Cal.Rptr.3d 798, 524 P.3d 784].)"
+      },
+      {
+        "text": "If the case involves an issue of whether the defendant inflicted the injury “during the commission of” the offense, the court may give CALCRIM No. 3261, *While Committing a Felony: Defined—Escape Rule*. (See *People v. Jones* (2001) 25 Cal.4th 98, 109 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancements. Pen. Code, § 12022.7(c) & (d)."
+      },
+      {
+        "text": "• “Great Bodily Injury” Defined. Pen. Code, § 12022.7(f); *In re Cabrera, supra,* 14 Cal.5th at p. 484 [not equivalent to serious bodily injury]; *People v. Escobar, supra,* 3 Cal.4th at pp. 749–750 [greater than minor or moderate harm]."
+      },
+      {
+        "text": "• Must Personally Inflict Injury. *People v. Lee* (2003) 31 Cal.4th 613, 631 [3 Cal.Rptr.3d 402, 74 P.3d 176]; *People v. Cole* (1982) 31 Cal.3d 568, 571 [183 Cal.Rptr. 350, 645 P.2d 1182]; *People v. Ramirez* (1987) 189 Cal.App.3d 603, 627 [236 Cal.Rptr. 404] [Pen. Code, § 12022.8]."
+      },
+      {
+        "text": "• Sex Offenses—Injury Must Be More Than Incidental to Offense. *People v. Escobar, supra,* 3 Cal.4th at p. 746."
+      },
+      {
+        "text": "• Group Beating Instruction. *People v. Modiri* (2006) 39 Cal.4th 481, 500–501 [46 Cal.Rptr.3d 762]."
+      },
+      {
+        "text": "• “Accomplice” Defined. See Pen. Code, § 1111; *People v. Verlinde, supra,* 100 Cal.App.4th at pp. 1167–1168; *People v. Stankewitz* (1990) 51 Cal.3d 72, 90–91 [270 Cal.Rptr. 817, 793 P.2d 23]."
+      },
+      {
+        "text": "• “During Commission of” Felony. *People v. Jones, supra,* 25 Cal.4th at pp. 109–110; *People v. Masbruch, supra,* 13 Cal.4th at p. 1014; *People v. Taylor, supra,* 32 Cal.App.4th at p. 582."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 3160, *Great Bodily Injury*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

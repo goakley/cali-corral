@@ -1,0 +1,47 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "106",
+  "title": "Jurors Asking Questions",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      93,
+      93
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006",
+  "revision_legend": null,
+  "body": [
+    "If, during the trial, you have a question that you believe should be asked of a witness, you may write out the question and send it to me through the bailiff. I will discuss the question with the attorneys and decide whether it may be asked. Do not feel slighted or disappointed if your question is not asked. Your question may not be asked for a variety of reasons, including the reason that the question may call for an answer that is inadmissible for legal reasons. Also, do not guess the reason your question was not asked or speculate about what the answer might have been. Always remember that you are not advocates for one side or the other in this case. You are impartial judges of the facts."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction may be given on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Statutory Admonitions. See generally Pen. Code, § 1122."
+      },
+      {
+        "text": "• Juror Questions. California Rules of Court, Rule 2.1033."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

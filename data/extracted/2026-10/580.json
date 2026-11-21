@@ -1,0 +1,141 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "580",
+  "title": "Involuntary Manslaughter: Lesser Included Offense (Pen. Code, § 192(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      407,
+      411
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2013, September 2018, September 2020, September 2022, October 2025",
+  "revision_legend": null,
+  "body": [
+    "When a person commits an unlawful killing but does not intend to kill and does not act with conscious disregard for human life, then the crime is involuntary manslaughter.",
+    "The difference between other homicide offenses and involuntary manslaughter depends on whether the person was aware of the risk to life that his or her actions created and consciously disregarded that risk. An unlawful killing caused by a willful act done with full knowledge and awareness that the person is endangering the life of another, and done in conscious disregard of that risk, is voluntary manslaughter or murder. An unlawful killing resulting from a willful act committed without intent to kill and without conscious disregard of the risk to human life is involuntary manslaughter.",
+    "The defendant committed involuntary manslaughter if:",
+    "1. The defendant committed (a crime/[or] a lawful act in an unlawful manner);",
+    "2. The defendant committed the (crime/[or] act) with criminal negligence;",
+    "AND",
+    "3. The defendant’s acts caused the death of another person.",
+    "[The People allege that the defendant committed the following crime[s]: ______ <insert misdemeanor[s]/infraction[s])/noninherently dangerous (felony/felonies)/inherently dangerous assaultive (felony/felonies)>.",
+    "Instruction[s] ______ tell[s] you what the People must prove in order to prove that the defendant committed ______ <insert misdemeanor[s]/infraction[s])/noninherently dangerous (felony/felonies)/inherently dangerous assaultive (felony/felonies)>.]",
+    "[The People [also] allege that the defendant committed the following lawful act[s] with criminal negligence: ______ <insert act[s] alleged>.]",
+    "*Criminal negligence* involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with criminal negligence when:",
+    "1. He or she acts in a reckless way that creates a high risk of death or great bodily injury;",
+    "AND",
+    "2. A reasonable person would have known that acting in that way would create such a risk.",
+    "In other words, a person acts with criminal negligence when the way he or she acts is so different from the way an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act.",
+    "[An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.]",
+    "[There may be more than one cause of death. An act causes death only if it is a substantial factor in causing the death. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death.]",
+    "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "[The People allege that the defendant committed the following (crime[s]/[and] lawful act[s] with criminal negligence): ______ <insert alleged predicate acts when multiple acts alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant committed at least one of these alleged acts and you all agree that the same act or acts were proved.]",
+    "In order to prove murder or voluntary manslaughter, the People have the burden of proving beyond a reasonable doubt that the defendant acted with intent to kill or with conscious disregard for human life. If the People have not met either of these burdens, you must find the defendant not guilty of murder and not guilty of voluntary manslaughter."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on involuntary manslaughter as a lesser included offense of murder when there is sufficient evidence that the defendant lacked malice. (*People v. Glenn* (1991) 229 Cal.App.3d 1461, 1465–1467 [280 Cal.Rptr. 609], overruled in part in *People v. Blakeley* (2000) 23 Cal.4th 82, 91 [96 Cal.Rptr.2d 451, 999 P.2d 675].)"
+      },
+      {
+        "text": "When instructing on involuntary manslaughter as a lesser offense, the court has a sua sponte duty to instruct on both theories of involuntary manslaughter (misdemeanor/infraction/noninherently dangerous felony/inherently dangerous assaultive felony and lawful act committed without due caution and circumspection) if both theories are supported by the evidence. (*People v. Lee* (1999) 20 Cal.4th 47, 61 [82 Cal.Rptr.2d 625, 971 P.2d 1001].) In element 2, instruct on either or both of theories of involuntary manslaughter as appropriate."
+      },
+      {
+        "text": "The court has a sua sponte duty to specify the predicate misdemeanor, infraction, or noninherently dangerous felony alleged and to instruct on the elements of the predicate offense(s). (*People v. Milham* (1984) 159 Cal.App.3d 487, 506 [205 Cal.Rptr. 688]; *People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409]; *People v. Burroughs* (1984) 35 Cal.3d 824, 835 [201 Cal.Rptr. 319, 678 P.2d 894], disapproved on other grounds in *People v. Blakeley, supra,* 23 Cal.4th at p. 89.)"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on involuntary manslaughter based on the commission of an inherently dangerous assaultive felony and to instruct on the elements of the predicate offense(s). (*People v. Brothers* (2015) 236 Cal.App.4th 24, 33–34 [186 Cal.Rptr.3d 98]; see also *People v. Bryant* (2013) 56 Cal.4th 959, 964 [157 Cal.Rptr.3d 522, 301 P.3d 1136].)"
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of death, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of death, the court should also give the “substantial factor” instruction in the second bracketed paragraph on causation. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].) See also CALCRIM No. 620, *Causation: Special Issues*."
+      },
+      {
+        "text": "In cases involving vehicular manslaughter (Pen. Code, § 192(c)), there is a split in authority on whether there is a sua sponte duty to give a unanimity instruction when multiple predicate offenses are alleged. (*People v. Gary* (1987) 189 Cal.App.3d 1212, 1218 [235 Cal.Rptr. 30], overruled on other grounds in *People v. Flood* (1998) 18 Cal.4th 470, 481 [76 Cal.Rptr.2d 180, 957 P.2d 869]; *People v. Durkin* (1988) 205 Cal.App.3d Supp. 9, 13 [252 Cal.Rptr. 735]; *People v. Mitchell* (1986) 188 Cal.App.3d 216, 222 [232 Cal.Rptr. 438]; *People v. Leffel* (1988) 203 Cal.App.3d 575, 586–587 [249 Cal.Rptr. 906].) A unanimity instruction is included in a bracketed paragraph, should the court determine that such an instruction is appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• “Involuntary Manslaughter” Defined. Pen. Code, § 192(b)."
+      },
+      {
+        "text": "• Due Caution and Circumspection. *People v. Penny* (1955) 44 Cal.2d 861, 879–880 [285 P.2d 926]; *People v. Rodriguez* (1960) 186 Cal.App.2d 433, 440 [8 Cal.Rptr. 863]."
+      },
+      {
+        "text": "• Criminal Negligence Requirement; This Instruction Upheld. *People v. Butler* (2010) 187 Cal.App.4th 998, 1014 [114 Cal.Rptr.3d 696]."
+      },
+      {
+        "text": "• Unlawful Act Not Amounting to a Felony. *People v. Thompson* (2000) 79 Cal.App.4th 40, 53 [93 Cal.Rptr.2d 803]."
+      },
+      {
+        "text": "• Unlawful Act Must Be Dangerous Under the Circumstances of Its Commission. *People v. Wells* (1996) 12 Cal.4th 979, 982 [50 Cal.Rptr.2d 699, 911 P.2d 1374]; *People v. Cox* (2000) 23 Cal.4th 665, 674 [97 Cal.Rptr.2d 647, 2 P.3d 1189]."
+      },
+      {
+        "text": "• Proximate Cause. *People v. Roberts* (1992) 2 Cal.4th 271, 315–321 [6 Cal.Rptr.2d 276, 826 P.2d 274]; *People v. Rodriguez, supra,* 186 Cal.App.2d at p. 440."
+      },
+      {
+        "text": "• Lack of Due Caution and Circumspection Contrasted With Conscious Disregard of Life. *People v. Watson* (1981) 30 Cal.3d 290, 296–297 [179 Cal.Rptr. 43, 637 P.2d 279]; *People v. Evers* (1992) 10 Cal.App.4th 588, 596 [12 Cal.Rptr.2d 637]."
+      },
+      {
+        "text": "• Inherently Dangerous Assaultive Felonies. *People v. Bryant, supra,* 56 Cal.4th at p. 964; *People v. Brothers, supra,* 236 Cal.App.4th at pp. 33–34."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Involuntary manslaughter is a lesser included offense of both degrees of murder, but it is not a lesser included offense of voluntary manslaughter. (*People v. Orr* (1994) 22 Cal.App.4th 780, 784 [27 Cal.Rptr.2d 553].)"
+      },
+      {
+        "text": "There is no crime of attempted involuntary manslaughter. (*People v. Johnson* (1996) 51 Cal.App.4th 1329, 1332 [59 Cal.Rptr.2d 798]; *People v. Broussard* (1977) 76 Cal.App.3d 193, 197 [142 Cal.Rptr. 664].)"
+      },
+      {
+        "text": "Aggravated assault is not a lesser included offense of involuntary manslaughter. (*People v. Murray* (2008) 167 Cal.App.4th 1133, 1140 [84 Cal.Rptr.3d 676].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Imperfect Self-Defense and Involuntary Manslaughter"
+      },
+      {
+        "text": "Imperfect self-defense is a “mitigating circumstance” that “reduce[s] an intentional, unlawful killing from murder to voluntary manslaughter by *negating the element of malice* that otherwise inheres in such a homicide.” (*People v. Rios* (2000) 23 Cal.4th 450, 461 [97 Cal.Rptr.2d 512, 2 P.3d 1066] [citations omitted, emphasis in original].) However, evidence of imperfect self-defense may support a finding of *involuntary* manslaughter, where the evidence demonstrates *the absence of* (as opposed to *the negation of*) the elements of malice. (*People v. Blakeley, supra,* 23 Cal.4th at p. 91 [discussing dissenting opinion of Mosk, J.].) Nevertheless, a court should not instruct on involuntary manslaughter unless there is evidence supporting the statutory elements of that crime."
+      },
+      {
+        "text": "See also the Related Issues section to CALCRIM No. 581, *Involuntary Manslaughter: Murder Not Charged*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

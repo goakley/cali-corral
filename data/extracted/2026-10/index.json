@@ -1,0 +1,5490 @@
+{
+  "release": "2026-10",
+  "release_label": "CALCRIM 2026 edition with October 2026 supplement",
+  "extractor_version": "0.1.0",
+  "instructions": [
+    {
+      "number": "100",
+      "title": "Trial Process (Before or After Voir Dire)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "101",
+      "title": "Cautionary Admonitions: Jury Conduct (Before, During, or After Jury Is Selected)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, December 2008, April 2010, October 2010, April 2011, February 2012, August 2012, August 2014, September 2019, April 2020, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "102",
+      "title": "Note-Taking",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008",
+      "warnings": 0
+    },
+    {
+      "number": "103",
+      "title": "Reasonable Doubt",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "104",
+      "title": "Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, August 2009, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "105",
+      "title": "Witnesses",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "106",
+      "title": "Jurors Asking Questions",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "107",
+      "title": "Pro Per Defendant",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009",
+      "warnings": 0
+    },
+    {
+      "number": "120",
+      "title": "Service Provider for Juror With Disability: Beginning of Trial",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "121",
+      "title": "Duty to Abide by Translation Provided in Court",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "122",
+      "title": "Corporation Is a Person",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "123",
+      "title": "Witness Identified as John or Jane Doe",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "124",
+      "title": "Separation Admonition",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012",
+      "warnings": 0
+    },
+    {
+      "number": "200",
+      "title": "Duties of Judge and Jury",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, December 2008, September 2019, April 2020",
+      "warnings": 0
+    },
+    {
+      "number": "201",
+      "title": "Do Not Investigate",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "202",
+      "title": "Note-Taking and Reading Back of Testimony",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, August 2009, February 2012, March 2019, September 2020, March 2021, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "203",
+      "title": "Multiple Defendants",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "204",
+      "title": "Defendant Physically Restrained",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "205",
+      "title": "Charge Removed From Jury Consideration",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "206",
+      "title": "One or More Defendants Removed From Case",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "207",
+      "title": "Proof Need Not Show Actual Date",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, February 2016, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "208",
+      "title": "Witness Identified as John or Jane Doe",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009",
+      "warnings": 0
+    },
+    {
+      "number": "209",
+      "title": "Implicit or Unconscious Bias",
+      "file": "calcrim-2026",
+      "revision_line": "New September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "219",
+      "title": "Reasonable Doubt in Civil Commitment Proceedings",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "220",
+      "title": "Reasonable Doubt",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2013",
+      "warnings": 0
+    },
+    {
+      "number": "221",
+      "title": "Reasonable Doubt: Bifurcated Trial",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "222",
+      "title": "Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, August 2009, February 2012, March 2019, March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "223",
+      "title": "Direct and Circumstantial Evidence: Defined",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, February 2013",
+      "warnings": 0
+    },
+    {
+      "number": "224",
+      "title": "Circumstantial Evidence: Sufficiency of Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "225",
+      "title": "Circumstantial Evidence: Intent or Mental State",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, April 2011",
+      "warnings": 0
+    },
+    {
+      "number": "226",
+      "title": "Witnesses",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "240",
+      "title": "Causation",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "252",
+      "title": "Union of Act and Intent",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, April 2011, March 2017, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "253",
+      "title": "Union of Act and Intent: Criminal Negligence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "254",
+      "title": "Strict Liability Crime",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "300",
+      "title": "All Available Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "301",
+      "title": "Single Witness’s Testimony",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, February 2012, February 2014, September 2017, March 2019, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "302",
+      "title": "Evaluating Conflicting Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "303",
+      "title": "Limited Purpose Evidence in General",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "304",
+      "title": "Multiple Defendants: Limited Admissibility of Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "305",
+      "title": "Multiple Defendants: Limited Admissibility of Defendant’s Statement",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "306",
+      "title": "Untimely Disclosure of Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014",
+      "warnings": 0
+    },
+    {
+      "number": "315",
+      "title": "Eyewitness Identification",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "316",
+      "title": "Additional Instructions on Witness Credibility—Other Conduct",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "317",
+      "title": "Former Testimony of Unavailable Witness",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "318",
+      "title": "Prior Statements as Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "319",
+      "title": "Prior Statements of Unavailable Witness",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "320",
+      "title": "Exercise of Privilege by Witness",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2014, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "330",
+      "title": "Testimony of Child 10 Years of Age or Younger",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014",
+      "warnings": 0
+    },
+    {
+      "number": "331",
+      "title": "Testimony of Person With Developmental, Cognitive, or Mental Disability",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "332",
+      "title": "Expert Witness Testimony",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "333",
+      "title": "Opinion Testimony of Lay Witness",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "334",
+      "title": "Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, April 2011, February 2016, March 2019, April 2020, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "335",
+      "title": "Accomplice Testimony: No Dispute Whether Witness Is Accomplice",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, August 2012, February 2016, March 2019, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "336",
+      "title": "In-Custody Informant",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, February 2016, October 2021, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "337",
+      "title": "Witness in Custody or Physically Restrained",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "350",
+      "title": "Character of Defendant",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "351",
+      "title": "Cross-Examination of Character Witness",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "352",
+      "title": "Character of Victim and of Defendant",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "355",
+      "title": "Defendant’s Right Not to Testify",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "356",
+      "title": "Miranda-Defective Statements",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "357",
+      "title": "Adoptive Admissions",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014",
+      "warnings": 0
+    },
+    {
+      "number": "358",
+      "title": "Evidence of Defendant’s Statements",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, December 2008, February 2014, August 2015, September 2017, September 2020, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "359",
+      "title": "Corpus Delicti: Independent Evidence of a Charged Crime",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2014, February 2015, September 2017, March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "360",
+      "title": "Statements to an Expert",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "361",
+      "title": "Failure to Explain or Deny Adverse Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, February 2016, March 2017, April 2020",
+      "warnings": 0
+    },
+    {
+      "number": "362",
+      "title": "Consciousness of Guilt: False Statements",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, April 2010, September 2019",
+      "warnings": 0
+    },
+    {
+      "number": "370",
+      "title": "Motive",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016, March 2017",
+      "warnings": 0
+    },
+    {
+      "number": "371",
+      "title": "Consciousness of Guilt: Suppression and Fabrication of Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "372",
+      "title": "Defendant’s Flight",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "373",
+      "title": "Other Perpetrator",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "374",
+      "title": "Dog Tracking Evidence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "375",
+      "title": "Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc.",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, February 2016, August 2016, March 2023, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "376",
+      "title": "Possession of Recently Stolen Property as Evidence of a Crime",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006, September 2019",
+      "warnings": 0
+    },
+    {
+      "number": "377",
+      "title": "Presence of Support Person/Dog/Dog Handler (Pen. Code, §§ 868.4, 868.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2018; Revised April 2020, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "378",
+      "title": "Consciousness of Guilt: General",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "400",
+      "title": "Aiding and Abetting: General Principles",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, August 2009, April 2010, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "401",
+      "title": "Aiding and Abetting: Intended Crimes",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "402",
+      "title": "Natural and Probable Consequences Doctrine (Target and Non-Target Offenses Charged)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, February 2013, August 2014, February 2015, September 2019, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "403",
+      "title": "Natural and Probable Consequences (Only Non-Target Offense Charged)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, February 2015, September 2019, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "404",
+      "title": "Intoxication",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "415",
+      "title": "Conspiracy (Pen. Code, § 182)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2014",
+      "warnings": 0
+    },
+    {
+      "number": "416",
+      "title": "Evidence of Uncharged Conspiracy",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, August 2016, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "417",
+      "title": "Liability for Coconspirators’ Acts",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2021, September 2023, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "418",
+      "title": "Coconspirator’s Statements",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "419",
+      "title": "Acts Committed or Statements Made Before Joining Conspiracy",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "420",
+      "title": "Withdrawal From Conspiracy",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008",
+      "warnings": 0
+    },
+    {
+      "number": "440",
+      "title": "Accessories (Pen. Code, § 32)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "441",
+      "title": "Solicitation: Elements (Pen. Code, § 653f)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "442",
+      "title": "Solicitation of a Minor (Pen. Code, § 653j)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "443",
+      "title": "Compelling Another to Commit Crime",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "450",
+      "title": "Liability of Corporate Officers and Agents: Single Theory of Liability",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "451",
+      "title": "Liability of Corporate Officers and Agents: Two Theories of Liability",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "460",
+      "title": "Attempt Other Than Attempted Murder (Pen. Code, § 21a)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013, February 2015",
+      "warnings": 0
+    },
+    {
+      "number": "500",
+      "title": "Homicide: General Principles",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "505",
+      "title": "Justifiable Homicide: Self-Defense or Defense of Another",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, August 2012, September 2020, March 2022, September 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "506",
+      "title": "Justifiable Homicide: Defending Against Harm to Person Within Home or on Property",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "507",
+      "title": "Justifiable Homicide: By Peace Officer",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2012, August 2012, April 2020, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "508",
+      "title": "Justifiable Homicide: Citizen Arrest (Non-Peace Officer)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2012, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "509",
+      "title": "Justifiable Homicide: Non-Peace Officer Preserving the Peace",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "510",
+      "title": "Excusable Homicide: Accident",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, March 2022, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "511",
+      "title": "Excusable Homicide: Accident in the Heat of Passion",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, September 2019, September 2020, March 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "512",
+      "title": "Presumption That Killing Not Criminal (Pen. Code, § 194)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "520",
+      "title": "First or Second Degree Murder With Malice Aforethought (Pen. Code, § 187)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, October 2010, February 2013, August 2013, September 2017, March 2019, September 2019, March 2021, March 2024, September 2024,* October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "521",
+      "title": "First Degree Murder (Pen. Code, § 189)",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, April 2010, October 2010, February 2012, February 2013, February 2015, August 2015, September 2017, September 2022, September 2023, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "522",
+      "title": "Provocation: Effect on Degree of Murder",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, March 2017, September 2023, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "523",
+      "title": "First Degree Murder: Hate Crime (Pen. Code, § 190.03)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "524",
+      "title": "Second Degree Murder: Peace Officer (Pen. Code, § 190(b), (c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, February 2013, September 2019, September 2020, March 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "525",
+      "title": "Second Degree Murder: Discharge From Motor Vehicle (Pen. Code, § 190(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "526",
+      "title": "Implied Malice Murder: Aiding and Abetting",
+      "file": "calcrim-2026",
+      "revision_line": "New September 2023; Revised October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "540A",
+      "title": "Felony Murder: First Degree—Defendant Allegedly Committed Fatal Act (Pen. Code, § 189)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, August 2013, September 2019, March 2023, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "540B",
+      "title": "Felony Murder: First Degree—Coparticipant Allegedly Committed Fatal Act (Pen. Code, § 189)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, August 2013, February 2015, September 2019, April 2020, September 2020, September 2023, February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "540C",
+      "title": "Felony Murder: First Degree—Other Acts Allegedly Caused Death (Pen. Code, § 189)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, August 2013, September 2019, April 2020, September 2023, February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "548",
+      "title": "Murder: Alternative Theories",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2014, February 2016, September 2019, April 2020",
+      "warnings": 0
+    },
+    {
+      "number": "560",
+      "title": "Homicide: Provocative Act by Defendant",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2013",
+      "warnings": 0
+    },
+    {
+      "number": "561",
+      "title": "Homicide: Provocative Act by Accomplice",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2014, September 2019, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "562",
+      "title": "Transferred Intent",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "563",
+      "title": "Conspiracy to Commit Murder (Pen. Code, § 182)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, April 2010, February 2014, September 2020, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "570",
+      "title": "Voluntary Manslaughter: Heat of Passion—Lesser Included Offense (Pen. Code, § 192(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008, February 2014, August 2015, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "571",
+      "title": "Voluntary Manslaughter: Imperfect Self-Defense or Imperfect Defense of Another—Lesser Included Offense (Pen. Code, § 192)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, February 2015, September 2020, March 2022, September 2022, March 2024,* February 2025, October 2025, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "572",
+      "title": "Voluntary Manslaughter: Murder Not Charged (Pen. Code, § 192(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "580",
+      "title": "Involuntary Manslaughter: Lesser Included Offense (Pen. Code, § 192(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2013, September 2018, September 2020, September 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "581",
+      "title": "Involuntary Manslaughter: Murder Not Charged (Pen. Code, § 192(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "582",
+      "title": "Involuntary Manslaughter: Failure to Perform Legal Duty—Murder Not Charged (Pen. Code, § 192(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, October 2021, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "590",
+      "title": "Gross Vehicular Manslaughter While Intoxicated (Pen. Code, § 191.5(a))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised June 2007, September 2020, October 2025, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "591",
+      "title": "Vehicular Manslaughter While Intoxicated—Ordinary Negligence (Pen. Code, § 191.5(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "592",
+      "title": "Gross Vehicular Manslaughter (Pen. Code, § 192(c)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015, September 2020, September 2023, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "593",
+      "title": "Misdemeanor Vehicular Manslaughter (Pen. Code, § 192(c)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008, October 2010, April 2011, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "594",
+      "title": "Vehicular Manslaughter: Collision for Financial Gain (Pen. Code, § 192(c)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2020",
+      "warnings": 0
+    },
+    {
+      "number": "595",
+      "title": "Vehicular Manslaughter: Speeding Laws Defined",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "600",
+      "title": "Attempted Murder (Pen. Code, §§ 21a, 663, 664)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008, August 2009, April 2011, August 2013, September 2019, April 2020, September 2023, March 2024,* February 2025, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "601",
+      "title": "Attempted Murder: Deliberation and Premeditation (Pen. Code, §§ 21a, 189, 664(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, February 2015",
+      "warnings": 0
+    },
+    {
+      "number": "602",
+      "title": "Attempted Murder: Peace Officer, Firefighter, Custodial Officer, or Custody Assistant (Pen. Code, §§ 21a, 664(e))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "603",
+      "title": "Attempted Voluntary Manslaughter: Heat of Passion—Lesser Included Offense (Pen. Code, §§ 21a, 192, 664)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, April 2010, April 2011, August 2015, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "604",
+      "title": "Attempted Voluntary Manslaughter: Imperfect Self-Defense—Lesser Included Offense (Pen. Code, §§ 21a, 192, 664)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, October 2010, February 2012, February 2013, September 2020, September 2023, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "620",
+      "title": "Causation: Special Issues",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "625",
+      "title": "Voluntary Intoxication: Effects on Homicide Crimes (Pen. Code, § 29.4)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2014, February 2016, March 2019, October 2021",
+      "warnings": 0
+    },
+    {
+      "number": "626",
+      "title": "Voluntary Intoxication Causing Unconsciousness: Effects on Homicide Crimes (Pen. Code, § 29.4)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2014",
+      "warnings": 0
+    },
+    {
+      "number": "627",
+      "title": "Hallucination: Effect on Premeditation",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "640",
+      "title": "Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With First Degree Murder and Jury Is Given Not Guilty Forms for Each Level of Homicide",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, August 2009, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "641",
+      "title": "Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With First Degree Murder and Jury Is Given Only One Not Guilty Verdict Form for Each Count; Not to Be Used When Both Voluntary and Involuntary Manslaughter Are Lesser Included Offenses",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, August 2009, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "642",
+      "title": "Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With Second Degree Murder and Jury Is Given Not Guilty Forms for Each Level of Homicide",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "643",
+      "title": "Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With Second Degree Murder and Jury Is Given Only One Not Guilty Verdict Form for Each Count; Not to Be Used When Both Voluntary and Involuntary Manslaughter Are Lesser Included Offenses",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "700",
+      "title": "Special Circumstances: Introduction (Pen. Code, § 190.2)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "701",
+      "title": "Special Circumstances: Intent Requirement for Accomplice Before June 6, 1990",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "702",
+      "title": "Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Other Than Felony Murder (Pen. Code, § 190.2(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "703",
+      "title": "Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Felony Murder (Pen. Code, § 190.2(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, February 2016, August 2016, September 2019, April 2020, September 2023, February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "704",
+      "title": "Special Circumstances: Circumstantial Evidence—Sufficiency",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "705",
+      "title": "Special Circumstances: Circumstantial Evidence—Intent or Mental State",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "706",
+      "title": "Special Circumstances: Jury May Not Consider Punishment",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "707",
+      "title": "Special Circumstances: Accomplice Testimony Must Be Corroborated—Dispute Whether Witness Is Accomplice (Pen. Code, § 1111)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "708",
+      "title": "Special Circumstances: Accomplice Testimony Must Be Corroborated—No Dispute Whether Witness Is Accomplice (Pen. Code, § 1111)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "720",
+      "title": "Special Circumstances: Financial Gain (Pen. Code, § 190.2(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "721",
+      "title": "Special Circumstances: Multiple Murder Convictions (Same Case) (Pen. Code, § 190.2(a)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "722",
+      "title": "Special Circumstances: By Means of Destructive Device (Pen. Code, § 190.2(a)(4) & (6))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "723",
+      "title": "Special Circumstances: Murder to Prevent Arrest or Complete Escape (Pen. Code, § 190.2(a)(5))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "724",
+      "title": "Special Circumstances: Murder of Peace Officer, Federal Officer, or Firefighter (Pen. Code, § 190.2(a)(7), (8) & (9))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "725",
+      "title": "Special Circumstances: Murder of Witness (Pen. Code, § 190.2(a)(10))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013",
+      "warnings": 0
+    },
+    {
+      "number": "726",
+      "title": "Special Circumstances: Murder of Judge, Prosecutor, Government Official, or Juror (Pen. Code, § 190.2(a)(11), (12), (13) & (20))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "727",
+      "title": "Special Circumstances: Lying in Wait—Before March 8, 2000 (Former Pen. Code, § 190.2(a)(15))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "728",
+      "title": "Special Circumstances: Lying in Wait—After March 7, 2000 (Pen. Code, § 190.2(a)(15))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "729",
+      "title": "Special Circumstances: Murder Because of Race, Religion, or Nationality (Pen. Code, § 190.2(a)(16))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017",
+      "warnings": 0
+    },
+    {
+      "number": "730",
+      "title": "Special Circumstances: Murder in Commission of Felony (Pen. Code, § 190.2(a)(17))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, April 2008, August 2013, March 2021, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "731",
+      "title": "Special Circumstances: Murder in Commission of Felony—Kidnapping With Intent to Kill After March 8, 2000 (Pen. Code, § 190.2(a)(17))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013, August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "732",
+      "title": "Special Circumstances: Murder in Commission of Felony—Arson With Intent to Kill (Pen. Code, § 190.2(a)(17))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013, August 2016, September 2019",
+      "warnings": 0
+    },
+    {
+      "number": "733",
+      "title": "Special Circumstances: Murder With Torture (Pen. Code, § 190.2(a)(18))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "734",
+      "title": "Special Circumstances: Murder by Poison (Pen. Code, § 190.2(a)(19))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "735",
+      "title": "Special Circumstances: Discharge From Vehicle (Pen. Code, § 190.2(a)(21))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "736",
+      "title": "Special Circumstances: Killing by Street Gang Member (Pen. Code, § 190.2(a)(22))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, February 2014, February 2016, March 2022, March 2023, September 2024, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "737",
+      "title": "Special Circumstances: Murder of Transportation Worker (Pen. Code, § 190.25)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "750",
+      "title": "Special Circumstances: Prior Murder Conviction (Pen. Code, § 190.2(a)(2))—Trial on Prior Murder (Pen. Code, § 190.1(a) & (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "751",
+      "title": "Second Degree Murder With Prior Prison for Murder (Pen. Code, § 190.05)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "760",
+      "title": "Death Penalty: Introduction to Penalty Phase",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2014",
+      "warnings": 0
+    },
+    {
+      "number": "761",
+      "title": "Death Penalty: Duty of Jury",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "763",
+      "title": "Death Penalty: Factors to Consider—Not Identified as Aggravating or Mitigating (Pen. Code, § 190.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, April 2008, December 2008, March 2021, March 2023, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "764",
+      "title": "Death Penalty: Evidence of Other Violent Crimes",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "765",
+      "title": "Death Penalty: Conviction for Other Felony Crimes",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "766",
+      "title": "Death Penalty: Weighing Process",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "767",
+      "title": "Jurors’ Responsibility During Deliberation in Death Penalty Case",
+      "file": "calcrim-2026",
+      "revision_line": "New April 2010; Revised April 2011, September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "768",
+      "title": "Penalty Trial: Pre-Deliberation Instructions",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "775",
+      "title": "Death Penalty: Intellectual Disability (Pen. Code, § 1376)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2021",
+      "warnings": 0
+    },
+    {
+      "number": "800",
+      "title": "Aggravated Mayhem (Pen. Code, § 205)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "801",
+      "title": "Mayhem (Pen. Code, § 203)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2014, March 2017",
+      "warnings": 0
+    },
+    {
+      "number": "810",
+      "title": "Torture (Pen. Code, § 206)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "820",
+      "title": "Assault Causing Death of Child (Pen. Code, § 273ab(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "821",
+      "title": "Child Abuse Under Circumstances or Conditions Likely to Produce Great Bodily Harm or Death (Pen. Code, § 273a(a))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2006, April 2010, October 2010, February 2013, October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "822",
+      "title": "Inflicting Physical Punishment on Child (Pen. Code, § 273d(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "823",
+      "title": "Child Abuse (Misdemeanor) (Pen. Code, § 273a(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, August 2009, October 2010, February 2013",
+      "warnings": 0
+    },
+    {
+      "number": "830",
+      "title": "Abuse of Elder or Dependent Adult Likely to Produce Great Bodily Harm or Death (Pen. Code, § 368(b)(1))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised March 2017, October 2025, October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "831",
+      "title": "Abuse of Elder or Dependent Adult (Pen. Code, § 368(c))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "840",
+      "title": "Inflicting Injury on Spouse, Cohabitant, or Fellow Parent Resulting in Traumatic Condition (Pen. Code, § 273.5(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, August 2012, August 2014, February 2015, February 2016, March 2018, October 2021, February 2025, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "841",
+      "title": "Simple Battery: Against Spouse, Cohabitant, or Fellow Parent (Pen. Code, § 243(e)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, February 2016, February 2025, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "850",
+      "title": "Expert Testimony on Intimate Partner Battering Victims",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised March 2017, April 2020, September 2022, October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "851",
+      "title": "Testimony on Intimate Partner Battering and Its Effects: Offered by the Defense",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "852A",
+      "title": "Evidence of Uncharged Domestic Violence",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, April 2008, February 2014, March 2017, October 2021, September 2024,* February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "852B",
+      "title": "Evidence of Charged Domestic Violence",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2017; Revised February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "853A",
+      "title": "Evidence of Uncharged Abuse of Elder or Dependent Person",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, February 2014, March 2017, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "853B",
+      "title": "Evidence of Charged Abuse of Elder or Dependent Person",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2017; Revised February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "860",
+      "title": "Assault on Firefighter or Peace Officer With Deadly Weapon or Force Likely to Produce Great Bodily Injury (Pen. Code, §§ 240, 245(c) & (d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2012, February 2013, September 2019, April 2020, September 2020, March 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "861",
+      "title": "Assault on Firefighter or Peace Officer With Stun Gun or Less Lethal Weapon (Pen. Code, §§ 240, 244.5(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, April 2011, February 2012, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "862",
+      "title": "Assault on Custodial Officer With Deadly Weapon or Force Likely to Produce Great Bodily Injury (Pen. Code, §§ 240, 245, 245.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2013, September 2019, September 2020, March 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "863",
+      "title": "Assault on Transportation Personnel or Passenger With Deadly Weapon or Force Likely to Produce Great Bodily Injury (Pen. Code, §§ 240, 245, 245.2)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, September 2019, September 2020, March 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "875",
+      "title": "Assault With Deadly Weapon or Force Likely to Produce Great Bodily Injury (Pen. Code, §§ 240, 245(a)(1)–(4), (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, August 2009, October 2010, February 2012, February 2013, August 2013, September 2019, September 2020, March 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "876",
+      "title": "Assault With Stun Gun or Less Lethal Weapon (Pen. Code, §§ 240, 244.5(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, February 2012, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "877",
+      "title": "Assault With Caustic Chemicals (Pen. Code, § 244)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "890",
+      "title": "Assault With Intent to Commit Specified Crimes [While Committing First Degree Burglary] (Pen. Code, § 220(a), (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, October 2010, August 2012, March 2022, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "891",
+      "title": "Assault With Intent to Commit Mayhem (Pen. Code, § 220(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "900",
+      "title": "Assault on Firefighter, Peace Officer or Other Specified Victim (Pen. Code, §§ 240, 241)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, April 2011, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "901",
+      "title": "Assault on Custodial Officer (Pen. Code, §§ 240, 241.1)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "902",
+      "title": "Assault on Military Personnel (Pen. Code, §§ 240, 241.8)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "903",
+      "title": "Assault on School District Peace Officer (Pen. Code, §§ 240, 241.4)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "904",
+      "title": "Assault on School Employee (Pen. Code, §§ 240, 241.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "905",
+      "title": "Assault on Juror (Pen. Code, §§ 240, 241.7)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "906",
+      "title": "Assault Committed on School or Park Property (Pen. Code, §§ 240, 241.2)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "907",
+      "title": "Assault Committed on Public Transportation Provider’s Property or Vehicle (Pen. Code, §§ 240, 241.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "908",
+      "title": "Assault Under Color of Authority (Pen. Code, § 149)",
+      "file": "calcrim-2026",
+      "revision_line": "New September 2022; Revised March 2023, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "915",
+      "title": "Simple Assault (Pen. Code, § 240)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "916",
+      "title": "Assault by Conditional Threat",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "917",
+      "title": "Insulting Words Are Not a Defense",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "925",
+      "title": "Battery Causing Serious Bodily Injury (Pen. Code, §§ 242, 243(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "926",
+      "title": "Battery Against Specified Victim Not a Peace Officer (Pen. Code, §§ 242, 243(b)–(c)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "935",
+      "title": "Sexual Battery: Felony (Pen. Code, §§ 242, 243.4(a) & (d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2016",
+      "warnings": 0
+    },
+    {
+      "number": "936",
+      "title": "Sexual Battery on Institutionalized Victim (Pen. Code, §§ 242, 243.4(b) & (d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "937",
+      "title": "Sexual Battery: By Fraudulent Representation (Pen. Code, §§ 242, 243.4(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2017",
+      "warnings": 0
+    },
+    {
+      "number": "938",
+      "title": "Sexual Battery: Misdemeanor (Pen. Code, § 243.4(e)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2016, September 2017, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "945",
+      "title": "Battery Against Peace Officer (Pen. Code, §§ 242, 243(b), (c)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, December 2008, October 2010, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "946",
+      "title": "Battery Against Custodial Officer (Pen. Code, §§ 242, 243.1)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, August 2016, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "947",
+      "title": "Simple Battery Against Military Personnel (Pen. Code, §§ 242, 243.10)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "948",
+      "title": "Battery Against Transportation Personnel or Passenger (Pen. Code, §§ 242, 243.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "949",
+      "title": "Battery Against School Employee (Pen. Code, §§ 242, 243.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "950",
+      "title": "Battery Against a Juror (Pen. Code, §§ 242, 243.7)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "951",
+      "title": "Battery Committed on School, Park, or Hospital Property (Pen. Code, §§ 242, 243.2)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "960",
+      "title": "Simple Battery (Pen. Code, § 242)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013, February 2014, March 2017, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "965",
+      "title": "Shooting at Inhabited House or Occupied Motor Vehicle (Pen. Code, § 246)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, August 2012, September 2017, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "966",
+      "title": "Shooting at Uninhabited House or Unoccupied Motor Vehicle (Pen. Code, § 247(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised January 2007, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "967",
+      "title": "Shooting at Unoccupied Aircraft (Pen. Code, § 247(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "968",
+      "title": "Shooting From Motor Vehicle (Pen. Code, § 26100(c) & (d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2024,* February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "969",
+      "title": "Permitting Someone to Shoot From Vehicle (Pen. Code, § 26100(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "970",
+      "title": "Shooting Firearm or BB Device in Grossly Negligent Manner (Pen. Code, § 246.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, February 2012, September 2019, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "980",
+      "title": "Brandishing Firearm in Presence of Occupant of Motor Vehicle (Pen. Code, § 417.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "981",
+      "title": "Brandishing Firearm in Presence of Peace Officer (Pen. Code, § 417(c) & (e))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "982",
+      "title": "Brandishing Firearm or Deadly Weapon to Resist Arrest (Pen. Code, § 417.8)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, February 2013, September 2019, September 2020, March 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "983",
+      "title": "Brandishing Firearm or Deadly Weapon: Misdemeanor (Pen. Code, § 417(a)(1) & (2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, February 2012, February 2013, September 2019, September 2020, March 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "984",
+      "title": "Brandishing Firearm: Misdemeanor—Public Place (Pen. Code, § 417(a)(2)(A))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "985",
+      "title": "Brandishing Imitation Firearm (Pen. Code, § 417.4)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, February 2016, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "1000",
+      "title": "Rape by Force, Fear, or Threats (Pen. Code, § 261(a)(2), (6) & (7))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, February 2014, March 2022, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1001",
+      "title": "Rape in Concert (Pen. Code, § 264.1)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2021, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1002",
+      "title": "Rape of Intoxicated Person (Pen. Code, § 261(a)(3))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2012, March 2018, March 2022, October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1003",
+      "title": "Rape of Unconscious Person (Pen. Code, § 261(a)(4))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2012, August 2013, March 2022, October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1004",
+      "title": "Rape of a Disabled Woman (Pen. Code, § 261(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1005",
+      "title": "Rape by Fraud (Pen. Code, § 261(a)(5))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1015",
+      "title": "Oral Copulation by Force, Fear, or Threats (Pen. Code, § 287(c)(2) & (3), (k))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, October 2021, March 2022, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1016",
+      "title": "Oral Copulation in Concert (Pen. Code, § 287(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2021, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1017",
+      "title": "Oral Copulation of an Intoxicated Person (Pen. Code, § 287(a), (i))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "1018",
+      "title": "Oral Copulation of an Unconscious Person (Pen. Code, § 287(a), (f))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "1019",
+      "title": "Oral Copulation of a Disabled Person (Pen. Code, § 287(a), (g))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012",
+      "warnings": 0
+    },
+    {
+      "number": "1020",
+      "title": "Oral Copulation of a Disabled Person in a Mental Hospital (Pen. Code, § 287(a), (h))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1021",
+      "title": "Oral Copulation by Fraud (Pen. Code, § 287(a), (j))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1022",
+      "title": "Oral Copulation While in Custody (Pen. Code, § 287(a), (e))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "1030",
+      "title": "Sodomy by Force, Fear, or Threats (Pen. Code, § 286(c)(2) & (3), (k))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2012, October 2021, March 2022, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1031",
+      "title": "Sodomy in Concert (Pen. Code, § 286(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2021, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1032",
+      "title": "Sodomy of an Intoxicated Person (Pen. Code, § 286(i))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "1033",
+      "title": "Sodomy of an Unconscious Person (Pen. Code, § 286(f))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1034",
+      "title": "Sodomy of a Disabled Person (Pen. Code, § 286(g))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1035",
+      "title": "Sodomy of a Disabled Person in a Mental Hospital (Pen. Code, § 286(h))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1036",
+      "title": "Sodomy by Fraud (Pen. Code, § 286(j))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1037",
+      "title": "Sodomy While in Custody (Pen. Code, § 286(e))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "1045",
+      "title": "Sexual Penetration by Force, Fear, or Threats (Pen. Code, § 289(a)(1) & (2), (g))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016, April 2020, October 2021, March 2022, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1046",
+      "title": "Sexual Penetration in Concert (Pen. Code, §§ 264.1, 289(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2021, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1047",
+      "title": "Sexual Penetration of an Intoxicated Person (Pen. Code, § 289(e))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1048",
+      "title": "Sexual Penetration of an Unconscious Person (Pen. Code, § 289(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1049",
+      "title": "Sexual Penetration of a Disabled Person (Pen. Code, § 289(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1050",
+      "title": "Sexual Penetration of a Disabled Person in a Mental Hospital (Pen. Code, § 289(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1051",
+      "title": "Sexual Penetration by Fraud (Pen. Code, § 289(f))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015, April 2020, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1060",
+      "title": "Lewd or Lascivious Act: Dependent Person (Pen. Code, § 288(b)(2) & (c)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, September 2017, March 2022, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1070",
+      "title": "Unlawful Sexual Intercourse: Defendant 21 or Older (Pen. Code, § 261.5(a) & (d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008",
+      "warnings": 0
+    },
+    {
+      "number": "1071",
+      "title": "Unlawful Sexual Intercourse: Minor More Than Three Years Younger (Pen. Code, § 261.5(a) & (c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1072",
+      "title": "Misdemeanor Unlawful Sexual Intercourse: Minor Within Three Years of Defendant’s Age (Pen. Code, § 261.5(a) & (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1080",
+      "title": "Oral Copulation With Person Under 14 (Pen. Code, § 287(c)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1081",
+      "title": "Oral Copulation With Minor: Defendant 21 or Older (Pen. Code, § 287(b)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1082",
+      "title": "Oral Copulation With Person Under 18 (Pen. Code, § 287(b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017",
+      "warnings": 0
+    },
+    {
+      "number": "1090",
+      "title": "Sodomy With Person Under 14 (Pen. Code, § 286(c)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1091",
+      "title": "Sodomy With Minor: Defendant 21 or Older (Pen. Code, § 286(b)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1092",
+      "title": "Sodomy With Person Under 18 (Pen. Code, § 286(b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1100",
+      "title": "Sexual Penetration With Person Under 14 (Pen. Code, § 289(j))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1101",
+      "title": "Sexual Penetration With Minor: Defendant 21 or Older (Pen. Code, § 289(i))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1102",
+      "title": "Sexual Penetration With Person Under 18 (Pen. Code, § 289(h))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1110",
+      "title": "Lewd or Lascivious Act: Child Under 14 Years (Pen. Code, § 288(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2013, August 2014",
+      "warnings": 0
+    },
+    {
+      "number": "1111",
+      "title": "Lewd or Lascivious Act: By Force or Fear (Pen. Code, § 288(b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, August 2014, August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "1112",
+      "title": "Lewd or Lascivious Act: Child 14 or 15 Years (Pen. Code, § 288(c)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, August 2014",
+      "warnings": 0
+    },
+    {
+      "number": "1120",
+      "title": "Continuous Sexual Abuse (Pen. Code, § 288.5(a))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised February 2013, October 2025,* October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1121",
+      "title": "Annoying or Molesting a Child in a Dwelling (Pen. Code, § 647.6(a)–(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "1122",
+      "title": "Annoying or Molesting a Child (Pen. Code, § 647.6(a)–(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "1123",
+      "title": "Aggravated Sexual Assault of Child Under 14 Years (Pen. Code, § 269(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1124",
+      "title": "Contacting Minor With Intent to Commit Certain Felonies (Pen. Code, § 288.3(a))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New August 2009; Revised March 2017, September 2020, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1125",
+      "title": "Arranging Meeting With Minor for Lewd Purpose (Pen. Code, § 288.4(a)(1))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New August 2009; Revised April 2010, February 2013, August 2016, March 2017, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1126",
+      "title": "Going to Meeting With Minor for Lewd Purpose (Pen. Code, § 288.4(b))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New August 2009; Revised April 2010, February 2013, August 2016, March 2017, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1127",
+      "title": "Engaging in Sexual Intercourse or Sodomy With Child 10 Years of Age or Younger (Pen. Code, § 288.7(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised February 2013, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "1128",
+      "title": "Engaging in Oral Copulation or Sexual Penetration With Child 10 Years of Age or Younger (Pen. Code, § 288.7(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised April 2010, February 2013, February 2015, September 2017, September 2019, September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1140",
+      "title": "Distributing, Sending, or Exhibiting Harmful Material (Pen. Code, § 288.2(a)(1) & (2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015, March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "1141",
+      "title": "Distributing Obscene Matter Showing Sexual Conduct by a Minor (Pen. Code, §§ 311.1(a), 311.2(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1142",
+      "title": "Distributing or Intending to Distribute Obscene Matter (Pen. Code, § 311.2(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1143",
+      "title": "Obscene Live Conduct (Pen. Code, § 311.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1144",
+      "title": "Using a Minor to Perform Prohibited Acts (Pen. Code, § 311.4(b), (c))",
+      "file": "calcrim-2026",
+      "revision_line": "New April 2010; Revised October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1145",
+      "title": "Possession of Matter Depicting Minor Engaged in Sexual Conduct (Pen. Code, § 311.11(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2019; Revised October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1150",
+      "title": "Pimping (Pen. Code, § 266h)",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised April 2011, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1151",
+      "title": "Pandering (Pen. Code, § 266i)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2012, August 2012, February 2015, April 2020, March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "1152",
+      "title": "Child Procurement (Pen. Code, § 266j)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013",
+      "warnings": 0
+    },
+    {
+      "number": "1153",
+      "title": "Prostitution: Engaging in Act (Pen. Code, § 647(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1154",
+      "title": "Prostitution: Soliciting Another (Pen. Code, § 647(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "1155",
+      "title": "Prostitution: Agreeing to Engage in Act (Pen. Code, § 647(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1160",
+      "title": "Indecent Exposure (Pen. Code, § 314)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1161",
+      "title": "Lewd Conduct in Public (Pen. Code, § 647(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2017, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1162",
+      "title": "Soliciting Lewd Conduct in Public (Pen. Code, § 647(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, December 2008, September 2017, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1170",
+      "title": "Failure to Register as Sex Offender (Pen. Code, § 290(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, April 2010, October 2010, February 2013, February 2014, August 2014, August 2015, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1180",
+      "title": "Incest (Pen. Code, § 285)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, October 2010, February 2012, August 2015, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "1181",
+      "title": "Sexual Abuse of Animal (Pen. Code, § 286.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1190",
+      "title": "Other Evidence Not Required to Support Testimony in Sex Offense Case",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1191A",
+      "title": "Evidence of Uncharged Sex Offense",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, February 2013, February 2014, March 2017, September 2019, September 2024,* February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1191B",
+      "title": "Evidence of Charged Sex Offense",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2017; Revised September 2020, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1192",
+      "title": "Expert Testimony on Adult Sexual Assault Victims",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised April 2020, September 2022, October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1193",
+      "title": "Expert Testimony on Child Sexual Abuse Victims",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2016, April 2020, March 2021, September 2022, September 2024,* October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1194",
+      "title": "Consent: Prior Sexual Intercourse",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1200",
+      "title": "Kidnapping: For Child Molestation (Pen. Code, §§ 207(b), 288(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, February 2013, August 2013, April 2020, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1201",
+      "title": "Kidnapping: Child or Person Incapable of Consent (Pen. Code, § 207(a), (e))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, April 2020, September 2020, October 2021, March 2022, March 2024,* February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1202",
+      "title": "Kidnapping: For Ransom, Reward, Extortion, or to Exact From Another Person (Pen. Code, § 209(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, February 2015, March 2017, September 2020, March 2021, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "1203",
+      "title": "Kidnapping: For Robbery, Rape, or Other Sex Offenses (Pen. Code, § 209(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, February 2013, August 2013, April 2020, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1204",
+      "title": "Kidnapping: During Carjacking (Pen. Code, §§ 207(a), 209.5(a), (b), 215(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, August 2013",
+      "warnings": 0
+    },
+    {
+      "number": "1215",
+      "title": "Kidnapping (Pen. Code, § 207(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, April 2020, October 2021, March 2022, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "1225",
+      "title": "Defense to Kidnapping: Protecting Child From Imminent Harm (Pen. Code, § 207(f)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008",
+      "warnings": 0
+    },
+    {
+      "number": "1226",
+      "title": "Defense to Kidnapping: Citizen’s Arrest (Pen. Code, §§ 207(f)(2), 834, 837)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1240",
+      "title": "Felony False Imprisonment (Pen. Code, §§ 236, 237)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1241",
+      "title": "False Imprisonment: Hostage (Pen. Code, §§ 210.5, 236)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1242",
+      "title": "Misdemeanor False Imprisonment (Pen. Code, § 236)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1243",
+      "title": "Human Trafficking (Pen. Code, § 236.1(a) & (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised August 2013, February 2014, October 2021, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "1244",
+      "title": "Human Trafficking of a Minor for Commercial Sex Act (Pen. Code, § 236.1(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2014; Revised March 2019, October 2021, March 2024, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1250",
+      "title": "Child Abduction: No Right to Custody (Pen. Code, §§ 277, 278)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "1251",
+      "title": "Child Abduction: By Depriving Right to Custody or Visitation (Pen. Code, §§ 277, 278.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1252",
+      "title": "Defense to Child Abduction: Protection From Immediate Injury (Pen. Code, § 278.7(a) and (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "1300",
+      "title": "Criminal Threat (Pen. Code, § 422)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, February 2015, February 2016, March 2018, September 2020, September 2022, October 2025, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1301",
+      "title": "Stalking (Pen. Code, § 646.9(a), (e)–(h))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, March 2017, September 2024,* October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1302",
+      "title": "Terrorizing by Destructive Device, Explosive, or Arson (Pen. Code, § 11413)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "1303",
+      "title": "Terrorism by Symbol (Pen. Code, § 11411(a) & (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1304",
+      "title": "Cross Burning and Religious Symbol Desecration (Pen. Code, § 11411(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1305",
+      "title": "Obstructing Religion by Threat (Pen. Code, § 11412)",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1350",
+      "title": "Hate Crime: Misdemeanor Interference With Civil Rights by Force (Pen. Code, § 422.6(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1351",
+      "title": "Hate Crime: Misdemeanor Interference With Civil Rights by Threat (Pen. Code, § 422.6(a) & (c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1352",
+      "title": "Hate Crime: Misdemeanor Interference With Civil Rights by Damaging Property (Pen. Code, § 422.6(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1353",
+      "title": "Hate Crime: Disability Defined",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1354",
+      "title": "Hate Crime Allegation: Felony (Pen. Code, § 422.75(a)–(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1355",
+      "title": "Hate Crime Allegation: Misdemeanor (Pen. Code, § 422.7)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2017, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1400",
+      "title": "Active Participation in Criminal Street Gang (Pen. Code, § 186.22(a))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, December 2008, August 2012, February 2013, August 2013, February 2014, August 2014, February 2016, March 2022, March 2023, September 2024, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1401",
+      "title": "Felony or Misdemeanor Committed for Benefit of Criminal Street Gang (Pen. Code, § 186.22(b)(1) (Felony) and § 186.22(d) (Felony or Misdemeanor))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, April 2008, December 2008, August 2012, February 2013, August 2013, February 2014, February 2016, March 2022, March 2023, September 2024, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1402",
+      "title": "Gang-Related Firearm Enhancement (Pen. Code, § 12022.53)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, February 2012, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1403",
+      "title": "Limited Purpose of Evidence of Gang Activity",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1500",
+      "title": "Aggravated Arson (Pen. Code, § 451.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015, April 2020, March 2024, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1501",
+      "title": "Arson: Great Bodily Injury (Pen. Code, § 451)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, April 2020, September 2020, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1502",
+      "title": "Arson: Inhabited Structure or Property (Pen. Code, § 451(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, August 2016, March 2017, September 2019, April 2020, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1515",
+      "title": "Arson (Pen. Code, § 451(c) & (d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, August 2016, April 2020, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1520",
+      "title": "Attempted Arson (Pen. Code, § 455)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2018, March 2023, February 2025, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1530",
+      "title": "Unlawfully Causing a Fire: Great Bodily Injury (Pen. Code, § 452)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1531",
+      "title": "Unlawfully Causing a Fire: Inhabited Structure (Pen. Code, § 452)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1532",
+      "title": "Unlawfully Causing a Fire (Pen. Code, § 452)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1550",
+      "title": "Possession of Incendiary Device (Pen. Code, § 453)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "1551",
+      "title": "Arson Enhancements (Pen. Code, §§ 451.1, 456(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, March 2024, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1600",
+      "title": "Robbery (Pen. Code, § 211)",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2009, October 2010, April 2011, August 2013, August 2014, March 2017, September 2018, March 2022, February 2025, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1601",
+      "title": "Robbery in Concert (Pen. Code, § 213(a)(1)(A))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1602",
+      "title": "Robbery: Degrees (Pen. Code, § 212.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015",
+      "warnings": 0
+    },
+    {
+      "number": "1603",
+      "title": "Robbery: Intent of Aider and Abettor",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1650",
+      "title": "Carjacking (Pen. Code, § 215)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1700",
+      "title": "Burglary (Pen. Code, § 459)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, February 2012, February 2013, August 2015, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1701",
+      "title": "Burglary: Degrees (Pen. Code, § 460)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1702",
+      "title": "Burglary: Intent of Aider and Abettor",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1703",
+      "title": "Shoplifting (Pen. Code, § 459.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2015; Revised October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "1704",
+      "title": "Possession of Burglary Tools (Pen. Code, § 466)",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New September 2022; Revised October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1705",
+      "title": "Unlawful Entry of a Vehicle (Pen. Code, § 465(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1750",
+      "title": "Receiving Stolen Property (Pen. Code, § 496(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, October 2010, August 2014, August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "1751",
+      "title": "Defense to Receiving Stolen Property: Innocent Intent",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "1752",
+      "title": "Owning or Operating a Chop Shop (Veh. Code, § 10801)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1760",
+      "title": "Automotive Property Theft for Resale (Pen. Code, § 496.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1761",
+      "title": "Unlawful Deprivation of Retail Business Opportunity (Pen. Code, § 496.6(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1800",
+      "title": "Theft by Larceny (Pen. Code, § 484)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016, March 2024, October 2025 *",
+      "warnings": 0
+    },
+    {
+      "number": "1801",
+      "title": "Grand and Petty Theft (Pen. Code, §§ 486, 487–488, 490.2, 490.3, 491)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, August 2015, April 2020, September 2023, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1802",
+      "title": "Theft: As Part of Overall Plan",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, August 2015, August 2016, September 2023",
+      "warnings": 0
+    },
+    {
+      "number": "1803",
+      "title": "Theft: By Employee or Agent (Pen. Code, § 487(b)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "1804",
+      "title": "Theft by False Pretense (Pen. Code, § 484)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, December 2008, April 2010",
+      "warnings": 0
+    },
+    {
+      "number": "1805",
+      "title": "Theft by Trick (Pen. Code, § 484)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1806",
+      "title": "Theft by Embezzlement (Pen. Code, §§ 484, 503)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, October 2010, April 2011",
+      "warnings": 0
+    },
+    {
+      "number": "1807",
+      "title": "Theft From Elder or Dependent Adult (Pen. Code, § 368(d), (e))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, February 2013, October 2021, March 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "1808",
+      "title": "Organized Retail Theft (Pen. Code, § 490.4)",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "1810",
+      "title": "Diversion of Construction Funds (Pen. Code, § 484b)",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1820",
+      "title": "Felony Unlawful Taking or Driving of Vehicle (Veh. Code, § 10851(a), (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2018, March 2021, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1821",
+      "title": "Tampering With a Vehicle (Veh. Code, § 10852)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1822",
+      "title": "Unlawful Taking of Bicycle or Vessel (Pen. Code, § 499b)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1830",
+      "title": "Extortion by Threat or Force (Pen. Code, §§ 518, 519)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "1831",
+      "title": "Extortion by Threatening Letter (Pen. Code, § 523)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1832",
+      "title": "Extortion of Signature (Pen. Code, § 522)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1850",
+      "title": "Petty Theft With Prior Conviction (Pen. Code, § 666)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015, March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "1851",
+      "title": "Petty Theft or Shoplifting With Two or More Prior Convictions (Pen. Code, § 666.1)",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "1860",
+      "title": "Owner’s Opinion of Value",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1861",
+      "title": "Jury Does Not Need to Agree on Form of Theft",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1862",
+      "title": "Return of Property Not a Defense to Theft (Pen. Code, §§ 512, 513)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010",
+      "warnings": 0
+    },
+    {
+      "number": "1863",
+      "title": "Defense to Theft or Robbery: Claim of Right (Pen. Code, § 511)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, August 2015, February 2016",
+      "warnings": 0
+    },
+    {
+      "number": "1900",
+      "title": "Forgery by False Signature (Pen. Code, § 470(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1901",
+      "title": "Forgery by Endorsement (Pen. Code, § 470(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1902",
+      "title": "Forgery of Handwriting or Seal (Pen. Code, § 470(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1903",
+      "title": "Forgery by Altering or Falsifying Will or Other Legal Document (Pen. Code, § 470(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1904",
+      "title": "Forgery by Falsifying, Altering, or Counterfeiting Document (Pen. Code, § 470(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1905",
+      "title": "Forgery by Passing or Attempting to Use Forged Document (Pen. Code, § 470(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1906",
+      "title": "Forging and Passing or Attempting to Pass: Two Theories in One Count",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1920",
+      "title": "Falsifying, Altering, or Counterfeiting a Driver’s License (Pen. Code, § 470a)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1921",
+      "title": "Possessing or Displaying False, Altered, or Counterfeit Driver’s License (Pen. Code, § 470b)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1925",
+      "title": "Forgery of Government, Public, or Corporate Seal (Pen. Code, § 472)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1926",
+      "title": "Possession of Counterfeit Government, Public, or Corporate Seal (Pen. Code, § 472)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1930",
+      "title": "Possession of Forged Document (Pen. Code, § 475(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019, October 2021",
+      "warnings": 0
+    },
+    {
+      "number": "1931",
+      "title": "Possession of Blank Check: With Intent to Defraud (Pen. Code, § 475(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1932",
+      "title": "Possession of Completed Check: With Intent to Defraud (Pen. Code, § 475(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1933",
+      "title": "Possession of Counterfeiting Equipment (Pen. Code, § 480)",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "1935",
+      "title": "Making, Passing, etc., Fictitious Check or Bill (Pen. Code, § 476)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "1945",
+      "title": "Procuring Filing of False Document or Offering False Document for Filing (Pen. Code, § 115)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1950",
+      "title": "Sale or Transfer of Access Card or Account Number (Pen. Code, § 484e(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1951",
+      "title": "Acquiring or Retaining an Access Card or Account Number (Pen. Code, § 484e(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1952",
+      "title": "Acquiring or Retaining Account Information (Pen. Code, § 484e(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "1953",
+      "title": "Making Counterfeit Access Card or Account Number (Pen. Code, § 484f(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1954",
+      "title": "Using or Attempting to Use Counterfeit Access Card (Pen. Code, § 484f(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1955",
+      "title": "False Signature on Access Card or Receipt (Pen. Code, § 484f(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1956",
+      "title": "Use of Forged, etc., Access Card (Pen. Code, § 484g(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "1957",
+      "title": "Obtaining Money, etc., by Representing Self as Holder of Access Card (Pen. Code, § 484g(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "1970",
+      "title": "Making, Using, etc., Check Knowing Funds Insufficient (Pen. Code, § 476a)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "1971",
+      "title": "Making, Using, etc., Check Knowing Funds Insufficient: Total Value of Checks (Pen. Code, § 476a(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "2000",
+      "title": "Insurance Fraud: Fraudulent Claims (Pen. Code, § 550(a)(1), (4)–(7) & (9))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "2001",
+      "title": "Insurance Fraud: Multiple Claims (Pen. Code, § 550(a)(2) & (8))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2002",
+      "title": "Insurance Fraud: Vehicle Accident (Pen. Code, § 550(a)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2003",
+      "title": "Insurance Fraud: Health-Care Claims—Total Value (Pen. Code, § 550(c)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2004",
+      "title": "Insurance Fraud: Destruction of Insured Property (Pen. Code, § 548(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2020",
+      "title": "False Financial Statement: Making False Statement (Pen. Code, § 532a(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2021",
+      "title": "False Financial Statement: Obtaining Benefit (Pen. Code, § 532a(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2022",
+      "title": "False Financial Statement: Reaffirming Statement (Pen. Code, § 532a(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2023",
+      "title": "False Financial Statement: Use of False Identifying Information (Pen. Code, § 532a(4))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2040",
+      "title": "Unauthorized Use of Personal Identifying Information (Pen. Code, § 530.5(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, August 2009, April 2010, August 2012, August 2013, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "2041",
+      "title": "Fraudulent Possession of Personal Identifying Information (Pen. Code, § 530.5(c)(1), (2), or (3))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised April 2010",
+      "warnings": 0
+    },
+    {
+      "number": "2042",
+      "title": "Fraudulent Sale, Transfer or Conveyance of Personal Identifying Information (Pen. Code, § 530.5(d)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised April 2010",
+      "warnings": 0
+    },
+    {
+      "number": "2043",
+      "title": "Knowing Sale, Transfer, or Conveyance of Personal Identifying Information to Facilitate Its Unauthorized Use (Pen. Code, § 530.5(d)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised April 2010",
+      "warnings": 0
+    },
+    {
+      "number": "2044",
+      "title": "False Personation (Pen. Code, § 529(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2015; Revised March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "2045",
+      "title": "False Personation (Pen. Code, § 530)",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2021",
+      "warnings": 0
+    },
+    {
+      "number": "2100",
+      "title": "Driving a Vehicle or Operating a Vessel Under the Influence Causing Injury (Veh. Code, § 23153(a), (f), (g))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, December 2008, August 2015, September 2017, March 2018, September 2019, October 2021, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "2101",
+      "title": "Driving With 0.08 Percent Blood Alcohol Causing Injury (Veh. Code, § 23153(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, April 2008, August 2015, March 2018, September 2019, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "2102",
+      "title": "Driving With 0.04 Percent Blood Alcohol Causing Injury With a Passenger for Hire (Veh. Code, § 23153(e))",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2018, effective July 2018; Revised September 2019, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "2110",
+      "title": "Driving Under the Influence (Veh. Code, § 23152(a), (f), (g))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, August 2015, September 2017, March 2018, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2111",
+      "title": "Driving With 0.08 Percent Blood Alcohol (Veh. Code, § 23152(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, April 2008, August 2015, March 2018, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2112",
+      "title": "Driving While Addicted to a Drug (Veh. Code, § 23152(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2018, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2113",
+      "title": "Driving With 0.05 Percent Blood Alcohol When Under 21 (Veh. Code, § 23140(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2114",
+      "title": "Driving With 0.04 Percent Blood Alcohol With a Passenger for Hire (Veh. Code, § 23152(e))",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2018; Revised February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2125",
+      "title": "Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions (Veh. Code, §§ 23550, 23550.5 & 23566)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2126",
+      "title": "Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions—Bifurcated Trial (Veh. Code, §§ 23550, 23550.5 & 23566)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2130",
+      "title": "Refusal—Consciousness of Guilt (Veh. Code, § 23612)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, March 2017, February 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "2131",
+      "title": "Refusal—Enhancement (Veh. Code, §§ 23577, 23612)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, March 2017, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "2140",
+      "title": "Failure to Perform Duty Following Accident: Death or Injury—Defendant Driver (Veh. Code, §§ 20001, 20003 & 20004)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, October 2010, February 2012, March 2019, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "2141",
+      "title": "Failure to Perform Duty Following Accident: Death or Injury—Defendant Nondriving Owner or Passenger in Control (Veh. Code, §§ 20001, 20003 & 20004)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "2142",
+      "title": "Failure to Perform Duty Following Accident: Lesser Included Offense (Veh. Code, §§ 20001, 20003 & 20004)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "2150",
+      "title": "Failure to Perform Duty Following Accident: Property Damage—Defendant Driver (Veh. Code, § 20002)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009",
+      "warnings": 0
+    },
+    {
+      "number": "2151",
+      "title": "Failure to Perform Duty Following Accident: Property Damage—Defendant Nondriving Owner or Passenger in Control (Veh. Code, § 20002)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2160",
+      "title": "Fleeing the Scene Following Accident: Enhancement for Vehicular Manslaughter (Veh. Code, § 20001(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "2180",
+      "title": "Evading Peace Officer: Death or Serious Bodily Injury (Veh. Code, §§ 2800.1(a), 2800.3(a), (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2181",
+      "title": "Evading Peace Officer (Veh. Code, §§ 2800.1(a), 2800.2)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, September 2018, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "2182",
+      "title": "Evading Peace Officer: Misdemeanor (Veh. Code, § 2800.1(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2200",
+      "title": "Reckless Driving (Veh. Code, § 23103(a) & (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013, October 2021",
+      "warnings": 0
+    },
+    {
+      "number": "2201",
+      "title": "Speed Contest (Veh. Code, § 23109(c), (e)(2), (f)(1)–(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "2202",
+      "title": "Exhibition of Speed (Veh. Code, § 23109(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2220",
+      "title": "Driving With Suspended or Revoked Driving Privilege (Veh. Code, §§ 13106, 14601, 14601.1, 14601.2, 14601.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "2221",
+      "title": "Driving Without a License (Veh. Code, § 12500(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2222",
+      "title": "Failing to Present Driver’s License (Veh. Code, § 12951(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2240",
+      "title": "Failure to Appear (Veh. Code, § 40508(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008",
+      "warnings": 0
+    },
+    {
+      "number": "2241",
+      "title": "Driver and Driving Defined (Veh. Code, § 305)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2242",
+      "title": "Altering, Counterfeiting, Defacing, Destroying, Etc. Vehicle Identification Numbers (Veh. Code, § 10802)",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2300",
+      "title": "Sale, Transportation for Sale, etc., of Controlled Substance (Health & Saf. Code, §§ 11352, 11379)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, February 2014, August 2014, February 2016, September 2017, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "2301",
+      "title": "Offering to Sell, Transport for Sale, etc., a Controlled Substance (Health & Saf. Code, §§ 11352, 11379)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, August 2014, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "2302",
+      "title": "Possession for Sale of Controlled Substance (Health & Saf. Code, §§ 11351, 11351.5, 11378, 11378.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, February 2014, February 2016, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "2303",
+      "title": "Possession of Controlled Substance While Armed With Firearm (Health & Saf. Code, § 11370.1)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, October 2010, August 2013, February 2014, September 2017, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "2304",
+      "title": "Simple Possession of Controlled Substance (Health & Saf. Code, §§ 11350, 11377)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, October 2010, February 2014, August 2015, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "2305",
+      "title": "Defense: Momentary Possession of Controlled Substance",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2306",
+      "title": "Possession of Controlled Substance with Intent to Commit Sexual Assault (Health & Saf. Code, §§ 11350.5, 11377.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New September 2017; Revised March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "2307",
+      "title": "Possession of Hard Drug With Prior Controlled Substance Convictions (Health & Saf. Code, § 11395)",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2315",
+      "title": "Sale of Substitute Substance (Health & Saf. Code, §§ 11355, 11382)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2316",
+      "title": "Offer to Sell Substitute Substance (Health & Saf. Code, §§ 11355, 11382)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2320",
+      "title": "Forged Prescription for Narcotic (Health & Saf. Code, § 11368)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2321",
+      "title": "Forged Prescription for Narcotic: With Possession of Drug (Health & Saf. Code, § 11368)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010",
+      "warnings": 0
+    },
+    {
+      "number": "2330",
+      "title": "Manufacturing a Controlled Substance (Health & Saf. Code, §§ 11379.6(a), 11362.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2331",
+      "title": "Offering to Manufacture a Controlled Substance (Health & Saf. Code, §§ 11379.6(a) & (c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2335",
+      "title": "Possession With Intent to Manufacture Methamphetamine or N-ethylamphetamine (Health & Saf. Code, § 11383.5(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "2336",
+      "title": "Possession With Intent to Manufacture PCP (Health & Saf. Code, § 11383(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "2337",
+      "title": "Possession With Intent to Manufacture Methamphetamine (Health & Saf. Code, § 11383.5(b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "2338",
+      "title": "Possession of Isomers or Precursors With Intent to Manufacture Controlled Substance (Health & Saf. Code, § 11383.5(c)–(f))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "2350",
+      "title": "Sale, Furnishing, Administering or Importing of Cannabis (Health & Saf. Code, § 11360(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008, October 2010, August 2014, February 2015, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2351",
+      "title": "Offering to Sell, Furnish, etc., Cannabis (Health & Saf. Code, § 11360)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008, February 2015, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2352",
+      "title": "Possession for Sale of Cannabis (Health & Saf. Code, § 11359)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008, October 2010, February 2015, February 2016, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2361",
+      "title": "Transporting for Sale or Giving Away Cannabis: More Than 28.5 Grams (Health & Saf. Code, § 11360(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, October 2010, April 2011, February 2015, August 2016, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2363",
+      "title": "Offering or Attempting to Transport for Sale or Offering to Give Away Cannabis: More Than 28.5 Grams (Health & Saf. Code, § 11360(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, February 2015, August 2016, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2364",
+      "title": "Felony Cannabis Penalty Allegations (Health & Saf. Code, § 11360(a)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2370",
+      "title": "Planting, etc., Cannabis (Health & Saf. Code, §§ 11358(c)–(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, February 2015, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2375",
+      "title": "Simple Possession of Cannabis or Concentrated Cannabis: Misdemeanor (Health & Saf. Code, § 11357(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, October 2010, April 2011, February 2015, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2376",
+      "title": "Simple Possession of Cannabis or Concentrated Cannabis on School Grounds: Misdemeanor (Health & Saf. Code, § 11357(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2010, October 2010, February 2015, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2380",
+      "title": "Sale, Furnishing, etc., of Controlled Substance to Minor (Health & Saf. Code, §§ 11353, 11354, 11380(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, February 2014, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "2381",
+      "title": "Offering to Sell, Furnish, etc., Controlled Substance to Minor (Health & Saf. Code, §§ 11353, 11354, 11380(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "2382",
+      "title": "Employment of Minor to Sell Controlled Substance (Health & Saf. Code, §§ 11353, 11354)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "2383",
+      "title": "Use of Minor as Agent to Violate Controlled Substance Law (Health & Saf. Code, § 11380(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "2384",
+      "title": "Inducing Minor to Violate Controlled Substance Laws (Health & Saf. Code, §§ 11353, 11354, 11380(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, September 2017, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2390",
+      "title": "Sale, Furnishing, etc., of Cannabis to Minor (Health & Saf. Code, § 11361)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2391",
+      "title": "Offering to Sell, Furnish, etc., Cannabis to Minor (Health & Saf. Code, § 11361)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2392",
+      "title": "Employment of Minor to Sell, etc., Cannabis (Health & Saf. Code, § 11361(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2393",
+      "title": "Inducing Minor to Use Cannabis (Health & Saf. Code, § 11361(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2400",
+      "title": "Using or Being Under the Influence of Controlled Substance (Health & Saf. Code, § 11550)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2401",
+      "title": "Aiding and Abetting Unlawful Use of Controlled Substance (Health & Saf. Code, § 11365)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2410",
+      "title": "Possession of Controlled Substance Paraphernalia (Health & Saf. Code, § 11364)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, April 2011, August 2015, September 2018, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "2412",
+      "title": "Fraudulently Obtaining a Hypodermic Needle or Syringe (Bus. & Prof. Code, § 4326(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2413",
+      "title": "Using or Permitting Improper Use of a Hypodermic Needle or Syringe (Bus. & Prof. Code, § 4326(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2430",
+      "title": "Possession of More Than $100,000 Related to Transaction Involving Controlled Substance: Proceeds (Health & Saf. Code, § 11370.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2431",
+      "title": "Possession of More Than $100,000 Related to Transaction Involving Controlled Substance: Money to Purchase (Health & Saf. Code, § 11370.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2432",
+      "title": "Attorney’s Possession of More Than $100,000 Related to Transaction Involving Controlled Substance (Health & Saf. Code, § 11370.6(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2440",
+      "title": "Maintaining a Place for Controlled Substance Sale or Use (Health & Saf. Code, § 11366)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, October 2010",
+      "warnings": 0
+    },
+    {
+      "number": "2441",
+      "title": "Use of False Compartment to Conceal Controlled Substance (Health & Saf. Code, § 11366.8)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2500",
+      "title": "Illegal Possession, Etc. of Weapon",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, April 2008, February 2012, February 2015, March 2017, March 2019, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "2501",
+      "title": "Carrying Concealed Explosive or Dirk or Dagger (Pen. Code, §§ 21310, 16470)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2502",
+      "title": "Possession, etc., of Switchblade Knife (Pen. Code, § 21510)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2015",
+      "warnings": 0
+    },
+    {
+      "number": "2503",
+      "title": "Possession of Deadly Weapon With Intent to Assault (Pen. Code, § 17500)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, February 2013, September 2019, September 2020, March 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2510",
+      "title": "Possession of Firearm by Person Prohibited Due to Conviction—No Stipulation to Conviction (Pen. Code, §§ 29800, 29805, 29820, 29900)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, February 2012, August 2013, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2511",
+      "title": "Possession of Firearm by Person Prohibited Due to Conviction—Stipulation to Conviction (Pen. Code, §§ 29800, 29805, 29820, 29900)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, February 2012, August 2013, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2512",
+      "title": "Possession of Firearm by Person Prohibited by Court Order (Pen. Code, §§ 29815, 29825)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010, February 2012, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2513",
+      "title": "Possession of Firearm by Person Addicted to a Narcotic Drug (Pen. Code, § 29800)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2514",
+      "title": "Possession of Firearm by Person Prohibited by Statute: Self-Defense",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008, February 2012, September 2020, March 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2520",
+      "title": "Carrying Concealed Firearm on Person (Pen. Code, § 25400(a)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "2521",
+      "title": "Carrying Concealed Firearm Within Vehicle (Pen. Code, § 25400(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2018, March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "2522",
+      "title": "Carrying Concealed Firearm: Caused to Be Carried Within Vehicle (Pen. Code, § 25400(a)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2021",
+      "warnings": 0
+    },
+    {
+      "number": "2530",
+      "title": "Carrying Loaded Firearm (Pen. Code, § 25850(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "2540",
+      "title": "Carrying Firearm: Specified Convictions (Pen. Code, §§ 25400(a), 25850(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2541",
+      "title": "Carrying Firearm: Stolen Firearm (Pen. Code, §§ 25400(c)(2), 25850(c)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2542",
+      "title": "Carrying Firearm: Active Participant in Criminal Street Gang (Pen. Code, §§ 25400(c)(3), 25850(c)(3))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, December 2008, February 2012, August 2013, February 2014, February 2016, March 2022, March 2023, September 2024, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2543",
+      "title": "Carrying Firearm: Not in Lawful Possession (Pen. Code, §§ 25400(c)(4), 25850(c)(4))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2544",
+      "title": "Carrying Firearm: Possession of Firearm Prohibited Due to Conviction, Court Order, or Mental Illness (Pen. Code, §§ 25400(c)(4), 25850(c)(4))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2545",
+      "title": "Carrying Loaded Firearm: Not Registered Owner (Pen. Code, § 25850(c)(6))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2546",
+      "title": "Carrying Concealed Firearm: Not Registered Owner and Weapon Loaded (Pen. Code, § 25400(c)(6))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2560",
+      "title": "Possession, etc., of Assault Weapon or .50 BMG Rifle (Pen. Code, §§ 30605, 30600)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2561",
+      "title": "Possession, etc., of Assault Weapon or .50 BMG Rifle While Committing Other Offense—Charged as Separate Count and as Enhancement (Pen. Code, § 30615)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2562",
+      "title": "Possession, etc., of Assault Weapon or .50 BMG Rifle While Committing Other Offense—Charged Only as Enhancement (Pen. Code, § 30615)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2570",
+      "title": "Possession of Destructive Device (Pen. Code, § 18710)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2571",
+      "title": "Carrying or Placing Explosive or Destructive Device on Common Carrier (Pen. Code, § 18725)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2572",
+      "title": "Possession of Explosive or Destructive Device in Specified Place (Pen. Code, § 18715)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2019",
+      "warnings": 0
+    },
+    {
+      "number": "2573",
+      "title": "Possession, Explosion, etc., of Explosive or Destructive Device With Intent to Injure or Damage (Pen. Code, § 18740)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2574",
+      "title": "Sale or Transportation of Destructive Device (Pen. Code, § 18730)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2575",
+      "title": "Offer to Sell Destructive Device (Pen. Code, § 18730)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2576",
+      "title": "Explosion of Explosive or Destructive Device With Intent to Murder (Pen. Code, § 18745)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2577",
+      "title": "Explosion of Explosive or Destructive Device Causing Bodily Injury (Pen. Code, § 18750)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2578",
+      "title": "Explosion of Explosive or Destructive Device Causing Death, Mayhem, or Great Bodily Injury (Pen. Code, § 18755)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2579",
+      "title": "Possession of Materials to Make Destructive Device or Explosive (Pen. Code, § 18720)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2590",
+      "title": "Armed Criminal Action (Pen. Code, § 25800)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2591",
+      "title": "Possession of Ammunition by Person Prohibited From Possessing Firearm Due to Conviction or Mental Illness (Pen. Code, § 30305(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2592",
+      "title": "Possession of Ammunition by Person Prohibited From Possessing Firearm Due to Court Order (Pen. Code, § 30305(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2593",
+      "title": "Purchase, Possession, or Use of Tear Gas or Tear Gas Weapon (Pen. Code, § 22810(a), (e)(1), (g))",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2600",
+      "title": "Giving or Offering a Bribe to an Executive Officer (Pen. Code, § 67)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "2601",
+      "title": "Giving or Offering a Bribe to a Ministerial Officer (Pen. Code, § 67.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2602",
+      "title": "Giving or Offering a Bribe to a Ministerial Officer: Value of Thing Offered (Pen. Code, § 67.5(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2603",
+      "title": "Requesting or Taking a Bribe (Pen. Code, §§ 68, 86, 93)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "2610",
+      "title": "Giving or Offering a Bribe to a Witness (Pen. Code, § 137(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2611",
+      "title": "Giving or Offering a Bribe to a Witness Not to Testify (Pen. Code, § 138(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2612",
+      "title": "Witness Receiving a Bribe (Pen. Code, § 138(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2620",
+      "title": "Using Force or Threatening a Witness Before Testimony or Information Given (Pen. Code, § 137(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2621",
+      "title": "Influencing a Witness by Fraud (Pen. Code, § 137(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2622",
+      "title": "Intimidating a Witness (Pen. Code, § 136.1(a) & (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, March 2023, February 2025, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "2623",
+      "title": "Intimidating a Witness: Sentencing Factors (Pen. Code, § 136.1(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, March 2023",
+      "warnings": 0
+    },
+    {
+      "number": "2624",
+      "title": "Threatening a Witness After Testimony or Information Given (Pen. Code, § 140(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012, March 2021, March 2024",
+      "warnings": 0
+    },
+    {
+      "number": "2630",
+      "title": "Evidence Tampering by Peace Officer or Other Person (Pen. Code, § 141)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "2640",
+      "title": "Perjury (Pen. Code, § 118)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2641",
+      "title": "Perjury by False Affidavit (Pen. Code, § 118a)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2650",
+      "title": "Threatening a Public Official (Pen. Code, § 76)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2651",
+      "title": "Trying to Prevent an Executive Officer From Performing Duty (Pen. Code, § 69)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2014, August 2016, September 2019, March 2021, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "2652",
+      "title": "Resisting an Executive Officer in Performance of Duty (Pen. Code, § 69)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2014, February 2015, August 2016, September 2019, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "2653",
+      "title": "Taking Firearm or Weapon While Resisting Peace Officer or Public Officer (Pen. Code, § 148(b) & (c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "2654",
+      "title": "Intentionally Taking or Attempting to Take Firearm From Peace Officer or Public Officer (Pen. Code, § 148(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2655",
+      "title": "Causing Death or Serious Bodily Injury While Resisting Peace Officer (Pen. Code, § 148.10(a) & (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "2656",
+      "title": "Resisting Peace Officer, Public Officer, or EMT (Pen. Code, § 148(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, August 2016, October 2021, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2670",
+      "title": "Lawful Performance: Peace Officer",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016, March 2022, September 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2671",
+      "title": "Lawful Performance: Custodial Officer",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2010",
+      "warnings": 0
+    },
+    {
+      "number": "2672",
+      "title": "Lawful Performance: Resisting Unlawful Arrest With Force",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2022, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "2673",
+      "title": "Pat-Down Search",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2680",
+      "title": "Courthouse Picketing (Pen. Code, § 169)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2681",
+      "title": "Disturbance of Public Meeting (Pen. Code, § 403)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2682",
+      "title": "Inciting a Riot (Pen. Code, § 404.6(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2683",
+      "title": "Participating in a Riot (Pen. Code, §§ 404, 405)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2684",
+      "title": "Participating in a Rout (Pen. Code, §§ 406, 408)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2685",
+      "title": "Participating in an Unlawful Assembly (Pen. Code, §§ 407, 408)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2686",
+      "title": "Refusal to Disperse: Riot, Rout, or Unlawful Assembly (Pen. Code, §§ 407, 409)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2687",
+      "title": "Refusal to Disperse: Intent to Commit Unlawful Act (Pen. Code, § 416(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2688",
+      "title": "Disturbing the Peace: Fighting or Challenging Someone to Fight (Pen. Code, §§ 415(1), 415.5(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2689",
+      "title": "Disturbing the Peace: Loud and Unreasonable Noise (Pen. Code, §§ 415(2), 415.5(a)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2690",
+      "title": "Disturbing the Peace: Offensive Words (Pen. Code, §§ 415(3), 415.5(a)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2700",
+      "title": "Violation of Court Order (Pen. Code, § 166(a)(4) & (b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2701",
+      "title": "Violation of Court Order: Protective Order or Stay Away (Pen. Code, §§ 166(c)(1), 273.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, August 2009, September 2024",
+      "warnings": 0
+    },
+    {
+      "number": "2702",
+      "title": "Violation of Court Order: Protective Order or Stay Away—Physical Injury (Pen. Code, §§ 166(c)(2), 273.6(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2703",
+      "title": "Violation of Court Order: Protective Order or Stay Away—Act of Violence (Pen. Code, §§ 166(c)(4), 273.6(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2720",
+      "title": "Assault by Prisoner Serving Life Sentence (Pen. Code, § 4500)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2013, August 2016, September 2019, September 2020, March 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2721",
+      "title": "Assault by Prisoner (Pen. Code, § 4501)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016, September 2019, September 2020, March 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2722",
+      "title": "Battery by Gassing (Pen. Code, §§ 243.9, 4501.1)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016, March 2017, March 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "2723",
+      "title": "Battery by Prisoner on Nonprisoner (Pen. Code, § 4501.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016, March 2017, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2735",
+      "title": "Holding a Hostage (Pen. Code, § 4503)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "2736",
+      "title": "Inciting a Riot in a Prison or Jail (Pen. Code, § 404.6(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2745",
+      "title": "Possession or Manufacture of Weapon in Penal Institution (Pen. Code, § 4502)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2020, October 2025, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "2746",
+      "title": "Possession of Firearm, Deadly Weapon, or Explosive in a Jail or County Road Camp (Pen. Code, § 4574(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2747",
+      "title": "Bringing or Sending Firearm, Deadly Weapon, or Explosive Into Penal Institution (Pen. Code, § 4574(a)–(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2748",
+      "title": "Possession of Controlled Substance or Paraphernalia in Penal Institution (Pen. Code, § 4573.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2010, February 2014, September 2017, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2749",
+      "title": "Bringing or Sending Controlled Substance or Paraphernalia Into Penal Institution (Pen. Code, § 4573(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "2760",
+      "title": "Escape (Pen. Code, § 4532(a)(1) & (b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013",
+      "warnings": 0
+    },
+    {
+      "number": "2761",
+      "title": "Escape by Force or Violence (Pen. Code, § 4532(a)(2) & (b)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013",
+      "warnings": 0
+    },
+    {
+      "number": "2762",
+      "title": "Escape After Remand or Arrest (Pen. Code, § 836.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2763",
+      "title": "Escape After Remand or Arrest: Force or Violence (Pen. Code, § 836.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2764",
+      "title": "Escape: Necessity Defense",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2765",
+      "title": "Misappropriation of Public Money (Pen. Code § 424(a)(1–7))",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "2800",
+      "title": "Failure to File Tax Return (Rev. & Tax. Code, § 19701(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2801",
+      "title": "Willful Failure to File Tax Return (Rev. & Tax. Code, § 19706)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "2810",
+      "title": "False Tax Return (Rev. & Tax. Code, § 19701(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2811",
+      "title": "Willfully Filing False Tax Return: Statement Made Under Penalty of Perjury (Rev. & Tax. Code, § 19705(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2812",
+      "title": "Willfully Filing False Tax Return: Intent to Evade Tax (Rev. & Tax. Code, § 19706)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "2825",
+      "title": "Aiding in Preparation of False Tax Return (Rev. & Tax. Code, § 19705(a)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2826",
+      "title": "Willful Failure to Pay Tax (Rev. & Tax. Code, § 19701(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2827",
+      "title": "Concealing Property With Intent to Evade Tax (Rev. & Tax. Code, § 19705(a)(4))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2828",
+      "title": "Failure to Withhold Tax (Rev. & Tax. Code, §§ 19708, 19709)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2840",
+      "title": "Evidence of Uncharged Tax Offense: Failed to File Previous Returns",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "2841",
+      "title": "No Deductions on Gross Income From Illegal Conduct (Rev. & Tax. Code, § 17282(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2842",
+      "title": "Determining Income: Net Worth Method",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2843",
+      "title": "Determining Income: Bank Deposits Method",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2012",
+      "warnings": 0
+    },
+    {
+      "number": "2844",
+      "title": "Determining Income: Cash Expenditures Method",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2845",
+      "title": "Determining Income: Specific Items Method",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2846",
+      "title": "Proof of Unreported Taxable Income: Must Still Prove Elements of Offense",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2860",
+      "title": "Defense: Good Faith Belief Conduct Legal",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2861",
+      "title": "Defense: Reliance on Professional Advice",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2900",
+      "title": "Vandalism (Pen. Code, § 594)",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised June 2007, February 2013, August 2013, September 2019, October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "2901",
+      "title": "Vandalism: Amount of Damage (Pen. Code, § 594(b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "2902",
+      "title": "Damaging Phone or Electrical Line (Pen. Code, § 591)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015, September 2019",
+      "warnings": 0
+    },
+    {
+      "number": "2903",
+      "title": "Damaging Wireless Communication Device (Pen. Code, § 591.5)",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "2915",
+      "title": "Loitering (Pen. Code, § 647(h))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2916",
+      "title": "Loitering: Peeking (Pen. Code, § 647(i))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2917",
+      "title": "Loitering: About School (Pen. Code, § 653b)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009",
+      "warnings": 0
+    },
+    {
+      "number": "2929",
+      "title": "Trespass After Making Credible Threat (Pen. Code, § 601(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2930",
+      "title": "Trespass: To Interfere With Business (Pen. Code, § 602(k))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2931",
+      "title": "Trespass: Unlawfully Occupying Property (Pen. Code, § 602(m))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "2932",
+      "title": "Trespass: Entry Into Dwelling (Pen. Code, § 602.5(a) & (b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2933",
+      "title": "Trespass: Person Present (Pen. Code, § 602.5(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2950",
+      "title": "Failing to Maintain Control of a Dangerous Animal (Pen. Code, § 399)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2951",
+      "title": "Negligent Control of Attack Dog (Pen. Code, § 399.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2952",
+      "title": "Defenses: Negligent Control of Attack Dog (Pen. Code, § 399.5(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2953",
+      "title": "Cruelty to Animals (Pen. Code, § 597(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2012; Revised February 2014",
+      "warnings": 0
+    },
+    {
+      "number": "2960",
+      "title": "Possession of Alcoholic Beverage by Person Under 21 (Bus. & Prof. Code, § 25662(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2961",
+      "title": "Purchase of Alcoholic Beverage by Person Under 21 (Bus. & Prof. Code, § 25658(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2962",
+      "title": "Selling or Furnishing Alcoholic Beverage to Person Under 21 (Bus. & Prof. Code, § 25658(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2963",
+      "title": "Permitting Person Under 21 to Consume Alcoholic Beverage (Bus. & Prof. Code, § 25658(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2964",
+      "title": "Purchasing Alcoholic Beverage for Person Under 21: Resulting in Death or Great Bodily Injury (Bus. & Prof. Code, § 25658(a) & (c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "2965",
+      "title": "Parent Permitting Child to Consume Alcoholic Beverage: Causing Traffic Collision (Bus. & Prof. Code, § 25658.2)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2966",
+      "title": "Disorderly Conduct: Under the Influence in Public (Pen. Code, § 647(f))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "2980",
+      "title": "Contributing to Delinquency of Minor (Pen. Code, § 272)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2015, August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "2981",
+      "title": "Failure to Provide (Pen. Code, § 270)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2982",
+      "title": "Persuading, Luring, or Transporting a Minor Under 14 Years of Age (Pen. Code, § 272(b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2990",
+      "title": "Bookmaking (Pen. Code, § 337a(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2991",
+      "title": "Pool Selling (Pen. Code, § 337a(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2992",
+      "title": "Keeping a Place for Recording Bets (Pen. Code, § 337a(a)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2993",
+      "title": "Receiving or Holding Bets (Pen. Code, § 337a(a)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2994",
+      "title": "Recording Bets (Pen. Code, § 337a(a)(4))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2995",
+      "title": "Permitting Place to Be Used for Betting Activities (Pen. Code, § 337a(a)(5))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2996",
+      "title": "Betting or Wagering (Pen. Code, § 337a(a)(6))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "2997",
+      "title": "Money Laundering (Pen. Code, § 186.10)",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2009; Revised April 2010",
+      "warnings": 0
+    },
+    {
+      "number": "3001",
+      "title": "Failure to Appear While on Bail (Pen. Code, § 1320.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "3002",
+      "title": "Failure to Appear While on Own Recognizance Release (Pen. Code, § 1320)",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2018",
+      "warnings": 0
+    },
+    {
+      "number": "3010",
+      "title": "Eavesdropping or Recording Confidential Communication (Pen. Code, § 632(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "3100",
+      "title": "Prior Conviction: Nonbifurcated Trial (Pen. Code, §§ 1025, 1158)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2018, September 2020, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "3101",
+      "title": "Prior Conviction: Bifurcated Trial (Pen. Code, §§ 1025, 1158)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "3102",
+      "title": "Prior Conviction: Prison Prior",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "3103",
+      "title": "Prior Conviction: Factual Issue for Jury (Pen. Code, §§ 1025, 1158)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020",
+      "warnings": 0
+    },
+    {
+      "number": "3115",
+      "title": "Armed With Firearm (Pen. Code, § 12022(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3116",
+      "title": "Armed With Firearm: Assault Weapon, Machine Gun, or .50 BMG Rifle (Pen. Code, § 12022(a)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3117",
+      "title": "Armed With Firearm: Knowledge That Coparticipant Armed (Pen. Code, § 12022(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3130",
+      "title": "Personally Armed With Deadly Weapon (Pen. Code, § 12022.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008, February 2013, September 2019, September 2020, March 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3131",
+      "title": "Personally Armed With Firearm (Pen. Code, §§ 1203.06(b)(3), 12022(c), 12022.3(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, December 2008, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3132",
+      "title": "Personally Armed With Firearm: Unlawfully Armed When Arrested (Pen. Code, § 1203.06(a)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3145",
+      "title": "Personally Used Deadly Weapon (Pen. Code, §§ 667.61(e)(3), 1192.7(c)(23), 12022(b)(1) & (2), 12022.3)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, February 2013, September 2017, September 2019, September 2020, March 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3146",
+      "title": "Personally Used Firearm (Pen. Code, §§ 667.5(c)(8), 667.61(e)(4), 1203.06, 1192.7(c)(8), 12022.3, 12022.5, 12022.53(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3147",
+      "title": "Personally Used Firearm: Assault Weapon, Machine Gun, or .50 BMG Rifle (Pen. Code, § 12022.5(b))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3148",
+      "title": "Personally Used Firearm: Intentional Discharge (Pen. Code, § 12022.53(c))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3149",
+      "title": "Personally Used Firearm: Intentional Discharge Causing Injury or Death (Pen. Code, §§ 667.61(e)(3), 12022.53(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2020, September 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3150",
+      "title": "Personally Used Firearm: Intentional Discharge and Discharge Causing Injury or Death—Both Charged (Pen. Code, §§ 667.61(e)(3), 12022.53(d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012, September 2020, September 2022, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3160",
+      "title": "Great Bodily Injury (Pen. Code, §§ 667.5(c)(8), 667.61(d)(6), 1192.7(c)(8), 12022.7, 12022.8)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, February 2015, September 2020, March 2022, March 2024,* October 2025, February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3161",
+      "title": "Great Bodily Injury: Causing Victim to Become Comatose or Paralyzed (Pen. Code, § 12022.7(b))",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised June 2007, December 2008, September 2020, March 2024,* October 2025, October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3162",
+      "title": "Great Bodily Injury: Age of Victim (Pen. Code, § 12022.7(c) & (d))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, December 2008, September 2020, March 2024,* October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3163",
+      "title": "Great Bodily Injury: Domestic Violence (Pen. Code, § 12022.7(e))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, December 2008, September 2020, March 2024,* October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3175",
+      "title": "Sex Offenses: Sentencing Factors—Aggravated Kidnapping (Pen. Code, § 667.61(d)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3176",
+      "title": "Sex Offenses: Sentencing Factors—Aggravated Mayhem (Pen. Code, § 667.61(d)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3177",
+      "title": "Sex Offenses: Sentencing Factors—Torture (Pen. Code, § 667.61(d)(3))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3178",
+      "title": "Sex Offenses: Sentencing Factors—Burglary With Intent to Commit Sex Offense (Pen. Code, § 667.61(d)(4))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3179",
+      "title": "Sex Offenses: Sentencing Factors—Kidnapping (Pen. Code, § 667.61(e)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3180",
+      "title": "Sex Offenses: Sentencing Factors—Burglary (Pen. Code, § 667.61(e)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3181",
+      "title": "Sex Offenses: Sentencing Factors—Multiple Victims (Pen. Code, § 667.61(e)(4))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "3182",
+      "title": "Sex Offenses: Sentencing Factors—Tying or Binding (Pen. Code, § 667.61(e)(5))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3183",
+      "title": "Sex Offenses: Sentencing Factors—Administered Controlled Substance (Pen. Code, § 667.61(e)(6))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "3184",
+      "title": "Sex Offenses: Sentencing Factors—Using Force or Fear to Cause Minor to Engage in Commercial Sex Act (Pen. Code, § 236.1(c)(2))",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2014",
+      "warnings": 0
+    },
+    {
+      "number": "3185",
+      "title": "Sex Offenses: Sentencing Factors—Using Force or Fear Against Minor Under 14 Years/14 Years or Older (Pen. Code, §§ 264.1(b), 286(c)(2)(B) & (C), 286(d)(2) & (3), 287(c)(2)(B) & (C), 287(d)(2) & (3), 289(a)(1)(B) & (C))",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2021",
+      "warnings": 0
+    },
+    {
+      "number": "3200",
+      "title": "Controlled Substance: Quantity (Pen. Code, §§ 1203.07(a)(1), (2) & (4); Health & Saf. Code, §§ 11352.5, 11370.4)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3201",
+      "title": "Controlled Substance: Quantity—Manufacture of Controlled Substance (Health & Saf. Code, § 11379.8)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3218",
+      "title": "Value of Stolen Property Sold, Exchanged, or Returned (Pen. Code, § 12022.10)",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3219",
+      "title": "Acting in Concert to Take, Damage, or Destroy Property (Pen. Code, § 12022.65)",
+      "file": "calcrim-2026",
+      "revision_line": "New October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3220",
+      "title": "Amount of Loss (Pen. Code, § 12022.6)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2009, April 2010, August 2016; Revoked March 2021; Restored and Revised October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3221",
+      "title": "Aggravated White Collar Crime (Pen. Code, § 186.11(a)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised December 2008",
+      "warnings": 0
+    },
+    {
+      "number": "3222",
+      "title": "Characteristics of Victim (Pen. Code, §§ 667.9(a) & (b), 667.10(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2011",
+      "warnings": 0
+    },
+    {
+      "number": "3223",
+      "title": "Reckless Driving With Specified Injury (Veh. Code, § 23105(a))",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2013; Revised August 2016",
+      "warnings": 0
+    },
+    {
+      "number": "3224",
+      "title": "Aggravating Factor: Great Violence, Great Bodily Harm, or High Degree of Cruelty, Viciousness, or Callousness",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3225",
+      "title": "Aggravating Factor: Armed or Used Weapon",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3226",
+      "title": "Aggravating Factor: Particularly Vulnerable Victim",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3227",
+      "title": "Aggravating Factor: Induced Others to Participate or Occupied Position of Leadership or Dominance",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3228",
+      "title": "Aggravating Factor: Induced Minor to Commit or Assist",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3229",
+      "title": "Aggravating Factor: Threatened, Prevented, Dissuaded, Etc. Witnesses",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3230",
+      "title": "Aggravating Factor: Planning, Sophistication, or Professionalism",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3231",
+      "title": "Aggravating Factor: Great Monetary Value",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3232",
+      "title": "Aggravating Factor: Large Quantity of Contraband",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3233",
+      "title": "Aggravating Factor: Position of Trust or Confidence",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3234",
+      "title": "Aggravating Factor: Serious Danger to Society",
+      "file": "calcrim-2026",
+      "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3235",
+      "title": "Aggravating Factor: Numerous or Increasingly Serious Prior Convictions or Sustained Juvenile Delinquency Petitions",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3237",
+      "title": "Aggravating Factor: Probation, Mandatory Supervision, Postrelease Community Supervision, or Parole When Crime Was Committed",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3238",
+      "title": "Aggravating Factor: Unsatisfactory Prior Performance on Probation, Supervision, or Parole",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3250",
+      "title": "Enhancement, Sentencing Factor, or Specific Factual Issue: Template",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3251",
+      "title": "Enhancement, Sentencing Factor, or Specific Factual Issue: Template—Bifurcated Trial",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3260",
+      "title": "Duty of Jury: Verdict Form for Enhancement, Sentencing Factor, or Prior Conviction",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3261",
+      "title": "While Committing a Felony: Defined—Escape Rule",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, August 2013, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "3400",
+      "title": "Alibi",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3402",
+      "title": "Duress or Threats",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008",
+      "warnings": 0
+    },
+    {
+      "number": "3403",
+      "title": "Necessity",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "3404",
+      "title": "Accident (Pen. Code, § 195)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, August 2012, September 2017, March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "3405",
+      "title": "Parental Right to Punish a Child",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3406",
+      "title": "Mistake of Fact",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, December 2008, August 2014, September 2018, September 2022, February 2025, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3407",
+      "title": "Defenses: Mistake of Law",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3408",
+      "title": "Entrapment",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008",
+      "warnings": 0
+    },
+    {
+      "number": "3409",
+      "title": "When Conduct of Officer May Not Be Attributed to Defendant",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3410",
+      "title": "Statute of Limitations",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, August 2009",
+      "warnings": 0
+    },
+    {
+      "number": "3411",
+      "title": "Mistake of Law As a Defense",
+      "file": "calcrim-2026",
+      "revision_line": "New August 2013; Revised October 2021, February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3412",
+      "title": "Compassionate Use (Health & Saf. Code, § 11362.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2015; Revised September 2018, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "3413",
+      "title": "Collective or Cooperative Cultivation Defense (Health & Saf. Code, § 11362.775)",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2015; Revised August 2015, September 2018, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "3414",
+      "title": "Coercion (Pen. Code, §§ 236.23, 236.24)",
+      "file": "calcrim-2026",
+      "revision_line": "New September 2017; Revised March 2022",
+      "warnings": 0
+    },
+    {
+      "number": "3415",
+      "title": "Lawful Use Defense (Health & Saf. Code, § 11362.1)",
+      "file": "calcrim-2026",
+      "revision_line": "New September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "3425",
+      "title": "Unconsciousness",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, August 2013, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "3426",
+      "title": "Voluntary Intoxication (Pen. Code, § 29.4)",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2012, August 2013, February 2015, March 2019, September 2024,* October 2026*",
+      "warnings": 0
+    },
+    {
+      "number": "3427",
+      "title": "Involuntary Intoxication",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2013, September 2024*",
+      "warnings": 0
+    },
+    {
+      "number": "3428",
+      "title": "Mental Impairment: Defense to Required Mental State (Pen. Code, § 28)",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised March 2017, October 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3429",
+      "title": "Reasonable Person Standard for Physically Disabled Person",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3450",
+      "title": "Insanity: Determination, Effect of Verdict (Pen. Code, §§ 25, 29.8)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, October 2010, August 2014, August 2015, September 2017",
+      "warnings": 0
+    },
+    {
+      "number": "3451",
+      "title": "Present Mental Competence of Defendant",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised October 2021",
+      "warnings": 0
+    },
+    {
+      "number": "3452",
+      "title": "Determining Restoration to Sanity (Pen. Code, § 1026.2)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3453",
+      "title": "Extension of Commitment (Pen. Code, § 1026.5(b)(1))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, December 2008, August 2015",
+      "warnings": 0
+    },
+    {
+      "number": "3454",
+      "title": "Initial Commitment as Sexually Violent Predator (Welf. & Inst. Code, §§ 6600, 6600.1)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, August 2009, April 2011, February 2012, March 2019",
+      "warnings": 0
+    },
+    {
+      "number": "3454A",
+      "title": "Hearing to Determine Current Status Under Sexually Violent Predator Act (Welf. & Inst. Code, § 6605)",
+      "file": "calcrim-2026",
+      "revision_line": "New April 2011; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3455",
+      "title": "Mental Incapacity as a Defense (Pen. Code, §§ 25, 29.8)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, August 2014",
+      "warnings": 0
+    },
+    {
+      "number": "3456",
+      "title": "Initial Commitment of Offender With A Mental Health Disorder as Condition of Parole (Pen. Code, § 2970)",
+      "file": "calcrim-2026",
+      "revision_line": "New December 2008; Revised August 2014, September 2017, September 2020, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "3457",
+      "title": "Extension of Commitment as Offender With A Mental Health Disorder (Pen. Code, § 2970)",
+      "file": "calcrim-2026",
+      "revision_line": "New December 2008; Revised September 2017, September 2020, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "3458",
+      "title": "Extension of Commitment to Division of Juvenile Facilities (Welf. & Inst. Code, § 1800)",
+      "file": "calcrim-2026",
+      "revision_line": "New December 2008",
+      "warnings": 0
+    },
+    {
+      "number": "3459",
+      "title": "Commitment of Person With Developmental Disability As Dangerous to Self or Others (Welf. & Inst. Code, § 6500)",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2026",
+      "warnings": 0
+    },
+    {
+      "number": "3470",
+      "title": "Right to Self-Defense or Defense of Another (Non-Homicide)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, April 2008, August 2009, February 2012, August 2012, March 2022, February 2025, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3471",
+      "title": "Right to Self-Defense: Mutual Combat or Initial Aggressor",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, December 2008, April 2011, February 2013",
+      "warnings": 0
+    },
+    {
+      "number": "3472",
+      "title": "Right to Self-Defense: May Not Be Contrived",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2016, March 2017, September 2022",
+      "warnings": 0
+    },
+    {
+      "number": "3474",
+      "title": "Danger No Longer Exists or Attacker Disabled",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3475",
+      "title": "Right to Eject Trespasser From Real Property",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008",
+      "warnings": 0
+    },
+    {
+      "number": "3476",
+      "title": "Right to Defend Real or Personal Property",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008",
+      "warnings": 0
+    },
+    {
+      "number": "3477",
+      "title": "Presumption That Resident Was Reasonably Afraid of Death or Great Bodily Injury (Pen. Code, § 198.5)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised March 2017, September 2020, October 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3500",
+      "title": "Unanimity",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3501",
+      "title": "Unanimity: When Generic Testimony of Offense Presented",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2014, February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3502",
+      "title": "Unanimity: When Prosecution Elects One Act Among Many",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2025",
+      "warnings": 0
+    },
+    {
+      "number": "3515",
+      "title": "Multiple Counts: Separate Offenses (Pen. Code, § 954)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3516",
+      "title": "Multiple Counts: Alternative Charges for One Event—Dual Conviction Prohibited",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007, October 2010, April 2011, October 2025*",
+      "warnings": 0
+    },
+    {
+      "number": "3517",
+      "title": "Deliberations and Completion of Verdict Forms: For Use When Lesser Included Offenses and Greater Crimes Are Not Separately Charged and the Jury Receives Guilty and Not Guilty Verdict Forms for Greater and Lesser Offenses (Non-Homicide)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, February 2012, August 2012, February 2015, March 2024",
+      "warnings": 0
+    },
+    {
+      "number": "3518",
+      "title": "Deliberations and Completion of Verdict Forms: For Use When Lesser Included Offenses and Greater Crimes Are Not Separately Charged and Jury Is Given Only One Not Guilty Verdict Form for Each Count (Non-Homicide)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised August 2006, June 2007, April 2010, February 2012, August 2012, February 2015, March 2024",
+      "warnings": 0
+    },
+    {
+      "number": "3519",
+      "title": "Deliberations and Completion of Verdict Forms: Lesser Offenses—For Use When Lesser Included Offenses and Greater Crimes Are Separately Charged (Non-Homicide)",
+      "file": "calcrim-2026",
+      "revision_line": "New June 2007; Revised August 2012, February 2015, March 2024",
+      "warnings": 0
+    },
+    {
+      "number": "3530",
+      "title": "Judge’s Comment on the Evidence (Cal. Const., art. VI, § 10; Pen. Code, §§ 1127, 1093(f))",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3531",
+      "title": "Service Provider for Juror With Disability (Code Civ. Proc., § 224)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3550",
+      "title": "Pre-Deliberation Instructions",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised April 2008, October 2010, April 2011, September 2018",
+      "warnings": 0
+    },
+    {
+      "number": "3551",
+      "title": "Further Instruction About Deliberations",
+      "file": "calcrim-2026",
+      "revision_line": "New February 2012",
+      "warnings": 0
+    },
+    {
+      "number": "3575",
+      "title": "Substitution of Alternate Juror: During Deliberations (Pen. Code, § 1089)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3576",
+      "title": "Substitution of Alternate Juror in Capital Case: After Guilt Determination, Before Submission of Penalty Phase to Jury (Pen. Code, § 1089)",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006",
+      "warnings": 0
+    },
+    {
+      "number": "3577",
+      "title": "Instructions to Alternate on Submission of Case to Jury",
+      "file": "calcrim-2026",
+      "revision_line": "New January 2006; Revised June 2007",
+      "warnings": 0
+    },
+    {
+      "number": "3590",
+      "title": "Final Instruction on Discharge of Jury",
+      "file": "calcrim-2026-supplement",
+      "revision_line": "New January 2006; Revised August 2012, October 2026",
+      "warnings": 0
+    }
+  ],
+  "reserved_numbers": [
+    "762",
+    "1809",
+    "1934",
+    "2362",
+    "2411",
+    "3401",
+    "3473"
+  ]
+}

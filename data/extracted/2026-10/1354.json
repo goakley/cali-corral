@@ -1,0 +1,146 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1354",
+  "title": "Hate Crime Allegation: Felony (Pen. Code, § 422.75(a)–(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1131,
+      1134
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017, March 2022",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the crime[s] committed by the defendant (was a/were) hate crime[s]. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation [for each crime] the People must prove that the defendant committed that crime in whole or in part because of the alleged victim’s actual or perceived (disability[,]/gender[,]/nationality[,]/race or ethnicity[,]/religion[,]/sexual orientation[,]/[or] association with a person or group having (this/one or more of these) actual or perceived characteristic[s]).",
+    "As used here, *victim* includes, but is not limited to, a (person[,]/[or] individual[,]/[or] family[,]/[or] group[,]/[or] community center[,]/[or] educational facility[,]/[or] entity[,]/[or] office[,]/[or] meeting hall[,]/[or] place of worship[,]/[or] private institution[,]/[or] public agency[,]/[or] library[,]/[or] other victim or intended victim of the crime).",
+    "The defendant acted *in whole or in part because of* the actual or perceived characteristic[s] of the victim if:",
+    "1. The defendant was biased against the victim based on the victim’s actual or perceived (disability[,]/gender[,]/nationality[,]/race or ethnicity[,]/religion[,]/sexual orientation[,]/[or] association with a person or group with (this/one or more of these) actual or perceived characteristic[s]);",
+    "AND",
+    "2. The bias motivation caused the defendant to commit the alleged acts.",
+    "If you find that the defendant had more than one reason to commit the alleged acts, the bias described here must have been a substantial motivating factor. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that motivated the conduct.",
+    "[The term *disability* is explained in Instruction 1353, to which you should refer.]",
+    "[*Gender*, as used here, means sex and includes a person’s gender identity and gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.]",
+    "[*Nationality*, as used here, means country of origin, immigration status, including citizenship, and national origin.]",
+    "[*Race or ethnicity* includes ancestry, color, and ethnic background.]",
+    "[*Religion*, as used here, includes all aspects of religious belief, observance, and practice and includes agnosticism and atheism.]",
+    "[*Sexual orientation* means heterosexuality, homosexuality, or bisexuality.]",
+    "[*Association with a person or group having (this/one or more of these) actual or perceived characteristic[s]* includes (advocacy for[,]/identification with[,]/[or] being on the ground owned or rented by[, or adjacent to,]) a (person[,]/group[,]/family[,]/community center[,]/educational facility[,]/office[,]/meeting hall[,]/place of worship[,]/private institution[,]/public agency[,]/library[,]/[or] other entity) that has, or is identified with people who have, (that/one or more of those) characteristic[s].]",
+    "[If you conclude that the People have proved that the crime[s] committed by the defendant (was a/were) hate crime[s], you must also decide whether the defendant voluntarily acted together with another person by either personally committing the crime or by aiding and abetting another person in committing the crime.]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the sentencing enhancement. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Give all relevant bracketed definitions. If the term “disability” is used, give CALCRIM No. 1353, *Hate Crimes: Disability Defined*."
+      },
+      {
+        "text": "If the prosecution alleges that the defendant acted in concert with another, pursuant to Penal Code section 422.75(b), give the bracketed sentence that begins with “If you conclude that the People have proved.” Give all relevant instructions on aiding and abetting. The jury must be provided with a verdict form on which it may indicate whether this factor has also been proved."
+      },
+      {
+        "text": "If the prosecution alleges that the defendant has a qualifying prior conviction under Penal Code section 422.75(d), then, in addition to this instruction, also give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*, unless the defendant has stipulated to the truth of the prior conviction."
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of this crime. (See *People v. Valenti* (2016) 243 Cal.App.4th 1140, 1165 [197 Cal.Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1350, *Hate Crime: Misdemeanor Interference With Civil Rights by Force*."
+      },
+      {
+        "text": "CALCRIM No. 1351, *Hate Crime: Misdemeanor Interference With Civil Rights by Threat*."
+      },
+      {
+        "text": "CALCRIM No. 1352, *Hate Crime: Misdemeanor Interference With Civil Rights by Damage to Property*."
+      },
+      {
+        "text": "CALCRIM No. 1355, *Hate Crime Allegation: Misdemeanor*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, § 422.75(a)–(c)."
+      },
+      {
+        "text": "• Hate Crime Defined. Pen. Code, § 422.55."
+      },
+      {
+        "text": "• “In Whole or in Part Because of” Defined. Pen. Code, § 422.56(d); *In re M.S.* (1995) 10 Cal.4th 698, 719–720 [42 Cal.Rptr.2d 355, 896 P.2d 1365]; *People v. Superior Court (Aishman)* (1995) 10 Cal.4th 735, 741 [42 Cal.Rptr.2d 377, 896 P.2d 1387]."
+      },
+      {
+        "text": "• Victim Defined. Pen. Code, § 422.56(i)."
+      },
+      {
+        "text": "• Disability Defined. Pen. Code, § 422.56(b); Gov. Code, § 12926(i)–(*l*)."
+      },
+      {
+        "text": "• Gender Defined. Pen. Code, §§ 422.56(c) & 422.57."
+      },
+      {
+        "text": "• Nationality Defined. Pen. Code, § 422.56(e)."
+      },
+      {
+        "text": "• Race or Ethnicity Defined. Pen. Code, § 422.56(f)."
+      },
+      {
+        "text": "• Religion Defined. Pen. Code, § 422.56(g)."
+      },
+      {
+        "text": "• Sexual Orientation Defined. Pen. Code, § 422.56(h)."
+      },
+      {
+        "text": "• Association With Defined. Pen. Code, § 422.56(a)."
+      },
+      {
+        "text": "• Enhancement, Not Substantive Offense. See *People v. Wallace* (2003) 109 Cal.App.4th 1699, 1702 [1 Cal.Rptr.3d 324]."
+      },
+      {
+        "text": "• Aiding and Abetting. *People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318]."
+      },
+      {
+        "text": "• Acting in Concert. See *People v. Calimee* (1975) 49 Cal.App.3d 337, 341 [122 Cal.Rptr. 658] [construing sodomy-in-concert statute]; *People v. Lopez* (1981) 116 Cal.App.3d 882, 886 [172 Cal.Rptr. 374] [construing rape-in-concert statute]."
+      },
+      {
+        "text": "• No Specific Intent Required. *People v. Superior Court (Aishman)* (1995) 10 Cal.4th 735, 740–741 [42 Cal.Rptr.2d 377, 896 P.2d 1387]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

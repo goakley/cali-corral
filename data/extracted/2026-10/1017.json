@@ -1,0 +1,109 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1017",
+  "title": "Oral Copulation of an Intoxicated Person (Pen. Code, § 287(a), (i))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      837,
+      838
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2015",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with oral copulation of a person while that person was intoxicated [in violation of Penal Code section 287(i)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed an act of oral copulation with another person;",
+    "2. An (intoxicating/anesthetic/controlled) substance prevented the other person from resisting;",
+    "AND",
+    "3. The defendant knew or reasonably should have known that the effect of an (intoxicating/anesthetic/controlled) substance prevented the other person from resisting.",
+    "*Oral copulation* is any contact, no matter how slight, between the mouth of one person and the sexual organ or anus of another person. Penetration is not required.",
+    "A person is *prevented from resisting* if he or she is so intoxicated that he or she cannot give legal consent. In order to give legal consent, a person must be able to exercise reasonable judgment. In other words, the person must be able to understand and weigh the physical nature of the act, its moral character, and probable consequences. Legal consent is consent given freely and voluntarily by someone who knows the nature of the act involved.",
+    "[______ <If appropriate, insert controlled substance> (is/are) [a] controlled substance[s].]",
+    "<Defense: Reasonable Belief Capable of Consent>",
+    "[The defendant is not guilty of this crime if (he/she) actually and reasonably believed that the person was capable of consenting to oral copulation, even if the defendant’s belief was wrong. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the woman was capable of consenting. If the People have not met this burden, you must find the defendant not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "A space is provided to identify controlled substances if the parties agree that there is no issue of fact."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of reasonable belief the person was capable of consent if there is sufficient evidence to support the defense. (See *People v. Giardino* (2000) 82 Cal.App.4th 454, 472 [98 Cal.Rptr.2d 315].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1016, *Oral Copulation in Concert*, may be given in conjunction with this instruction, if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 287(a), (i)."
+      },
+      {
+        "text": "• Consent Defined. Pen. Code, § 261.6."
+      },
+      {
+        "text": "• Controlled Substances. Health & Safety Code, §§ 11054–11058; see *People v. Avila* (2000) 80 Cal.App.4th 791, 798, fn. 7 [95 Cal.Rptr.2d 651]."
+      },
+      {
+        "text": "• Anesthetic Effect. See *People v. Avila* (2000) 80 Cal.App.4th 791, 798–799 [95 Cal.Rptr.2d 651] [in context of sodomy]."
+      },
+      {
+        "text": "• Oral Copulation Defined. *People v. Grim* (1992) 9 Cal.App.4th 1240, 1242–1243 [11 Cal.Rptr.2d 884]."
+      },
+      {
+        "text": "• “Prevented From Resisting” Defined. See *People v. Giardino* (2000) 82 Cal.App.4th 454, 465–466 [98 Cal.Rptr.2d 315] [rape of intoxicated woman]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Oral Copulation. Pen. Code, §§ 663, 287."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 1015, *Oral Copulation by Force, Fear, or Threats*."
+      },
+      {
+        "text": "A defendant may be convicted of both oral copulation of an intoxicated person and oral copulation of an unconscious person. (*People v. Gonzalez* (2014) 60 Cal.4th 533 [179 Cal.Rptr.3d 1, 335 P.3d 1083]; Pen. Code, § 287(f), (i).)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

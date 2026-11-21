@@ -1,0 +1,69 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1802",
+  "title": "Theft: As Part of Overall Plan",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1256,
+      1257
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, August 2015, August 2016, September 2023",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that the defendant committed more than one theft, you must then decide if the defendant committed grand theft. To prove that the defendant is guilty of grand theft, the People must prove that:",
+    "1. The defendant committed multiple thefts of (property/[(and/or)] services);",
+    "2. The combined value of the (property/[(and/or)] services) was over $950;",
+    "2. AND",
+    "3. In obtaining the (property/[(and/or)] services), the defendant was motivated by one intention, one general impulse, and one plan.",
+    "If you conclude that, as to one or more alleged theft, the People have failed to prove grand theft, the theft[s] you have found proven (is/are) petty theft[s]."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on aggregating the value of the property or services taken if grand theft is charged on that theory. The total value of the property taken must exceed $950 to be grand theft. (See Pen. Code, § 490.2.)"
+      },
+      {
+        "text": "When the People allege the defendant has a prior conviction for an offense listed in Penal Code section 667(e)(2)(C)(iv) or for an offense requiring registration pursuant to subdivision (c) of section 290, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial* or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggregating Value of Property Taken According to Overall Plan or General Intent. Pen. Code, § 487(e); *People v. Whitmer* (2014) 59 Cal.4th 733, 740–741 [174 Cal.Rptr.3d 594, 329 P.3d 154]; *People v. Bailey* (1961) 55 Cal.2d 514, 518–519 [11 Cal.Rptr. 543, 360 P.2d 39]."
+      },
+      {
+        "text": "• Grand Theft of Property or Services. Pen. Code, § 487(a) [property or services exceeding $950 in value]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Combining Grand Thefts"
+      },
+      {
+        "text": "A defendant “may be convicted of multiple counts of grand theft based on separate and distinct acts of theft, even if committed pursuant to a single overarching scheme.” (See *People v. Whitmer, supra,* 59 Cal.4th at p. 741.) Before *Whitmer*, numerous Courts of Appeal had interpreted *Bailey* as permitting only one conviction of grand theft where multiple crimes were unified by a single intent, impulse, and plan. (See, e.g., *People v. Kronemyer* (1987) 189 Cal.App.3d 314, 363–364 [234 Cal.Rptr. 442]; *People v. Brooks* (1985) 166 Cal.App.3d 24, 31 [210 Cal.Rptr. 90]; *People v. Gardner* (1979) 90 Cal.App.3d 42, 47–48 [153 Cal.Rptr. 160]; *People v. Richardson* (1978) 83 Cal.App.3d 853, 866 [148 Cal.Rptr. 120]; *People v. Sullivan* (1978) 80 Cal.App.3d 16, 19 [145 Cal.Rptr. 313].) *Whitmer* disapproved, but did not expressly overrule, this line of appellate cases. (See *People v. Whitmer, supra,* 59 Cal.4th at pp. 740–741.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

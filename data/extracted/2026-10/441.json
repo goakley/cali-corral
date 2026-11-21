@@ -1,0 +1,126 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "441",
+  "title": "Solicitation: Elements (Pen. Code, § 653f)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      273,
+      276
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with soliciting another person to commit a crime [in violation of Penal Code section 653f].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant requested [or ______ <insert other synonyms for solicit as appropriate>] another person to commit [or join in the commission of] the crime of ______ <insert target offense>;",
+    "[AND]",
+    "2. The defendant intended that the crime of ______ <insert target offense> be committed(;/.)",
+    "<Give element 3 when instructing that person solicited must receive message; see Bench Notes.>",
+    "[AND",
+    "3. The other person received the communication containing the request.]",
+    "To decide whether the defendant intended that the person commit ______ <insert target offense>, please refer to the separate instructions that I (will give/have given) you on that crime.",
+    "<Alternative A—Corroboration by One Witness>",
+    "[The crime of solicitation must be proved by the testimony of at least one witness and corroborating evidence.]",
+    "<Alternative B—Corroboration by Two Witnesses>",
+    "[The crime of solicitation must be proved by the testimony of at least two witnesses or by the testimony of one witness and corroborating evidence.]",
+    "*Corroborating evidence* is evidence that (1) tends to connect the defendant with the commission of the crime and (2) is independent of the evidence given by the witness who testified about the solicitation or independent of the facts testified to by that witness. Corroborating evidence need not be strong or even enough to establish each element by itself. Corroborating evidence may include the defendant’s acts, statements, or conduct, or any other circumstance that tends to connect (him/her) to the crime.",
+    "[A person is guilty of solicitation even if the crime solicited is not completed or even started. The person solicited does not have to agree to commit the crime.]",
+    "[If you find the defendant guilty of solicitation, you must decide how many crimes (he/she) solicited. When deciding this question, consider the following factors:",
+    "1. Were the crimes solicited part of a plan with a single objective or motive or did each crime solicited have a different objective or motive?",
+    "2. Were the crimes solicited to be committed at the same time?",
+    "3. Were the crimes solicited to be committed in the same place?",
+    "4. Were the crimes solicited to be committed in the same way?",
+    "5. Was the payment, if any, for the crimes solicited one amount or were different amounts solicited for each crime?",
+    "Consider all of these factors when deciding whether the defendant’s alleged acts were a single crime or ______ <insert number of solicitations alleged by the People> separate crimes of solicitation.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the target offense. (See *People v. Baskins* (1946) 72 Cal.App.2d 728, 732 [165 P.2d 510].) Give all relevant instructions on the target crime alleged. If the crime is solicitation to commit murder, do not instruct on implied malice murder. (*People v. Bottger* (1983) 142 Cal.App.3d 974, 980–981 [191 Cal.Rptr. 408].)"
+      },
+      {
+        "text": "One court has held that the person solicited must actually receive the solicitous communication. (*People v. Saephanh* (2000) 80 Cal.App.4th 451, 458–459 [94 Cal.Rptr.2d 910].) In *Saephanh*, the defendant mailed a letter from prison containing a solicitation to harm the fetus of his girlfriend. (*Id.* at p. 453.) The letter was intercepted by prison authorities and, thus, never received by the intended person. *(Ibid.)* If there is an issue over whether the intended person actually received the communication, give bracketed element 3."
+      },
+      {
+        "text": "A blank has also been provided in element one to permit substituting other words for “solicit.” Other approved language includes: to ask, entreat, implore, importune, to make petition to, to plead for, to try to obtain, or to offer or invite another to commit a crime. (*People v. Gordon* (1975) 47 Cal.App.3d 465, 472 [120 Cal.Rptr. 840]; *People v. Phillips* (1945) 70 Cal.App.2d 449, 453 [160 P.2d 872]; *People v. Sanchez* (1998) 60 Cal.App.4th 1490, 1494 [71 Cal.Rptr.2d 309]; *Laurel v. Superior Court for Los Angeles County* (1967) 255 Cal.App.2d 292, 298 [63 Cal.Rptr. 114].)"
+      },
+      {
+        "text": "Penal Code section 653f lists those crimes that may be the target of a solicitation. If the target crime is listed in subdivision (a) or (b) of that section, insert the bracketed portion “[or join in the commission of].” If the target crime is listed in subdivision (c), (d), or (e), of the section, omit that bracketed portion. (See *People v. Herman* (2002) 97 Cal.App.4th 1369, 1380 [119 Cal.Rptr.2d 199.)"
+      },
+      {
+        "text": "When instructing on the corroboration requirements, if the target crime is listed in subdivision (d) or (e) of section 653f, give Alternative A. If the target crime is listed in subdivision (a), (b), or (c) of section 653f, give Alternative B."
+      },
+      {
+        "text": "Authority is divided on whether the judge or jury is to determine the number of solicitations if multiple crimes were solicited by the defendant. The bracketed portion at the end of the instruction should be given if multiple solicitations have been charged and the trial court determines that this is a question for the jury. (Compare *People v. Davis* (1989) 211 Cal.App.3d 317, 322–323 [259 Cal.Rptr. 348] with *People v. Morocco* (1987) 191 Cal.App.3d 1449, 1454 [237 Cal.Rptr. 113].) If the court decides to present this issue to the jury, multiple target offenses must be inserted in elements 1 and 2, and the paragraph immediately following the elements."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 653f."
+      },
+      {
+        "text": "• Corroboration. *People v. Phillips* (1985) 41 Cal.3d 29, 75–76 [222 Cal.Rptr. 127, 711 P.2d 423]; *People v. Baskins* (1946) 72 Cal.App.2d 728, 732 [165 P.2d 510]."
+      },
+      {
+        "text": "• Solicitation Defined. *People v. Gordon* (1975) 47 Cal.App.3d 465, 472 [120 Cal.Rptr. 840]; *People v. Sanchez* (1998) 60 Cal.App.4th 1490, 1494 [71 Cal.Rptr.2d 309]; see *People v. Herman* (2002) 97 Cal.App.4th 1369, 1380 [119 Cal.Rptr.2d 199] [since a minor cannot violate § 288 by engaging in lewd conduct with an adult, an adult who asks a minor to engage in such conduct does not violate § 653f(c)]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Crime Committed Outside of California"
+      },
+      {
+        "text": "The solicitation of a person in California to commit a felony outside the state constitutes solicitation. (*People v. Burt* (1955) 45 Cal.2d 311, 314 [288 P.2d 503].)"
+      },
+      {
+        "heading": true,
+        "text": "Solicitation of Murder"
+      },
+      {
+        "text": "When defining the crime of murder, in the case of a solicitation of murder, the trial court must not instruct on implied malice as an element of murder. Because the “crime of solicitation to commit murder occurs when the solicitor purposely seeks to have someone killed and tries to engage someone to do the killing,” the person must have express malice to be guilty of the solicitation. (*People v. Bottger* (1983) 142 Cal.App.3d 974, 981 [191 Cal.Rptr. 408].) An instruction on murder that includes implied malice as an element has the potential of confusing the jury. (*Ibid*.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

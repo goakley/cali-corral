@@ -1,0 +1,123 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1831",
+  "title": "Extortion by Threatening Letter (Pen. Code, § 523)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1293,
+      1295
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sending a threatening letter with the intent to extort [in violation of Penal Code section 523].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant sent or delivered a threatening letter [or other writing] to another person;",
+    "<Alternative 2A—threatened to injure>",
+    "[2. In the letter [or writing], the defendant threatened to unlawfully injure (the other person or someone else/[or] the property of the other person or someone else);]",
+    "<Alternative 2B—threatened to accuse of crime>",
+    "[2. In the letter [or writing], the defendant threatened to accuse the other person[, or that person’s relative or family member,] of a crime;]",
+    "<Alternative 2C—threatened to expose secret>",
+    "[2. In the letter [or writing], the defendant threatened to expose a secret about the other person[, or that person’s relative or family member,] [or to expose or connect (him/her/any of them) with a (disgrace[,]/[or] crime[,]/[or] deformity)];]",
+    "AND",
+    "3. When sending or delivering the letter [or writing], the defendant intended to use fear to obtain (money [or property]/[or] the performance of an official act) with the other person’s consent.",
+    "The term *consent* has a special meaning here. Consent for extortion can be coerced or unwilling, as long as it is given as a result of the wrongful use of force or fear.",
+    "[The threat can be directly stated in the letter [or writing] or can be implied by the contents of the letter [or writing] and the surrounding circumstances or can be intended by the sender to be understood as a threat by the recipient.]",
+    "[Threatening to do something that a person has a legal right to do is not a threat to commit an unlawful injury.]",
+    "[The letter [or writing] does not need to be signed and does not need to have been (written/dictated/composed) by the defendant.]",
+    "[The crime is complete when the letter [or writing] is either delivered to someone or deposited in a post office or any other place, with the intent that the letter [or writing] be forwarded to the intended recipient. It is not required that the intended recipient actually receive the letter [or writing].]",
+    "[It is not required that the intended recipient actually (give the defendant money [or property]/[or] do an official act).]",
+    "[An *official act* is an act that a person does in his or her official capacity, using the authority of his or her public office.]",
+    "[A *secret* is a fact that:",
+    "1. Is unknown to the general public or to someone who might be interested in knowing the fact;",
+    "AND",
+    "2. Harms the threatened person’s reputation or other interest so greatly that he or she would be likely to (give the defendant money[or property]/[or] do an official act) to prevent the fact from being revealed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Depending on the evidence, in element 2, give the appropriate alternative A–C describing the threat. (Pen. Code, § 519.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 523."
+      },
+      {
+        "text": "• Crime Complete When Mailed. Pen. Code, § 660."
+      },
+      {
+        "text": "• Felony Punishment. Pen. Code, § 520."
+      },
+      {
+        "text": "• Threats. Pen. Code, § 519."
+      },
+      {
+        "text": "• Coerced Consent. *People v. Goodman* (1958) 159 Cal.App.2d 54, 61 [323 P.2d 536]; *People v. Peck* (1919) 43 Cal.App. 638, 645 [185 P. 881] [extortion under Pen. Code, §§ 518, 519]."
+      },
+      {
+        "text": "• Official Act Defined. See *People v. Mayfield* (1997) 14 Cal.4th 668, 769–773 [60 Cal.Rptr.2d 1, 928 P.2d 485] [kidnapping for extortion]; *People v. Norris* (1985) 40 Cal.3d 51, 55–56 [219 Cal.Rptr. 7, 706 P.2d 1141] [same]."
+      },
+      {
+        "text": "• Secret Defined. *People v. Lavine* (1931) 115 Cal.App. 289, 295 [1 P.2d 496] [extortion under Pen. Code, §§ 518, 519]."
+      },
+      {
+        "text": "• Unlawful Injury Defined. *People v. Schmitz* (1908) 7 Cal.App. 330, 369–370 [94 P. 407, 94 P. 419] [extortion under Pen. Code, §§ 518, 519]."
+      },
+      {
+        "text": "• Threat to Accuse of Crime Includes Threat to Continue Pursuit of Criminal Charge. *People v. Umana* (2006) 138 Cal.App.4th 625, 640–641 [41 Cal.Rptr.3d 573]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Adding “official act” to section 518 expanded the definition of extortion in the related code sections, including section 523, to include extortion of an official act. (*Isaac v. Superior Court* (1978) 79 Cal.App.3d 260, 263–264 [146 Cal.Rptr. 396].)"
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Extortion. Pen. Code, § 524."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

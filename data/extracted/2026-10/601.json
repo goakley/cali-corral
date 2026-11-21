@@ -1,0 +1,79 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "601",
+  "title": "Attempted Murder: Deliberation and Premeditation (Pen. Code, §§ 21a, 189, 664(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      450,
+      451
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, February 2015",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of attempted murder [under Count ______], you must then decide whether the People have proved the additional allegation that the attempted murder was done willfully, and with deliberation and premeditation.",
+    "(The defendant/______ <insert name or description of principal if not defendant>) acted *willfully* if (he/she) intended to kill when (he/she) acted. (The defendant/______ <insert name or description of principal if not defendant>) *deliberated* if (he/she) carefully weighed the considerations for and against (his/her) choice and, knowing the consequences, decided to kill. (The defendant/______ <insert name or description of principal if not defendant>) acted with *premeditation* if (he/she) decided to kill before completing the act[s] of attempted murder.",
+    "[The attempted murder was done willfully and with deliberation and premeditation if either the defendant or ______ <insert name or description of principal> or both of them acted with that state of mind.]",
+    "The length of time the person spends considering whether to kill does not alone determine whether the attempted killing is deliberate and premeditated. The amount of time required for deliberation and premeditation may vary from person to person and according to the circumstances. A decision to kill made rashly, impulsively, or without careful consideration of the choice and its consequences is not deliberate and premeditated. On the other hand, a cold, calculated decision to kill can be reached quickly. The test is the extent of the reflection, not the length of time.",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the sentencing enhancement. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 475–476, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435]; Pen. Code, § 664(a).) Give this instruction when an enhancement for deliberation and premeditation is charged."
+      },
+      {
+        "text": "This instruction must be given with CALCRIM No. 600, *Attempted Murder*."
+      },
+      {
+        "text": "When a charged attempted murder also forms the basis for a charge of provocative act murder, the court must take care to clarify that the defendant must have personally premeditated and deliberated an attempted murder in order to be convicted of *first degree murder* resulting from attempted murder under the provocative act doctrine. As described in CALCRIM No. 560, *Homicide: Provocative Act by Defendant*, the mental state for first degree murder under the provocative act murder doctrine requires that the defendant “personally premeditated and deliberated the attempted murder that provoked a lethal response.” (*People v. Gonzalez* (2012) 54 Cal.4th 643, 662 [142 Cal.Rptr.3d 893, 278 P.3d 1242].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Willful, Deliberate, and Premeditated Murder. Pen. Code, § 189."
+      },
+      {
+        "text": "• Willful, Deliberate, and Premeditated Attempted Murder. Pen. Code, § 664(a)."
+      },
+      {
+        "text": "• Premeditation and Deliberation Defined. *People v. Pearson* (2013) 56 Cal.4th 393, 443–444 [154 Cal.Rptr.3d 541, 297 P.3d 793]; *People v. Anderson* (1968) 70 Cal.2d 15, 26–27 [73 Cal.Rptr. 550, 447 P.2d 942]; *People v. Bender* (1945) 27 Cal.2d 164, 183–184 [163 P.2d 8]; *People v. Daugherty* (1953) 40 Cal.2d 876, 901–902 [256 P.2d 911]."
+      },
+      {
+        "text": "• Attempted Premeditated Murder and the Natural and Probable Consequences Doctrine. *People v. Favor* (2012) 54 Cal.4th 868, 879 [143 Cal.Rptr.3d 659, 279 P.3d 1131]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Accomplice Liability"
+      },
+      {
+        "text": "An aider and abettor is subject to this penalty provision where the principal attempted a willful, deliberate, and premeditated murder even though the accomplice did not personally deliberate or premeditate. (*People v. Lee* (2003) 31 Cal.4th 613, 622–623 [3 Cal.Rptr.3d 402, 74 P.3d 176]; *People v. Laster* (1997) 52 Cal.App.4th 1450, 1473 [61 Cal.Rptr.2d 680].) The accomplice must still share the intent to kill. (*People v. Lee, supra,* 31 Cal.4th at pp. 623–624.)"
+      },
+      {
+        "text": "See the Related Issues Section to CALCRIM No. 521, *Murder: Degrees* for discussion of “deliberate and premeditated.”"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

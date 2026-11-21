@@ -1,0 +1,87 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2221",
+  "title": "Driving Without a License (Veh. Code, § 12500(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1574,
+      1575
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with driving without a license [in violation of Vehicle Code section 12500(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant drove a motor vehicle on a highway;",
+    "[AND]",
+    "2. When the defendant drove, (he/she) did not hold a valid California driver’s license(;/.)",
+    "<Give element 3 when instructing on statutory exemption.>",
+    "[AND",
+    "3. The defendant was not excused from the requirement to have a California driver’s license.]",
+    "Whether the defendant was properly licensed is a matter within (his/her) own knowledge. The defendant must produce evidence tending to show that (he/she) did hold a valid driver’s license. If the evidence raises in your mind a reasonable doubt about whether the defendant held a valid driver’s license, you must find the defendant not guilty of this crime.",
+    "[A *motor vehicle* includes a (passenger vehicle/motorcycle/motor scooter/bus/school bus/commercial vehicle/truck tractor and trailer/______ <insert other type of motor vehicle>).]",
+    "[The term *highway* describes any area publicly maintained and open to the public for purposes of vehicular travel, and includes a street.]",
+    "[The term[s] (*motor vehicle/*[and] *highway*) (is/are) defined in another instruction to which you should refer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Exemptions to the licensing requirement are stated in Vehicle Code sections 12501 to 12505. If there is sufficient evidence that the defendant was exempt, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3."
+      },
+      {
+        "text": "The court must define the terms “highway” and “motor vehicle.” Give the relevant bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "Give CALCRIM No. 2241, *Driver and Driving Defined*, on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 12500(a)."
+      },
+      {
+        "text": "• Offense Is a Misdemeanor. Veh. Code, § 40000.11(b)."
+      },
+      {
+        "text": "• Motor Vehicle Defined. Veh. Code, § 415."
+      },
+      {
+        "text": "• Highway Defined. Veh. Code, § 360."
+      },
+      {
+        "text": "• Instruction on Production of Evidence. *People v. Garcia* (2003) 107 Cal.App.4th 1159, 1164 [132 Cal.Rptr.2d 694]; *In re Shawnn F.* (1995) 34 Cal.App.4th 184, 198–199 [40 Cal.Rptr.2d 263]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

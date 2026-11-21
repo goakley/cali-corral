@@ -1,0 +1,96 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3176",
+  "title": "Sex Offenses: Sentencing Factors—Aggravated Mayhem (Pen. Code, § 667.61(d)(3))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2252,
+      2254
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ <insert counts charging sex offense[s] from Pen. Code, § 667.61(c)>, you must then decide whether[, for each crime,] the People have proved the additional allegation that, while committing that crime, the defendant also committed aggravated mayhem. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation, the People must prove that:",
+    "1. During the commission of the crime, the defendant unlawfully and maliciously (disabled or disfigured someone permanently/[or] deprived someone else of a limb, organ, or other part of (his/her) body);",
+    "2. When the defendant acted, (he/she) intended to (permanently disable or disfigure the other person/[or] deprive the other person of a limb, organ, or other part of (his/her) body);",
+    "AND",
+    "3. Under the circumstances, the defendant’s act showed extreme indifference to the physical or psychological well-being of the other person.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else.",
+    "[A disfiguring injury may be *permanent* even if it can be repaired by medical procedures.]",
+    "[The People do not have to prove that the defendant intended to kill.]",
+    "<If there is an issue in the case over whether the mayhem was committed “during the commission of” the offense, see Bench Notes.>",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the sentencing factor when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "The bracketed sentence about the permanency of “disfiguring injury” may be given on request if there is evidence that the injury may be repaired by medical procedures. (*People v. Hill* (1994) 23 Cal.App.4th 1566, 1574–1575 [28 Cal.Rptr.2d 783] [not error to instruct that an injury may be permanent even though cosmetic repair may be medically feasible].)"
+      },
+      {
+        "text": "The final bracketed sentence may be given on the prosecution’s request when there is no evidence or conflicting evidence that the defendant intended to kill someone. (See Pen. Code, § 205.)"
+      },
+      {
+        "text": "If the case involves an issue of whether the defendant committed the mayhem “during the commission of” the offense, the court may give CALCRIM No. 3261, *While Committing a Felony: Defined—Escape Rule*. (See *People v. Jones* (2001) 25 Cal.4th 98, 109 [104 Cal.Rptr.2d 753]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• One-Strike Sex Offense Statute—Aggravated Mayhem Factor. Pen. Code, § 667.61(d)(3)."
+      },
+      {
+        "text": "• Factors Must Be Pleaded and Proved. Pen. Code, § 667.61(j); *People v. Mancebo* (2002) 27 Cal.4th 735, 743 [117 Cal.Rptr.2d 550, 41 P.3d 556]."
+      },
+      {
+        "text": "• Elements of Aggravated Mayhem. Pen. Code, § 205."
+      },
+      {
+        "text": "• Permanent Disability. See, e.g., *People v. Thomas* (1979) 96 Cal.App.3d 507, 512 [158 Cal.Rptr. 120] [serious ankle injury lasting over six months]."
+      },
+      {
+        "text": "• Permanent Disfigurement. See *People v. Hill* (1994) 23 Cal.App.4th 1566, 1571 [28 Cal.Rptr.2d 783]; see also *People v. Newble* (1981) 120 Cal.App.3d 444, 451 [174 Cal.Rptr. 637] [head is member of body for purposes of disfigurement]."
+      },
+      {
+        "text": "• Specific Intent to Cause Maiming Injury. *People v. Ferrell* (1990) 218 Cal.App.3d 828, 833 [267 Cal.Rptr. 283]; *People v. Lee* (1990) 220 Cal.App.3d 320, 324–325 [269 Cal.Rptr. 434]."
+      },
+      {
+        "text": "• “During Commission of” Felony. *People v. Jones* (2001) 25 Cal.4th 98, 109–110 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 800, *Aggravated Mayhem*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

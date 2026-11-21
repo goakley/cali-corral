@@ -1,0 +1,132 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2370",
+  "title": "Planting, etc., Cannabis (Health & Saf. Code, §§ 11358(c)–(d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1653,
+      1655
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2010, February 2015, September 2018",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (planting[,] [or]/cultivating[,] [or]/harvesting[,] [or]/drying[,] [or]/processing) more than six living cannabis plants, [or any part thereof,] a controlled substance [in violation of Health and Safety Code section 11358 ______ <insert appropriate subsection[s] of statute>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (planted[,] [or]/cultivated[,] [or]/harvested[,] [or]/dried[,] [or]/processed) more than six cannabis plants;",
+    "AND",
+    "2. The defendant knew that the substance (he/she) (planted[,] [or]/cultivated[,] [or]/harvested[,] [or]/dried[,] [or]/processed) was cannabis.",
+    "<Sentencing Factor on defendant’s age>",
+    "If you find the defendant guilty of this crime [as charged in Count[s] ______], you must then decide whether the People have proved the additional allegation that when the defendant (planted[,] [or]/cultivated[,] [or]/harvested[,] [or]/dried[,] [or]/processed) more than six cannabis plants, (he/she) was 18 years of age or older.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[If you find the defendant guilty of ______ <insert offense[s]> [as charged in Count[s] ______], you must then decide whether the People have proved the additional allegation[s].] [You must decide whether the People have proved (this/these) allegation[s] for each crime and return a separate finding for each crime.]",
+    "To prove (this/these) allegation[s] [for each crime], the People must prove that:",
+    "<Give the next paragraph if defendant is charged with violating a subsection of Health & Safety Code section 11358(d)>",
+    "[______. (The defendant’s conduct caused ______ <insert description of statutory violation specified in Health & Safety Code section 11358(d)(3)>/The defendant intentionally or with gross negligence caused substantial environmental harm to public lands or other public resources;)]",
+    "<Give the appropriate paragraphs below if defendant has prior convictions specified in Health & Safety Code section 11358(d)(1–2)>",
+    "[______. The defendant has at least two prior convictions for ______ <insert description of prior convictions for this crime>(./;)]",
+    "[______. The defendant has at least one prior conviction for ______ <insert description of offense[s] specified in clause (iv) of subparagraph (C) of paragraph (2) of subdivision (e) of Section 667 of the Penal Code or an offense requiring registration pursuant to subdivision (c) of Section 290 of the Penal Code>.]",
+    "[*Cannabis* means all or part of the *Cannabis sativa L.* plant, whether growing or not, including the seeds and resin extracted from any part of the plant. [It also includes every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seeds, or resin.]]",
+    "<If applicable, give the definition of industrial hemp: Health & Saf. Code, § 11018.5>",
+    "[Cannabis does not include industrial hemp. Industrial hemp means a fiber or oilseed crop, or both, that only contain types of the plant Cannabis sativa L. with no more than three-tenths of 1 percent tetrahydrocannabinol from the dried flowering tops, whether growing or not. It may include the seeds of the plant; the resin extracted from any part of the plant; and every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin produced from the seeds.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    3.0,
+    0.0,
+    3.0,
+    3.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "A medical marijuana defense under the Compassionate Use Act or the Medical Marijuana Program Act may be raised to a charge of violating Health and Safety Code section 11358. (See Health & Saf. Code, §§ 11362.5, 11362.775.) The burden is on the defendant to produce sufficient evidence to raise a reasonable doubt that the conduct was lawful. (*People v. Mower* (2002) 28 Cal.4th 457, 460 [122 Cal.Rptr.2d 326, 49 P.3d 1067]; *People v. Jackson* (2012) 210 Cal.App.4th 525, 538–539 [148 Cal.Rptr.3d 375].) If the defendant introduces substantial evidence, sufficient to raise a reasonable doubt that the conduct may have been lawful, the court has a sua sponte duty to give the relevant defense instruction: CALCRIM No. 3412, *Compassionate Use Defense*, or CALCRIM No. 3413, *Collective or Cooperative Cultivation Defense*."
+      },
+      {
+        "text": "Give CALCRIM No. 3415, *Legal Use Defense*, on request if supported by substantial evidence."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, § 11358."
+      },
+      {
+        "text": "• Harvesting. *People v. Villa* (1983) 144 Cal.App.3d 386, 390 [192 Cal.Rptr. 674]."
+      },
+      {
+        "text": "• Aider and Abettor Liability. *People v. Null* (1984) 157 Cal.App.3d 849, 852 [204 Cal.Rptr. 580]."
+      },
+      {
+        "text": "• Medical Cannabis. Health & Saf. Code, §§ 11362.5, 11362.775."
+      },
+      {
+        "text": "• Burden of Proof for Defense of Medical Use. *People v. Mower* (2002) 28 Cal.4th 457, 460 [122 Cal.Rptr.2d 326, 49 P.3d 1067]."
+      },
+      {
+        "text": "• Amount Must Be Reasonably Related to Patient’s Medical Needs. *People v. Trippet* (1997) 56 Cal.App.4th 1532, 1550–1551 [66 Cal.Rptr.2d 559]."
+      },
+      {
+        "text": "• Primary Caregiver. *People v. Mentch* (2008) 45 Cal.4th 274, 282–292 [85 Cal.Rptr.3d 480, 195 P.3d 1061]."
+      },
+      {
+        "text": "• Defendant’s Burden of Proof on Compassionate Use Defense. *People v. Mentch* (2008) 45 Cal.4th 274, 292–294 [85 Cal.Rptr.3d 480, 195 P.3d 1061] (conc.opn. of Chin, J.)."
+      },
+      {
+        "text": "• Medical Marijuana Program Act Defense. *People v. Jackson* (2012) 210 Cal.App.4th 525, 538–539 [148 Cal.Rptr.3d 375]."
+      },
+      {
+        "text": "• Definition of Cannabis. Health & Saf. Code, § 11018."
+      },
+      {
+        "text": "• Definition of Industrial Hemp. Health & Saf. Code, § 11018.5."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Simple Possession of Cannabis. Health & Saf. Code, § 11357."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Aider and Abettor Liability of Landowner"
+      },
+      {
+        "text": "In *People v. Null* (1984) 157 Cal.App.3d 849, 852 [204 Cal.Rptr. 580], the court held that a landowner could be convicted of aiding and abetting cultivation of cannabis based on his or her knowledge of the activity and failure to prevent it. “If [the landowner] knew of the existence of the illegal activity, her failure to take steps to stop it would aid and abet the commission of the crime. This conclusion is based upon the control that she had over her property.” *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

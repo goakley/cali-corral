@@ -1,0 +1,80 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1933",
+  "title": "Possession of Counterfeiting Equipment (Pen. Code, § 480)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1400,
+      1401
+    ]
+  },
+  "revision_line": "New March 2021",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______ ] with making or possessing counterfeiting equipment [in violation of Penal Code section 480].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [made] [or] [possessed] (a/an) (die/[or] plate/[or] apparatus/[or] paper/[or] metal/[or] machine/[or] ______ <insert other item>);",
+    "[2. The defendant knew of the equipment’s presence;]",
+    "AND",
+    "(2/3). The defendant knew that the (die/[or] plate/[or] apparatus/[or] paper/[or] metal/[or] machine/[or] ______ <insert other item>) had been or would be used to counterfeit (coin/gold dust/gold or silver (bars/bullion/lumps/pieces/nuggets)/bank notes or bills).",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The People allege that the defendant possessed the following items: ______ <insert description of each item when multiple items alleged>.",
+    "You may not find the defendant guilty unless you all agree that the People have proved that the defendant possessed at least one of these items and you all agree on which item (he/she) possessed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    15.0,
+    16.0,
+    1.7,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The defendant knew” if the defendant is charged with possessing the equipment. Do not give this bracketed sentence if the defendant is only charged with making the equipment."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple counterfeiting equipment, the court has a sua sponte duty to instruct on unanimity. (See *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752].) Give the last bracketed paragraph, inserting the items alleged. (See also Bench Notes to CALCRIM No. 3500, *Unanimity*, discussing when instruction on unanimity is and is not required.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements Pen. Code, § 480; *People v. Seo* (2020) 48 Cal.App.5th 1081, 1084–1085 [262 Cal.Rptr.3d 497]."
+      },
+      {
+        "text": "• Statute Constitutional *Ex parte Dixon* (1953) 41 Cal.2d 756, 763–764 [264 P.2d 513]."
+      },
+      {
+        "text": "• Possession of the Means for Counterfeiting Does Not Include Possession of Completed Counterfeit Items *People v. Clark* (1992) 10 Cal.App.4th 1259, 1267 [13 Cal.Rptr.2d 209]."
+      },
+      {
+        "text": "• Bills Include Federal and Foreign Currency *People v. McDonnell* (1889) 80 Cal. 285, 287 [22 P. 190]; *People v. Ray* (1996) 42 Cal.App.4th 1718, 1723 [50 Cal.Rptr.2d 612]."
+      },
+      {
+        "text": "• Unanimity Instruction If Multiple Items *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

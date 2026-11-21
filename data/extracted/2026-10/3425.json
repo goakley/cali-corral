@@ -1,0 +1,111 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3425",
+  "title": "Unconsciousness",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2381,
+      2384
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, August 2013, September 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is not guilty of ______ <insert crime[s]> if (he/she) acted while unconscious. Someone is unconscious when he or she is not conscious of his or her actions. [Someone may be unconscious even though able to move.]",
+    "Unconsciousness may be caused by (a blackout[,]/[or] an epileptic seizure[,]/[or] involuntary intoxication[,]/[or] ______ <insert a similar condition>).",
+    "[The defense of unconsciousness may not be based on voluntary intoxication.]",
+    "The People must prove beyond a reasonable doubt that the defendant was conscious when (he/she) acted. If there is proof beyond a reasonable doubt that the defendant acted as if (he/she) were conscious, you should conclude that (he/she) was conscious, unless based on all the evidence, you have a reasonable doubt that (he/she) was conscious, in which case you must find (him/her) not guilty."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must instruct on a defense when the defendant requests it and there is substantial evidence supporting the defense. The court has a sua sponte duty to instruct on a defense if there is substantial evidence supporting it and either the defendant is relying on it or it is not inconsistent with the defendant’s theory of the case."
+      },
+      {
+        "text": "When the court concludes that the defense is supported by substantial evidence and is inconsistent with the defendant’s theory of the case, however, it should ascertain whether defendant wishes instruction on this alternate theory. (*People v. Gonzales* (1999) 74 Cal.App.4th 382, 389–390 [88 Cal.Rptr.2d 111]; *People v. Breverman* (1998) 19 Cal.4th 142, 157 [77 Cal.Rptr.2d 870, 960 P.2d 1094].)"
+      },
+      {
+        "text": "Substantial evidence means evidence of a defense, which, if believed, would be sufficient for a reasonable jury to find a reasonable doubt as to the defendant’s guilt. (*People v. Salas* (2006) 37 Cal.4th 967, 982–983 [38 Cal.Rptr.3d 624, 127 P.3d 40].)"
+      },
+      {
+        "text": "Because there is a presumption that a person who appears conscious is conscious (*People v. Hardy* (1948) 33 Cal.2d 52, 63–64 [198 P.2d 865]), the defendant must produce sufficient evidence raising a reasonable doubt that he or she was conscious before an instruction on unconsciousness may be given. (*Ibid.*; *People v. Kitt* (1978) 83 Cal.App.3d 834, 842 [148 Cal.Rptr. 447], disapproved on other grounds by *People v. Cooper* (1991) 53 Cal.3d 771, 836 [281 Cal.Rptr. 90, 809 P.2d 865] [presumption of consciousness goes to the defendant’s burden of producing evidence].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 26(4); *People v. Mathson* (2012) 210 Cal.App.4th 1297, 1317–1323 [149 Cal.Rptr.3d 167]; *People v. Stewart* (1976) 16 Cal.3d 133, 140 [127 Cal.Rptr. 117, 544 P.2d 1317]."
+      },
+      {
+        "text": "• Burden of Proof. Evid. Code, § 607; *People v. Hardy, supra*, 33 Cal.2d at p. 64; *People v. Cruz* (1978) 83 Cal.App.3d 308, 330–331 [147 Cal.Rptr. 740]."
+      },
+      {
+        "text": "• “Unconsciousness” Defined. *People v. Newton* (1970) 8 Cal.App.3d 359, 376 [87 Cal.Rptr. 394]; *People v. Heffington* (1973) 32 Cal.App.3d 1, 9 [107 Cal.Rptr. 859]."
+      },
+      {
+        "text": "• Unconscious State: Blackouts. *People v. Cox* (1944) 67 Cal.App.2d 166, 172 [153 P.2d 362]."
+      },
+      {
+        "text": "• Unconscious State: Epileptic Seizures. *People v. Freeman* (1943) 61 Cal.App.2d 110, 115–116 [142 P.2d 435]."
+      },
+      {
+        "text": "• Unconscious State: Involuntary Intoxication. *People v. Heffington, supra*, 32 Cal.App.3d at p. 8; see *People v. Hughes* (2002) 27 Cal.4th 287, 343–344 [116 Cal.Rptr.2d 401, 39 P.3d 432] [jury was adequately informed that unconsciousness does not require that person be incapable of movement]."
+      },
+      {
+        "text": "• Unconscious State: Somnambulism, Sleepwalking, or Delirium. *People v. Mathson, supra*, 210 Cal.App.4th at pp. 1317–1323; *People v. Methever* (1901) 132 Cal. 326, 329 [64 P. 481], overruled on other grounds in *People v. Gorshen* (1953) 51 Cal.2d 716 [336 P.2d 492]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The committee did not include an instruction on the presumption of consciousness. There is a judicially created presumption that a person who acts as if conscious is in fact conscious. (*People v. Hardy, supra*, 33 Cal.2d at pp. 63–64.) Although an instruction on this presumption has been approved, it has been highly criticized. (See *People v. Kitt, supra*, 83 Cal.App.3d at pp. 842–843; *People v. Cruz, supra*, 83 Cal.App.3d at p. 332 [criticizing instruction for failing to adequately explain the presumption].)"
+      },
+      {
+        "text": "The effect of this presumption is to place on the defendant a burden of producing evidence to dispel the presumption. (*People v. Cruz, supra,* 83 Cal.App.3d at pp. 330–331; *People v. Kitt, supra,* 83 Cal.App.3d at p. 842; and see *People v. Babbitt* (1988) 45 Cal.3d 660, 689–696 [248 Cal.Rptr. 69, 755 P.2d 253] [an instruction on this presumption “did little more than guide the jury as to how to evaluate evidence bearing on the defendant’s consciousness and apply it to the issue.”].) However, if the defendant produces enough evidence to warrant an instruction on unconsciousness, the rebuttable presumption of consciousness has been dispelled and no instruction on its effect is necessary. The committee, therefore, concluded that no instruction on the presumption of consciousness was needed."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Inability to Remember"
+      },
+      {
+        "text": "Generally, a defendant’s inability to remember or his hazy recollection does not supply an evidentiary foundation for a jury instruction on unconsciousness. (*People v. Heffington, supra*, 32 Cal.App.3d at p. 10); *People v. Sameniego* (1931) 118 Cal.App. 165, 173 [4 P.2d 809] [“The inability of a defendant . . . to remember . . . is of such common occurrence and so naturally accountable for upon the normal defects of memory, or, what is more likely, the intentional denial of recollection, as to raise not even a suspicion of declarations having been made while in an unconscious condition.”].) In *People v. Coston* (1947) 82 Cal.App.2d 23, 40–41 [185 P.2d 632], the court stated that forgetfulness may be a factor in unconsciousness; however, “there must be something more than [the defendant’s] mere statement that he does not remember what happened to justify a finding that he was unconscious at the time of that act.”"
+      },
+      {
+        "text": "Two cases have held that a defendant’s inability to remember warrants an instruction on unconsciousness. (*People v. Bridgehouse* (1956) 47 Cal.2d 406, 414 [303 P.2d 1018] and *People v. Wilson* (1967) 66 Cal.2d 749, 761–762 [59 Cal.Rptr. 156, 427 P.2d 820].) Both cases were discussed in *People v. Heffington, supra*, 32 Cal.App.3d at p. 10, but the court declined to hold that *Bridgehouse* and *Wilson* announced an “ineluctable rule of law” that “a defendant’s inability to remember or his ‘hazy’ recollection supplies an evidentiary foundation for a jury instruction on unconsciousness.” The court stated that, “[b]oth [cases] were individualized decisions in which the court examined the record and found evidence, no matter how incredible, warranting the instruction.” (*Ibid*.)"
+      },
+      {
+        "heading": true,
+        "text": "Intoxication—Involuntary versus Voluntary"
+      },
+      {
+        "text": "Unconsciousness due to involuntary intoxication is a complete defense to a criminal charge under Penal Code section 26, subdivision (4). (*People v. Heffington, supra*, 32 Cal.App.3d at p. 8.) Unconsciousness due to voluntary intoxication is governed by Penal Code section 29.4, rather than section 26, and may only be offered to negate specific intent. (*People v. Suazo* (2023) 95 Cal.App.5th 681, 703–704 [313 Cal.Rptr.3d 649]; *People v. Chaffey* (1994) 25 Cal.App.4th 852, 855 [30 Cal.Rptr.2d 757]; see CALCRIM No. 3426, *Voluntary Intoxication*.)"
+      },
+      {
+        "heading": true,
+        "text": "Mental Condition"
+      },
+      {
+        "text": "A number of authorities have stated that a conflict exists in California over whether an unsound mental condition can form the basis of a defense of unconsciousness. (See *People v. Lisnow* (1978) 88 Cal.App.3d Supp. 21, 23 [151 Cal.Rptr. 621]; 1 Witkin California Criminal Law (4th ed. 2012) Defenses, § 32 [noting the split and concluding that the more recent cases permit the defense for defendants of unsound mind]; Annot., Automatism or Unconsciousness as a Defense to Criminal Charge (1984) 27 A.L.R.4th 1067, § 3(b) fn. 7.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1082",
+  "title": "Oral Copulation With Person Under 18 (Pen. Code, § 287(b)(1))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      910,
+      911
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with oral copulation with a person who was under the age of 18 [in violation of Penal Code section 287(b)(1)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant participated in an act of oral copulation with another person;",
+    "AND",
+    "2. The other person was under the age of 18 when the act was committed.",
+    "*Oral copulation* is any contact, no matter how slight, between the mouth of one person and the sexual organ or anus of another person. Penetration is not required.",
+    "[It is not a defense that the other person may have consented to the act.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "<Defense: Good Faith Belief 18 or Over>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that the other person was age 18 or older. The People must prove beyond a reasonable doubt that the defendant did not reasonably and actually believe that the other person was at least 18 years old. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “It is not a defense that” on request, if there is evidence that the minor consented to the act. (See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502].)"
+      },
+      {
+        "text": "Give the final bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant reasonably and actually believed that the minor was age 18 or older, the court has a sua sponte duty to instruct on the defense. (See *People v. Hernandez* (1964) 61 Cal.2d 529, 535–536 [39 Cal.Rptr. 361, 393 P.2d 673]; *People v. Winters* (1966) 242 Cal.App.2d 711, 716 [51 Cal.Rptr. 735].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 287(b)(1)."
+      },
+      {
+        "text": "• Oral Copulation Defined. Pen. Code, § 287(a); *People v. Grim* (1992) 9 Cal.App.4th 1240, 1242–1243 [11 Cal.Rptr.2d 884] [in context of lewd acts with children]."
+      },
+      {
+        "text": "• Minor’s Consent Not a Defense. See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502] [in context of statutory rape]."
+      },
+      {
+        "text": "• Mistake of Fact Regarding Age. *People v. Hernandez* (1964) 61 Cal.2d 529, 535–536 [39 Cal.Rptr. 361, 393 P.2d 673] [in context of statutory rape]; *People v. Peterson* (1981) 126 Cal.App.3d 396, 397 [178 Cal.Rptr. 734]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• A violation of Penal Code section 288.3 is not a lesser included offense of attempted oral copulation, because attempt can be committed without contacting or communicating with the victim under the statutory elements test. (*People v. Medelez* (2016) 2 Cal.App.5th 659, 663 [206 Cal.Rptr.3d 402].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Minor Perpetrator"
+      },
+      {
+        "text": "A minor under age 14 may be adjudged responsible for violating Penal Code section 287(b)(1) upon clear proof of the minor’s knowledge of wrongfulness. (Pen. Code, § 26; *In re Paul C.* (1990) 221 Cal.App.3d 43, 49 [270 Cal.Rptr. 369].)"
+      },
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1070, *Unlawful Sexual Intercourse: Defendant 21 or Older*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

@@ -1,0 +1,123 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "724",
+  "title": "Special Circumstances: Murder of Peace Officer, Federal Officer, or Firefighter (Pen. Code, § 190.2(a)(7), (8) & (9))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      529,
+      532
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder of a (peace officer/federal law enforcement officer/firefighter) [in violation of Penal Code section 190.2(a)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. ______ <insert officer’s name, excluding title> was a (peace officer/federal law enforcement officer/firefighter) [lawfully performing (his/her) duties as a (peace officer/federal law enforcement officer/firefighter)];",
+    "2. The defendant intended to kill ______ <insert officer’s name, excluding title>;",
+    "AND",
+    "<Alternative 3A—killing during performance of duties>",
+    "[3. When ______ <insert officer’s name, excluding title> was killed, the defendant knew, or reasonably should have known, that ______ <insert officer’s name, excluding title> was a (peace officer/federal law enforcement officer/firefighter) who was performing (his/her) duties.]",
+    "<Alternative 3B—killing in retaliation>",
+    "[3. ______ <insert officer’s name, excluding title> was killed in retaliation for the performance of (his/her) official duties.]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[The duties of (a/an) ______ <insert title of peace officer> include ______ <insert job duties>.]",
+    "[A *firefighter* includes anyone who is an officer, employee, or member of a (governmentally operated (fire department/fire protection or firefighting agency) in this state/federal fire department/federal fire protection or firefighting agency), whether or not he or she is paid for his or her services.]",
+    "<When lawful performance is an issue, give the following paragraph and Instruction 2670, Lawful Performance: Peace Officer.>",
+    "[A peace officer is not lawfully performing his or her duties if he or she is (unlawfully arresting or detaining someone/[or] using unreasonable or excessive force in his or her duties). Instruction 2670 explains (when an arrest or detention is unlawful/[and] when force is unreasonable or excessive).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "“Lawful performance” by the officer is not an element when the prosecution’s theory is that the officer was killed in retaliation for performing his or her duties but is an element when the theory is that the officer was killed while engaging in his or her duties. If the prosecution’s theory is that the killing occurred while the decedent was carrying out official duties, give the bracketed phrase “lawfully performing (his/her) duties” in element 1 and give alternative 3A. If the prosecution’s theory is that the killing was in retaliation for the officer’s performance of his or her duties, do not give the bracketed language in element 1 and give alternative 3B. The retaliation theory does not apply to the killing of a firefighter. (Pen. Code, § 190.2(a)(9).)"
+      },
+      {
+        "text": "In order to be “engaged in the performance of his or her duties,” a peace officer must be acting lawfully. (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1217 [275 Cal.Rptr. 729, 800 P.2d 1159].) “[D]isputed facts bearing on the issue of legal cause must be submitted to the jury considering an engaged-in-duty element.” *(Ibid.)* If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) On request, the court must instruct that the prosecution has the burden of proving the lawfulness of the arrest beyond a reasonable doubt. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651].) If lawful performance is an issue, give the bracketed paragraph on lawful performance and the appropriate portions of CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "Penal Code section 190.2(a)(7) defines “peace officer” as “defined in Section 830.1, 830.2, 830.3, 830.31, 830.32, 830.33, 830.34, 830.35, 830.36, 830.37, 830.4, 830.5, 830.6, 830.10, 830.11, or 830.12.”"
+      },
+      {
+        "text": "Penal Code section 190.2(a)(9) defines “firefighter” “as defined in Section 245.1.”"
+      },
+      {
+        "text": "If the decedent was a federal law enforcement officer or agent, then the term “federal law enforcement officer” may need to be defined for the jury depending on the decedent’s position."
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins, “The duties of (a/an) ______ <insert title . . . .> include,” on request. The court may insert a description of the officer’s duties such as “the correct service of a facially valid search warrant.” (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1222 [275 Cal.Rptr. 729, 800 P.2d 1159].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance: Peace Officer. Pen. Code, § 190.2(a)(7)."
+      },
+      {
+        "text": "• Special Circumstance: Federal Officer. Pen. Code, § 190.2(a)(8)."
+      },
+      {
+        "text": "• Special Circumstance: Firefighter. Pen. Code, § 190.2(a)(9)."
+      },
+      {
+        "text": "• Engaged in Performance of Duties. *People v. Gonzalez* (1990) 51 Cal.3d 1179, 1217 [275 Cal.Rptr. 729, 800 P.2d 1159]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Reasonable Knowledge Standard"
+      },
+      {
+        "text": "Application of the special circumstance to a defendant who “reasonably should have known” that the decedent was a peace officer is constitutional. (*People v. Rodriguez* (1986) 42 Cal.3d 730, 781–782 [230 Cal.Rptr. 667, 726 P.2d 113].)"
+      },
+      {
+        "text": "[I]n appropriate cases it would be proper for the court to instruct that a defendant may not be found guilty of the special circumstance at issue here (even if he reasonably should have known his victim was a peace officer engaged in the performance of his duty) if, by reason of *non-self-induced* “diminished capacity,” defendant was *unable actually to know* the status of his victim."
+      },
+      {
+        "text": "(*Id.* at p. 781, fn. 18 [emphasis in original].)"
+      },
+      {
+        "text": "Such an instruction is not warranted in a case where the defendant is voluntarily intoxicated or has otherwise “self-induced diminished capacity.” (*People v. Brown* (1988) 46 Cal.3d 432, 445, fn. 7 [250 Cal.Rptr. 604, 758 P.2d 1135].)"
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

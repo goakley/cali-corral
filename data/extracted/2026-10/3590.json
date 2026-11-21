@@ -1,0 +1,84 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3590",
+  "title": "Final Instruction on Discharge of Jury",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      114,
+      115
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, October 2026",
+  "revision_legend": null,
+  "body": [
+    "You have now completed your jury service in this case. On behalf of all the judges of the court, please accept my thanks for your time and effort.",
+    "Now that the case is over, you may choose whether or not to discuss the case and your deliberations with anyone.",
+    "[I remind you that under California law, you must wait at least 90 days before negotiating or agreeing to accept any payment for information about the case.]",
+    "Let me tell you about some rules the law puts in place for your convenience and protection.",
+    "The lawyers in this case, the defendant[s], or their representatives may now talk to you about the case, including your deliberations or verdict. Those discussions must occur at a reasonable time and place and with your consent.",
+    "Please tell me immediately if anyone unreasonably contacts you without your consent.",
+    "Anyone who violates these rules is violating a court order and may be fined.",
+    "[I order that the court’s record of personal juror identifying information, including names, addresses, and telephone numbers, be sealed until further order of this court.",
+    "If, in the future, the court is asked to decide whether this information will be released, notice will be sent to any juror whose information is involved. You may oppose the release of this information and ask that any hearing on the release be closed to the public. The court will decide whether and under what conditions any information may be disclosed.]",
+    "[Service on a jury trial [that involves evidence of violence] may cause stress and/or trauma. Before you leave the courthouse, (you may request/the court will provide) written information about mental health awareness, including stress relief and symptoms that may be experienced following exposure to trauma.]",
+    "Again, thank you for your service. You are now excused."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on discharge of the jury. (Code Civ. Proc., § 206.) The court may give the bracketed portions about accepting payment and sealing personal juror identifying information at its discretion. (*Id.*, § 237.)"
+      },
+      {
+        "text": "Code of Civil Procedure section 237(a)(2) requires the court to seal the personal identifying information of jurors in a criminal case following the recording of the jury’s verdict. Access to the sealed records may be permitted on a showing of good cause in a petition to the court, as provided by subdivisions (b) through (d)."
+      },
+      {
+        "text": "Section 2.30 of the California Standards of Judicial Administration states that “it is appropriate for the trial judge to thank jurors for their public service, but the judge’s comments should not include praise or criticism of the verdict or the failure to reach a verdict.”"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “Service on a jury trial” if the case involved a violent felony offense or if the court otherwise decides to give this advisement. (Code Civ. Proc., § 242.) Select the parenthetical option that applies to the court’s procedure or modify accordingly. See the Judicial Council’s Juror Mental Health and Wellness flyer (at courts.ca.gov/courts/jury-service/juror-mental-health-and-wellness)."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Statutory Authority. Code Civ. Proc., §§ 206, 237."
+      },
+      {
+        "text": "• Jury Tampering. Pen. Code, § 116.5."
+      },
+      {
+        "text": "• Requirement to Distribute Mental Health Awareness Materials. Code Civ. Proc., § 242."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2012"
+  },
+  "supplement_status": "revised"
+}

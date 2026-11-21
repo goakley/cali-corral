@@ -1,0 +1,154 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1355",
+  "title": "Hate Crime Allegation: Misdemeanor (Pen. Code, § 422.7)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1135,
+      1138
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, March 2017, March 2022",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of ______ <insert offense[s]> [as charged in Count[s] ______], you must then decide whether the People have proved the additional allegation that the crime[s] committed by the defendant (was a/were) hate crime[s]. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation [for each crime], the People must prove that:",
+    "1. When committing that crime, the defendant intended to interfere with [or intimidate] another person’s free exercise or enjoyment of the right [or privilege] to ______ <describe the right raised by the evidence>, established by the law or Constitution of California or the United States;",
+    "[AND]",
+    "2. The defendant acted in whole or in part because of the other person’s actual or perceived (disability[,]/gender[,]/nationality[,]/race or ethnicity[,]/religion[,]/sexual orientation[,]/[or] association with a person or group having (this/one or more of these) actual or perceived characteristic[s])(;/.)",
+    "[AND",
+    "<Alternative 3A—caused physical injury>",
+    "[3. When committing that crime, the defendant caused an actual physical injury or had the ability at that time to cause a violent injury.]",
+    "<Alternative 3B—caused property damage>",
+    "[3. The defendant caused property damage in excess of $950.]]",
+    "The defendant acted *in whole or in part because of* the actual or perceived characteristic[s] of the other person if:",
+    "1. The defendant was biased against the other person based on the other person’s actual or perceived (disability[,]/[or] gender[,]/[or] nationality[,]/[or] race or ethnicity[,]/[or] religion[,]/[or] sexual orientation[,]/[or] association with a person or group having (this/one or more of these) actual or perceived characteristic[s]);",
+    "AND",
+    "2. The bias motivation caused the defendant to commit the alleged acts.",
+    "If you find that the defendant had more than one reason to commit the alleged acts, the bias described here must have been a substantial motivating factor. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that motivated the conduct.",
+    "[The term *disability* is explained in Instruction 1353, to which you should refer.]",
+    "[*Gender*, as used here, means sex and includes a person’s gender identity and gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.]",
+    "[*Nationality*, as used here, means country of origin, immigration status, including citizenship, and national origin.]",
+    "[*Race or ethnicity* includes ancestry, color, and ethnic background.]",
+    "[*Religion*, as used here, includes all aspects of religious belief, observance, and practice and includes agnosticism and atheism.]",
+    "[*Sexual orientation* means heterosexuality, homosexuality, or bisexuality.]",
+    "[*Association with a person or group having (this/one or more of these) actual or perceived characteristic[s]* includes (advocacy for[,]/identification with[,]/[or] being on the ground owned or rented by[, or adjacent to,]) a (person[,]/group[,]/family[,]/community center[,]/educational facility[,]/office[,]/meeting hall[,]/place of worship[,]/private institution[,]/public agency[,]/library[,]/[or] other entity) that has, or is identified with people who have, (that/one or more of those) characteristic[s].]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the enhancement. (*People v. Wallace* (2003) 109 Cal.App.4th 1699, 1702 [1 Cal.Rptr.3d 324] [statute defines enhancement, not separate offense].) This enhancement makes a crime “committed against the person or property of another” that would otherwise be a misdemeanor into a misdemeanor-felony “wobbler.” (Pen. Code, § 422.7.)"
+      },
+      {
+        "text": "In element 1, insert a description of the specific right or rights allegedly infringed, for example, the right to be free from violence or the threat of violence or the right to be protected from bodily harm. (See Civil Code, §§ 43 & 51.7; *People v. Lashley* (1991) 1 Cal.App.4th 938, 950–951 [2 Cal.Rptr.2d 629]; *People v. MacKenzie* (1995) 34 Cal.App.4th 1256, 1277–1278 [40 Cal.Rptr.2d 793].)"
+      },
+      {
+        "text": "Give element 3A if the prosecution alleges that the crime was committed “against a person” and caused injury or included “the present ability to commit a violent injury.” (Pen. Code, § 422.7(a)). Give element 3B if the prosecution alleges property damage exceeding $950. (Pen. Code, § 422.7(b).) If the prosecution alleges that the defendant has a qualifying prior conviction under Penal Code section 422.7(c), then, in addition to this instruction, also give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*, unless the defendant has stipulated to the truth of the prior conviction."
+      },
+      {
+        "text": "Give all relevant bracketed definitions. If the term “disability” is used, give CALCRIM No. 1353, *Hate Crimes: Disability Defined*."
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of this crime. (See *People v. Valenti* (2016) 243 Cal.App.4th 1140, 1165 [197 Cal.Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1350, *Hate Crime: Misdemeanor Interference With Civil Rights by Force*."
+      },
+      {
+        "text": "CALCRIM No. 1351, *Hate Crime: Misdemeanor Interference With Civil Rights by Threat*."
+      },
+      {
+        "text": "CALCRIM No. 1352, *Hate Crime: Misdemeanor Interference With Civil Rights by Damaging Property*."
+      },
+      {
+        "text": "CALCRIM No. 1354, *Hate Crime Allegation: Felony*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, § 422.7."
+      },
+      {
+        "text": "• Hate Crime Defined. Pen. Code, § 422.55."
+      },
+      {
+        "text": "• “In Whole or in Part Because of” Defined. Pen. Code, § 422.56(d); *In re M.S.* (1995) 10 Cal.4th 698, 719–720 [42 Cal.Rptr.2d 355, 896 P.2d 1365]; *People v. Superior Court (Aishman)* (1995) 10 Cal.4th 735, 741 [896 P.2d 1387]."
+      },
+      {
+        "text": "• Disability Defined. Pen. Code, § 422.56(b); Gov. Code, § 12926(i)–(*l*)."
+      },
+      {
+        "text": "• Gender Defined. Pen. Code, §§ 422.56(c) & 422.57."
+      },
+      {
+        "text": "• Nationality Defined. Pen. Code, § 422.56(e)."
+      },
+      {
+        "text": "• Race or Ethnicity Defined. Pen. Code, § 422.56(f)."
+      },
+      {
+        "text": "• Religion Defined. Pen. Code, § 422.56(g)."
+      },
+      {
+        "text": "• Sexual Orientation Defined. Pen. Code, § 422.56(h)."
+      },
+      {
+        "text": "• Association With Defined. Pen. Code, § 422.56(a)."
+      },
+      {
+        "text": "• Enhancement, Not Substantive Offense. *People v. Wallace* (2003) 109 Cal.App.4th 1699, 1702 [1 Cal.Rptr.3d 324]."
+      },
+      {
+        "text": "• Intent to Deprive Individual of Protected Rights. *In re M.S.* (1995) 10 Cal.4th 698, 713 [42 Cal.Rptr.2d 355, 896 P.2d 1365]; *People v. Lashley* (1991) 1 Cal.App.4th 938, 947–949 [2 Cal.Rptr.2d 629]; *People v. MacKenzie* (1995) 34 Cal.App.4th 1256, 1268 [40 Cal.Rptr.2d 793]; *In re Joshua H.* (1993) 13 Cal.App.4th 1734, 1742 [17 Cal.Rptr.2d 291]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• The underlying misdemeanor, and the attempt of the underlying misdemeanor (see Pen. Code, § 664), are lesser included offenses of a violation of Penal Code section 422.7."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 13
+  },
+  "warnings": []
+}

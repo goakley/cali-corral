@@ -1,0 +1,146 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "945",
+  "title": "Battery Against Peace Officer (Pen. Code, §§ 242, 243(b), (c)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      752,
+      755
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, December 2008, October 2010, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with battery against a peace officer [in violation of Penal Code section 243].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. ______ <Insert officer’s name, excluding title> was a peace officer performing the duties of (a/an) ______ <insert title of peace officer specified in Pen. Code, § 830 et seq.>;",
+    "2. The defendant willfully [and unlawfully] touched ______ <insert officer’s name, excluding title> in a harmful or offensive manner;",
+    "[AND]",
+    "3. When the defendant acted, (he/she) knew, or reasonably should have known, that ______ <insert officer’s name, excluding title> was a peace officer who was performing (his/her) duties(;/.)",
+    "<Give element 4 when instructing on felony battery against a peace officer.>",
+    "[AND",
+    "4. ______ <insert officer’s name, excluding title> suffered injury as a result of the touching(;/.)]",
+    "<Give element 5 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "5. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "<Do not give this paragraph when instructing on felony battery against a peace officer.>",
+    "[The slightest touching can be enough to commit a battery if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.]",
+    "<Give this definition when instructing on felony battery against a peace officer.>",
+    "[An *injury* is any physical injury that requires professional medical treatment. The question whether an injury requires such treatment cannot be answered simply by deciding whether or not a person sought or received treatment. You may consider those facts, but you must decide this question based on the nature, extent, and seriousness of the injury itself.]",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[The duties of a ______ <insert title of officer> include ______ <insert job duties>.]",
+    "[It does not matter whether ______ <insert officer’s name, excluding title> was actually on duty at the time.]",
+    "[A ______ <insert title of peace officer specified in Pen. Code, § 830 et seq.> is also performing the duties of a peace officer if (he/she) is in a police uniform and performing the duties required of (him/her) as a peace officer and, at the same time, is working in a private capacity as a part-time or casual private security guard or (patrolman/patrolwoman).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 5, the bracketed words “and unlawfully” in element 2, and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "In addition, the court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (*People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) On request, the court must instruct that the prosecution has the burden of proving the lawfulness of the arrest beyond a reasonable doubt. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651].) If lawful performance is an issue, give the appropriate portions of CALCRIM No. 2670, *Lawful Performance: Peace Officer*. In addition, give CALCRIM No. 2672, *Lawful Performance: Resisting Unlawful Arrest With Force*, if requested."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins, “The duties of a ______ <insert title . . .> include,” on request. The court may insert a description of the officer’s duties such as “the correct service of a facially valid search warrant.” (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1222 [275 Cal.Rptr. 729, 800 P.2d 1159].)"
+      },
+      {
+        "text": "Give the bracketed language about a peace officer working in a private capacity if relevant. (Pen. Code, § 70.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 242, 243(b), (c)(2); see *People v. Martinez* (1970) 3 Cal.App.3d 886, 889 [83 Cal.Rptr. 914] [harmful or offensive touching]."
+      },
+      {
+        "text": "• “Peace Officer” Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• “Physical Injury” Defined. Pen. Code, § 243(f)(5); *People v. Longoria* (1995) 34 Cal.App.4th 12, 17–18 [40 Cal.Rptr.2d 213]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• Contact With Object Held in Another Person’s Hand May Constitute Touching. *In re B.L.* (2015) 239 Cal.App.4th 1491, 1495–1497 [192 Cal.Rptr.3d 154]."
+      },
+      {
+        "text": "• Hitting a Vehicle Occupied by Another Person May Constitute Touching. *People v. Dealba* (2015) 242 Cal.App.4th 1142, 1144, 1153 [195 Cal.Rptr.3d 848]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Assault on Specified Victim. Pen. Code, § 241(b)."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "• Misdemeanor Battery on Specified Victim. Pen. Code, § 243(b)."
+      },
+      {
+        "text": "• Resisting Officer. Pen. Code, § 148."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues sections to CALCRIM No. 960, *Simple Battery* and 2670, *Lawful Performance: Peace Officer*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

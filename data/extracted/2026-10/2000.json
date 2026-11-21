@@ -1,0 +1,164 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2000",
+  "title": "Insurance Fraud: Fraudulent Claims (Pen. Code, § 550(a)(1), (4)–(7) & (9))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1443,
+      1446
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, August 2016",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with insurance fraud committed by fraudulent claim [in violation of Penal Code section 550(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that the defendant knowingly committed the following crime[s] [[or] [aided and abetted] [or] [solicited] [or] [conspired with someone else] to commit (it/them)]:",
+    "<Alternative 1A—presented fraudulent claim>",
+    "[1. The defendant (presented/[or] caused to be presented) a false or fraudulent claim for payment for a loss or injury;]",
+    "<Alternative 1B—presented fraudulent claim for vehicle theft or damage>",
+    "[1. The defendant falsely or fraudulently claimed payment for a loss due to (theft[,]/[or] destruction[,]/[or] damage[,]/[or] conversion) of (a motor vehicle[,]/[or] a motor vehicle part[,]/[or] contents of a motor vehicle);]",
+    "<Alternative 1C—writing to be used for fraudulent claim>",
+    "[1. The defendant (prepared[,]/[or] made[,]/[or] signed or subscribed) a document with the intent to (present or use it/[or] allow it to be presented) to support a false or fraudulent claim;]",
+    "<Alternative 1D—made fraudulent claim for health-care benefits>",
+    "[1. The defendant (made/[or] caused to be made) a false or fraudulent claim for payment of a health-care benefit;]",
+    "<Alternative 1E—submitted claim for health-care benefit not used>",
+    "[1. The defendant presented a claim for a health-care benefit that was not used by [or on behalf of] the person named in the claim;]",
+    "<Alternative 1F—presented claim for health-care benefit undercharges>",
+    "[1. The defendant claimed payment for undercharges for health-care benefits for a specific person without presenting for reconciliation, at that same time, any known overcharges for benefits for the same person;]",
+    "2. The defendant knew that the claim was false or fraudulent;",
+    "AND",
+    "3. When the defendant did that act, (he/she) intended to defraud.",
+    "Someone *intends to defraud* if he or she intends to deceive another person either to cause a loss of (money[,]/[or] goods[,]/[or] services[,]/[or] something [else] of value), or to cause damage to, a legal, financial, or property right.",
+    "[For the purpose of this instruction, a *person* includes (a governmental agency/a corporation/a business/an association/the body politic).]",
+    "[It is not necessary that anyone actually be defrauded or actually suffer a financial, legal, or property loss as a result of the defendant’s acts.]",
+    "A person *claims, makes, or presents a claim for payment* by requesting payment under a contract of insurance for (a/an) ((loss/[or] injury)/health-care benefit).",
+    "[A *claim for payment of a health-care benefit* includes a claim submitted by or on behalf of the provider of a workers’ compensation health benefit defined in the Labor Code.]",
+    "[*Conversion* of property means interfering with someone else’s property, without authorization or justification, and depriving the owner of use and possession of the property.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    31.0,
+    16.0,
+    31.0,
+    16.0,
+    31.0,
+    16.0,
+    31.0,
+    16.0,
+    31.0,
+    16.0,
+    31.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant presented or caused to be presented multiple claims or made multiple documents in support of a fraudulent claim, the court has a sua sponte duty to instruct on unanimity. (See *People v. Dieguez* (2001) 89 Cal.App.4th 266, 274–275 [107 Cal.Rptr.2d 160, 66 Cal. Comp. Cases 594].) However, where the evidence shows a “continuous course of conduct,” a unanimity instruction is not required. (*Id.* at p. 275.) If the court concludes that a unanimity instruction is required, give CALCRIM No. 3500, *Unanimity*."
+      },
+      {
+        "text": "If the prosecution proceeds on a theory of aiding and abetting, soliciting, or conspiracy, give appropriate instructions for those theories."
+      },
+      {
+        "text": "In element 1, give alternative 1A if the prosecution alleges a violation of Penal Code section 550(a)(1). Give alternative 1B if the prosecution alleges a violation of Penal Code section 550(a)(4). Give alternative 1C if the prosecution alleges a violation of Penal Code section 550(a)(5). Give alternative 1D if the prosecution alleges a violation of Penal Code section 550(a)(6). Give alternative 1E if the prosecution alleges a violation of Penal Code section 550(a)(7). Give alternative 1F if the prosecution alleges a violation of Penal Code section 550(a)(9)."
+      },
+      {
+        "text": "If a violation of Penal Code section 550(a)(2) or (8) is alleged, give CALCRIM No. 2001, *Insurance Fraud: Multiple Claims*. If a violation of Penal Code section 550(a)(3) is alleged, give CALCRIM No. 2002, *Insurance Fraud: Vehicle Accident*."
+      },
+      {
+        "text": "If the defendant is charged with a felony violation of Penal Code section 550(a)(6), (7), or (9), give CALCRIM No. 2003, *Insurance Fraud: Health-Care Claims—Total Value*."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “For the purpose of this instruction” if the evidence shows an intent to defraud an entity or association rather than a natural person. (Pen. Code, § 8.)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “It is not necessary” if the evidence shows that the defendant did not succeed in defrauding anyone."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "See generally CALCRIM No. 400, *Aiding and Abetting: General Principles* and CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*."
+      },
+      {
+        "text": "CALCRIM No. 415, *Conspiracy*"
+      },
+      {
+        "text": "CALCRIM No. 441, *Solicitation: Elements*"
+      },
+      {
+        "text": "CALCRIM No. 2001, *Insurance Fraud: Multiple Claims*."
+      },
+      {
+        "text": "CALCRIM No. 2002, *Insurance Fraud: Vehicle Accident*."
+      },
+      {
+        "text": "CALCRIM No. 2003, *Insurance Fraud: Health-Care Claims—Total Value*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 550(a)(1), (4), (5), (6), (7) & (9)."
+      },
+      {
+        "text": "• Intent to Defraud Element of Offense. *People v. Scofield* (1971) 17 Cal.App.3d 1018, 1025–1026 [95 Cal.Rptr. 405]; *People v. Benson* (1962) 206 Cal.App.2d 519, 529 [23 Cal.Rptr. 908], overruled on other grounds in *People v. Perez* (1965) 62 Cal.2d 769, 776, fn. 2 [44 Cal.Rptr. 326, 401 P.2d 934]."
+      },
+      {
+        "text": "• Intent to Defraud—Defined. *People v. Pugh* (2002) 104 Cal.App.4th 66, 72 [127 Cal.Rptr.2d 770]; *People v. Gaul-Alexander* (1995) 32 Cal.App.4th 735, 745 [38 Cal.Rptr.2d 176]."
+      },
+      {
+        "text": "• Intent to Defraud Entity. Pen. Code, § 8."
+      },
+      {
+        "text": "• Unanimity Instruction. *People v. Dieguez* (2001) 89 Cal.App.4th 266, 274–275 [107 Cal.Rptr.2d 160, 66 Cal. Comp. Cases 594]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Fraudulent claims for health-care benefits, under Penal Code section 550(a)(6) to (9), are misdemeanors if the total amount of the claims does not exceed $950. (Pen. Code, § 550(c)(2).) If the defendant is charged with a felony, then the misdemeanor offense is a lesser included offense. The court must provide the jury with a verdict form on which the jury will indicate if the total amount of the claims exceeds $950. If the jury finds that the amount does not exceed $950, then the offense should be set at a misdemeanor."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Writing to Be Used for Fraudulent Claim"
+      },
+      {
+        "text": "Penal Code section 550(a)(5) makes it a felony to “[k]nowingly prepare, make, or subscribe any writing, with the intent to present or use it, or to allow it to be presented, in support of any false or fraudulent claim.” “Under this section, the writing required need not be false or fraudulent as long as it is intended to be presented or used in support of any false or fraudulent claim.” (*People v. Zelver* (1955) 135 Cal.App.2d 226, 235 [287 P.2d 183].) In addition, “[i]t need not be shown that defendant himself executed the false instrument if there is proof that he procured its execution or aided and abetted another in doing so.” (*People v. Singh* (1995) 37 Cal.App.4th 1343, 1376 [44 Cal.Rptr.2d 644].)"
+      },
+      {
+        "heading": true,
+        "text": "Liability of Care Provider"
+      },
+      {
+        "text": "A doctor or other care provider who prepares false documents for a fraudulent insurance claim may be prosecuted under Penal Code section 550(a)(1) for “causing the presentation of a fraudulent claim,” even though another person actually presents the claim. (*People v. Singh* (1995) 37 Cal.App.4th 1343, 1369–1370 [44 Cal.Rptr.2d 644].) Alternatively, the care provider may be prosecuted under Penal Code section 550(a)(5), discussed above. *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

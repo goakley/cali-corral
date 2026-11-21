@@ -1,0 +1,99 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "937",
+  "title": "Sexual Battery: By Fraudulent Representation (Pen. Code, §§ 242, 243.4(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      748,
+      749
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, March 2017",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sexual battery by fraudulent representation [in violation of Penal Code section 243.4(c)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant touched an intimate part of ______’s <insert name of complaining witness> body;",
+    "2. The touching was done for the specific purpose of sexual arousal, sexual gratification, or sexual abuse;",
+    "3. The defendant fraudulently represented that the touching served a professional purpose;",
+    "AND",
+    "4. The person touched was not conscious of the sexual nature of the act because of the fraudulent representation.",
+    "An *intimate part* is a female’s breast or the anus, groin, sexual organ or buttocks of anyone.",
+    "Contact must have been made with ______’s <insert name of complaining witness> bare skin. This means that the defendant must have touched the bare skin of ______’s <insert name of complaining witness> intimate part either directly or through the defendant’s clothing.",
+    "A person is *not conscious of the sexual nature of the act* if he or she is not aware of the essential characteristics of the act because the perpetrator fraudulently represented that the touching served a professional purpose when it did not."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 242, 243.4(c)."
+      },
+      {
+        "text": "• Intimate Part Defined. Pen. Code, § 243.4(g)(1). • Touches Defined. Pen. Code, § 243.4(f)."
+      },
+      {
+        "text": "• Unconscious of Nature of Act Defined. See Pen. Code, § 261(a)(4)(D) [in context of rape]."
+      },
+      {
+        "text": "• Sexual Abuse Defined. *People v. White* (1986) 179 Cal.App.3d 193, 205 [224 Cal.Rptr. 467]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Misdemeanor sexual battery is not a lesser included offense of sexual battery by misrepresentation of professional purpose under the statutory elements test. *People v. Robinson* (2016) 63 Cal.4th 200, 210–213 [202 Cal.Rptr.3d 485, 370 P.3d 1043]."
+      },
+      {
+        "text": "• Attempted sexual battery is not a lesser included offense of sexual battery by fraudulent representation. *People v. Babaali* (2009) 171 Cal.App.4th 982, 1000 [90 Cal.Rptr.3d 278]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "In a case addressing the meaning of for the “purpose of . . . sexual abuse” in the context of Penal Code section 289, one court stated, “when a penetration is accomplished for the purpose of causing pain, injury or discomfort, it becomes sexual abuse, even though the perpetrator may not necessarily achieve any sexual arousal or gratification whatsoever.” (*People v. White* (1986) 179 Cal.App.3d 193, 205 [224 Cal.Rptr. 467].) If the court concludes it this reasoning applies to the crime sexual battery and a party requests a definition of “sexual abuse,” the following language can be used:"
+      },
+      {
+        "text": "*Sexual abuse* means any touching of a person’s intimate parts in order to cause pain, injury, or discomfort. The perpetrator does not need to achieve any sexual arousal or sexual gratification."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Consent Obtained by Fraudulent Representation"
+      },
+      {
+        "text": "A person may induce someone else to consent to engage in a sexual act by a false or fraudulent representation made with an intent to create fear, and which does induce fear and would cause a reasonable person to act contrary to his or her free will. (Pen. Code, § 266c.) While section 266c requires coercion and fear to obtain consent, it does not involve physical force or violence. (See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 937–938 [26 Cal.Rptr.2d 567].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,83 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "361",
+  "title": "Failure to Explain or Deny Adverse Evidence",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      209,
+      210
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2010, February 2016, March 2017, April 2020",
+  "revision_legend": null,
+  "body": [
+    "If the defendant failed in (his/her) testimony to explain or deny evidence against (him/her), and if (he/she) could reasonably be expected to have done so based on what (he/she) knew, you may consider (his/her) failure to explain or deny in evaluating that evidence. Any such failure is not enough by itself to prove guilt. The People must still prove the defendant guilty beyond a reasonable doubt.",
+    "If the defendant failed to explain or deny, it is up to you to decide the meaning and importance of that failure."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "No authority imposes a duty to give this instruction sua sponte. This instruction should only be given when the defendant testifies and the privilege against self-incrimination has not been successfully invoked. (*People v. Mask* (1986) 188 Cal.App.3d 450, 455 [233 Cal.Rptr. 181]; *People v. Haynes* (1983) 148 Cal.App.3d 1117, 1118 [196 Cal.Rptr. 450].)"
+      },
+      {
+        "text": "There is a split in authority over the application of *People v. Saddler* (1979) 24 Cal.3d 671, 682–683 [156 Cal.Rptr. 871, 597 P.2d 130] [instruction erroneously given because there was no evidence that defendant failed to deny or explain incriminating evidence] and whether this instruction should be given when a testifying defendant fails to explain or deny incriminating evidence in the absence of a question. (Compare *People v. Grandberry* (2019) 35 Cal.App.5th 599, 609 [247 Cal.Rptr.3d 258] [approving use of the instruction “when a testifying defendant has failed to explain or deny matters within the scope of relevant cross-examination, not simply those matters that were asked of the defendant on cross-examination”] with *People v. Roehler* (1985) 167 Cal.App.3d 353, 392 [213 Cal.Rptr. 353] [“If a defendant has not been asked an appropriate question calling for either an explanation or denial, the instruction cannot be given, as a matter of law”] and *People v. Vega* (2015) 236 Cal.App.4th 484, 497 [186 Cal.Rptr.3d 671] [noting restrictions for when the instruction may be given and quoting *Roehler*].)"
+      },
+      {
+        "text": "If the court follows *Grandberry*, the trial court must ascertain as a matter of law: (1) if the matter was within the scope of relevant cross-examination; (2) if the defendant knew the facts necessary to explain or deny incriminating evidence or if some circumstance precluded the defendant from knowing such facts; and (3) if the defendant failed to explain or deny the incriminating evidence."
+      },
+      {
+        "text": "If the court follows *Roehler*, the trial court must ascertain as a matter of law: (1) if a question was asked that called for an explanation or denial of incriminating evidence; (2) if the defendant knew the facts necessary to answer the question or if some circumstance precluded the defendant from knowing such facts; and (3) if the defendant failed to deny or explain the incriminating evidence when answering the question."
+      },
+      {
+        "text": "Contradiction of the state’s evidence is not by itself a failure to deny or explain. (*People v. Marks* (1988) 45 Cal.3d 1335, 1346 [248 Cal.Rptr. 874, 756 P.2d 260]; *People v. Peters* (1982) 128 Cal.App.3d 75, 86 [180 Cal.Rptr. 76].) Failure to recall is not an appropriate basis for this instruction. (*People v. De Larco* (1983) 142 Cal.App.3d 294, 309 [190 Cal.Rptr. 757].)"
+      },
+      {
+        "text": "Give this instruction only when a testifying defendant completely fails to explain or deny incriminating evidence, or claims to lack knowledge although it appears from the evidence that defendant could reasonably be expected to have that knowledge. (*People v. Cortez* (2016) 63 Cal.4th 101, 117–118 [201 Cal.Rptr.3d 846, 369 P.3d 521].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Evid. Code, § 413."
+      },
+      {
+        "text": "• Cautionary Language. *People v. Saddler* (1979) 24 Cal.3d 671, 683 [156 Cal.Rptr. 871, 597 P.2d 130]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Vega* (2015) 236 Cal.App.4th 484, 494–500 [186 Cal.Rptr.3d 671]; *People v. Rodriguez* (2009) 170 Cal.App.4th 1062, 1068 [88 Cal.Rptr.3d 749]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Bizarre or Implausible Answers"
+      },
+      {
+        "text": "If the defendant’s denial or explanation is bizarre or implausible, several courts have held that the question whether his or her response is reasonable should be given to the jury with an instruction regarding adverse inferences. (*People v. Mask* (1986) 188 Cal.App.3d 450, 455 [233 Cal.Rptr. 181]; *People v. Roehler* (1985) 167 Cal.App.3d 353, 392–393 [213 Cal.Rptr. 353].) However, in *People v. Kondor* (1988) 200 Cal.App.3d 52, 57 [245 Cal.Rptr. 750], the court stated, “the test for giving the instruction [on failure to deny or explain] is not whether the defendant’s testimony is believable. [The instruction] is unwarranted when a defendant explains or denies matters within his or her knowledge, no matter how improbable that explanation may appear.”"
+      },
+      {
+        "heading": true,
+        "text": "Facts Beyond the Scope of Examination"
+      },
+      {
+        "text": "If the defendant has limited his or her testimony to a specific factual issue, it is error for the prosecutor to comment, or the trial court to instruct, on his or her failure to explain or deny other evidence against him or her that is beyond the scope of this testimony. (*People v. Tealer* (1975) 48 Cal.App.3d 598, 604–607 [122 Cal.Rptr. 144].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

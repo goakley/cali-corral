@@ -1,0 +1,168 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3100",
+  "title": "Prior Conviction: Nonbifurcated Trial (Pen. Code, §§ 1025, 1158)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2177,
+      2181
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2018, September 2020, March 2022",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of a crime, you must also decide whether the People have proved the additional allegation that the defendant was previously convicted of (another/other) crime[s]. It has already been determined that the defendant is the person named in exhibit[s] ______ <insert number[s] or description[s] of exhibit[s]>. You must decide whether the evidence proves that the defendant was convicted of the alleged crime[s].",
+    "The People allege that the defendant has been convicted of:",
+    "[1.] A violation of ______ <insert code section alleged>, [for which judgment was entered] on ______ <insert date of conviction/judgment>, in the ______ <insert name of court>, in Case Number ______ <insert docket or case number>(;/.)",
+    "[AND <Repeat for each prior conviction alleged>.]",
+    "[Consider the evidence presented on this allegation only when deciding whether the defendant was previously convicted of the crime[s] alleged [or for the limited purpose of ______ <insert other permitted purpose, e.g., assessing credibility of the defendant>]. Do not consider this evidence as proof that the defendant committed any of the crimes with which he is currently charged or for any other purpose.]",
+    "[You must consider each alleged conviction separately.] The People have the burden of proving (the/each) alleged conviction beyond a reasonable doubt. If the People have not met this burden [for any alleged conviction], you must find that the alleged conviction has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If the defendant is charged with a prior conviction, the court has a sua sponte duty to instruct on the allegation."
+      },
+      {
+        "text": "If identity is an issue, the court must make the factual determination that the defendant is the person who has suffered the convictions in question before giving this instruction."
+      },
+      {
+        "text": "Do not give this instruction if the court has bifurcated the trial. Instead, give CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      },
+      {
+        "text": "If the defendant is charged with a prison prior, the court must determine whether the jury should decide if the defendant served a separate prison term for the conviction and whether the defendant remained free of prison custody for the “washout” period. (Pen. Code, § 667.5(a) & (b).) The Commentary below discusses these issues further. If the court chooses to submit these issues to the jury, give CALCRIM No. 3102, *Prior Conviction: Prison Prior*, with this instruction."
+      },
+      {
+        "text": "If the court determines that there is a factual issue regarding the prior conviction that must be submitted to the jury, give CALCRIM No. 3103: *Prior Conviction: Factual Issue for Jury*, with this instruction. The Commentary below discusses this issue further."
+      },
+      {
+        "text": "Give the bracketed phrase “for which judgment was entered” if there is more than one prior conviction charged."
+      },
+      {
+        "text": "On request, the court should give the limiting instruction that begins with “Consider the evidence presented on this allegation only when deciding.” (See *People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913].) There is no sua sponte duty to give the limiting instruction, and the defense may request that no limiting instruction be given. (See *People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380].)"
+      },
+      {
+        "text": "The court must provide the jury with a verdict form on which the jury will indicate whether the prior conviction has been proved. (Pen. Code, § 1158.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Statutory Authority. Pen. Code, §§ 1025, 1158."
+      },
+      {
+        "text": "• Bifurcation. *People v. Calderon* (1994) 9 Cal.4th 69, 77–79 [36 Cal.Rptr.2d 333, 885 P.2d 83]; *People v. Cline* (1998) 60 Cal.App.4th 1327, 1334–1336 [71 Cal.Rptr.2d 41]."
+      },
+      {
+        "text": "• Judge Determines Whether Defendant Is Person Named in Documents. Pen. Code, § 1025(c); *People v. Epps* (2001) 25 Cal.4th 19, 25 [104 Cal.Rptr.2d 572, 18 P.3d 2]; *People v. Garcia* (2003) 107 Cal.App.4th 1159, 1165 [132 Cal.Rptr.2d 694]."
+      },
+      {
+        "text": "• Limiting Instruction on Prior Conviction. See *People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913]; *People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380]."
+      },
+      {
+        "text": "• Disputed Factual Issues. See *People v. Gallardo* (2017) 4 Cal.5th 120, 136 [226 Cal.Rptr.3d 379, 407 P.3d 55]; *Descamps v. United States* (2013) 570 U.S. 254, 268–70 [133 S.Ct. 2276, 186 L.Ed.2d 438]; *Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435]."
+      },
+      {
+        "text": "• Three-Strikes Statutes. Pen. Code, §§ 667(e), 1170.12."
+      },
+      {
+        "text": "• Five-Year Enhancement for Serious Felony. Pen. Code, § 667(a)(1)."
+      },
+      {
+        "text": "• Three-Year Enhancement for Prison Prior If Violent Felony. Pen. Code, § 667.5(a)."
+      },
+      {
+        "text": "• One-Year Enhancement for Prison Prior. Pen. Code, § 667.5(b)."
+      },
+      {
+        "text": "• Serious Felony Defined. Pen. Code, § 1192(c)."
+      },
+      {
+        "text": "• Violent Felony Defined. Pen. Code, § 667.5(c)."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Factual Issues—Decided by Jury or Court?"
+      },
+      {
+        "text": "Penal Code sections 1025 and 1158 state that when an accusation charges a defendant with having suffered a prior conviction, the jury must decide whether the defendant “suffered the prior conviction” (unless the right to a jury trial is waived). Under Penal Code section 1025, the court, not the jury, must determine whether the defendant is the person named in the documents submitted to prove the prior conviction. (Pen. Code, § 1025(c); see also *People v. Epps* (2001) 25 Cal.4th 19, 24–25 [104 Cal.Rptr.2d 572, 18 P.3d 2].)"
+      },
+      {
+        "text": "In some cases, however, a prior conviction may present an ancillary factual issue that must be decided before the conviction may be used under a particular enhancement or sentencing statute. For example, if the prosecution seeks sentencing under the “three strikes” law and alleges that the defendant was previously convicted of two burglaries, these prior convictions would qualify as “strikes” only if the burglaries were residential. (See *People v. Kelii* (1999) 21 Cal.4th 452, 455 [87 Cal.Rptr.2d 674, 981 P.2d 518].) If the defendant had been specifically convicted of first degree burglary of an inhabited dwelling, then there would be no issue over whether the prior convictions qualified. If, on the other hand, the defendant had been convicted simply of “burglary,” then whether the offenses were residential would be a factual issue. *(Ibid.)*"
+      },
+      {
+        "text": "The court’s role is “limited to identifying those facts that were established by virtue of the conviction itself—that is, facts the jury was necessarily required to find to render a guilty verdict, or that the defendant admitted as the factual basis for a guilty plea.” (See *People v. Gallardo* (2017) 4 Cal.5th 120, 136–137 [226 Cal.Rptr.3d 379, 407 P.3d 55].) A court considering whether to impose an increased sentence based on a prior conviction may not make its own findings about what facts or conduct “realistically” supported the conviction. (*Ibid.*) To allow otherwise would constitute impermissible judicial factfinding violative of the Sixth Amendment right to a jury trial. (*Ibid.*; see also *Descamps v. United States* (2013) 570 U.S. 254, 268–70 [133 S.Ct. 2276, 186 L.Ed.2d 438] [under federal Constitution’s Sixth Amendment right to jury trial, the only facts related to a prior conviction that a sentencing court can rely on in imposing recidivist punishment are the facts necessarily implied by the elements of the relevant prior offense].)"
+      },
+      {
+        "heading": true,
+        "text": "Prior Prison Term and “Washout” Period"
+      },
+      {
+        "text": "A similar issue arises over whether the jury or the court must decide if the defendant served a prison term as a result of a particular conviction and if the defendant has been free of custody for sufficient time to satisfy the “washout” period. (See Pen. Code, § 667.5(a) & (b).) In *People v. Winslow* (1995) 40 Cal.App.4th 680, 687 [46 Cal.Rptr.2d 901], the Court of Appeal held that the jury must determine whether the defendant served a prior prison term for a felony conviction. The other holdings in *Winslow* were rejected by the California Supreme Court. (*People v. Kelii, supra,* 21 Cal.4th at pp. 458–459; *People v. Wiley* (1995) 9 Cal.4th 580, 592 [38 Cal.Rptr.2d 347, 889 P.2d 541].) However, the *Winslow* holding that the jury must determine if the defendant served a prison term for a felony conviction remains controlling authority."
+      },
+      {
+        "text": "But, in *People v. Epps, supra,* 25 Cal.4th at pp. 25–26, the Court expressed doubt, in dicta, about whether the fact of having served a prison term is properly submitted to the jury. Discussing the 1997 amendment to Penal Code section 1025, the Court noted that"
+      },
+      {
+        "text": "[t]he analysis lists the following questions that the jury would still decide if Senate Bill 1146 became law: . . . ‘Was the defendant sentenced to prison based on that conviction? How long has the defendant been out of custody since he or she suffered the prior conviction?’ . . ."
+      },
+      {
+        "text": "[T]hough we do not have a case before us raising the issue, it appears that many of the listed questions are the sort of legal questions that are for the court under [*Wiley*]. For example, determining . . . whether the defendant was sentenced to prison is “largely legal” (*Kelii*, *supra*, 21 Cal. 4th at p. 455, quoting *Wiley*, *supra*, 9 Cal. 4th at p. 590), and though these questions require resolution of some facts, “a factual inquiry, limited to examining court documents, is . . . ‘the type of inquiry traditionally performed by judges as part of the sentencing function.’ ” (*Kelii*, at p. 457, quoting *Wiley*, at p. 590.) . . . Therefore, the list of questions in the committee analysis should not be read as creating new jury trial rights that did not exist under *Wiley*."
+      },
+      {
+        "text": "*(Ibid.)*"
+      },
+      {
+        "text": "On the other hand, *Apprendi v. New Jersey* (2000) 530 U.S. 466 [120 S.Ct. 2348, 147 L.Ed.2d 435] could be interpreted as requiring the jury to make these factual findings. (But see *People v. Thomas* (2001) 91 Cal.App.4th 212, 223 [110 Cal.Rptr.2d 571] [even under *Apprendi*, no federal due process right to have jury determine whether defendant served a prior prison term].)"
+      },
+      {
+        "text": "Until the California Supreme Court resolves this question, the court should consider submitting to the jury the issues of whether the defendant served a prison term and whether the defendant has remained free of custody for sufficient time to satisfy the “washout” period. The court may use CALCRIM No. 3102, *Prior Conviction: Prison Prior*."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Constitutionality of Prior"
+      },
+      {
+        "text": "The prosecution is not required to prove the constitutional validity of a prior conviction as an “element” of the enhancement. (*People v. Walker* (2001) 89 Cal.App.4th 380, 386 [107 Cal.Rptr.2d 264].) Rather, following the procedures established in *People v. Sumstine* (1984) 36 Cal.3d 909, 922–924 [206 Cal.Rptr. 707, 687 P.2d 904], and *People v. Allen* (1999) 21 Cal.4th 424, 435–436 [87 Cal.Rptr.2d 682, 981 P.2d 525], the defense may bring a motion challenging the constitutional validity of the prior. These questions are matters of law to be determined by the trial court."
+      },
+      {
+        "heading": true,
+        "text": "Defense Stipulation to Prior Convictions"
+      },
+      {
+        "text": "The defendant may stipulate to the truth of the prior convictions. (*People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170].) If the defendant stipulates, the prior convictions should not be disclosed to the jury unless the court admits them as otherwise relevant. (See *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690].)"
+      },
+      {
+        "heading": true,
+        "text": "Motion for Bifurcated Trial"
+      },
+      {
+        "text": "Either the defendant or the prosecution may move for a bifurcated trial. (*People v. Calderon* (1994) 9 Cal.4th 69, 77–78 [36 Cal.Rptr.2d 333]; *People v. Cline* (1998) 60 Cal.App.4th 1327, 1334–1336 [71 Cal.Rptr.2d 41]; *People v. Weathington*, *supra*, 231 Cal.App.3d at p. 90.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

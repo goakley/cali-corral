@@ -1,0 +1,138 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "591",
+  "title": "Vehicular Manslaughter While Intoxicated—Ordinary Negligence (Pen. Code, § 191.5(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      425,
+      429
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, March 2021",
+  "revision_legend": null,
+  "body": [
+    "<If vehicular manslaughter while intoxicated—ordinary negligence is a charged offense, give alternative A; if this instruction is being given as a lesser included offense, give alternative B.>",
+    "<Introductory Sentence: Alternative A—Charged Offense>",
+    "[The defendant is charged [in Count ______] with vehicular manslaughter with ordinary negligence while intoxicated [in violation of Penal Code section 191.5(b)].]",
+    "<Introductory Sentence: Alternative B—Lesser Included Offense>",
+    "[Vehicular manslaughter with ordinary negligence while intoxicated is a lesser crime than the charged crime of gross vehicular manslaughter while intoxicated.]",
+    "To prove that the defendant is guilty of vehicular manslaughter with ordinary negligence while intoxicated, the People must prove that:",
+    "1. The defendant (drove under the influence of (an alcoholic beverage/[or] a drug) [or under the combined influence of an alcoholic beverage and a drug]/drove while having a blood alcohol level of 0.08 or higher/drove under the influence of (an alcoholic beverage/[or] a drug) [or under the combined influence of an alcoholic beverage and a drug] when under the age of 21/drove while having a blood alcohol level of 0.05 or higher when under the age of 21/operated a vessel under the influence of (an alcoholic beverage/[or] a drug) [or a combined influence of an alcoholic beverage and a drug]/operated a vessel while having a blood alcohol level of 0.08 or higher);",
+    "2. While (driving that vehicle/operating that vessel) under the influence of (an alcoholic beverage/[or] a drug) [or under the combined influence of an alcoholic beverage and a drug], the defendant also committed (a/an) (misdemeanor[,]/[or] infraction[,] /[or] otherwise lawful act that might cause death);",
+    "3. The defendant committed the (misdemeanor[,]/[or] infraction[,] /[or] otherwise lawful act that might cause death) with ordinary negligence;",
+    "AND",
+    "4. The defendant’s negligent conduct caused the death of another person.",
+    "[The People allege that the defendant committed the following (misdemeanor[s]/[and] infraction[s]): ______ <insert misdemeanor[s]/infraction[s]>.",
+    "Instruction[s] ______ tell[s] you what the People must prove in order to prove that the defendant committed ______ <insert misdemeanor[s]/infraction[s]>.]",
+    "[The People [also] allege that the defendant committed the following otherwise lawful act(s) that might cause death: ______ <insert act[s] alleged>.]",
+    "Instruction[s] ______ tell[s] you what the People must prove in order to prove that the defendant (drove under the influence of (an alcoholic beverage/[or] a drug) [or a combined influence of an alcoholic beverage and a drug]/drove while having a blood alcohol level of 0.08 or higher/drove under the influence of (an alcoholic beverage/[or] a drug) [or a combined influence of an alcoholic beverage and a drug] when under the age of 21/drove while having a blood alcohol level of 0.05 or higher when under the age of 21/operated a vessel under the influence of (an alcoholic beverage/[or] a drug [or a combined influence of an alcoholic beverage and a drug])/operated a vessel while having a blood alcohol level of 0.08 or higher).",
+    "[The difference between this offense and the charged offense of gross vehicular manslaughter while intoxicated is the degree of negligence required. I have already defined *gross negligence* for you.]",
+    "*Ordinary negligence*[, on the other hand,] is the failure to use reasonable care to prevent reasonably foreseeable harm to oneself or someone else. A person is negligent if he or she (does something that a reasonably careful person would not do in the same situation/[or] fails to do something that a reasonably careful person would do in the same situation).",
+    "[A person facing a sudden and unexpected emergency situation not caused by that person’s own negligence is required only to use the same care and judgment that an ordinarily careful person would use in the same situation, even if it appears later that a different course of action would have been safer.]",
+    "[An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.]",
+    "[There may be more than one cause of death. An act causes death only if it is a substantial factor in causing the death. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death.]",
+    "[The People allege that the defendant committed the following (misdemeanor[s][,]/[and] infraction[s][,]/[and] otherwise lawful act[s] that might cause death): ______ <insert alleged predicate acts when multiple acts alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant committed at least one of these alleged (misdemeanors[,]/[or] infractions[,]/[or] otherwise lawful acts that might cause death) and you all agree on which (misdemeanor[,]/[or] infraction[,]/[or] otherwise lawful act that might cause death) the defendant committed.]",
+    "[The People have the burden of proving beyond a reasonable doubt that the defendant committed vehicular manslaughter with ordinary negligence while intoxicated. If the People have not met this burden, you must find the defendant not guilty of that crime. You must consider whether the defendant is guilty of the lesser crime[s] of ______ <insert lesser offense[s]>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Important note: The legislature repealed Penal Code section 192(c)(3) in the form that was previously the basis for this instruction effective January 1, 2007."
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to specify the predicate misdemeanor(s) or infraction(s) alleged and to instruct on the elements of the predicate offense(s). (*People v. Milham* (1984) 159 Cal.App.3d 487, 506 [205 Cal.Rptr. 688]; *People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409].) In element 1, instruct on the particular “under the influence” offense charged. In element 2, instruct on either theory of vehicular manslaughter (misdemeanor/infraction or lawful act committed with negligence) as appropriate. The court must also give the appropriate instruction on the elements of the driving under the influence offense and the predicate misdemeanor or infraction."
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of death, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of death, the court should also give the “substantial factor” instruction in the second bracketed paragraph on causation. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "There is a split in authority over whether there is a sua sponte duty to give an unanimity instruction when multiple predicate offenses are alleged. (*People v. Gary* (1987) 189 Cal.App.3d 1212, 1218 [235 Cal.Rptr. 30] [unanimity instruction required, overruled on other grounds in *People v. Flood* (1998) 18 Cal.4th 470, 481 [76 Cal.Rptr.2d 180, 957 P.2d 869]]; *People v. Durkin* (1988) 205 Cal.App.3d Supp. 9, 13 [252 Cal.Rptr. 735] [unanimity instruction not required but preferable]; *People v. Mitchell* (1986) 188 Cal.App.3d 216, 222 [232 Cal.Rptr. 438] [unanimity instruction not required]; *People v. Leffel* (1988) 203 Cal.App.3d 575, 586–587 [249 Cal.Rptr. 906] [unanimity instruction not required, harmless error if was required].) A unanimity instruction is included in a bracketed paragraph for the court to use at its discretion."
+      },
+      {
+        "text": "If there is sufficient evidence and the defendant requests it, the court should instruct on the imminent peril/sudden emergency doctrine. (*People v. Boulware* (1940) 41 Cal.App.2d 268, 269–270 [106 P.2d 436].) Give the bracketed sentence that begins with “A person facing a sudden and unexpected emergency.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Vehicular Manslaughter While Intoxicated. Pen. Code, § 191.5(b)."
+      },
+      {
+        "text": "• Vehicular Manslaughter During Operation of a Vessel While Intoxicated. Pen. Code, § 192.5(c)."
+      },
+      {
+        "text": "• Unlawful Act Dangerous Under the Circumstances of Its Commission. *People v. Wells* (1996) 12 Cal.4th 979, 982 [50 Cal.Rptr.2d 699, 911 P.2d 1374]."
+      },
+      {
+        "text": "• Specifying Predicate Unlawful Act. *People v. Milham* (1984) 159 Cal.App.3d 487, 506 [205 Cal.Rptr. 688]."
+      },
+      {
+        "text": "• Elements of the Predicate Unlawful Act. *People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409]."
+      },
+      {
+        "text": "• Unanimity Instruction. *People v. Gary* (1987) 189 Cal.App.3d 1212, 1218 [235 Cal.Rptr. 30], overruled on other grounds in *People v. Flood* (1998) 18 Cal.4th 470, 481 [76 Cal.Rptr.2d 180, 957 P.2d 869]; *People v. Durkin* (1988) 205 Cal.App.3d Supp. 9, 13 [252 Cal.Rptr. 735]; *People v. Mitchell* (1986) 188 Cal.App.3d 216, 222 [232 Cal.Rptr. 438]; *People v. Leffel* (1988) 203 Cal.App.3d 575, 586–587 [249 Cal.Rptr. 906]."
+      },
+      {
+        "text": "• Ordinary Negligence. Pen. Code, § 7, subd. 2; Rest.2d Torts, § 282."
+      },
+      {
+        "text": "• Causation. *People v. Rodriguez* (1960) 186 Cal.App.2d 433, 440 [8 Cal. Rptr. 863]."
+      },
+      {
+        "text": "• Imminent Peril/Sudden Emergency Doctrine. *People v. Boulware* (1940) 41 Cal.App.2d 268, 269 [106 P.2d 436]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Vehicular Manslaughter With Ordinary Negligence Without Intoxication. Pen. Code, § 192(c)(2); see *People v. Miranda* (1994) 21 Cal.App.4th 1464, 1466–1467 [26 Cal.Rptr.2d 610]."
+      },
+      {
+        "text": "• Injury to Same Victim While Driving Under the Influence of Alcohol or Drugs. Veh. Code, § 23153; *People v. Machuca* (2020) 49 Cal.App.5th 393, 400–401 [263 Cal.Rptr.3d 52]; *People v. Miranda* (1994) 21 Cal.App.4th 1464, 1466–1467 [26 Cal.Rptr.2d 610]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 590, *Gross Vehicular Manslaughter While Intoxicated*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

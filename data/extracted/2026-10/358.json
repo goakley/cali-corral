@@ -1,0 +1,77 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "358",
+  "title": "Evidence of Defendant’s Statements",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      203,
+      204
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, December 2008, February 2014, August 2015, September 2017, September 2020, March 2023",
+  "revision_legend": null,
+  "body": [
+    "You have heard evidence that the defendant made [an] [oral] [and] [a] [written] statement[s] (before the trial/while the court was not in session). You must decide whether the defendant made any (such/of these) statement[s], in whole or in part. If you decide that the defendant made such [a] statement[s], consider the statement[s], along with all the other evidence, in reaching your verdict. It is up to you to decide how much importance to give to the statement[s].",
+    "[Consider with caution any statement made by (the/a) defendant tending to show (his/her) guilt unless the statement was written or otherwise recorded.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is no sua sponte duty to give this instruction. *People v. Diaz* (2015) 60 Cal.4th 1176, 1190 [185 Cal.Rptr.3d 431, 345 P.3d 62]."
+      },
+      {
+        "text": "Give the bracketed cautionary instruction on request if there is evidence of an incriminating out-of-court oral statement made by the defendant. (*People v. Diaz, supra,* 60 Cal.4th at p. 1192.) In the penalty phase of a capital trial, the bracketed paragraph should be given only if the defense requests it. (*People v. Livaditis* (1992) 2 Cal.4th 759, 784 [9 Cal.Rptr.2d 72, 831 P.2d 297].)"
+      },
+      {
+        "text": "The bracketed cautionary instruction is not required when the defendant’s incriminating statements are written or tape-recorded. (*People v. Gardner* (1961) 195 Cal.App.2d 829, 833 [16 Cal.Rptr. 256]; *People v. Hines* (1964) 61 Cal.2d 164, 173 [37 Cal.Rptr. 622, 390 P.2d 398], disapproved on other grounds in *People v. Murtishaw* (1981) 29 Cal.3d 733, 774, fn. 40 [175 Cal.Rptr. 738, 631 P.2d 446]; *People v. Scherr* (1969) 272 Cal.App.2d 165, 172 [77 Cal.Rptr. 35]; *People v. Slaughter* (2002) 27 Cal.4th 1187, 1200 [120 Cal.Rptr.2d 477, 47 P.3d 262] [admonition to view non-recorded statements with caution applies only to a defendant’s incriminating statements].) If the jury heard both inculpatory and exculpatory, or only inculpatory, statements attributed to the defendant, give the bracketed paragraph. If the jury heard only exculpatory statements by the defendant, do not give the bracketed paragraph."
+      },
+      {
+        "text": "If a defendant suspected of murder made a statement in a custodial interview that did not comply with Penal Code section 859.5, give the following additional instruction:"
+      },
+      {
+        "text": "Consider with caution any statement tending to show defendant’s guilt made by (him/her) during ______ <insert description of interview, e.g., interview with Officer Smith of October 15, 2013>."
+      },
+      {
+        "text": "When a defendant’s statement is a verbal act, as in conspiracy cases, this instruction applies. (*People v. Bunyard* (1988) 45 Cal.3d 1189, 1224 [249 Cal.Rptr. 71, 756 P.2d 795]; *People v. Ramirez* (1974) 40 Cal.App.3d 347, 352 [114 Cal.Rptr. 916]; see also, e.g., *Peabody v. Phelps* (1858) 9 Cal. 213, 229 [similar, in civil cases]."
+      },
+      {
+        "text": "When a defendant’s statement is an element of the crime, as in conspiracy or criminal threats (Pen. Code, § 422), this instruction still applies. (*People v. Diaz, supra,* 60 Cal.4th at p. 1187, overruling *People v. Zichko* (2004) 118 Cal.App.4th 1055, 1057 [13 Cal.Rptr.3d 509].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If out-of-court oral statements made by the defendant are prominent pieces of evidence in the trial, then CALCRIM No. 359, *Corpus Delicti: Independent Evidence of a Charged Crime*, may also have to be given together with the bracketed cautionary instruction."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Diaz, supra,* 60 Cal.4th at pp. 1187, 1190, 1192; *People v. Livaditis, supra,* 2 Cal.4th at p. 784."
+      },
+      {
+        "text": "• Custodial Statements by Defendants Suspected of Murder. Pen. Code, § 859.5(e)(3)."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Tran* (2022) 13 Cal.5th 1169, 1198–1201 [298 Cal.Rptr.3d 150, 515 P.3d 1210]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

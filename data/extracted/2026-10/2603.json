@@ -1,0 +1,110 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2603",
+  "title": "Requesting or Taking a Bribe (Pen. Code, §§ 68, 86, 93)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1860,
+      1862
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, September 2024",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (requesting[,]/taking[,]/[or] agreeing to take) a bribe [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was (a/an) (executive officer/ministerial officer/employee/appointee/legislative officer/judicial officer) of the (State of California/City of ______ <insert name of city>/County of ______ <insert name of county>/______ <insert name of political subdivision from Pen. Code, § 68>);",
+    "2. The defendant (requested[,]/took[,]/[or] agreed to take) a bribe;",
+    "3. When the defendant (requested[,]/took[,]/[or] agreed to take) the bribe, (he/she) represented that the bribe would unlawfully influence (his/her) official (act[,]/decision[,]/vote[,]/[or] opinion). The representation may have been express or implied;",
+    "AND",
+    "4. The defendant acted with the corrupt intent that (his/her) public or official duty would be unlawfully influenced.",
+    "As used here, *bribe* means something of present or future value or advantage, or a promise to give such a thing, that is requested or taken with the corrupt intent that the public or official action, vote, decision, or opinion of the person to who is requesting, taking, or agreeing to take the bribe, will be unlawfully influenced.",
+    "A person acts with *corrupt intent* when he or she acts to wrongfully gain a financial or other advantage for himself, herself, or someone else.",
+    "[An *executive officer* is a government official within the executive branch who may use his or her own discretion in performing his or her job duties. [A ______ <insert title, e.g., police officer, commissioner, etc.> is an executive officer.]]",
+    "[A *ministerial officer* is an officer who has a clear and mandatory duty involving the performance of specific tasks without the exercise of discretion.]",
+    "[A *legislative officer* is a member of the (Assembly/Senate/______ <insert name of other legislative body specified in Penal Code, § 86>) of this state.]",
+    "[A *judicial officer* includes a (juror[,]/[or] judge [,]/[or] referee[,]/[or] commissioner[,]/[or] arbitrator [,]/[or] umpire[,]/[or] [other] person authorized by law to hear or determine any question or controversy).]",
+    "[*Requesting or agreeing to take a bribe* does not require specific words or behavior, as long as the language used and the circumstances clearly show that the person is seeking a bribe from someone else. [The People do not need to prove that the other person actually consented to give a bribe.]]",
+    "[The People do not need to prove that the defendant made any effort to follow through on the purpose for which the bribe was sought.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed definition of “requesting or agreeing to take a bribe” if the prosecution is pursuing this theory."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The People do not need to prove that the defendant made any effort to follow through” if there is no evidence that the defendant took any action based on the alleged bribe."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 68, 86, 93."
+      },
+      {
+        "text": "• “Bribe” Defined. Pen. Code, § 7(6)."
+      },
+      {
+        "text": "• “Corruptly” Defined. Pen. Code, § 7(3)."
+      },
+      {
+        "text": "• “Executive Officer” Defined. *People v. Hupp* (2023) 96 Cal.App.5th 946, 950 [314 Cal.Rptr.3d 842]; *People v. Strohl* (1976) 57 Cal.App.3d 347, 361 [129 Cal.Rptr. 224]."
+      },
+      {
+        "text": "• “Ministerial Officer” Defined. Gov. Code, § 820.25(b); *People v. Strohl, supra*, 57 Cal.App.3d at p. 361."
+      },
+      {
+        "text": "• Legislative Member. Pen. Code, § 86."
+      },
+      {
+        "text": "• Judicial Officer. Pen. Code, § 93."
+      },
+      {
+        "text": "• Corrupt Intent Is an Element of Bribery. *People v. Gliksman* (1978) 78 Cal.App.3d 343, 346–350 [144 Cal.Rptr. 451]; *People v. Zerillo* (1950) 36 Cal.2d 222, 232 [223 P.2d 223]."
+      },
+      {
+        "text": "• Meaning of Understanding or Agreement. *People v. Pic’l* (1982) 31 Cal.3d 731, 738–740 [183 Cal.Rptr. 685, 646 P.2d 847]; *People v. Diedrich* (1982) 31 Cal.3d 263, 273–274 [182 Cal.Rptr. 354, 643 P.2d 971]; *People v. Gliksman, supra*, 78 Cal.App.3d at pp. 346–350."
+      },
+      {
+        "text": "• Bribery and Extortion Distinguished. *People v. Powell* (1920) 50 Cal.App. 436, 441 [195 P. 456]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 2600, *Giving or Offering a Bribe to an Executive Officer*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

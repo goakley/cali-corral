@@ -1,0 +1,53 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "420",
+  "title": "Withdrawal From Conspiracy",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      269,
+      269
+    ]
+  },
+  "revision_line": "New January 2006; Revised December 2008",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of conspiracy to commit ______ <insert target offense> if (he/she) withdrew from the alleged conspiracy before any overt act was committed. To withdraw from a conspiracy, the defendant must truly and affirmatively reject the conspiracy and communicate that rejection, by word or by deed, to the other members of the conspiracy known to the defendant.",
+    "[A failure to act is not sufficient alone to withdraw from a conspiracy.]",
+    "[If you decide that the defendant withdrew from a conspiracy after an overt act was committed, the defendant is not guilty of any acts committed by remaining members of the conspiracy after (he/she) withdrew.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw from the conspiracy [before an overt act was committed]. If the People have not met this burden, you must find the defendant not guilty of conspiracy. [If the People have not met this burden, you must also find the defendant not guilty of the additional acts committed after (he/she) withdrew.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if there is evidence that the defendant attempted to withdraw from the conspiracy."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Withdrawal From Conspiracy as Defense. *People v. Crosby* (1962) 58 Cal.2d 713, 731 [25 Cal.Rptr. 847, 375 P.2d 839]."
+      },
+      {
+        "text": "• Ineffective Withdrawal. *People v. Sconce* (1991) 228 Cal.App.3d 693, 701 [279 Cal.Rptr. 59]; *People v. Beaumaster* (1971) 17 Cal.App.3d 996, 1003 [95 Cal.Rptr. 360]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

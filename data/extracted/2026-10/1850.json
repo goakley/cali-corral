@@ -1,0 +1,125 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1850",
+  "title": "Petty Theft With Prior Conviction (Pen. Code, § 666)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1299,
+      1301
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2015, March 2018",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of petty theft, you must then decide whether the People have proved the additional allegation that the defendant has been convicted of a theft offense before and served a term in a penal institution as a result of that conviction. It has already been determined that the defendant is the person named in exhibits ______ <insert numbers or descriptions of exhibits>. You must decide whether the evidence proves that the defendant was previously convicted of the alleged crime[s].",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant was previously convicted of a theft offense;",
+    "AND",
+    "2. The defendant served a term in a penal institution for that conviction.",
+    "The People allege that the defendant was previously convicted of:",
+    "[1.] A violation of ______ <insert code section violated>, on ______ <insert date of conviction>, in the ______ <insert name of court>, in Case Number ______ <insert docket or case number>(;/.)",
+    "[AND <Repeat for each prior conviction alleged>.]",
+    "[______ <insert name of penal institution> is a *penal institution*.]",
+    "[A *penal institution* includes [a] (city jail/county jail/state prison/any facility, camp, hospital, or institution operated to confine, treat, employ, train, and discipline persons in the legal custody of the Department of Corrections/federal prison/______ <specify other institution>).]",
+    "[Consider the evidence presented on this allegation only when deciding whether the defendant was previously convicted of the crime[s] alleged [or for the limited purpose of ______ <insert other permitted purpose, e.g., assessing credibility of the defendant>]. Do not consider this evidence for any other purpose.]",
+    "[You must consider each alleged conviction separately.] The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    18.0,
+    18.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on proof of the alleged prior conviction. (See Pen. Code, § 1025 [on defendant’s denial, jury must decide issue of prior convictions]; *People v. Barre* (1992) 11 Cal.App.4th 961, 965 [14 Cal.Rptr.2d 307].)"
+      },
+      {
+        "text": "Do not give this instruction if the court has bifurcated the trial."
+      },
+      {
+        "text": "The enhancement allegation under Penal Code section 666 applies only if the defendant has been previously convicted of a crime listed in Penal Code sections 368(d) or (e) or 667(e)(2)(C)(iv) or is required to register under the Sex Offender Registration Act. If applicable, give CALCRIM No. 3100, *Prior Conviction: NonBifurcated Trial.*"
+      },
+      {
+        "text": "If the court grants a bifurcated trial, on either of the offenses described in the paragraph above or a qualifying prior theft conviction, give CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial.*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, § 666; *People v. Bruno* (1987) 191 Cal.App.3d 1102, 1105 [237 Cal.Rptr. 31]; *People v. Bean* (1989) 213 Cal.App.3d 639, 642 [261 Cal.Rptr. 784]."
+      },
+      {
+        "text": "• Convictions From Other States. Pen. Code, § 668; *People v. Perry* (1962) 204 Cal.App.2d 201, 204 [22 Cal.Rptr. 54]."
+      },
+      {
+        "text": "• Prior Incarceration Requirement. *People v. James* (1957) 155 Cal.App.2d 604, 612 [318 P.2d 175] [service of partial term is sufficient]; *People v. Valenzuela* (1981) 116 Cal.App.3d 798, 803 [172 Cal.Rptr. 284] [custody resulting from credit for time served is sufficient]; but see *People v. Cortez* (1994) 24 Cal.App.4th 510, 513–514 [29 Cal.Rptr.2d 445] [participation in work release program alone is insufficient]."
+      },
+      {
+        "text": "• Penal Institution Defined. *Ex parte Wolfson* (1947) 30 Cal.2d 20, 26 [180 P.2d 326] [includes county jail]; *People v. Valenzuela* (1981) 116 Cal.App.3d 798, 803, 804, 807–808 [172 Cal.Rptr. 284] [includes California Rehabilitation Center]; see Pen. Code, §§ 667.5(h) [defining state prison or federal penal institution for purposes of prior prison term enhancement], 969b [prima facie evidence of prior conviction and term served in any state or federal penitentiary, reformatory, or county or city jail], 6081, 6082 [prison defined]; Welf. & Inst. Code, § 851 [excludes juvenile hall]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "If the defendant is charged with felony petty theft based on a prior conviction, then the misdemeanor offense is a lesser included offense. The court must provide the jury with a verdict form on which the jury will indicate if the prior conviction has been proved. If the jury finds that the prior conviction has not been proved, then the offense should be set at a misdemeanor."
+      },
+      {
+        "text": "There is no crime of attempted petty theft with a prior conviction. None of the elements of Penal Code section 666 may be attempted. (*People v. Bean* (1989) 213 Cal.App.3d 639, 642, fn. 4 [261 Cal.Rptr. 784].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Jury Findings on Prior Convictions"
+      },
+      {
+        "text": "The jury must determine the truth of the prior conviction unless jury trial is waived or the defendant admits to the prior conviction. If more than one prior conviction is charged, the jury must make a separate finding on each charged prior. (Pen. Code, § 1158; *People v. Barre* (1992) 11 Cal.App.4th 961, 965–966 [14 Cal.Rptr.2d 307].)"
+      },
+      {
+        "heading": true,
+        "text": "Judicial Notice of Prior Conviction"
+      },
+      {
+        "text": "It is error for a trial court to take judicial notice of a defendant’s alleged prior conviction when a reasonable juror could only understand the notice to mean that the court conclusively determined the prior-conviction allegation to be true. (*People v. Barre* (1992) 11 Cal.App.4th 961, 965–966 [14 Cal.Rptr.2d 307].)"
+      },
+      {
+        "heading": true,
+        "text": "Defense Stipulation to Prior Convictions"
+      },
+      {
+        "text": "The prior conviction and incarceration requirement of Penal Code section 666 is a sentencing factor for the trial court and not an element of a section 666 offense. (*People v. Bouzas* (1991) 53 Cal.3d 467, 478–480 [279 Cal.Rptr. 847, 807 P.2d 1076]; *People v. Stevens* (1996) 48 Cal.App.4th 982, 987 [56 Cal.Rptr.2d 13].) Thus, the defendant may stipulate to the convictions. (*People v. Bouzas*, *supra*, 53 Cal.3d at pp. 478–480; *People v. Stevens, supra,* 48 Cal.App.4th at p. 987; *People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170].)"
+      },
+      {
+        "text": "If the defendant stipulates, the prior convictions should not be disclosed to the jury unless the court admits them as otherwise relevant. (See Pen. Code, §§ 1025, 1093; *People v. Bouzas*, *supra*, 53 Cal.3d at pp. 471–472, 480; *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal. Rptr. 2d 690].)"
+      },
+      {
+        "heading": true,
+        "text": "Motion for Bifurcated Trial"
+      },
+      {
+        "text": "Either the defendant or the prosecution may move for a bifurcated trial. (*People v. Calderon* (1994) 9 Cal.4th 69, 77–78 [36 Cal.Rptr.2d 333, 885 P.2d 83]; *People v. Cline* (1998) 60 Cal.App.4th 1327, 1334–1336 [71 Cal.Rptr.2d 41]; *People v. Weathington*, *supra*, 231 Cal.App.3d at p. 90.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,104 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "765",
+  "title": "Death Penalty: Conviction for Other Felony Crimes",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      586,
+      588
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The People allege as an aggravating circumstance that (the defendant/______ <insert name of defendant>) was convicted of ______ <insert name of felony conviction> on ______ <insert date of conviction>. <Repeat for each felony conviction alleged.>",
+    "The People must prove (this/these) allegation[s] beyond a reasonable doubt. If you have a reasonable doubt whether (the defendant/______ <insert name of defendant>) was convicted of (the/an) alleged crime, you must completely disregard any evidence of that crime. If the People have proved that (the defendant/______ <insert name of defendant>) was convicted of (the/an) alleged prior crime, you may consider the fact of that prior conviction as an aggravating circumstance.",
+    "You may not consider any other evidence of alleged criminal activity as an aggravating circumstance [except for the alleged criminal activity I discussed in the previous instruction]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct that alleged prior felony convictions offered in aggravation must be proved beyond a reasonable doubt. (See *People v. Robertson* (1982) 33 Cal.3d 21, 53–55 [188 Cal.Rptr. 77, 655 P.2d 279]; *People v. Davenport* (1985) 41 Cal.3d 247, 281 [221 Cal.Rptr. 794, 710 P.2d 861].)"
+      },
+      {
+        "text": "The prosecution must specify what convictions are alleged in aggravation, and the court has a sua sponte duty to instruct the jury to consider only evidence relating to those prior convictions. (See *People v. Robertson* (1982) 33 Cal.3d 21, 55 [188 Cal.Rptr. 77, 655 P.2d 279]; *People v. Yeoman* (2003) 31 Cal.4th 93, 151 [2 Cal.Rptr.3d 186, 72 P.3d 1166].)"
+      },
+      {
+        "text": "To be admissible under factor (c), the defendant must have been convicted of the other felony offense prior to the commission of the offenses charged in the current case. (*People v. Balderas* (1985) 41 Cal.3d 144, 205 [222 Cal.Rptr. 184, 711 P.2d 480]; *People v. Kaurish* (1990) 52 Cal.3d 648, 702 [276 Cal.Rptr. 788, 802 P.2d 278].)"
+      },
+      {
+        "text": "Give the bracketed portion in the final paragraph when the court is also instructing the jury on prior violent crimes alleged in aggravation. (See CALCRIM No. 764, *Death Penalty: Evidence of Other Violent Crimes*.)"
+      },
+      {
+        "text": "In *People v. Benson* (1990) 52 Cal.3d 754, 811 [276 Cal.Rptr. 827, 802 P.2d 330], the Supreme Court held that the jury need not be unanimous about whether prior violent crimes offered under factor (b) have been proved beyond a reasonable doubt. The Supreme Court has not ruled on whether this also applies to prior felony convictions offered under factor (c). If the court determines that the jury need not be unanimous about whether prior felony convictions have been proved beyond a reasonable doubt, the court may, on request, add the following paragraph:"
+      },
+      {
+        "text": "Each of you must decide for yourself whether the People have proved that the defendant was convicted of an alleged crime. You do not all need to agree whether an alleged conviction has been proved. If any juror individually concludes that an alleged conviction has been proved, that juror may give the evidence whatever weight he or she believes is appropriate. On the other hand, if any juror individually concludes that an alleged conviction has not been proved, that juror must disregard the evidence completely."
+      },
+      {
+        "text": "If the case involves only one defendant, the court should use the word “defendant” throughout the instruction. If the case involves codefendants tried jointly, the court should insert the name of the specific defendant alleged to have been convicted of the prior felony in the places indicated in the instruction."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Factor (c). Pen. Code, § 190.3."
+      },
+      {
+        "text": "• Must Be Proved Beyond a Reasonable Doubt. *People v. Robertson* (1982) 33 Cal.3d 21, 53–55 [188 Cal.Rptr. 77, 655 P.2d 279]; *People v. Davenport* (1985) 41 Cal.3d 247, 281 [221 Cal.Rptr. 794, 710 P.2d 861]."
+      },
+      {
+        "text": "• Must Pre-Date Current Offense. *People v. Balderas* (1985) 41 Cal.3d 144, 205 [222 Cal.Rptr. 184, 711 P.2d 480]; *People v. Kaurish* (1990) 52 Cal.3d 648, 702 [276 Cal.Rptr. 788, 802 P.2d 278]."
+      },
+      {
+        "text": "• Defendant May Raise Constitutional Challenge to Prior. *People v. La Fargue* (1983) 147 Cal.App.3d 878, 890 [195 Cal.Rptr. 438]."
+      },
+      {
+        "text": "• Out-of-State Convictions. *People v. Lang* (1989) 49 Cal.3d 991, 1038–1039 [264 Cal.Rptr. 386, 782 P.2d 627]."
+      },
+      {
+        "text": "• Constitutional to Admit Evidence of Prior Convictions. *People v. Kaurish* (1990) 52 Cal.3d 648, 701 [276 Cal.Rptr. 788, 802 P.2d 278]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Out-of-State Felony Convictions"
+      },
+      {
+        "text": "“In the absence of limitation, a reference to ‘prior felony convictions’ is deemed to include any prior conviction which was a felony under the laws of the convicting jurisdiction.” (*People v. Lang* (1989) 49 Cal.3d 991, 1038–1039 [264 Cal.Rptr. 386, 782 P.2d 627].) Thus, the out-of-state prior does not have to qualify as a felony under California law. *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "Constitutional Challenge"
+      },
+      {
+        "text": "The defendant may bring a constitutional challenge to the validity of the prior conviction. (*People v. La Fargue* (1983) 147 Cal.App.3d 878, 890 [195 Cal.Rptr. 438].) If the conviction is from another country, the defendant may challenge the prior on the basis that the foreign jurisdiction does not provide the procedural safeguards mandated by the United States Constitution. *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "Evidence of Charges and Underlying Facts Not Admissible, Only Conviction"
+      },
+      {
+        "text": "“Because the . . . burglaries were nonviolent crimes, only evidence authenticating defendant’s *conviction* for these crimes was relevant and admissible under section 190.3, factor (c). Unlike violent criminal activity admissible under factor (b), the *charges* leading to a conviction of a nonviolent crime are inadmissible.” (*People v. Kaurish* (1990) 52 Cal.3d 648, 703 [276 Cal.Rptr. 788, 802 P.2d 278] [emphasis in original]; *People v. Stanley* (1995) 10 Cal.4th 764, 819 [42 Cal.Rptr.2d 543, 897 P.2d 481] [facts admissible under factor (b) but not under factor (c)].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

@@ -1,0 +1,94 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3428",
+  "title": "Mental Impairment: Defense to Required Mental State (Pen. Code, § 28)",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      111,
+      113
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017, October 2026",
+  "revision_legend": null,
+  "body": [
+    "You have heard evidence that the defendant may have suffered from a mental (disease[,]/[or] defect[,]/[or] disorder). You may consider this evidence only for the limited purpose of deciding whether, at the time of the charged crime, the defendant acted [or failed to act] with the mental state required for that crime.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant acted [or failed to act] with the required mental state, specifically: ______ <insert specific mental state required, e.g., “malice aforethought,” “the intent to permanently deprive the owner of his or her property,” or “knowledge that . . .”>. If the People have not met this burden, you must find the defendant not guilty of ______ <insert name of alleged offense>.",
+    "<Repeat this paragraph for each offense requiring a specific mental state.>",
+    "[Do not consider evidence of mental (disease[,]/[or] defect[,]/[or] disorder) when deciding if ______ <insert name of nontarget offense> was a natural and probable consequence of ______ <insert name of target offense>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to instruct on mental impairment as a defense to specific intent or mental state; however, the trial court must give this instruction on request. (*People v. Saille* (1991) 54 Cal.3d 1103, 1119 [2 Cal.Rptr.2d 364, 820 P.2d 588].) The jury may consider evidence of mental impairment and its effect on the defendant’s formation of any required specific mental state. (Pen. Code, § 28; *People v. Mendoza* (1998) 18 Cal.4th 1114, 1131–1134 [77 Cal.Rptr.2d 428, 959 P.2d 735] [voluntary intoxication relevant to mental state in aiding and abetting].)"
+      },
+      {
+        "text": "Evidence of mental impairment may not be considered for general intent crimes. (*People v. Mendoza, supra,* 18 Cal.4th at pp. 1131–1134 [aiding and abetting].)"
+      },
+      {
+        "text": "Evidence of mental impairment may not be considered for crimes requiring criminal negligence. (*People v. Midell* (2025) 113 Cal.App.5th 1060, 1082 [336 Cal.Rptr.3d 537].)"
+      },
+      {
+        "text": "A split in authority exists as to whether a knowledge element makes a crime a general intent or specific intent crime. (Compare *People v. Reyes* (1997) 52 Cal.App.4th 975, 982–986 [61 Cal.Rptr.2d 39] [knowledge element makes receiving stolen property a specific intent crime] with *People v. Suazo* (2023) 95 Cal.App.5th 681, 696–703 [313 Cal.Rptr.3d 649] [disagreeing with *Reyes*] and *People v. Berg* (2018) 23 Cal.App.5th 959, 968–970 [233 Cal.Rptr.3d 629] [same].)"
+      },
+      {
+        "text": "In all cases, the court must insert the specific mental state required and the offense for which the mental state is an element. (See *People v. Hill* (1967) 67 Cal.2d 105, 118 [60 Cal.Rptr. 234, 429 P.2d 586].)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “You must not consider evidence of mental” when instructing on aiding and abetting liability for a nontarget offense. (*People v. Mendoza, supra,* 18 Cal.4th at p. 1134.)"
+      },
+      {
+        "text": "In an attempted murder case, it was error to insert “intent to kill” instead of “express malice” as the required intent in paragraph two of this instruction. (See *People v. Ocegueda* (2016) 247 Cal.App.4th 1393, 1407 [203 Cal.Rptr.3d 233].)"
+      },
+      {
+        "text": "The court may need to modify this instruction to ensure it does not prohibit the jury from considering evidence of a defendant’s mental illness or impairment for a purpose other than deciding whether defendant possessed the required mental state for murder. (*People v. McGehee* (2016) 246 Cal.App.4th 1190, 1205 [201 Cal.Rptr.3d 714].) For example, giving this unmodified instruction with CALCRIM No. 362, *Consciousness of Guilt: False Statements*, could be error if a defendant’s false statements were the product of mental illness or impairment. (*Ibid.*)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Statutory Authority. Pen. Code, § 28; see also Pen. Code, §§ 25, 29."
+      },
+      {
+        "text": "• Instructional Requirements. *People v. Saille, supra,* 54 Cal.3d at p. 1119."
+      },
+      {
+        "text": "• Mental States—Knowledge. *People v. Reyes, supra,* 52 Cal.App.4th at pp. 983–985."
+      },
+      {
+        "text": "• Mental States—Aiding and Abetting. *People v. Mendoza, supra,* 18 Cal.4th at pp. 1131–1134."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Scope of Expert Testimony"
+      },
+      {
+        "text": "Penal Code section 29 provides that an expert testifying about a defendant’s mental illness “shall not testify as to whether the defendant had or did not have the required mental states.” (Pen. Code, § 29.) In *People v. Coddington* (2000) 23 Cal.4th 529, 582–583 [97 Cal.Rptr.2d 528, 2 P.3d 1081], disapproved on other grounds in *Price v. Superior Court* (2001) 25 Cal.4th 1046, 1069, fn. 13 [108 Cal.Rptr.2d 409, 25 P.3d 618], the Supreme Court held that the trial court improperly restricted the scope of the expert testimony when the court refused to permit “hypothetical questions regarding the effect of mental defect or illness on a person’s ability to deliberate or premeditate.” (*Id.* at p. 582.) “An expert’s opinion that a form of mental illness can lead to impulsive behavior is relevant to the existence *vel non* of the mental states of premeditation and deliberation regardless of whether the expert believed appellant actually harbored those mental states at the time of the killing.” (*Id.* at pp. 582–583 [italics original]; see also *People v. Nunn* (1996) 50 Cal.App.4th 1357, 1364–1365 [58 Cal.Rptr.2d 294] [discussing appropriate scope of expert testimony].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised March 2017"
+  },
+  "supplement_status": "revised"
+}

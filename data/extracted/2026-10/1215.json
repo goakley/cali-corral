@@ -1,0 +1,162 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1215",
+  "title": "Kidnapping (Pen. Code, § 207(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1067,
+      1070
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2010, April 2020, October 2021, March 2022, October 2025*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with kidnapping [in violation of Penal Code section 207(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant took, held, or detained another person by using force or by instilling reasonable fear;",
+    "2. Using that force or fear, the defendant moved the other person [or made the other person move] a substantial distance;",
+    "[AND]",
+    "3. The other person did not consent to the movement(;/.)",
+    "<Give element 4 when instructing on reasonable belief in consent.>",
+    "[AND]",
+    "[4. The defendant did not actually and reasonably believe that the other person consented to the movement.]",
+    "[In order to *consent*, a person must act freely and voluntarily and know the nature of the act.]",
+    "*Substantial distance* means more than a slight or trivial distance. In deciding whether the distance was substantial, you must consider all the circumstances relating to the movement. [Thus, in addition to considering the actual distance moved, you may also consider other factors such as [whether the distance the other person was moved was beyond that merely incidental to the commission of ______ <insert associated crime>], whether the movement increased the risk of [physical or psychological] harm, increased the danger of a foreseeable escape attempt, or gave the attacker a greater opportunity to commit additional crimes, or decreased the likelihood of detection.]",
+    "<Defense: Good Faith Belief in Consent>",
+    "[The defendant is not guilty of kidnapping if (he/she) reasonably and actually believed that the other person consented to the movement. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe that the other person consented to the movement. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "<Defense: Consent Given>",
+    "[The defendant is not guilty of kidnapping if the other person consented to go with the defendant. The other person consented if (he/she) (1) freely and voluntarily agreed to go with or be moved by the defendant, (2) was aware of the movement, and (3) had sufficient maturity and understanding to choose to go with the defendant. The People have the burden of proving beyond a reasonable doubt that the other person did not consent to go with the defendant. If the People have not met this burden, you must find the defendant not guilty of this crime.",
+    "[Consent may be withdrawn. If, at first, a person agreed to go with the defendant, that consent ended if the person changed his or her mind and no longer freely and voluntarily agreed to go with or be moved by the defendant. The defendant is guilty of kidnapping if after the other person withdrew consent, the defendant committed the crime as I have defined it.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "In the paragraph defining “substantial distance,” give the bracketed sentence listing factors that the jury may consider, when evidence permits, in evaluating the totality of the circumstances. (*People v. Martinez* (1999) 20 Cal.4th 225, 237 [83 Cal.Rptr.2d 533, 973 P.2d 512], overruled on other grounds in *People v. Fontenot* (2019) 8 Cal.5th 57, 70 [251 Cal.Rptr.3d 341, 447 P.3d 252].)"
+      },
+      {
+        "text": "The court must give the bracketed language on movement incidental to an associated crime when it is supported by the evidence. (*People v. Martinez*, *supra*, 20 Cal.4th at p. 237; *People v. Bell* (2009) 179 Cal.App.4th 428, 439 [102 Cal.Rptr.3d 300].)"
+      },
+      {
+        "text": "Give the bracketed definition of “consent” on request."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of consent if there is sufficient evidence to support the defense. (See *People v. Davis* (1995) 10 Cal.4th 463, 516–518 [41 Cal.Rptr.2d 826, 896 P.2d 119] [approving consent instruction as given]; see also *People v. Sedeno* (1974) 10 Cal.3d 703, 717, fn. 7 [112 Cal.Rptr. 1, 518 P.2d 913] overruled on other grounds in *People v. Breverman* (1998) 19 Cal.4th 142, 165 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [when court must instruct on defenses].) An optional paragraph is provided for this purpose, “Defense: Consent Given.”"
+      },
+      {
+        "text": "On request, if supported by the evidence, also give the bracketed paragraph that begins with “Consent may be withdrawn.” (See *People v. Camden* (1976) 16 Cal.3d 808, 814 [129 Cal.Rptr. 438, 548 P.2d 1110].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defendant’s reasonable and actual belief in the victim’s consent to go with the defendant, if supported by the evidence. (See *People v. Greenberger* (1997) 58 Cal.App.4th 298, 375 [68 Cal.Rptr.2d 61]; *People v. Isitt* (1976) 55 Cal.App.3d 23, 28 [127 Cal.Rptr. 279] [reasonable, good faith belief that victim consented to movement is a defense to kidnapping].) Give bracketed element 4 and the bracketed paragraph on the defense."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If the victim is incapable of consent because of immaturity or mental condition, see CALCRIM No. 1201, *Kidnapping: Child or Person Incapable of Consent*. An illegal purpose or intent is not required for an intoxicated and resisting adult victim. (*People v. Hartland* (2020) 54 Cal.App.5th 71, 80 [268 Cal.Rptr.3d 1].)"
+      },
+      {
+        "text": "A defendant may be prosecuted for both the crimes of child abduction and kidnapping. Child abduction or stealing is a crime against the parents, while kidnapping is a crime against the child. (*In re Michele D.* (2002) 29 Cal.4th 600, 614 [128 Cal.Rptr.2d 92, 59 P.3d 164]; *People v. Campos* (1982) 131 Cal.App.3d 894, 899 [182 Cal.Rptr. 698].) See CALCRIM No. 1250, *Child Abduction: No Right to Custody*."
+      },
+      {
+        "text": "For instructions relating to other defenses to kidnapping, see CALCRIM No. 1225, *Defense to Kidnapping: Protecting Child From Imminent Harm*, and CALCRIM No. 1226, *Defense to Kidnapping: Citizen’s Arrest.*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 207(a)."
+      },
+      {
+        "text": "• Punishment If Victim Under 14 Years of Age. Pen. Code, § 208(b); *People v. Magpuso* (1994) 23 Cal.App.4th 112, 118 [28 Cal.Rptr.2d 206] [ignorance of victim’s age not a defense]."
+      },
+      {
+        "text": "• Asportation Requirement. *People v. Hin* (2025) 17 Cal.5th 401, 469 [329 Cal.Rptr.3d 612, 563 P.3d 514]; *People v. Martinez, supra,* 20 Cal.4th at pp. 235–237 [adopting modified two-pronged asportation test from *People v. Rayford* (1994) 9 Cal.4th 1, 12–14 [36 Cal.Rptr.2d 317, 884 P.2d 1369], and *People v. Daniels* (1969) 71 Cal.2d 1119, 1139 [80 Cal.Rptr. 897, 459 P.2d 225]]."
+      },
+      {
+        "text": "• Consent to Physical Movement. See *People v. Davis, supra,* 10 Cal.4th at pp. 516–518."
+      },
+      {
+        "text": "• Force or Fear Requirement. *People v. Moya* (1992) 4 Cal.App.4th 912, 916–917 [6 Cal.Rptr.2d 323]; *People v. Stephenson* (1974) 10 Cal.3d 652, 660 [111 Cal.Rptr. 556, 517 P.2d 820]; see *People v. Davis, supra,* 10 Cal.4th at p. 517, fn. 13, 518 [kidnapping requires use of force or fear; consent not vitiated by fraud, deceit, or dissimulation]."
+      },
+      {
+        "text": "• Good Faith Belief in Consent. Pen. Code, § 26(3) [mistake of fact]; *People v. Mayberry* (1975) 15 Cal.3d 143, 153–155 [125 Cal.Rptr. 745, 542 P.2d 1337]; *People v. Isitt, supra,* 55 Cal.App.3d at p. 28; *People v. Patrick* (1981) 126 Cal.App.3d 952, 968 [179 Cal.Rptr. 276]."
+      },
+      {
+        "text": "• Incidental Movement Test. *People v. Martinez, supra,* 20 Cal.4th at pp. 237–238."
+      },
+      {
+        "text": "• Intent Requirement. *People v. Thornton* (1974) 11 Cal.3d 738, 765 [114 Cal.Rptr. 467, 523 P.2d 267], disapproved on other grounds in *People v. Flannel* (1979) 25 Cal.3d 668 [160 Cal.Rptr. 84, 603 P.2d 1]; *People v. Davis, supra,* 10 Cal.4th at p. 519; *People v. Moya, supra,* 4 Cal.App.4th at p. 916."
+      },
+      {
+        "text": "• Substantial Distance Requirement. *People v. Derek Daniels* (1993) 18 Cal.App.4th 1046, 1053; *People v. Stanworth* (1974) 11 Cal.3d 588, 600–601 [114 Cal.Rptr. 250, 522 P.2d 1058] [since movement must be more than slight or trivial, it must be substantial in character]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Penal Code section 207(a) uses the term “steals” in defining kidnapping not in the sense of a theft, but in the sense of taking away or forcible carrying away. (*People v. McCullough* (1979) 100 Cal.App.3d 169, 176 [160 Cal.Rptr. 831].) The instruction uses “take,” “hold,” or “detain” as the more inclusive terms, but includes in brackets the statutory terms “steal” and “arrest” if either one more closely matches the evidence."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• False Imprisonment. Pen. Code, §§ 236, 237; *People v. Magana* (1991) 230 Cal.App.3d 1117, 1120–1121 [281 Cal.Rptr. 338]; *People v. Gibbs* (1970) 12 Cal.App.3d 526, 547 [90 Cal.Rptr. 866]."
+      },
+      {
+        "text": "Attempted kidnapping is not a lesser included offense of simple kidnapping under subdivision (a) of section 207, but the jury may be instructed on attempted kidnapping if supported by the evidence. (*People v. Fontenot* (2019) 8 Cal.5th 57, 65–71 [251 Cal.Rptr.3d 341, 447 P.3d 252] [discussing Pen. Code, § 1159].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Victim Must Be Alive"
+      },
+      {
+        "text": "A victim must be alive when kidnapped. (*People v. Hillhouse* (2002) 27 Cal.4th 469, 498 [117 Cal.Rptr.2d 45, 40 P.3d 754].)"
+      },
+      {
+        "heading": true,
+        "text": "Threat of Arrest"
+      },
+      {
+        "text": "“[A]n implicit threat of arrest satisfies the force or fear element of section 207(a) kidnapping if the defendant’s conduct or statements cause the victim to believe that unless the victim accompanies the defendant the victim will be forced to do so, and the victim’s belief is objectively reasonable.” (*People v. Majors* (2004) 33 Cal.4th 321, 331 [14 Cal.Rptr.3d 870, 92 P.3d 360].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

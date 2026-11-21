@@ -1,0 +1,88 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1035",
+  "title": "Sodomy of a Disabled Person in a Mental Hospital (Pen. Code, § 286(h))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      864,
+      865
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sodomy of a mentally or physically disabled person in a mental hospital [in violation of Penal Code section 286(h)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed an act of sodomy with another person;",
+    "2. The other person had a (mental disorder/developmental or physical disability) that prevented (him/her) from legally consenting;",
+    "3. The defendant knew or reasonably should have known that the other person had a (mental disorder/developmental or physical disability) that prevented (him/her) from legally consenting;",
+    "AND",
+    "4. At the time of the act, both people were confined in a state hospital or other mental health facility.",
+    "*Sodomy* is any penetration, no matter how slight, of the anus of one person by the penis of another person. [Ejaculation is not required.]",
+    "A person is *prevented from legally consenting* if he or she is unable to understand the act, its nature, and probable consequences.",
+    "[______ <If appropriate, insert name of facility> is a (state hospital/mental health facility).] [A *state hospital or other mental health facility* includes a state hospital for the care and treatment of the mentally disordered or any other public or private facility approved by a county mental health director for the care and treatment of the mentally disordered.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "A space is provided to identify a facility as a state hospital or other mental health facility if the parties agree that there is no issue of fact. Alternatively, if there is a factual dispute about whether an institution is a state hospital or other mental health facility, give the final bracketed sentence. (See Pen. Code, § 286(h).)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1031, *Sodomy in Concert*, may be given in conjunction with this instruction, if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 286(h)."
+      },
+      {
+        "text": "• Sodomy Defined. Pen. Code, § 286(a); see *People v. Singh* (1928) 62 Cal.App. 450, 452 [217 P. 121] [ejaculation is not required]."
+      },
+      {
+        "text": "• State Hospital or Mental Health Facility Defined. Pen. Code, § 286(h); see Welf. & Inst. Code, § 7100 [county psychiatric facilities], § 7200 [state hospitals for mentally disordered], § 7500 [state hospitals for developmentally disabled]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Sodomy of Disabled Person. Pen. Code, §§ 664, 286(h)."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1030, *Sodomy by Force, Fear, or Threats*, and CALCRIM No. 1004, *Rape of a Disabled Woman*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

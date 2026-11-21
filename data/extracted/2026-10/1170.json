@@ -1,0 +1,171 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1170",
+  "title": "Failure to Register as Sex Offender (Pen. Code, § 290(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1020,
+      1024
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, April 2010, October 2010, February 2013, February 2014, August 2014, August 2015, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with failing to register as a sex offender [in violation of Penal Code section 290(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was previously (convicted of/found to have committed) ______ <specify the offense for which the defendant is allegedly required to register>;",
+    "2. The defendant resided (in ______ <insert name of city>, California/in an unincorporated area or a city with no police department in ______ <insert name of county> County, California/on the campus or in the facilities of ______ <insert name of university or college> in California);",
+    "3. The defendant actually knew (he/she) had a duty under Penal Code section 290 to register as a sex offender [living at ______ <insert specific address or addresses in California>] and that (he/she) had to register within five working days of ______ <insert triggering event specified in Penal Code section 290(b)>;",
+    "AND",
+    "<Alternative 4A—change of residence>",
+    "[4. The defendant willfully failed to register as a sex offender with the (police chief of that city/sheriff of that county/the police chief of that campus or its facilities) within five working days of (coming into/[or] changing (his/her) residence within) that (city/county/campus).]",
+    "<Alternative 4B—birthday>",
+    "[4. The defendant willfully failed to annually update (his/her) registration as a sex offender with the (police chief of that city/sheriff of that county/the police chief of that campus) within five working days of (his/her) birthday.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[*Residence* means one or more addresses where someone regularly resides, regardless of the number of days or nights spent there, such as a shelter or structure that can be located by a street address. A *residence* may include, but is not limited to, houses, apartment buildings, motels, hotels, homeless shelters, and recreational and other vehicles.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 1, if the specific offense triggering the registration requirement is spousal rape (under repealed Penal Code section 262), the instruction must include the requirement that the offense involved the use of “force or violence.” (*People v. Mason* (2013) 218 Cal.App.4th 818, 822–827 [160 Cal.Rptr.3d 516].)"
+      },
+      {
+        "text": "In element 3, choose the option “living at ______ <insert specific address in California> if there is an issue whether the defendant actually knew that a place where he or she spent time was a residence triggering the duty to register. (*People v. Cohens* (2009) 178 Cal.App.4th 1442, 1451 [101 Cal.Rptr.3d 289]; *People v. LeCorno* (2003) 109 Cal.App.4th 1058, 1068–1069 [135 Cal.Rptr.2d 775]."
+      },
+      {
+        "text": "In element 4, give alternative 4A if the defendant is charged with failing to register within five working days of changing his or her residence or becoming homeless. (Pen. Code, § 290(b).) Give alternative 4B if the defendant is charged with failing to update his or her registration within five working days of his or her birthday. (Pen. Code, § 290.012.)"
+      },
+      {
+        "text": "If the defendant is charged with a prior conviction for failing to register, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*, unless the defendant has stipulated to the truth of the prior conviction. (See *People v. Merkley* (1996) 51 Cal.App.4th 472, 476 [58 Cal.Rptr. 2d 21]; *People v. Bouzas* (1991) 53 Cal.3d 467, 477–480 [279 Cal.Rptr. 847, 807 P.2d 1076]; *People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170].)"
+      },
+      {
+        "text": "For the charge of failure to register, it is error to give an instruction on general criminal intent that informs the jury that a person is “acting with general criminal intent, even though he may not know that his act or conduct is unlawful.” (*People v. Barker* (2004) 34 Cal.4th 345, 360 [18 Cal.Rptr.3d 260, 96 P.3d 507]; *People v. Edgar* (2002) 104 Cal.App.4th 210, 219 [127 Cal.Rptr.2d 662].) In CALCRIM No. 252, *Union of Act and Intent*, give the instruction “for crimes requiring one or more specific mental states.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 290(b) [change in residence], 290.012 [birthday]; *People v. Garcia* (2001) 25 Cal.4th 744, 752 [107 Cal.Rptr.2d 355, 23 P.3d 590]."
+      },
+      {
+        "text": "• Spousal Rape (Under Repealed Pen. Code, § 262) Not Registerable Offense Absent Force or Violence. *People v. Mason* (2013) 218 Cal.App.4th 818, 825–826 [160 Cal.Rptr.3d 516]."
+      },
+      {
+        "text": "• Definition of Residence. Pen. Code, § 290.011(g); *People v. Deluca* (2014) 228 Cal.App.4th 1263, 1266–1267 [176 Cal.Rptr.3d 419]; *People v. Gonzales* (2010) 183 Cal.App.4th 24, 35 [107 Cal.Rptr.3d 11]."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); see *People v. Barker* (2004) 34 Cal.4th 345, 360 [18 Cal.Rptr.3d 260, 96 P.3d 507]."
+      },
+      {
+        "text": "• Actual Knowledge of Duty Required. *People v. Garcia* (2001) 25 Cal.4th 744, 752 [107 Cal.Rptr.2d 355, 23 P.3d 590]."
+      },
+      {
+        "text": "• Continuing Offense. *Wright v. Superior Court* (1997) 15 Cal.4th 521, 527–528 [63 Cal.Rptr.2d 322, 936 P.2d 101]."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Barker* (2004) 34 Cal.4th 345, 360 [18 Cal.Rptr.3d 260, 96 P.3d 507]; *People v. Johnson* (1998) 67 Cal.App.4th 67, 72 [78 Cal.Rptr.2d 795]."
+      },
+      {
+        "text": "• No Duty to Define Residence. *People v. McCleod* (1997) 55 Cal.App.4th 1205, 1219 [64 Cal.Rptr.2d 545]."
+      },
+      {
+        "text": "• Registration is Not Punishment. *In re Alva* (2004) 33 Cal.4th 254, 262 [14 Cal.Rptr.3d 811, 92 P.3d 311]."
+      },
+      {
+        "text": "• Jury May Consider Evidence That Significant Involuntary Condition Deprived Defendant of Actual Knowledge. *People v. Sorden* (2005) 36 Cal.4th 65, 72 [29 Cal.Rptr.3d 777, 113 P.3d 565]."
+      },
+      {
+        "text": "• People Must Prove Defendant Was California Resident at Time of Offense. *People v Wallace* (2009) 176 Cal.App.4th 1088, 1102–1104 [98 Cal.Rptr.3d 618]."
+      },
+      {
+        "text": "• Defendant Must Have Actual Knowledge That Location is Residence for Purpose of Duty to Register. *People v. Aragon* (2012) 207 Cal.App.4th 504, 510 [143 Cal.Rptr.3d 476]; *People v. LeCorno* (2003) 109 Cal.App.4th 1058, 1067–1070 [135 Cal.Rptr.2d 775]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Other Violations of Section 290"
+      },
+      {
+        "text": "This instruction applies to violations under Penal Code sections 290(b) and 290.012. Section 290 imposes numerous other duties on persons convicted of sex offenses. For example, a registered sex offender must:"
+      },
+      {
+        "text": "1. Notify the agency where he or she was *last* registered of any new address or location, whether inside or outside California, or any name change. (See Pen. Code, §§ 290.013–290.014; *People v. Smith* (2004) 32 Cal.4th 792, 800–802 [11 Cal.Rptr.3d 290, 86 P.3d 348] [under former Pen. Code, § 290(f), which allowed notice of change of address in writing, there is sufficient notice if defendant mails change of address form even if agency does not receive it]; *People v. Annin* (2004) 116 Cal.App.4th 725, 737–740 [10 Cal.Rptr.3d 712] [discussing meaning of “changed” residence]; *People v. Davis* (2002) 102 Cal.App.4th 377, 385 [125 Cal.Rptr.2d 519] [must instruct on requirement of actual knowledge of duty to notify law enforcement when moving out of jurisdiction]; see also *People v. Franklin* (1999) 20 Cal.4th 249, 255–256 [84 Cal.Rptr.2d 241, 975 P.2d 30] [construing former Pen. Code, § 290(f), which did not specifically require registration when registrant moved outside California].)"
+      },
+      {
+        "text": "2. Register multiple residences wherever he or she regularly resides. (See Pen. Code, § 290.010; *People v. Edgar* (2002) 104 Cal.App.4th 210, 219–222 [127 Cal.Rptr.2d 662] [court failed to instruct that jury must find that defendant actually knew of duty to register multiple residences; opinion cites former section 290(a)(1)(B)]; *People v. Vigil* (2001) 94 Cal.App.4th 485, 501 [114 Cal.Rptr.2d 331].)"
+      },
+      {
+        "text": "3. Update his or her registration at least once every 30 days if he or she is “a transient.” (See Pen. Code, § 290.011.)"
+      },
+      {
+        "text": "A sexually violent predator who is released from custody must verify his or her address at least once every 90 days and verify any place of employment. (See Pen. Code, § 290.012.) Other special requirements govern:"
+      },
+      {
+        "text": "1. Residents of other states who must register in their home state but are working or attending school in California. (See Pen. Code, § 290.002.)"
+      },
+      {
+        "text": "2. Sex offenders enrolled at, employed by, or carrying on a vocation at any university, college, community college, or other institution of higher learning. (See Pen. Code, § 290.01.)"
+      },
+      {
+        "text": "In addition, providing false information on the registration form is a violation of section 290.018. (See also *People v. Chan* (2005) 128 Cal.App.4th 408 [26 Cal.Rptr.3d 878].)"
+      },
+      {
+        "heading": true,
+        "text": "Forgetting to Register"
+      },
+      {
+        "text": "If a person actually knows of his or her duty to register, “just forgetting” is not a defense. (*People v. Barker* (2004) 34 Cal.4th 345, 356–357 [18 Cal.Rptr.3d 260, 96 P.3d 507].) In reaching this conclusion, the court stated, “[w]e do not here express an opinion as to whether forgetfulness resulting from, for example, an *acute psychological condition*, or a *chronic deficit of memory or intelligence*, might negate the willfulness required for a section 290 violation.” (*Id.* at p. 358 [italics in original].)"
+      },
+      {
+        "heading": true,
+        "text": "Registration Requirement for Consensual Oral Copulation With Minor"
+      },
+      {
+        "text": "Penal Code section 290 requires lifetime registration for a person convicted of consensual oral copulation with a minor but does not require such registration for a person convicted of consensual sexual intercourse with a minor. (Pen. Code, § 290(c).) The mandatory registration requirement for consensual oral copulation with a minor does not deny equal protection of laws. (*Johnson v. Department of Justice* (2015) 60 Cal.4th 871 [183 Cal.Rptr.3d 96, 341 P.3d 1075] [overruling *People v. Hofsheier* (2006) 37 Cal.4th 1185, 1191, 1205–1206 [39 Cal.Rptr.3d 821, 129 P.3d 29]].)"
+      },
+      {
+        "text": "*Moving Between Counties—Failure to Notify County Leaving and County Moving To Can Only Be Punished as One Offense*"
+      },
+      {
+        "text": "A person who changes residences a single time, failing to notify both the jurisdiction he or she is departing from and the jurisdiction he or she is entering, commits two violations of Penal Code section 290 but can only be punished for one. (*People v. Britt* (2004) 32 Cal.4th 944, 953–954 [12 Cal.Rptr.3d 66, 87 P.3d 812].) Further, if the defendant has been prosecuted in one county for the violation, and the prosecutor in the second county is aware of the previous prosecution, the second county cannot subsequently prosecute the defendant. (*Id.* at pp. 955–956.)"
+      },
+      {
+        "heading": true,
+        "text": "Notice of Duty to Register on Release From Confinement"
+      },
+      {
+        "text": "No reported case has held that the technical notice requirements are elements of the offense, especially when the jury is told that they must find the defendant had actual knowledge. (See former Pen. Code, § 290(b), after October 13, 2007, section 290.017; *People v. Garcia* (2001) 25 Cal.4th 744, 754, 755–756 [107 Cal.Rptr.2d 355, 23 P.3d 590] [if defendant willfully and knowingly failed to register, *Buford* does not require reversal merely because authorities failed to comply with technical requirements]; see also *People v. Buford* (1974) 42 Cal.App.3d 975, 987 [117 Cal.Rptr. 333] [revoking probation for noncompliance with section 290, an abuse of discretion when court and jail officials also failed to comply]; *People v. Toloy* (2015) 239 Cal.App.4th 1116, 1119 [191 Cal.Rptr.3d 801] [failure to notify defendant of requirement to reregister did not preclude conviction in light of defendant’s actual knowledge of duty to reregister].) The court in *Garcia* did state, however, that the “court’s instructions on ‘willfulness’ should have required proof that, in addition to being formally notified by the appropriate officers as required by section 290, in order to willfully violate section 290 the defendant must actually know of his duty to register.” (*People v. Garcia, supra,* 25 Cal.4th at p. 754.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 10
+  },
+  "warnings": []
+}

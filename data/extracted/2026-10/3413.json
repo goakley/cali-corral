@@ -1,0 +1,91 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3413",
+  "title": "Collective or Cooperative Cultivation Defense (Health & Saf. Code, § 11362.775)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2373,
+      2374
+    ]
+  },
+  "revision_line": "New February 2015; Revised August 2015, September 2018, March 2019",
+  "revision_legend": null,
+  "body": [
+    "(Planting[,] [or]/cultivating[,] [or]/harvesting[,] [or]/drying[,] [or]/processing) cannabis is lawful if authorized by the Medical Marijuana Program Act. The Medical Marijuana Program Act allows qualified patients [and their designated primary caregivers] to associate within the State of California to collectively or cooperatively cultivate cannabis for medical purposes, for the benefit of its members, but not for profit.",
+    "In deciding whether a collective meets these legal requirements, consider the following factors:",
+    "1. The size of the collective’s membership;",
+    "2. The volume of purchases from the collective;",
+    "3. The level of members’ participation in the operation and governance of the collective;",
+    "4. Whether the collective was formally established as a nonprofit organization;",
+    "5. Presence or absence of financial records;",
+    "6. Accountability of the collective to its members;",
+    "7. Evidence of profit or loss.",
+    "There is no limit on the number of persons who may be members of a collective.",
+    "Every member of the collective does not need to actively participate in the cultivation process. It is enough if a member provides financial support by purchasing cannabis from the collective.",
+    "A *qualified patient* is someone for whom a physician has previously recommended or approved the use of cannabis for medical purposes.",
+    "*Collectively* means involving united action or cooperative effort of all members of a group.",
+    "*Cooperatively* means working together or using joint effort toward a common end.",
+    "*Cultivate* means to foster the growth of a plant.",
+    "[A *primary caregiver* is someone who has consistently assumed responsibility for the housing, health, or safety of a patient who may legally possess or cultivate cannabis.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to (plant[,] [or]/cultivate[,] [or]/harvest[,] [or]/dry[,] [or]/process) cannabis for medical purposes. If the People have not met this burden, you must find the defendant not guilty of this crime."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "A collective or cooperative cultivation defense under the Medical Marijuana Program Act may be raised to certain cannabis charges. (See Health & Saf. Code, § 11362.775.) The burden is on the defendant to produce sufficient evidence to raise a reasonable doubt that possession was lawful. (*People v. Jackson* (2012) 210 Cal.App.4th 525, 529–531, 538–539 [148 Cal.Rptr.3d 375].)"
+      },
+      {
+        "text": "A local ordinance prohibiting cannabis dispensaries does not nullify a defense under the Medical Marijuana Program Act or the Compassionate Use Act. (*People v. Ahmed* (2018) 25 Cal.App.5th 136, 142–143 [235 Cal.Rptr.3d 472])."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, § 11362.775."
+      },
+      {
+        "text": "• Factors To Consider. *People v. Jackson* (2012) 210 Cal.App.4th 525 [148 Cal.Rptr.3d 375]."
+      },
+      {
+        "text": "• Primary Caregiver. *People v. Mentch* (2008) 45 Cal.4th 274, 282–292 [85 Cal.Rptr.3d 480, 195 P.3d 1061]; *People v. Mitchell* (2014) 225 Cal.App.4th 1189, 1205–1206 [170 Cal.Rptr.3d 825]."
+      },
+      {
+        "text": "• Defendant’s Burden of Proof on Medical Marijuana Program Act Defense. *People v. Jackson* (2012) 210 Cal.App.4th 525, 529–531, 538–539 [148 Cal.Rptr.3d 375]."
+      },
+      {
+        "text": "• All Members Need Not Participate in Cultivation. *People v. Anderson* (2015) 232 Cal.App.4th 1259 [182 Cal.Rptr.3d 276]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

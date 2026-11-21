@@ -1,0 +1,112 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2571",
+  "title": "Carrying or Placing Explosive or Destructive Device on Common Carrier (Pen. Code, § 18725)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1806,
+      1808
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (carrying/[or] placing) (an explosive/[or] a destructive device) on (a/an) (common carrier/boat/plane/car/bus/______ <insert type of other vehicle>) that transports paying passengers [in violation of Penal Code section 18725].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—carried or placed on common carrier>",
+    "[1. The defendant willfully (carried/[or] placed) (an explosive/[or] a destructive device) on (a/an) (common carrier/boat/plane/car/bus/______ <insert type of other vehicle>) that transports paying passengers;]",
+    "<Alternative 1B—carried or placed in baggage while on common carrier>",
+    "[1. The defendant willfully (carried/[or] placed) (an explosive/[or] a destructive device) in (hand baggage[,]/a roll[,]/(or another/a) container) while on board (a/an) (common carrier/boat/plane/car/bus/______ <insert type of other vehicle>) that transports paying passengers;]",
+    "<Alternative 1C—placed in baggage to be checked on common carrier>",
+    "[1. The defendant willfully placed (an explosive/[or] a destructive device) in baggage that was later checked with a common carrier;]",
+    "AND",
+    "2. The defendant knew that the object that (he/she) (carried/[or] placed) was (an explosive/[or] a destructive device).",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) which is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is also any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type of explosive from Health & Saf. Code, § 16460> is an *explosive*.]",
+    "[A *destructive device* is ______ <insert definition from Pen. Code, § 16460>.]",
+    "[______ <insert type of destructive device from Pen. Code, § 16460> is a *destructive device.*]",
+    "[The term[s] (*explosive/*[and] *destructive device*) (is/are) defined in another instruction.]",
+    "[A *common carrier* is a person or business that publicly offers to carry persons, property, or messages. [A person or business that publicly offers to carry only telegraphic messages is not a common carrier.]]",
+    "[______ <insert type or name of common carrier> is a *common carrier*.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Depending on the device or substance used, give the bracketed definitions of “explosive” or “destructive device,” inserting the appropriate definition from Penal Code section 16460, unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere. If the case involves a specific device listed in Health and Safety Code section 12000 or Penal Code section 16460, the court may instead give the bracketed sentence stating that the listed item “is an explosive” or “is a destructive device.” For example, “A grenade is a destructive device.” However, the court may not instruct the jury that the defendant used a destructive device. For example, the court may not state that “the defendant used a destructive device, a grenade,” or “the device used by the defendant, a grenade, was a destructive device.” (*People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257].)"
+      },
+      {
+        "text": "Similarly, in the definition of “common carrier,” the court may instruct generally that a type of vehicle is a common carrier. For example, “a Greyhound bus is a common carrier.” The court may not instruct that the particular vehicle in the case was a common carrier. For example, the court may not instruct that “the defendant was on a common carrier, a Greyhound bus,” or “the vehicle in this case, a Greyhound bus, is a common carrier.”"
+      },
+      {
+        "text": "If the device used is a bomb, the court may insert the word “bomb” in the bracketed definition of destructive device without further definition. (*People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) Appellate courts have held that the term “bomb” is not vague and is understood in its “common, accepted, and popular sense.” (*People v. Quinn* (1976) 57 Cal.App.3d 251, 258 [129 Cal.Rptr. 139]; *People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) If the court wishes to define the term “bomb,” the court may use the following definition: “A bomb is a device carrying an explosive charge fused to blow up or detonate under certain conditions.” (See *People v. Morse* (1992) 2 Cal.App.4th 620, 647, fn. 8 [3 Cal.Rptr.2d 343].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 18725."
+      },
+      {
+        "text": "• Explosive Defined. Health & Saf. Code, § 12000."
+      },
+      {
+        "text": "• Destructive Device Defined. Pen. Code, § 16460."
+      },
+      {
+        "text": "• Knowledge. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]; *In re Jorge M.* (2000) 23 Cal.4th 866, 887 [98 Cal.Rptr.2d 466, 4 P.3d 297]; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 619 [154 Cal.Rptr. 314]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Possession of Destructive Device. Pen. Code, § 18710."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Gasoline Not an Explosive"
+      },
+      {
+        "text": "“Under the statutory definition of explosive, the nature of the substance, not the manner in which a substance is used, is determinative.” (*People v. Clark* (1990) 50 Cal.3d 583, 604 [268 Cal.Rptr. 399, 789 P.2d 127] [gasoline, by its nature, not an explosive even where used to ignite a fire].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

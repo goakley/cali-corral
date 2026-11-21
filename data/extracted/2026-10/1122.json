@@ -1,0 +1,134 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1122",
+  "title": "Annoying or Molesting a Child (Pen. Code, § 647.6(a)–(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      945,
+      948
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with annoying or molesting a child [in violation of Penal Code section 647.6].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant engaged in conduct directed at a child;",
+    "2. A normal person, without hesitation, would have been disturbed, irritated, offended, or injured by the defendant’s conduct;",
+    "3. The defendant’s conduct was motivated by an unnatural or abnormal sexual interest in the child;",
+    "AND",
+    "4. The child was under the age of 18 years at the time of the conduct.",
+    "[It is not necessary that the child actually be irritated or disturbed.] [It is [also] not necessary that the child actually be touched.]",
+    "[It is not a defense that the child may have consented to the act.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "<Defense: Good Faith Belief Over 18>",
+    "[The defendant is not guilty of this crime if (he/she) actually and reasonably believed that the child was at least 18 years of age. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe the child was at least 18 years of age. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of the crime. (*People v. Valenti* (2016) 243 Cal.App.4th 1140, 1165 [197 Cal.Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      },
+      {
+        "text": "If the defendant is charged in a single count with multiple alleged acts, the court has a sua sponte duty to instruct on unanimity. (*People v. Jones* (1990) 51 Cal.3d 294, 321–322 [270 Cal.Rptr. 611, 792 P.2d 643]; *People v. Epps* (1981) 122 Cal.App.3d 691, 703–704 [176 Cal.Rptr. 332].) However, child annoyance or molestation may be committed by either a single act or a repetitive course of conduct. There is no sua sponte duty to give a unanimity instruction when a defendant’s conduct clearly constituted a single course of conduct. (*People v. Moore* (1986) 185 Cal.App.3d 1005, 1014–1016 [230 Cal.Rptr. 237].) The court must determine if a unanimity instruction is required and whether it is appropriate to give the standard unanimity instruction, CALCRIM No. 3500, *Unanimity*, or the modified unanimity instruction, CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*. Review the discussion in the bench notes to these two instructions and *People v. Jones*, *supra*, 51 Cal.3d at pp. 321–322."
+      },
+      {
+        "text": "If the defendant is charged with a prior conviction for a violation of Penal Code section 647.6 or any other specified sexual offense (see Pen. Code, § 647.6(c)), give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*, unless the defendant has stipulated to the truth of the prior conviction. (*People v. Merkley* (1996) 51 Cal.App.4th 472, 476 [58 Cal.Rptr.2d 21]; see *People v. Bouzas* (1991) 53 Cal.3d 467, 477–480 [279 Cal.Rptr. 847, 807 P.2d 1076].)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “It is not a defense that the child,” on request, if there is evidence that the minor consented to the act. (See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502].)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "text": "If the defendant was charged with annoying or molesting a child after entering an inhabited house, building, or trailer coach, do not give this instruction. Give CALCRIM No. 1121, *Annoying or Molesting a Child in a Dwelling*."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant reasonably believed that the child was over 18 years of age, the court has a sua sponte duty to instruct on the defense. (See *People v. Atchison* (1978) 22 Cal.3d 181, 183 [148 Cal.Rptr. 881, 583 P.2d 735]; *People v. Paz* (2000) 80 Cal.App.4th 293, 300 [95 Cal.Rptr.2d 166].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 647.6(a)–(c)."
+      },
+      {
+        "text": "• Acts Motivated by Unnatural or Abnormal Sexual Interest. *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335]; *In re Gladys R.* (1970) 1 Cal.3d 855, 867 [83 Cal.Rptr. 671, 464 P.2d 127]."
+      },
+      {
+        "text": "• Annoy and Molest Defined; Objective Standard. *People v. Lopez* (1998) 19 Cal.4th 282, 289–290 [79 Cal.Rptr.2d 195, 965 P.2d 713]; *People v. Kongs* (1994) 30 Cal.App.4th 1741, 1749–1750 [37 Cal.Rptr.2d 327]; *People v. Pallares* (1952) 112 Cal.App.2d Supp. 895, 901–902 [246 P.2d 173]."
+      },
+      {
+        "text": "• Lewd Act Not Required. *People v. Thompson* (1988) 206 Cal.App.3d 459, 465–466 [253 Cal.Rptr. 564]."
+      },
+      {
+        "text": "• Minor’s Consent Not a Defense. See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 937, fn. 7 [26 Cal.Rptr.2d 567] [dicta, in context of lewd act]."
+      },
+      {
+        "text": "• Minor Need Not Actually Be Annoyed. *People v. Lopez* (1998) 19 Cal.4th 282, 290 [79 Cal.Rptr.2d 195, 965 P.2d 713]."
+      },
+      {
+        "text": "• Actual Touching Not Required. *People v. Memro* (1995) 11 Cal.4th 786, 871 [47 Cal.Rptr.2d 219, 905 P.2d 1305]; *People v. Lopez* (1998) 19 Cal.4th 282, 289 [79 Cal.Rptr.2d 195, 965 P.2d 713]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "“Annoy” and “molest” are synonymous and generally refer to conduct designed to disturb, irritate, offend, injure, or at least tend to injure, another person. (*People v. Lopez* (1998) 19 Cal.4th 282, 289 [79 Cal.Rptr.2d 195, 965 P.2d 713]; *People v. Carskaddon* (1957) 49 Cal.2d 423, 426 [318 P.2d 4].) “Annoy means to disturb or irritate, especially by continued or repeated acts. . . . [¶] ‘[M]olest’ [means] . . . ‘to interfere with or meddle with unwarrantably so as to injure or disturb.’ ” (*People v. Pallares* (1952) 112 Cal.App.2d Supp. 895, 901 [246 P.2d 173].) A photographer can “annoy” a minor by taking the minor’s photograph in a public place in an offensive and irritating manner. (See *Ecker v. Raging Waters Group, Inc.* (2001) 87 Cal.App.4th 1320, 1325 [105 Cal.Rptr.2d 320].) A lewd act is not required. (*People v. Thompson* (1988) 206 Cal.App.3d 459, 465–466 [253 Cal.Rptr. 564].)"
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Annoying or Molesting of Minor. Pen. Code, §§ 664, 647.6(a)."
+      },
+      {
+        "text": "Annoying or Molesting a minor is a misdemeanor unless the defendant is charged with one of the specified prior convictions. (Pen. Code, § 647.6(a).) If the defendant is charged with a felony based on a qualifying prior conviction, the misdemeanor is a lesser included offense."
+      },
+      {
+        "text": "Neither simple assault (*People v. Greene* (1973) 34 Cal.App.3d 622, 654–655 [110 Cal.Rptr. 160]) or contributing to the delinquency of a minor (*People v. Romero* (1975) 48 Cal.App.3d 752, 757 [121 Cal.Rptr. 800] [construing former versions of Pen. Code, §§ 272 and 647.6]) is a necessarily included lesser offense of annoying or molesting a child."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Minor Perpetrator"
+      },
+      {
+        "text": "A minor under age 14 may be convicted for violating Penal Code section 647.6 on clear proof of the minor’s knowledge of wrongfulness. (See Pen. Code, § 26; *In re Gladys R.* (1970) 1 Cal.3d 855, 862, 869 [83 Cal.Rptr. 671, 464 P.2d 127] [12-year-old may be declared ward of court for annoying or molesting another minor].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

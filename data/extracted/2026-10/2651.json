@@ -1,0 +1,143 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2651",
+  "title": "Trying to Prevent an Executive Officer From Performing Duty (Pen. Code, § 69)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1898,
+      1901
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2014, August 2016, September 2019, March 2021, September 2024",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with trying to (prevent/[or] deter) an executive officer from performing that officer’s duty [in violation of Penal Code section 69].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully and unlawfully used (violence/[or] a threat of violence) to try to (prevent/[or] deter) an executive officer from performing the officer’s lawful duty;",
+    "2. When the defendant acted, (he/she) intended to (prevent/[or] deter) the executive officer from performing the officer’s lawful duty;",
+    "<Give the following language if the violation is based on a threat.>",
+    "[3. A reasonable person in a similar situation with similar knowledge would interpret the threat, in light of the context and surrounding circumstances, as a serious expression of intent to commit an act of unlawful force or violence;]",
+    "AND",
+    "(3/4). When the defendant acted, (he/she) knew that the person was an executive officer.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "An *executive officer* is a government official within the executive branch who may use his or her own discretion in performing his or her job duties. [(A/An) ______ <insert title, e.g., peace officer, commissioner, etc.> is an *executive officer*.]",
+    "The executive officer does not need to be performing his or her job duties at the time the threat is communicated.",
+    "A threat may be oral or written and may be implied by a pattern of conduct or a combination of statements and conduct.",
+    "[Photographing or recording an *executive officer* while the officer is in a public place or while the person photographing or recording is in a place where he or she has the right to be is not, by itself, a crime.]",
+    "[The defendant does not have to communicate the threat directly to the intended victim, but may do so through someone else. The defendant must, however, intend that (his/her) statement be taken as a threat by the intended victim.]",
+    "[Someone who intends that a statement be understood as a threat does not have to actually intend to carry out the threatened act [or intend to have someone else do so].]",
+    "[A sworn member of ______ <insert name of agency that employs peace officer>, authorized by ______ <insert appropriate section from Pen. Code, § 830 et seq.> to ______ <describe statutory authority>, is a *peace officer*.]",
+    "[The duties of (a/an) ______ <insert title of officer specified in Pen. Code, § 830 et seq.> include ______ <insert job duties>.]",
+    "<When lawful performance is an issue, give the following paragraph and Instruction 2670, Lawful Performance: Peace Officer.>",
+    "[A peace officer is not lawfully performing his or her duties if he or she is (unlawfully arresting or detaining someone/[or] using unreasonable or excessive force in his or her duties). Instruction 2670 explains (when an arrest or detention is unlawful/[and] when force is unreasonable or excessive).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    1.7,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In order to be “performing a lawful duty,” an executive officer, including a peace officer, must be acting lawfully. (*In re Manuel G.* (1997) 16 Cal.4th 805, 816–817 [66 Cal.Rptr.2d 701, 941 P.2d 880]; *People v. Gonzalez* (1990) 51 Cal.3d 1179, 1217 [275 Cal.Rptr. 729, 800 P.2d 1159].) The court has a sua sponte duty to instruct on lawful performance and the defendant’s reliance on self-defense as it relates to the use of excessive force when this is an issue in the case. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651]; *People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663]; *People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].)"
+      },
+      {
+        "text": "For this offense, “the relevant factor is simply the lawfulness of the official conduct that the defendant (through threat or violence) has attempted to deter, and not the lawfulness (or official nature) of the conduct in which the officer is engaged at the time the threat is made.” (*In re Manuel G., supra,* 16 Cal.4th at p. 817.) Thus, if the evidence supports the conclusion that the defendant attempted to deter the officer’s current performance of a duty, the court should instruct on the lawfulness of that duty. *(Ibid.)* Where the evidence supports the conclusion that the defendant attempted to deter the officer from performing a duty in the future, the court should only instruct on the lawfulness of that future duty. *(Ibid.)*"
+      },
+      {
+        "text": "If there is an issue in the case as to the lawful performance of a duty by a peace officer, give the last bracketed paragraph and CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      },
+      {
+        "text": "If a different executive officer was the alleged victim, the court will need to draft an appropriate definition of lawful duty if this is an issue in the case."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 69; *People v. Atkins* (2019) 31 Cal.App.5th 963, 979 [243 Cal.Rptr.3d 283] [statute requires actual knowledge that person was an executive officer]."
+      },
+      {
+        "text": "• Specific Intent Required. *People v. Gutierrez* (2002) 28 Cal.4th 1083, 1154 [124 Cal.Rptr.2d 373, 52 P.3d 572]."
+      },
+      {
+        "text": "• Immediate Ability to Carry Out Threat Not Required. *People v. Hines* (1997) 15 Cal.4th 997, 1061 [64 Cal.Rptr.2d 594, 938 P.2d 388]."
+      },
+      {
+        "text": "• Lawful Performance Element to Attempting to Deter. *In re Manuel G., supra*, 16 Cal.4th at pp. 816–817."
+      },
+      {
+        "text": "• Statute Constitutional. *People v. Hines, supra*, 15 Cal.4th at p. 1061."
+      },
+      {
+        "text": "• Merely Photographing or Recording Officers Not a Crime. Pen. Code, § 69(b)."
+      },
+      {
+        "text": "• Reasonable Person Standard. *People v. Lowery* (2011) 52 Cal.4th 419, 427 [128 Cal.Rptr.3d 648, 257 P.3d 72]; *People v. Smolkin* (2020) 49 Cal.App.5th 183, 188 [262 Cal.Rptr.3d 696]."
+      },
+      {
+        "text": "• “Executive Officer” Defined. *People v. Hupp* (2023) 96 Cal.App.5th 946, 950 [314 Cal.Rptr.3d 842]; *People v. Strohl* (1976) 57 Cal.App.3d 347, 361 [129 Cal.Rptr. 224]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Resisting an Officer Not Lesser Included Offense"
+      },
+      {
+        "text": "Resisting an officer, Penal Code section 148(a), is not a lesser included offense of attempting by force or violence to deter an officer. (*People v. Smith* (2013) 57 Cal.4th 232, 240–245 [159 Cal.Rptr.3d 57, 303 P.3d 368].)"
+      },
+      {
+        "heading": true,
+        "text": "Statute as Written Is Overbroad"
+      },
+      {
+        "text": "The statute as written would prohibit lawful threatening conduct. To avoid overbreadth, this instruction requires that the defendant act both “willfully” and “unlawfully.” (*People v. Superior Court (Anderson)* (1984) 151 Cal.App.3d 893, 895–896 [199 Cal.Rptr. 150].)"
+      },
+      {
+        "heading": true,
+        "text": "State of Mind of Victim Irrelevant"
+      },
+      {
+        "text": "Unlike other threat crimes, the state of mind of the intended victim is irrelevant. (*People v. Gutierrez, supra*, 28 Cal.4th at p. 1153; *People v. Hines, supra*, 15 Cal.4th at p. 1061, fn. 15.)"
+      },
+      {
+        "heading": true,
+        "text": "Immediate Ability to Carry Out Threat Not Required"
+      },
+      {
+        "text": "“As long as the threat reasonably appears to be a serious expression of intention to inflict bodily harm and its circumstances are such that there is a reasonable tendency to produce in the victim a fear that the threat will be carried out, a statute proscribing such threats is not unconstitutional for lacking a requirement of immediacy or imminence. Thus, threats may be constitutionally prohibited even when there is no *immediate* danger that they will be carried out.” (*People v. Hines, supra*, 15 Cal.4th at p. 1061 [quoting *In re M.S*. (1995) 10 Cal.4th 698, 714 [42 Cal.Rptr.2d 355, 896 P.2d 1365], citation and internal quotation marks removed, emphasis in original]; see also *People v. Gudger* (1994) 29 Cal.App.4th 310, 320–321 [34 Cal.Rptr.2d 510]; *Watts v. United States* (1969) 394 U.S. 705, 707 [89 S.Ct. 1399, 22 L.Ed.2d 664]; *United States v. Kelner* (2d Cir. 1976) 534 F.2d 1020, 1027.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

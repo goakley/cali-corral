@@ -1,0 +1,72 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1403",
+  "title": "Limited Purpose of Evidence of Gang Activity",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1158,
+      1159
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2022",
+  "revision_legend": null,
+  "body": [
+    "You may consider evidence of gang activity only for the limited purpose of deciding whether:",
+    "• [The defendant acted with the intent, purpose, and knowledge that are required to prove the gang-related (crime[s]/[and] enhancement[s]/[and] special circumstance allegations) charged(;/.)]",
+    "[OR]",
+    "• [The defendant had a motive to commit the crime[s] charged(;/.)]",
+    "[OR]",
+    "• [The defendant actually believed in the need to defend (himself/herself/[or] someone else) and acted under fear of imminent death or great bodily injury to (himself/herself/[or] someone else)(;/.)]",
+    "[OR]",
+    "• [The defendant acted in the heat of passion(;/.)]",
+    "[OR]",
+    "• [______ <insert other reason court admitted gang evidence>.]",
+    "[You may also consider this evidence when you evaluate the credibility or believability of a witness and when you consider the facts and information relied on by an expert witness in reaching his or her opinion.]",
+    "You may not consider this evidence for any other purpose. You may not conclude from this evidence that the defendant is a person of bad character or that (he/she) has a disposition to commit crime."
+  ],
+  "body_indents": [
+    0.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "On request, the court must give a limiting instruction when evidence of gang activity has been admitted. (*People v. Hernandez* (2004) 33 Cal.4th 1040, 1051–1052 [16 Cal.Rptr.3d 880, 94 P.3d 1080].) There is, however, no sua sponte duty to instruct the jury on this issue."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instruction Must Be Given on Request. *People v. Hernandez, supra,* 33 Cal.4th at pp. 1051–1052."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Samaniego* (2009) 172 Cal.App.4th 1148, 1170 [91 Cal.Rptr.3d 874]; *People v. Kaihea* (2021) 70 Cal.App.5th 257, 265 [285 Cal.Rptr.3d 334]."
+      },
+      {
+        "text": "• Defense of Others. *People v. Kaihea, supra,* 70 Cal.App.5th at pp. 266–267."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 25
+  },
+  "warnings": []
+}

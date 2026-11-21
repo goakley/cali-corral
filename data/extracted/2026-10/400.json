@@ -1,0 +1,72 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "400",
+  "title": "Aiding and Abetting: General Principles",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      237,
+      238
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, August 2009, April 2010, February 2026",
+  "revision_legend": null,
+  "body": [
+    "A person may be guilty of a crime in two ways. One, he or she may have directly committed the crime. I will call that person the perpetrator. Two, he or she may have aided and abetted a perpetrator, who directly committed the crime.",
+    "A person is guilty of a crime whether he or she committed it personally or aided and abetted the perpetrator."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on aiding and abetting when the prosecutor relies on it as a theory of culpability. (*People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318].)"
+      },
+      {
+        "text": "When the prosecution is relying on aiding and abetting, give this instruction before other instructions on aiding and abetting to introduce this theory of culpability to the jury."
+      },
+      {
+        "text": "An aider and abettor may be found guilty of a different crime or degree of crime than the perpetrator if the aider and abettor and the perpetrator do not have the same mental state. (*People v. Samaniego* (2009) 172 Cal.App.4th 1148, 1166 [91 Cal.Rptr.3d 874]; *People v. Woods* (1992) 8 Cal.App.4th 1570, 1577–1578 [11 Cal.Rptr.2d 231]; *People v. McCoy* (2001) 25 Cal.4th 1111, 1115–1116 [108 Cal.Rptr.2d 188, 24 P.3d 1210].)"
+      },
+      {
+        "text": "Depending on which theories are relied on by the prosecution, the court should then instruct as follows."
+      },
+      {
+        "heading": true,
+        "text": "Intended Crimes (Target Crimes)"
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant intended to aid and abet the crime or crimes charged (target crimes), give CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*."
+      },
+      {
+        "heading": true,
+        "text": "Natural & Probable Consequences Doctrine (Non-Target Crimes)"
+      },
+      {
+        "text": "If the prosecution’s theory is that any of the nonhomicide crimes charged were committed as a natural and probable consequence of the target crime, CALCRIM No. 402 or 403 should also be given. If both the target and non-target crimes are charged, give CALCRIM No. 402, *Natural and Probable Consequences Doctrine (Target and Non-Target Offenses Charged)*. In some cases, the prosecution may not charge the target crime but only the non-target crime. In that case, give CALCRIM No. 403, *Natural and Probable Consequences (Only Non-Target Offense Charged)*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• “Aiding and Abetting” Defined. *People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318]."
+      },
+      {
+        "text": "• Murder Not Complete Until Victim Dies. *People v. Celis* (2006) 141 Cal.App.4th 466, 471–474 [46 Cal.Rptr.3d 139]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

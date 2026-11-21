@@ -1,0 +1,122 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "733",
+  "title": "Special Circumstances: Murder With Torture (Pen. Code, § 190.2(a)(18))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      556,
+      558
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, September 2023",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of murder involving the infliction of torture [in violation of Penal Code section 190.2(a)(18)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The defendant intended to kill ______ <insert name of decedent>;",
+    "2. The defendant also intended to inflict extreme physical pain and suffering on ______ <insert name of decedent> while that person was still alive;",
+    "3. The defendant intended to inflict such pain and suffering on ______ <insert name of decedent> for the calculated purpose of revenge, extortion, persuasion, or any other sadistic reason;",
+    "3. AND",
+    "3. <Alternative A—on or after June 6, 1990>",
+    "[4. The defendant did an act involving the infliction of extreme physical pain and suffering on ______ <insert name of decedent>.]",
+    "[4. <Alternative B—before June 6, 1990>",
+    "[4. The defendant in fact inflicted extreme physical pain on ______ <insert name of decedent>.]",
+    "There is no requirement that the person killed be aware of the pain."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    15.0,
+    15.0,
+    15.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      },
+      {
+        "text": "In element 4, always give alternative 4A unless the homicide occurred prior to June 6, 1990. (*People v. Davenport* (1985) 41 Cal.3d 247, 271 [221 Cal.Rptr. 794, 710 P.2d 861].) If the homicide occurred prior to June 6, 1990, give alternative 4B. For homicides after that date, alternative 4B should not be given. (*People v. Crittenden* (1994) 9 Cal.4th 83, 140, fn. 14 [36 Cal.Rptr.2d 474, 885 P.2d 887].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(18)."
+      },
+      {
+        "text": "• Must Specifically Intend to Torture. *People v. Davenport, supra,* 41 Cal.3d at pp. 265–266; *People v. Pensinger* (1991) 52 Cal.3d 1210, 1255 [278 Cal.Rptr. 640, 805 P.2d 899]."
+      },
+      {
+        "text": "• Causation Not Required. *People v. Crittenden, supra,* 9 Cal.4th at pp. 141–142."
+      },
+      {
+        "text": "• Pain Not an Element. *People v. Davenport, supra,* 41 Cal.3d at p. 271; *People v. Crittenden, supra,* 9 Cal.4th at p. 140, fn. 14."
+      },
+      {
+        "text": "• Intent to Torture Need Not be Deliberate and Premeditated. *People v. Cole* (2004) 33 Cal.4th 1158, 1227–1228 [17 Cal.Rptr.3d 532, 95 P.3d 811]."
+      },
+      {
+        "text": "• Prolonged Pain Not Required. *People v. Cole, supra,* 33 Cal.4th at pp. 1227–1228."
+      },
+      {
+        "text": "• Spatial and Temporal Nexus. *People v. Gonzales* (2012) 54 Cal.4th 1234, 1278 [144 Cal.Rptr.3d 757, 281 P.3d 834]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Causation Not Required for Special Circumstance"
+      },
+      {
+        "text": "“[T]he prosecution was not required to prove that the acts of torture inflicted upon [the victim] were the cause of his death” in order to prove the torture-murder special circumstance. (*People v. Crittenden, supra,* 9 Cal.4th at p. 142.) Causation is required for first degree murder by torture. *(Ibid.)* However, the torture-murder special circumstance only: “requires ‘some proximity in time [and] space between the murder and torture.’ ” (*People v. Bemore* (2000) 22 Cal.4th 809, 843 [94 Cal.Rptr.2d 840, 996 P.2d 1152] [quoting *People v. Barnett* (1998) 17 Cal.4th 1044, 1161 [74 Cal.Rptr.2d 121, 954 P.2d 384]].) It applies: “where the death involved the infliction of torture, regardless of whether the acts constituting the torture were the cause of death.” (*People v. Jennings* (2010) 50 Cal.4th 616, 647 [114 Cal.Rptr.3d 133, 237 P.3d 474].) The defendant must intend to kill during the torture, but “not necessarily at the moment of a particular fatal blow.” (*People v. Superior Court (Fernandez)* (2023) 88 Cal.App.5th 26, 39, fn. 7 [304 Cal.Rptr.3d 488].)"
+      },
+      {
+        "heading": true,
+        "text": "Instruction on Voluntary Intoxication"
+      },
+      {
+        "text": "“[A] court should instruct a jury in a torture-murder case, when evidence of intoxication warrants it, that intoxication is relevant to the specific intent to inflict cruel suffering.” (*People v. Pensinger, supra,* 52 Cal.3d at p. 1242; see CALCRIM No. 625, *Voluntary Intoxication: Effects on Homicide Crimes*.)"
+      },
+      {
+        "heading": true,
+        "text": "Pain Not an Element"
+      },
+      {
+        "text": "As with first degree murder by torture, all that is required for the special circumstance is the calculated *intent to cause pain* for the purpose of revenge, extortion, persuasion, or any other sadistic purpose. Prior to June 6, 1990, the special circumstance stated: “torture requires proof of the infliction of extreme physical pain.” (Pre-June 6, 1990, Pen. Code, § 190.2(a)(18).) Proposition 115 eliminated this language. Thus, for all homicides after June 6, 1990, there is no requirement under the special circumstance that the victim actually suffer pain. (*People v. Pensinger, supra,* 52 Cal.3d at p. 1239; *People v. Davenport, supra,* 41 Cal.3d at p. 271; *People v. Crittenden, supra,* 9 Cal.4th at p. 140, fn. 14.)"
+      },
+      {
+        "heading": true,
+        "text": "Deliberate and Premeditated Intent to Inflict Pain Not Required"
+      },
+      {
+        "text": "“[P]remeditated and deliberate intent to torture is not an element of the torture-murder special circumstance.” (*People v. Cole, supra,* 33 Cal.4th at p. 1227 [italics omitted].)"
+      },
+      {
+        "heading": true,
+        "text": "Prolonged Pain Not Required"
+      },
+      {
+        "text": "“We have held that by enacting the torture-murder special circumstance statute (§ 190.2, subd. (a)(18)), the electorate meant to foreclose any requirement that the defendant be proved to have intended to inflict *prolonged* pain.” (*People v. Cole, supra,* 33 Cal.4th at p. 1228 [italics in original, citation and internal quotation marks omitted].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

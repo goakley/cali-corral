@@ -1,0 +1,74 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1703",
+  "title": "Shoplifting (Pen. Code, § 459.5)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1225,
+      1226
+    ]
+  },
+  "revision_line": "New August 2015; Revised October 2025*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with shoplifting [in violation of Penal Code section 459.5].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant entered a commercial establishment;",
+    "2. When the defendant entered the commercial establishment, it was open during regular business hours;",
+    "AND",
+    "3. When (he/she) entered the commercial establishment, (he/she) intended to commit theft.",
+    "To decide whether the defendant intended to commit theft, please refer to the separate instructions that I (will give/have given) you on that crime.",
+    "The defendant does not need to have actually committed theft as long as (he/she) entered with the intent to do so.",
+    "[A person *enters a structure* if some part of his or her body [or some object under his or her control] penetrates the area inside the structure’s outer boundary.]",
+    "[A structure’s *outer boundary* includes the area inside a window screen.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "To instruct on the necessary intent to commit theft, see CALCRIM No. 1800, *Theft by Larceny.*"
+      },
+      {
+        "text": "When the People allege the defendant has a prior conviction for an offense listed in Penal Code section 667(e)(2)(C)(iv) or for an offense requiring registration pursuant to subdivision (c) of section 290, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial* or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      },
+      {
+        "text": "When the People allege the defendant has two or more prior convictions for an offense listed in Penal Code section 666.1, give CALCRIM No. 1851, *Petty Theft or Shoplifting With Prior Convictions*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 459.5."
+      },
+      {
+        "text": "• Burden for Consent Defense Is to Raise Reasonable Doubt. *People v. Sherow* (2011) 196 Cal.App.4th 1296, 1308–1309 [128 Cal.Rptr.3d 255]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

@@ -1,0 +1,58 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "121",
+  "title": "Duty to Abide by Translation Provided in Court",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      96,
+      97
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014, August 2016",
+  "revision_legend": null,
+  "body": [
+    "<Alternative A—foreign language testimony>",
+    "Some testimony may be given in ______ <insert name or description of language other than English>. An interpreter will provide a translation for you at the time that the testimony is given. You must rely on the translation provided by the interpreter, even if you understand the language spoken by the witness. Do not retranslate any testimony for other jurors. If you believe the court interpreter translated testimony incorrectly, let me know immediately by writing a note and giving it to the (clerk/bailiff).",
+    "<Alternative B—foreign language recording>",
+    "You (may/are about to) hear a recording [that is partially] in a foreign language. You will receive a transcript with an English language translation of that recording.",
+    "You must rely on the transcript, even if you understand the language in the recording. Do not retranslate the recording for other jurors. If you believe the transcript is incorrect, let me know immediately by writing a note and giving it to the (clerk/bailiff). [If the recording is partially in English, the English parts of the recording are the evidence.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The committee recommends giving Alternative A of this instruction whenever testimony will be received with the assistance of an interpreter, though no case has held that the court has a sua sponte duty to give the instruction. The instruction may be given at the beginning of the case, when the person requiring translation testifies, or both, at the court’s discretion. If the jury may hear a recording that is at least partially in a foreign language, the court may give Alternative B with the appropriate bracketed language, as needed."
+      },
+      {
+        "text": "If the court chooses, the instruction may also be modified and given again at the end of the case, with all other instructions."
+      },
+      {
+        "text": "It is misconduct for a juror to retranslate for other jurors testimony that has been translated by the court-appointed interpreter. (*People v. Cabrera* (1991) 230 Cal.App.3d 300, 303 [281 Cal.Rptr. 238].) “If [the juror] believed the court interpreter was translating incorrectly, the proper action would have been to call the matter to the trial court’s attention, not take it upon herself to provide her fellow jurors with the ‘correct’ translation.” (*Id.* at p. 304.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Juror May Not Retranslate. *People v. Cabrera* (1991) 230 Cal.App.3d 300, 303–304 [281 Cal.Rptr. 238]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

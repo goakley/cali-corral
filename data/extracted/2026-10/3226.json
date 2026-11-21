@@ -1,0 +1,121 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3226",
+  "title": "Aggravating Factor: Particularly Vulnerable Victim",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2301,
+      2304
+    ]
+  },
+  "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "<Introductory paragraph for nonbifurcated trial>",
+    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______][ or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that ______ <insert name of victim> was a particularly vulnerable victim.]",
+    "<Introductory paragraph for bifurcated trial>",
+    "[The People have alleged[ in Count[s] ______] that ______ <insert name of victim> was a particularly vulnerable victim.]",
+    "To prove this allegation, the People must prove that:",
+    "1. ______ <insert name of victim> (suffered/[or ]was threatened with suffering) a loss, injury, or harm as the result of the crime[s];",
+    "AND",
+    "2. ______ <insert name of victim> was particularly vulnerable.",
+    "*Particularly vulnerable* includes being defenseless, unguarded, unprotected, or otherwise susceptible to the defendant’s criminal act to a special or unusual degree.",
+    "In determining whether ______ <insert name of victim> was *particularly vulnerable*, you should consider all of the circumstances surrounding the commission of the crime, including the characteristics of ______ <insert name of victim> and the manner and setting in which the crime was committed.",
+    "[You may not find vulnerability based solely on ______ <insert element of the offense>, which is an element of ______ <insert offense>.]",
+    "You may not find the allegation true unless all of you agree that the People have proved that the victim was particularly vulnerable. However, you do not have to agree on which facts show that the victim was particularly vulnerable.",
+    "You may not find the allegation true unless all of you agree that the People have proved that the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime.",
+    "You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime[ and for each victim]. The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction is provided for the court to use for an aggravating factor as stated in California Rules of Court, rule 4.421. (See Pen. Code, §§ 1170, 1170.1; see also *People v. Wiley* (2025) 17 Cal.5th 1069, 1086 [333 Cal.Rptr.3d 635, 570 P.3d 436]; *Cunningham v. California* (2007) 549 U.S. 270 [127 S.Ct. 856, 166 L.Ed.2d 856].)"
+      },
+      {
+        "text": "Pen. Code section 1170.85(b) states: “Upon conviction of any felony it shall be considered a circumstance in aggravation in imposing a term under subdivision (b) of Section 1170 if the victim of an offense is particularly vulnerable, or unable to defend himself or herself, due to age or significant disability.” If this section is applicable, the instruction should be modified to reflect the victim’s alleged inability to defend himself or herself based on age or significant disability."
+      },
+      {
+        "text": "Do not give an aggravating factor that is an element of the convicted offense. (Pen. Code, § 1170(b)(5).)"
+      },
+      {
+        "text": "The court should specify which crime and victim the aggravating factor pertains to if it applies to one or more specific counts or victims."
+      },
+      {
+        "text": "The court must bifurcate the jury’s determination of the aggravating factors on the defendant’s request “[e]xcept where evidence supporting an aggravating circumstance is admissible to prove or defend against the charged offense or enhancement at trial, or it is otherwise authorized by law.” (Pen. Code, § 1170(b)(2).) For a bifurcated trial, the court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggravating Factor. California Rules of Court, rule 4.421(a)(3)."
+      },
+      {
+        "text": "• “Aggravating Fact” Defined. *People v. Hicks* (2017) 17 Cal.App.5th 496, 512 [225 Cal.Rptr.3d 682]; *People v. Zamarron* (1994) 30 Cal.App.4th 865, 872 [36 Cal.Rptr.2d 17]; *People v. Moreno* (1982) 128 Cal.App.3d 103, 110 [179 Cal.Rptr. 879] [“The essence of ‘aggravation’ relates to the effect of a particular fact in making the offense distinctively worse than the ordinary”]."
+      },
+      {
+        "text": "• Unanimity Not Required Regarding Facts Underlying the Aggravating Factor. *People v. McDaniel* (2021) 12 Cal.5th 97, 142–148 [283 Cal.Rptr.3d 32, 493 P.3d 815]."
+      },
+      {
+        "text": "• “Victim” Defined. *People v. Simon* (1983) 144 Cal.App.3d 761, 765 [193 Cal.Rptr. 28]."
+      },
+      {
+        "text": "• “Particularly Vulnerable” Defined. *People v. DeHoyos* (2013) 57 Cal.4th 79, 154–155 [158 Cal.Rptr.3d 797, 303 P.3d 1]; *People v. Spencer* (1996) 51 Cal.App.4th 1208, 1223 [59 Cal.Rptr.2d 627]; *People v. Price* (1984) 151 Cal.App.3d 803, 814 [199 Cal.Rptr. 99]; *People v. Ramos* (1980) 106 Cal.App.3d 591, 607 [165 Cal.Rptr. 179]; *People v. Smith* (1979) 94 Cal.App.3d 433, 436 [156 Cal.Rptr. 502]."
+      },
+      {
+        "text": "• Vulnerability Cannot Be Based Solely on Age if Age Is Element of Offense. *People v. Dancer* (1996) 45 Cal.App.4th 1677, 1693–1694 [53 Cal.Rptr.2d 282], disapproved on other grounds in *People v. Hammon* (1997) 15 Cal.4th 1117, 1123 [65 Cal.Rptr.2d 1, 938 P.2d 986]; *People v. Quinones* (1988) 202 Cal.App.3d 1154, 1159 [249 Cal.Rptr. 435], disapproved on other grounds in *People v. Soto* (2011) 51 Cal.4th 229, 244–245 [119 Cal.Rptr.3d 775, 245 P.3d 410]; *People v. Ginese* (1981) 121 Cal.App.3d 468, 476–477 [175 Cal.Rptr. 383]; *People v. Flores* (1981) 115 Cal.App.3d 924, 927 [171 Cal.Rptr. 777]."
+      },
+      {
+        "text": "• Vulnerability of Victims in Driving Offenses. *People v. Bloom* (1983) 142 Cal.App.3d 310, 322 [190 Cal.Rptr. 857]; *People v. Piceno* (1987) 195 Cal.App.3d 1353, 1358–1359 [241 Cal.Rptr. 391] [vehicular manslaughter victim was not particularly vulnerable]; *People v. Weaver* (2007) 149 Cal.App.4th 1301, 1315–1319 [58 Cal.Rptr.3d 18] [vehicular manslaughter victim was particularly vulnerable], disapproved on another ground in *People v. Cook* (2015) 60 Cal.4th 922 [183 Cal.Rptr.3d 502, 342 P.3d 404]; *People v. Nicolas* (2017) 8 Cal.App.5th 1165, 1182 [214 Cal.Rptr.3d 467] [vehicular manslaughter victim was particularly vulnerable]; *People v. Mendez-Torres* (2025) 113 Cal.App.5th 1007, 1022 [336 Cal.Rptr.3d 298] [advance warning and ability to avoid collision are relevant considerations]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Distinctively Worse Than the Ordinary"
+      },
+      {
+        "text": "The committee is aware of *Johnson v. United States* (2015) 576 U.S. 591, 597–598 [135 S.Ct. 2551, 192 L.Ed.2d 569], in which the United States Supreme Court held that determining what constitutes an “ordinary” violation of a criminal statute may create a constitutional vagueness problem. Nevertheless, in light of California case law that has never been disapproved (see, e.g., *People v. Moreno, supra,* 128 Cal.App.3d at p. 110), the committee has elected to include in the instruction the state law requirement that an aggravating factor may not be found to be true unless the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime."
+      },
+      {
+        "text": "One court has held that the aggravating factor scheme under California Rules of Court, rule 4.421 does not present the same problem as *Johnson* because comparing the defendant’s conduct with other ways in which the same offense has been or may be committed “does not require the decisionmaker to define a single, imaginary fact pattern as the ‘ordinary’ way of committing the offense” and thus does not raise a constitutional concern. (See *Chavez Zepeda v. Superior Court* (2023) 97 Cal.App.5th 65, 88–90 [315 Cal.Rptr.3d 202].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Prohibition Against Dual Use of Facts at Sentencing"
+      },
+      {
+        "text": "The jury may find true multiple aggravating factors based on the same underlying fact. However, at sentencing, a single underlying fact may not support more than one aggravating factor. (*People v. Fernandez* (1990) 226 Cal.App.3d 669, 680 [276 Cal.Rptr. 631].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

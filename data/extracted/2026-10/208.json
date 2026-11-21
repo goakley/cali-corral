@@ -1,0 +1,56 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "208",
+  "title": "Witness Identified as John or Jane Doe",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      115,
+      115
+    ]
+  },
+  "revision_line": "New August 2009",
+  "revision_legend": null,
+  "body": [
+    "In this case, a person is called ((John/Jane) Doe/______ <insert other name used>). This name is used only to protect (his/her) privacy, as required by law. [The fact that the person is identified in this way is not evidence. Do not consider this fact for any purpose.]"
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If an alleged victim will be identified as John or Jane Doe, the court has a sua sponte duty to give this instruction at the beginning and at the end of the trial. (Pen. Code, § 293.5(b); *People v. Ramirez* (1997) 55 Cal.App.4th 47, 58 [64 Cal.Rptr.2d 9].)"
+      },
+      {
+        "text": "Penal Code section 293.5 provides that the alleged victim of certain offenses may be identified as John or Jane Doe if the court finds it is “reasonably necessary to protect the privacy of the person and will not unduly prejudice the prosecution or the defense.” (*Id.,* § 293.5(a).) This applies only to alleged victims of offenses under the following Penal Code sections: 261 (rape), 261.5 (unlawful sexual intercourse), 262 (rape of spouse), 264.1 (aiding and abetting rape), 286 (sodomy), 288 (lewd or lascivious act), 287 (oral copulation), and 289 (penetration by force). Note that the full name must still be provided in discovery. (*Id.,* § 293.5(a); *Reid v. Superior Court* (1997) 55 Cal.App.4th 1326, 1338 [64 Cal.Rptr.2d 714].)"
+      },
+      {
+        "text": "Give the last two bracketed sentences on request. (*People v. Ramirez, supra,* 55 Cal.App.4th at p. 58.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Identification as John or Jane Doe. Pen. Code, § 293.5(a)."
+      },
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 293.5(b); *People v. Ramirez* (1997) 55 Cal.App.4th 47, 58 [64 Cal.Rptr.2d 9]."
+      },
+      {
+        "text": "• Statute Constitutional. *People v. Ramirez* (1997) 55 Cal.App.4th 47, 54–59 [64 Cal.Rptr.2d 9]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

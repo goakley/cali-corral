@@ -1,0 +1,155 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3145",
+  "title": "Personally Used Deadly Weapon (Pen. Code, §§ 667.61(e)(3), 1192.7(c)(23), 12022(b)(1) & (2), 12022.3)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2211,
+      2214
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, February 2013, September 2017, September 2019, September 2020, March 2022, October 2025",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant personally used a deadly [or dangerous] weapon during the commission [or attempted commission] of that crime. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "A *deadly [or dangerous] weapon* is any object, instrument, or weapon that is [inherently deadly] [or] [dangerous] [or] [one that is] used in such a way that it is capable of causing and likely to cause death or great bodily injury.",
+    "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it was designed.]",
+    "[In deciding whether an object is a deadly weapon, consider all the surrounding circumstances, including when and where the object was possessed[,] [and] [where the person who possessed the object was going][,] [and] [whether the object was changed from its standard form] [and any other evidence that indicates whether the object would be used for a dangerous, rather than a harmless, purpose.]]",
+    "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "Someone *personally uses* a deadly [or dangerous] weapon if he or she intentionally [does any of the following]:",
+    "[1. Displays the weapon in a menacing manner(./;)]",
+    "[OR]",
+    "[(2/1). Hits someone with the weapon(./;)]",
+    "[OR]",
+    "[(3/2). Fires the weapon(./;)]",
+    "[OR",
+    "(4/3). ______ <insert description of use>.]",
+    "<If there is an issue in the case over whether the defendant used the weapon “in the commission of” the offense, see Bench Notes.>",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    0.0,
+    16.0,
+    16.0,
+    181.0,
+    16.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the enhancement. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Give all of the bracketed “or dangerous” phrases if the enhancement charged uses both the words “deadly” and “dangerous” to describe the weapon. (Pen. Code, §§ 667.61, 1192.7(c)(23), 12022(b).) Do not give these bracketed phrases if the enhancement uses only the word “deadly.” (Pen. Code, § 12022.3.)"
+      },
+      {
+        "text": "Give the bracketed phrase “inherently deadly” and give the bracketed definition of *inherently deadly* only if the object is a deadly weapon as a matter of law. (*People v. Stutelberg* (2018) 29 Cal.App.5th 314, 317–318 [240 Cal.Rptr.3d 156].)"
+      },
+      {
+        "text": "Give the bracketed portion that begins with “In deciding whether” if the object is not a weapon as a matter of law and is capable of innocent uses. (*People v. Aguilar* (1997) 16 Cal.4th 1023, 1028–1029 [68 Cal.Rptr.2d 655, 945 P.2d 1204]; *People v. Godwin* (1996) 50 Cal.App.4th 1562, 1573–1574 [58 Cal.Rptr.2d 545].)"
+      },
+      {
+        "text": "If determining whether the item is an inherently deadly weapon requires resolution of a factual issue, give both bracketed instructions."
+      },
+      {
+        "text": "In the definition of “personally uses,” the court may give the bracketed item 3 if the case involves an object that may be “fired.”"
+      },
+      {
+        "text": "If the case involves an issue of whether the defendant used the weapon “in the commission of” the offense, the court may give CALCRIM No. 3261, *While Committing a Felony: Defined—Escape Rule*. (See *People v. Jones* (2001) 25 Cal.4th 98, 109 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancements. Pen. Code, §§ 667.61(e)(3), 1192.7(c)(23), 12022(b)(1) & (2), 12022.3."
+      },
+      {
+        "text": "• “Deadly Weapon” Defined. *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029; *People v. Beasley* (2003) 105 Cal.App.4th 1078, 1086–1087 [130 Cal.Rptr.2d 717]."
+      },
+      {
+        "text": "• Objects With Innocent Uses. *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029; *People v. Godwin, supra,* 50 Cal.App.4th at pp. 1573–1574."
+      },
+      {
+        "text": "• Personally Uses. *People v. Bland* (1995) 10 Cal.4th 991, 997 [43 Cal.Rptr.2d 77, 898 P.2d 391]; *People v. Johnson* (1995) 38 Cal.App.4th 1315, 1319–1320 [45 Cal.Rptr.2d 602]; see also Pen. Code, § 1203.06(b)(2)."
+      },
+      {
+        "text": "• “In Commission of” Felony. *People v. Jones, supra,* 25 Cal.4th at pp. 109–110; *People v. Masbruch, supra,* 13 Cal.4th at p. 1014; *People v. Taylor, supra,* 32 Cal.App.4th at p. 582."
+      },
+      {
+        "text": "• May Not Receive Enhancement for Both Using and Being Armed With One Weapon. *People v. Wischemann* (1979) 94 Cal.App.3d 162, 175–176 [156 Cal.Rptr. 386]."
+      },
+      {
+        "text": "• “Inherently Deadly” Defined. *People v. Perez* (2018) 4 Cal.5th 1055, 1065 [232 Cal.Rptr.3d 51, 416 P.3d 42]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029."
+      },
+      {
+        "text": "• Examples of Noninherently Deadly Weapon. *People v. Aledamat* (2019) 8 Cal.5th 1, 6 [251 Cal.Rptr.3d 371, 447 P.3d 277] [box cutter]; *People v. Perez, supra,* 4 Cal.5th at p. 1065 [vehicle]; *People v. McCoy* (1944) 25 Cal.2d 177, 188 [153 P.2d 315] [knife]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "No Duty to Instruct on “Lesser Included Enhancements”"
+      },
+      {
+        "text": "“[A] trial court’s sua sponte obligation to instruct on lesser included offenses does not encompass an obligation to instruct on ‘lesser included enhancements.’ ” (*People v. Majors* (1998) 18 Cal.4th 385, 411 [75 Cal.Rptr.2d 684, 956 P.2d 1137].) Thus, if the defendant is charged with an enhancement for use of a weapon, the court does not need to instruct on an enhancement for being armed."
+      },
+      {
+        "heading": true,
+        "text": "Weapon Displayed Before Felony Committed"
+      },
+      {
+        "text": "Where a weapon is displayed initially and the underlying crime is committed some time after the initial display, the jury may conclude that the defendant used the weapon in the commission of the offense if the display of the weapon was “at least . . . an aid in completing an essential element of the subsequent crimes . . . .” (*People v. Masbruch, supra,* 13 Cal.4th at p. 1014.)"
+      },
+      {
+        "heading": true,
+        "text": "Weapon Used Did Not Cause Death"
+      },
+      {
+        "text": "In *People v. Lerma* (1996) 42 Cal.App.4th 1221, 1224 [50 Cal.Rptr.2d 580], the defendant stabbed the victim and then kicked him. The coroner testified that the victim died as a result of blunt trauma to the head and that the knife wounds were not life threatening. *(Ibid.)* The court upheld the finding that the defendant had used a knife during the murder even though the weapon was not the cause of death. (*Id.* at p. 1226.) The court held that in order for a weapon to be used in the commission of the crime, there must be “a nexus between the offense and the item at issue, [such] that the item was an instrumentality of the crime.” *(Ibid.)* [ellipsis and brackets omitted] Here, the court found that “[t]he knife was instrumental to the consummation of the murder and was used to advantage.” *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "“One Strike” Law and Use Enhancement"
+      },
+      {
+        "text": "Where the defendant’s use of a weapon has been used as a basis for applying the “one strike” law for sex offenses, the defendant may not also receive a separate enhancement for use of a weapon in commission of the same offense. (*People v. Mancebo* (2002) 27 Cal.4th 735, 754 [117 Cal.Rptr.2d 550, 41 P.3d 556].)"
+      },
+      {
+        "heading": true,
+        "text": "Assault and Use of Deadly Weapon Enhancement"
+      },
+      {
+        "text": "“A conviction [for assault with a deadly weapon or by means of force likely to cause great bodily injury] under [Penal Code] section 245, subdivision (a)(1) cannot be enhanced pursuant to section 12022, subdivision (b).” (*People v. Summersville* (1995) 34 Cal.App.4th 1062, 1070 [40 Cal.Rptr.2d 683].)"
+      },
+      {
+        "heading": true,
+        "text": "Robbery and Use of Deadly Weapon Enhancement"
+      },
+      {
+        "text": "A defendant may be convicted and sentenced for both robbery and an enhancement for use of a deadly weapon during the robbery. (*In re Michael L.* (1985) 39 Cal.3d 81, 88 [216 Cal.Rptr. 140, 702 P.2d 222].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

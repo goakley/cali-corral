@@ -1,0 +1,95 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3010",
+  "title": "Eavesdropping or Recording Confidential Communication (Pen. Code, § 632(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2171,
+      2172
+    ]
+  },
+  "revision_line": "New March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with using an electronic device to eavesdrop on or to record a confidential communication [in violation of Penal Code section 632(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant intentionally listened to or recorded a (conversation/communication);",
+    "2. When the defendant listened to or recorded the (conversation/communication), (he/she) used (an/a) (electronic amplifying/recording) device;",
+    "3. When the defendant listened to or recorded the (conversation/communication), (he/she) did not have the consent of all the individuals who were party to the (conversation/communication);",
+    "4. At least one of the [other] individuals who were party to the (conversation/communication) intended that the (conversation/communication) be confidential;",
+    "[AND]",
+    "5. The individual[s] who intended that the (conversation/communication) be confidential had objectively reasonable grounds to believe that the (conversation/communication) would be confidential(;/.)",
+    "[AND]",
+    "<Give element 6 if evidence shows defendant may have been an officer, agent, or employee of a public communications utility.>",
+    "[6. The defendant was not an officer, agent, or employee of a public communications utility company acting in the lawful performance of (his/her) duties.]",
+    "[A *confidential communication* does not include a communication made in a public gathering or in any legislative, judicial, executive, or administrative proceeding open to the public, or in any other circumstance in which the parties to the communication may reasonably expect that the communication may be overheard or recorded.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 632(a)."
+      },
+      {
+        "text": "• Confidential Communication. Pen. Code, § 632(c); *Flanagan v. Flanagan* (2002) 27 Cal.4th 766, 774–776 [117 Cal.Rptr.2d 574, 41 P.3d 575]."
+      },
+      {
+        "text": "• Exceptions. Pen. Code, § 632(e) & (f)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Intent to Record Confidential Communication"
+      },
+      {
+        "text": "In *People v. Superior Court of Los Angeles County* (1969) 70 Cal.2d 123, 133 [74 Cal.Rptr. 294, 449 P.2d 230], the California Supreme Court interpreted a prior but similar version of Penal Code section 632 and held that the recording of a confidential communication must be intentional."
+      },
+      {
+        "heading": true,
+        "text": "Prostitution and Reasonable Expectation of Privacy"
+      },
+      {
+        "text": "“A person’s participation in sexual activities at a private residence in exchange for money, without more, does not necessarily cause them to expect that their words and actions will be recorded without their consent.” (*People v. Lyon* (2021) 61 Cal.App.5th 237, 247 [275 Cal.Rptr.3d 581].)"
+      },
+      {
+        "heading": true,
+        "text": "Wiretapping"
+      },
+      {
+        "text": "Wiretapping is the interception of communications by an unauthorized connection to the transmission line. (See Pen. Code, § 631.) Penal Code section 632 does not prohibit wiretapping but instead prohibits the interception of communications with equipment that is not connected to a transmission line. (See *People v. Ratekin* (1989) 212 Cal.App.3d 1165, 1168 [261 Cal.Rptr. 143].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 114
+  },
+  "warnings": []
+}

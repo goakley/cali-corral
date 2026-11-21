@@ -1,0 +1,67 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3001",
+  "title": "Failure to Appear While on Bail (Pen. Code, § 1320.5)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2167,
+      2168
+    ]
+  },
+  "revision_line": "New March 2018",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with failing to appear while out of custody on bail [in violation of Penal Code section 1320.5].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was (charged with/convicted of) the commission of a felony in (this case/case number ______);",
+    "2. The defendant was released from custody on bail in (this/that) case;",
+    "3. The defendant was required to appear in court at a specific date, time and place in (this/that) case;",
+    "4. The defendant willfully failed to appear in court as required;",
+    "AND",
+    "5. When the defendant willfully failed to appear in court as required, (he/she) did so in order to evade the process of the court.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "[If you find the defendant willfully failed to appear within 14 days of the date assigned for appearance, you may, but are not required to, infer that the failure to appear was for the purpose of evading the process of the court.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 1320.5."
+      },
+      {
+        "text": "• Willfully defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Specific intent. *People v. Sutton* (1993) 19 Cal.App.4th 795, 799–800 [23 Cal.Rptr.2d 632]; *People v. Wesley* (1988) 198 Cal.App.3d 519 [243 Cal.Rptr. 785]."
+      },
+      {
+        "text": "• Mandatory presumption unconstitutional unless instructed as permissive inference. *People v. Forrester* (1994) 30 Cal.App.4th 1697, 1703 [37 Cal.Rptr.2d 19]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

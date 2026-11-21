@@ -1,0 +1,61 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2703",
+  "title": "Violation of Court Order: Protective Order or Stay Away—Act of Violence (Pen. Code, §§ 166(c)(4), 273.6(d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1968,
+      1969
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of violating a court order, you must then decide whether the People have proved that the defendant’s conduct involved an act of violence [or a credible threat of violence].",
+    "[A person makes a *credible threat of violence* when he or she willfully and maliciously communicates a threat to a victim of or a witness to the conduct that violated a court order. The threat must be to use force or violence against that person or that person’s family. The threat must be made with the intent and the apparent ability to carry out the threat in a way to cause the target of the threat to reasonably fear for his or her safety or the safety of his or her immediate family.]",
+    "[Someone commits an act *willfully* when he or she does it willingly or on purpose.]",
+    "[Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to disturb, defraud, annoy, or injure someone else.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If the defendant is charged with a felony for violating a court order based on a prior conviction and an act of violence or credible threat of violence, the court has a sua sponte duty to instruct on this sentencing factor."
+      },
+      {
+        "text": "This instruction must be given with CALCRIM No. 2701, *Violation of Court Order: Protective Order or Stay Away*."
+      },
+      {
+        "text": "The court must provide the jury with a verdict form on which the jury will indicate if the prosecution has or has not been proved the allegation."
+      },
+      {
+        "text": "The court must also give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, unless the defendant has stipulated to the conviction. If the court has granted a bifurcated trial on the prior conviction, use CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 166(c)(4), 273.6(d)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

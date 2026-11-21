@@ -1,0 +1,157 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1160",
+  "title": "Indecent Exposure (Pen. Code, § 314)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1011,
+      1014
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with indecent exposure [in violation of Penal Code section 314].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully exposed (his/her) genitals in the presence of another person or persons who might be offended or annoyed by the defendant’s actions;",
+    "[AND]",
+    "2. When the defendant exposed (himself/herself), (he/she) acted lewdly by intending to direct public attention to (his/her) genitals for the purpose of sexually arousing or gratifying (himself/herself) or another person, or sexually offending another person(;/.)",
+    "<Give element 3 if defendant charged with entering inhabited dwelling.>",
+    "[AND]",
+    "[3. The willful and lewd exposure occurred after the defendant had entered an inhabited (dwelling house/part of a building/trailer coach) without consent.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[It is not required that another person actually see the exposed genitals.]",
+    "[A (house/part of a building/trailer coach) is *inhabited* if someone uses it as a dwelling, whether or not someone is inside at the time of the alleged indecent exposure.]",
+    "[A (house/part of a building/trailer coach) is *inhabited* if someone used it as a dwelling and left only because a natural or other disaster caused him or her to leave.]",
+    "[A (house/part of a building/trailer coach) is not *inhabited* if the former residents have moved out and do not intend to return, even if some personal property remains inside.]",
+    "[A *house* includes any (structure/garage/office/______ <insert other description>) that is attached to the house and functionally connected with it.]",
+    "[A *trailer coach* is a vehicle without its own mode of power, designed to be pulled by a motor vehicle. It is made for human habitation or human occupancy and for carrying property.]",
+    "[A *trailer coach* is [also] a park trailer that is intended for human habitation for recreational or seasonal use only and",
+    "1. has a floor area of no more than 400 square feet;",
+    "2. is not more than 14 feet wide;",
+    "3. is built on a single chassis;",
+    "AND",
+    "4. may only be transported on public highways with a permit.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give element 3 if the defendant is charged with entering an inhabited dwelling."
+      },
+      {
+        "text": "If the defendant is charged with a prior conviction for indecent exposure give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*, unless the defendant has stipulated to the truth of the prior conviction. (See *People v. Merkley* (1996) 51 Cal.App.4th 472, 476 [58 Cal.Rptr.2d 21]; *People v. Bouzas* (1991) 53 Cal.3d 467, 477–480 [279 Cal.Rptr. 847, 807 P.2d 1076]; *People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins, “It is not required that another person actually see” on request if the evidence shows that no one actually saw the defendant’s genitals. (*People v. Carbajal* (2003) 114 Cal.App.4th 978, 986 [8 Cal.Rptr.3d 206].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 314."
+      },
+      {
+        "text": "• Affront Must Be Sexual. *In re Dallas W.* (2000) 85 Cal.App.4th 937, 939 [102 Cal.Rptr.2d 493]; *People v. Archer* (2002) 98 Cal.App.4th 402, 406 [119 Cal.Rptr.2d 783] [“sexual affront” means to sexually insult or offend another person]."
+      },
+      {
+        "text": "• Exposing Person Must Have Intent to Expose Genitals. *People v. Massicot* (2002) 97 Cal.App.4th 920, 926–928 [118 Cal.Rptr.2d 705]."
+      },
+      {
+        "text": "• Must Expose to Other Person But Other Person Need Not View. *People v. Carbajal* (2003) 114 Cal.App.4th 978, 986 [8 Cal.Rptr.3d 206]."
+      },
+      {
+        "text": "• Lewd Intent Defined. *In re Smith* (1972) 7 Cal.3d 362, 365–366 [102 Cal.Rptr. 335, 497 P.2d 807]."
+      },
+      {
+        "text": "• Lewd Intent Does Not Require That Genitals Be Touched. *People v. Rehmeyer* (1993) 19 Cal.App.4th 1758, 1766 [24 Cal.Rptr.2d 321]; see *People v. Meeker* (1989) 208 Cal.App.3d 358, 362 [256 Cal.Rptr. 79]."
+      },
+      {
+        "text": "• “Private Parts” Means Genitals. *People v. Massicot* (2002) 97 Cal.App.4th 920, 925, fn. 3 [118 Cal.Rptr.2d 705]; see *In re Smith* (1972) 7 Cal.3d 362, 366 [102 Cal.Rptr. 335, 497 P.2d 807]."
+      },
+      {
+        "text": "• Inhabitation Defined. See Pen. Code, § 459 [in context of burglary]."
+      },
+      {
+        "text": "• Trailer Coach Defined. Veh. Code, § 635; Health & Saf. Code, § 18009.3."
+      },
+      {
+        "text": "• House Not Inhabited is Former Residents Not Returning. *People v. Cardona* (1983) 142 Cal.App.3d 481, 483 [191 Cal.Rptr. 109]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Indecent Exposure. Pen. Code, §§ 664, 314; *People v. Rehmeyer* (1993) 19 Cal.App.4th 1758, 1766–1767 [24 Cal.Rptr.2d 321]; see also *People v. Finley* (1994) 26 Cal.App.4th 454, 456–459 [31 Cal.Rptr.2d 288] [attempted misdemeanor indecent exposure is not elevated to felony by recidivist provision of Pen. Code, § 314]."
+      },
+      {
+        "text": "Indecent exposure is a misdemeanor if the defendant does not have qualifying priors and the alleged event did not occur in an inhabited dwelling. (Pen. Code, § 314.) If the defendant is charged with one of the factors that elevates the offense to a felony, then the misdemeanor is a lesser included offense."
+      },
+      {
+        "text": "Soliciting anyone to engage in lewd or dissolute conduct in any public place (see Pen. Code, § 647(a)) is not a lesser included offense of indecent exposure under Penal Code section 314, subdivision 1. (*People v. Meeker* (1989) 208 Cal.App.3d 358, 361–362 [256 Cal.Rptr. 79] [following construction of “lewd or dissolute conduct” in *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256 [158 Cal.Rptr. 330, 599 P.2d 636]]; contra, *People v. Curry* (1977) 76 Cal.App.3d 181, 186–187 [142 Cal.Rptr. 649]; *People v. Swearington* (1977) 71 Cal.App.3d 935, 944 [140 Cal.Rptr. 5].) Burglary is also not a necessarily included offense of unlawful entry for indecent exposure. (*People v. Rehmeyer* (1993) 19 Cal.App.4th 1758, 1768–1769 [24 Cal.Rptr.2d 321].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Presence of Others"
+      },
+      {
+        "text": "“[A] conviction for indecent exposure under Penal Code section 314, subdivision 1 requires evidence that a defendant actually exposed his or her genitals in the presence of another person, but there is no concomitant requirement that such person must actually have seen the defendant’s genitals.” (*People v. Carbajal* (2003) 114 Cal.App.4th 978, 986 [8 Cal.Rptr.3d 206].)"
+      },
+      {
+        "heading": true,
+        "text": "Burglary"
+      },
+      {
+        "text": "Felony indecent exposure can be the underlying felony to support a burglary charge. (*People v. Rehmeyer* (1993) 19 Cal.App.4th 1758, 1767 [24 Cal.Rptr.2d 321].)"
+      },
+      {
+        "heading": true,
+        "text": "After Entering"
+      },
+      {
+        "text": "The statute does not require that the defendant expose himself or herself while still in the home. (See *People v. Mendoza* (2004) 118 Cal.App.4th 571, 575–576 [13 Cal.Rptr.3d 195] [discussing identical language in Pen. Code, § 647.6(a)].) It is sufficient if the defendant engaged in the conduct after entering the home and there is “a clear nexus between the residential entry and the . . . conduct.” (*Id.* at p. 576.)"
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 1701, *Burglary: Degrees*, for additional authority on “inhabited dwelling house.”"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

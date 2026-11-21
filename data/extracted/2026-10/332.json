@@ -1,0 +1,59 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "332",
+  "title": "Expert Witness Testimony",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      172,
+      173
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2018",
+  "revision_legend": null,
+  "body": [
+    "(A witness was/Witnesses were) allowed to testify as [an] expert[s] and to give [an] opinion[s]. You must consider the opinion[s], but you are not required to accept (it/them) as true or correct. The meaning and importance of any opinion are for you to decide. In evaluating the believability of an expert witness, follow the instructions about the believability of witnesses generally. In addition, consider the expert’s knowledge, skill, experience, training, and education, the reasons the expert gave for any opinion, and the facts or information on which the expert relied in reaching that opinion. You must decide whether information on which the expert relied was true and accurate.",
+    "You may disregard any opinion that you find unbelievable, unreasonable, or unsupported by the evidence.",
+    "[An expert witness may be asked a hypothetical question. A *hypothetical question* asks the witness to assume certain facts are true and to give an opinion based on the assumed facts. It is up to you to decide whether an assumed fact has been proved. If you conclude that an assumed fact is not true, consider the effect of the expert’s reliance on that fact in evaluating the expert’s opinion.]",
+    "[If the expert witnesses disagreed with one another, you should weigh each opinion against the others. You should examine the reasons given for each opinion and the facts or other matters on which each witness relied. You may also compare the experts’ qualifications.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "When expert testimony is received at trial, the court must sua sponte instruct the jury on evaluating the expert’s testimony. (Pen. Code, § 1127b.)"
+      },
+      {
+        "text": "Give the bracketed paragraph beginning, “An expert witness may be asked a hypothetical question,” if an expert witness responded to a hypothetical question."
+      },
+      {
+        "text": "Give the bracketed paragraph beginning, “If the expert witnesses disagreed with one another,” if there is conflicting expert testimony."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1127b."
+      },
+      {
+        "text": "• Inadmissible Case-Specific Hearsay Not Basis for Expert Testimony. *People v. Sanchez* (2016) 63 Cal.4th 665, 684–686 [204 Cal.Rptr.3d 102, 374 P.3d 320]; *People v. Vega-Robles* (2017) 9 Cal. App. 5th 382, 416 [215 Cal.Rptr 3d 284]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

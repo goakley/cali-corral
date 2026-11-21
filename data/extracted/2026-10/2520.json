@@ -1,0 +1,142 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2520",
+  "title": "Carrying Concealed Firearm on Person (Pen. Code, § 25400(a)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1759,
+      1761
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, March 2021",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully carrying a concealed firearm on (his/her) person [in violation of Penal Code section 25400(a)(2)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant carried on (his/her) person a firearm capable of being concealed on the person;",
+    "2. The defendant knew that (he/she) was carrying a firearm;",
+    "AND",
+    "3. It was substantially concealed on the defendant’s person.",
+    "[A *firearm capable of being concealed on the person* is any device designed to be used as a weapon, from which a projectile is expelled or discharged through a barrel by the force of an explosion or other form of combustion and that has a barrel less than 16 inches in length. [A *firearm capable of being concealed on the person* also includes any device that has a barrel 16 inches or more in length that is designed to be interchanged with a barrel less than 16 inches in length.] [A *firearm* also includes any rocket, rocket-propelled projectile launcher, or similar device containing any explosive or incendiary material, whether or not the device is designed for emergency or distress signaling purposes.]]",
+    "[The term *firearm capable of being concealed on the person* is defined in another instruction.]",
+    "[A firearm does not need to be in working order if it was designed to shoot and appears capable of shooting.]",
+    "[Firearms carried openly in belt holsters are not concealed.]",
+    "<Defense: Statutory Exemption>",
+    "[The defendant did not unlawfully carry a concealed firearm if ______ <insert defense from Pen. Code, § 25450, 25510, 25525, 25600, or 25605>. The People have the burden of proving beyond a reasonable doubt that the defendant unlawfully carried a concealed firearm. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. If the defendant is charged with any of the sentencing factors in Penal Code section 25400(c), the court must also give the appropriate instruction from CALCRIM Nos. 2540–2546. (*People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690].)"
+      },
+      {
+        "text": "The court should give the bracketed definition of “firearm capable of being concealed on the person” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "Penal Code section 25400(a) prohibits carrying a concealed “pistol, revolver, or other firearm capable of being concealed upon the person.” Penal Code section 16530 provides a single definition for this class of weapons. Thus, the committee has chosen to use solely the all-inclusive phrase “firearm capable of being concealed on the person.”"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Exemptions and a justification for carrying a concealed firearm are stated in Penal Code sections 25600, 25605, 25525, 25510, and 25450. If sufficient evidence has been presented to raise a reasonable doubt about the existence of a legal basis for the defendant’s actions, the court has a sua sponte duty to give the bracketed instruction on the defense. (See *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067] [discussing affirmative defenses generally and the burden of proof].) Insert the appropriate language in the bracketed paragraph that begins, “The defendant did not unlawfully . . . .”"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 2540, *Carrying Firearm: Specified Convictions*."
+      },
+      {
+        "text": "CALCRIM No. 2541, *Carrying Firearm: Stolen Firearm*."
+      },
+      {
+        "text": "CALCRIM No. 2542, *Carrying Firearm: Active Participant in Criminal Street Gang*."
+      },
+      {
+        "text": "CALCRIM No. 2543, *Carrying Firearm: Not in Lawful Possession*."
+      },
+      {
+        "text": "CALCRIM No. 2544, *Carrying Firearm: Possession of Firearm Prohibited Due to Conviction, Court Order, or Mental Illness*."
+      },
+      {
+        "text": "CALCRIM No. 2545, *Carrying Firearm: Not Registered Owner*."
+      },
+      {
+        "text": "CALCRIM No. 2546, *Carrying Concealed Firearm: Not Registered Owner and Weapon Loaded*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 25400(a)(2)."
+      },
+      {
+        "text": "• Firearm Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• Knowledge Required. *People v. Jurado* (1972) 25 Cal.App.3d 1027, 1030–1031 [102 Cal.Rptr. 498]; *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]."
+      },
+      {
+        "text": "• Concealment Required. *People v. Nelson* (1960) 185 Cal.App.2d 578, 580–581 [8 Cal.Rptr. 288]."
+      },
+      {
+        "text": "• Factors in Pen. Code, § 25400(c) Sentencing Factors, Not Elements. *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690]."
+      },
+      {
+        "text": "• Justifications and Exemptions. Pen. Code, §§ 25600, 25605, 25525, 25510, 25450."
+      },
+      {
+        "text": "• Need Not Be Operable. *People v. Marroquin* (1989) 210 Cal.App.3d 77, 82 [258 Cal.Rptr. 290]."
+      },
+      {
+        "text": "• Substantial Concealment. *People v. Wharton* (1992) 5 Cal.App.4th 72, 75 [6 Cal.Rptr.2d 673] [interpreting now-repealed Pen. Code, § 12020(a)(4)]; *People v. Fuentes* (1976) 64 Cal.App.3d 953, 955 [134 Cal.Rptr. 885] [same]."
+      },
+      {
+        "text": "• Statute Is Not Unconstitutionally Vague. *People v. Hodges* (1999) 70 Cal.App.4th 1348, 1355 [83 Cal.Rptr.2d 619]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "If the defendant is charged with one of the sentencing factors that makes this offense a felony, then the misdemeanor offense is a lesser included offense. The statute defines as a misdemeanor all violations of the statute not covered by the specified sentencing factors. (Pen. Code, § 25400(c)(7).) The court must provide the jury with a verdict form on which the jury will indicate if the sentencing factor has been proved. If the jury finds that the sentencing factor has not been proved, then the offense should be set at a misdemeanor."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Multiple Convictions Prohibited"
+      },
+      {
+        "text": "A single act of carrying a concealed firearm cannot result in multiple convictions under different subdivisions of Penal Code section 25400(a). (*People v. Duffy* (2020) 51 Cal.App.5th 257, 266 [265 Cal.Rptr.3d 59].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

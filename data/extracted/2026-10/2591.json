@@ -1,0 +1,130 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2591",
+  "title": "Possession of Ammunition by Person Prohibited From Possessing Firearm Due to Conviction or Mental Illness (Pen. Code, § 30305(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1839,
+      1842
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully possessing ammunition [in violation of Penal Code section 30305(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (owned/possessed/had under (his/her) custody or control) ammunition;",
+    "2. The defendant knew (he/she) (owned/possessed/had under (his/her) custody or control) the ammunition;",
+    "[AND]",
+    "<Alternative 3A—prohibited due to mental illness or SVP status>",
+    "[3. The defendant ______ <insert description from Welf. & Inst. Code, § 8100 or 8103>.]",
+    "<Alternative 3B—prohibited due to conviction. Give both element 3B and element 4 in cases involving misdemeanor convictions or juvenile findings. For all other cases involving prior convictions, give 3B only.>",
+    "[3. The defendant had previously been convicted of (a felony/a misdemeanor/two offenses of brandishing a firearm/the crime of ______ <insert misdemeanor offense from Pen. Code, § 29805 or 23515, or a juvenile finding from Pen. Code, § 29820>)(;/.)]",
+    "[AND",
+    "4. (The previous conviction was within 10 years of the date the defendant possessed the ammunition./The defendant was less than 30 years old at the time (he/she) possessed the ammunition.)]",
+    "*Ammunition* means a bullet, cartridge, magazine, clip, speed loader, autoloader, or projectile capable of being fired from a firearm with a deadly consequence. *Ammunition* includes reloaded ammunition.",
+    "[A juvenile court finding is the same as a conviction.]",
+    "[A conviction of ______ <insert name of offense from other state or federal offense> is the same as a conviction for a felony.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The defendant and the People have stipulated, or agreed, that the defendant was previously convicted of a (a felony/a misdemeanor/two offenses of brandishing a firearm/the crime of ______ <insert misdemeanor offense from Pen. Code, § 29805 or 23515, or a juvenile finding from Pen. Code, § 29820>). This stipulation means that you must accept this fact as proved.]",
+    "<Alternative A—limiting instruction when stipulation as to conviction>",
+    "[Do not consider this fact for any other purpose [except for the limited purpose of ______ <insert other permitted purpose, e.g., determining the defendant’s credibility>]. Do not speculate about or discuss the nature of the conviction.]",
+    "<Alternative B—limiting instruction when no stipulation as to conviction>",
+    "[You may consider evidence, if any, that the defendant was previously convicted of a crime only in deciding whether the People have proved this element of the charged crime [or for the limited purpose of ______ <insert other permitted purpose, e.g., assessing defendant’s credibility>]. Do not consider such evidence for any other purpose.]",
+    "<Defense: Justifiable Possession>",
+    "[If you conclude that the defendant possessed ammunition, that possession was not unlawful if the defendant can prove that (he/she) was justified in possessing the ammunition. In order to establish this defense, the defendant must prove that:",
+    "1. (He/She) (found the ammunition/took the ammunition from a person who was committing a crime against the defendant);",
+    "AND",
+    "2. (He/She) possessed the ammunition no longer than was necessary to deliver or transport the ammunition to a law enforcement agency for that agency to dispose of the ammunition.",
+    "The defendant has the burden of proving each element of this defense by a preponderance of the evidence. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that each element of the defense is true.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give element 4 only if the prosecution alleges that the defendant was prohibited from possessing firearms under Penal Code section 29805, possession within 10 years of a specified misdemeanor conviction, or Penal Code section 29820, possession by someone under 30 years old with a specified juvenile finding."
+      },
+      {
+        "text": "If the defendant has not stipulated to the conviction, do not give the bracketed paragraph that begins, “The defendant and the People have stipulated,” and insert the full name of the offense in element 3B."
+      },
+      {
+        "text": "If the defendant does stipulate to the conviction, the court must give the bracketed paragraph that begins, “The defendant and the People have stipulated,” and in element 3B select the word “felony” or “misdemeanor.” The court must sanitize all references to the conviction to prevent disclosure of the nature of the conviction to the jury. (*People v. Sapp* (2003) 31 Cal.4th 240, 261 [2 Cal.Rptr.3d 554, 73 P.3d 433]; *People v. Valentine* (1986) 42 Cal.3d 170, 173 [228 Cal.Rptr. 25, 720 P.2d 913].) If the defendant agrees, the court must not read the portion of the information describing the nature of the conviction. Likewise, the court must ensure that the verdict forms do not reveal the nature of the conviction."
+      },
+      {
+        "text": "On request, the court should give the limiting instruction regarding the evidence of the conviction. (*People v. Valentine, supra,* 42 Cal.3d at p. 182, fn. 7.) There is no sua sponte duty to give the limiting instruction, and the defense may prefer that no limiting instruction be given. (*People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380].) If the defendant does not stipulate to the conviction, give alternative A. If the defendant does stipulate, give alternative B."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Penal Code section 30305(c) states that a violation of the statute is “justifiable” if the listed conditions are met. This is an affirmative defense, and the defense bears the burden of establishing the defense by a preponderance of the evidence. *(Ibid.)* If sufficient evidence has been presented, the court has a sua sponte duty to give the bracketed paragraph on the defense of justifiable possession. This defense only applies to persons “prohibited from possessing any ammunition or reloaded ammunition solely because that person is prohibited from owning or possessing a firearm only by virtue of [now-repealed] Section 12021.” (Pen. Code, § 30305(b).)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 30305(a)."
+      },
+      {
+        "text": "• Ammunition Defined. Pen. Code, § 16150."
+      },
+      {
+        "text": "• Knowledge. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]."
+      },
+      {
+        "text": "• Justifiable Possession. Pen. Code, § 30305(b)."
+      },
+      {
+        "text": "• Limiting Instruction on Prior Conviction. *People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913]; *People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. See *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6 [98 Cal.Rptr.2d 466, 4 P.3d 297]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

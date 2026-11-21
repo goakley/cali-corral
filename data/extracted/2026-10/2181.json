@@ -1,0 +1,145 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2181",
+  "title": "Evading Peace Officer (Veh. Code, §§ 2800.1(a), 2800.2)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1555,
+      1557
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, September 2018, March 2023",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with evading a peace officer [in violation of Vehicle Code section[s] (2800.1(a)/[or] 2800.2)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. A peace officer driving a motor vehicle was pursuing the defendant;",
+    "2. The defendant, who was also driving a motor vehicle, willfully fled from, or tried to elude, the officer, intending to evade the officer;",
+    "<Give the appropriate paragraph[s] of element 3 when the defendant is charged with a violation of Vehicle Code section 2800.2>",
+    "[3A. During the pursuit, the defendant drove with willful or wanton disregard for the safety of persons or property;]",
+    "[OR]",
+    "[3B. During the pursuit, the defendant caused damage to property while driving;]",
+    "[OR]",
+    "[3C. During the pursuit, the defendant committed three or more violations, each of which would make the defendant eligible for a traffic violation point;]",
+    "AND",
+    "[3/4]. All of the following were true:",
+    "(a) There was at least one lighted red lamp visible from the front of the peace officer’s vehicle;",
+    "(b) The defendant either saw or reasonably should have seen the lamp;",
+    "(c) The peace officer’s vehicle was sounding a siren as reasonably necessary;",
+    "(d) The peace officer’s vehicle was distinctively marked;",
+    "(d) AND",
+    "(e) The peace officer was wearing a distinctive uniform.",
+    "[A person employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[A person acts with *wanton disregard for safety* when (1) he or she is aware that his or her actions present a substantial and unjustifiable risk of harm, and (2) he or she intentionally ignores that risk. The person does not, however, have to intend to cause damage.]",
+    "[______ <insert traffic violations alleged> are each assigned a traffic violation point.]",
+    "A vehicle is *distinctively marked* if it has features that are reasonably noticeable to other drivers, including a red lamp, siren, and at least one other feature that makes it look different from vehicles that are not used for law enforcement purposes.",
+    "A *distinctive uniform* means clothing adopted by a law enforcement agency to identify or distinguish members of its force. The uniform does not have to be complete or of any particular level of formality. However, a badge, without more, is not enough."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    6.3,
+    16.0,
+    7.0,
+    16.0,
+    6.3,
+    16.0,
+    1.7,
+    30.0,
+    29.3,
+    30.7,
+    29.3,
+    29.3,
+    30.7,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The jury must determine whether a peace officer was pursuing the defendant. (*People v. Flood* (1998) 18 Cal.4th 470, 482 [76 Cal.Rptr.2d 180, 957 P.2d 869].) The court must instruct the jury in the appropriate definition of “peace officer” from the statute. (*Ibid.*) It is an error for the court to instruct that the witness is a peace officer as a matter of law. (*Ibid.* [instruction that “Officer Bridgeman and Officer Gurney are peace officers” was error].) If the witness is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the witness is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "On request, the court must give CALCRIM No. 3426, *Voluntary Intoxication*, if there is sufficient evidence of voluntary intoxication to negate the intent to evade. (*People v. Finney* (1980) 110 Cal.App.3d 705, 712 [168 Cal.Rptr. 80].)"
+      },
+      {
+        "text": "On request, give CALCRIM No. 2241, *Driver and Driving Defined*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, §§ 2800.1(a), 2800.2."
+      },
+      {
+        "text": "• Willful or Wanton Disregard. *People v. Schumacher* (1961) 194 Cal.App.2d 335, 339–340 [14 Cal.Rptr. 924]."
+      },
+      {
+        "text": "• Three Violations or Property Damage as Wanton Disregard—Definitional. *People v. Taylor* (2018) 19 Cal.App.5th 1195, 1202–1203 [228 Cal.Rptr.3d 575]; *People v. Pinkston* (2003) 112 Cal.App.4th 387, 392–393 [5 Cal.Rptr.3d 274]."
+      },
+      {
+        "text": "• Distinctively Marked Vehicle. *People v. Hudson* (2006) 38 Cal.4th 1002, 1010–1011 [44 Cal.Rptr.3d 632, 136 P.3d 168]."
+      },
+      {
+        "text": "• Distinctive Uniform. *People v. Estrella* (1995) 31 Cal.App.4th 716, 724 [37 Cal.Rptr.2d 383]; *People v. Mathews* (1998) 64 Cal.App.4th 485, 491 [75 Cal.Rptr.2d 289]."
+      },
+      {
+        "text": "• Jury Must Determine Status as Peace Officer. *People v. Flood, supra,* 18 Cal.4th at p. 482."
+      },
+      {
+        "text": "• Red Lamp, Siren, Additional Distinctive Feature of Car, and Distinctive Uniform Must Be Proved. *People v. Hudson, supra,* 38 Cal.4th at p. 1013; *People v. Acevedo* (2003) 105 Cal.App.4th 195, 199 [129 Cal.Rptr.2d 270]; *People v. Brown* (1989) 216 Cal.App.3d 596, 599–600 [264 Cal.Rptr. 908]."
+      },
+      {
+        "text": "• Defendant Need Not Receive Violation Points for Conduct. *People v. Leonard* (2017) 15 Cal.App.5th 275, 281 [222 Cal.Rptr3d 868]."
+      },
+      {
+        "text": "• Statute Does Not Require Lawful Performance of a Duty. *People v. Fuentes* (2022) 78 Cal.App.5th 670, 679–680 [294 Cal.Rptr.3d 43]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Misdemeanor Evading a Pursuing Peace Officer. Veh. Code, § 2800.1; *People v. Springfield* (1993) 13 Cal.App.4th 1674, 1680–1681 [17 Cal.Rptr.2d 278]."
+      },
+      {
+        "text": "• Failure to Yield. Veh. Code, § 21806; *People v. Diaz* (2005) 125 Cal.App.4th 1484, 1491 [23 Cal.Rptr.3d 653]. (Lesser included offenses may not be used for the requisite “three or more violations.”)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Inherently Dangerous Felony"
+      },
+      {
+        "text": "A violation of Vehicle Code section 2800.2 is not an inherently dangerous felony supporting a felony murder conviction. (*People v. Howard* (2005) 34 Cal.4th 1129, 1139 [23 Cal.Rptr.3d 306, 104 P.3d 107].)"
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 2182, *Evading Peace Officer: Misdemeanor*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

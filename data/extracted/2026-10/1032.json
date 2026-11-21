@@ -1,0 +1,108 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1032",
+  "title": "Sodomy of an Intoxicated Person (Pen. Code, § 286(i))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      858,
+      859
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2018",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sodomy of a person while that person was intoxicated [in violation of Penal Code section 286(i)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed an act of sodomy with another person;",
+    "2. The effect of (a/an) (intoxicating/anesthetic/controlled) substance prevented the other person from resisting;",
+    "AND",
+    "3. The defendant knew or reasonably should have known that the effect of that substance prevented the other person from resisting.",
+    "*Sodomy* is any penetration, no matter how slight, of the anus of one person by the penis of another person. [Ejaculation is not required.]",
+    "A person is *prevented from resisting* if he or she is so intoxicated that he or she cannot give legal consent. In order to give legal consent, a person must be able to exercise reasonable judgment. In other words, the person must be able to understand and weigh the physical nature of the act, its moral character, and probable consequences. Legal consent is consent given freely and voluntarily by someone who knows the nature of the act involved.",
+    "[______ <If appropriate, insert controlled substance[s]> (is/are) [a] controlled substance[s].]",
+    "<Defense: Reasonable Belief Capable of Consent>",
+    "[The defendant is not guilty of this crime if (he/she) actually and reasonably believed that the other person was capable of consenting to the act, even if that belief was wrong. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the other person was capable of consenting. If the People have not met this burden, you must find the defendant not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "A space is provided to identify controlled substances if the parties agree that there is no issue of fact."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1031, *Sodomy in Concert*, may be given in conjunction with this instruction if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 286(i); *People v. Avila* (2000) 80 Cal.App.4th 791, 802–803 [95 Cal.Rptr.2d 651]."
+      },
+      {
+        "text": "• Anesthetic Effect Defined. *People v. Avila* (2000) 80 Cal.App.4th 791, 798–799 [95 Cal.Rptr.2d 651]."
+      },
+      {
+        "text": "• Consent Defined. Pen. Code, § 261.6."
+      },
+      {
+        "text": "• Controlled Substances Defined. Health & Safety Code, §§ 11054–11058; see *People v. Avila* (2000) 80 Cal.App.4th 791, 798, fn. 7 [95 Cal.Rptr.2d 651]."
+      },
+      {
+        "text": "• Prevented From Resisting Defined. *People v. Lujano* (2017) 15 Cal.App.5th 187, 192–193 [223 Cal.Rptr.3d 105] [CALCRIM 1032 has correct definition]; *People v. Giardino* (2000) 82 Cal.App.4th 454, 465–466 [98 Cal.Rptr.2d 315][in context of rape]."
+      },
+      {
+        "text": "• Reasonable Belief in Capacity to Consent. *People v. Lujano* (2017) 15 Cal.App.5th 187, 191–192 [223 Cal.Rptr.3d 105]; *People v. Giardino* (2000) 82 Cal.App.4th 454, 471–472 [98 Cal.Rptr.2d 315]."
+      },
+      {
+        "text": "• Sodomy Defined. Pen. Code, § 286(a); see *People v. Singh* (1923) 62 Cal.App. 450, 452 [217 P. 121] [ejaculation is not required]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Attempted Sodomy of Intoxicated Person. Pen. Code, §§ 664, 286(i)."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1030, *Sodomy by Force, Fear, or Threats*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

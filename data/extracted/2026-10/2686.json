@@ -1,0 +1,115 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2686",
+  "title": "Refusal to Disperse: Riot, Rout, or Unlawful Assembly (Pen. Code, §§ 407, 409)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1947,
+      1949
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with refusal to disperse after being ordered to do so [in violation of Penal Code section 409].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was present at the location of (a/an) (riot[,]/[or] rout[,]/[or] unlawful assembly);",
+    "2. A public officer lawfully ordered the defendant to disperse;",
+    "[AND]",
+    "3. The defendant willfully remained present at the location of the (riot[,]/[or] rout[,]/[or] unlawful assembly) after the order to disperse(;/.)",
+    "<Give element 4 when instructing on the defense of being a public officer or person assisting an officer.>",
+    "[AND",
+    "4. The defendant was not a public officer or a person assisting an officer in attempting to disperse the (riot[,]/[or] rout[,]/[or] unlawful assembly).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "[A *riot* occurs when two or more people, acting together and without legal authority, disturb the public peace by using force or violence or by threatening to use force or violence with the immediate ability to carry out those threats.]",
+    "[A *rout* occurs when two or more people, assembled and acting together, make an attempt to commit or advance toward committing an act that would be a riot if actually committed.]",
+    "[An *unlawful* assembly occurs when two or more people assemble together (to commit a crime/[or] to do a lawful act in a violent manner).",
+    "[When two or more people assemble to do a lawful act in a violent manner, the assembly is not *unlawful* unless violence actually occurs or there is a clear and present danger that violence will occur immediately.]]",
+    "(A/An) ______ <insert description> is a *public officer*.",
+    "A public officer *lawfully warns people to disperse* when the officer directs them, in the name of the People of the State, to immediately disperse. The officer is not required to use any particular words. However, the words used must be sufficient to inform a reasonable person that the officer is acting in an official capacity and ordering people to leave the area. In addition, the officer must communicate the order in a reasonable way that ensures that the order is heard.",
+    "[The People do not have to prove that the defendant participated in the (riot[,]/[or] rout[,]/[or] unlawful assembly).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give element 4 if there is evidence that the defendant was a public officer or assisting a public officer."
+      },
+      {
+        "text": "Penal Code section 407 defines an “unlawful assembly” as two or more people assembled together “to do an unlawful act, or do a lawful act in a violent, boisterous, or tumultuous manner.” The Supreme Court has held that “the proscriptions of sections 407 and 408 on assemblies to do a lawful act must be limited to assemblies which are violent or which pose a clear and present danger of imminent violence.” (*In re Brown* (1973) 9 Cal.3d 612, 623 [108 Cal.Rptr. 465, 510 P.2d 1017]; see *Collins v. Jordan* (9th Cir. 1996) 110 F.3d 1363, 1371.) Because the assembly must in fact be violent or pose an immediate threat of violence, an assembly that is “boisterous or tumultuous” does not establish a violation of the statute. The committee has therefore eliminated these words from the instruction since they are archaic and potentially confusing."
+      },
+      {
+        "text": "The jury must determine whether the person who allegedly gave the order was a public officer. (See *People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “public officer” (e.g., in the case of “peace officer,” the court may state “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the person was a public officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)*"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The People do not have to prove” on request. (*In re Bacon* (1966) 240 Cal.App.2d 34, 49 [49 Cal.Rptr. 322].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 407, 409."
+      },
+      {
+        "text": "• Command to Disperse. Pen. Code, § 726. • Riot Defined. Pen. Code, § 404."
+      },
+      {
+        "text": "• Rout Defined. Pen. Code, § 406."
+      },
+      {
+        "text": "• Unlawful Assembly Defined. Pen. Code, § 407."
+      },
+      {
+        "text": "• Assembly for Lawful Act Requires Violence or Clear and Present Danger of Violence. *In re Brown* (1973) 9 Cal.3d 612, 623 [108 Cal.Rptr. 465, 510 P.2d 1017]; see *Collins v. Jordan* (9th Cir. 1996) 110 F.3d 1363, 1371."
+      },
+      {
+        "text": "• No Particular Manner of Warning Required. *In re Bacon* (1966) 240 Cal.App.2d 34, 50–51 [49 Cal.Rptr. 322]; *People v. Cipriani* (1971) 18 Cal.App.3d 299, 307–308 [95 Cal.Rptr. 722]; *In re Wagner* (1981) 119 Cal.App.3d 90, 105 [173 Cal.Rptr. 766]."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Penal Code Sections 409 and 416(a)"
+      },
+      {
+        "text": "Penal Code section 409 applies to any person remaining at an unlawful assembly following an order to disperse, whether or not that person is involved in the violent or illegal activity. (*Dubner v. City and Co. of San Francisco* (9th Cir. 2001) 266 F.3d 959, 967–968; *In re Bacon* (1966) 240 Cal.App.2d 34, 49 [49 Cal.Rptr. 322].) Refusal to disperse is also punishable under Penal Code section 416(a). Penal Code section 416(a) applies only to those who have the specific intent to commit violent or unlawful acts but does not require that the gathering meet the definition of riot, rout, or unlawful assembly. (*Dubner v. City and Co. of San Francisco* (2001) 266 F.3d 959, 967–968; *In re Wagner* (1981) 119 Cal.App.3d 90, 110–111 [173 Cal.Rptr. 766].) Use this instruction only for a charge of violating Penal Code section 409. If the defendant is charged under Penal Code section 416(a), give CALCRIM No. 2687, *Refusal to Disperse: Intent to Commit Unlawful Act*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

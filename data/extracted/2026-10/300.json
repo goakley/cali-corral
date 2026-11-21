@@ -1,0 +1,56 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "300",
+  "title": "All Available Evidence",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      147,
+      147
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "Neither side is required to call all witnesses who may have information about the case or to produce all physical evidence that might be relevant."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court is not required to give this instruction sua sponte; however, it should be given on request. (See generally Pen. Code, §§ 1093(f), 1127; *People v. Pitts* (1990) 223 Cal.App.3d 606, 880, 881 [273 Cal.Rptr. 757].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Simms* (1970) 10 Cal.App.3d 299, 313 [89 Cal.Rptr. 1]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1189–1190 [67 Cal.Rptr.3d 871]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Willful Suppression of or Failure to Obtain Evidence"
+      },
+      {
+        "text": "Willful suppression of evidence by the government constitutes a denial of a fair trial and of due process. (*People v. Noisey* (1968) 265 Cal.App.2d 543, 549–550 [71 Cal.Rptr. 339].) Likewise, willful failure by investigating officers to obtain evidence that would clear a defendant would amount to a denial of due process of law. (*Ibid.*) However, failure to look for evidence is different from suppressing known evidence and “the mere fact that investigating officers did not pursue every possible means of investigation of crime does not, standing alone, constitute denial of due process or suppression of evidence.” (*Ibid.*; see also *People v. Tuthill* (1947) 31 Cal.2d 92, 97–98 [187 P.2d 16], overruled on other grounds as noted by *People v. Balderas* (1985) 41 Cal.3d 144, 182 [222 Cal.Rptr. 184, 711 P.2d 480] [“[t]here is no compulsion on the prosecution to call any particular witness or to make any particular tests so long as there is fairly presented to the court the material evidence bearing upon the charge for which the defendant is on trial.”].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

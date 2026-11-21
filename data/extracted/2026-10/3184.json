@@ -1,0 +1,64 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3184",
+  "title": "Sex Offenses: Sentencing Factors—Using Force or Fear to Cause Minor to Engage in Commercial Sex Act (Pen. Code, § 236.1(c)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2273,
+      2274
+    ]
+  },
+  "revision_line": "New February 2014",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ <insert count[s] charging violation[s] of Penal Code section 236.1(c)> you must then decide whether[, for each crime,] the People have proved the additional allegation that when the defendant committed (that/those) crime[s], (he/she) used (force[,]/[or] fear[,]/[or] deceit[,]/[or] coercion[,]/[or] violence[,]/[or] duress[,]/[or] menace) [on]) ([or] threat of unlawful injury to) (the other person/[or] to someone else).",
+    "[*Duress* means a direct or implied threat of force, violence, danger, hardship, or retribution that is enough to cause a reasonable person to do [or submit to] something that he or she would not otherwise do [or submit to].",
+    "[*Duress* includes (a direct or implied threat to destroy, conceal, remove, confiscate, or possess any actual or purported passport or immigration document of the other person/[or] knowingly destroying, concealing, removing, confiscating, or possessing any actual or purported passport or immigration document of the other person).]",
+    "[*Menace* means a verbal or physical threat of harm[, including use of a deadly weapon]. The threat of harm may be express or implied.]",
+    "[*Coercion* includes any scheme, plan, or pattern intended to cause a person to believe that failing to perform an act would result in (serious harm to or physical restraint again someone else/[or] the abuse or threatened abuse of the legal process/[or] debt bondage/[or] providing or facilitating the possession of any controlled substance to impair the other person’s judgment).]",
+    "[*Serious harm* includes any harm, either physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the circumstances, to force a reasonable person of the same background and in the same circumstances to perform or to continue performing labor, services[, or commercial sex acts] in order to avoid that harm.]",
+    "[When you decide whether the defendant acted with (*duress*/[or] *coercion*), consider all of the circumstances, including the age of the other person, (his/her) relationship to the defendant [or defendant’s agent[s]], and the other person’s handicap or disability, if any.]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining this enhancement."
+      },
+      {
+        "text": "This instruction is based on the language of the statute effective November 7, 2012, and applies only to crimes committed on or after that date."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements and Definitions. Pen. Code, § 236.1(c)(2)."
+      },
+      {
+        "text": "• Menace Defined [in context of false imprisonment]. *People v. Matian* (1995) 35 Cal.App.4th 480, 484–486 [41 Cal.Rptr.2d 459]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

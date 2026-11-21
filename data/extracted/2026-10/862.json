@@ -1,0 +1,159 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "862",
+  "title": "Assault on Custodial Officer With Deadly Weapon or Force Likely to Produce Great Bodily Injury (Pen. Code, §§ 240, 245, 245.3)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      673,
+      676
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2013, September 2019, September 2020, March 2022, February 2025, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault with (force likely to produce great bodily injury/a deadly weapon) on a custodial officer [in violation of Penal Code section 245.3].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—force with weapon>",
+    "[1. The defendant willfully did an act with a deadly weapon that by its nature would directly and probably result in the application of force to a person;]",
+    "<Alternative 1B—force without weapon>",
+    "[1A. The defendant did an act that by its nature would directly and probably result in the application of force to a person, and",
+    "1B. The force used was likely to produce great bodily injury;]",
+    "2. The defendant did that act willfully;",
+    "3. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in the application of force to someone;",
+    "4. When the defendant acted, (he/she) had the present ability to apply force (likely to produce great bodily injury/with a deadly weapon) to a person;",
+    "5. When the defendant acted, the person assaulted was lawfully performing (his/her) duties as a custodial officer;",
+    "[AND]",
+    "6. When the defendant acted, (he/she) knew, or reasonably should have known, both that the person assaulted was a custodial officer and that (he/she) was performing (his/her) duties as a custodial officer(;/.)",
+    "<Give element 7 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "7. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "The People are not required to prove that the defendant actually intended to use force against someone when (he/she) acted.",
+    "No one needs to actually have been injured by defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was].",
+    "[Voluntary intoxication is not a defense to assault.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[A *deadly weapon* is any object, instrument, or weapon [that is inherently deadly or one] that is used in such a way that it is capable of causing and likely to cause death or great bodily injury.]",
+    "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it was designed.]",
+    "[In deciding whether an object is a deadly weapon, consider all the surrounding circumstances.]",
+    "[The term[s] (*great bodily injury/[and] deadly weapon)* (is/are) defined in another instruction to which you should refer.]",
+    "A *custodial officer* is someone who works for a law enforcement agency of a city or county, is responsible for maintaining custody of prisoners, and helps operate a local detention facility. [A (county jail/city jail/______ <insert other detention facility>) is a local detention facility.] [A custodial officer is not a peace officer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    16.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 7 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "In addition, the court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (*People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) If lawful performance is an issue, give the appropriate portions of CALCRIM No. 2671, *Lawful Performance: Custodial Officer*."
+      },
+      {
+        "text": "Give element 1A if it is alleged the assault was committed with a deadly weapon. Give element 1B if it is alleged that the assault was committed with force likely to produce great bodily injury. (See Pen. Code, § 245.3.)"
+      },
+      {
+        "text": "Give the relevant bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "Give the bracketed phrase “that is inherently deadly or one” and give the bracketed definition of *inherently deadly* only if the object is a deadly weapon as a matter of law. (*People v. Stutelberg* (2018) 29 Cal.App.5th 314, 317–318 [240 Cal.Rptr.3d 156].)"
+      },
+      {
+        "text": "Give the bracketed portion that begins with “In deciding whether” if the object is not a weapon as a matter of law and is capable of innocent uses. (*People v. Aguilar* (1997) 16 Cal.4th 1023, 1028–1029 [68 Cal.Rptr.2d 655, 945 P.2d 1204]; *People v. Godwin* (1996) 50 Cal.App.4th 1562, 1573–1574 [58 Cal.Rptr.2d 545].)"
+      },
+      {
+        "text": "If determining whether the item is an inherently deadly weapon requires resolution of a factual issue, give both bracketed instructions."
+      },
+      {
+        "text": "In the bracketed definition of “local detention facility,” do not insert the name of a specific detention facility. Instead, insert a description of the type of detention facility at issue in the case. (See *People v. Flood* (1998) 18 Cal.4th 470, 482 [76 Cal.Rptr.2d 180, 957 P.2d 869] [jury must determine if alleged victim is a peace officer]; see Penal Code section 6031.4 [defining local detention facility].)"
+      },
+      {
+        "text": "Do not give an attempt instruction in conjunction with this instruction. There is no crime of “attempted assault” in California. (*In re James M.* (1973) 9 Cal.3d 517, 519, 521–522 [108 Cal.Rptr. 89, 510 P.2d 33].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 240, 245, 245.3."
+      },
+      {
+        "text": "• “Custodial Officer” Defined. Pen. Code, § 831."
+      },
+      {
+        "text": "• “Local Detention Facility” Defined. Pen. Code, § 6031.4."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• “Deadly Weapon” Defined. *People v. Brown* (2012) 210 Cal.App.4th 1, 6–8 [147 Cal.Rptr.3d 848]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• “Inherently Deadly” Defined. *People v. Perez* (2018) 4 Cal.5th 1055, 1065 [232 Cal.Rptr.3d 51, 416 P.3d 42]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029."
+      },
+      {
+        "text": "• Examples of Noninherently Deadly Weapon. *People v. Aledamat* (2019) 8 Cal.5th 1, 6 [251 Cal.Rptr.3d 371, 447 P.3d 277] [box cutter]; *People v. Perez, supra,* 4 Cal.5th at p. 1065 [vehicle]; *People v. McCoy* (1944) 25 Cal.2d 177, 188 [153 P.2d 315] [knife]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

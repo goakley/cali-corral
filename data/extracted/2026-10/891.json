@@ -1,0 +1,147 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "891",
+  "title": "Assault With Intent to Commit Mayhem (Pen. Code, § 220(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      695,
+      697
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2010, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault with intent to commit mayhem [in violation of Penal Code section 220(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant did an act that by its nature would directly and probably result in the application of force to a person;",
+    "2. The defendant did that act willfully;",
+    "3. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in the application of force to someone;",
+    "4. When the defendant acted, (he/she) had the present ability to apply force to a person;",
+    "AND",
+    "5. When the defendant acted, (he/she) intended to commit mayhem.",
+    "The defendant intended to commit mayhem if (he/she) intended to unlawfully and maliciously:",
+    "[1. Remove a part of someone’s body(;/.)]",
+    "[OR]",
+    "[2. Disable or make useless a part of someone’s body by inflicting a more than slight or temporary disability(;/.)]",
+    "[OR]",
+    "[3. Permanently disfigure someone(;/.)]",
+    "[OR]",
+    "[4. Cut or disable someone’s tongue(;/.)]",
+    "[OR]",
+    "[5. Slit someone’s (nose[,]/ear[,]/[or] lip) (;/.)]",
+    "[OR]",
+    "[6. Put out someone’s eye or injure someone’s eye in a way that would so significantly reduce (his/her) ability to see that the eye would be useless for the purpose of ordinary sight.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "No one needs to actually have been injured by the defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was].",
+    "[A disfiguring injury may be *permanent* even if it can be repaired by medical procedures.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Do not use this instruction if defendant is charged with having committed this crime during the commission of a first degree burglary. Use CALCRIM No. 890, *Assault With Intent to Commit Specified Crimes [While Committing First Degree Burglary]* instead."
+      },
+      {
+        "text": "Depending on the evidence, select the appropriate elements of mayhem. (See *People v. May* (1989) 213 Cal.App.3d 118, 129 [261 Cal.Rptr. 502] [in context of assault to commit rape].) See generally CALCRIM No. 801, *Mayhem*."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "The last bracketed sentence may be given on request if there is evidence of a disfiguring injury that may be repaired by medical procedures. (See *People v. Hill* (1994) 23 Cal.App.4th 1566, 1574–1575 [28 Cal.Rptr.2d 783] [not error to instruct that injury may be permanent even though cosmetic repair may be medically feasible].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 915, *Simple Assault*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 220."
+      },
+      {
+        "text": "• Elements for Assault. Pen. Code, § 240; *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Elements for Mayhem. Pen. Code, § 203."
+      },
+      {
+        "text": "• Court Must Instruct on Elements of Intended Crime. *People v. May, supra,* 213 Cal.App.3d at p. 129 [in context of assault to commit rape]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Mayhem. Pen. Code, §§ 663, 203."
+      },
+      {
+        "text": "• Simple Assault. Pen. Code, § 240; see *People v. Greene* (1973) 34 Cal.App.3d 622, 653 [110 Cal.Rptr. 160] [in context of charged assault with intent to commit rape]."
+      },
+      {
+        "text": "There is no crime of attempted assault to commit an offense. (See *People v. Duens* (1976) 64 Cal.App.3d 310, 314 [134 Cal.Rptr. 341] [in context of assault to commit rape].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      },
+      {
+        "heading": true,
+        "text": "Abandonment"
+      },
+      {
+        "text": "An assault with intent to commit another crime is complete at any point during the incident when the defendant entertains the intent to commit the crime. “It makes no difference whatsoever that he later abandons that intent.” (See *People v. Trotter* (1984) 160 Cal.App.3d 1217, 1223 [207 Cal.Rptr. 165]; *People v. Meichtry* (1951) 37 Cal.2d 385, 388–389 [231 P.2d 847] [both in context of assault to commit rape].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

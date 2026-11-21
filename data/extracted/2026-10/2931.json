@@ -1,0 +1,76 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2931",
+  "title": "Trespass: Unlawfully Occupying Property (Pen. Code, § 602(m))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2100,
+      2101
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with trespassing [in violation of Penal Code section 602(m)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully entered (land/[or] a building) belonging to someone else without the consent of the (owner[,]/[or] owner’s agent[,]/[or] person in lawful possession of the property);",
+    "2. After the defendant entered, (he/she) occupied the (land/[or] building) without the consent of the (owner[,]/[or] owner’s agent[,]/[or] person in lawful possession of the property);",
+    "AND",
+    "3. The defendant occupied some part of the (land/[or] building) continuously until removed.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[An *agent* is a person who is authorized to act for someone else in dealings with third parties.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 602(m)."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Consent Can Be Express or Implied. *People v. Wilkinson* (1967) 248 Cal.App.2d Supp. 906, 908 [56 Cal.Rptr. 261]."
+      },
+      {
+        "text": "• Entry Must Be Without Consent. *People v. Brown* (1965) 236 Cal.App.2d Supp. 915, 920–921 [47 Cal.Rptr. 662]; *People v. Poe* (1965) 236 Cal.App.2d Supp. 928, 932 [47 Cal.Rptr. 670], disapproved on other grounds in *In re Hayes* (1969) 70 Cal.2d 604, 614, fn. 2 [75 Cal.Rptr. 790, 451 P.2d 430]."
+      },
+      {
+        "text": "• “Occupy” Defined. *People v. Wilkinson, supra*, 248 Cal.App.2d Supp. at pp. 909–911."
+      },
+      {
+        "text": "• “Land” Includes Building on the Land. *People v. Brown* (1965) 236 Cal.App.2d Supp. 915, 917–919 [47 Cal.Rptr. 662] [partially abrogated by statute]."
+      },
+      {
+        "text": "• “Agent” Defined. Civ. Code, § 2295."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

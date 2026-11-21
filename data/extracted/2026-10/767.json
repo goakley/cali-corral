@@ -1,0 +1,44 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "767",
+  "title": "Jurors’ Responsibility During Deliberation in Death Penalty Case",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      592,
+      592
+    ]
+  },
+  "revision_line": "New April 2010; Revised April 2011, September 2020",
+  "revision_legend": null,
+  "body": [
+    "It is your responsibility to decide which penalty is appropriate for the defendant in this case. Base your decision only on the evidence you have heard in court and on the instructions that I have given you. Do not speculate or consider anything other than the evidence and my instructions."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction may be given on request and must be given in response to a jury question about commutation of sentence. (*People v. Letner and Tobin* (2010) 50 Cal.4th 99, 204–207 [112 Cal.Rptr.3d 746, 235 P.3d 62]; *People v. Ramos* (1984) 37 Cal.3d 136, 159, fn. 12 [207 Cal.Rptr. 800, 689 P.2d 430]). “The key in *Ramos* is whether the jury raises the commutation issue so that it ‘cannot be avoided.’ ” (*People v. Bramit* (2009) 46 Cal.4th 1221, 1251 [96 Cal.Rptr.3d 574, 210 P.3d 1171] (conc. opn. of Moreno, J.)) Commutation instructions are proper, however, when the jury implicitly raises the issue of commutation. No direct question is necessary. (*People v. Beames* (2007) 40 Cal.4th 907, 932 [55 Cal.Rptr.3d 865, 153 P.3d 955].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 190.3; *People v. Letner and Tobin* (2010) 50 Cal.4th 99, 204–207 [112 Cal.Rptr.3d 746, 235 P.3d 62]; *People v. Ramos* (1984) 37 Cal.3d 136, 159, fn. 12 [207 Cal.Rptr. 800, 689 P.2d 430])."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

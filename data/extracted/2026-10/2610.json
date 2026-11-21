@@ -1,0 +1,127 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2610",
+  "title": "Giving or Offering a Bribe to a Witness (Pen. Code, § 137(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1863,
+      1865
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (giving[,]/[or] offering[,]/[or] promising) a bribe to a witness [in violation of Penal Code section 137(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (gave[,]/[or] offered[,]/[or] promised) a bribe to (a witness[,]/[or] a person about to be called as a witness[,]/[or] a person about to give material information to a law enforcement official about a crime)[,] [or to someone acting on the (witness’s/[or] person’s) behalf];",
+    "AND",
+    "2. The defendant acted with the corrupt intent to persuade the (witness/[or] person) to agree that the bribe would unlawfully influence the (testimony/information) that the (witness/[or] person) would give.",
+    "As used here, *bribe* means something of present or future value or advantage, or a promise to give such a thing, that is given or offered with the corrupt intent to unlawfully influence the testimony or information of the person to whom the bribe is given.",
+    "A person acts with *corrupt intent* when he or she acts to wrongfully gain a financial or other advantage for himself, herself, or someone else.",
+    "[As used here, *witness* means someone [or a person the defendant reasonably believed to be someone]:",
+    "<Give the appropriate bracketed paragraph[s].>",
+    "• [Who knows about the existence or nonexistence of facts relating to a crime(;/.)]",
+    "[OR]",
+    "• [Whose declaration under oath has been or may be received as evidence(;/.)]",
+    "[OR]",
+    "• [Who has reported a crime to a (peace officer[,]/[or] prosecutor[,]/[or] probation or parole officer[,]/[or] correctional officer[,]/[or] judicial officer)(;/.)]",
+    "[OR",
+    "• Who has been served with a subpoena issued under the authority of any state or federal court.]]",
+    "[A person is *about to be called as a witness* (if he or she knows or has been told that he or she will be called as a witness [,]/[or] if he or she knows material information relating to the issues in a case that has been or may be filed).]",
+    "[Information is *material* if it is significant or important.]",
+    "[(A/The) (district attorney[,]/[or] deputy district attorney[,]/[or] city attorney[,]/[or] deputy city attorney[,]/[or] Attorney General[,]/[or] deputy attorney general[,]/[or] ______ <insert title of peace officer included in Pen. Code, § 830 et seq.>) is a *law enforcement official*.]",
+    "[The (witness/[or] person giving information) does not need to (have accepted the bribe[,]/have been influenced by the bribe[,]/[or] have intended to give the (testimony/information) the defendant sought).]",
+    "[*Offering a bribe* does not require specific words or behavior, as long as the language used and the circumstances clearly show an intent to bribe. [The thing offered does not need to actually be given, exist at the time it is offered, or have a specific value.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The (witness/person giving information) does not need” if the evidence shows the witness did not accept the bribe or follow through on the bribe."
+      },
+      {
+        "text": "Give the bracketed definition of “offering a bribe” if the prosecution is pursuing this theory. Give the bracketed sentence that begins, “The thing offered does not need to actually,” on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 137(a)."
+      },
+      {
+        "text": "• Witness Defined. Pen. Code, § 136(2)."
+      },
+      {
+        "text": "• Bribe Defined. Pen. Code, § 7, subd. 6. • Corruptly Defined. Pen. Code, § 7, subd. 3."
+      },
+      {
+        "text": "• Law Enforcement Official Defined. Pen. Code, § 137(e)."
+      },
+      {
+        "text": "• About to Be Called as a Witness. *People v. Broce* (1977) 76 Cal.App.3d 71, 75–76 [142 Cal.Rptr. 628]."
+      },
+      {
+        "text": "• Meaning of Understanding or Agreement. *People v. Pic’l* (1982) 31 Cal.3d 731, 738–740 [183 Cal.Rptr. 685, 646 P.2d 847]; *People v. Diedrich* (1982) 31 Cal.3d 263, 273–274 [182 Cal.Rptr. 354, 643 P.2d 971]; *People v. Gliksman* (1978) 78 Cal.App.3d 343, 346–350 [144 Cal.Rptr. 451]."
+      },
+      {
+        "text": "• Intent Requirement. *People v. Gliksman* (1978) 78 Cal.App.3d 343, 346–350 [144 Cal.Rptr. 451]."
+      },
+      {
+        "text": "• Offering a Bribe. *People v. Britton* (1962) 205 Cal.App.2d 561, 564 [22 Cal.Rptr. 921]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Extortion Distinguished"
+      },
+      {
+        "text": "Extortion is bribery with the additional element of coercion. Accordingly, one cannot be guilty of receiving a bribe and extortion in the same transaction. (*People v. Powell* (1920) 50 Cal.App. 436, 441 [195 P. 456].)"
+      },
+      {
+        "heading": true,
+        "text": "Witness"
+      },
+      {
+        "text": "A witness need not have information that is actually true or that relates to charges that result in conviction. (*People v. Cribas* (1991) 231 Cal.App.3d 596, 610–611 [282 Cal.Rptr. 538].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

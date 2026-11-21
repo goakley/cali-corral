@@ -1,0 +1,125 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2600",
+  "title": "Giving or Offering a Bribe to an Executive Officer (Pen. Code, § 67)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1853,
+      1855
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2024",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (giving/[or] offering) a bribe to an executive officer [in violation of Penal Code section 67].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (gave/[or] offered) a bribe to an executive officer in this state [or someone acting on the officer’s behalf];",
+    "AND",
+    "2. The defendant acted with the corrupt intent to unlawfully influence that officer’s official (act[,]/decision[,]/vote[,]/opinion[,]/[or] ______ <insert description of alleged conduct in other proceeding>).",
+    "As used here, *bribe* means something of present or future value or advantage, or a promise to give such a thing, that is given or offered with the corrupt intent to unlawfully influence the public or official action, vote, decision, [or] opinion, [or ______ <insert description of alleged conduct at other proceeding>] of the person to whom the bribe is given.",
+    "A person acts with *corrupt intent* when he or she acts to wrongfully gain a financial or other advantage for himself, herself, or someone else.",
+    "The official (act[,]/decision[,]/vote[,]/opinion[,]/[or] proceeding) the defendant sought to influence must have related to an existing subject that could have been brought before the public officer in his or her official capacity. It does not have to relate to a duty specifically given by statute to that officer.",
+    "An *executive officer* is a government official within the executive branch who may use his or her own discretion in performing his or her job duties. [(A/An) ______ <insert title, e.g., police officer, commissioner, etc.> is an executive officer.]",
+    "[The executive officer does not need to have (accepted the bribe[,]/[or] performed the requested act[,]/[or] deliberately failed to perform a duty).]",
+    "[*Offering a bribe* does not require specific words or behavior, as long as the language used and the circumstances clearly show an intent to bribe.",
+    "[The thing offered does not need to actually be given, exist at the time it is offered, or have a specific value.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The statute applies to giving or offering a bribe to “any executive officer . . . with intent to influence him in respect to any act, decision, vote, opinion, or other proceeding as such officer . . . .” It is unclear what “other proceeding” refers to and there are no cases defining the phrase. If the evidence presents an issue about attempting to influence an officer in any “other proceeding,” the court may insert a description of the proceeding where indicated."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The executive officer does not” if the evidence shows that the executive officer did not accept the bribe or follow through on the action sought."
+      },
+      {
+        "text": "Give the bracketed definition of “offering a bribe” if the prosecution is pursuing this theory. Give the bracketed sentence that begins, “The thing offered does not need to actually,” on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 67."
+      },
+      {
+        "text": "• “Bribe” Defined. Pen. Code, § 7(6)."
+      },
+      {
+        "text": "• “Corruptly” Defined. Pen. Code, § 7(3)."
+      },
+      {
+        "text": "• “Executive Officer” Defined. *People v. Hupp* (2023) 96 Cal.App.5th 946, 950 [314 Cal.Rptr.3d 842]; *People v. Strohl* (1976) 57 Cal.App.3d 347, 361 [129 Cal.Rptr. 224]."
+      },
+      {
+        "text": "• Corrupt Intent Is an Element of Bribery. *People v. Gliksman* (1978) 78 Cal.App.3d 343, 351 [144 Cal.Rptr. 451]; *People v. Zerillo* (1950) 36 Cal.2d 222, 232 [223 P.2d 223]."
+      },
+      {
+        "text": "• Subject Matter of Bribe. *People v. Megladdery* (1940) 40 Cal.App.2d 748, 782 [106 P.2d 84], disapproved on other grounds in *People v. Posey* (2004) 32 Cal.4th 193, 214–215 [8 Cal.Rptr.3d 551, 82 P.3d 755] and *People v. Simon* (2001) 25 Cal.4th 1082, 1108 [108 Cal.Rptr.2d 385, 25 P.3d 598]; *People v. Diedrich* (1982) 31 Cal.3d 263, 276 [182 Cal.Rptr. 354, 643 P.2d 971]."
+      },
+      {
+        "text": "• Offering a Bribe. *People v. Britton* (1962) 205 Cal.App.2d 561, 564 [22 Cal.Rptr. 921]."
+      },
+      {
+        "text": "• Bribery and Extortion Distinguished. *People v. Powell* (1920) 50 Cal.App. 436, 441 [195 P. 456]."
+      },
+      {
+        "text": "• No Bilateral Agreement Necessary. *People v. Gliksman, supra*, 78 Cal.App.3d at pp. 350–351."
+      },
+      {
+        "text": "• Promised Payment May Be to Third Party or Target of Bribe. *People v. Moyer* (2023) 94 Cal.App.5th 999, 1011–1012 [312 Cal.Rptr.3d 773]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Entrapment"
+      },
+      {
+        "text": "The crime is complete once an offer is made. Accordingly, subsequent efforts to procure corroborative evidence do not constitute entrapment. (*People v. Finkelstin* (1950) 98 Cal.App.2d 545, 553 [220 P.2d 934]; *People v. Bunkers* (1905) 2 Cal.App. 197, 209 [84 P. 364].)"
+      },
+      {
+        "heading": true,
+        "text": "Accomplice Liability and Conspiracy"
+      },
+      {
+        "text": "The giver and the recipient of a bribe are not accomplices of one another, nor are they coconspirators, because they are guilty of distinct crimes that require different mental states. (*People v. Wolden* (1967) 255 Cal.App.2d 798, 804 [63 Cal.Rptr. 467].)"
+      },
+      {
+        "heading": true,
+        "text": "Extortion Distinguished"
+      },
+      {
+        "text": "Extortion is bribery with the additional element of coercion. Accordingly, the defendant cannot be guilty of receiving a bribe and extortion in the same transaction. (*People v. Powell, supra*, 50 Cal.App. at p. 441.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

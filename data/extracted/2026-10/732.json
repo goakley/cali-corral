@@ -1,0 +1,98 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "732",
+  "title": "Special Circumstances: Murder in Commission of Felony—Arson With Intent to Kill (Pen. Code, § 190.2(a)(17))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      552,
+      554
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2013, August 2016, September 2019",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of intentional murder while engaged in the commission of arson that burned an (inhabited structure/[or] inhabited property) [in violation of Penal Code section 190.2(a)(17)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. The defendant (committed [or attempted to commit][,]/[or] aided and abetted[,]/[or] was a member of a conspiracy to commit) arson that burned an (inhabited structure/[or] inhabited property);",
+    "2. The defendant (intended to commit[,]/[or] intended to aid and abet the perpetrator in committing[,]/[or] intended that one or more of the members of the conspiracy commit) arson that burned an (inhabited structure/[or] inhabited property);",
+    "<Give element 3 if defendant did not personally commit or attempt arson.>",
+    "[3. If the defendant did not personally commit [or attempt to commit] arson, then another perpetrator, (whom the defendant was aiding and abetting/[or] with whom the defendant conspired), personally committed [or attempted to commit] arson that burned an (inhabited structure/[or] inhabited property);]",
+    "(3/4). The commission [or attempted commission] of the arson was a substantial factor in causing the death of another person;",
+    "AND",
+    "(4/5). The defendant intended that the other person be killed.",
+    "To decide whether (the defendant/[and] the perpetrator) committed [or attempted to commit] arson that burned an (inhabited structure/[or] inhabited property), please refer to the separate instructions that I (will give/have given) you on that crime. [To decide whether the defendant aided and abetted the crime, please refer to the separate instructions that I (will give/have given) you on aiding and abetting.] [To decide whether the defendant was a member of a conspiracy to commit the crime, please refer to the separate instructions that I (will give/have given) you on conspiracy.] You must apply those instructions when you decide whether the People have proved this special circumstance.",
+    "<Make certain that all appropriate instructions on underlying arson, aiding and abetting, and conspiracy are given.>",
+    "An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence.",
+    "There may be more than one cause of death. An act causes death only if it is a *substantial factor* in causing the death. A substantial factor is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death.",
+    "[If all the listed elements are proved, you may find this special circumstance true even if the defendant intended solely to commit murder and the commission of arson was merely part of or incidental to the commission of that murder.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    15.0,
+    1.7,
+    16.0,
+    1.7,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].) The court also has a sua sponte duty to instruct on the elements of the arson alleged. (*People v. Cain* (1995) 10 Cal.4th 1, 36 [40 Cal.Rptr.2d 481, 892 P.2d 1224].)"
+      },
+      {
+        "text": "Do not give CALCRIM No. 703, *Special Circumstances: Intent requirement for Accomplice After June 5, 1990*, together with this instruction. See *People v. Odom* (2016) 244 Cal.App.4th 237, 256–257 [197 Cal.Rptr.3d 774]."
+      },
+      {
+        "text": "Subparagraph (M) of Penal Code section 190.2(a)(17) eliminates the application of *People v. Green* (1980) 27 Cal.3d 1, 61 [164 Cal.Rptr. 1, 609 P.2d 468], to intentional murders during the commission of kidnapping or arson of an inhabited structure. The statute may only be applied to alleged homicides after the effective date, March 8, 2000. This instruction may be given alone or with CALCRIM No. 730, *Special Circumstances: Murder in Commission of Felony, Pen. Code, § 190.2(a)(17).*"
+      },
+      {
+        "text": "For the standard felony-murder special circumstance, it is not necessary for the actual killer to intend to kill. (Pen. Code, § 190.2(b).) However, an accomplice who is not the actual killer must either act with intent to kill or be a major participant and act with reckless indifference to human life. (Pen. Code, § 190.2(d).) Subparagraph (M) of Penal Code section 190.2(a)(17) does not specify whether the defendant must personally intend to kill or whether accomplice liability may be based on an actual killer who intended to kill even if the defendant did not. (See Pen. Code, § 190.2(a)(17)(M).) This instruction has been drafted to require that the defendant intend to kill, whether the defendant is an accomplice or the actual killer. If the evidence raises the potential for accomplice liability and the court concludes that the accomplice need not personally intend to kill, then the court must modify element 5 to state that the person who caused the death intended to kill. In such cases, the court also has a sua sponte duty give CALCRIM No. 703, *Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Felony Murder, Pen. Code, § 190.2(a)(17)*."
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401]; *People v. Cervantes* (2001) 26 Cal.4th 860, 865–874 [111 Cal.Rptr.2d 148, 29 P.3d 225].) Because causation is likely to be an issue in any case where this instruction is given, the committee has included the paragraph that begins with “An act causes death if.” If there is evidence of multiple potential causes, the court should also give the bracketed paragraph that begins with “There may be more than one cause of death.” (*People v. Sanchez* (2001) 26 Cal.4th 834, 845–849 [111 Cal.Rptr.2d 129, 29 P.3d 209]; *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135].)"
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant committed or attempted to commit arson, then select “committed [or attempted to commit]” in element 1 and “intended to commit” in element 2. In addition, in the paragraph that begins with “To decide whether,” select “the defendant” in the first sentence. Give all appropriate instructions on arson."
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant aided and abetted or conspired to commit arson, select one or both of these options in element 1 and the corresponding intent requirement in element 2. Give bracketed element 3. In addition, in the paragraph that begins with “To decide whether,” select “the perpetrator” in the first sentence. Give the second and/or third bracketed sentences. Give all appropriate instructions on arson and on aiding and abetting and/or conspiracy with this instruction."
+      },
+      {
+        "text": "When giving this instruction with CALCRIM No. 730, give the final bracketed paragraph."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1502, *Arson: Inhabited Structure or Property*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(17) (H) & (M)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

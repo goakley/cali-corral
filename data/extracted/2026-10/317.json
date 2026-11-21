@@ -1,0 +1,59 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "317",
+  "title": "Former Testimony of Unavailable Witness",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      163,
+      163
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The testimony that ______ <insert name of witness> has given under oath (was/will be) (read to/played for) you because (he/she) is not available. You must evaluate this testimony by the same standards that you apply to a witness who testified here in court."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has discretion to give an instruction on the weight a jury should give to former testimony of an unavailable witness. (*People v. Wharton* (1991) 53 Cal.3d 522, 598–599 [280 Cal.Rptr. 631, 809 P.2d 290].) No case holds that a trial court has a sua sponte duty to instruct on the use of former testimony of an unavailable witness."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Wharton* (1991) 53 Cal.3d 522, 598–599 [280 Cal.Rptr. 631, 809 P.2d 290]."
+      },
+      {
+        "text": "• Admissibility of Former Testimony. Evid. Code, § 1291."
+      },
+      {
+        "text": "• Admissibility of Hearsay Evidence or Deposition Testimony Generally. Pen. Code, § 686(3)."
+      },
+      {
+        "text": "• Former Testimony Defined. Evid. Code, § 1290."
+      },
+      {
+        "text": "• Unavailable Witness Defined. Evid. Code, § 240."
+      },
+      {
+        "text": "• Admissibility of Former Testimony as Substitute for Live Testimony. *People v. Reed* (1996) 13 Cal.4th 217, 225–226 [52 Cal.Rptr.2d 106, 914 P.2d 184]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

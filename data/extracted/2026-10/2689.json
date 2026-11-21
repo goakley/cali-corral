@@ -1,0 +1,89 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2689",
+  "title": "Disturbing the Peace: Loud and Unreasonable Noise (Pen. Code, §§ 415(2), 415.5(a)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1955,
+      1956
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with disturbing the peace [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "[1.] The defendant maliciously and willfully disturbed another person by causing loud and unreasonable noise(;/.)",
+    "<Give element 2 when instructing on Pen. Code, § 415.5(a)(2).>",
+    "[AND]",
+    "[2. The other person was in a building or on the grounds of ______ <insert description of school from Pen. Code, § 415.5> at the time of the disturbance(;/.)]",
+    "<Give element 3 when instructing on Pen. Code, § 415.5(f).>",
+    "[AND",
+    "(2/3). The defendant was not (a registered student of the school/[or] a person engaged in lawful employee-related activity).]",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "In order to *disturb another person by causing loud and unreasonable noise*, there must be either:",
+    "1. A clear and present danger of immediate violence;",
+    "OR",
+    "2. The noise must be used for the purpose of disrupting lawful activities, rather than as a means to communicate.",
+    "The People do not have to prove that the defendant intended to provoke a violent response."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. Give this instruction if the defendant is charged with violating Penal Code section 415(2) or section 415.5(a)(2)."
+      },
+      {
+        "text": "If the defendant is charged under Penal Code section 415.5(a)(2), give bracketed element 2 and insert the type of school from the statute. If there is sufficient evidence that the exemption in Penal Code section 415.5(f) applies, the court has a sua sponte duty to give bracketed element 3."
+      },
+      {
+        "text": "If the defendant is charged under Penal Code section 415(1), give only element 1. Do not give bracketed elements 2 and 3."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 415(2), 415.5(a)(2)."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Maliciously Defined. Pen. Code, § 7(4)."
+      },
+      {
+        "text": "• Loud and Unreasonable Noise Defined. *In re Brown* (1973) 9 Cal.3d 612, 618–621 [108 Cal.Rptr. 465, 510 P.2d 1017]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,164 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "526",
+  "title": "Implied Malice Murder: Aiding and Abetting",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      349,
+      354
+    ]
+  },
+  "revision_line": "New September 2023; Revised October 2025",
+  "revision_legend": null,
+  "body": [
+    "To prove that the defendant is guilty of aiding and abetting murder by acting with implied malice, the People must prove that:",
+    "1. The perpetrator committed [an] act[s] that (was/were) dangerous to human life;",
+    "2. The perpetrator’s act[s] caused the death of (another person/[or] a fetus);",
+    "3. The defendant knew that the perpetrator intended to commit the act[s] that (was/were) dangerous to human life;",
+    "4. Before or during the commission of the perpetrator’s act[s], the defendant intended to aid and abet the perpetrator in committing the act[s] that (was/were) dangerous to human life;",
+    "5. Before or during the commission of the perpetrator’s act[s], the defendant knew the perpetrator’s act[s] (was/were) dangerous to human life, and the defendant deliberately acted with conscious disregard for human life;",
+    "5. AND",
+    "6. By words or conduct, the defendant did in fact aid and abet the perpetrator’s commission of the act[s].",
+    "<Give in parental duty to protect cases.>",
+    "[For murder liability to attach to a parent as an aider and abettor based on failure to protect, the parent must knowingly fail to protect the child from the life-endangering act for the purpose of facilitating that life-endangering act and the failure to act must actually assist in the commission of the life-endangering act.]",
+    "If all of these requirements are proved, the defendant does not need to actually have been present when the crime was committed to be guilty as an aider and abettor.",
+    "Someone *aids and abets* a crime if he or she knows of the perpetrator’s unlawful purpose and he or she specifically intends to, and does in fact, aid, facilitate, promote, encourage, or instigate the perpetrator’s commission of that crime.",
+    "An act is *dangerous to human life* if there is a high degree of probability that the act will result in death.",
+    "[If you conclude that defendant was present at the scene of the crime or failed to prevent the crime, you may consider that fact in determining whether the defendant was an aider and abettor. However, the fact that a person is present at the scene of a crime or fails to prevent the crime does not, by itself, make him or her an aider and abettor.]",
+    "[It is not necessary that the perpetrator or the defendant be aware of the existence of a fetus to be guilty of murdering that fetus.]",
+    "[A *fetus* is an unborn human being that has progressed beyond the embryonic stage after major structures have been outlined, which typically occurs at seven to eight weeks after fertilization.]",
+    "[An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.]",
+    "[A person who aids and abets a crime is not guilty of that crime if he or she withdraws before the crime is committed. To withdraw, a person must do two things:",
+    "1. He or she must notify everyone else he or she knows is involved in the commission of the crime that he or she is no longer participating. The notification must be made early enough to prevent the commission of the crime.",
+    "1. AND",
+    "2. He or she must do everything reasonably within his or her power to prevent the crime from being committed. He or she does not have to actually prevent the crime.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw. If the People have not met this burden, you may not find the defendant guilty under an aiding and abetting theory.]"
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on aiding and abetting when the prosecution relies on it as a theory of culpability. (*People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318].)"
+      },
+      {
+        "text": "If there is evidence that the defendant was merely present at the scene or only had knowledge that a crime was being committed, the court has a sua sponte duty to give the bracketed paragraph that begins with: “If you conclude that defendant was present.” (*People v. Boyd* (1990) 222 Cal.App.3d 541, 557 fn.14 [271 Cal.Rptr. 738]; *In re Michael T.* (1978) 84 Cal.App.3d 907, 911 [149 Cal.Rptr. 87].)"
+      },
+      {
+        "text": "If there is evidence that the defendant withdrew from participation in the crime, the court has a sua sponte duty to give the bracketed portion regarding withdrawal. (*People v. Norton* (1958) 161 Cal.App.2d 399, 403 [327 P.2d 87]; *People v. Ross* (1979) 92 Cal.App.3d 391, 404–405 [154 Cal.Rptr. 783].)"
+      },
+      {
+        "text": "If the prosecution’s theory of the case is that the defendant committed murder based on his or her failure to perform a legal duty, the court may modify this instruction, consistent with the language in CALCRIM No. 520, *First or Second Degree Murder With Malice Aforethought*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "Give CALCRIM No. 520, *Murder: First or Second Degree Murder With Malice Aforethought* and CALCRIM No. 400, *Aiding and Abetting: General Principles*, before this instruction. Note that Penal Code section 30 uses “principal” but that CALCRIM Nos. 400 and 526 substitute “perpetrator” for clarity."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Reyes* (2023) 14 Cal.5th 981, 992 [309 Cal.Rptr.3d 832, 531 P.3d 357]."
+      },
+      {
+        "text": "• Aiding and Abetting Liability for Implied Malice Murder. *People v. Reyes, supra,* 14 Cal.5th at pp. 990–991; *People v. Gentile* (2020) 10 Cal.5th 830, 850–851 [272 Cal.Rptr.3d 814, 477 P.3d 539]."
+      },
+      {
+        "text": "• Presence or Knowledge Insufficient. *People v. Boyd* (1990) 222 Cal.App.3d 541, 557 fn.14 [271 Cal.Rptr. 738]; *In re Michael T., supra,* 84 Cal.App.3d at p. 911."
+      },
+      {
+        "text": "• “Dangerous to Human Life” Defined. *People v. Reyes, supra*, 14 Cal.5th at p. 989."
+      },
+      {
+        "text": "• “Fetus” Defined. *People v. Davis* (1994) 7 Cal.4th 797, 814–815 [30 Cal.Rptr.2d 50, 872 P.2d 591]; *People v. Taylor* (2004) 32 Cal.4th 863, 867 [11 Cal.Rptr.3d 510, 86 P.3d 881]."
+      },
+      {
+        "text": "• Withdrawal. *People v. Norton, supra*, 161 Cal.App.2d at p. 403; *People v. Ross* (1979) 92 Cal.App.3d 391, 404–405 [154 Cal.Rptr. 783]."
+      },
+      {
+        "text": "• Parental Duty to Protect. *People v. Collins* (2025) 17 Cal.5th 293, 308–310 [328 Cal.Rptr.3d 641, 561 P.3d 801]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "In recognizing that Penal Code section 188(a)(3) bars imputed malice, and therefore bars conviction of second degree murder under a natural and probable consequences theory, the California Supreme Court further held that: “an aider and abettor who does not expressly intend to aid a killing can still be convicted of second degree murder if the person knows that his or her conduct endangers the life of another and acts with conscious disregard for life.” (*People v. Gentile, supra,* 10 Cal.5th at pp. 850–851.) Unlike imputed malice, which involves vicarious liability, implied malice involves the concept of natural and probable consequences, which is still permissible because implied malice: “is based upon the natural and probable consequences of a defendant’s *own* act committed with knowledge of and disregard for the risk of death the act carries.” (*People v. Vargas, supra,* 84 Cal.App.5th at p. 953 fn. 6.) Therefore, aiding and abetting implied malice murder remains a valid theory of liability, notwithstanding the statutory changes effected by Senate Bill 1437 (Stats. 2018, ch. 1015) and Senate Bill 775 (Stats. 2021, ch. 551). (See *People v. Reyes, supra,* 14 Cal.5th at pp. 990–991.)"
+      },
+      {
+        "text": "527–540. Reserved for Future Use"
+      },
+      {
+        "text": "Introduction to Felony-Murder Series"
+      },
+      {
+        "text": "Senate Bill No. 1437 (2017–2018 Reg. Sess.) substantially changed accomplice liability for felony murder. Malice may no longer be imputed simply from participation in a designated crime. (Pen. Code, § 188(a)(3).) If a defendant participated in the commission or attempted commission of a designated felony when a person was killed, the defendant is now liable under the felony-murder rule only if: (1) the defendant was the actual killer; (2) the defendant was not the actual killer but, *with intent to kill*, aided, abetted, counseled, commanded, induced, solicited, requested, or assisted the actual killer in committing murder in the first degree; or (3) the defendant was a major participant in the underlying designated felony *and* acted with reckless indifference to human life. (Pen. Code, § 189(e).) These restrictions do not apply when the victim was a peace officer and the defendant knew or reasonably should have known that the victim was a peace officer acting within the performance of his or her duties. (Pen. Code, § 189(f).)"
+      },
+      {
+        "text": "As a result of these changes, the committee has modified CALCRIM Nos. 540B and 540C to incorporate the additional statutory elements for accomplice liability. The committee has also removed CALCRIM Nos. 541A, 541B, and 541C which addressed second degree felony murder."
+      },
+      {
+        "text": "The three separate instructions for felony murder present the following options:"
+      },
+      {
+        "text": "A. Defendant Allegedly Committed Fatal Act"
+      },
+      {
+        "text": "B. Coparticipant Allegedly Committed Fatal Act"
+      },
+      {
+        "text": "C. Other Acts Allegedly Caused Death"
+      },
+      {
+        "text": "For a simple case in which the defendant allegedly personally caused the death by committing a direct act of force or violence against the victim, the court may use CALCRIM No. 540A. This instruction contains the least amount of bracketed material and requires the least amount of modification by the court."
+      },
+      {
+        "text": "In a case where the prosecution alleges that a participant in the felony other than the defendant caused the death, the court must use CALCRIM No. 540B. This instruction allows the court to instruct that the defendant may have committed the underlying felony or may have aided and abetted or conspired to commit an underlying felony that actually was committed by a coparticipant."
+      },
+      {
+        "text": "If the evidence indicates that either the defendant or a coparticipant may have committed the fatal act, the court should give both CALCRIM No. 540A and CALCRIM No. 540B."
+      },
+      {
+        "text": "In addition, the committee has provided CALCRIM No. 540C to account for the unusual factual situations where a victim dies during the course of a felony as a result of a heart attack, a fire, or a similar cause, rather than as a result of some act of force or violence committed against the victim by one of the participants. (See *People v. Billa* (2003) 31 Cal.4th 1064, 1072.) This instruction is the most complicated of the three instructions. Thus, although CALCRIM No. 540C is broad enough to cover most felony-murder scenarios, the committee recommends using CALCRIM Nos. 540A or 540B whenever appropriate to avoid providing the jury with unnecessarily complicated instructions."
+      },
+      {
+        "text": "In *People v. Wilkins* (2013) 56 Cal.4th 333, 344, the Supreme Court clarified the temporal component necessary for liability for a death under the felony-murder rule and noted the limited usefulness of former CALCRIM No. 549, *Felony Murder, One Continuous Transaction—Defined*. To avoid any potential confusion, the committee has deleted that instruction and replaced it with appropriate bench note references. If the defendant committed the homicidal act and fled, that killing did not occur in the commission of the felony if the fleeing felon has reached a place of temporary safety. (*People v. Wilkins, supra,* at p. 345.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

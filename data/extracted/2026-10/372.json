@@ -1,0 +1,66 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "372",
+  "title": "Defendant’s Flight",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      219,
+      220
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2022",
+  "revision_legend": null,
+  "body": [
+    "If the defendant fled [or tried to flee] (immediately after the crime was committed/[or] after (he/she) was accused of committing the crime), that conduct may show that (he/she) was aware of (his/her) guilt. If you conclude that the defendant fled [or tried to flee], it is up to you to decide the meaning and importance of that conduct. However, evidence that the defendant fled [or tried to flee] cannot prove guilt by itself."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on flight whenever the prosecution relies on evidence of flight to show consciousness of guilt. (*People v. Williams* (1960) 179 Cal.App.2d 487, 491 [3 Cal.Rptr. 782].) There is, however, no reciprocal duty to instruct on the significance of the absence of flight, even on request. (*People v. Staten* (2000) 24 Cal.4th 434, 459 [101 Cal.Rptr.2d 213, 11 P.3d 968]; *People v. Williams* (1997) 55 Cal.App.4th 648, 651 [64 Cal.Rptr.2d 203].)"
+      },
+      {
+        "text": "If the defendant’s flight did not occur immediately after the crime was committed, the trial court should give the second option in the parenthetical. (*People v. Carrera* (1989) 49 Cal.3d 291, 313 [261 Cal.Rptr. 348, 777 P.2d 121] [flight from county jail]; *People v. Farley* (1996) 45 Cal.App.4th 1697, 1712 [53 Cal.Rptr.2d 702] [when flight was from custody, the instructional language “immediately after the commission of a crime” was irrelevant but harmless].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1127c; *People v. Williams* (1960) 179 Cal.App.2d 487, 491 [3 Cal.Rptr. 782]; *People v. Bradford* (1997) 14 Cal.4th 1005, 1054–1055 [60 Cal.Rptr.2d 225, 929 P.2d 544]; see *People v. Mendoza* (2000) 24 Cal.4th 130, 179–180 [99 Cal.Rptr.2d 485, 6 P.3d 150]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Paysinger* (2009) 174 Cal.App.4th 26, 29–32 [93 Cal.Rptr.3d 901]; *People v. Rios* (2007) 151 Cal.App.4th 1154, 1159–1160 [60 Cal.Rptr.3d 591]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Flight, Meaning"
+      },
+      {
+        "text": "Flight does not require a person to physically run from the scene or make an escape. What is required is acting with the purpose of avoiding observation or arrest. (*People v. Bradford* (1997) 14 Cal.4th 1005, 1055 [60 Cal.Rptr.2d 225, 929 P.2d 544] [defendant fled when he left victim’s apartment after killing her, told the assistant manager, “I really got to get the hell out of here,” returned to his apartment, packed his belongings, asked a former girlfriend who lived out of the area if he could stay with her, and repeatedly pleaded with his roommate to drive him out of town].) However, a suicide attempt that does not involve a departure from the crime scene is not flight. (*People v. Pettigrew* (2021) 62 Cal.App.5th 477, 499 [276 Cal.Rptr.3d 694].)"
+      },
+      {
+        "heading": true,
+        "text": "Identity at Issue"
+      },
+      {
+        "text": "If evidence identifies the defendant as the person who fled, and this evidence is relied on as tending to show guilt, then it is not error to instruct the jury on flight. (*People v. Mason* (1991) 52 Cal.3d 909, 943 [277 Cal.Rptr. 166, 802 P.2d 950].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,66 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "735",
+  "title": "Special Circumstances: Discharge From Vehicle (Pen. Code, § 190.2(a)(21))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      561,
+      561
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the special circumstance of committing murder by shooting a firearm from a motor vehicle [in violation of Penal Code section 190.2(a)(21)].",
+    "To prove that this special circumstance is true, the People must prove that:",
+    "1. (The defendant/______ <insert name or description of principal if not defendant>) shot a firearm from a motor vehicle, killing ______ <insert name of decedent>;",
+    "2. (The defendant/______ <insert name or description of principal if not defendant>) intentionally shot at a person who was outside the vehicle;",
+    "AND",
+    "3. At the time of the shooting, the defendant intended to kill.",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[A *motor vehicle* includes (a/an) (passenger vehicle/motorcycle/motor scooter/bus/school bus/commercial vehicle/truck tractor and trailer/______ <insert other type of motor vehicle>).]",
+    "[The terms (*firearm/*[and] *motor vehicle*) (is/are) defined elsewhere in another instruction to which you should refer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the special circumstance. (See *People v. Williams* (1997) 16 Cal.4th 635, 689 [66 Cal.Rptr.2d 573, 941 P.2d 752].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Special Circumstance. Pen. Code, § 190.2(a)(21)."
+      },
+      {
+        "text": "• Motor Vehicle Defined. Veh. Code, § 415."
+      },
+      {
+        "text": "• Special Circumstance Is Constitutional. *People v. Rodriguez* (1998) 66 Cal.App.4th 157, 172 [77 Cal.Rptr.2d 676]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

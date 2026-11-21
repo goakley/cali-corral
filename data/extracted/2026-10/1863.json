@@ -1,0 +1,71 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1863",
+  "title": "Defense to Theft or Robbery: Claim of Right (Pen. Code, § 511)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1309,
+      1310
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2010, August 2015, February 2016",
+  "revision_legend": null,
+  "body": [
+    "If the defendant obtained property under a claim of right, (he/she) did not have the intent required for the crime of (theft/[or] robbery).",
+    "The defendant obtained property under a claim of right if (he/she) believed in good faith that (he/she) had a right to the specific property or a specific amount of money, and (he/she) openly took it.",
+    "In deciding whether the defendant believed that (he/she) had a right to the property and whether (he/she) held that belief in good faith, consider all the facts known to (him/her) at the time (he/she) obtained the property, along with all the other evidence in the case. The defendant may hold a belief in good faith even if the belief is mistaken or unreasonable. But if the defendant was aware of facts that made that belief completely unreasonable, you may conclude that the belief was not held in good faith.",
+    "[The claim-of-right defense does not apply if the defendant attempted to conceal the taking at the time it occurred or after the taking was discovered.]",
+    "[The claim-of-right defense does not apply to offset or pay claims against the property owner of an undetermined or disputed amount.]",
+    "[The claim-of-right defense does not apply if the claim arose from an activity commonly known to be illegal or known by the defendant to be illegal.]",
+    "If you have a reasonable doubt about whether the defendant had the intent required for (theft/[or] robbery), you must find (him/her) not guilty of ______ <insert specific theft crime>."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is a split in authority about whether the trial court must instruct sua sponte on the defense of claim of right. (See *People v. Russell* (2006) 144 Cal.App.4th 1415, 1429 [51 Cal.Rptr.3d 263] [sua sponte duty when claim of right supported]; but see *People v. Hussain* (2014) 231 Cal.App.4th 261, 268–269 [179 Cal.Rptr.3d 679] [no sua sponte duty to instruct on claim of right], following *People v. Anderson* (2011) 51 Cal.4th 989, 998 [125 Cal.Rptr.3d 408, 252 P.3d 968] [no sua sponte duty to instruct on accident].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Defense. Pen. Code, § 511; *People v. Tufunga* (1999) 21 Cal.4th 935, 952, fn. 4 [90 Cal.Rptr.2d 143, 987 P.2d 168]; *People v. Anderson* (2015) 235 Cal.App.4th 93, 102 [185 Cal.Rptr.3d 128][third parties]; *People v. Romo* (1990) 220 Cal.App.3d 514, 517, 518 [269 Cal.Rptr. 440]."
+      },
+      {
+        "text": "• Good Faith Belief. *People v. Stewart* (1976) 16 Cal.3d 133, 139–140 [127 Cal.Rptr. 117, 544 P.2d 1317]; *People v. Navarro* (1979) 99 Cal.App.3d Supp. 1, 4, 10–11 [160 Cal.Rptr. 692]."
+      },
+      {
+        "text": "• No Concealment of Taking. *People v. Wooten* (1996) 44 Cal.App.4th 1834, 1848–1849 [52 Cal.Rptr.2d 765]."
+      },
+      {
+        "text": "• Not Available to Recover Unliquidated Claims. *People v. Holmes* (1970) 5 Cal.App.3d 21, 24–25 [84 Cal.Rptr. 889]."
+      },
+      {
+        "text": "• Not Available to Recover From Notoriously or Known Illegal Activity. *People v. Gates* (1987) 43 Cal.3d 1168, 1181–1182 [240 Cal.Rptr. 666, 743 P.2d 301]."
+      },
+      {
+        "text": "• Claim of Right Defense Available to Aiders and Abettors. *People v. Williams* (2009) 176 Cal.App.4th 1521, 1529 [98 Cal.Rptr.3d 770]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 1558
+  },
+  "warnings": []
+}

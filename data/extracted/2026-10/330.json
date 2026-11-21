@@ -1,0 +1,62 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "330",
+  "title": "Testimony of Child 10 Years of Age or Younger",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      169,
+      169
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2014",
+  "revision_legend": null,
+  "body": [
+    "You have heard testimony from a child who is age 10 or younger. As with any other witness, you must decide whether the child gave truthful and accurate testimony.",
+    "In evaluating the child’s testimony, you should consider all of the factors surrounding that testimony, including the child’s age and level of cognitive development.",
+    "When you evaluate the child’s cognitive development, consider the child’s ability to perceive, understand, remember, and communicate.",
+    "While a child and an adult witness may behave differently, that difference does not mean that one is any more or less believable than the other. You should not discount or distrust the testimony of a witness just because he or she is a child."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give an instruction on child witnesses; however, it must be given on request. (Pen. Code, § 1127f.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 1127f."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Fernandez* (2013) 216 Cal.App.4th 540, 558–560 [157 Cal.Rptr.3d 43]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Due Process/Equal Protection Challenges"
+      },
+      {
+        "text": "“The instruction provides sound and rational guidance to the jury in assessing the credibility of a class of witnesses as to whom ‘traditional assumptions’ may previously have biased the fact-finding process.” (*People v. Gilbert* (1992) 5 Cal.App.4th 1372, 1392–1394 [7 Cal.Rptr.2d 660] [instructing jury to make credibility determinations based on child’s age, level of cognitive development, and other factors surrounding child’s testimony does not inflate testimony of child witness and thereby lessen prosecutor’s burden of proof and deny defendant due process and equal protection].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

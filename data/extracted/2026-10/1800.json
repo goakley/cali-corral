@@ -1,0 +1,177 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1800",
+  "title": "Theft by Larceny (Pen. Code, § 484)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1249,
+      1252
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016, March 2024, October 2025 *",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with [grand/petty] theft [by larceny] [in violation of Penal Code section 484].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant took possession of property owned by someone else;",
+    "2. The defendant took the property without the owner’s [or owner’s agent’s] consent;",
+    "3. When the defendant took the property (he/she) intended (to deprive the owner of it permanently/[or] to remove it from the owner’s [or owner’s agent’s] possession for so extended a period of time that the owner would be deprived of a major portion of the value or enjoyment of the property);",
+    "AND",
+    "4. The defendant moved the property, even a small distance, and kept it for any period of time, however brief.",
+    "[The taking of property can include its consumption or the use of utilities.]",
+    "[An *agent* is someone to whom the owner has given complete or partial authority and control over the owner’s property.]",
+    "[For petty theft, the property taken can be of any value, no matter how slight.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "To have the requisite intent for theft, the defendant must either intend to deprive the owner permanently or to deprive the owner of a major portion of the property’s value or enjoyment. (See *People v. Avery* (2002) 27 Cal.4th 49, 57–58 [115 Cal.Rptr.2d 403, 38 P.3d 1].) Select the appropriate language in element 3."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If the defendant is also charged with grand theft, give CALCRIM No. 1801, *Theft: Degrees*. If the defendant is charged with petty theft, no other instruction is required, and the jury should receive a petty theft verdict form."
+      },
+      {
+        "text": "If the defendant is charged with Penal Code section 666, give CALCRIM No. 1850, *Petty Theft With Prior Conviction*."
+      },
+      {
+        "text": "If the defendant is charged with Penal Code section 666.1, give CALCRIM No. 1851, *Petty Theft or Shoplifting With Prior Convictions*."
+      },
+      {
+        "text": "If a different theory of theft is presented, see CALCRIM No. 1804, *Theft by False Pretense*, CALCRIM No. 1805, *Theft by Trick*, CALCRIM No. 1806, *Theft by Embezzlement*. See also CALCRIM No. 1861, *Jury Does Not Need to Agree on Form of Theft*. The court may also wish to instruct with the bracketed “[by larceny]” in the first sentence to distinguish this theory of theft from the others."
+      },
+      {
+        "text": "For theft of real property, use CALCRIM No. 1804, *Theft by False Pretense*. (See *People v. Sanders* (1998) 67 Cal.App.4th 1403, 1413–1417 [79 Cal.Rptr.2d 806].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 484; *People v. Williams* (1946) 73 Cal.App.2d 154, 157 [166 P.2d 63]; *People v. Edwards* (1925) 72 Cal.App. 102, 112–117 [236 P. 944], disapproved on other grounds in *In re Estrada* (1965) 63 Cal.2d 740, 748 [48 Cal.Rptr. 172, 408 P.2d 948]."
+      },
+      {
+        "text": "• Intent to Deprive Owner of Main Value. *People v. Avery, supra,* 27 Cal.4th at pp. 57–59; *People v. Zangari* (2001) 89 Cal.App.4th 1436, 1447 [108 Cal.Rptr.2d 250]."
+      },
+      {
+        "text": "• Unauthorized Use of Utilities. *People v. Myles* (2023) 89 Cal.App.5th 711, 731 [306 Cal.Rptr.3d 288]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Asportation"
+      },
+      {
+        "text": "To constitute a completed theft, the property must be asported or carried away. (*People v. Shannon* (1998) 66 Cal.App.4th 649, 654 [78 Cal.Rptr.2d 177].) Asportation requires three things: (1) the goods are severed from the possession or custody of the owner, (2) the goods are in the complete possession of the thief or thieves, and (3) the property is moved, however slightly. (*Ibid.*; *People v. Edwards* (1925) 72 Cal.App. 102, 114–115 [236 P. 944], disapproved on other grounds in *In re Estrada* (1965) 63 Cal.2d 740 [48 Cal.Rptr. 172, 408 P.2d 948]; *People v. Collins* (1959) 172 Cal.App.2d 295, 299 [342 P.2d 370] [joint possession of property by more than one thief].) Asportation is fulfilled by wrongful removal of property from the owner or possessor, against his or her will with the intent to steal it, even though the property is retained by the thief but a moment. (*People v. Quiel* (1945) 68 Cal.App.2d 674, 679 [157 P.2d 446].) Paragraph 4 sets forth the asportation element."
+      },
+      {
+        "heading": true,
+        "text": "Value"
+      },
+      {
+        "text": "The property taken must have some intrinsic value, however slight. (*People v. Franco* (1970) 4 Cal.App.3d 535, 542 [84 Cal.Rptr. 513]; *People v. Martinez* (2002) 95 Cal.App.4th 581, 585 [115 Cal.Rptr.2d 574].) The final bracketed paragraph may be given on request if the property in question was of slight value."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Petty Theft. Pen. Code, § 486."
+      },
+      {
+        "text": "• Attempted Theft. Pen. Code, §§ 664, 484."
+      },
+      {
+        "text": "• Taking an Automobile Without Consent. Veh. Code, § 10851; *People v. Pater* (1968) 267 Cal.App.2d 921, 926 [73 Cal.Rptr. 823]."
+      },
+      {
+        "text": "• Auto Tampering. Veh. Code, § 10852; *People v. Anderson* (1975) 15 Cal.3d 806, 810–811 [126 Cal.Rptr. 235, 543 P.2d 603]."
+      },
+      {
+        "text": "• Misdemeanor Joyriding. Pen. Code, § 499b [of bicycle, motorboat, or vessel]."
+      },
+      {
+        "text": "Petty theft is a not lesser-included offense of grand theft when the charge of grand theft is based on the type of property taken. (*People v. Thomas* (1974) 43 Cal.App.3d 862, 870 [118 Cal.Rptr. 226].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Claim of Right"
+      },
+      {
+        "text": "If a person actually believes that he or she has a right to the property even if that belief is mistaken or unreasonable, such belief is a defense to theft. (*People v. Romo* (1990) 220 Cal.App.3d 514, 518 [269 Cal.Rptr. 440]; see also *People v. Devine* (1892) 95 Cal. 227, 229 [30 P. 378] [“[i]t is clear that a charge of larceny, which requires an intent to steal, could not be founded on a mere careless taking away of another’s goods”]; *In re Bayles* (1920) 47 Cal.App. 517, 519–521 [190 P. 1034] [larceny conviction reversed where landlady actually believed she was entitled to take tenant’s property for cleaning fees incurred even if her belief was unreasonable]; *People v. Navarro* (1979) 99 Cal.App.3d Supp. 1, 4–6, 10–11 [160 Cal.Rptr. 692]; see CALCRIM No. 1863, *Defense to Theft or Robbery: Claim of Right*.)"
+      },
+      {
+        "heading": true,
+        "text": "Community Property"
+      },
+      {
+        "text": "A person may be found guilty of theft of community property, but only if he or she has the intent to deprive the other owner of the property permanently. (*People v. Llamas* (1997) 51 Cal.App.4th 1729, 1738–1740 [60 Cal.Rptr.2d 357].)"
+      },
+      {
+        "heading": true,
+        "text": "Fraudulent Refunds"
+      },
+      {
+        "text": "A person who takes property while in a store and presents it for a refund is guilty of theft. (*People v. Davis* (1998) 19 Cal.4th 301 [79 Cal.Rptr.2d 295, 965 P.2d 1165].) The Supreme Court held that taking with the intent to fraudulently obtain a refund constitutes both an intent to permanently deprive the store of property and a trespassory taking within the meaning of larceny. (*Id.* at pp. 317–318; see also *People v. Shannon* (1998) 66 Cal.App.4th 649 [78 Cal.Rptr.2d 177].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple or Single Conviction of Theft-Overall Plan or Scheme"
+      },
+      {
+        "text": "If multiple items are stolen over a period of time and the takings are part of one intention, one general impulse, and one plan, see CALCRIM No. 1802, *Theft: As Part of Overall Plan*."
+      },
+      {
+        "heading": true,
+        "text": "No Need to Use or Benefit From the Property Taken"
+      },
+      {
+        "text": "It does not matter that the person taking the property does not intend to use the property or benefit from it; he or she is guilty of theft if there is intent to permanently deprive the other person of the property. (*People v. Kunkin* (1973) 9 Cal.3d 245, 251 [107 Cal.Rptr. 184, 507 P.2d 1392]; *People v. Green* (1980) 27 Cal.3d 1, 57–58 [164 Cal.Rptr. 1, 609 P.2d 468] [defendant intended to destroy the property], disapproved on other grounds in *People v. Hall* (1986) 41 Cal.3d 826, 834, fn. 3 [226 Cal.Rptr. 112, 718 P.2d 99]; *People v. Pierce* (1952) 110 Cal.App.2d 598, 609 [243 P.2d 585] [irrelevant that defendant did not personally benefit from embezzled funds]; see also *People v. Avery* (2002) 27 Cal.4th 49, 57–58 [115 Cal.Rptr.2d 403, 38 P.3d 1] [intent to deprive owner of major value or enjoyment].)"
+      },
+      {
+        "heading": true,
+        "text": "Possession"
+      },
+      {
+        "text": "The victim of a theft does not have to be the owner of property, only in possession of it. (*People v. Edwards* (1925) 72 Cal.App. 102, 116 [236 P. 944], disapproved on other grounds in *In re Estrada* (1965) 63 Cal.2d 740, 748 [48 Cal.Rptr. 172, 408 P.2d 948].) “Considered as an element of larceny, ‘ownership’ and ‘possession’ may be regarded as synonymous terms; for one who has the right of possession as against the thief is, so far as the latter is concerned, the owner.” (*Ibid;* see also *People v. Davis* (1893) 97 Cal. 194, 195 [31 P. 1109] [fact that property in possession of victim sufficient to show ownership].)"
+      },
+      {
+        "heading": true,
+        "text": "Unanimity of Theft Theory Not Required"
+      },
+      {
+        "text": "If multiple theories of theft have been presented, the jury does not need to agree on which form of theft was committed. All the jury must agree on is that an unlawful taking of property occurred. (*People v. Counts* (1995) 31 Cal.App.4th 785, 792–793 [37 Cal.Rptr.2d 425]; *People v. Failla* (1966) 64 Cal.2d 560, 567–569 [51 Cal.Rptr. 103, 414 P.2d 39] [burglary case]; *People v. Nor Woods* (1951) 37 Cal.2d 584, 586 [233 P.2d 897] [addressing the issue for theft].) See CALCRIM No. 1861, *Jury Does Not Need to Agree on Form of Theft*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

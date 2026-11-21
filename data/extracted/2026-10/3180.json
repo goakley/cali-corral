@@ -1,0 +1,126 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3180",
+  "title": "Sex Offenses: Sentencing Factors—Burglary (Pen. Code, § 667.61(e)(2))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2263,
+      2266
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ <insert counts charging sex offense[s] from Pen. Code, § 667.61(c)>, you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant committed the crime during the commission of a burglary. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant entered (a building/an inhabited (house [or a room within an inhabited house]/vessel/floating home/trailer coach/part of a building));",
+    "2. When the defendant entered the (building/house [or a room within the house]/vessel/floating home/trailer coach/part of a building), (he/she) intended to commit (theft/[or] ______ <insert one or more felonies>);",
+    "[AND]",
+    "3. After the defendant entered the (building/house [or a room within the house]/vessel/floating home/trailer coach/part of a building), (he/she) committed ______ <insert sex offense[s] from Pen. Code, § 667.61(c)> [before (he/she) escaped to a place of temporary safety](./;)",
+    "<Give element 4 only if prosecution alleges defendant entered a building that does not meet definition of inhabited dwelling.>",
+    "[AND",
+    "4. When the defendant committed ______ <insert sex offense[s] from Pen. Code, § 667.61(c)>, the building was closed to the public.]",
+    "[A (house [or a room within an inhabited house]/vessel/floating home/trailer coach/part of a building) is *inhabited* if someone uses it as a dwelling, whether or not someone is inside at the time of the alleged entry.]",
+    "[A *house* includes any (structure/garage/office/______ <insert description>) that is attached to the house and functionally connected with it.]",
+    "<Alternative A—theft>",
+    "[The defendant intended to commit theft [by larceny] if (he/she) intended to take property owned by someone else, without the owner’s consent, to deprive the owner of it permanently [or to remove it from the owner’s possession for so extended a period of time that the owner would be deprived of a major portion of the value or enjoyment of the property], to move the property, even a small distance, and to keep it for any period of time, however brief.]",
+    "<Alternative B—rape by force, fear, or threats>",
+    "[The defendant intended to commit rape if he intended to have sexual intercourse with a woman [who was not his wife], without her consent, by (using force, duress, menace, or fear of immediate and unlawful bodily injury to her or to another person/threatening to retaliate against her or against a third person with a reasonable possibility that the threat would be carried out/threatening to have her or a third person incarcerated, arrested, or deported).]",
+    "<Alternative C—other felony>",
+    "[To decide whether the defendant intended to commit ______ <insert other felony/felonies alleged>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]",
+    "[A person has *reached a place of temporary safety* if (he/she) has successfully escaped from the scene of the crime and is no longer being pursued.]",
+    "[The burglary was committed if the defendant entered with the intent to commit (theft/[or] ______ <insert one or more felonies>). The defendant does not need to have actually committed that crime as long as (he/she) entered with the intent to do so. [The People do not have to prove that the defendant actually committed (theft/[or] ______ <insert one or more felonies>).]]",
+    "[The People allege that the defendant intended to commit (theft/[or] ______ <insert one or more felonies>). You may not find this allegation true unless you all agree that (he/she) intended to commit one of those crimes at the time of the entry. You do not need to all agree on which one of those crimes (he/she) intended.]",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the sentencing factor when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "If the prosecution alleges that the defendant entered a “building” that does not meet the definition of inhabited dwelling, give element 4."
+      },
+      {
+        "text": "Give alternative A, B, or C depending on the prosecution’s theory about which felony the defendant intended to commit at the time of entry. To have the requisite intent for theft, the defendant must either intend to deprive the owner permanently or deprive the owner of a major portion of the property’s value or enjoyment. (See *People v. Avery* (2002) 27 Cal.4th 49, 57–58 [115 Cal.Rptr.2d 403, 38 P.3d 1].) When giving this portion of the instruction, select the appropriate language in alternative A—theft."
+      },
+      {
+        "text": "If the prosecution alleges multiple underlying felonies, give the bracketed paragraph that begins with “The People allege that the defendant intended to commit either . . . .” (*People v. Failla* (1966) 64 Cal.2d 560, 569 [51 Cal.Rptr. 103, 414 P.2d 39]; *People v. Griffin* (2001) 90 Cal.App.4th 741, 750 [109 Cal.Rptr.2d 273].)"
+      },
+      {
+        "text": "For a definition of “vessel,” “floating home,” or “trailer coach,” see CALCRIM No. 1701, *Burglary: Degrees*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• One-Strike Sex Offense Statute—Burglary. Pen. Code, § 667.61(e)(2)."
+      },
+      {
+        "text": "• Factors Must Be Pleaded and Proved. Pen. Code, § 667.61(j); *People v. Mancebo* (2002) 27 Cal.4th 735, 743 [117 Cal.Rptr.2d 550, 41 P.3d 556]."
+      },
+      {
+        "text": "• During the Commission of Burglary Defined for Sentencing Factor. *People v. Alvarado* (2001) 87 Cal.App.4th 178, 191 [104 Cal.Rptr.2d 624]."
+      },
+      {
+        "text": "• Elements of Burglary. Pen. Code, § 459."
+      },
+      {
+        "text": "• Determination of Degrees. Pen. Code, § 460."
+      },
+      {
+        "text": "• Inhabitation Defined. Pen. Code, § 459."
+      },
+      {
+        "text": "• Room Within Inhabited House. *People v. Sparks* (2002) 28 Cal.4th 71, 86–87 [120 Cal.Rptr.2d 508, 47 P.3d 289]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "“Closed to the Public”"
+      },
+      {
+        "text": "“[T]he commission of a specified sex offense during a burglary is within the statute if the business is closed when the sex offense is committed.” (*People v. Palmore* (2000) 79 Cal.App.4th 1290, 1295–1296 [94 Cal.Rptr.2d 784].)"
+      },
+      {
+        "text": "See the Related Issues sections of CALCRIM No. 1700, *Burglary*, and CALCRIM No. 1701, *Burglary: Degrees*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

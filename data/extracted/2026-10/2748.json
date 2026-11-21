@@ -1,0 +1,199 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2748",
+  "title": "Possession of Controlled Substance or Paraphernalia in Penal Institution (Pen. Code, § 4573.6)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2003,
+      2007
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2010, February 2014, September 2017, September 2018",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with possessing ( ______ <insert type of controlled substance>, a controlled substance/an object intended for use to inject or consume controlled substances), in a penal institution [in violation of Penal Code section 4573.6].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [unlawfully] possessed (a controlled substance/an object intended for use to inject or consume controlled substances) in a penal institution [or on the grounds of a penal institution];",
+    "2. The defendant knew of the (substance’s/object’s) presence;",
+    "[AND]",
+    "3. The defendant knew (of the substance’s nature or character as a controlled substance/that the object was intended to be used for injecting or consuming controlled substances)(;/.)",
+    "<Give elements 4 and 5 if defendant is charged with possession of a controlled substance, not possession of paraphernalia.>",
+    "<If the controlled substance is not listed in the schedules set forth in sections 11054 through 11058 of the Health and Safety Code, give paragraph 4B and the definition of analog substance below instead of paragraph 4A.>",
+    "[4A. The controlled substance was ______ <insert type of controlled substance>;",
+    "4B. The controlled substance was an analog of ______ <insert type of controlled substance>;",
+    "AND",
+    "5. The controlled substance was a usable amount.]",
+    "[In order to prove that the defendant is guilty of this crime, the People must prove that ______ <insert name of analog drug> is an analog of ______ <insert type of controlled substance>.* An analog of a controlled substance:",
+    "[1. Has a chemical structure substantially similar to the structure of a controlled substance(./;)]",
+    "[OR]",
+    "[(2/1). Has, is represented as having, or is intended to have a stimulant, depressant, or hallucinogenic effect on the central nervous system substantially similar to or greater than the effect of a controlled substance.]]",
+    "A *penal institution* is a (state prison[,]/[or] prison camp or farm[,]/[or] (county/[or] city) jail[,]/[or] county road camp[,]/[or] county farm[,]/[or] place where prisoners of the state prison are located under the custody of prison officials, officers, or employees/[or] place where prisoners or inmates are being held under the custody of a (sheriff[,]/[or] chief of police[,]/[or] peace officer[,]/[or] probation officer).",
+    "[A *usable amount* is a quantity that is enough to be used by someone as a controlled substance. Useless traces [or debris] are not usable amounts. On the other hand, a usable amount does not have to be enough, in either amount or strength, to affect the user.]",
+    "[The People do not need to prove that the defendant knew which specific controlled substance (he/she) possessed.]",
+    "[An object is *intended to be used* for injecting or consuming controlled substances if the defendant (1) actually intended it to be so used, or (2) should have known, based on the item’s objective features, that it was intended for such use.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[Agreeing to buy a controlled substance does not, by itself, mean that a person has control over that substance.]",
+    "[The People allege that the defendant possessed the following items: ______ <insert description of each controlled substance or all paraphernalia when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant possessed at least one of these items and you all agree on which item (he/she) possessed.]",
+    "<A. Defense: Prescription>",
+    "[The defendant is not guilty of unlawfully possessing ______ <insert type of controlled substance> if (he/she) had a valid prescription for that substance written by a physician, dentist, podiatrist, or veterinarian licensed to practice in California. The People have the burden of proving beyond a reasonable doubt that the defendant did not have a valid prescription. If the People have not met this burden, you must find the defendant not guilty of possessing a controlled substance.]",
+    "<B. Defense: Conduct Authorized>",
+    "[The defendant is not guilty of this offense if (he/she) was authorized to possess the (substance/item) by (the rules of the (Department of Corrections/prison/jail/institution/camp/farm/place)/[or] the specific authorization of the (warden[,]/[or] superintendent[,]/[or] jailer[,]/[or] [other] person in charge of the (prison/jail/institution/camp/farm/place)). The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to possess the (substance/item). If the People have not met this burden, you must find the defendant not guilty of this offense.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    6.3,
+    11.0,
+    16.0,
+    19.0,
+    0.0,
+    15.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged with possessing a controlled substance, give elements 1 through 5. If the defendant is charged with possession of paraphernalia, give elements 1 through 3 only."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple items, the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483]; *People v. Rowland* (1999) 75 Cal.App.4th 61, 65 [88 Cal.Rptr.2d 900].) Give the bracketed paragraph that begins with “The People allege that the defendant possessed,” inserting the items alleged."
+      },
+      {
+        "text": "Give the bracketed sentence defining “intended to be used” if there is an issue over whether the object allegedly possessed by the defendant was drug paraphernalia. (See *People v. Gutierrez* (1997) 52 Cal.App.4th 380, 389 [60 Cal.Rptr.2d 561].)"
+      },
+      {
+        "text": "The prescription defense is codified in Health & Safety Code sections 11350 and 11377. This defense does apply to a charge of possession of a controlled substance in a penal institution. (*People v. Fenton* (1993) 20 Cal.App.4th 965, 969 [25 Cal.Rptr.2d 52].) The defendant need only raise a reasonable doubt about whether his possession of the drug was lawful because of a valid prescription. (See *People v. Mower* (2002) 28 Cal.4th 457, 479 [122 Cal.Rptr.2d 326, 49 P.3d 1067].) If there is sufficient evidence of a prescription, give the bracketed “unlawfully” in element 1 and the bracketed paragraph headed “Defense: Prescription.”"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant was authorized to possess the substance or item, give the bracketed word “unlawfully” in element 1 and the bracketed paragraph headed “Defense: Conduct Authorized.” (*People v. George* (1994) 30 Cal.App.4th 262, 275–276 [35 Cal.Rptr.2d 750]; *People v. Cardenas* (1997) 53 Cal.App.4th 240, 245–246 [61 Cal.Rptr.2d 583].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 4573.6; *People v. Palaschak* (1995) 9 Cal.4th 1236, 1242 [40 Cal.Rptr.2d 722, 893 P.2d 717]; *People v. Carrasco* (1981) 118 Cal.App.3d 936, 944–948 [173 Cal.Rptr. 688]."
+      },
+      {
+        "text": "• Knowledge. *People v. Carrasco*, *supra*, 118 Cal.App.3d at pp. 944–947."
+      },
+      {
+        "text": "• Usable Amount. *People v. Carrasco*, *supra*, 118 Cal.App.3d at p. 948."
+      },
+      {
+        "text": "• Prescription Defense. Health & Saf. Code, §§ 11350, 11377."
+      },
+      {
+        "text": "• Prescription. Health & Saf. Code, §§ 11027, 11164, 11164.5."
+      },
+      {
+        "text": "• Persons Authorized to Write Prescriptions. Health & Saf. Code, § 11150."
+      },
+      {
+        "text": "• Prescription Defense Applies. *People v. Fenton* (1993) 20 Cal.App.4th 965, 969 [25 Cal.Rptr.2d 52]."
+      },
+      {
+        "text": "• Authorization Is Affirmative Defense. *People v. George* (1994) 30 Cal.App.4th 262, 275–276 [35 Cal.Rptr.2d 750]; *People v. Cardenas*, *supra*, 53 Cal.App.4th at pp. 245–246."
+      },
+      {
+        "text": "• Jail Defined. *People v. Carter* (1981) 117 Cal.App.3d 546, 550 [172 Cal.Rptr. 838]."
+      },
+      {
+        "text": "• Knowledge of Location as Penal Institution. *People v. Seale* (1969) 274 Cal.App.2d 107, 111 [78 Cal.Rptr. 811]."
+      },
+      {
+        "text": "• “Adjacent to” and “Grounds” Not Vague. *People v. Seale*, *supra*, 274 Cal.App.2d at pp. 114–115."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Barnes* (1997) 57 Cal.App.4th 552, 556 [67 Cal.Rptr.2d 162]."
+      },
+      {
+        "text": "• Unanimity. *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483]."
+      },
+      {
+        "text": "• Definition of Analog Controlled Substance. Health & Saf. Code, § 11401; *People v. Davis* (2013) 57 Cal.4th 353, 357, fn. 2 [159 Cal.Rptr.3d 405, 303 P.3d 1179]."
+      },
+      {
+        "text": "• No Finding Necessary for “Expressly Listed” Controlled Substance. *People v. Davis*, *supra*, 57 Cal.4th at p. 362, fn. 5."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Inmate Transferred to Mental Hospital"
+      },
+      {
+        "text": "A prison inmate transferred to a mental hospital for treatment under Penal Code section 2684 is not “under the custody of prison officials.” (*People v. Superior Court (Ortiz)* (2004) 115 Cal.App.4th 995, 1002 [9 Cal.Rptr.3d 745].) However, the inmate is “held under custody by peace officers within the facility.” (*Id.* at p. 1003.) Thus, Penal Code section 4573.6 does apply. *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "Use of Controlled Substance Insufficient to Prove Possession"
+      },
+      {
+        "text": "“ ‘[*P*]*ossession*,’ as used in that section, does not mean ‘use’ and mere evidence of use (or being under the influence) of a proscribed substance cannot circumstantially prove its ‘*possession*.’ ” (*People v. Spann* (1986) 187 Cal.App.3d 400, 408 [232 Cal.Rptr. 31] [italics in original]; see also *People v. Carrasco*, *supra*, 118 Cal.App.3d at p. 947.)"
+      },
+      {
+        "heading": true,
+        "text": "Posting of Prohibition"
+      },
+      {
+        "text": "Penal Code section 4573.6 requires that its “prohibitions and sanctions” be posted on the grounds of the penal institution. (Pen. Code, § 4573.6.) However, that requirement is not an element of the offense, and the prosecution is not required to prove compliance. (*People v. Gutierrez* (1997) 52 Cal.App.4th 380, 389 [60 Cal.Rptr.2d 561]; *People v. Cardenas*, *supra*, 53 Cal.App.4th at p. 246.)"
+      },
+      {
+        "heading": true,
+        "text": "Possession of Multiple Items at One Time"
+      },
+      {
+        "text": "“[C]ontemporaneous possession in a state prison of two or more discrete controlled substances . . . at the same location constitutes but one offense under Penal Code section 4573.6.” (*People v. Rouser* (1997) 59 Cal.App.4th 1065, 1067 [69 Cal.Rptr.2d 563].)"
+      },
+      {
+        "heading": true,
+        "text": "Administrative Punishment Does Not Bar Criminal Action"
+      },
+      {
+        "text": "“The protection against multiple punishment afforded by the Double Jeopardy Clause . . . is not implicated by prior prison disciplinary proceedings . . . .” (*Taylor v. Hamlet* (N.D. Cal. 2003) 2003 U.S. Dist. LEXIS 19451; see also *People v. Ford* (1959) 175 Cal.App.2d 37, 39 [345 P.2d 354] [Pen. Code, § 654 not implicated].)"
+      },
+      {
+        "heading": true,
+        "text": "Medical Use of Cannabis"
+      },
+      {
+        "text": "The medical cannabis defense provided by Health and Safety Code section 11362.5 is not available to a defendant charged with violating Penal Code section 4573.6. (*Taylor v. Hamlet*, *supra*, 2003 U.S. Dist. LEXIS 19451.) However, the common law defense of medical necessity may be available. *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

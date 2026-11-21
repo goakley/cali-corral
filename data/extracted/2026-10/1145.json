@@ -1,0 +1,131 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1145",
+  "title": "Possession of Matter Depicting Minor Engaged in Sexual Conduct (Pen. Code, § 311.11(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      991,
+      993
+    ]
+  },
+  "revision_line": "New March 2019; Revised October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with possessing matter that shows a minor engaged in or simulating sexual conduct [in violation of Penal Code section 311.11(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant possessed or controlled matter that contained [an] image[s] of a minor personally engaging in or simulating sexual conduct;",
+    "2. The defendant knew that (he/she) possessed or controlled the matter;",
+    "AND",
+    "3. The defendant knew that the matter contained [an] image[s] of a minor personally engaging in or simulating sexual conduct.",
+    "[As used here, ](*M/m*)*atter* means any visual work[s], including any (film/filmstrip/photograph/negative/slide/photocopy/video recording/computer-generated media[,]/[or] ______ <insert other item listed in Pen. Code, § 311.11(a)>).",
+    "[*Matter* includes digitally altered and artificial intelligence-generated data.]",
+    "[*Matter* does not include drawings, figurines, or statues.]",
+    "[*Matter* does not include any film rated by the Motion Picture Association of America.]",
+    "[The *matter* does not have to be obscene.] <For a definition of obscene, see CALCRIM No. 1141.>",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it) either personally or through another person.]",
+    "[Two or more people may possess something at the same time.]",
+    "A *minor* is anyone under the age of 18. [Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "*Sexual conduct* means actual or simulated (sexual intercourse/[or] oral copulation[,]/[or] anal intercourse[,]/[or] anal oral copulation[,]/[or] ______ <insert other sexual conduct as defined in Pen. Code,",
+    "*§ 311.4(d)(1)>). An act is simulated when it gives the appearance of being sexual conduct.",
+    "<Sentencing Factors>",
+    "[If you find the defendant guilty of this crime [as charged in Count[s] ______], you must then decide whether the People have proved the additional allegation[s].] [You must decide whether the People have proved (this/these) allegation[s] for each crime beyond a reasonable doubt and return a separate finding for each crime.]",
+    "<Give the following paragraph if the defendant is charged with the felony enhancement under Penal Code section 311.11(b)>",
+    "[To prove the prior conviction allegation, the People must prove that the defendant has at least one prior conviction for violating or attempting to violate Penal Code section 311.11(a) or for committing or attempting to commit (______) <insert description of offense requiring registration pursuant to Penal Code section 290>.*]",
+    "<Give the following four paragraphs if the defendant is charged with the felony enhancement under Penal Code section 311.11(c)(1)>",
+    "[To prove the multiple images allegation, the People must prove that:",
+    "The *matter* the defendant knowingly possessed or controlled contained more than 600 images all of which the defendant knew showed a minor engaged in or simulating sexual conduct;",
+    "AND",
+    "The *matter* contained at least ten or more images involving a prepubescent minor or a minor under 12 years of age.",
+    "Each photograph, picture, computer or computer-generated image, or any similar visual depiction counts as *one image.*",
+    "Each video, video-clip, movie, or similar visual depiction counts as *50 images*.]",
+    "<Give the following three paragraphs if the defendant is charged under Penal Code section 311.11(c)(2)>",
+    "[To prove the sexual sadism or sexual masochism allegation, the People must prove that the *matter* showed sexual sadism or sexual masochism involving a minor.",
+    "*Sexual sadism* means intentionally causing pain for purposes of sexual gratification or stimulation.",
+    "*Sexual masochism* means intentionally experiencing pain for purposes of sexual gratification or stimulation.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime. Give the sentencing factors if appropriate."
+      },
+      {
+        "text": "For the definition of matter, give the bracketed phrase “As used here” if CALCRIM No. 1141, *Distributing Obscene Matter Showing Sexual Conduct by a Minor*, CALCRIM No. 1142, *Distributing or Intending to Distribute Obscene Matter*, or CALCRIM No. 1144, *Using a Minor to Perform Prohibited Acts* is also given."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 311.11(a)."
+      },
+      {
+        "text": "• “Sexual Conduct” Defined. Pen. Code, § 311.4(d); see *People v. Spurlock* (2003) 114 Cal.App.4th 1122, 1130–1131 [8 Cal.Rptr.3d 372]."
+      },
+      {
+        "text": "• “Artificial Intelligence” Defined. Pen. Code, § 311(b)."
+      },
+      {
+        "text": "• “Person” Defined. Pen. Code, § 311(d)."
+      },
+      {
+        "text": "• “Knowingly” Defined. Pen. Code, § 311(f); see *People v. Kuhns* (1976) 61 Cal.App.3d 735, 756–758 [132 Cal.Rptr. 725]."
+      },
+      {
+        "text": "• Calculating Age. Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391]."
+      },
+      {
+        "text": "• “Personally” Defined. *People v. Gerber* (2011) 196 Cal.App.4th 368, 386 [126 Cal.Rptr.3d 688]."
+      },
+      {
+        "text": "• Possession or Control of Computer Image. *Tecklenburg v. Appellate Div. of Superior Court* (2009) 169 Cal.App.4th 1402, 1418–1419 [87 Cal.Rptr.3d 460]."
+      },
+      {
+        "text": "• Simultaneous Possession of Materials at Same Location is One Offense. *People v. Manfredi* (2008) 169 Cal.App.4th 622, 624 [86 Cal.Rptr.3d 810]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

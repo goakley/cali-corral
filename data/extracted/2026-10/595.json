@@ -1,0 +1,108 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "595",
+  "title": "Vehicular Manslaughter: Speeding Laws Defined",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      441,
+      443
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "<A. Violation of Maximum Speed Law, Veh. Code, § 22349>",
+    "[To prove that the defendant committed a violation of the maximum speed law, the People must prove that:",
+    "1. The defendant drove a vehicle on a highway;",
+    "AND",
+    "2. The defendant drove faster than (65/55/______ <insert other posted speed limit>) mph.",
+    "[The term *highway* describes any area publicly maintained and open to the public for purposes of vehicular travel and includes a street.]]",
+    "<B. Violation of Basic Speed Law, Veh. Code, § 22350>",
+    "[To prove that the defendant committed a violation of the basic speed law, the People must prove that:",
+    "1. The defendant drove a vehicle on a highway;",
+    "AND",
+    "2. The defendant drove (faster than a reasonable person would have driven considering the weather, visibility, traffic, and conditions of the highway/[or] at a speed that endangered the safety of other people or property).",
+    "The speed of travel, alone, does not establish whether a person did or did not violate the basic speed law. When determining whether the defendant violated the basic speed law, consider not only the speed, but also all the surrounding conditions known by the defendant and also what a reasonable person would have considered a safe rate of travel given those conditions.",
+    "[The term *highway* describes any area publicly maintained and open to the public for purposes of vehicular travel and includes a street.]]",
+    "<C. Violation of Prima Facie Speed Law, Veh. Code, §§ 22351, 22352>",
+    "[To prove that the defendant committed a violation of the prima facie speed law, the People must prove that:",
+    "1. The defendant drove a vehicle on a highway;",
+    "2. The defendant drove faster than (15/25) mph;",
+    "[AND]",
+    "3. The defendant drove ______ <insert appropriate description from Veh. Code, § 22352 of area where alleged violation occurred>(;/.)",
+    "[AND",
+    "4. The defendant’s rate of speed was faster than a reasonable person would have driven considering the weather, visibility, traffic, and conditions of the highway.]",
+    "[The term *highway* describes any area publicly maintained and open to the public for purposes of vehicular travel and includes a street.]",
+    "[When determining whether the defendant drove faster than a reasonable person would have driven, consider not only the speed, but also all the surrounding conditions known by the defendant and also what a reasonable person would have considered a safe rate of travel given those conditions.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant’s rate of travel was not reasonable given the overall conditions, even if the rate of travel was faster than the prima facie speed law. If the People have not met this burden, you must find the defendant did not violate the prima facie speed law.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "In a vehicular manslaughter case, the court has a sua sponte duty instruct on the elements of the predicate misdemeanors or infractions alleged. (*People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409].) This instruction covers some of the more common infractions alleged. The court must give all appropriate instructions defining the element of vehicular manslaughter with this instruction."
+      },
+      {
+        "text": "When instructing on the prima facie speed law, insert the appropriate description of where the defendant was driving when the alleged violation occurred. If the defendant presents evidence that the rate of travel was not in violation of the basic speed law even though in violation of the prima facie speed law, give bracketed element 4 and the two bracketed paragraphs that begin, “When determining whether the defendant drove faster than a reasonable person.”.(Veh. Code, §§ 22351, 22352.)"
+      },
+      {
+        "text": "The court should define the term highway; however, it need only be defined once. If the court instructs on multiple Vehicle Code sections, give the bracketed definition of highway at the end of the last Vehicle Code section instructed on."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Maximum Speed Law. Veh. Code, § 22349."
+      },
+      {
+        "text": "• Basic Speed Law. Veh. Code, § 22350."
+      },
+      {
+        "text": "• Prima Facie Speed Law. Veh. Code, §§ 22351, 22352."
+      },
+      {
+        "text": "• Highway Defined. Veh. Code, § 360."
+      },
+      {
+        "text": "• Duty to Instruct on Elements of Predicate Offense. *People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

@@ -1,0 +1,113 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "768",
+  "title": "Penalty Trial: Pre-Deliberation Instructions",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      593,
+      595
+    ]
+  },
+  "revision_line": "New March 2021",
+  "revision_legend": null,
+  "body": [
+    "When you go to the jury room, the first thing you should do is (choose a foreperson/decide whether to retain the same foreperson). The foreperson should see to it that your discussions are carried on in an organized way and that everyone has a fair chance to be heard. Please treat one another courteously.",
+    "It is your duty to talk with one another and to deliberate in the jury room in order to agree on a penalty if you can. Each of you must decide the penalty for yourself, but only after you have discussed the evidence with the other jurors. Do not hesitate to change your mind if you become convinced that you are wrong. But do not change your mind just because other jurors disagree with you.",
+    "Keep an open mind and openly exchange your thoughts and ideas about this case. Stating your opinions too strongly at the beginning or immediately announcing how you plan to vote may interfere with an open discussion.",
+    "Do not talk about the case or about any of the people or any subject involved in it with anyone, including, but not limited to, your spouse or other family, or friends, spiritual leaders or advisors, or therapists. You must discuss the case only in the jury room and only when all jurors are present. Do not discuss your deliberations with anyone. Do not communicate using: ______ <insert currently popular social media> ______ during your deliberations.",
+    "It is very important that you not use the Internet (, a dictionary/[, or ______ <insert other relevant source of information>]) in any way in connection with this case during your deliberations or at any time until your jury service is completed.",
+    "[During the trial, several items were received into evidence as exhibits. You may examine whatever exhibits you think will help you in your deliberations. (These exhibits will be sent into the jury room with you when you begin to deliberate./If you wish to see any exhibits, please request them in writing.)]",
+    "If you need to communicate with me while you are deliberating, send a note through the bailiff, signed by the foreperson or by one or more members of the jury. To have a complete record of this trial, it is important that you not communicate with me except by a written note. If you have questions, I will talk with the attorneys before I answer, so it may take some time. You should continue your deliberations while you wait for my answer. I will answer any questions in writing or orally here in open court.",
+    "Do not reveal to me or anyone else any aspect of your deliberations or how the vote stands on the question of penalty unless I ask you to do so.",
+    "Your verdict of either death or life without possibility of parole must be unanimous. This means that, to return a verdict, all of you must agree to it. [Do not reach a decision by the flip of a coin or by any similar act.]",
+    "<During a retrial, give the following paragraph on request to inform jury about prior proceedings without introducing extraneous matters>",
+    "[Sometimes issues are tried in separate trials. The only issue in this trial is the penalty.]",
+    "It is not my role to tell you what your verdict should be. [Do not take anything I said or did during the trial as an indication of what I think about the facts, the witnesses, or what your verdict should be.]",
+    "You will be given [a] verdict form[s]. As soon as all jurors have agreed on a verdict, the foreperson must date and sign the [appropriate] verdict form[s] and notify the bailiff."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct that the jury’s verdict must be unanimous. Although there is no sua sponte duty to instruct on the other topics relating to deliberations, there is authority approving such instructions. (See *People v. Gainer* (1977) 19 Cal.3d 835, 856 [139 Cal.Rptr. 861, 566 P.2d 997]; *People v. Selby* (1926) 198 Cal. 426, 439 [245 P. 426]; *People v. Hunt* (1915) 26 Cal.App. 514, 517 [147 P. 476].)"
+      },
+      {
+        "text": "If the court automatically sends exhibits into the jury room, give the bracketed sentence that begins with “These exhibits will be sent into the jury room.” If not, give the bracketed phrase that begins with “You may examine whatever exhibits you think.”"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “Do not take anything I said or did during the trial” unless the court will be commenting on the evidence. (See Pen. Code, §§ 1127, 1093(f).)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “Sometimes issues are tried in separate trials” if requested. (*People v. Hicks* (2017) 4 Cal.5th 203, 205 [226 Cal.Rptr.3d 565, 407 P.3d 409].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Exhibits. Pen. Code, § 1137."
+      },
+      {
+        "text": "• Questions. Pen. Code, § 1138."
+      },
+      {
+        "text": "• Verdict Forms. Pen. Code, § 1140. • Unanimous Verdict. Cal. Const., art. I, § 16; Pen. Code, § 190.4(b); *People v. Howard* (1930) 211 Cal. 322, 325 [295 P. 333]; *People v. Kelso* (1945) 25 Cal.2d 848, 853–854 [155 P.2d 819]; *People v. Collins* (1976) 17 Cal.3d 687, 692 [131 Cal.Rptr. 782, 552 P.2d 742]; *People v. Anderson* (2018) 5 Cal.5th 372, 425 [235 Cal.Rptr.3d 1]."
+      },
+      {
+        "text": "• Duty to Deliberate. *People v. Gainer* (1977) 19 Cal.3d 835, 856 [139 Cal.Rptr. 861, 566 P.2d 997]."
+      },
+      {
+        "text": "• Judge’s Conduct as Indication of Verdict. *People v. Hunt* (1915) 26 Cal.App. 514, 517 [147 P. 476]."
+      },
+      {
+        "text": "• Keep an Open Mind. *People v. Selby* (1926) 198 Cal. 426, 439 [245 P. 426]."
+      },
+      {
+        "text": "• Hung Jury. *People v. Gainer* (1977) 19 Cal.3d 835, 850–852 [139 Cal.Rptr. 861, 566 P.2d 997]; *People v. Moore* (2002) 96 Cal.App.4th 1105, 1118–1121 [117 Cal.Rptr.2d 715]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Admonition Not to Discuss Case with Anyone"
+      },
+      {
+        "text": "In *People v. Danks* (2004) 32 Cal.4th 269, 298–300 [8 Cal.Rptr.3d 767, 82 P.3d 1249], a capital case, two jurors violated the court’s admonition not to discuss the case with anyone by consulting with their pastors regarding the death penalty. The Supreme Court stated:"
+      },
+      {
+        "text": "It is troubling that during deliberations not one but two jurors had conversations with their pastors that ultimately addressed the issue being resolved at the penalty phase in this case. Because jurors instructed not to speak to anyone about the case except a fellow juror during deliberations . . . . may assume such an instruction does not apply to confidential relationships, we recommend the jury be expressly instructed that they may not speak to anyone about the case, except a fellow juror during deliberations, and that this includes, but is not limited to, spouses, spiritual leaders or advisers, or therapists. Moreover, the jury should also be instructed that if anyone, other than a fellow juror during deliberations, tells a juror his or her view of the evidence in the case, the juror should report that conversation immediately to the court."
+      },
+      {
+        "text": "(*Id.* at p. 306, fn. 11.)"
+      },
+      {
+        "text": "The court may, in its discretion, add the suggested language to the fourth paragraph of this instruction."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

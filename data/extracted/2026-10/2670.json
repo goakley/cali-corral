@@ -1,0 +1,223 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2670",
+  "title": "Lawful Performance: Peace Officer",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1923,
+      1929
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016, March 2022, September 2022, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The People have the burden of proving beyond a reasonable doubt that ______ <insert name, excluding title> was lawfully performing (his/her) duties as a peace officer. If the People have not met this burden, you must find the defendant not guilty of ______ <insert name[s] of all offense[s] with lawful performance as an element>.",
+    "A peace officer is not lawfully performing his or her duties if he or she is (unlawfully arresting or detaining someone/[or] using unreasonable or excessive force when making or attempting to make an otherwise lawful arrest or detention).",
+    "<A. Unlawful Detention>",
+    "[A peace officer may legally detain someone if [the person consents to the detention or if]:",
+    "1. Specific facts known or apparent to the officer lead him or her to suspect that the person to be detained has been, is, or is about to be involved in activity relating to crime;",
+    "AND",
+    "2. A reasonable officer who knew the same facts would have the same suspicion.",
+    "Any other detention is unlawful.",
+    "In deciding whether the detention was lawful, consider evidence of the officer’s training and experience and all the circumstances known by the officer when he or she detained the person.]",
+    "<B. Unlawful Arrest>",
+    "[A peace officer may legally arrest someone [either] (on the basis of an arrest warrant/[or] if he or she has probable cause to make the arrest).",
+    "Any other arrest is unlawful.",
+    "Probable cause exists when the facts known to the arresting officer at the time of the arrest would persuade someone of reasonable caution that the person to be arrested has committed a crime.",
+    "In deciding whether the arrest was lawful, consider evidence of the officer’s training and experience and all the circumstances known by the officer when he or she arrested the person.]",
+    "<Arrest without warrant for most misdemeanors or infractions>",
+    "[In order for an officer to lawfully arrest someone without a warrant for a misdemeanor or infraction, the officer must have probable cause to believe that the person to be arrested committed a misdemeanor or infraction in the officer’s presence.]",
+    "<Arrest without warrant for felony or misdemeanor not requiring commission in officer’s presence; see Bench Notes>",
+    "[In order for an officer to lawfully arrest someone for (a/an) (felony/[or] ______ <insert misdemeanor not requiring commission in officer’s presence>) without a warrant, the officer must have probable cause to believe the person to be arrested committed (a/an) (felony/[or] ______ <insert misdemeanor not requiring commission in officer’s presence>). However, it is not required that the offense be committed in the officer’s presence.]",
+    "______ <insert crime that was basis for arrest> is (a/an) (felony/misdemeanor/infraction).",
+    "<Entering home without warrant>",
+    "[In order for an officer to enter a home to arrest someone without a warrant [and without consent]:",
+    "1. The officer must have probable cause to believe that the person to be arrested committed a crime and is in the home;",
+    "AND",
+    "2. Exigent circumstances require the officer to enter the home without a warrant.",
+    "The term *exigent circumstances* describes an emergency situation that requires swift action to prevent (1) imminent danger to life or serious damage to property, or (2) the imminent escape of a suspect or destruction of evidence.]",
+    "[The officer must tell that person that the officer intends to arrest him or her, why the arrest is being made, and the authority for the arrest. [The officer does not have to tell the arrested person these things if the officer has probable cause to believe that the person is committing or attempting to commit a crime, is fleeing immediately after having committed a crime, or has escaped from custody.] [The officer must also tell the arrested person the offense for which he or she is being arrested if he or she asks for that information.]]",
+    "<When giving either paragraph A on unlawful detention or paragraph B on unlawful arrest, give the following paragraph also, if applicable>",
+    "[Photographing or recording a *peace officer* while the officer is in a public place or while the person photographing or recording is in a place where he or she has the right to be is not, by itself, a crime nor a basis for (reasonable suspicion to detain/[nor] probable cause to arrest).]",
+    "<C. Use of Force by a Peace Officer>",
+    "[Special rules control the use of force.]",
+    "[A peace officer may use reasonable non-deadly force to arrest or detain someone, to prevent escape, to overcome resistance, or in self-defense.]",
+    "[A peace officer may use deadly force if (he/she):",
+    "1. Reasonably believed, based on the totality of the circumstances, that the force was necessary to defend against an imminent threat of death or serious bodily injury to the officer or another person;",
+    "OR",
+    "2. Reasonably believed, based on the totality of the circumstances, that:",
+    "a. ______ <insert name of fleeing felon> was fleeing;",
+    "b. The force was necessary to arrest or detain ______ <insert name of fleeing felon> for the crime of ______ <insert name of felony>;",
+    "c. The commission of the crime of ______ <insert name of felony>created a risk of or resulted in death or serious bodily injury to another person;",
+    "AND",
+    "d. ______ <insert name of fleeing felon> would cause death or serious bodily injury to another person unless immediately arrested or detained.]",
+    "[*Deadly force* means any use of force that creates a substantial risk of causing death or serious bodily injury. Deadly force includes, but is not limited to, the discharge of a firearm.]",
+    "[A *serious bodily injury* means a serious impairment of physical condition. Such an injury may include[, but is not limited to]: (loss of consciousness/concussion/bone fracture/protracted loss or impairment of function of any bodily member or organ/a wound requiring extensive suturing/[and] serious disfigurement).]",
+    "[A threat of death or serious bodily injury is *imminent* when, based on the totality of the circumstances, a reasonable officer in the same situation would believe that a person has the present ability, opportunity, and apparent intent to immediately cause death or serious bodily injury to the peace officer or to another person. An imminent harm is not merely a fear of future harm, no matter how great the fear and no matter how great the likelihood of the harm, but is one that, from appearances, must be instantly confronted and addressed.]",
+    "*Totality of the circumstances* means all facts known to the peace officer at the time, including the conduct of the defendant and ______ <insert name of officer> leading up to the use of deadly force.",
+    "[A peace officer who makes or attempts to make an arrest need not retreat or stop because the person being arrested is resisting or threatening to resist. A peace officer does not lose (his/her) right to self-defense by using objectively reasonable force to arrest or to prevent escape or to overcome resistance.]",
+    "<D. Use of Force by a Person Being Arrested or Detained>",
+    "[If a person knows, or reasonably should know, that a peace officer is arresting or detaining him or her, the person must not use force or any weapon to resist an officer’s use of reasonable force. [However, you may not find the defendant guilty of resisting arrest if the arrest was unlawful, even if the defendant knew or reasonably should have known that the officer was arresting him or her.]]",
+    "[If a peace officer uses unreasonable or excessive force while (arresting or attempting to arrest/[or] detaining or attempting to detain) a person, that person may lawfully use reasonable force to defend himself or herself.",
+    "A person being arrested or detained uses reasonable force when he or she: (1) uses that degree of force that he or she actually believes is reasonably necessary to protect himself or herself from the officer’s use of unreasonable or excessive force; and (2) uses no more force than a reasonable person in the same situation would believe is necessary for his or her protection.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    35.0,
+    34.3,
+    35.7,
+    16.0,
+    34.3,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if there is sufficient evidence that the officer was not lawfully performing his or her duties and lawful performance is an element of the offense. (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1217 [275 Cal.Rptr. 729, 800 P.2d 1159] [“disputed facts bearing on the issue of legal cause must be submitted to the jury considering an engaged-in-duty element”]; *People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663]; *People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651]; *People v. White* (1980) 101 Cal.App.3d 161, 166–168 [161 Cal.Rptr. 541].)"
+      },
+      {
+        "text": "Give section A if there is an issue as to whether the officer had a legal basis to detain someone. Give section B if there is an issue as to whether the officer had a legal basis to arrest someone. Give section C if there is an issue as to whether the officer used excessive force in arresting or detaining someone. If the issue is whether the officer used excessive force in some other duty, give section C with any necessary modifications. Give section D if there is an issue as to whether the defendant used reasonable force in response to the officer’s use of excessive force."
+      },
+      {
+        "text": "If this instruction is only relevant to a charge of violating Penal Code section 148, the court must not give the first paragraph in bracketed section D that begins with “If a person knows, or reasonably should know, that a peace officer is arresting or detaining him or her.” (*People v. White, supra,* 101 Cal.App.3d at pp. 168–169 [court must clarify that Penal Code section 834a does not apply to charge under section 148].) If the case does not involve an alleged violation of Penal Code section 148 (either as a charge offense or as a lesser), the court should give that bracketed sentence. If the case involves an alleged violation of Penal Code section 148 as well as other offenses in which lawful performance is an element, the court may give the bracketed sentence but must also give the sentence that begins with “However, you may not find the defendant guilty of resisting arrest.”"
+      },
+      {
+        "text": "When giving the bracketed section under the heading “A. Unlawful Detention,” if there is a factual issue about whether the person was in fact “detained,” the court should provide the jury with a definition of when a person is detained. Similarly, if there is a factual issue as to whether the person consented to the detention, the court should instruct on consent. (See *People v. Wilkins* (1993) 14 Cal.App.4th 761, 777 [17 Cal.Rptr.2d 743].)"
+      },
+      {
+        "text": "In the section headed “B. Unlawful Arrest,” two options are provided for arrests without a warrant. The general rule is that an officer may not make an arrest for a misdemeanor or infraction unless the offense was committed in the officer’s presence. (See Pen. Code, § 836(a)(1).) Statutes provide exceptions to this requirement for some misdemeanors. (See, e.g., Pen. Code, § 836(c) [violation of domestic violence protective or restraining order]; Veh. Code, § 40300.5 [driving under the influence plus traffic accident or other specified circumstance].) If the officer made the arrest for an infraction or a misdemeanor falling under the general rule, give the bracketed paragraph under the heading “Arrest without warrant for most misdemeanors or infraction.” If the officer made the arrest for a felony or misdemeanor not requiring commission in the officer’s presence give the bracketed paragraph under the heading “Arrest without warrant for felony or misdemeanor not requiring commission in officer’s presence.” The court may also give both bracketed paragraphs, if appropriate."
+      },
+      {
+        "text": "Give the bracketed section about entering a home without a warrant if the arrest took place in a home. (*People v. Wilkins, supra,* 14 Cal.App.4th at p. 777.) If there is a factual issue about whether the officer had consent to enter the home, the court must also instruct on the legal requirements for consent. *(Ibid.)*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Duty. *People v. Gonzalez, supra,* 51 Cal.3d at p. 1217; *People v. Olguin, supra,* 119 Cal.App.3d at pp. 46–47; *People v. Castain, supra,* 122 Cal.App.3d at p. 145; *People v. White, supra,* 101 Cal.App.3d at pp. 166–168."
+      },
+      {
+        "text": "• Lawful Detention. *People v. Celis* (2004) 33 Cal.4th 667, 674–675 [16 Cal.Rptr.3d 85, 93 P.3d 1027]."
+      },
+      {
+        "text": "• Lawful Arrest. Pen. Code, §§ 834–836, 841."
+      },
+      {
+        "text": "• “Probable Cause” Defined. *People v. Celis, supra,* 33 Cal.4th at p. 673; *People v. Fischer* (1957) 49 Cal.2d 442, 446 [317 P.2d 967]."
+      },
+      {
+        "text": "• Officer’s Training and Experience Relevant. *People v. Lilienthal* (1978) 22 Cal.3d 891, 899 [150 Cal.Rptr. 910, 587 P.2d 706]; *People v. Clayton* (1970) 13 Cal.App.3d 335, 338 [91 Cal.Rptr. 494]."
+      },
+      {
+        "text": "• Duty to Submit to Arrest or Detention. Pen. Code, § 834(a); *People v. Allen* (1980) 109 Cal.App.3d 981, 985 [167 Cal.Rptr. 502]; *People v. Curtis* (1969) 70 Cal.2d 347, 351 [74 Cal.Rptr. 713, 450 P.2d 33]."
+      },
+      {
+        "text": "• Exigent Circumstances to Enter Home. *People v. Wilkins, supra,* 14 Cal.App.4th at p. 777; *People v. Ramey* (1976) 16 Cal.3d 263, 276 [127 Cal.Rptr. 629, 545 P.2d 1333]; *People v. Hoxter* (1999) 75 Cal.App.4th 406, 414, fn. 7 [89 Cal.Rptr.2d 259]."
+      },
+      {
+        "text": "• Reasonable Force. Pen. Code, §§ 692, 693."
+      },
+      {
+        "text": "• “Deadly Force” Defined. Pen. Code, § 835a(e)."
+      },
+      {
+        "text": "• Excessive Use of Deadly Force. Pen. Code, § 835a."
+      },
+      {
+        "text": "• Excessive Force Makes Arrest Unlawful. *People v. White, supra,* 101 Cal.App.3d at pp. 166–168."
+      },
+      {
+        "text": "• Excessive Force Triggers Right to Self-Defense With Reasonable Force. *People v. Curtis, supra,* 70 Cal.2d at p. 356."
+      },
+      {
+        "text": "• Merely Photographing or Recording Officers Not a Crime. Pen. Code, § 148(g)."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Graham Factors"
+      },
+      {
+        "text": "In determining reasonableness, the inquiry is whether the officer’s actions are objectively reasonable from the perspective of a reasonable officer on the scene. (*Graham v. Connor* (1989) 490 U.S. 386, 396 [109 S.Ct. 1865, 104 L.Ed.2d 443].) Factors relevant to the totality of the circumstances may include those listed in *Graham*, but those factors are not exclusive. (See *Glenn v. Washington County* (9th Cir. 2011) 673 F.3d 864, 872.) The *Graham* factors may not all apply in a given case. (See *People v. Perry* (2019) 36 Cal.App.5th 444, 473, fn. 18 [248 Cal.Rptr.3d 522].) Conduct and tactical decisions preceding an officer’s use of deadly force are relevant considerations. (*Hayes v. County of San Diego* (2013) 57 Cal.4th 622, 639 [160 Cal.Rptr.3d 684, 305 P.3d 252] [in context of negligence liability].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Service of Warrant"
+      },
+      {
+        "text": "An officer is lawfully engaged in his or her duties if he or she is correctly serving “a facially valid search or arrest warrant, regardless of the legal sufficiency of the facts shown in support of the warrant.” (*People v. Gonzalez, supra,* 51 Cal.3d at p. 1222.) On the other hand, “the proper *service* of a warrant is a jury issue under the engaged-in-duty requirement.” (*Id.* at p. 1223 [emphasis in original].) If there is a factual dispute over the manner in which the warrant was served, the court should instruct the jury on the requirements for legal service of the warrant. *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "Lawfulness of Officer’s Conduct Based on Objective Standard"
+      },
+      {
+        "text": "The rule “requires that the officer’s lawful conduct be established as an objective fact; it does not establish any requirement with respect to the defendant’s mens rea.” (*People v. Jenkins* (2000) 22 Cal.4th 900, 1020 [95 Cal.Rptr.2d 377, 997 P.2d 1044].) The defendant’s belief about whether the officer was or was not acting lawfully is irrelevant. (*Id.* at p. 1021.)"
+      },
+      {
+        "heading": true,
+        "text": "Photographing or Recording Officers"
+      },
+      {
+        "text": "Penal Code section 148(g) provides that merely photographing or recording a public officer or peace officer under certain conditions is not a crime. The intended scope of this new legislation is unclear. Until the legislature or courts of review provide further guidance, the court will have to determine whether section 148(g) should apply in an individual case."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

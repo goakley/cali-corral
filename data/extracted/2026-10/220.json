@@ -1,0 +1,76 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "220",
+  "title": "Reasonable Doubt",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      121,
+      122
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, February 2013",
+  "revision_legend": null,
+  "body": [
+    "The fact that a criminal charge has been filed against the defendant[s] is not evidence that the charge is true. You must not be biased against the defendant[s] just because (he/she/they) (has/have) been arrested, charged with a crime, or brought to trial.",
+    "A defendant in a criminal case is presumed to be innocent. This presumption requires that the People prove a defendant guilty beyond a reasonable doubt. Whenever I tell you the People must prove something, I mean they must prove it beyond a reasonable doubt [unless I specifically tell you otherwise].",
+    "Proof beyond a reasonable doubt is proof that leaves you with an abiding conviction that the charge is true. The evidence need not eliminate all possible doubt because everything in life is open to some possible or imaginary doubt.",
+    "In deciding whether the People have proved their case beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the defendant[s] guilty beyond a reasonable doubt, (he/she/they) (is/are) entitled to an acquittal and you must find (him/her/them) not guilty."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the presumption of innocence and the state’s burden of proof. (*People v. Vann* (1974) 12 Cal.3d 220, 225–227 [115 Cal.Rptr. 352, 524 P.2d 824]; *People v. Soldavini* (1941) 45 Cal.App.2d 460, 463 [114 P.2d 415]; *People v. Phillips* (1997) 59 Cal.App.4th 952, 956–958 [69 Cal.Rptr.2d 532].)"
+      },
+      {
+        "text": "If the court will be instructing that the prosecution has a different burden of proof, give the bracketed phrase “unless I specifically tell you otherwise.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, §§ 1096, 1096a; *People v. Freeman* (1994) 8 Cal.4th 450, 503–504 [34 Cal.Rptr.2d 558, 882 P.2d 249]; *Victor v. Nebraska* (1994) 511 U.S. 1, 16–17 [114 S.Ct. 1239, 127 L.Ed.2d 583]; *Lisenbee v. Henry* (9th Cir. 1999) 166 F.3d 997, 999."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Ramos* (2008) 163 Cal.App.4th 1082, 1088–1089 [78 Cal.Rptr.3d 186]."
+      },
+      {
+        "text": "• This Instruction Does Not Suggest That Bias Against Defendant Is Permissible. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1185–1186 [67 Cal.Rptr.3d 871]."
+      },
+      {
+        "text": "• Cited With Approval. *People v. Aranda* (2012) 55 Cal.4th 342, 353 [145 Cal.Rptr.3d 855]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "This instruction is based directly on Penal Code section 1096. The primary changes are a reordering of concepts and a definition of reasonable doubt stated in the affirmative rather than in the negative. The instruction also refers to the jury’s duty to impartially compare and consider all the evidence. (See *Victor v. Nebraska* (1994) 511 U.S. 1, 16–17 [114 S.Ct. 1239, 127 L.Ed.2d 583].) The appellate courts have urged the trial courts to exercise caution in modifying the language of section 1096 to avoid error in defining reasonable doubt. (See *People v. Freeman* (1994) 8 Cal.4th 450, 503–504 [34 Cal.Rptr.2d 558, 882 P.2d 249]; *People v. Garcia* (1975) 54 Cal.App.3d 61, 63 [126 Cal.Rptr. 275].) The instruction includes all the concepts contained in section 1096 and substantially tracks the statutory language. For an alternate view of instructing on reasonable doubt, see Committee on Standard Jury Instructions—Criminal, Minority Report to CALJIC “Reasonable Doubt” Report, in Alternative Definitions of Reasonable Doubt: A Report to the California Legislature (May 22, 1987; repr., San Francisco: Daily Journal, 1987) pp. 51–53."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Pinpoint Instruction on Reasonable Doubt"
+      },
+      {
+        "text": "A defendant is entitled, on request, to a nonargumentative instruction that directs attention to the defense’s theory of the case and relates it to the state’s burden of proof. (*People v. Sears* (1970) 2 Cal.3d 180, 190 [84 Cal.Rptr. 711, 465 P.2d 847] [error to deny requested instruction relating defense evidence to the element of premeditation and deliberation].) Such an instruction is sometimes called a pinpoint instruction. “What is pinpointed is not specific evidence as such, but the theory of the defendant’s case. It is the specific evidence on which the theory of the defense ‘focuses’ which is related to reasonable doubt.” (*People v. Adrian* (1982) 135 Cal.App.3d 335, 338 [185 Cal.Rptr. 506] [court erred in refusing to give requested instruction relating self-defense to burden of proof]; see also *People v. Granados* (1957) 49 Cal.2d 490, 496 [319 P.2d 346] [error to refuse instruction relating reasonable doubt to commission of felony in felony-murder case]; *People v. Brown* (1984) 152 Cal.App.3d 674, 677–678 [199 Cal.Rptr. 680] [error to refuse instruction relating reasonable doubt to identification].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

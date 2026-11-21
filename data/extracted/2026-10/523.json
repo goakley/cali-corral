@@ -1,0 +1,108 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "523",
+  "title": "First Degree Murder: Hate Crime (Pen. Code, § 190.03)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      340,
+      342
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017, March 2022",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of first degree murder [as charged in Count ______], you must then decide whether the People have proved the additional allegation that the murder was a hate crime.",
+    "To prove this allegation the People must prove that the defendant committed the murder, in whole or in part, because of the deceased person’s actual or perceived (disability[,]/[or] gender[,]/[or] nationality[,]/[or] race or ethnicity[,]/[or] religion[,]/[or] sexual orientation[,]/[or] association with a person or group with (this/one or more of these) actual or perceived characteristic[s]).",
+    "The defendant acted, *in whole or in part, because of* the actual or perceived characteristic[s] of the deceased person if:",
+    "1. The defendant was biased against the other person based on the other person’s actual or perceived (disability[,]/[or] gender[,]/[or] nationality[,]/[or] race or ethnicity[,]/[or] religion[,]/[or] sexual orientation[,]/[or] association with a person or group having (this/one or more of these) actual or perceived characteristic[s]);",
+    "AND",
+    "2. The bias motivation caused the defendant to commit the alleged murder.",
+    "If you find that the defendant had more than one reason to commit the alleged murder, the bias described here must have been a substantial motivating factor. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that motivated the conduct.",
+    "[The term *disability* is explained in Instruction 1353, to which you should refer.]",
+    "[*Gender*, as used here, means sex and includes a person’s gender identity and gender related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.]",
+    "[*Nationality*, as used here, means country of origin, immigration status, including citizenship, and national origin.]",
+    "[*Race or ethnicity* includes ancestry, color, and ethnic background.]",
+    "[*Religion*, as used here, includes all aspects of religious belief, observance, and practice and includes agnosticism and atheism.]",
+    "[*Sexual orientation* means heterosexuality, homosexuality, or bisexuality.]",
+    "[*Association with a person or group with (this/one or more of these) actual or perceived characteristic[s]* includes (advocacy for[,]/identification with[,]/[or] being on the ground owned or rented by[, or adjacent to,]) a (person[,]/group[,]/family[,]/community center[,]/educational facility[,]/office[,]/meeting hall[,]/place of worship[,]/private institution[,]/public agency[,]/library[,]/[or] other entity) that has, or is identified with people who have, (that/one or more of those) characteristic[s].]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the sentencing enhancement. (See *People v. Marshall* (2000) 83 Cal.App.4th 186, 193–195 [99 Cal.Rptr.2d 441]; *Apprendi v. New Jersey* (2000) 530 U.S. 466, 475–476, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "This statute was substantially revised, effective January 1, 2005. Prior to that time, the statute was limited to murder committed because of the decedent’s disability, gender, or sexual orientation."
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of this enhancement. (See *People v. Valenti* (2016) 243 Cal.App.4th 1140, 1165 [197 Cal.Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      },
+      {
+        "text": "Give all relevant bracketed definitions. If the term “disability” is used, give CALCRIM No. 1353, *Hate Crime: Disability Defined*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Murder That is a Hate Crime. Pen. Code, § 190.03(a)."
+      },
+      {
+        "text": "• Hate Crime Defined. Pen. Code, § 422.55."
+      },
+      {
+        "text": "• “In Whole or in Part Because of” Defined. Pen. Code, § 422.56(d); *In re M.S.* (1995) 10 Cal.4th 698, 719–720 [42 Cal.Rptr.2d 355, 896 P.2d 1365]; People v. Superior *Court (Aishman)* (1995) 10 Cal.4th 735, 741 [42 Cal.Rptr.2d 377, 896 P.2d 1387]."
+      },
+      {
+        "text": "• Disability Defined. Pen. Code, § 422.56(b); Gov. Code, § 12926(i)–(*l*)."
+      },
+      {
+        "text": "• Gender Defined. Pen. Code, §§ 422.56(c) & 422.57."
+      },
+      {
+        "text": "• Nationality Defined. Pen. Code, § 422.56(e)."
+      },
+      {
+        "text": "• Race or Ethnicity Defined. Pen. Code, § 422.56(f)."
+      },
+      {
+        "text": "• Religion Defined. Pen. Code, § 422.56(g)."
+      },
+      {
+        "text": "• Sexual Orientation Defined. Pen. Code, § 422.56(h)."
+      },
+      {
+        "text": "• Association With Defined. Pen. Code, § 422.56(a)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

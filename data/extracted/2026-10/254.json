@@ -1,0 +1,47 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "254",
+  "title": "Strict Liability Crime",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      144,
+      144
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, February 2026",
+  "revision_legend": null,
+  "body": [
+    "For you to find a person guilty of the crime[s] of ______ <insert name[s] of alleged offense[s]> [or to find the allegation[s] of ______ <insert name[s] of enhancement[s]> true], a person only needs to do the prohibited act [or to fail to do the required act]. The People do not need to prove any particular mental state."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction is provided for the court to use when instructing on a strict liability offense. The committee does not believe that the instruction is required. However, the instruction may be useful when the case also involves general intent, specific intent, or criminal negligence offenses. Do not give this instruction unless the court is completely certain that the offense is a strict liability offense. For a discussion of the rarity of strict liability offenses in modern criminal law, see *People v. Garcia* (2001) 25 Cal.4th 744, 754 [107 Cal.Rptr.2d 355, 23 P.3d 590], and *People v. Simon* (1995) 9 Cal.4th 493, 519–522 [37 Cal.Rptr.2d 278, 886 P.2d 1271]."
+      },
+      {
+        "text": "The court must specify for the jury which offenses are strict liability offenses by inserting the names of the offenses where indicated in the instruction. (See *People v. Hill* (1967) 67 Cal.2d 105, 118 [60 Cal.Rptr. 234, 429 P.2d 586].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Strict Liability Offenses Discussed. *People v. Garcia, supra*, 25 Cal.4th at p. 754; *People v. Simon, supra*, 9 Cal.4th at pp. 519–522."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 60
+  },
+  "warnings": []
+}

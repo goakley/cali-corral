@@ -1,0 +1,82 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2241",
+  "title": "Driver and Driving Defined (Veh. Code, § 305)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1580,
+      1581
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "[A *driver* is a person who drives or is in actual physical control of a vehicle.]",
+    "[A person *drives* a vehicle when he or she intentionally causes it to move by exercising actual physical control over it. The person must cause the vehicle to move, but the movement may be slight.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "No case has held that the court has a sua sponte duty to define “driver” or “driving.” This instruction is provided for the court to use, on request, at its discretion."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Driver Defined. Veh. Code, § 305."
+      },
+      {
+        "text": "• Driving Defined. *Mercer v. Department of Motor Vehicles* (1991) 53 Cal.3d 753, 763–765 [280 Cal.Rptr. 745, 809 P.2d 404]."
+      },
+      {
+        "text": "• Slight Movement Sufficient. *Padilla v. Meese* (1986) 184 Cal.App.3d 1022, 1029 [229 Cal.Rptr. 310]; *Music v. Dept. of Motor Vehicles* (1990) 221 Cal.App.3d 841, 850 [270 Cal.Rptr. 692]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Circumstantial Evidence"
+      },
+      {
+        "text": "Driving may be established through circumstantial evidence. (*Mercer v. Dept. of Motor Vehicles* (1991) 53 Cal.3d 753, 770 [280 Cal.Rptr. 745, 809 P.2d 404].) For example, in *People v. Wilson* (1985) 176 Cal.App.3d Supp. 1, 9 [222 Cal.Rptr. 540], the court found sufficient evidence of driving where the vehicle was parked on the freeway, over a mile from the on-ramp, and the defendant, the sole occupant of the vehicle, was found in the driver’s seat with the vehicle’s engine running."
+      },
+      {
+        "heading": true,
+        "text": "Engine Need Not Be On"
+      },
+      {
+        "text": "In *People v. Hernandez* (1990) 219 Cal.App.3d 1177, 1184 [269 Cal.Rptr. 21], the court held that the defendant was “driving” because he was “seated in the driver’s seat steering or controlling the truck while it was still moving, even though the engine was no longer running.” (See also *People v. Jordan* (1977) 75 Cal.App.3d Supp. 1, 9 [142 Cal.Rptr. 401] [defendant “driving” a moped when she moved it by pedaling, even though the engine was not on].)"
+      },
+      {
+        "heading": true,
+        "text": "Steering Vehicle"
+      },
+      {
+        "text": "In *In re Queen T.* (1993) 14 Cal.App.4th 1143, 1145 [17 Cal.Rptr.2d 922], the court held that the minor was “driving” when she steered the vehicle, even though someone else was sitting in the driver’s seat operating the accelerator and brake."
+      },
+      {
+        "heading": true,
+        "text": "Relocating Vehicle in Accident"
+      },
+      {
+        "text": "In *People v. Kelley* (1937) 27 Cal.App.2d Supp. 771, 773 [70 P.2d 276], the court held that the defendant was not “driving” when he got in the driver’s seat and steered a disabled vehicle, moving it four or five feet to a safe location following an accident. The court specifically stated that its holding was based on the unique facts of the case and that it was not attempting to “give a definition to the word ‘drive.’ ” (*Id.* at p. 775.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

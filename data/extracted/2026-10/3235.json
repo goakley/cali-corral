@@ -1,0 +1,117 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3235",
+  "title": "Aggravating Factor: Numerous or Increasingly Serious Prior Convictions or Sustained Juvenile Delinquency Petitions",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2330,
+      2332
+    ]
+  },
+  "revision_line": "New February 2026",
+  "revision_legend": null,
+  "body": [
+    "<Introductory paragraph for nonbifurcated trial>",
+    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______[,]][ or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether the People have proved the additional allegation that ______ <insert name of defendant>’s prior (convictions/[ or] sustained juvenile delinquency petitions) are numerous or of increasing seriousness.]",
+    "<Introductory paragraph for bifurcated trial>",
+    "[The People have alleged that ______ <insert name of defendant>’s prior (convictions/[ or] sustained juvenile delinquency petitions) are numerous or of increasing seriousness.]",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant has numerous prior (criminal convictions/[ or] sustained juvenile delinquency petitions);",
+    "OR",
+    "2. The defendant’s prior (criminal convictions/[ or] sustained juvenile delinquency petitions) are of increasing seriousness.",
+    "You may not find the allegation true unless all of you agree that the People have proved that the defendant’s prior (criminal convictions/[ or] sustained juvenile delinquency petitions) are numerous or of increasing seriousness. However, all of you do not need to agree how many (criminal convictions/[ or] sustained juvenile delinquency petitions) qualify as numerous or which prior (criminal convictions/[ or] sustained juvenile delinquency petitions) were of increasing seriousness.",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction is provided for the court to use for an aggravating factor as stated in California Rules of Court, rule 4.421. (See Pen. Code, §§ 1170, 1170.1; see also *People v. Wiley* (2025) 17 Cal.5th 1069, 1086 [333 Cal.Rptr.3d 635, 570 P.3d 436]; *Cunningham v. California* (2007) 549 U.S. 270 [127 S.Ct. 856, 166 L.Ed.2d 856].)"
+      },
+      {
+        "text": "Do not give an aggravating factor that is an element of the convicted offense. (Pen. Code, § 1170(b)(5).)"
+      },
+      {
+        "text": "The court should specify the crime(s) to which the aggravating factor pertains if it applies to one or more specific counts."
+      },
+      {
+        "text": "The court must bifurcate the jury’s determination of the aggravating factors on the defendant’s request “[e]xcept where evidence supporting an aggravating circumstance is admissible to prove or defend against the charged offense or enhancement at trial, or it is otherwise authorized by law.” (Pen. Code, § 1170(b)(2).) For a bifurcated trial, the court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggravating Factor. California Rules of Court, rule 4.421(b)(2)."
+      },
+      {
+        "text": "• Two Prior Convictions Are Not “Numerous.” *People v. Quiles* (2009) 177 Cal.App.4th 612, 621 [99 Cal.Rptr.3d 378]; *People v. Fernandez* (1990) 226 Cal.App.3d 669, 681 [276 Cal.Rptr. 631]."
+      },
+      {
+        "text": "• Meaning of “Numerous” Contrasts With Mitigation Factor of No Prior Record or Insignificant Prior Record. *People v. Simpson* (1979) 90 Cal.App.3d 919, 926 [154 Cal.Rptr. 249]."
+      },
+      {
+        "text": "• Present Conviction Is Relevant Whether Priors Are Increasingly Serious. *People v. Clark* (1992) 12 Cal.App.4th 663, 666 [15 Cal.Rptr.2d 709]; *People v. Searle* (1989) 213 Cal.App.3d 1091, 1098 [261 Cal.Rptr. 898]."
+      },
+      {
+        "text": "• Elements of Offense and Statutory Range of Punishment Can Be Considered to Determine Seriousness. *People v. Quiles, supra*, 177 Cal.App.4th at p. 622; *People v. Black* (2007) 41 Cal.4th 799, 820 [62 Cal.Rptr.3d 569, 161 P.3d 1130], overruled on other grounds by *People v. Wiley, supra*, 17 Cal.5th at p. 1085."
+      },
+      {
+        "text": "• Unanimity Not Required Regarding Facts Underlying the Aggravating Factor. *People v. McDaniel* (2021) 12 Cal.5th 97, 142–148 [283 Cal.Rptr.3d 32, 493 P.3d 815]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Aggravating Factors Relating to the Defendant"
+      },
+      {
+        "text": "Each of the instructions for aggravating factors related to the manner in which the defendant committed one or more charged crimes includes language informing the jury that they may not find the aggravating factor allegation true unless the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime. (See CALCRIM Nos. 3224–3233; see also Cal. Rules of Court, rule 4.421(a) [setting forth aggravating factors “relating to the crime”].) This instructional language is derived from case law holding that “[t]he essence of ‘aggravation’ relates to the effect of a particular fact in making the offense distinctively worse than the ordinary.” (*People v. Moreno* (1982) 128 Cal.App.3d 103, 110 [179 Cal.Rptr. 879]; see also *People v. Black, supra,* 41 Cal.4th at p. 817, overruled on other grounds by *People v. Wiley, supra,* 17 Cal.5th at p. 1085.)"
+      },
+      {
+        "text": "California Rules of Court, rule 4.421(b) sets forth additional aggravating factors “relating to the defendant.” The published cases addressing the requirement that aggravating factors should only be found true where the defendant’s conduct was “distinctively worse than an ordinary commission of the underlying crime” all address aggravating factors “relating to the crime.” In the absence of any published case law applying this rule to aggravating factors “related to the defendant”—which generally involve indicia of recidivism—the committee has not included any instructional language directing the jury to evaluate whether aggravating factors “related to the defendant” render the defendant’s conduct “distinctively worse than an ordinary commission of the underlying crime.”"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Prohibition Against Dual Use of Facts at Sentencing"
+      },
+      {
+        "text": "The jury may find true multiple aggravating factors based on the same underlying fact. However, at sentencing, a single underlying fact may not support more than one aggravating factor. (*People v. Fernandez, supra*, 226 Cal.App.3d at p. 680.)"
+      },
+      {
+        "heading": true,
+        "text": "Vehicular Manslaughter Without Gross Negligence"
+      },
+      {
+        "text": "In *People v. Piceno* (1987) 195 Cal.App.3d 1353, 1360–1361 [241 Cal.Rptr. 391], the defendant’s juvenile record consisted of seven minor theft and drug-related offenses. The court held that, under the facts of the case, the defendant’s “juvenile record standing alone is insufficient as a matter of law in a case of vehicular manslaughter without gross negligence to aggravate the sentence.”"
+      },
+      {
+        "text": "3236–3237. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

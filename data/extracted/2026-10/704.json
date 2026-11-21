@@ -1,0 +1,74 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "704",
+  "title": "Special Circumstances: Circumstantial Evidence—Sufficiency",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      506,
+      507
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "Before you may rely on circumstantial evidence to conclude that a special circumstance allegation is true, you must be convinced that the People have proved each fact essential to that conclusion beyond a reasonable doubt.",
+    "Also, before you may rely on circumstantial evidence to find that a special circumstance allegation is true, you must be convinced that the only reasonable conclusion supported by the circumstantial evidence is that the special circumstance allegation is true. If you can draw two or more reasonable conclusions from the circumstantial evidence, and one of those reasonable conclusions supports a finding that the special circumstance allegation is true and another reasonable conclusion supports a finding that it is not true, you must conclude that the allegation was not proved by the circumstantial evidence. However, when considering circumstantial evidence, you must accept only reasonable conclusions and reject any that are unreasonable."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on how to evaluate circumstantial evidence if the prosecution substantially relies on circumstantial evidence to establish any element of the case. (*People v. Yrigoyen* (1955) 45 Cal.2d 46, 49 [286 P.2d 1] [duty exists where circumstantial evidence relied on to prove any element, including intent]; *People v. Bloyd* (1987) 43 Cal.3d 333, 351–352 [233 Cal.Rptr. 368, 729 P.2d 802].)"
+      },
+      {
+        "text": "Give CALCRIM No. 223, *Direct and Circumstantial Evidence: Defined*, with this instruction."
+      },
+      {
+        "text": "The Supreme Court has held that it is appropriate to give an instruction specifically tailored to the use of circumstantial evidence in determining the truth of a special circumstance allegation. (*People v. Maury* (2003) 30 Cal.4th 342, 428 [133 Cal.Rptr.2d 561, 68 P.3d 1]; *People v. Hughes* (2002) 27 Cal.4th 287, 346 [116 Cal.Rptr.2d 401, 39 P.3d 432]; *People v. Lewis* (2001) 25 Cal.4th 610, 653 [106 Cal.Rptr.2d 629, 22 P.3d 392].) However, the court is not *required* to give this instruction if it has also given the more general instruction on circumstantial evidence. (*People v. Hines* (1997) 15 Cal.4th 997, 1051 [64 Cal.Rptr.2d 594, 938 P.2d 388]; *People v. Lewis, supra,* 25 Cal.4th at p. 653; see CALCRIM No. 224, *Circumstantial Evidence: Sufficiency of Evidence*.)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 223, *Direct and Circumstantial Evidence: Defined*."
+      },
+      {
+        "text": "CALCRIM No. 224, *Circumstantial Evidence: Sufficiency of Evidence*."
+      },
+      {
+        "text": "CALCRIM No. 225, *Circumstantial Evidence: Intent or Mental State*."
+      },
+      {
+        "text": "CALCRIM No. 705, *Special Circumstances: Circumstantial Evidence—Intent or Mental State*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Duty to Instruct on Circumstantial Evidence Generally. *People v. Yrigoyen* (1955) 45 Cal.2d 46, 49 [286 P.2d 1]; *People v. Bloyd* (1987) 43 Cal.3d 333, 351–352 [233 Cal.Rptr. 368, 729 P.2d 802]."
+      },
+      {
+        "text": "• Appropriate to Instruct on Special Circumstance. *People v. Maury* (2003) 30 Cal.4th 342, 428 [133 Cal.Rptr.2d 561, 68 P.3d 1]; *People v. Hughes* (2002) 27 Cal.4th 287, 346 [116 Cal.Rptr.2d 401, 39 P.3d 432]; *People v. Lewis* (2001) 25 Cal.4th 610, 653 [106 Cal.Rptr.2d 629, 22 P.3d 392]."
+      },
+      {
+        "text": "• Instruction Duplicative, Not Required. *People v. Lewis* (2001) 25 Cal.4th 610, 653 [106 Cal.Rptr.2d 629, 22 P.3d 392]; *People v. Hines* (1997) 15 Cal.4th 997, 1051 [64 Cal.Rptr.2d 594, 938 P.2d 388]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

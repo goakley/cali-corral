@@ -1,0 +1,141 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "402",
+  "title": "Natural and Probable Consequences Doctrine (Target and Non-Target Offenses Charged)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      244,
+      247
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2010, February 2013, August 2014, February 2015, September 2019, September 2023",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged in Count[s] ______ with ______ <insert target offense> and in Counts[s] ______ with ______ <insert nontarget offense>.",
+    "You must first decide whether the defendant is guilty of ______ <insert target offense>. If you find the defendant is guilty of this crime, you must then decide whether (he/she) is guilty of ______ <insert nontarget offense>.",
+    "Under certain circumstances, a person who is guilty of one crime may also be guilty of other crimes that were committed at the same time.",
+    "To prove that the defendant is guilty of ______ <insert nontarget offense>, the People must prove that:",
+    "1. The defendant is guilty of ______ <insert target offense>;",
+    "2. During the commission of ______ <insert target offense> a coparticipant in that ______ <insert target offense> committed the crime of ______ <insert nontarget offense>;",
+    "AND",
+    "3. Under all of the circumstances, a reasonable person in the defendant’s position would have known that the commission of ______ <insert nontarget offense> was a natural and probable consequence of the commission of the ______ <insert target offense>.",
+    "A *coparticipant* in a crime is the perpetrator or anyone who aided and abetted the perpetrator. It does not include a victim or innocent bystander.",
+    "A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.",
+    "[Do not consider evidence of defendant’s intoxication in deciding whether ______ <insert nontarget offense> was a natural and probable consequence of ______ <insert target offense>.]",
+    "To decide whether the crime of ______ <insert nontarget offense> was committed, please refer to the separate instructions that I (will give/have given) you on that crime.",
+    "[The People allege that the defendant originally intended to aid and abet the commission of either ______ <insert target offense> or ______ <insert other target offense>. The defendant is guilty of ______ <insert nontarget offense> if the People have proved that the defendant aided and abetted either ______ <insert target offense> or ______ <insert other target offense> and that ______ <insert nontarget offense> was the natural and probable consequence of either ______ <insert target offense> or ______ <insert other target offense>. However, you do not need to agree on which of these two crimes the defendant aided and abetted.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on aiding and abetting when the prosecution relies on that theory of culpability. (*People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to identify and instruct on any target offense relied on by the prosecution as a predicate offense when substantial evidence supports the theory. Give all relevant instructions on the alleged target offense or offenses. The court, however, does not have to instruct on all potential target offenses supported by the evidence if the prosecution does not rely on those offenses. (*People v. Prettyman* (1996) 14 Cal.4th 248, 267–268 [58 Cal.Rptr.2d 827, 926 P.2d 1013]; see *People v. Huynh* (2002) 99 Cal.App.4th 662, 677–678 [121 Cal.Rptr.2d 340] [no sua sponte duty to instruct on simple assault when prosecutor never asked court to consider it as target offense].)"
+      },
+      {
+        "text": "The target offense is the crime that the accused parties intended to commit. The nontarget is an additional unintended crime that occurs during the commission of the target."
+      },
+      {
+        "text": "Give the bracketed paragraph beginning, “Do not consider evidence of defendant’s intoxication” when instructing on aiding and abetting liability for a nontarget offense. (*People v. Mendoza* (1998) 18 Cal.4th 1114, 1134 [77 Cal.Rptr.2d 428, 959 P.2d 735].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "Give CALCRIM No. 400, *Aiding and Abetting: General Principles*, and CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*, before this instruction."
+      },
+      {
+        "text": "This instruction should be used when the prosecution relies on the natural and probable consequences doctrine and charges both target and nontarget crimes. If only nontarget crimes are charged, give CALCRIM No. 403, *Natural and Probable Consequences Doctrine (Only Nontarget Offense Charged)*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aiding and Abetting Defined. *People v. Beeman, supra,* 35 Cal.3d at pp. 560–561."
+      },
+      {
+        "text": "• Natural and Probable Consequences, Reasonable Person Standard. *People v. Nguyen* (1993) 21 Cal.App.4th 518, 531 [26 Cal.Rptr.2d 323]."
+      },
+      {
+        "text": "• Reasonably Foreseeable Crime Need Not Be Committed for Reason Within Common Plan. *People v. Smith* (2014) 60 Cal.4th 603, 616–617 [180 Cal.Rptr.3d 100, 337 P.3d 1159]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "In *People v. Prettyman, supra,* 14 Cal.4th at p. 268, the court concluded that the trial court must sua sponte identify and describe for the jury any target offenses allegedly aided and abetted by the defendant."
+      },
+      {
+        "text": "Although no published case to date gives a clear definition of the terms “natural” and “probable,” nor holds that there is a sua sponte duty to define them, we have included a suggested definition. (See *People v. Prettyman, supra,* 14 Cal.4th at p. 291 (conc. & dis. opn. of Brown, J.); see also *People v. Coffman and Marlow* (2004) 34 Cal.4th 1, 107–109 [17 Cal.Rptr.3d 710, 96 P.3d 30] [court did not err in failing to define “natural and probable”].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Murder and Attempted Murder"
+      },
+      {
+        "text": "A verdict of murder or attempted murder may not be based on the natural and probable consequences doctrine. (Pen. Code, § 188(a)(3); *People v. Gentile* (2020) 10 Cal.5th 830, 849 [272 Cal.Rptr.3d 814, 477 P.3d 539] [murder]; *People v. Sanchez* (2022) 75 Cal.App.5th 191, 196 [290 Cal.Rptr.3d 390] [attempted murder].)"
+      },
+      {
+        "heading": true,
+        "text": "Lesser Included Offenses"
+      },
+      {
+        "text": "The court has a duty to instruct on lesser included offenses that could be the natural and probable consequence of the intended offense when the evidence raises a question whether the greater offense is a natural and probable consequence of the original, intended criminal act. (*People v. Woods* (1992) 8 Cal.App.4th 1570, 1586–1588 [11 Cal.Rptr.2d 231] [aider and abettor may be found guilty of second degree murder under doctrine of natural and probable consequences although the principal was convicted of first degree murder].)"
+      },
+      {
+        "heading": true,
+        "text": "Specific Intent—Nontarget Crimes"
+      },
+      {
+        "text": "Before an aider and abettor may be found guilty of a specific intent crime under the natural and probable consequences doctrine, the jury must first find that the perpetrator possessed the required specific intent. (*People v. Patterson* (1989) 209 Cal.App.3d 610, 614 [257 Cal.Rptr. 407] [trial court erroneously failed to instruct the jury that they must find that the perpetrator had the specific intent to kill necessary for attempted murder before they could find the defendant guilty as an aider and abettor under the “natural and probable” consequences doctrine], disagreeing with *People v. Hammond* (1986) 181 Cal.App.3d 463 [226 Cal.Rptr. 475] to the extent it held otherwise.) However, it is not necessary that the jury find that the aider and abettor had the specific intent; the jury must only determine that the specific intent crime was a natural and probable consequence of the original crime aided and abetted. (*People v. Woods, supra,* 8 Cal.App.4th at pp. 1586–1587.)"
+      },
+      {
+        "heading": true,
+        "text": "Target and Nontarget Offense May Consist of Same Act"
+      },
+      {
+        "text": "Although generally, nontarget offenses charged under the natural and probable consequences doctrine will be different and typically more serious criminal acts than the target offense alleged, they may consist of the same act with differing mental states. (*People v. Laster* (1997) 52 Cal.App.4th 1450, 1463–1466 [61 Cal.Rptr.2d 680] [defendants were properly convicted of attempted murder as natural and probable consequence of aiding and abetting discharge of firearm from vehicle. Although both crimes consist of same act, attempted murder requires more culpable mental state].)"
+      },
+      {
+        "heading": true,
+        "text": "Target Offense Not Committed"
+      },
+      {
+        "text": "The Supreme Court has left open the question whether a person may be liable under the natural and probable consequences doctrine for a nontarget offense, if the target offense was not committed. (*People v. Prettyman, supra,* 14 Cal.4th at p. 262, fn. 4, but see *People v. Ayala* (2010) 181 Cal.App.4th 1440, 1452 [105 Cal.Rptr.3d 575]; *People v. Laster, supra,* 52 Cal.App.4th at pp. 1464–1465 [61 Cal.Rptr.2d 680].)"
+      },
+      {
+        "text": "See generally, the related issues under CALCRIM No. 401, *Aiding and Abetting: Intended Crimes*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

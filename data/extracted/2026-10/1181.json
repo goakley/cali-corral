@@ -1,0 +1,80 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1181",
+  "title": "Sexual Abuse of Animal (Pen. Code, § 286.5)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1028,
+      1029
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sexual abuse of an animal [in violation of Penal Code section 286.5].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual contact with an animal;",
+    "AND",
+    "2. The defendant did so with the intent of sexual arousal or gratification, abuse, or financial gain.",
+    "*Sexual contact* means any act between a person and an animal involving contact between the sex organs or anus of one and the mouth, sex organs, or anus of the other, or, without a bona fide veterinary or animal husbandry purpose, the insertion, however slight, of any part of the body of a person or any object into the vaginal or anal opening of an animal, or the insertion of any part of the body of an animal into the vaginal or anal opening of a person.",
+    "[*Animal* means any nonhuman creature, whether alive or dead.]",
+    "<Defense: Veterinarian>",
+    "[The defendant is not guilty of this offense if (he/she) was a licensed veterinarian who performed a lawful and accepted practice related to veterinary medicine. The People have the burden of proving beyond a reasonable doubt that the defendant was not a veterinarian who performed a lawful and accepted practice. If the People have not met this burden, you must find the defendant not guilty of this offense.]",
+    "<Defense: Veterinary Technician>",
+    "[The defendant is not guilty of this offense if (he/she) was a certified veterinary technician who, under the guidance of a licensed veterinarian, performed a lawful and accepted practice related to veterinary medicine. The People have the burden of proving beyond a reasonable doubt that the defendant was not a veterinary technician who performed a lawful and accepted practice under the guidance of a licensed veterinarian. If the People have not met this burden, you must find the defendant not guilty of this offense.]",
+    "<Defense: Conduct Authorized>",
+    "[The defendant is not guilty of this offense if (he/she) performed any artificial insemination of animals for reproductive purposes, any accepted animal husbandry practices such as raising, breeding, or assisting with the birthing process of animals or any other practice that provides care for an animal, or to any generally accepted practices related to the judging of breed conformation. The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to perform the act. If the People have not met this burden, you must find the defendant not guilty of this offense.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant was a licensed veterinarian or a certified veterinary technician, or was otherwise authorized to perform the act, give the relevant bracketed *Defense* paragraph."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 286.5."
+      },
+      {
+        "text": "• Sexual Contact Defined. Pen. Code, § 286.5(c)(2)."
+      },
+      {
+        "text": "• Animal Defined. Pen. Code, § 286.5(c)(1)."
+      },
+      {
+        "text": "• Exceptions. Pen. Code, § 286.5(b)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

@@ -1,0 +1,129 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1515",
+  "title": "Arson (Pen. Code, § 451(c) & (d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1172,
+      1174
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, August 2016, April 2020, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with arson [in violation of Penal Code section 451(c/d)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant set fire to or burned [or (counseled[,]/[or] helped[,]/[or] caused) the burning of] (a structure/forest land/property);",
+    "AND",
+    "2. (He/She) acted willfully and maliciously.",
+    "To *set fire to or burn* means to damage or destroy with fire either all or part of something, no matter how small the part.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "As used here, someone acts *maliciously* when he or she intentionally does a wrongful act under circumstances that the direct, natural, and highly probable consequences would be the burning of the (structure/[or] property) or when he or she acts with the unlawful intent to defraud, annoy, or injure someone else.",
+    "[A *structure* is any (building/bridge/tunnel/power plant/commercial or public tent).]",
+    "[*Forest land* means brush-covered land, cut-over land, forest, grasslands, or woods.]",
+    "[*Property* means personal property or land other than forest land.]",
+    "[A person does not commit arson if the only thing burned is his or her own personal property, unless he or she acts with the intent to defraud, or the fire also injures someone else or someone else’s structure, forest land, or property.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If it is also alleged that the fire caused great bodily injury or burned an inhabited structure or property, see CALCRIM No. 1501, *Arson: Great Bodily Injury* and CALCRIM No. 1502, *Arson: Inhabited Structure*."
+      },
+      {
+        "text": "If attempted arson is charged, do not instruct generally on attempts but give CALCRIM No. 1520, *Attempted Arson*. (Pen. Code, § 455.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 451(c–d)."
+      },
+      {
+        "text": "• “Structure” and “Forest Land” Defined. Pen. Code, § 450; see *People v. Labaer* (2001) 88 Cal.App.4th 289, 293–294 [105 Cal.Rptr.2d 629] [“structure” does not require finished or completed building]."
+      },
+      {
+        "text": "• “Maliciously” Defined. Pen. Code, § 450(e); *People v. Atkins* (2001) 25 Cal.4th 76, 88 [104 Cal.Rptr.2d 738, 18 P.3d 660]; *In re V.V.* (2011) 51 Cal.4th 1020, 1031, fn. 6 [125 Cal.Rptr.3d 421, 252 P.3d 979]."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Atkins, supra,* 25 Cal.4th at pp. 83–84, 86 [evidence of voluntary intoxication not admissible to negate mental state]."
+      },
+      {
+        "text": "• “Property” Defined. *In re L.T.* (2002) 103 Cal.App.4th 262, 264–265 [126 Cal.Rptr.2d 778]."
+      },
+      {
+        "text": "• “To Burn” Defined. *People v. Haggerty* (1873) 46 Cal. 354, 355; *In re Jesse L.* (1990) 221 Cal.App.3d 161, 166–167 [270 Cal.Rptr. 389]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Arson. Pen. Code, § 455."
+      },
+      {
+        "text": "• Unlawfully Causing a Fire. *People v. Hooper* (1986) 181 Cal.App.3d 1174, 1182 [226 Cal.Rptr. 810], disapproved of in *People v. Barton* (1995) 12 Cal.4th 186 [47 Cal.Rptr.2d 569, 906 P.2d 531] on its holding that failure to instruct on this crime as a lesser included offense of arson was invited error because defense counsel objected to such instruction; *People v. Schwartz* (1992) 2 Cal.App.4th 1319, 1324 [3 Cal.Rptr.2d 816]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Fixtures"
+      },
+      {
+        "text": "Fire damage to fixtures within a building may satisfy the burning requirement if the fixtures are an integral part of the structure. (*In re Jesse L., supra,* 221 Cal.App.3d at pp. 167–168; *People v. Lee* (1994) 24 Cal.App.4th 1773, 1778 [30 Cal.Rptr.2d 224] [whether wall-to-wall carpeting is a fixture is question of fact for jury].)"
+      },
+      {
+        "heading": true,
+        "text": "Property: Clothing"
+      },
+      {
+        "text": "Arson includes burning a victim’s clothing. (*People v. Reese* (1986) 182 Cal.App.3d 737, 739–740 [227 Cal.Rptr. 526].)"
+      },
+      {
+        "heading": true,
+        "text": "Property: Trash"
+      },
+      {
+        "text": "Burning trash that does not belong to the defendant is arson. There is no requirement for arson that the property belong to anyone. (*In re L.T., supra,* 103 Cal.App.4th at p. 264.)"
+      },
+      {
+        "heading": true,
+        "text": "Dual Convictions Prohibited"
+      },
+      {
+        "text": "A single act of arson cannot result in convictions under different subdivisions of Penal Code section 451. (*People v. Shiga* (2019) 34 Cal.App.5th 466, 475 [246 Cal.Rptr.3d 198].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

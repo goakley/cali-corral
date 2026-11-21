@@ -1,0 +1,60 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2305",
+  "title": "Defense: Momentary Possession of Controlled Substance",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1605,
+      1606
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that the defendant possessed ______ <insert name of controlled substance>, that possession was not illegal if the defendant can prove the defense of momentary possession. In order to establish this defense, the defendant must prove that:",
+    "1. The defendant possessed ______ <insert name of controlled substance> only for a momentary or transitory period;",
+    "2. The defendant possessed ______ <insert name of controlled substance> in order to (abandon[,]/[or] dispose of[,]/[or] destroy) it;",
+    "AND",
+    "3. The defendant did not intend to prevent law enforcement officials from obtaining the ______ <insert name of controlled substance>.",
+    "The defendant has the burden of proving this defense by a preponderance of the evidence. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that each of the three listed items is true."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of transitory possession when supported by the evidence. (*People v. Mijares* (1971) 6 Cal.3d 415, 423 [99 Cal.Rptr. 139, 491 P.2d 1115].)"
+      },
+      {
+        "text": "This defense “applies only to momentary or transitory possession of contraband for the purpose of disposal . . . .” (*People v. Martin* (2001) 25 Cal.4th 1180, 1191 [108 Cal.Rptr.2d 599, 25 P.3d 1081] [disapproving of *People v. Cole* (1988) 202 Cal.App.3d 1439, 1445 [249 Cal.Rptr. 601], which had held that the length of time the contraband was possessed was just one factor to consider].) As the *Martin* court explained, the defense is established if the evidence shows “brief or transitory possession of narcotics with the intent to dispose of the contraband.” (*Id.* at p. 1191, fn. 9.) The *Martin* court did not state that the defendant must also specifically intend to end someone else’s unlawful possession of the contraband or prevent someone else from obtaining the contraband. Thus, the committee has not included this as an element."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Momentary Possession. *People v. Martin* (2001) 25 Cal.4th 1180, 1191 [108 Cal.Rptr.2d 599, 25 P.3d 1081]; *People v. Mijares* (1971) 6 Cal.3d 415, 423 [99 Cal.Rptr. 139, 491 P.2d 1115]."
+      },
+      {
+        "text": "• Burden on Defendant to Establish by Preponderance. *People v. Spry* (1997) 58 Cal.App.4th 1345, 1369 [68 Cal.Rptr.2d 691] [noted as valid authority on this holding in *People v. Martin* (2001) 25 Cal.4th 1180, 1192, fn. 10 [108 Cal.Rptr.2d 599, 25 P.3d 1081]]; see also *People v. Mower* (2002) 28 Cal.4th 457, 480, fn. 8 [122 Cal.Rptr.2d 326, 49 P.3d 1067]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,142 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1551",
+  "title": "Arson Enhancements (Pen. Code, §§ 451.1, 456(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1189,
+      1192
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2020, March 2024, October 2025",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of arson [as charged in Count[s] ______], you must then decide whether[, for each crime of arson,] the People have proved (the additional allegation that/one or more of the following additional allegations):",
+    "<Alternative A—prior felony violation(s) of Pen. Code, § 451 or § 452>",
+    "• [The defendant was convicted of (felony arson/[(and/or)] felony unlawfully causing a fire) on ______ <insert date of conviction>. <Repeat for each prior felony conviction alleged.>]",
+    "<Alternative B—injury to firefighter, peace officer, or EMT>",
+    "• [(A/An) (firefighter[,]/peace officer[,]/[or] emergency worker) suffered great bodily injury as a result of the arson.]",
+    "<Alternative C—great bodily injury to more than one person>",
+    "• [The defendant caused great bodily injury to more than one person during the commission of the arson.]",
+    "<Alternative D—multiple structures burned>",
+    "• [The defendant caused multiple structures to burn during the commission of the arson.]",
+    "<Alternative E—device designed to accelerate fire>",
+    "• [The arson (caused great bodily injury[,]/[or] caused an inhabited structure or inhabited property to burn[,]/[or] burned a structure or forest land), and was caused by use of a device designed to accelerate the fire or delay ignition.]",
+    "<Alternative F—monetary gain, Pen. Code, § 456(b)>",
+    "• [The defendant committed the arson for monetary gain.]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[A *firefighter* includes anyone who is an officer, employee, or member of a (governmentally operated (fire department/fire protection or firefighting agency) in this state/federal fire department/federal fire protection or firefighting agency), whether or not he or she is paid for his or her services.]",
+    "[An *emergency worker* includes an emergency medical technician. An *emergency medical technician* is someone who holds a valid certificate under the Health and Safety Code as an emergency medical technician.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[A (structure/[or] property) is *inhabited* if someone lives there and either is present or has left but intends to return.]",
+    "[A (structure/[or] property) is *inhabited* if someone used it as a dwelling and left only because a natural or other disaster caused him or her to leave.]",
+    "[A (structure/[or] property) is not *inhabited* if the former residents have moved out and do not intend to return, even if some personal property remains inside.]",
+    "[A *device designed to accelerate the fire* means a piece of equipment or a mechanism intended, or devised, to hasten or increase the fire’s progress.]",
+    "[In order to prove that the defendant *caused* (great bodily injury to more than one person/[or] more than one structure to burn), the People must prove that:",
+    "1. A reasonable person in the defendant’s position would have foreseen that committing arson could begin a chain of events likely to result in (great bodily injury to more than one person/[or] the burning of more than one structure);",
+    "2. The commission of arson was a direct and substantial factor in causing (great bodily injury to more than one person/[or] the burning of more than one structure);",
+    "AND",
+    "3. The (great bodily injury to more than one person/[or the] burning of more than one structure) would not have happened if the defendant had not committed arson.]",
+    "[You must decide whether the People have proved this allegation for each crime of arson and return a separate finding for each crime of arson.]",
+    "The People have the burden of proving (this/each) allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the sentencing enhancement."
+      },
+      {
+        "text": "The reference to “arson” in the first paragraph refers to all crimes charged under Penal Code section 451, including arson of a structure, forest land, or property (see CALCRIM No. 1515), arson causing great bodily injury (see CALCRIM No. 1501), and arson of an inhabited structure (see CALCRIM No. 1502). It does not refer to aggravated arson under Penal Code section 451.5 (see CALCRIM No. 1500)."
+      },
+      {
+        "text": "Give one of the bracketed alternatives, A through E, depending on the enhancement alleged. Give all relevant bracketed definitions based on the enhancement alleged."
+      },
+      {
+        "text": "Give alternative F if monetary gain is alleged under Penal Code section 456(b). (See *Southern Union Co. v. U.S.* (2012) 567 U.S. 343 [132 S.Ct. 2344, 183 L.Ed.2d 318] [holding that the jury trial right prescribed by *Apprendi v. New Jersey* (2000) 530 U.S. 466 [120 S.Ct. 2348, 147 L.Ed.2d 435] applies to the imposition of criminal fines not statutorily authorized by the elements of the crime]; cf. *People v. Kramis* (2012) 209 Cal.App.4th 346, 351–352 [147 Cal.Rptr.3d 84] [*Apprendi* not implicated when trial court exercised discretion to impose fine within statutory range that did not require additional factual findings].)"
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “In order to prove that the defendant *caused*” if the prosecution alleges that the defendant caused great bodily injury to multiple people or caused multiple structures to burn. (Pen. Code, § 451.1(a)(5); see Pen. Code, § 451(a)–(c).)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “You must decide whether the People have proved” if the same enhancement is alleged for multiple counts of arson."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancements. Pen. Code, §§ 451.1, 456(b)."
+      },
+      {
+        "text": "• “Device Designed to Accelerate Fire” Defined. *People v. Johnson* (2022) 86 Cal.App.5th 258, 266–267 [301 Cal.Rptr.3d 814]; *People v. Kurtenbach* (2012) 204 Cal.App.4th 1264, 1278–1280 [139 Cal.Rptr.3d 637]; *People v. Andrade* (2000) 85 Cal.App.4th 579, 587 [102 Cal.Rptr.2d 254]."
+      },
+      {
+        "text": "• “Peace Officer” Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• “Firefighter” Defined. Pen. Code, § 245.1."
+      },
+      {
+        "text": "• “Emergency Medical Technician” Defined. Health & Saf. Code, §§ 1797.80–1797.84."
+      },
+      {
+        "text": "• Duty to Define Proximate Cause. See *People v. Bland* (2002) 28 Cal.4th 313, 334–335 [121 Cal.Rptr.2d 546, 48 P.3d 1107] [in context of firearm enhancement]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Discretion to Strike Enhancement"
+      },
+      {
+        "text": "The trial court retains discretion under Penal Code section 1385 to strike an arson sentence enhancement. (*People v. Wilson* (2002) 95 Cal.App.4th 198, 203 [115 Cal.Rptr.2d 355] [enhancement for use of an accelerant under Pen. Code, § 451.1(a)(5)].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 16
+  },
+  "warnings": []
+}

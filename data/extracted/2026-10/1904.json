@@ -1,0 +1,106 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1904",
+  "title": "Forgery by Falsifying, Altering, or Counterfeiting Document (Pen. Code, § 470(d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1375,
+      1377
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2019",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with forgery committed by (falsely making[,]/[or] altering[,]/[or] forging[,]/[or] counterfeiting) a document [in violation of Penal Code section 470(d)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (falsely made[,]/[or] altered[,]/[or] forged[,]/[or] counterfeited) (a/an) ______ <insert type[s] of document[s] from Pen. Code, § 470(d)>;",
+    "AND",
+    "2. When the defendant did that act, (he/she) intended to defraud.",
+    "Someone *intends to defraud* if he or she intends to deceive another person either to cause a loss of (money[,]/[or] goods[,]/[or] services[,]/[or] something [else] of value), or to cause damage to, a legal, financial, or property right.",
+    "[For the purpose of this instruction, a *person* includes (a governmental agency/a corporation/a business/an association/the body politic).]",
+    "[It is not necessary that anyone actually be defrauded or actually suffer a financial, legal, or property loss as a result of the defendant’s acts.]",
+    "[A person *alters* a document if he or she adds to, erases, or changes a part of the document that affects a legal, financial, or property right.]",
+    "[The People allege that the defendant (falsely made[,]/[or] altered[,]/[or] forged[,]/[or] counterfeited) the following documents: ______ <insert description of each document when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant (falsely made[,]/[or] altered[,]/[or] forged[,]/[or] counterfeited) at least one of these documents and you all agree on which document (he/she) (falsely made[,]/[or] altered[,]/[or] forged[,]/[or] counterfeited).]",
+    "<Sentencing factor for instruments specified in Penal Code section 473(b)>",
+    "[If you find the defendant guilty of forgery by (falsifying[,]/[or] altering[,]/[or] counterfeiting), you must then decide whether the value of the ______ (check/bond/bank bill/note/cashier’s check/traveler’s check/money order) was more than $950. If you have a reasonable doubt whether the value of the ______ (check/bond/bank bill/note/cashier’s check/traveler’s check/money order) has a value of more than $950, you must find this allegation has not been proved.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant forged multiple documents, the court has a sua sponte duty to instruct on unanimity. (See *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752].) Give the last bracketed paragraph, inserting the items alleged. (See also Bench Notes to CALCRIM No. 3500, *Unanimity*, discussing when instruction on unanimity is and is not required.)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “For the purpose of this instruction” if the evidence shows an intent to defraud an entity or association rather than a natural person. (Pen. Code, § 8.)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “It is not necessary” if the evidence shows that the defendant did not succeed in defrauding anyone. (*People v. Morgan* (1956) 140 Cal.App.2d 796, 801 [296 P.2d 75].)"
+      },
+      {
+        "text": "If the prosecution also alleges that the defendant passed or attempted to pass the same document, give CALCRIM No. 1906, *Forging and Passing or Attempting to Pass: Two Theories in One Count*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 470(d)."
+      },
+      {
+        "text": "• Intent to Defraud. *People v. Pugh* (2002) 104 Cal.App.4th 66, 72 [127 Cal.Rptr.2d 770]; *People v. Gaul-Alexander* (1995) 32 Cal.App.4th 735, 745 [38 Cal.Rptr.2d 176]."
+      },
+      {
+        "text": "• Intent to Defraud Entity. Pen. Code, § 8."
+      },
+      {
+        "text": "• Alteration Defined. *People v. Nesseth* (1954) 127 Cal.App.2d 712, 718–720 [274 P.2d 479]; *People v. Hall* (1942) 55 Cal.App.2d 343, 352 [130 P.2d 733]."
+      },
+      {
+        "text": "• Unanimity Instruction If Multiple Documents. *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752]."
+      },
+      {
+        "text": "• Required Additional Findings. Pen. Code, § 473(b)."
+      },
+      {
+        "text": "• Scope of Pen. Code, § 473(b). *People v. Gonzales* (2018) 6 Cal.5th 44 [237 Cal.Rptr.3d 193, 424 P.3d 280]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Forgery. Pen. Code, §§ 664, 470."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Penal Code section 470(d) provides that every person who, with the intent to defraud, falsely makes, alters, forges, or counterfeits, utters, publishes, passes or attempts or offers to pass, as true and genuine, any of the items specified in subdivision (d), knowing the same to be false, altered, forged, or counterfeited, is guilty of forgery. Penal Code section 470(d), as amended by Statutes 2005, ch. 295 (A.B. 361), became effective January 1, 2006. The amendment added “or falsifies the acknowledgment of any notary public or any notary public who issues an acknowledgment knowing it to be false” after the list of specified items. The committee believes that the added language has introduced ambiguities. The phrase “falsifies the acknowledgment of any notary public” seems to refer back to “person” at the beginning of subdivision (d), but it’s not clear whether this falsification must also be done with the intent to defraud in order to be forgery. If so, why was “acknowledgement of a notary public,” which is parallel in kind to the other documents and instruments listed in subdivision (d), not simply added to the list of items in subdivision (d)? With respect to the provisions regarding a notary public who issues an acknowledgment knowing it to be false, it could be that the Legislature intended the meaning to be that “[e]very person who . . . falsifies the acknowledgment of . . . any notary public who issues an acknowledgment knowing it to be false” is guilty of forgery. However, this interpretation makes the provision superfluous, as the amendment separately makes it forgery to falsify the acknowledgment of any notary public. Also, if a notary issues a false acknowledgment, it seems unlikely that it would be further falsified by a defendant who is not the notary, but who presumably sought and obtained the false acknowledgement. Alternatively, the Legislature could have intended to make a notary’s issuance of false acknowledgment an act of forgery on the part of the notary. The Legislative Counsel’s Digest of Assembly Bill 361 states that the bill makes it a “misdemeanor for a notary public to willfully fail to perform the required duties of a notary public” and makes “other related changes.” The bill amended a number of sections of the Civil Code and the Government Code as well as Penal Code section 470. The committee awaits clarification by the Legislature or the courts to enable judges to better interpret the newly-added provisions to Penal Code section 470(d)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

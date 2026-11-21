@@ -1,0 +1,124 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2749",
+  "title": "Bringing or Sending Controlled Substance or Paraphernalia Into Penal Institution (Pen. Code, § 4573(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2008,
+      2010
+    ]
+  },
+  "revision_line": "New March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (bringing/sending/[or] assisting in (bringing/sending)) (______ <insert type of controlled substance>, a controlled substance/an object intended for use to inject or consume controlled substances), into a penal institution [in violation of Penal Code section 4573].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [unlawfully] (brought/sent/[or] assisted in (bringing/sending)) (a controlled substance/[or] an object intended for use to inject or consume controlled substances) into a penal institution [or onto the grounds of a penal institution];",
+    "2. The defendant knew that (he/she) was (bringing/sending/[or] assisting in (bringing/sending)) (a controlled substance/an object intended for use to inject or consume a controlled substance) into a penal institution [or onto the grounds of a penal institution];",
+    "[AND]",
+    "3. The defendant knew (of the substance’s nature or character as a controlled substance/that the object was intended to be used for injecting or consuming a controlled substance)(;/.)",
+    "<Give elements 4 and 5 if defendant is charged with possession of a controlled substance, not possession of paraphernalia.>",
+    "[4. The controlled substance was [an analog of] ______ <insert type of controlled substance>;",
+    "AND",
+    "5. The controlled substance was a usable amount.]",
+    "[In order to prove that the defendant is guilty of this crime, the People must prove that ______ <insert name of analog drug> is an analog of ______ <insert type of controlled substance>.* An analog of a controlled substance:",
+    "[1. Has a chemical structure substantially similar to the structure of a controlled substance(./;)]",
+    "[OR]",
+    "[(2/1). Has, is represented as having, or is intended to have a stimulant, depressant, or hallucinogenic effect on the central nervous system substantially similar to or greater than the effect of a controlled substance.]]",
+    "A *penal institution* is a (state prison[,]/[or] prison camp or farm[,]/[or] jail[,]/[or] county road camp[,]/[or] place where prisoners of the state prison are located under the custody of prison officials, officers, or employees).",
+    "[A *usable amount* is a quantity that is enough to be used by someone as a controlled substance. Useless traces [or debris] are not usable amounts. On the other hand, a usable amount does not have to be enough, in either amount or strength, to affect the user.]",
+    "[An object is *intended to be used* for injecting or consuming a controlled substance if the defendant (1) actually intended it to be so used, or (2) should have known, based on the item’s objective features, that it was intended for such use.]",
+    "[The People allege that the defendant (brought/sent/[or] assisted in (bringing/sending)) the following items: ______ <insert description of each controlled substance or all paraphernalia when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (brought/sent/[or] assisted in (bringing/sending)) at least one of these items and you all agree on which item (he/she) (brought/sent/[or] assisted in (bringing/sending)).]",
+    "<Defense: Conduct Authorized>",
+    "[The defendant is not guilty of this offense if (he/she) was authorized to (bring/send) the (substance/item) into the penal institution by (law[,]/[or] a person in charge of the penal institution[,]/[or] an officer of the penal institution empowered by the person in charge of the institution to give such authorization). The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to (bring/send) the (substance/item) into the institution. If the People have not met this burden, you must find the defendant not guilty of this offense.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    15.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged with bringing or sending a controlled substance, give elements 1 through 5. If the defendant is charged with bringing or sending paraphernalia, give elements 1 through 3 only."
+      },
+      {
+        "text": "If the controlled substance is not listed in the schedules set forth in sections 11054 through 11058 of the Health and Safety Code, give the bracketed phrase “an analog of” in element 4."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant brought or sent multiple items into the institution, the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483]; *People v. Rowland* (1999) 75 Cal.App.4th 61, 65 [88 Cal.Rptr.2d 900].) Give the bracketed paragraph that begins with “The People allege that the defendant (brought/sent/[or] assisted in (bringing/sending)),” inserting the items alleged."
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant was authorized to bring or send the controlled substance or item, give the bracketed word “unlawfully” in element 1. Give also the bracketed paragraph under the heading “Defense: Conduct Authorized.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 4573; *People v. Low* (2010) 49 Cal.4th 372, 381–387 [110 Cal.Rptr.3d 640, 232 P.3d 635]."
+      },
+      {
+        "text": "• Knowingly Brings or Sends. *People v. Low* (2010) 49 Cal.4th 372, 386 [110 Cal.Rptr.3d 640, 232 P.3d 635]; *People v. Gastello* (2010) 49 Cal.4th 395, 402–403 [110 Cal.Rptr.3d 658, 232 P.3d 650]."
+      },
+      {
+        "text": "• Usable Amount. *People v. Blanco* (2021) 61 Cal.App.5th 278, 286 [275 Cal.Rptr.3d 558]."
+      },
+      {
+        "text": "• Jail Defined. *People v. Carter* (1981) 117 Cal.App.3d 546, 550 [172 Cal.Rptr. 838]."
+      },
+      {
+        "text": "• Knowledge of Location as Penal Institution. *People v. Seale* (1969) 274 Cal.App.2d 107, 111 [78 Cal.Rptr. 811]."
+      },
+      {
+        "text": "• Unanimity. *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483]."
+      },
+      {
+        "text": "• Definition of Analog Controlled Substance. Health & Saf. Code, § 11401; *People v. Davis* (2013) 57 Cal.4th 353, 357, fn. 2 [159 Cal.Rptr.3d 405, 303 P.3d 1179]."
+      },
+      {
+        "text": "• No Finding Necessary for “Expressly Listed” Controlled Substance. *People v. Davis, supra,* 57 Cal.4th at p. 362, fn. 5."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Inmate Transferred to Mental Hospital"
+      },
+      {
+        "text": "A prison inmate transferred to a mental hospital for treatment pursuant to Penal Code section 2684 is not “under the custody of prison officials.” (*People v. Superior Court (Ortiz)* (2004) 115 Cal.App.4th 995, 1002 [9 Cal.Rptr.3d 745].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

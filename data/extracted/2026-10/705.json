@@ -1,0 +1,81 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "705",
+  "title": "Special Circumstances: Circumstantial Evidence—Intent or Mental State",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      508,
+      509
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "In order to prove the special circumstance[s] of ______ <insert special circumstance[s] with intent requirement>, the People must prove not only that the defendant did the act[s] charged, but also that (he/she) acted with a particular intent or mental state. The instruction for (each/the) special circumstance explains the intent or mental state required.",
+    "An intent or mental state may be proved by circumstantial evidence.",
+    "Before you may rely on circumstantial evidence to conclude that the defendant had the required intent or mental state, you must be convinced that the People have proved each fact essential to that conclusion beyond a reasonable doubt.",
+    "Also, before you may rely on circumstantial evidence to conclude that the defendant had the required intent or mental state, you must be convinced that the only reasonable conclusion supported by the circumstantial evidence is that the defendant had the required intent or mental state. If you can draw two or more reasonable conclusions from the circumstantial evidence, and one of those reasonable conclusions supports a finding that the defendant did have the required intent or mental state and another reasonable conclusion supports a finding that the defendant did not have the required intent or mental state, you must conclude that the required intent or mental state was not proved by the circumstantial evidence. However, when considering circumstantial evidence, you must accept only reasonable conclusions and reject any that are unreasonable."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on how to evaluate circumstantial evidence if the prosecution substantially relies on circumstantial evidence to establish any element of the case. (*People v. Yrigoyen* (1955) 45 Cal.2d 46, 49 [286 P.2d 1] [duty exists where circumstantial evidence relied on to prove any element, including intent]; *People v. Bloyd* (1987) 43 Cal.3d 333, 351–352 [233 Cal.Rptr. 368, 729 P.2d 802].)"
+      },
+      {
+        "text": "Give CALCRIM No. 223, *Direct and Circumstantial Evidence: Defined*, with this instruction."
+      },
+      {
+        "text": "The Supreme Court has held that it is appropriate to give an instruction specifically tailored to the use of circumstantial evidence in determining the truth of a special circumstance allegation. (*People v. Maury* (2003) 30 Cal.4th 342, 428 [133 Cal.Rptr.2d 561, 68 P.3d 1]; *People v. Hughes* (2002) 27 Cal.4th 287, 346 [116 Cal.Rptr.2d 401, 39 P.3d 432]; *People v. Lewis* (2001) 25 Cal.4th 610, 653 [106 Cal.Rptr.2d 629, 22 P.3d 392].) However, the court is not *required* to give this instruction if it has also given the more general instruction on circumstantial evidence. (*People v. Hines* (1997) 15 Cal.4th 997, 1051 [64 Cal.Rptr.2d 594, 938 P.2d 388]; *People v. Lewis, supra,* 25 Cal.4th at p. 653; see CALCRIM No. 225, *Circumstantial Evidence: Intent or Mental State*.)"
+      },
+      {
+        "text": "If intent or mental state is the only element of the special circumstance that rests substantially on circumstantial evidence, then this instruction should be given in place of CALCRIM No. 704, *Special Circumstances: Circumstantial Evidence—Sufficiency*. (See *People v. Marshall* (1996) 13 Cal.4th 799, 849 [55 Cal.Rptr.2d 347, 919 P.2d 1280]). If other elements of the special circumstance also rest substantially or entirely on circumstantial evidence, the court may give the more general instruction, CALCRIM No. 704, instead of this instruction. (*People v. Hughes, supra,* 27 Cal.4th at p. 347.) The court may choose to give both instructions (CALCRIM Nos. 704 and 705) and may also choose to give both circumstantial evidence instructions for non-special circumstance cases (CALCRIM Nos. 224 and 225). (See *People v. Maury, supra,* 30 Cal.4th at p. 428.)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 223, *Direct and Circumstantial Evidence: Defined*."
+      },
+      {
+        "text": "CALCRIM No. 224, *Circumstantial Evidence: Sufficiency of Evidence*."
+      },
+      {
+        "text": "CALCRIM No. 225, *Circumstantial Evidence: Intent or Mental State*."
+      },
+      {
+        "text": "CALCRIM No. 704, *Special Circumstances: Circumstantial Evidence—Sufficiency*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Duty to Instruct on Circumstantial Evidence Generally. *People v. Yrigoyen* (1955) 45 Cal.2d 46, 49 [286 P.2d 1]; *People v. Bloyd* (1987) 43 Cal.3d 333, 351–352 [233 Cal.Rptr. 368, 729 P.2d 802]."
+      },
+      {
+        "text": "• Appropriate to Instruct on Special Circumstance. *People v. Maury* (2003) 30 Cal.4th 342, 428 [133 Cal.Rptr.2d 561, 68 P.3d 1]; *People v. Hughes* (2002) 27 Cal.4th 287, 346 [116 Cal.Rptr.2d 401, 39 P.3d 432]; *People v. Lewis* (2001) 25 Cal.4th 610, 653 [106 Cal.Rptr.2d 629, 22 P.3d 392]."
+      },
+      {
+        "text": "• Instruction Duplicative, Not Required. *People v. Lewis* (2001) 25 Cal.4th 610, 653 [106 Cal.Rptr.2d 629, 22 P.3d 392]; *People v. Hines* (1997) 15 Cal.4th 997, 1051 [64 Cal.Rtpr.2d 594, 938 P.2d 388]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

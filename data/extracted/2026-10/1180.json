@@ -1,0 +1,100 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1180",
+  "title": "Incest (Pen. Code, § 285)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1025,
+      1026
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, October 2010, February 2012, August 2015, October 2025*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with incest [in violation of Penal Code section 285].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual intercourse with another person;",
+    "2. When the defendant did so, (he/she) was at least 14 years old;",
+    "3. When the defendant did so, the other person was at least 14 years old;",
+    "AND",
+    "4. The defendant and the other person are related to each other as ______ <insert description of relationship from Family Code section 2200>.",
+    "*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "This instruction focuses on incestuous sexual intercourse with a minor, which is the most likely form of incest to be charged. Incest is also committed by intercourse between adult relatives within the specified degree of consanguinity, or by an incestuous marriage. (See Pen. Code, § 285.)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 285. • Incestuous Marriages. Fam. Code, § 2200."
+      },
+      {
+        "text": "• “Sexual Intercourse” Defined. See Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      },
+      {
+        "text": "• Genetic Testing or Cohabitation Evidence Not Required to Establish Parent/Child Relationship. *People v. Torres* (2024) 107 Cal.App.5th 513, 528–529 [328 Cal.Rptr.3d 300]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Incest. Pen. Code, §§ 664, 285."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Accomplice Instructions"
+      },
+      {
+        "text": "A minor is a victim of, not an accomplice to, incest. Accomplice instructions are not appropriate in a trial for incest involving a minor. (*People v. Tobias* (2001) 25 Cal.4th 327, 334 [106 Cal.Rptr.2d 80, 21 P.3d 758]; see *People v. Stoll* (1927) 84 Cal.App. 99, 101–102 [257 P. 583].) An exception may exist when two minors engage in consensual sexual intercourse, and thus both are victims of the other’s crime. (*People v. Tobias*, *supra*, 25 Cal.4th at p. 334; see *In re T.A.J.* (1998) 62 Cal.App.4th 1350, 1364–1365 [73 Cal.Rptr.2d 331] [minor perpetrator under Pen. Code, § 261.5].) An adult woman who voluntarily engages in the incestuous act is an accomplice, whose testimony must be corroborated. (See *People v. Stratton* (1904) 141 Cal. 604, 609 [75 P. 166].)"
+      },
+      {
+        "heading": true,
+        "text": "Half-Blood Relationship"
+      },
+      {
+        "text": "Family Code section 2200 prohibits sexual relations between brothers and sisters of half blood, but not between uncles and nieces of half blood. (*People v. Baker* (1968) 69 Cal.2d 44, 50 [69 Cal.Rptr. 595, 442 P.2d 675] [construing former version of § 2200].) However, sexual intercourse between persons the law deems to be related is proscribed. A trial court may properly instruct on the conclusive presumption of legitimacy (see Fam. Code, § 7540) if a defendant uncle asserts that the victim’s mother is actually his half sister. The presumption requires the jury to find that if the defendant’s mother and her potent husband were living together when the defendant was conceived, the husband was the defendant’s father, and thus the defendant was a full brother of the victim’s mother. (*People v. Russell* (1971) 22 Cal.App.3d 330, 335 [99 Cal.Rptr. 277].)"
+      },
+      {
+        "heading": true,
+        "text": "Lack of Knowledge as Defense"
+      },
+      {
+        "text": "No reported cases have held that lack of knowledge of the prohibited relationship is a defense to incest. (But see *People v. Patterson* (1894) 102 Cal. 239, 242–243 [36 P. 436] [dictum that party without knowledge of relationship would not be guilty]; see also *People v. Vogel* (1956) 46 Cal.2d 798, 801, 805 [299 P.2d 850] [good faith belief is defense to bigamy].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

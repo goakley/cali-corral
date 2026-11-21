@@ -1,0 +1,96 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3408",
+  "title": "Entrapment",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2361,
+      2363
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008",
+  "revision_legend": null,
+  "body": [
+    "Entrapment is a defense. The defendant has the burden of proving this defense by a preponderance of the evidence. This is a different standard from proof beyond a reasonable doubt. To meet this burden, the defendant must prove that it is more likely than not that (he/she) was entrapped.",
+    "A person is entrapped if a law enforcement officer [or (his/her) agent] engaged in conduct that would cause a normally law-abiding person to commit the crime.",
+    "Some examples of entrapment might include conduct like badgering, persuasion by flattery or coaxing, repeated and insistent requests, or an appeal to friendship or sympathy.",
+    "Another example of entrapment would be conduct that would make commission of the crime unusually attractive to a normally law-abiding person. Such conduct might include a guarantee that the act is not illegal or that the offense would go undetected, an offer of extraordinary benefit, or other similar conduct.",
+    "If an officer [or (his/her) agent] simply gave the defendant an opportunity to commit the crime or merely tried to gain the defendant’s confidence through reasonable and restrained steps, that conduct is not entrapment.",
+    "In evaluating this defense, you should focus primarily on the conduct of the officer. However, in deciding whether the officer’s conduct was likely to cause a normally law-abiding person to commit this crime, also consider other relevant circumstances, including events that happened before the crime, the defendant’s responses to the officer’s urging, the seriousness of the crime, and how difficult it would have been for law enforcement officers to discover that the crime had been committed.",
+    "When deciding whether the defendant was entrapped, consider what a normally law-abiding person would have done in this situation. Do not consider the defendant’s particular intentions or character, or whether the defendant had a predisposition to commit the crime.",
+    "[As used here, an *agent* is a person who does something at the request, suggestion, or direction of an officer. It is not necessary that the agent know the officer’s true identity, or that the agent realize that he or she is actually acting as an agent.]",
+    "If the defendant has proved that it is more likely than not that (he/she) ______ <insert charged crime, e.g., committed embezzlement> because (he/she) was entrapped, you must find (him/her) not guilty of",
+    "______ <insert charged crime>."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must instruct on a defense when the defendant requests it and there is substantial evidence supporting the defense. The court has a sua sponte duty to instruct on a defense if there is substantial evidence supporting it and either the defendant is relying on it or it is not inconsistent with the defendant’s theory of the case."
+      },
+      {
+        "text": "When the court concludes that the defense is supported by substantial evidence and is inconsistent with the defendant’s theory of the case, however, it should ascertain whether defendant wishes instruction on this alternate theory. (*People v. Gonzales* (1999) 74 Cal.App.4th 382, 389–390 [88 Cal.Rptr.2d 111]; *People v. Breverman* (1998) 19 Cal.4th 142, 157 [77 Cal.Rptr.2d 870, 960 P.2d 1094].)"
+      },
+      {
+        "text": "Substantial evidence means evidence of entrapment, which, if believed, would be sufficient for a reasonable jury to find that the defendant has shown the defense to be more likely than not."
+      },
+      {
+        "text": "Give the bracketed definition of an agent if agency is an issue."
+      },
+      {
+        "text": "In the last paragraph, enter a phrase with a verb in the first blank to state what the defendant did (e.g., “committed embezzlement” or “sold cocaine”). Enter the crime(s) in the second blank (e.g., “embezzlement” or “sale of a controlled substance”)."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. McIntyre* (1990) 222 Cal.App.3d 229, 232 [271 Cal.Rptr. 467]; *People v. Barraza* (1979) 23 Cal.3d 675, 689–691 [153 Cal.Rptr. 459, 591 P.2d 947]."
+      },
+      {
+        "text": "• Burden of Proof. *People v. McIntyre* (1990) 222 Cal.App.3d 229, 232 [271 Cal.Rptr. 467]; *People v. Peppars* (1983) 140 Cal.App.3d 677, 684 [189 Cal.Rptr. 879]; *People v. Barraza* (1979) 23 Cal.3d 675, 691, fn. 6 [153 Cal.Rptr. 459, 591 P.2d 947]; *In re Foss* (1974) 10 Cal.3d 910, 930–931 [112 Cal.Rptr. 649, 519 P.2d 1073]."
+      },
+      {
+        "text": "• Definition of Agent. *People v. McIntire* (1979) 23 Cal.3d 742, 748 [153 Cal.Rptr. 237, 591 P.2d 527]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Decoy Programs Permitted"
+      },
+      {
+        "text": "The use of “ruses, stings, and decoys” to expose illicit activity does not constitute entrapment, as long as no pressure or overbearing conduct is employed by the decoy. (*Provigo Corp. v. Alcoholic Beverage Control Appeals Board* (1994) 7 Cal.4th 561, 568–570 [28 Cal.Rptr.2d 638, 869 P.2d 1163] [use of underage, but mature-looking, decoys to expose unlawful sales of alcoholic beverages to minors not entrapment; no pressure or overbearing conduct occurred, and targets could have protected themselves by routinely checking customer IDs].) The conduct of an unwitting decoy may also constitute sufficient badgering, cajoling, or importuning that entitles the defendant to an entrapment instruction. (*Bradley v. Duncan* (9th Cir. 2002) 315 F.3d 1091, 1096–1098.)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Defenses Permitted"
+      },
+      {
+        "text": "A defendant may assert entrapment and still deny guilt. (*People v. Perez* (1965) 62 Cal.2d 769, 775–776 [44 Cal.Rptr. 326, 401 P.2d 934].) “Although the defense of entrapment is available to a defendant who is otherwise guilty [citation], it does not follow that the defendant must admit guilt to establish the defense. A defendant, for example, may deny that he committed every element of the crime charged, yet properly allege that such acts as he did commit were induced by law enforcement officers [citation].” (*Ibid.*)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

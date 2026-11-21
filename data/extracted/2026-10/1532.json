@@ -1,0 +1,102 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1532",
+  "title": "Unlawfully Causing a Fire (Pen. Code, § 452)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1183,
+      1184
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully causing a fire [in violation of Penal Code section 452].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant set fire to[,] [or] burned[,] [or caused the burning of] (a structure/forest land/property);",
+    "AND",
+    "2. The defendant did so recklessly.",
+    "<Alternative A—Recklessness: General Definition>",
+    "[A person acts recklessly when (1) he or she is aware that his or her actions present a substantial and unjustifiable risk of causing a fire, (2) he or she ignores that risk, and (3) ignoring the risk is a gross deviation from what a reasonable person would have done in the same situation.]",
+    "<Alternative B—Recklessness: Voluntary Intoxication>",
+    "[A person acts recklessly when (1) he or she does an act that presents a substantial and unjustifiable risk of causing a fire but (2) he or she is unaware of the risk because he or she is voluntarily intoxicated. Intoxication is voluntary if the person willingly used any intoxicating drink, drug, or other substance knowing that it could produce an intoxicating effect.]",
+    "To *set fire to or burn* means to damage or destroy with fire either all or part of something, no matter how small the part.",
+    "[A *structure* is any (building/bridge/tunnel/power plant/commercial or public tent).]",
+    "[*Forest land* means brush-covered land, cut-over land, forest, grasslands, or woods.]",
+    "[*Property* means personal property or land other than forest land.]",
+    "[A person does not unlawfully cause a fire if the only thing burned is his or her own personal property, unless he or she acts with the intent to defraud, or the fire also injures someone else or someone else’s structure, forest land, or property.]",
+    "[Arson and unlawfully causing a fire require different mental states. For arson, a person must act willfully and maliciously. For unlawfully causing a fire, a person must act recklessly.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant did not set the fire but “caused” the fire, the court has a sua sponte duty to instruct on aiding and abetting. (*People v. Sarkis* (1990) 222 Cal.App.3d 23, 28 [272 Cal.Rptr. 34].) See CALCRIM Nos. 400–403."
+      },
+      {
+        "text": "Depending upon the theory of recklessness the prosecutor is alleging, the court should instruct with alternative A or B."
+      },
+      {
+        "text": "If the defendant is also charged with arson, the court may wish to give the last bracketed paragraph, which explains the difference in intent between unlawfully causing a fire and arson. (*People v. Hooper* (1986) 181 Cal.App.3d 1174, 1182 [226 Cal.Rptr. 810], disapproved of in *People v. Barton* (1995) 12 Cal.4th 186 [47 Cal.Rptr.2d 569, 906 P.2d 531] on the point that defense counsel’s objection to instruction on lesser included offense constituted invited error; *People v. Schwartz* (1992) 2 Cal.App.4th 1319, 1324 [3 Cal.Rptr.2d 816].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "If it is also alleged that the fire caused great bodily injury or burned an inhabited structure or property, see CALCRIM No. 1530, *Unlawfully Causing a Fire: Great Bodily Injury*, and CALCRIM No. 1531, *Unlawfully Causing a Fire: Inhabited Structure*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 452."
+      },
+      {
+        "text": "• Structure, Forest Land Defined. Pen. Code, § 450."
+      },
+      {
+        "text": "• Difference Between This Crime and Arson. *People v. Hooper* (1986) 181 Cal.App.3d 1174, 1182 [226 Cal.Rptr. 810]."
+      },
+      {
+        "text": "• To Burn Defined. *People v. Haggerty* (1873) 46 Cal. 354, 355; *In re Jesse L.* (1990) 221 Cal.App.3d 161, 166–167 [270 Cal.Rptr. 389]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1515, *Arson*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

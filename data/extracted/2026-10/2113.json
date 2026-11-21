@@ -1,0 +1,81 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2113",
+  "title": "Driving With 0.05 Percent Blood Alcohol When Under 21 (Veh. Code, § 23140(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1509,
+      1510
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2015, February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with driving when under the age of 21 years with a blood alcohol level of 0.05 percent or more [in violation of Vehicle Code section 23140(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant drove a vehicle;",
+    "2. When (he/she) drove, the defendant’s blood alcohol level was 0.05 percent or more by weight;",
+    "AND",
+    "3. At that time, the defendant was under 21 years old.",
+    "[In evaluating any test results in this case, you may consider whether or not the person administering the test or the agency maintaining the testing device followed the regulations of the California Department of Public Health.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. Note that this offense is an infraction. (Veh. Code, §§ 40000.1, 40000.15.) However, this instruction has been included because this offense may serve as a predicate offense for gross vehicular manslaughter while intoxicated or vehicular manslaughter while intoxicated. (Pen. Code, §§ 191.5, 192(c)(3); see *People v. Goslar* (1999) 70 Cal.App.4th 270, 275–276 [82 Cal.Rptr.2d 558].)"
+      },
+      {
+        "text": "If the evidence demonstrates that the person administering the test or agency maintaining the testing device failed to follow the title 17 regulations, give the bracketed sentence that begins with “In evaluating any test results in this case.” (*People v. Adams* (1976) 59 Cal.App.3d 559, 567 [131 Cal.Rptr. 190] [failure to follow regulations in administering breath test goes to weight, not admissibility, of the evidence]; *People v. Williams* (2002) 28 Cal.4th 408, 417 [121 Cal.Rptr.2d 854, 49 P.3d 203] [same]; *People v. Esayian* (2003) 112 Cal.App.4th 1031, 1039 [5 Cal.Rptr.3d 542] [results of blood test admissible even though phlebotomist who drew blood not authorized under title 17].)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "text": "On request, give CALCRIM No. 2241, *Driver and Driving Defined*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 23140(a); *Burg v. Municipal Court* (1983) 35 Cal.3d 257, 265–266 [198 Cal.Rptr. 145, 673 P.2d 732]."
+      },
+      {
+        "text": "• “Vehicle” Defined. Veh. Code, § 670."
+      },
+      {
+        "text": "• Driving. *Mercer v. Dept. of Motor Vehicles* (1991) 53 Cal.3d 753, 768 [280 Cal.Rptr. 745, 809 P.2d 404]."
+      },
+      {
+        "text": "• Statute Constitutional. See *Burg v. Municipal Court, supra*, 35 Cal.3d at p. 273; *People v. Goslar, supra*, 70 Cal.App.4th at pp. 275–276."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section in CALCRIM No. 2111, *Driving With 0.08 Percent Blood Alcohol*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

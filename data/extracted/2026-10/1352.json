@@ -1,0 +1,142 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1352",
+  "title": "Hate Crime: Misdemeanor Interference With Civil Rights by Damaging Property (Pen. Code, § 422.6(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1126,
+      1128
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with interfering with another person’s civil rights by damaging property [in violation of Penal Code section 422.6(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (defaced[,]/[or] damaged[,]/[or] destroyed) (real/[or] personal) property (owned[,]/[or] used[,]/[or] possessed[,]/[or] occupied) by another person;",
+    "2. The defendant knew that (he/she) was (defacing[,]/[or] damaging[,]/[or] destroying) property that was (owned[,]/[or] used[,]/[or] possessed[,]/[or] occupied) by that person;",
+    "3. The defendant did so for the purpose of interfering with [or intimidating] that person’s free exercise or enjoyment of the right [or privilege] to ______ <describe the right allegedly infringed, e.g., “be free from violence or bodily harm”>, established by the law or Constitution of California or the United States;",
+    "4. The defendant did so in whole or in part because of the other person’s actual or perceived (disability[,]/[or] gender[,]/[or] nationality[,]/[or] race or ethnicity[,]/[or] religion[,]/[or] sexual orientation[,]/[or] association with a person or group having (this/one or more of these) actual or perceived characteristic[s]);",
+    "AND",
+    "5. The defendant intended to interfere with the other person’s legally protected right [or privilege].",
+    "The defendant acted *in whole or in part because of* the actual or perceived characteristic[s] of the other person if:",
+    "1. The defendant was biased against the other person based on the other person’s actual or perceived (disability[,]/[or] gender[,]/[or] nationality[,]/[or] race or ethnicity[,]/[or] religion[,]/[or] sexual orientation[,]/[or] association with a person or group having (this/one or more of these) actual or perceived characteristic[s]);",
+    "AND",
+    "2. The bias motivation caused the defendant to commit the alleged acts.",
+    "If you find that the defendant had more than one reason to commit the alleged acts, the bias described here must have been a substantial motivating factor. A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that motivated the conduct.",
+    "[The term *disability* is explained in Instruction 1353, to which you should refer.]",
+    "[*Gender,* as used here, means sex and includes a person’s gender identity and gender-related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth.]",
+    "[*Nationality*, as used here, means country of origin, immigration status, including citizenship, and national origin.]",
+    "[*Race or ethnicity* includes ancestry, color, and ethnic background.]",
+    "[*Religion*, as used here, includes all aspects of religious belief, observance, and practice and includes agnosticism and atheism.]",
+    "[*Sexual orientation* means heterosexuality, homosexuality, or bisexuality.]",
+    "[*Association with a person or group having (this/one or more of these) actual or perceived characteristic[s]* includes (advocacy for[,]/[or] identification with[,]/[or] being on the ground owned or rented by[, or adjacent to,]) a (person[,]/[or] group[,]/[or] family[,]/[or] community center[,]/[or] educational facility[,]/[or] office[,]/[or] meeting hall[,]/[or] place of worship[,]/[or] private institution[,]/[or] public agency[,]/[or] library[,]/[or] other entity) that has, or is identified with people who have, (that/one or more of those) characteristic[s].]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 3, insert a description of the specific right or rights allegedly infringed, for example, the right to be free from violence or the threat of violence or the right to be protected from bodily harm. (See Civil Code, §§ 43, 51.7; *People v. Lashley* (1991) 1 Cal.App.4th 938, 950–951 [2 Cal.Rptr.2d 629]; *People v. MacKenzie* (1995) 34 Cal.App.4th 1256, 1277–1278 [40 Cal.Rptr.2d 793].)"
+      },
+      {
+        "text": "Give all relevant bracketed definitions. If the term “disability” is used, give CALCRIM No. 1353, *Hate Crime: Disability Defined*."
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of this crime. (See *People v. Valenti* (2016) 243 Cal.App.4th 1140, 1165 [197 Cal.Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 422.6(b)."
+      },
+      {
+        "text": "• Hate Crime Defined. Pen. Code, § 422.55."
+      },
+      {
+        "text": "• “In Whole or in Part Because of” Defined. Pen. Code, § 422.56(d); *In re M.S.* (1995) 10 Cal.4th 698, 719–720 [42 Cal.Rptr.2d 355, 896 P.2d 1365]; *People v. Superior Court (Aishman)* (1995) 10 Cal.4th 735, 741 [42 Cal.Rptr.2d 377, 896 P.2d 1387]."
+      },
+      {
+        "text": "• Disability Defined. Pen. Code, § 422.56(b); Gov. Code, § 12926(i)–(*l*)."
+      },
+      {
+        "text": "• Gender Defined. Pen. Code, §§ 422.56(c), 422.57."
+      },
+      {
+        "text": "• Nationality Defined. Pen. Code, § 422.56(e)."
+      },
+      {
+        "text": "• Race or Ethnicity Defined. Pen. Code, § 422.56(f)."
+      },
+      {
+        "text": "• Religion Defined. Pen. Code, § 422.56(g)."
+      },
+      {
+        "text": "• Sexual Orientation Defined. Pen. Code, § 422.56(h)."
+      },
+      {
+        "text": "• Association With Defined. Pen. Code, § 422.56(a)."
+      },
+      {
+        "text": "• Specific Intent to Deprive Individual of Protected Right Required. *In re M.S.* (1995) 10 Cal.4th 698, 713 [42 Cal.Rptr.2d 355, 896 P.2d 1365]; *People v. Lashley* (1991) 1 Cal.App.4th 938, 947–949 [2 Cal.Rptr.2d 629]."
+      },
+      {
+        "text": "• Not Limited to “Significant Constitutional Rights.” *People v. MacKenzie* (1995) 34 Cal.App.4th 1256, 1277–1278 [40 Cal.Rptr.2d 793]."
+      },
+      {
+        "text": "• Statute Constitutional. *In re M.S.* (1995) 10 Cal.4th 698, 715–717, 724 [42 Cal.Rptr.2d 355, 896 P.2d 1365]."
+      },
+      {
+        "text": "• Victim Need Not Own Property. *In re Michael M.* (2001) 86 Cal.App.4th 718, 724–726 [104 Cal.Rptr.2d 10]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Target of Intimidation Need Not Own Property"
+      },
+      {
+        "text": "“[T]he phrase ‘property of any other person’ in section 422.6, subdivision (b) does not require that the victim own the property. As long as the property is regularly and openly used, possessed, or occupied by the victim so that it is readily identifiable with him or her, it falls within the statutory scope.” (*In re Michael M.* (2001) 86 Cal.App.4th 718, 724–726 [104 Cal.Rptr.2d 10] [classroom was the “property of” the students whose class met there].)"
+      },
+      {
+        "text": "See the Related Issues section of CALCRIM No. 1350, *Hate Crime: Misdemeanor Interference With Civil Rights by Force*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

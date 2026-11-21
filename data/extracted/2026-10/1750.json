@@ -1,0 +1,159 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1750",
+  "title": "Receiving Stolen Property (Pen. Code, § 496(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1233,
+      1236
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007, October 2010, August 2014, August 2015",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with receiving stolen property [in violation of Penal Code section 496(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (bought/received/sold/aided in selling/concealed or withheld from its owner/aided in concealing or withholding from its owner) property that had been (stolen/obtained by extortion);",
+    "[AND]",
+    "2. When the defendant (bought/received/sold/aided in selling/concealed or withheld/aided in concealing or withholding) the property, (he/she) knew that the property had been (stolen/obtained by extortion)(;/.)",
+    "<Give element 3 when instructing on knowledge of presence of property; see Bench Notes.>",
+    "[AND",
+    "3. The defendant actually knew of the presence of the property.]",
+    "[Property is *stolen* if it was obtained by any type of theft, or by burglary or robbery. [Theft includes obtaining property by larceny, embezzlement, false pretense, or trick.]]",
+    "[Property is *obtained by extortion* if: (1) the property was obtained from another person with that person’s consent, and (2) that person’s consent was obtained through the use of force or fear.]",
+    "[To *receive property* means to take possession and control of it. Mere presence near or access to the property is not enough.] [Two or more people can possess the property at the same time.] [A person does not have to actually hold or touch something to possess it. It is enough if the person has [control over it] [or] [the right to control it], either personally or through another person.]",
+    "[If you find the defendant guilty of receiving stolen property, you must then decide whether the value of the property received was more than $950. If you have a reasonable doubt whether the property received has a value of more than $950, you must find this allegation has not been proved.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is also charged with a theft crime, the court has a sua sponte duty to instruct that the defendant may not be convicted of receiving stolen property if he is convicted of the theft of the same property. (CALCRIM No. 3516, *Multiple Counts: Alternative Charges for One Event—Dual Conviction Prohibited; see* Pen. Code, § 496(a); *People v. Ceja* (2010) 49 Cal.4th 1, 6–7 [108 Cal.Rptr.3d 568, 229 P.3d 995]; *People v. Garza* (2005) 35 Cal.4th 866, 881–882 [28 Cal.Rptr.3d 335, 111 P.3d 310] [upholding dual convictions for receiving stolen property and a violation of Vehicle Code section 10851(a) as a nontheft conviction for post-theft driving].)"
+      },
+      {
+        "text": "If there are factual issues regarding whether the received stolen property was taken with the intent to permanently deprive the owner of possession, the court has a sua sponte duty to instruct on the complete definitions of theft. *People v. MacArthur* (2006) 142 Cal.App.4th 275 [47 Cal.Rptr.3d 736]. For instructions defining extortion and the different forms of theft, see Series 1800, Theft and Extortion. On request, the court should give the complete instruction on the elements of theft or extortion."
+      },
+      {
+        "text": "If substantial evidence exists, a specific instruction must be given on request that the defendant must have knowledge of the presence of the stolen goods. (*People v. Speaks* (1981) 120 Cal.App.3d 36, 39–40 [174 Cal.Rptr. 65]; see *People v. Gory* (1946) 28 Cal.2d 450, 455–456, 458–459 [170 P.2d 433] [possession of narcotics requires knowledge of presence]; see also discussion of voluntary intoxication in Related Issues, below.) Give bracketed element 3 when supported by the evidence."
+      },
+      {
+        "text": "When the People allege the defendant has a prior conviction for an offense listed in Penal Code section 667(e)(2)(C)(iv) or for an offense requiring registration pursuant to subdivision (c) of section 290, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial* or CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "For an instruction about when guilt may be inferred from possession of recently stolen property, see CALCRIM No. 376, *Possession of Recently Stolen Property as Evidence of a Crime*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 496(a); *People v. Land* (1994) 30 Cal.App.4th 220, 223 [35 Cal.Rptr.2d 544]."
+      },
+      {
+        "text": "• Extortion Defined. Pen. Code, § 518."
+      },
+      {
+        "text": "• Theft Defined. Pen. Code, §§ 484, 490a."
+      },
+      {
+        "text": "• Concealment. *Williams v. Superior Court* (1978) 81 Cal.App.3d 330, 343–344 [146 Cal.Rptr. 311]."
+      },
+      {
+        "text": "• General Intent Required. *People v. Wielograf* (1980) 101 Cal.App.3d 488, 494 [161 Cal.Rptr. 680] [general intent crime]; but see *People v. Reyes* (1997) 52 Cal.App.4th 975, 985 [61 Cal.Rptr.2d 39] [knowledge element is a “specific mental state”]."
+      },
+      {
+        "text": "• Knowledge Element. *People v. Reyes* (1997) 52 Cal.App.4th 975, 985 [61 Cal.Rptr.2d 39]."
+      },
+      {
+        "text": "• Possession and Control. *People v. Land* (1994) 30 Cal.App.4th 220, 223–224 [35 Cal.Rptr.2d 544]; *People v. Zyduck* (1969) 270 Cal.App.2d 334, 336 [75 Cal.Rptr. 616]; see *People v. Gatlin* (1989) 209 Cal.App.3d 31, 44–45 [257 Cal.Rptr. 171] [constructive possession means knowingly having the right of control over the property directly or through another]; *People v. Scott* (1951) 108 Cal.App.2d 231, 234 [238 P.2d 659] [two or more persons may jointly possess property]."
+      },
+      {
+        "text": "• Stolen Property. *People v. Kunkin* (1973) 9 Cal.3d 245, 250 [107 Cal.Rptr. 184, 507 P.2d 1392] [theft]; see, e.g., *People v. Candiotto* (1960) 183 Cal.App.2d 348, 349 [6 Cal.Rptr. 876] [burglary]; *People v. Siegfried* (1967) 249 Cal.App.2d 489, 493 [57 Cal.Rptr. 423] [robbery]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Receiving Stolen Property. Pen. Code, §§ 664, 496(d); *People v. Rojas* (1961) 55 Cal.2d 252, 258 [10 Cal.Rptr. 465, 358 P.2d 921] [stolen goods recovered by police were no longer “stolen”]; *People v. Moss* (1976) 55 Cal.App.3d 179, 183 [127 Cal.Rptr. 454] [antecedent theft not a necessary element]."
+      },
+      {
+        "text": "Theft by appropriation of lost property (Pen. Code, § 485) is not a necessarily included offense of receiving stolen property. (*In re Greg F.* (1984) 159 Cal.App.3d 466, 469 [205 Cal.Rptr. 614].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Defense of Voluntary Intoxication or Mental Disease"
+      },
+      {
+        "text": "Though receiving stolen property is a general intent crime, one element of the offense is knowledge that the property was stolen, a specific mental state. With regard to the element of knowledge, receiving stolen property is a “specific intent crime” as that term is used in Penal Code sections 29.4(b) and 28(a). (*People v. Reyes* (1997) 52 Cal.App.4th 975, 985 [61 Cal.Rptr.2d 39].) Therefore, the defendant should have the opportunity to introduce evidence and request instructions regarding the lack of requisite knowledge. (*Id.* at p. 986; see *People v. Mendoza* (1998) 18 Cal.4th 1114, 1131 [77 Cal.Rptr.2d 428, 959 P.2d 735]; but see *People v. Atkins* (2001) 25 Cal.4th 76, 96–97 [104 Cal.Rptr.2d 738, 18 P.3d 660] (conc. opn. of Brown, J.) [criticizing *Mendoza* and *Reyes* as wrongly transmuting a knowledge requirement into a specific intent].) See CALCRIM No. 3426, *Voluntary Intoxication*."
+      },
+      {
+        "heading": true,
+        "text": "Dual Convictions Prohibited"
+      },
+      {
+        "text": "A person may not be convicted of stealing and of receiving the same property. (*People v. Jaramillo* (1976) 16 Cal.3d 752, 757 [129 Cal.Rptr. 306, 548 P.2d 706] superseded by statute on related grounds, as stated in *People v. Hinks* (1997) 58 Cal.App.4th 1157 [68 Cal.Rptr.2d 440]; see *People v. Tatum* (1962) 209 Cal.App.2d 179, 183 [25 Cal.Rptr. 832].) See CALCRIM No. 3516, *Multiple Counts: Alternative Charges For One Event—Dual Conviction Prohibited*."
+      },
+      {
+        "heading": true,
+        "text": "Receiving Multiple Items on Single Occasion"
+      },
+      {
+        "text": "A defendant who receives more than one item of stolen property on a single occasion commits one offense of receiving stolen property. (See *People v. Lyons* (1958) 50 Cal.2d 245, 275 [324 P.2d 556].)"
+      },
+      {
+        "heading": true,
+        "text": "Specific Vendors"
+      },
+      {
+        "text": "The Penal Code establishes separate crimes for specific persons buying or receiving particular types of stolen property, including the following:"
+      },
+      {
+        "text": "1. Swap meet vendors and persons dealing in or collecting merchandise or personal property. (Pen. Code, § 496(b).)"
+      },
+      {
+        "text": "2. Dealers or collectors of junk metals or secondhand materials who buy or receive particular metals used in providing telephone, transportation, or public utility services. (Pen. Code, § 496a(a).)"
+      },
+      {
+        "text": "3. Dealers or collectors of secondhand books or other literary materials. (Pen. Code, § 496b [misdemeanors].)"
+      },
+      {
+        "text": "4. Persons buying or receiving motor vehicles, trailers, special construction equipment, or vessels. (Pen. Code, § 496d(a).)"
+      },
+      {
+        "text": "5. Persons buying, selling, receiving, etc., specific personal property, including integrated computer chips or panels, electronic equipment, or appliances, from which serial numbers or identifying marks have been removed or altered. (Pen. Code, § 537e(a).)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,63 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2903",
+  "title": "Damaging Wireless Communication Device (Pen. Code, § 591.5)",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      101,
+      101
+    ]
+  },
+  "revision_line": "New October 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (removing[,]/[or] injuring[,]/[or] destroying[,]/[or] damaging[,]/[or] obstructing the use of) a wireless communication device with intent to prevent the device from being used to summon assistance or to notify law enforcement [or any public safety agency] of a crime [in violation of Penal Code section 591.5].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant unlawfully (removed[,]/[or] injured[,]/[or] destroyed[,]/[or] damaged/[or] obstructed the use of) a wireless communication device;",
+    "2. When the defendant acted, (he/she) intended to prevent ______ <insert name/description of person> from using the device to summon assistance or to notify law enforcement [or any public safety agency] of a crime;",
+    "AND",
+    "3. The defendant did so maliciously.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 591.5."
+      },
+      {
+        "text": "• “Maliciously” Defined. Pen. Code, § 7(b)(4); *People v. Lopez* (1986) 176 Cal.App.3d 545, 550 [222 Cal.Rptr. 101]."
+      },
+      {
+        "text": "• “Obstruct” Not Unconstitutionally Vague. *Kreiling v. Field* (9th Cir. 1970) 431 F.2d 502, 504."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": [],
+  "supplement_status": "new"
+}

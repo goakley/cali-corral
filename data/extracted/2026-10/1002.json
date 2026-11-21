@@ -1,0 +1,136 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1002",
+  "title": "Rape of Intoxicated Person (Pen. Code, § 261(a)(3))",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      44,
+      46
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, March 2018, March 2022, October 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with raping a person while the person was intoxicated [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual intercourse with a person;",
+    "2. The effect of (a/an) (intoxicating/anesthetic/controlled) substance prevented the person from resisting;",
+    "AND",
+    "3. The defendant knew or reasonably should have known that the effect of (a/an) (intoxicating/anesthetic/controlled) substance prevented the person from resisting.",
+    "*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]",
+    "A person is *prevented from resisting* if the person is so intoxicated that the person cannot give legal consent. In order to give legal consent, a person must be able to exercise reasonable judgment. In other words, the person must be able to understand and weigh the physical nature of the act, its moral character, and probable consequences. Legal consent is consent given freely and voluntarily by someone who knows the nature of the act involved.",
+    "[______ <If appropriate, insert controlled substance> (is/are) [a] controlled substance[s].]",
+    "<Defense: Reasonable Belief Capable of Consent>",
+    "[The defendant is not guilty of this crime if the defendant actually and reasonably believed that the person was capable of consenting to sexual intercourse, even if that belief was wrong. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the person was capable of consenting. If the People have not met this burden, you must find the defendant not guilty.]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Penal Code section 261, as amended by Assembly Bill 1171 (Stats. 2021, ch. 626), became effective on January 1, 2022. If the defendant’s alleged act occurred before this date, the court should give the prior version of this instruction."
+      },
+      {
+        "text": "A space is provided to identify controlled substances, if the parties agree."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "There is no sua sponte duty to instruct on the defense of reasonable belief that the person was capable of consent. (*People v. Lujano* (2017) 15 Cal.App.5th 187 [223 Cal.Rptr.3d 105].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1001, *Rape in Concert*, may be given in conjunction with this instruction, if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 261(a)(3)."
+      },
+      {
+        "text": "• “Consent” Defined. Pen. Code, § 261.6."
+      },
+      {
+        "text": "• Controlled Substances. Health & Safety Code, §§ 11054–11058; see *People v. Avila* (2000) 80 Cal.App.4th 791, 798, fn. 7 [95 Cal.Rptr.2d 651]."
+      },
+      {
+        "text": "• “Penetration” Defined. Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585, 600 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      },
+      {
+        "text": "• Anesthetic Effect. See *People v. Avila* (2000) 80 Cal.App.4th 791, 798–799 [95 Cal.Rptr.2d 651] [in context of sodomy]."
+      },
+      {
+        "text": "• General Intent and Knowledge Requirements. *People v. Linwood* (2003) 105 Cal.App.4th 59, 67–72 [129 Cal.Rptr.2d 73] [statute is not impermissibly vague and uses appropriate criminal negligence standard]."
+      },
+      {
+        "text": "• “Prevented From Resisting” Defined. *People v. Lujano* (2017) 15 Cal.App.5th 187, 192–193 [223 Cal.Rptr.3d 105] [CALCRIM 1032 has correct definition]; *People v. Giardino* (2000) 82 Cal.App.4th 454, 465–466 [98 Cal.Rptr.2d 315]."
+      },
+      {
+        "text": "• Reasonable Belief in Capacity to Consent. *People v. Lujano* (2017) 15 Cal.App.5th 187, 191–192 [223 Cal.Rptr.3d 105]; *People v. Giardino* (2000) 82 Cal.App.4th 454, 471–472 [98 Cal.Rptr.2d 315]."
+      },
+      {
+        "text": "• Prior Version of This Instruction Upheld. *People v. Smith* (2010) 191 Cal.App.4th 199, 204–205 [120 Cal.Rptr.3d 52]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Rape of Intoxicated Person. Pen. Code, §§ 663, 261(a)(3)."
+      },
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242; *People v. Mirabal* (2025) 115 Cal.App.5th 708, 727–728 [338 Cal.Rptr.3d 289]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Administering Drugs to Assist Commission of Felony"
+      },
+      {
+        "text": "A person who administers to someone else any chloroform, ether, laudanum, or any controlled substance, anesthetic, or intoxicating agent, with the intent to enable or assist himself or herself or any other person to commit a felony is guilty of a felony. (Pen. Code, § 222.)"
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 1000, *Rape by Force, Fear, or Threats.*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2012, March 2018, March 2022"
+  },
+  "supplement_status": "revised"
+}

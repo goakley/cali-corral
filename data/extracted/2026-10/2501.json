@@ -1,0 +1,142 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2501",
+  "title": "Carrying Concealed Explosive or Dirk or Dagger (Pen. Code, §§ 21310, 16470)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1723,
+      1726
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, September 2020, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully carrying a concealed (explosive/dirk or dagger) [in violation of Penal Code section 21310].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant carried on (his/her) person (an explosive/a dirk or dagger);",
+    "2. The defendant knew that (he/she) was carrying it;",
+    "3. It was substantially concealed on the defendant’s person;",
+    "AND",
+    "4. The defendant knew that it (was an explosive/could readily be used as a stabbing weapon).",
+    "The People do not have to prove that the defendant used or intended to use the alleged (explosive/dirk or dagger) as a weapon.",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) that is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is also any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type of explosive from Health & Saf. Code, § 12000> is an *explosive*.]",
+    "[A *dirk or dagger* is a knife or other instrument with or without a handguard that is capable of ready use as a stabbing weapon that may inflict great bodily injury or death. *Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[A (pocketknife/nonlocking folding knife/folding knife that is not prohibited by Penal Code section 21510) is not a *dirk or dagger* unless the blade of the knife is exposed and locked into position.]",
+    "[A knife carried in a sheath and worn openly suspended from the waist of the wearer is not *concealed*.]",
+    "<Give only if object may have innocent uses.>",
+    "[When deciding whether the defendant knew the object (was an explosive/could be used as a stabbing weapon), consider all the surrounding circumstances, including the time and place of possession. Consider also (the destination of the defendant[,]/the alteration of the object from standard form[,]) and other facts, if any.]",
+    "[The People allege that the defendant carried the following weapons: ______ <insert description of each weapon when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant carried at least one of these weapons and you all agree on which weapon (he/she) carried and when (he/she) carried it.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple weapons and the possession was “fragmented as to time . . . [or] space,” the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483].) Give the bracketed paragraph beginning “The People allege that the defendant possessed the following weapons,” inserting the items alleged."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “When deciding whether” only if the object was not designed solely for use as a stabbing weapon but may have innocent uses. (*People v. Fannin* (2001) 91 Cal.App.4th 1399, 1404 [111 Cal.Rptr.2d 496]; *People v. Grubb* (1965) 63 Cal.2d 614, 620–621, fn. 9 [47 Cal.Rptr. 772, 408 P.2d 100].)"
+      },
+      {
+        "text": "When instructing on the meaning of “explosive,” if the explosive is listed in Health and Safety Code section 12000, the court may use the bracketed sentence stating, “______ is an explosive.” For example, “Nitroglycerine is an explosive.” However, the court may not instruct the jury that the defendant used an explosive. For example, the court may not state, “The defendant used an explosive, nitroglycerine,” or “The substance used by the defendant, nitroglycerine, was an explosive.” (See *People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257]; *People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].)"
+      },
+      {
+        "text": "If the court gives the instruction on a “folding knife that is not prohibited by Penal Code section 21510,” give a modified version of CALCRIM No. 2502, *Possession, etc., of Switchblade Knife.*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 21310. • Need Not Prove Intent to Use. *People v. Rubalcava* (2000) 23 Cal.4th 322, 328 [96 Cal.Rptr.2d 735, 1 P.3d 52]."
+      },
+      {
+        "text": "• Knowledge Required. *People v. Rubalcava, supra,* 23 Cal.4th at pp. 331–332."
+      },
+      {
+        "text": "• Substantial Concealment. *People v. Wharton* (1992) 5 Cal.App.4th 72, 75 [6 Cal.Rptr.2d 673]; *People v. Fuentes* (1976) 64 Cal.App.3d 953, 955 [134 Cal.Rptr. 885]."
+      },
+      {
+        "text": "• “Explosive” Defined. Health & Saf. Code, § 12000; *People v. Clark* (1990) 50 Cal.3d 583, 604 [268 Cal.Rptr. 399, 789 P.2d 127]."
+      },
+      {
+        "text": "• “Dirk or Dagger” Defined. Pen. Code, § 16470."
+      },
+      {
+        "text": "• Dirk or Dagger—No Length Requirement. *In re Victor B.* (1994) 24 Cal.App.4th 521, 526 [29 Cal.Rptr.2d 362]."
+      },
+      {
+        "text": "• Dirk or Dagger—Object Not Originally Designed as Knife. *In re Victor B., supra,* 24 Cal.App.4th at pp. 525–526."
+      },
+      {
+        "text": "• Dirk or Dagger—Capable of Ready Use. *People v. Sisneros* (1997) 57 Cal.App.4th 1454, 1457 [67 Cal.Rptr.2d 782]."
+      },
+      {
+        "text": "• Dirk or Dagger—Pocketknives. *In re Luke W.* (2001) 88 Cal.App.4th 650, 655–656 [105 Cal.Rptr.2d 905]; *In re George W.* (1998) 68 Cal.App.4th 1208, 1215 [80 Cal.Rptr.2d 868]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Knowledge Element"
+      },
+      {
+        "text": "“[T]he relevant language of section 12020 is unambiguous and establishes that carrying a concealed dirk or dagger does not require an intent to use the concealed instrument as a stabbing weapon.” (*People v. Rubalcava, supra,* 23 Cal.4th at p. 328 [interpreting now-repealed Pen. Code, § 12020].) However, “to commit the offense, a defendant must still have the requisite *guilty mind*: that is, the defendant must knowingly and intentionally carry concealed upon his or her person an instrument ‘that is capable of ready use as a stabbing weapon.’ ([now repealed] § 12020(a), (c)(24).) A defendant who does not know that he is carrying the weapon or that the concealed instrument may be used as a stabbing weapon is therefore not guilty of violating section 12020.” (*Id.* at pp. 331–332 [emphasis in original] [referencing repealed Pen. Code § 12020; see now Pen. Code, §§ 16479, 21310].)"
+      },
+      {
+        "heading": true,
+        "text": "Definition of Dirk or Dagger"
+      },
+      {
+        "text": "The definition of “dirk or dagger” contained in Penal Code section 16470 was effective on January 1, 2012. Prior decisions interpreting the meaning of “dirk or dagger” should be viewed with caution. (See *People v. Mowatt* (1997) 56 Cal.App.4th 713, 719–720 [65 Cal.Rptr.2d 722] [comparing old and new definitions]; *People v. Sisneros, supra,* 57 Cal.App.4th at p. 1457 [same]; *In re George W., supra,* 68 Cal.App.4th at p. 1215 [discussing 1997 amendment].)"
+      },
+      {
+        "heading": true,
+        "text": "Dirk or Dagger—“Capable of Ready Use”"
+      },
+      {
+        "text": "“[T]he ‘capable of ready use’ requirement excludes from the definition of dirk or dagger a device carried in a configuration that requires assembly before it can be utilized as a weapon.” (*People v. Sisneros, supra,* 57 Cal.App.4th at p. 1457.)"
+      },
+      {
+        "heading": true,
+        "text": "Dirk or Dagger—“Pocketknife”"
+      },
+      {
+        "text": "“Although they may not have folding blades, small knives obviously designed to be carried in a pocket in a closed state, and which cannot be used until there have been several intervening manipulations, comport with the implied legislative intent that such knives do not fall within the definition of proscribed dirks or daggers but are a type of pocketknife excepted from the statutory proscription.” (*In re Luke W., supra,* 88 Cal.App.4th at pp. 655–656.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

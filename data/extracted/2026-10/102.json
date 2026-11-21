@@ -1,0 +1,61 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "102",
+  "title": "Note-Taking",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      85,
+      85
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2008",
+  "revision_legend": null,
+  "body": [
+    "You have been given notebooks and may take notes during the trial. Do not remove them from the courtroom. You may take your notes into the jury room during deliberations. I do not mean to discourage you from taking notes, but here are some points to consider if you take notes:",
+    "1. Note-taking may tend to distract you. It may affect your ability to listen carefully to all the testimony and to watch the witnesses as they testify;",
+    "AND",
+    "2. The notes are for your own individual use to help you remember what happened during the trial. Please keep in mind that your notes may be inaccurate or incomplete.",
+    "At the end of the trial, your notes will be (collected and destroyed/collected and retained by the court but not as a part of the case record/______ <specify other disposition>)."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the members of the jury that they may take notes. California Rules of Court, Rule 2.1031."
+      },
+      {
+        "text": "The court may specify its preferred disposition of the notes after trial. No statute or rule of court requires any particular disposition."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Resolving Jurors’ Questions. Pen. Code, § 1137."
+      },
+      {
+        "text": "• Jurors’ Use of Notes. California Rules of Court, Rule 2.1031."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1183 [67 Cal.Rptr.3d 871]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

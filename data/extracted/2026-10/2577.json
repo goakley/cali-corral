@@ -1,0 +1,116 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2577",
+  "title": "Explosion of Explosive or Destructive Device Causing Bodily Injury (Pen. Code, § 18750)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1826,
+      1829
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (exploding/[or] igniting) (an explosive/[or] a destructive device) causing bodily injury to another person [in violation of Penal Code section 18750].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully and maliciously (exploded/[or] ignited) (an explosive/[or] a destructive device);",
+    "AND",
+    "2. The explosion caused bodily injury to another person.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else.",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) which is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is also any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type of explosive from Health & Saf. Code, § 12000> is an *explosive*.]",
+    "[A *destructive device* is ______ <insert definition from Pen. Code, § 16460>.]",
+    "[______ <insert type of destructive device from Pen. Code, § 16460> is a *destructive device*.]",
+    "[The term[s] (*explosive/*[and] *destructive device*) (is/are) defined in another instruction.]",
+    "[An act causes bodily injury if the injury is the direct, natural, and probable consequence of the act, and the injury would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.]",
+    "[There may be more than one cause of bodily injury. An act causes bodily injury only if it is a substantial factor in causing the injury. A *substantial factor* is more than a trivial or remote factor. However, it need not be the only factor that causes the injury.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (See *People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401] [causation issue in homicide].) If the evidence indicates that there was only one cause of injury, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of injury, the court should also give the “substantial factor” instruction and definition in the second bracketed paragraph. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "Depending on the device or substance used, give the bracketed definitions of “explosive” or “destructive device,” inserting the appropriate definition from Penal Code section 16460, unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere. If the case involves a specific device listed in Health and Safety Code section 12000 or Penal Code section 16460, the court may instead give the bracketed sentence stating that the listed item “is an explosive” or “is a destructive device.” For example, “A grenade is a destructive device.” However, the court may not instruct the jury that the defendant used a destructive device. For example, the court may not state that “the defendant used a destructive device, a grenade,” or “the device used by the defendant, a grenade, was a destructive device.” (*People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257].)"
+      },
+      {
+        "text": "If the device used is a bomb, the court may insert the word “bomb” in the bracketed definition of destructive device without further definition. (*People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) Appellate courts have held that the term “bomb” is not vague and is understood in its “common, accepted, and popular sense.” (*People v. Quinn* (1976) 57 Cal.App.3d 251, 258 [129 Cal.Rptr. 139]; *People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) If the court wishes to define the term “bomb,” the court may use the following definition: “A bomb is a device carrying an explosive charge fused to blow up or detonate under certain conditions.” (See *People v. Morse* (1992) 2 Cal.App.4th 620, 647, fn. 8 [3 Cal.Rptr.2d 343].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 18750."
+      },
+      {
+        "text": "• Explosive Defined. Health & Saf. Code, § 12000."
+      },
+      {
+        "text": "• Destructive Device Defined. Pen. Code, § 16460."
+      },
+      {
+        "text": "• Maliciously Defined. Pen. Code, § 7(4); *People v. Lopez* (1986) 176 Cal.App.3d 545, 550 [222 Cal.Rptr. 101]; see also *People v. Heideman* (1976) 58 Cal.App.3d 321, 335 [130 Cal.Rptr. 349]."
+      },
+      {
+        "text": "• Must Injure Another Person. *People v. Teroganesian* (1995) 31 Cal.App.4th 1534, 1538 [37 Cal.Rptr.2d 489]."
+      },
+      {
+        "text": "• General Intent Crime. See *People v. Thompson* (1992) 7 Cal.App.4th 1966, 1970–1971 [10 Cal.Rptr.2d 15]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Possession of Destructive Device. Pen. Code, § 18710; *People v. Westoby* (1976) 63 Cal.App.3d 790, 795 [134 Cal.Rptr. 97]."
+      },
+      {
+        "text": "• Possession of Explosive. Health & Saf. Code, § 12305; *People v. Westoby* (1976) 63 Cal.App.3d 790, 795 [134 Cal.Rptr. 97]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Maliciously—People v. Heideman"
+      },
+      {
+        "text": "In *People v. Heideman* (1976) 58 Cal.App.3d 321 [130 Cal.Rptr. 349], the defendant offered to commit murder for hire using explosives and possessed the explosives. (*Id.* at pp. 327–329.) The defendant asserted that he did not actually intend to physically injure anyone but simply to defraud the individuals offering to pay for the murders. (*Id.* at pp. 330–331.) On appeal, the defendant contended that the court had improperly instructed on the meaning of “recklessness,” which the prosecution conceded. (*Id.* at p. 334.) Noting that the “[d]efendant admitted that his purpose in storing the dynamite in his room was to carry out a nefarious scheme to defraud his victims,” the court found sufficient evidence to establish malice. (*Id.* at p. 335.) The court stated that under the facts of the case before it, the term “maliciously” did not “require an actual intent to physically injure, intimidate or terrify others.” *(Ibid.)* Accordingly, the court found that the error in the instruction on “recklessness” was harmless given that there was sufficient evidence to support the higher culpability standard of malice. *(Ibid.)* The committee did not incorporate the language from *Heideman* in the definition of “maliciously” in this instruction because the committee concluded that this case reflects unique facts and that the language quoted is dicta, not essential to the ruling of the case."
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 2571, *Carrying or Placing Explosive or Destructive Device on Common Carrier*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

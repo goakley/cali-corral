@@ -1,0 +1,77 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1005",
+  "title": "Rape by Fraud (Pen. Code, § 261(a)(5))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      828,
+      829
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2015, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with rape by fraud [in violation of Penal Code section 261(a)(5)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual intercourse with a woman;",
+    "2. The woman submitted to the intercourse because she believed the defendant was someone she knew, other than the defendant;",
+    "AND",
+    "3. The defendant tricked her, lied to her, [used an artifice or pretense,] or concealed information from her, intending to make her believe he was someone she knew, while intending to hide his own identity.",
+    "*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Penal Code section 261, as amended by Assembly Bill 1171 (Stats. 2021, ch. 626), became effective on January 1, 2022. If the defendant’s alleged act occurred before this date, the court should give the prior version of this instruction."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 261(a)(5)."
+      },
+      {
+        "text": "• Penetration Defined. Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585, 600 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Gender-specific language is used because rape usually occurs between a man and a woman. In keeping with plain English principles, the committee used those terms to make the instruction clear and concrete."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Rape. Pen. Code, §§ 663, 261."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 1000, *Rape by Force, Fear, or Threats*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

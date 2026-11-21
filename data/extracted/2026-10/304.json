@@ -1,0 +1,49 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "304",
+  "title": "Multiple Defendants: Limited Admissibility of Evidence",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      152,
+      152
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "I instructed you during the trial that certain evidence was admitted only against [a] certain defendant[s]. You must not consider that evidence against any other defendant."
+  ],
+  "body_indents": [
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to give an instruction limiting evidence to one defendant; however, it must be given on request. (Evid. Code, § 355; *People v. Miranda* (1987) 44 Cal.3d 57, 83 [241 Cal.Rptr. 594, 744 P.2d 1127], disapproved of on other grounds in *People v. Marshall* (1990) 50 Cal.3d 907 [269 Cal.Rptr. 269, 790 P.2d 676].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Evid. Code, § 355."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 303, *Limited Purpose Evidence in General*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

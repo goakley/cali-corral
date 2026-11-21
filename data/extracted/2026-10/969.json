@@ -1,0 +1,86 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "969",
+  "title": "Permitting Someone to Shoot From Vehicle (Pen. Code, § 26100(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      785,
+      786
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, March 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with permitting someone to shoot from a vehicle [in violation of Penal Code section 26100(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was the (driver/[or] owner) of a vehicle;",
+    "2. The defendant permitted someone to shoot a firearm from the vehicle;",
+    "3. The defendant knew that (he/she) was permitting someone to shoot a firearm from the vehicle;",
+    "AND",
+    "4. The other person shot the firearm from the vehicle.",
+    "[A vehicle owner who permits someone else to shoot a firearm from the vehicle is guilty even if the owner is not in the vehicle when the shooting happens.]",
+    "[A *vehicle* is a device by which people or things may be moved on a road or highway. A vehicle does not include a device that is moved only by human power or used only on stationary rails or tracks.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[The term[s] (*firearm/*______ <insert other term>) (is/are) defined in another instruction to which you should refer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the relevant bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 968, *Shooting From Motor Vehicle*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 26100(b)."
+      },
+      {
+        "text": "• “Firearm” Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Laster* (1997) 52 Cal.App.4th 1450, 1468 [61 Cal.Rptr.2d 680]."
+      },
+      {
+        "text": "• “Vehicle” Defined. Veh. Code, § 670."
+      },
+      {
+        "text": "• “From a Vehicle” Includes Standing at Open Door. *People v. Gaines* (2023) 93 Cal.App. 5th 91, 120 [310 Cal.Rptr.3d 203]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

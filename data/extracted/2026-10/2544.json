@@ -1,0 +1,97 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2544",
+  "title": "Carrying Firearm: Possession of Firearm Prohibited Due to Conviction, Court Order, or Mental Illness (Pen. Code, §§ 25400(c)(4), 25850(c)(4))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1787,
+      1789
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, February 2012",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of unlawfully (carrying a concealed firearm (on (his/her) person/within a vehicle)[,]/causing a firearm to be carried concealed within a vehicle[,]/[or] carrying a loaded firearm) [under Count[s] ______], you must then decide whether the People have proved the additional allegation that the defendant was prohibited by law from possessing a firearm.",
+    "To prove this allegation, the People must prove that:",
+    "<Alternative 1A—prohibited due to mental illness or SVP status>",
+    "[The defendant ______ <insert description from Welf. & Inst. Code, § 8100 or 8103>.]",
+    "<Alternatives 1B & 2B—prohibited by court order. Give both elements 1B and 2B in cases involving restraining orders. For probation orders, give only 1B.>",
+    "[1. A court had ordered that the defendant not (own/purchase/receive/possess) a firearm(;/.)]",
+    "[AND",
+    "2. The defendant knew about the court’s order.]",
+    "<Alternatives 1C & 2C—prohibited due to conviction. Give both elements 1C and 2C in cases involving misdemeanor convictions or juvenile findings. For all other cases involving prior convictions, give 1C only.>",
+    "[1. The defendant had previously been convicted of (a felony/two offenses of brandishing a firearm/the crime of ______ <insert misdemeanor offense from Pen. Code, § 29805 or 23515, or a juvenile finding from Pen. Code, § 29820(a)(2)>)(;/.)]",
+    "[AND",
+    "2. (The previous conviction was within 10 years of the date the defendant (carried the firearm/caused the firearm to be carried concealed in a vehicle)./The defendant was less than 30 years old at the time (he/she) (carried the firearm/caused the firearm to be carried concealed in a vehicle).)]",
+    "[A juvenile court finding is the same as a conviction.]",
+    "[A conviction of ______ <insert name of offense from other state or federal offense> is the same as a conviction for a felony.]",
+    "[You may consider evidence, if any, that (the defendant was previously convicted of a crime/a court ordered the defendant not to (own[,]/purchase[,]/receive[,]/[or] possess) a firearm) only in deciding whether the People have proved this allegation [or for the limited purpose of ______ <insert other permitted purpose, e.g., assessing defendant’s credibility>]. Do not consider such evidence for any other purpose.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the sentencing factor. (See *Apprendi v. New Jersey* (2000) 530 U.S. 466, 475–476, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Give this instruction if the defendant is charged under Penal Code section 25400(c)(4) or 25850(c)(4) and the defendant does not stipulate that he or she is prohibited from possessing a firearm. (*People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690].) This instruction must be given with the appropriate instruction defining the elements of carrying a concealed firearm, CALCRIM No. 2521, 2522, or carrying a loaded firearm, CALCRIM No. 2530. The court must provide the jury with a verdict form on which the jury will indicate if the sentencing factor has been proved."
+      },
+      {
+        "text": "If the defendant does stipulate that he or she is prohibited from possessing a firearm, this instruction should not be given and that information should not be disclosed to the jury unless the court admits the information as otherwise relevant. (See *People v. Hall, supra,* 67 Cal.App.4th at p. 135.)"
+      },
+      {
+        "text": "When giving alternative 1B, only give element 2B if the prosecution alleges that the defendant was prohibited from possessing a firearm under Penal Code section 29825(a), (b)."
+      },
+      {
+        "text": "When giving alternative 1C, only give element 2C if the prosecution alleges that the defendant was prohibited from possessing a firearm under Penal Code section 29805, possession within ten years of a specified misdemeanor conviction, or Penal Code section 29820(a), (b), possession by someone under 30 years old with a specified juvenile finding."
+      },
+      {
+        "text": "On request, the court should give the limiting instruction regarding the evidence of the prior conviction that begins, “You may consider . . . .” (*People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913].) There is no sua sponte duty to give the limiting instruction, and the defense may prefer that no limiting instruction be given. (*People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Factors. Pen. Code, §§ 25400(c)(4), 25850(c)(4) Sentencing Factors, Not Elements. *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690]."
+      },
+      {
+        "text": "• Limiting Instruction on Prior Conviction. *People v. Valentine* (1986) 42 Cal.3d 170, 182, fn. 7 [228 Cal.Rptr. 25, 720 P.2d 913]; *People v. Griggs* (2003) 110 Cal.App.4th 1137, 1139 [2 Cal.Rptr.3d 380]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See Related Issues section of Bench Notes for CALCRIM No. 2510, *Possession of Firearm by Person Prohibited Due to Conviction—No Stipulation to Conviction*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

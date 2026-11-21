@@ -1,0 +1,110 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2400",
+  "title": "Using or Being Under the Influence of Controlled Substance (Health & Saf. Code, § 11550)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1689,
+      1691
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (using/[or] being under the influence of) ______ <insert controlled substance listed in Health & Saf. Code, § 11550>, a controlled substance [in violation of Health and Safety Code section 11550].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative A—use of controlled substance>",
+    "1. The defendant willfully [and unlawfully] used ______ <insert controlled substance listed in Health & Saf. Code, § 11550>, a controlled substance[, a short time before (his/her) arrest](;/.)",
+    "[OR]",
+    "<Alternative B—under the influence of controlled substance>",
+    "(1/2). The defendant was willfully [and unlawfully] under the influence of ______ <insert controlled substance listed in Health & Saf. Code, § 11550>, a controlled substance, when (he/she) was arrested.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "[Someone is *under the influence of a controlled substance* if that person has taken or used a controlled substance that has appreciably affected the person’s nervous system, brain, or muscles or has created in the person a detectable abnormal mental or physical condition.]",
+    "<Defense: Prescription>",
+    "[The defendant is not guilty of (using/[or] being under the influence of) ______ <insert controlled substance listed in Health & Saf. Code, § 11550> if (he/she) had a valid prescription for that substance written by a physician, dentist, podiatrist, [naturopathic doctor] or veterinarian licensed to practice in California. The People have the burden of proving beyond a reasonable doubt that the defendant did not have a valid prescription. If the People have not met this burden, you must find the defendant not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "A violation of Health and Safety Code section 11550 based on “use” of a controlled substance requires “ ‘current use’ or ‘use immediately prior to arrest’ . . . .” (*People v. Jones* (1987) 189 Cal.App.3d 398, 403–404 [234 Cal.Rptr. 408]; see also *People v. Velasquez* (1976) 54 Cal.App.3d 695, 699–700 [126 Cal.Rptr. 656]; *People v. Gutierrez* (1977) 72 Cal.App.3d 397, 402 [140 Cal.Rptr. 122].) In *People v. Jones, supra,* 189 Cal.App.3d at p. 406, the court found evidence of use within 48 hours prior to the defendant’s arrest sufficient. If there is an issue in the case over when the defendant allegedly used the substance, give the bracketed phrase “a short time before (his/her) arrest” in element 1. *(Ibid.)* Alternatively, the court may insert a specific time or time frame in element 1, e.g., “24 to 48 hours prior to (his/her) arrest.”"
+      },
+      {
+        "text": "A recent amendment to section 11150 includes a naturopathic doctor in the category of those who may furnish or order certain controlled substances, so that bracketed option should be included in this instruction if substantial evidence supports it."
+      },
+      {
+        "text": "If the court instructs the jury on both use and being under the influence, the court should consider whether a unanimity instruction is required. (See CALCRIM No. 3500, *Unanimity*.)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The prescription defense is codified in Health and Safety Code section 11550. The defendant need only raise a reasonable doubt about whether his or her use of the drug was lawful because of a valid prescription. (See *People v. Mower* (2002) 28 Cal.4th 457, 479 [122 Cal.Rptr.2d 326, 49 P.3d 1067].) If there is sufficient evidence, the court has a sua sponte duty to instruct on the defense. Give the bracketed “and unlawfully” in the elements and the bracketed paragraph on the defense."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Health & Saf. Code, § 11550."
+      },
+      {
+        "text": "• Under the Influence. *People v. Culberson* (1956) 140 Cal.App.2d Supp. 959, 960–961 [295 P.2d 598]; see also *People v. Canty* (2004) 32 Cal.4th 1266, 1278 [14 Cal.Rptr.3d 1, 90 P.3d 1168]; *People v. Enriquez* (1996) 42 Cal.App.4th 661, 665 [49 Cal.Rptr.2d 710]."
+      },
+      {
+        "text": "• Under the Influence and Use Distinguished. *People v. Gutierrez* (1977) 72 Cal.App.3d 397, 402 [140 Cal.Rptr. 122]."
+      },
+      {
+        "text": "• Willfulness Element of Offense. *People v. Little* (2004) 115 Cal.App.4th 766, 775 [9 Cal.Rptr.3d 446]."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Specific Controlled Substance Must Be Alleged. *Sallas v. Municipal Court* (1978) 86 Cal.App.3d 737, 743 [150 Cal.Rptr. 543]."
+      },
+      {
+        "text": "• Requires Current Use. *People v. Jones* (1987) 189 Cal.App.3d 398, 403–404 [234 Cal.Rptr. 408]; see also *People v. Velasquez* (1976) 54 Cal.App.3d 695, 699–700 [126 Cal.Rptr. 656]; *People v. Gutierrez* (1977) 72 Cal.App.3d 397, 402 [140 Cal.Rptr. 122]."
+      },
+      {
+        "text": "• Statute Constitutional. *Bosco v. Justice Court* (1978) 77 Cal.App.3d 179, 191–192 [143 Cal.Rptr. 468]."
+      },
+      {
+        "text": "• Prescription Defense. Health & Saf. Code, § 11550."
+      },
+      {
+        "text": "• Prescription Defined. Health & Saf. Code, §§ 11027, 11164, 11164.5."
+      },
+      {
+        "text": "• Persons Authorized to Write Prescriptions. Health & Saf. Code, § 11150."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,98 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2762",
+  "title": "Escape After Remand or Arrest (Pen. Code, § 836.6)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2022,
+      2023
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (escape/[or] attempted escape) following (a remand/an arrest) [in violation of Penal Code section 836.6].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—remanded>",
+    "[1. The defendant was remanded, which means that a (magistrate/judge) ordered (him/her) placed into the custody of a (sheriff[,]/[or] marshal[,]/[or other] (police agency/peace officer));]",
+    "<Alternative 1B—arrested>",
+    "[1. The defendant was lawfully arrested by a peace officer and the defendant knew, or reasonably should have known, that (he/she) had been arrested;]",
+    "AND",
+    "2. The defendant (escaped/[or] attempted to escape) from the custody of the (sheriff[,]/marshal[,]/[or other] (police agency/peace officer)).",
+    "*Escape* means the unlawful departure from the physical limits of custody.",
+    "[A sworn member of ______ <insert name of agency that employs peace officer>, authorized by ______ <insert appropriate section from Pen. Code, § 830 et seq.> to ______ <describe statutory authority>, is a *peace officer*.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged with a felony for use of force or violence, give CALCRIM No. 2763, *Escape After Remand or Arrest: Force or Violence* with this instruction."
+      },
+      {
+        "text": "If the defendant is charged with attempt, give CALCRIM No. 460, *Attempt Other Than Attempted Murder*. (*People v. Gallegos* (1974) 39 Cal.App.3d 512, 517 [114 Cal.Rptr. 166].)"
+      },
+      {
+        "text": "If lawfulness of the arrest is an issue, give the appropriate paragraphs from"
+      },
+      {
+        "text": "CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      },
+      {
+        "text": "The jury must determine whether the person who arrested the defendant is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the person was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)*"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence of necessity, the court has a sua sponte duty to give CALCRIM No. 2764, *Escape: Necessity Defense*. (*People v. Condley* (1977) 69 Cal.App.3d 999, 1008–1013 [138 Cal.Rptr. 515]; *People v. Lovercamp* (1974) 43 Cal.App.3d 823, 831–832 [118 Cal.Rptr. 110].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 836.6"
+      },
+      {
+        "text": "• Specific Intent Not an Element of Completed Escape. *People v. George* (1980) 109 Cal.App.3d 814, 819 [167 Cal.Rptr. 603]."
+      },
+      {
+        "text": "• Attempt to Escape—Must Instruct on Direct Act and Specific Intent. *People v. Gallegos* (1974) 39 Cal.App.3d 512, 517 [114 Cal.Rptr. 166]."
+      },
+      {
+        "text": "• Escape Defined. *People v. Lavaie* (1999) 70 Cal.App.4th 456, 459–461 [82 Cal.Rptr.2d 719]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Escape after remand or arrest is a misdemeanor unless the defendant used force or violence and caused serious bodily injury to a peace officer. (Pen. Code, § 836.6(c).) If the defendant is charged with the felony, then the misdemeanor is a lesser included offense. (See *People v. Gallegos* (1974) 39 Cal.App.3d 512, 518–519 [114 Cal.Rptr. 166].) The court must provide the jury with a verdict form on which the jury will indicate if the additional elements have or have not been proved. If the jury finds that these elements have not been proved, then the offense should be set at a misdemeanor."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

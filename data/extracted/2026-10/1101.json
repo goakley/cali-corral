@@ -1,0 +1,111 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1101",
+  "title": "Sexual Penetration With Minor: Defendant 21 or Older (Pen. Code, § 289(i))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      920,
+      922
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with participating in an act of sexual penetration with a person who was under the age of 16 years at a time after the defendant had reached (his/her) 21st birthday [in violation of Penal Code section 289(i)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant participated in an act of sexual penetration with another person;",
+    "2. The penetration was accomplished by using (a/an) (foreign object[,]/[or] substance[,]/[or] instrument[,]/[or] device[,]/[or] unknown object);",
+    "3. The defendant was at least 21 years old at the time of the act;",
+    "AND",
+    "4. The other person was under the age of 16 years at the time of the act.",
+    "*Sexual penetration* means (penetration, however slight, of the genital or anal openings of another person/[or] causing another person to penetrate, however slightly, the defendant’s or someone else’s genital or anal opening/[or] causing the other person to penetrate, no matter how slightly, his or her own genital or anal opening) for the purpose of sexual abuse, arousal, or gratification.",
+    "[A *foreign object, substance, instrument, or device* includes any part of the body except a sexual organ.] [An *unknown object* includes any foreign object, substance, instrument, or device, or any part of the body, including a penis, if it is not known what object penetrated the opening.]",
+    "[Penetration for *sexual abuse* means penetration for the purpose of causing pain, injury, or discomfort.]",
+    "[It is not a defense that the other person may have consented to the act.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "<Defense: Good Faith Belief 18 or Over>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that the other person was age 18 or older. The People must prove beyond a reasonable doubt that the defendant did not reasonably and actually believe that the other person was at least 18 years old. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “It is not a defense that” on request, if there is evidence that the minor consented to the act. (See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502].)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant reasonably and actually believed that the minor was age 18 or older, the court has a sua sponte duty to instruct on the defense. (See *People v. Hernandez* (1964) 61 Cal.2d 529, 535–536 [39 Cal.Rptr. 361, 393 P.2d 673]; *People v. Winters* (1966) 242 Cal.App.2d 711, 716 [51 Cal.Rptr. 735].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 289(i)."
+      },
+      {
+        "text": "• Foreign Object, Substance, Instrument, or Device Defined. Pen. Code, § 289(k)(2); *People v. Wilcox* (1986) 177 Cal.App.3d 715, 717 [223 Cal.Rptr. 170] [a finger is a “foreign object”]."
+      },
+      {
+        "text": "• Sexual Penetration Defined. Pen. Code, § 289(k)(1); see *People v. Quintana* (2001) 89 Cal.App.4th 1362, 1371 [108 Cal.Rptr.2d 235] [penetration of genital opening refers to penetration of labia majora, not the vagina]."
+      },
+      {
+        "text": "• Unknown Object Defined. Pen. Code, § 289(k)(3)."
+      },
+      {
+        "text": "• Minor’s Consent Not a Defense. See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502] [in context of statutory rape]."
+      },
+      {
+        "text": "• Sexual Abuse Defined. *People v. White* (1986) 179 Cal.App.3d 193, 205–206 [224 Cal.Rptr. 467]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Sexual Penetration With Minor When Defendant Over 21. Pen. Code, §§ 664, 289(i)."
+      },
+      {
+        "text": "• Sexual Penetration With Minor Under 18. See *People v. Culbertson* (1985) 171 Cal.App.3d 508, 516 [217 Cal.Rptr. 347]; *People v. Jerome* (1984) 160 Cal.App.3d 1087, 1097–1098 [207 Cal.Rptr. 199] [both in context of Pen. Code, § 287(c)]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section under CALCRIM 1070, *Unlawful Sexual Intercourse: Defendant 21 or Older*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

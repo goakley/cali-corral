@@ -1,0 +1,151 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3229",
+  "title": "Aggravating Factor: Threatened, Prevented, Dissuaded, Etc. Witnesses",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2311,
+      2314
+    ]
+  },
+  "revision_line": "New March 2023; Revised March 2024,* February 2025,* February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "<Introductory paragraph for nonbifurcated trial>",
+    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the defendant[ in Count[s] ______] (threatened witnesses[,]/[or ]unlawfully prevented or dissuaded witnesses from testifying[,]/[or ]suborned perjury[,]/[or ]______ <insert other illegal activity that interfered with the judicial process>).]",
+    "<Introductory paragraph for bifurcated trial>",
+    "[The People have alleged that the defendant[ in Count[s] ______] (threatened witnesses[,]/[or ]unlawfully prevented or dissuaded witnesses from testifying[,]/[or ]suborned perjury[,]/[or ]______ <insert other illegal activity that interfered with the judicial process>).]",
+    "To prove this allegation, the People must prove that the defendant (threatened [a ]witness[es]/[or ]prevented [a ]witness[es] from testifying/[or ]dissuaded [a ]witness[es] from testifying/[or ]suborned perjury/[or ]______ <insert other illegal activity that interfered with the judicial process>).",
+    "[As used here, *witness* means someone[ or a person the defendant reasonably believed to be someone]:",
+    "<Give the appropriate bracketed paragraph[s].>",
+    "• [Who knows about the existence or nonexistence of facts relating to a crime(;/.)]",
+    "[OR]",
+    "• [Whose declaration under oath has been or may be received as evidence(;/.)]",
+    "[OR]",
+    "• [Who has reported a crime to a (peace officer[,]/[or] prosecutor[,]/[or] probation or parole officer[,]/[or] correctional officer[,]/[or] judicial officer)(;/.)]",
+    "[OR",
+    "• Who has been served with a subpoena issued under the authority of any state or federal court.]]",
+    "[A threat may be oral or written and may be implied by a pattern of conduct or a combination of statements and conduct.]",
+    "[The defendant does not have to communicate the threat directly to the intended victim, but may do so through someone else.]",
+    "[Someone who intends that a statement be understood as a threat does not have to actually intend to carry out the threatened act [or intend to have someone else do so].]",
+    "[*Dissuaded* means persuaded or advised not to do something.]",
+    "[*Suborned perjury* means encouraged, induced, or assisted witnesses to willfully make [a ]false statement[s] under oath. In order to find that the defendant suborned perjury, the People must prove, beyond a reasonable doubt, not only that the sworn statement was actually false, but also that the defendant, at the time (he/she) encouraged, induced, or assisted the witness(es) to make the statement, knew that it was false.]",
+    "[*Induced* means persuaded, convinced, influenced, or instructed.]",
+    "You may not find the allegation true unless all of you agree that the People have proved that the defendant (threatened [a ]witness[es]/[or ]prevented [a ]witness[es] from testifying/[or ]dissuaded [a ]witness[es] from testifying/[or ]suborned perjury/[or ]______ <insert other illegal activity that interfered with the judicial process>). However, all of you do not need to agree on which act[s] or conduct constitutes (threatening [a ]witness[es]/[or ]preventing [a ]witness[es] from testifying/[or ]dissuading [a ]witness[es] from testifying/[or ]suborning perjury/[or ]______ <insert other illegal activity that interfered with the judicial process>).",
+    "You may not find the allegation true unless all of you agree that the People have proved that the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime.",
+    "[You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction is provided for the court to use for an aggravating factor as stated in California Rules of Court, rule 4.421. (See Pen. Code, §§ 1170, 1170.1; see also *People v. Wiley* (2025) 17 Cal.5th 1069, 1086 [333 Cal.Rptr.3d 635, 570 P.3d 436]; *Cunningham v. California* (2007) 549 U.S. 270 [127 S.Ct. 856, 166 L.Ed.2d 856].)"
+      },
+      {
+        "text": "Penal Code section 1170.85(a) states: “Upon conviction of any felony assault or battery offense, it shall be considered a circumstance in aggravation of the crime in imposing a term under subdivision (b) of Section 1170 if the offense was committed to prevent or dissuade a person who is or may become a witness from attending upon or testifying at any trial, proceeding, or inquiry authorized by law, or if the offense was committed because the person provided assistance or information to a law enforcement officer, or to a public prosecutor in a criminal or juvenile court proceeding.” If this section is applicable, the bracketed catch-all provision of the instruction related to other illegal activity should be modified to reflect the defendant’s alleged conduct."
+      },
+      {
+        "text": "If it is alleged the defendant interfered with the judicial process by committing perjury, the bracketed catch-all provision for other illegal activity should be modified and the trial court should also instruct with CALCRIM No. 2640, *Perjury*. (See *People v. Howard* (1993) 17 Cal.App.4th 999, 1002–1004 [21 Cal.Rptr.2d 676].)"
+      },
+      {
+        "text": "The catch-all provision of other illegal activity can include attempts to dissuade or prevent a witness from testifying. (See *People v. Lewis* (1991) 229 Cal.App.3d 259, 266–267 [280 Cal.Rptr. 128].)"
+      },
+      {
+        "text": "Do not give an aggravating factor that is an element of the convicted offense. (Pen. Code, § 1170(b)(5).)"
+      },
+      {
+        "text": "The court should specify which crimes the aggravating factor pertains to if it applies to one or more specific counts."
+      },
+      {
+        "text": "The court must bifurcate the jury’s determination of the aggravating factors on the defendant’s request “[e]xcept where evidence supporting an aggravating circumstance is admissible to prove or defend against the charged offense or enhancement at trial, or it is otherwise authorized by law.” (Pen. Code, § 1170(b)(2).) For a bifurcated trial, the court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggravating Factor. California Rules of Court, rule 4.421(a)(6)."
+      },
+      {
+        "text": "• “Aggravating Fact” Defined. *People v. Hicks* (2017) 17 Cal.App.5th 496, 512 [225 Cal.Rptr.3d 682]; *People v. Zamarron* (1994) 30 Cal.App.4th 865, 872 [36 Cal.Rptr.2d 17]; *People v. Moreno* (1982) 128 Cal.App.3d 103, 110 [179 Cal.Rptr. 879] [“The essence of ‘aggravation’ relates to the effect of a particular fact in making the offense distinctively worse than the ordinary”]."
+      },
+      {
+        "text": "• Unanimity Not Required Regarding Facts Underlying the Aggravating Factor. *People v. McDaniel* (2021) 12 Cal.5th 97, 142–148 [283 Cal.Rptr.3d 32, 493 P.3d 815]."
+      },
+      {
+        "text": "• “Witness” Defined. Pen. Code, § 136(2)."
+      },
+      {
+        "text": "• “Threat” Defined. Pen. Code, § 76(5)."
+      },
+      {
+        "text": "• Attempted Subornation of Perjury. *People v. Lewis, supra,* 229 Cal.App.3d at pp. 266–267."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Distinctively Worse Than the Ordinary"
+      },
+      {
+        "text": "The committee is aware of *Johnson v. United States* (2015) 576 U.S. 591, 597–598 [135 S.Ct. 2551, 192 L.Ed.2d 569], in which the United States Supreme Court held that determining what constitutes an “ordinary” violation of a criminal statute may create a constitutional vagueness problem. Nevertheless, in light of California case law that has never been disapproved (see, e.g., *People v. Moreno, supra,* 128 Cal.App.3d at p. 110), the committee has elected to include in the instruction the state law requirement that an aggravating factor may not be found to be true unless the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime."
+      },
+      {
+        "text": "One court has held that the aggravating factor scheme under California Rules of Court, rule 4.421 does not present the same problem as *Johnson* because comparing the defendant’s conduct with other ways in which the same offense has been or may be committed “does not require the decisionmaker to define a single, imaginary fact pattern as the ‘ordinary’ way of committing the offense” and thus does not raise a constitutional concern. (See *Chavez Zepeda v. Superior Court* (2023) 97 Cal.App.5th 65, 88–90 [315 Cal.Rptr.3d 202].)"
+      },
+      {
+        "heading": true,
+        "text": "Perjury"
+      },
+      {
+        "text": "Perjury committed by the defendant can constitute “an illegal activity that interfered with the judicial process.” (See *People v. Howard, supra,* 17 Cal.App.4th at p. 1002.) If it is alleged that the defendant committed perjury, the jury must find all the elements of a perjury violation. *Id.* at p. 1004 [holding that the court is constitutionally required to make findings encompassing the elements of perjury: “a willful statement, under oath, of any material matter which the witness knows to be false”]; see also *United States v. Dunnigan* (1993) 507 U.S. 87, 96 [113 S.Ct. 1111, 122 L.Ed.2d 445].) The concern, essentially, is that a sentence may be aggravated if the defendant actually committed perjury by being untruthful, but not if the defendant merely gave inaccurate testimony because of confusion, mistake, faulty memory, or some other reason besides a willful attempt to impede justice. (*Howard*, *supra*, 17 Cal.App.4th at p.1005; *Dunnigan*, *supra*, 507 U.S. at pp. 95–96.)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Prohibition Against Dual Use of Facts at Sentencing"
+      },
+      {
+        "text": "The jury may find true multiple aggravating factors based on the same underlying fact. However, at sentencing, a single underlying fact may not support more than one aggravating factor. (*People v. Fernandez* (1990) 226 Cal.App.3d 669, 680 [276 Cal.Rptr. 631].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

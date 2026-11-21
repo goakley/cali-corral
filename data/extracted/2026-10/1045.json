@@ -1,0 +1,223 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1045",
+  "title": "Sexual Penetration by Force, Fear, or Threats (Pen. Code, § 289(a)(1) & (2), (g))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      870,
+      875
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016, April 2020, October 2021, March 2022, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with sexual penetration by force [in violation of Penal Code section 289].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed an act of sexual penetration with another person;",
+    "2. The penetration was accomplished by using (a/an) (foreign object[,]/[or] substance[,]/[or] instrument[,]/[or] device[,]/[or] unknown object);",
+    "3. The other person did not consent to the act;",
+    "AND",
+    "4. The defendant accomplished the act:",
+    "<Alternative 4A—force or fear>",
+    "[by force, violence, duress, menace, or fear of immediate and unlawful bodily injury to another person.]",
+    "<Alternative 4B—future threats of bodily harm>",
+    "[by threatening to retaliate against someone when there was a reasonable possibility that the defendant would carry out the threat. A *threat to retaliate* is a threat to kidnap, unlawfully restrain or confine, or inflict extreme pain, serious bodily injury, or death.]",
+    "<Alternative 4C—threat of official action>",
+    "[by threatening to use the authority of a public office to incarcerate, arrest, or deport someone. A *public official* is a person employed by a government agency who has authority to incarcerate, arrest, or deport. The other person must have reasonably believed that the defendant was a public official even if (he/she) was not.]",
+    "*Sexual penetration* means (penetration, however slight, of the genital or anal opening of the other person/[or] causing the other person to penetrate, however slightly, the defendant’s or someone else’s genital or anal opening/[or] causing the other person to penetrate, however slightly, his or her own genital or anal opening) for the purpose of sexual abuse, arousal, or gratification.",
+    "[A *foreign object, substance, instrument, or device* includes any part of the body except a sexual organ.] [An *unknown object* includes any foreign object, substance, instrument, or device, or any part of the body, including a penis, if it is not known what object penetrated the opening.]",
+    "[Penetration for *sexual abuse* means penetration for the purpose of causing pain, injury, or discomfort.]",
+    "[To *consent,* a person must know the nature of the act or transaction involved, act freely and voluntarily, and positively cooperate by act or attitude.]",
+    "[Evidence that the defendant and the other person (dated/were married/had been married) is not enough by itself to constitute consent.]",
+    "[Evidence that the other person (requested/suggested/communicated) that the defendant use a condom or other birth control device is not enough by itself to constitute consent.]",
+    "[An act is *accomplished by force* if a person uses enough physical force to overcome the other person’s will.]",
+    "[*Duress* means a direct or implied threat of force, violence, danger, hardship, or retribution that is enough to cause a reasonable person of ordinary sensitivity to do [or submit to] something that he or she would not otherwise do [or submit to]. When deciding whether the act was accomplished by duress, consider all the circumstances, including the age of the other person and (his/her) relationship to the defendant.]",
+    "[*Retribution* is a form of payback or revenge.]",
+    "[*Menace* means a threat, statement, or act showing an intent to injure someone.]",
+    "[An act is *accomplished by fear* if the other person is actually and reasonably afraid [or (he/she) is actually but unreasonably afraid and the defendant knows of (his/her) fear and takes advantage of it].]",
+    "<Defense: Reasonable Belief in Consent>",
+    "[The defendant is not guilty of forcible sexual penetration if (he/she) actually and reasonably believed that the other person consented to the act. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the other person consented. If the People have not met this burden, you must find the defendant not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of sexual penetration."
+      },
+      {
+        "text": "The court should select the appropriate alternative in element 4 to instruct how the sexual penetration was accomplished."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of reasonable belief in consent if there is “substantial evidence of equivocal conduct that would have led a defendant to reasonably and in good faith believe consent existed where it did not.” (See *People v. Williams* (1992) 4 Cal.4th 354, 362 [14 Cal.Rptr.2d 441, 841 P.2d 961]; *People v. Mayberry* (1975) 15 Cal.3d 143, 153–158 [125 Cal.Rptr. 745, 542 P.2d 1337].) The statutory presumption that a minor over 14 is incapable of legal consent does not apply to a violation of Penal Code section 289(a)(1)(C). (*People v. Duarte-Lara* (2020) 49 Cal.App.5th 332, 339 [262 Cal.Rptr.3d 774].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 3185, *Sex Offenses: Sentencing Factor—Using Force or Fear Against Minor Under 14 Years/14 Years or Older*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 289(a)(1), (2), (g)."
+      },
+      {
+        "text": "• Specific Intent Crime. *People v. McCoy* (2013) 215 Cal.App.4th 1510, 1538 [156 Cal.Rptr.3d 382]."
+      },
+      {
+        "text": "• “Consent” Defined. Pen. Code, §§ 261.6, 261.7."
+      },
+      {
+        "text": "• “Duress” Defined. *People v. Leal* (2004) 33 Cal.4th 999, 1004–1010 [16 Cal.Rptr.3d 869, 94 P.3d 1071]; *People v. Pitmon* (1985) 170 Cal.App.3d 38, 50 [216 Cal.Rptr. 221]."
+      },
+      {
+        "text": "• “Foreign Object, Substance, Instrument, or Device” Defined. Pen. Code, § 289(k)(2); *People v. Wilcox* (1986) 177 Cal.App.3d 715, 717 [223 Cal.Rtpr. 170] [a finger is a “foreign object”]."
+      },
+      {
+        "text": "• “Menace” Defined. Pen. Code, § 261(c) [in context of rape]."
+      },
+      {
+        "text": "• “Sexual Penetration” Defined. Pen. Code, § 289(k); see *People v. Quintana* (2001) 89 Cal.App.4th 1362, 1371 [108 Cal.Rptr.2d 235] [penetration of genital opening refers to penetration of labia majora, not the vagina]."
+      },
+      {
+        "text": "• “Threatening to Retaliate” Defined. Pen. Code, § 289(*l*)."
+      },
+      {
+        "text": "• “Unknown Object” Defined. Pen. Code, § 289(k)(3)."
+      },
+      {
+        "text": "• “Fear” Defined. *People v. Reyes* (1984) 153 Cal.App.3d 803, 810 [200 Cal.Rptr. 651]; *People v. Iniguez* (1994) 7 Cal.4th 847 [30 Cal.Rptr.2d 258, 872 P.2d 1183] [in context of rape]."
+      },
+      {
+        "text": "• “Force” Defined. *People v. Griffin* (2004) 33 Cal.4th 1015, 1023–1024 [16 Cal.Rptr.3d 891, 94 P.3d 1089]."
+      },
+      {
+        "text": "• Intent. *People v. Senior* (1992) 3 Cal.App.4th 765, 776 [5 Cal.Rptr.2d 14] [specific intent is “purpose of sexual arousal, gratification, or abuse”]."
+      },
+      {
+        "text": "• Mistake of Fact Regarding Consent. See *People v. Mayberry* (1975) 15 Cal.3d 143, 153–158 [125 Cal.Rptr. 745, 542 P.2d 1337] [in context of kidnapping and rape]; *People v. Duarte-Lara, supra*, 49 Cal.App.5th at p. 339 [noting minor over 14]."
+      },
+      {
+        "text": "• “Sexual Abuse” Defined. *People v. White* (1986) 179 Cal.App.3d 193, 205–206 [224 Cal.Rptr. 467]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Penal Code section 289 requires that the sexual penetration be “against the victim’s will.” (Pen. Code, § 289(a)(1), (2), (g).) “Against the will” has been defined as “without consent.” (See *People v. Key* (1984) 153 Cal.App.3d 888, 895 [203 Cal.Rptr. 144] [in context of rape]; see also *People v. Young* (1987) 190 Cal.App.3d 248, 257 [235 Cal.Rptr. 361].)"
+      },
+      {
+        "text": "The instruction includes an optional definition of the sufficiency of “fear” because that term has meaning in the context of forcible sex offenses that is technical and may not be readily apparent to jurors. (See *People v. Reyes* (1984) 153 Cal.App.3d 803, 810 [200 Cal.Rptr. 651] [fear in context of sodomy and oral copulation]; *People v. Iniguez* (1994) 7 Cal.4th 847, 856–857 [30 Cal.Rptr.2d 258, 872 P.2d 1183] [fear in context of rape].)"
+      },
+      {
+        "text": "The court is not required to instruct sua sponte on the definition of “duress” or “menace” and Penal Code section 289 does not define either term. (*People v. Pitmon, supra*, 170 Cal.App.3d at p. 52 [duress].) Optional definitions are provided for the court to use at its discretion. The definition of “duress” is based on *People v. Leal, supra*, 33 Cal.4th at pp. 1004–1010, and *People v. Pitmon, supra*, 170 Cal.App.3d at p. 50. The definition of “menace” is based on the statutory definition contained in Penal Code section 261 (rape). (See *People v. Cochran* (2002) 103 Cal.App.4th 8, 13–14 [126 Cal.Rptr.2d 416] [using rape definition in case involving forcible lewd acts].) In *People v. Leal, supra,* 33 Cal.4th at pp. 1004–1010, the court held that the statutory definition of “duress” contained in Penal Code sections 261 and former 262 does not apply to the use of that term in any other statute. The court did not discuss the statutory definition of “menace.” The court should consider the *Leal* opinion before giving the definition of “menace.”"
+      },
+      {
+        "text": "The term “force” as used in the forcible sex offense statutes does not have a specialized meaning and court is not required to define the term sua sponte. (*People v. Griffin, supra*, 33 Cal.4th at pp. 1023–1024.) In *Griffin*, the Supreme Court further stated,"
+      },
+      {
+        "text": "Nor is there anything in the common usage definitions of the term “force,” or in the express statutory language of section 261 itself, that suggests force in a forcible rape prosecution actually means force “*substantially* different from or *substantially* greater than” the physical force normally inherent in an act of consensual sexual intercourse. [*People v. Cicero* (1984) 157 Cal.App.3d 465, 474 [204 Cal.Rptr. 582].] To the contrary, it has long been recognized that “in order to establish force within the meaning of section 261, subdivision (2), the prosecution need only show the defendant used physical force of a degree sufficient to support a finding that the act of sexual intercourse was against the will of the [victim].” (*People v. Young* (1987) 190 Cal.App.3d 248, 257–258 [235 Cal.Rptr. 361] . . . .)"
+      },
+      {
+        "text": "(*Ibid.* at 1023–1024 [emphasis in original].)"
+      },
+      {
+        "text": "The committee has provided a bracketed definition of “force,” consistent with *Griffin*, that the court may give on request."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Assault With Intent to Commit Forcible Sexual Penetration. See Pen. Code, § 220; *In re Jose M.* (1994) 21 Cal.App.4th 1470, 1477 [27 Cal.Rptr.2d 55] [in context of rape]."
+      },
+      {
+        "text": "• Attempted Forcible Sexual Penetration. Pen. Code, §§ 664, 289(a)(1), (2), (g)."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "• Sexual Battery. Pen. Code, §§ 243.4(a), (e)(1) under the expanded accusatory pleading test; *People v. Ortega* (2015) 240 Cal.App.4th 956, 967–970 [193 Cal.Rptr.3d 142]."
+      },
+      {
+        "text": "Nonforcible sex crimes requiring the perpetrator and victim to be within certain age limits are not lesser included offenses of forcible sex crimes. (*People v. Scott* (2000) 83 Cal.App.4th 784, 794 [100 Cal.Rptr.2d 70].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Consent Obtained by Fraudulent Representation"
+      },
+      {
+        "text": "A person may also induce someone else to consent to engage in sexual penetration by a false or fraudulent representation made with an intent to create fear, and which does induce fear and would cause a reasonable person to act contrary to his or her free will. (Pen. Code, § 266c [wobbler offense].) While section 266c requires coercion and fear to obtain consent, it does not involve physical force or violence. (See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 937–938 [26 Cal.Rptr.2d 567] [rejecting defendant’s argument that certain acts were consensual and without physical force, and were only violations of section 266c].)"
+      },
+      {
+        "heading": true,
+        "text": "Consent Withdrawn"
+      },
+      {
+        "text": "A forcible rape occurs when, during apparently consensual intercourse, the victim expresses an objection and attempts to stop the act and the defendant forcibly continues despite the objection. (*In re John Z.* (2003) 29 Cal.4th 756, 760 [128 Cal.Rptr.2d 783, 60 P.3d 183].) If there is an issue whether consent to sexual penetration was withdrawn, see CALCRIM No. 1000, *Rape by Force, Fear, or Threats,* for language that may be adapted for use in this instruction."
+      },
+      {
+        "heading": true,
+        "text": "Minor Victim"
+      },
+      {
+        "text": "When sexual penetration is committed against the will of a person who is incapable of consent, such as a baby, and is accomplished by physical force that results in physical injury to the victim, the statutory requirements “against the will” and “use of force” are fully satisfied. (*People v. White* (1986) 179 Cal.App.3d 193, 202 [224 Cal.Rptr. 467].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Penetrations"
+      },
+      {
+        "text": "A violation of section 289 is complete when “slight” penetration occurs. A new and separate violation is completed each time a new and separate penetration, however slight, occurs. (*People v. Harrison* (1989) 48 Cal.3d 321, 329, 334 [256 Cal.Rtpr. 401, 768 P.2d 1078] [disapproving *People v. Hammon* (1987) 191 Cal.App.3d 1084, 1097 [236 Cal.Rptr. 822]].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

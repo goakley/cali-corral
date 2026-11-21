@@ -1,0 +1,139 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "981",
+  "title": "Brandishing Firearm in Presence of Peace Officer (Pen. Code, § 417(c) & (e))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      792,
+      794
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with brandishing a firearm in the presence of a peace officer [in violation of Penal Code section 417].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant drew or exhibited a firearm in the immediate presence of a peace officer;",
+    "2. The defendant drew or exhibited the firearm in a rude, angry, or threatening manner;",
+    "3. When the defendant acted, the officer was lawfully performing (his/her) duties;",
+    "[AND]",
+    "4. When the defendant acted, (he/she) knew, or reasonably should have known, from the person’s uniform or other identifying action[s] that the person was a peace officer who was performing (his/her) duties(;/.)",
+    "<Give element 5 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "5. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[The term *firearm* is defined in another instruction to which you should refer.]",
+    "[It is not required that the firearm be loaded.]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[The duties of a ______ <insert title of officer> include ______ <insert job duties>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 5 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "In addition, the court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (*People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) On request, the court must instruct that the prosecution has the burden of proving the lawfulness of the arrest beyond a reasonable doubt. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651].) If lawful performance is an issue, give the appropriate portions of CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      },
+      {
+        "text": "Give the bracketed definition of “firearm” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "Give the bracketed paragraph about the lack of any requirement that the firearm be loaded on request."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins, “The duties of a ______ <insert title . . .> include,” on request. The court may insert a description of the officer’s duties such as “the correct service of a facially valid search warrant.” (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1222 [275 Cal.Rptr. 729, 800 P.2d 1159].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "For misdemeanor brandishing instructions, see CALCRIM No. 983, *Brandishing Firearm or Deadly Weapon: Misdemeanor*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 417(c) & (e)."
+      },
+      {
+        "text": "• Firearm Defined. Pen. Code, § 16520; see *In re Jose A.* (1992) 5 Cal.App.4th 697, 702 [7 Cal.Rptr.2d 44] [pellet gun not a “firearm” within meaning of Pen. Code, § 417(a)]."
+      },
+      {
+        "text": "• Peace Officer Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• Victim’s Awareness of Firearm Not a Required Element. *People v. McKinzie* (1986) 179 Cal.App.3d 789, 794 [224 Cal.Rptr. 891] [in context of misdemeanor brandishing under Pen. Code, § 417(a)]."
+      },
+      {
+        "text": "• Weapon Need Not Be Pointed Directly at Victim. *People v. Sanders* (1995) 11 Cal.4th 475, 542 [46 Cal.Rptr.2d 751, 905 P.2d 420] [in context of Pen. Code, § 417(a)]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Brandishing a Firearm. Pen. Code, § 417(a)(2)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Infliction of Serious Bodily Injury"
+      },
+      {
+        "text": "It is a separate offense to intentionally inflict serious bodily injury while drawing or exhibiting a firearm in the presence of a peace officer. (See Pen. Code, § 417.6(a); see also Pen. Code, § 417.6(b) [defining “serious bodily injury”].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Peace Officers"
+      },
+      {
+        "text": "A “single act of exhibiting a firearm in the presence of a peace officer . . . cannot be punished as many times as there are peace officers observing the act . . . . [T]he multiple-victim exception [under *Neal v. State of California* (1960) 55 Cal.2d 11, 20–21 [9 Cal.Rptr. 607, 357 P.2d 839] for acts of violence against multiple victims] is just that, a multiple-victim exception, not a multiple-observer exception.” (*People v. Hall* (2000) 83 Cal.App.4th 1084, 1095–1096 [100 Cal.Rptr.2d 279].)"
+      },
+      {
+        "heading": true,
+        "text": "Reasonable Person Standard for Physically Disabled Defendant"
+      },
+      {
+        "text": "A defendant with a physical disability is entitled to an instruction that the reasonable person standard as used in this instruction means a person with the same physical disability. (*People v. Mathews* (1994) 25 Cal.App.4th 89, 99 [30 Cal.Rptr.2d 330]; see CALCRIM No. 3429, *Reasonable Person Standard for Physically Disabled Person*.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

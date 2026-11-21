@@ -1,0 +1,134 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2514",
+  "title": "Possession of Firearm by Person Prohibited by Statute: Self-Defense",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1755,
+      1758
+    ]
+  },
+  "revision_line": "New January 2006; Revised December 2008, February 2012, September 2020, March 2022, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of unlawful possession of a firearm[, as charged in Count ______,] if (he/she) temporarily possessed the firearm in (self-defense/[or] defense of another). The defendant possessed the firearm in lawful (self-defense/[or] defense of another) if:",
+    "1. The defendant reasonably believed that (he/she/someone else/______ <insert name of third party>) was in imminent danger of suffering great bodily injury;",
+    "2. The defendant reasonably believed that the immediate use of force was necessary to defend against that danger;",
+    "3. A firearm became available to the defendant without planning or preparation on (his/her) part;",
+    "4. The defendant possessed the firearm temporarily, that is, for a period no longer than was necessary [or reasonably appeared to have been necessary] for self-defense;",
+    "5. No other means of avoiding the danger of injury was available;",
+    "AND",
+    "6. The defendant’s use of the firearm was reasonable under the circumstances.",
+    "Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be. The defendant must have believed there was imminent danger of great bodily injury to (himself/herself/[or] someone else). Defendant’s belief must have been reasonable and (he/she) must have acted only because of that belief. The defendant is only entitled to use that amount of force that a reasonable person would believe is necessary in the same situation. If the defendant used more force than was reasonable, the defendant did not act in lawful (self-defense/[or] defense of another).",
+    "When deciding whether the defendant’s beliefs were reasonable, consider all the circumstances as they were known to and appeared to the defendant and consider what a reasonable person in a similar situation with similar knowledge would have believed. If the defendant’s beliefs were reasonable, the danger does not need to have actually existed.",
+    "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "[The defendant’s belief that (he/she/someone else) was threatened may be reasonable even if (he/she) relied on information that was not true. However, the defendant must actually and reasonably have believed that the information was true.]",
+    "[If you find that ______ <insert name of person who allegedly threatened defendant> threatened or harmed the defendant [or others] in the past, you may consider that information in deciding whether the defendant’s conduct and beliefs were reasonable.]",
+    "[If you find that the defendant knew that ______ <insert name of person who allegedly threatened defendant> had threatened or harmed others in the past, you may consider that information in deciding whether the defendant’s conduct and beliefs were reasonable.]",
+    "[Someone who has been threatened or harmed by a person in the past, is justified in acting more quickly or taking greater self-defense measures against that person.]",
+    "[If you find that the defendant received a threat from someone else that (he/she) reasonably associated with ______ <insert name of person who was the alleged source of the threat>, you may consider that threat in deciding whether the defendant was justified in acting in (self-defense/[or] defense of another).]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not temporarily possess the firearm in (self-defense/[or] defense of another). If the People have not met this burden, you must find the defendant not guilty of this crime."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on self-defense when “it appears that the defendant is relying on such a defense, or if there is substantial evidence supportive of such a defense and the defense is not inconsistent with the defendant’s theory of the case.” (See *People v. Breverman* (1998) 19 Cal.4th 142, 157 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [discussing duty to instruct on defenses generally]; see also *People v. Lemus* (1988) 203 Cal.App.3d 470, 478 [249 Cal.Rptr. 897] [if substantial evidence of self-defense exists, court must instruct sua sponte and let jury decide credibility of witnesses]; *People v. King* (1978) 22 Cal.3d 12, 24 [148 Cal.Rptr. 409, 582 P.2d 1000] [self-defense applies to charge under now-repealed Pen. Code, § 12021].)"
+      },
+      {
+        "text": "On defense request and when supported by sufficient evidence, the court must instruct that the jury may consider the effect of “antecedent threats or assaults against the defendant on the reasonableness of defendant’s conduct.” (*People v. Garvin* (2003) 110 Cal.App.4th 484, 488 [1 Cal.Rptr.3d 774].) The court must also instruct that the jury may consider previous threats or assaults by the aggressor against someone else or threats received by the defendant from a third party that the defendant reasonably associated with the aggressor. (See *People v. Pena* (1984) 151 Cal.App.3d 462, 475 [198 Cal.Rptr. 819]; *People v. Minifie* (1996) 13 Cal.4th 1055, 1065, 1068 [56 Cal.Rptr.2d 133, 920 P.2d 1337]; see also CALCRIM No. 505, *Justifiable Homicide: Self-Defense or Defense of Another*.) If these instructions have already been given in CALCRIM No. 3470 or CALCRIM No. 505, the court may delete them here."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 3470, *Right to Self-Defense or Defense of Another (Non-Homicide)*."
+      },
+      {
+        "text": "CALCRIM No. 3471, *Right to Self-Defense: Mutual Combat or Initial Aggressor*."
+      },
+      {
+        "text": "CALCRIM No. 3472, *Right to Self-Defense: May Not Be Contrived*."
+      },
+      {
+        "text": "CALCRIM No. 505, *Justifiable Homicide: Self-Defense or Defense of Another*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Temporary Possession of Firearm by Felon in Self-Defense. *People v. King* (1978) 22 Cal.3d 12, 24 [148 Cal.Rptr. 409, 582 P.2d 1000]."
+      },
+      {
+        "text": "• Duty to Retreat Limited to Felon in Possession Cases. *People v. Rhodes* (2005) 129 Cal.App.4th 1339, 1343–1346 [29 Cal.Rptr.3d 226]."
+      },
+      {
+        "text": "• Possession Must Be Brief and Not Planned. *People v. McClindon* (1980) 114 Cal.App.3d 336, 340 [170 Cal.Rptr. 492]."
+      },
+      {
+        "text": "• Instructional Requirements. *People v. Moody* (1943) 62 Cal.App.2d 18 [143 P.2d 978]; *People v. Myers* (1998) 61 Cal.App.4th 328, 335, 336 [71 Cal.Rptr.2d 518]."
+      },
+      {
+        "text": "• Lawful Resistance. Pen. Code, §§ 692, 693, 694; Civ. Code, § 50."
+      },
+      {
+        "text": "• Burden of Proof. Pen. Code, § 189.5; *People v. Banks* (1976) 67 Cal.App.3d 379, 383–384 [137 Cal.Rptr. 652]."
+      },
+      {
+        "text": "• Elements. *People v. Humphrey* (1996) 13 Cal.4th 1073, 1082 [56 Cal.Rptr.2d 142, 921 P.2d 1]."
+      },
+      {
+        "text": "• Imminence. *People v. Aris* (1989) 215 Cal.App.3d 1178, 1187 [264 Cal.Rptr. 167], disapproved on other grounds by *People v. Humphrey, supra,* 13 Cal.4th at pp. 1088–1089."
+      },
+      {
+        "text": "• Reasonable Belief. *People v. Humphrey, supra,* 13 Cal.4th at p. 1082; *People v. Clark* (1982) 130 Cal.App.3d 371, 377 [181 Cal.Rptr. 682]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "Reasonable Person Standard Not Modified by Evidence of Mental Impairment"
+      },
+      {
+        "text": "In *People v. Jefferson* (2004) 119 Cal.App.4th 508, 519 [14 Cal.Rptr.3d 473], the court rejected the argument that the reasonable person standard for self-defense should be the standard of a mentally ill person like the defendant. “The common law does not take account of a person’s mental capacity when determining whether he has acted as the reasonable person would have acted. The law holds ‘the mentally deranged or insane defendant accountable for his negligence as if the person were a normal, prudent person.’ (Prosser & Keeton, Torts (5th ed. 1984) § 32, p. 177.)” (*Ibid*.; see also Rest.2d Torts, § 283B.)"
+      },
+      {
+        "heading": true,
+        "text": "Reasonable Person Standard and Physical Limitations"
+      },
+      {
+        "text": "A defendant’s physical limitations are relevant when deciding the reasonable person standard for self-defense. (*People v. Horn* (2021) 63 Cal.App.5th 672, 686 [277 Cal.Rptr.3d 901].) See also CALCRIM No. 3429, *Reasonable Person Standard for Physically Disabled Person*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 11
+  },
+  "warnings": []
+}

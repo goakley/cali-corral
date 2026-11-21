@@ -1,0 +1,67 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2845",
+  "title": "Determining Income: Specific Items Method",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2073,
+      2074
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "In this case, the People are [also] using the *specific items method* to try to prove that the defendant had unreported taxable income. I will now explain the specific items method.",
+    "In order to prove that the defendant received unreported taxable income under the specific items method, the People must prove that:",
+    "1. The defendant received income during ______ <insert year alleged>;",
+    "2. The income the defendant received was taxable;",
+    "AND",
+    "3. The income the defendant received was substantially greater than the income (he/she) reported on (his/her) tax return for ______ <insert year alleged>.",
+    "If you have a reasonable doubt about whether the People have proved 1, 2, or 3, you must find that the People have not proved under the specific items method that the defendant had unreported taxable income.",
+    "[If, on the other hand, you conclude that the defendant did have unreported taxable income, you must still decide whether the People have proved all elements of the crimes[s] charged [in Count[s] ______].]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "It is unclear if the court has a sua sponte duty to instruct on the specific items method of proof. If the prosecution is relying on this method and another method of proof, the court should instruct on both methods. (See *United States v. Meriwether* (5th Cir. 1971) 440 F.2d 753, 756–757 [reversed because instructions on specific items and net worth method not sufficiently clear].)"
+      },
+      {
+        "text": "The court must also give the appropriate instruction on the elements of the offense charged."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “If, on the other hand, you conclude” in every case, unless the court is giving CALCRIM No. 2846, *Proof of Unreported Taxable Income: Must Still Prove Elements of Offense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Specific Items Method Explained. *United States v. Hart* (6th Cir. 1995) 70 F.3d 854, 860; *United States v. Black* (D.C. Cir. 1988) 843 F.2d 1456, 1459; *United*"
+      },
+      {
+        "text": "*States v. Marabelles* (9th Cir. 1984) 724 F.2d 1374, 1379, fn. 3."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

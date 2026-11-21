@@ -1,0 +1,95 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1945",
+  "title": "Procuring Filing of False Document or Offering False Document for Filing (Pen. Code, § 115)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1406,
+      1408
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2020",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (offering a (false/[or] forged) document for (filing[,]/[or] recording[,]/[or] registration)/having a (false/[or] forged) document (filed[,]/[or] recorded[,]/[or] registered)) [in violation of Penal Code section 115].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—offering>",
+    "[1. The defendant offered a (false/[or] forged) document for (filing[,]/[or] recording[,]/[or] registration) in a public office in California;]",
+    "<Alternative 1B—procuring>",
+    "[1. The defendant caused a (false/[or] forged) document to be (filed[,]/[or] recorded[,]/[or] registered) in a public office in California;]",
+    "2. When the defendant did that act, (he/she) knew that the document was (false/[or] forged);",
+    "AND",
+    "3. The document was one that, if genuine, could be legally (filed[,]/[or] recorded[,]/[or] registered)."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 115."
+      },
+      {
+        "text": "• Materiality of Alteration Not Element. *People v. Feinberg* (1997) 51 Cal.App.4th 1566, 1578–1579 [60 Cal.Rptr.2d 323]."
+      },
+      {
+        "text": "• Meaning of Instrument as Used in Penal Code section 115. *People v. Parks* (1992) 7 Cal.App.4th 883, 886–887 [9 Cal.Rptr.2d 450]; *Generes v. Justice Court* (1980) 106 Cal.App.3d 678, 682–684 [165 Cal.Rptr. 222]; *People v. Powers* (2004) 117 Cal.App.4th 291, 295–297 [11 Cal.Rptr.3d 619]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Meaning of Instrument"
+      },
+      {
+        "text": "Penal Code section 115 applies to any “instrument” that, “if genuine, might be filed, registered, or recorded under any law of this state or of the United States . . . .” (Pen. Code, § 115(a).) Modern cases have interpreted the term “instrument” expansively, including any type of document that is filed or recorded with a public agency that, if acted on as genuine, would have the effect of deceiving someone. (See *People v. Parks* (1992) 7 Cal.App.4th 883, 886–887, 9 Cal.Rptr.2d 450 [9 CalRptr.2d 450]; *Generes v. Justice Court* (1980) 106 Cal.App.3d 678, 682–684 [165 Cal.Rptr. 222].) Thus, the courts have held that “instrument” includes a modified restraining order (*People v. Parks, supra,* 7 Cal.App.4th at p. 886), false bail bonds (*People v. Garcia* (1990) 224 Cal.App.3d 297, 306–307 [273 Cal.Rptr. 666]), and falsified probation work referrals (*People v. Tate* (1997) 55 Cal.App.4th 663, 667 [64 Cal.Rptr.2d 206]). In *People v. Powers* (2004) 117 Cal.App.4th 291, 297 [11 Cal.Rptr.3d 619], the court held that fishing records were “instruments” under Penal Code section 115. The court stated that “California courts have shown reluctance to interpret section 115 so broadly that it encompasses any writing that may be filed in a public office.” (*Id.* at p. 295.) The court adopted the following analysis for whether a document is an “instrument,” quoting the Washington Supreme Court:"
+      },
+      {
+        "text": "(1) the claimed falsity relates to a material fact represented in the instrument; and (2a) the information contained in the document is of such a nature that the government is required or permitted by law, statute or valid regulation to act in reliance thereon; or (2b) the information contained in the document materially affects significant rights or duties of third persons, when this effect is reasonably contemplated by the express or implied intent of the statute or valid regulation which requires the filing, registration, or recording of the document."
+      },
+      {
+        "text": "(*Id.* at p. 297 [quoting *State v. Price* (1980) 94 Wash.2d 810, 819 [620 P.2d 994].)"
+      },
+      {
+        "heading": true,
+        "text": "Each Document Constitutes a Separate Offense"
+      },
+      {
+        "text": "Penal Code section 115 provides that each fraudulent instrument filed or offered for filing constitutes a separate violation (subdivision (b)) and may be punished separately (subdivision (d)). “Thus, the Legislature has unmistakably authorized the imposition of separate penalties for each prohibited act even though they may be part of a continuous course of conduct and have the same objective.” (*People v. Gangemi* (1993) 13 Cal.App.4th 1790, 1800 [17 Cal.Rptr.2d 462].)"
+      },
+      {
+        "heading": true,
+        "text": "Meaning of False"
+      },
+      {
+        "text": "Unlawful procurement of a deed does not make it a false or forged document. (*People v. Schmidt* (2019) 41 Cal.App.5th 1042, 1056–1058 [254 Cal.Rptr.3d 694].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

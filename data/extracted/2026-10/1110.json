@@ -1,0 +1,155 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1110",
+  "title": "Lewd or Lascivious Act: Child Under 14 Years (Pen. Code, § 288(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      926,
+      929
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2013, August 2014",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with committing a lewd or lascivious act on a child under the age of 14 years [in violation of Penal Code section 288(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—defendant touched child>",
+    "[1A. The defendant willfully touched any part of a child’s body either on the bare skin or through the clothing;]",
+    "[OR]",
+    "<Alternative 1B—child touched defendant>",
+    "[1B. The defendant willfully caused a child to touch (his/her) own body, the defendant’s body, or the body of someone else, either on the bare skin or through the clothing;]",
+    "2. The defendant committed the act with the intent of arousing, appealing to, or gratifying the lust, passions, or sexual desires of (himself/herself) or the child;",
+    "AND",
+    "3. The child was under the age of 14 years at the time of the act.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[Actually arousing, appealing to, or gratifying the lust, passions, or sexual desires of the perpetrator or the child is not required.]",
+    "[It is not a defense that the child may have consented to the act.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged in a single count with multiple alleged acts, the court has a sua sponte duty to instruct on unanimity. (*People v. Jones* (1990) 51 Cal.3d 294, 321–322 [270 Cal.Rptr. 611, 792 P.2d 643].) The court must determine whether it is appropriate to give the standard unanimity instruction, CALCRIM No. 3500, *Unanimity*, or the modified unanimity instruction, CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*. Review the discussion in the bench notes to these two instructions and *People v. Jones, supra,* 51 Cal.3d at pp. 321–322."
+      },
+      {
+        "text": "In element 1, give alternative 1A if the prosecution alleges that the defendant touched the child. Give alternative 1B if the prosecution alleges that the defendant caused the child to do the touching."
+      },
+      {
+        "text": "Give the bracketed sentence that begins, “Actually arousing, appealing to,” on request. (*People v. McCurdy* (1923) 60 Cal.App. 499, 502 [213 P. 59].)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “It is not a defense that” on request, if there is evidence that the minor consented to the act. (*People v. Soto* (2011) 51 Cal.4th 229, 233 [119 Cal.Rptr.3d 775, 245 P.3d 410] [“the victim‘s consent is not a defense to the crime of lewd acts on a child under age 14 under any circumstances”].)"
+      },
+      {
+        "text": "Give the final bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 288(a)."
+      },
+      {
+        "text": "• Actual Arousal Not Required. *People v. McCurdy* (1923) 60 Cal.App. 499, 502 [213 P. 59]."
+      },
+      {
+        "text": "• Any Touching of Child With Intent to Arouse. *People v. Martinez* (1995) 11 Cal.4th 434, 444, 452 [903 P.2d 1037] [disapproving *People v. Wallace* (1992) 11 Cal.App.4th 568, 574–580 [14 Cal.Rptr.2d 67] and its progeny]; see *People v. Diaz* (1996) 41 Cal.App.4th 1424, 1427–1428 [49 Cal.Rptr.2d 252] [list of examples]."
+      },
+      {
+        "text": "• Child’s Consent Not a Defense. See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 937, fn. 7 [26 Cal.Rptr.2d 567] [dicta]."
+      },
+      {
+        "text": "• Child Touching Own Body Parts at Defendant’s Instigation. *People v. Meacham* (1984) 152 Cal.App.3d 142, 152–153 [199 Cal.Rptr. 586] [“constructive” touching; approving *Austin* instruction]; *People v. Austin* (1980) 111 Cal.App.3d 110, 114–115 [168 Cal.Rptr. 401]."
+      },
+      {
+        "text": "• Lewd Defined. *In re Smith* (1972) 7 Cal.3d 362, 365 [102 Cal.Rptr. 335, 497 P.2d 807] [in context of indecent exposure]; see *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256–257, fn. 13 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Lewd Act With Child Under 14. Pen. Code, §§ 664, 288(a); *People v. Imler* (1992) 9 Cal.App.4th 1178, 1181–1182 [11 Cal.Rptr.2d 915]; *People v. Herman* (2002) 97 Cal.App.4th 1369, 1389–1390 [119 Cal.Rptr.2d 199]."
+      },
+      {
+        "text": "• Battery Is *Not* a Lesser Included Offense of This Crime. (*People v. Shockley* (2013) 58 Cal.4th 400, 403, 406 [165 Cal.Rptr.3d 497, 314 P.3d 798].)"
+      },
+      {
+        "text": "Annoying or molesting a child under the age of 18 (Pen. Code, § 647.6) is not a lesser included offense of section 288(a). (*People v. Lopez* (1998) 19 Cal.4th 282, 290, 292 [79 Cal.Rptr.2d 195, 965 P.2d 713].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Any Act That Constitutes Sexual Assault"
+      },
+      {
+        "text": "A lewd or lascivious act includes any act that constitutes a crime against the person involving sexual assault as provided in title 9 of part 1 of the Penal Code (Pen. Code, §§ 261–368). (Pen. Code, § 288(a).) For example, unlawful sexual intercourse on the body of a child under 14 can be charged as a lewd act under section 288 and as a separate offense under section 261.5. However, these charges are in the alternative and, in such cases, the court has a sua sponte duty to give CALCRIM No. 3516, *Multiple Counts: Alternative Charges for One Event—Dual Conviction Prohibited*. (See Pen. Code, § 654(a); *People v. Nicholson* (1979) 98 Cal.App.3d 617, 625 [159 Cal.Rptr. 766].)"
+      },
+      {
+        "heading": true,
+        "text": "Calculating Age"
+      },
+      {
+        "text": "The “birthday rule” of former Civil Code section 26 (now see Fam. Code, § 6500) applies so that a person attains a given age as soon as the first minute of his or her birthday has begun, not on the day before the birthday. (See *In re Harris* (1993) 5 Cal.4th 813, 844–845, 849 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Minor Perpetrator"
+      },
+      {
+        "text": "A minor under age 14 may be convicted for violating Penal Code section 288(a) on clear proof of the minor’s knowledge of wrongfulness and the minor’s intent to arouse his or her own sexual desires. (See Pen. Code, § 26; *In re Randy S.* (1999) 76 Cal.App.4th 400, 406–408 [90 Cal.Rptr.2d 423]; see also *In re Paul C.* (1990) 221 Cal.App.3d 43, 49 [270 Cal.Rptr. 369] [in context of oral copulation].) The age of the minor is a factor to consider when determining if the conduct was sexually motivated. (*In re Randy S., supra,* 76 Cal.App.4th at pp. 405–406 [90 Cal.Rptr.2d 423].)"
+      },
+      {
+        "heading": true,
+        "text": "Solicitation to Violate Section 288"
+      },
+      {
+        "text": "Asking a minor to engage in lewd conduct with the person making the request is not punishable as solicitation of a minor to commit a violation of Penal Code section 288. (*People v. Herman* (2002) 97 Cal.App.4th 1369, 1379 [119 Cal.Rptr.2d 199] [conviction for solicitation under Penal Code section 653f(c) reversed].) “[A] minor cannot violate section 288 by engaging in lewd conduct with an adult.” (*Id.* at p. 1379.)"
+      },
+      {
+        "heading": true,
+        "text": "Mistaken Belief About Victim’s Age"
+      },
+      {
+        "text": "A defendant charged with a lewd act on a child under Penal Code section 288(a) is not entitled to a mistake of fact instruction regarding the victim’s age. (*People v. Olsen* (1984) 36 Cal.3d 638, 647 [205 Cal.Rptr. 492, 685 P.2d 52] [adult defendant]; *In re Donald R.* (1993) 14 Cal.App.4th 1627, 1629–1630 [18 Cal.Rptr.2d 442] [minor defendant].) The mistake of fact defense can apply to *attempted* lewd acts on a child under 14 years of age. (*People v. Hanna* (2013) 218 Cal.App.4th 455, 461 [160 Cal.Rptr.3d 210].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Lewd Acts"
+      },
+      {
+        "text": "Each individual act that meets the requirements of section 288 can result in a new and separate statutory violation. (*People v. Scott* (1994) 9 Cal.4th 331, 346–347 [36 Cal.Rptr.2d 627, 885 P.2d 1040]; see *People v. Harrison* (1989) 48 Cal.3d 321, 329, 334 [256 Cal.Rptr. 401, 768 P.2d 1078] [in context of sexual penetration].) For example, if a defendant fondles one area of a victim’s body with the requisite intent and then moves on to fondle a different area, one offense has ceased and another has begun. There is no requirement that the two be separated by a hiatus or period of reflection. (*People v. Jimenez* (2002) 99 Cal.App.4th 450, 456 [121 Cal.Rptr.2d 426].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

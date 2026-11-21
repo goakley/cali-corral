@@ -1,0 +1,109 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2963",
+  "title": "Permitting Person Under 21 to Consume Alcoholic Beverage (Bus. & Prof. Code, § 25658(d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2119,
+      2121
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with [unlawfully] permitting a person under 21 years old to consume an alcoholic beverage [in violation of Business and Professions Code section 25658(d)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was licensed to sell alcoholic beverages on the premises of a business;",
+    "2. The defendant [unlawfully] permitted ______ <insert name of person under 21> to consume an alcoholic beverage on the premises of that business;",
+    "AND",
+    "3. The defendant knew that ______ <insert name of person under 21> was consuming an alcoholic beverage.",
+    "An *alcoholic beverage* is a liquid or solid material intended to be consumed that contains one-half of 1 percent or more of alcohol by volume. [An *alcoholic beverage* includes ______ <insert type[s] of beverage[s] from Bus. & Prof. Code, § 23004, e.g., wine, beer>.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "The People are not required to prove that the defendant knew that ______ <insert name of person under 21> was under 21.",
+    "<Defense: Good Faith Belief at Least 21>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that ______ <insert name of person under 21> was at least 21 years old. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe that ______ <insert name of person under 21> was at least 21 years old. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "<Defense: Actual Reliance on Identification>",
+    "[The defendant did not unlawfully permit a person under 21 years old to consume an alcoholic beverage if:",
+    "1. The defendant [or (his/her) (employee/[or] agent)] demanded to see a government-issued document as evidence of ______’s <insert name of person under 21> age and identity;",
+    "2. ______ <insert name of person under 21> showed the defendant [or (his/her) employee/[or] agent)] a government-issued document, or what appeared to be a government-issued document, as evidence of (his/her) age and identity;",
+    "AND",
+    "3. The defendant [or (his/her) employee/[or] agent)] actually relied on the document as evidence of ______’s <insert name of person under 21> age and identity.",
+    "As used here, a *government-issued document* is a document [including a driver’s license or an identification card issued to a person in the armed forces] that has been, or appears to have been, issued by a government agency and contains the person’s name, date of birth, description, and picture. The government-issued document does not have to be genuine.",
+    "[An *agent* is a person who is authorized to act for the defendant in dealings with other people.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not actually rely on a government-issued document, or what appeared to be a government issued document, as evidence of ______’s <insert name of person under 21> age and identity. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed sentence about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Business and Professions Code section 25660(c) provides a defense for those who rely in good faith on bona fide evidence of age and identity. If there is sufficient evidence, the court has a sua sponte duty to instruct on the defense. (See *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067] [discussing affirmative defenses generally and the burden of proof].) Give the bracketed word “unlawfully” in the first sentence and element 1, and the bracketed paragraph on the defense."
+      },
+      {
+        "text": "In *In re Jennings* (2004) 34 Cal.4th 254, 280 [17 Cal.Rptr.3d 645, 95 P.3d 906], the Supreme Court held that, for a prosecution under Business and Professions Code section 25658(a), the defendant may assert as a defense a good faith belief that the person was at least 21. If the trial court concludes that this defense also applies to a prosecution under Business and Professions Code section 25658(d) and there is sufficient evidence, the court has a sua sponte duty to instruct on the defense. The court may use the bracketed language to instruct on this defense if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Bus. & Prof. Code, § 25658(d)."
+      },
+      {
+        "text": "• Alcoholic Beverage Defined. Bus. & Prof. Code, § 23004."
+      },
+      {
+        "text": "• Bona Fide Evidence of Age Defense. Bus. & Prof. Code, § 25660(c); *Kirby v. Alcoholic Beverage Control Appeals Board* (1968) 267 Cal.App.2d 895, 897, 898–899 [73 Cal.Rptr. 352]."
+      },
+      {
+        "text": "• Affirmative Defenses. See *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 2962, Selling or Furnishing Alcoholic Beverage to Person Under 21."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

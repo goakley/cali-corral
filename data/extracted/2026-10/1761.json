@@ -1,0 +1,219 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1761",
+  "title": "Unlawful Deprivation of Retail Business Opportunity (Pen. Code, § 496.6(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1244,
+      1249
+    ]
+  },
+  "revision_line": "New October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawful deprivation of a retail business opportunity [in violation of Penal Code section 496.6(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (possessed/[ or] acted together with [an]other person[s] to possess) property that had been obtained by (shoplifting[,]/[ or] theft[,]/[ or] burglary) from a retail business;",
+    "2. The defendant knew that the property had been stolen;",
+    "3. When the defendant possessed the property, (he/she) did not intend to personally use the property;",
+    "4. When the defendant possessed the property, (he/she) intended to (sell[,]/[ or] exchange[,]/[ or] return) the property for value;",
+    "AND",
+    "5. The [combined] value of the property was more than $950.",
+    "As used here, *property* includes merchandise or other products or goods that can be bought or sold in a retail business.",
+    "[Two or more people can possess an item at the same time.] [A person does not have to actually hold or touch something to possess it. It is enough if the person has [control over it] [or] [the right to control it], either personally or through another person.]",
+    "[In deciding whether the defendant intended to (sell[,]/[ or] exchange[,]/[ or] return) the property for value, you may consider whether, in the two years prior to the offense date, the defendant (sold[,]/[ or] exchanged[,]/[ or] returned) for value any property obtained through (shoplifting/[,]/[ or] theft/[,]/[ or] burglary) from a retail business[, or ______ <insert related offense>].]",
+    "[In deciding whether the defendant intended to sell or exchange the property for value, you may [also] consider whether the property is of a type or quantity that would not normally be purchased for personal use or personal consumption, including use or consumption by one’s immediate family.]",
+    "[In deciding whether the combined value of the property is more than $950, you may include the value of other property obtained through [an ]act[s] of (shoplifting[,]/[ or] theft[,]/[ or] burglary) from a retail business that the defendant possessed within two years prior to the offense date, if the defendant also intended to (sell[,]/[ or]exchange[,]/[ or] return) that property for value.]",
+    "[In deciding whether the combined value of the property is more than $950, you may [also] include the value of property possessed by another person if that person acted with the defendant to (sell[,]/[ or] exchange[,]/[ or] return) that property for value and that property was also obtained through [an] act[s] of (shoplifting[,]/[ or] theft[,]/[ or] burglary) from a retail business.]",
+    "[The prosecution is not required to prove the (identity/identities) of the person[s] who committed the act[s] of (shoplifting[,]/[ or] theft[,]/[ or] burglary) from a retail business.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the related shoplifting, theft, or burglary instruction applicable to the facts of the case."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 375, *Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc.*"
+      },
+      {
+        "text": "CALCRIM No. 376, *Possession of Recently Stolen Property as Evidence of a Crime.*"
+      },
+      {
+        "text": "CALCRIM No. 1700, *Burglary*."
+      },
+      {
+        "text": "CALCRIM No. 1703, *Shoplifting.*"
+      },
+      {
+        "text": "CALCRIM No. 1800, *Theft by Larceny*."
+      },
+      {
+        "text": "CALCRIM No. 3218, *Value of Property Sold, Exchanged, or Returned.*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 496.6(a)."
+      },
+      {
+        "text": "• “Theft” Defined. Pen. Code, §§ 484, 490a."
+      },
+      {
+        "text": "• “Shoplifting” Defined. Pen. Code, § 459.5."
+      },
+      {
+        "text": "• “Burglary” Defined. Pen. Code, § 459."
+      },
+      {
+        "text": "• Possession and Control. *People v. Land* (1994) 30 Cal.App.4th 220, 223–224 [35 Cal.Rptr.2d 544]; *People v. Zyduck* (1969) 270 Cal.App.2d 334, 336 [75 Cal.Rptr. 616]; see *People v. Gatlin* (1989) 209 Cal.App.3d 31, 44–45 [257 Cal.Rptr. 171] [constructive possession means knowingly having the right of control over the property directly or through another]; *People v. Scott* (1951) 108 Cal.App.2d 231, 234 [238 P.2d 659] [two or more persons may jointly possess property]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Enacted by Assembly Bill No. 2943 (Stats. 2024, ch. 168), Penal Code section 496.6 prohibits unlawful possession of property that had been stolen from a retail business when the possessor intends to sell, exchange, or return the property for value, or intends to act in concert with another to sell, exchange, or return the property for value, and the value of the possessed property exceeds $950. In determining the meaning of unlawful possession in the context of this statute, the committee concluded that the statute requires that the possessor knew that the property had been stolen. (See *People v. Hall* (2017) 2 Cal.5th 494, 501 [213 Cal.Rptr.3d 561, 388 P.3d 794] [“More commonly, though, courts construe criminal statutes against the backdrop of the common law presumption that scienter is required and imply the requisite mental state, even where the statute is silent.”]; *In re Jorge M.* (2000) 23 Cal.4th 866, 872 [98 Cal.Rptr.2d 466, 4 P.3d 297] [“the requirement that, for a criminal conviction, the prosecution prove some form of guilty intent, knowledge, or criminal negligence is of such long standing and so fundamental to our criminal law that penal statutes will often be construed to contain such an element despite their failure expressly to state it.”].)"
+      },
+      {
+        "text": "1762–1799. Reserved for Future Use"
+      },
+      {
+        "text": "THEFT AND EXTORTION"
+      },
+      {
+        "text": "A. THEFT"
+      },
+      {
+        "text": "1800. Theft by Larceny (Pen. Code, § 484)"
+      },
+      {
+        "text": "1801. Grand and Petty Theft (Pen. Code, §§ 486, 487–488, 490.2, 490.3, 491)"
+      },
+      {
+        "text": "1802. Theft: As Part of Overall Plan"
+      },
+      {
+        "text": "1803. Theft: By Employee or Agent (Pen. Code, § 487(b)(3))"
+      },
+      {
+        "text": "1804. Theft by False Pretense (Pen. Code, § 484)"
+      },
+      {
+        "text": "1805. Theft by Trick (Pen. Code, § 484)"
+      },
+      {
+        "text": "1806. Theft by Embezzlement (Pen. Code, §§ 484, 503)"
+      },
+      {
+        "text": "1807. Theft From Elder or Dependent Adult (Pen. Code, § 368(d), (e))"
+      },
+      {
+        "text": "1808. Organized Retail Theft (Pen. Code, § 490.4)"
+      },
+      {
+        "text": "1809. Reserved for Future Use"
+      },
+      {
+        "text": "1810. Diversion of Construction Funds (Pen. Code, § 484b)"
+      },
+      {
+        "text": "1811–1819. Reserved for Future Use"
+      },
+      {
+        "text": "B. TAKING OR TAMPERING WITH VEHICLE"
+      },
+      {
+        "text": "1820. Felony Unlawful Taking or Driving of Vehicle (Veh. Code, § 10851(a), (b))"
+      },
+      {
+        "text": "1821. Tampering With a Vehicle (Veh. Code, § 10852)"
+      },
+      {
+        "text": "1822. Unlawful Taking of Bicycle or Vessel (Pen. Code, § 499b)"
+      },
+      {
+        "text": "1823–1829. Reserved for Future Use"
+      },
+      {
+        "text": "C. EXTORTION"
+      },
+      {
+        "text": "1830. Extortion by Threat or Force (Pen. Code, §§ 518, 519)"
+      },
+      {
+        "text": "1831. Extortion by Threatening Letter (Pen. Code, § 523)"
+      },
+      {
+        "text": "1832. Extortion of Signature (Pen. Code, § 522)"
+      },
+      {
+        "text": "1833–1849. Reserved for Future Use"
+      },
+      {
+        "text": "D. PETTY THEFT WITH A PRIOR"
+      },
+      {
+        "text": "1850. Petty Theft With Prior Conviction (Pen. Code, § 666)"
+      },
+      {
+        "text": "1851. Petty Theft or Shoplifting With Two or More Prior Convictions (Pen. Code, § 666.1)"
+      },
+      {
+        "text": "1852–1859. Reserved for Future Use"
+      },
+      {
+        "text": "E. THEFT RELATED INSTRUCTIONS"
+      },
+      {
+        "text": "1860. Owner’s Opinion of Value"
+      },
+      {
+        "text": "1861. Jury Does Not Need to Agree on Form of Theft"
+      },
+      {
+        "text": "1862. Return of Property Not a Defense to Theft (Pen. Code, §§ 512, 513)"
+      },
+      {
+        "text": "1863. Defense to Theft or Robbery: Claim of Right (Pen. Code, § 511)"
+      },
+      {
+        "text": "1864–1899. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

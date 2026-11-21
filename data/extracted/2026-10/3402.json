@@ -1,0 +1,114 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3402",
+  "title": "Duress or Threats",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2347,
+      2349
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2008",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of ______ <insert crime[s]> if (he/she) acted under duress. The defendant acted under duress if, because of threat or menace, (he/she) believed that (his/her/[or] someone else’s) life would be in immediate danger if (he/she) refused a demand or request to commit the crime[s]. The demand or request may have been express or implied.",
+    "The defendant’s belief that (his/her/[or] someone else’s) life was in immediate danger must have been reasonable. When deciding whether the defendant’s belief was reasonable, consider all the circumstances as they were known to and appeared to the defendant and consider what a reasonable person in the same position as the defendant would have believed.",
+    "A threat of future harm is not sufficient; the danger to life must have been immediate.",
+    "[The People must prove beyond a reasonable doubt that the defendant did not act under duress. If the People have not met this burden, you must find the defendant not guilty of ______ <insert crime[s]>.]",
+    "[This defense does not apply to the crime of ______ <insert charge[s] of murder; see Bench Notes>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must instruct on a defense when the defendant requests it and there is substantial evidence supporting the defense. The court has a sua sponte duty to instruct on a defense if there is substantial evidence supporting it and either the defendant is relying on it or it is not inconsistent with the defendant’s theory of the case."
+      },
+      {
+        "text": "When the court concludes that the defense is supported by substantial evidence and is inconsistent with the defendant’s theory of the case, however, it should ascertain whether defendant wishes instruction on this alternate theory. (*People v. Gonzales* (1999) 74 Cal.App.4th 382, 389–390 [88 Cal.Rptr.2d 111]; *People v. Breverman* (1998) 19 Cal.4th 142, 157 [77 Cal.Rptr.2d 870, 960 P.2d 1094].)"
+      },
+      {
+        "text": "Substantial evidence means evidence of a defense, which, if believed, would be sufficient for a reasonable jury to find a reasonable doubt as to the defendant’s guilt. (*People v. Salas* (2006) 37 Cal.4th 967, 982–983 [38 Cal.Rptr.3d 624, 127 P.3d 40].)"
+      },
+      {
+        "text": "Fear of great bodily harm can also raise the defense of duress. (See *People v. Otis* (1959) 174 Cal.App.2d 119, 124 [344 P.2d 342]; *United States v. Bailey* (1980) 444 U.S. 394, 409 [100 S.Ct. 624, 62 L.Ed.2d 575; cf. *People v. Subielski* (1985) 169 Cal.App.3d 563, 566–567 [211 Cal.Rptr. 579] [duress cannot be based on fear of some unspecified injury].)"
+      },
+      {
+        "text": "As provided by statute, duress is not a defense to crimes punishable by death. (Pen. Code, § 26(6); *People v. Anderson* (2002) 28 Cal.4th 767, 780 [122 Cal.Rptr.2d 587, 50 P.3d 368] [duress is not a defense to any form of murder].) If such a crime is charged, the court should instruct, using the last bracketed paragraph, that the defense is not applicable to that count. However, “duress can, in effect, provide a defense to murder on a felony-murder theory by negating the underlying felony.” (*Id.* at p. 784.) If the defendant is charged with felony-murder, the court should instruct that the defense of duress does apply to the underlying felony."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "The defense of duress applies when the threat of danger is immediate and accompanied by a demand, either direct or implied, to commit the crime. (*People v. Heath* (1989) 207 Cal.App.3d 892, 899–901 [255 Cal.Rptr. 120]; *People v. Steele* (1988) 206 Cal.App.3d 703, 706 [253 Cal.Rptr. 773].) If the threat is of future harm or there is no implicit or explicit demand that the defendant commit the crime, the evidence may support instructing on the defense of necessity. (See CALCRIM No. 3403, *Necessity*.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 26(6)."
+      },
+      {
+        "text": "• Burden of Proof. *People v. Graham* (1976) 57 Cal.App.3d 238, 240 [129 Cal.Rptr. 31]."
+      },
+      {
+        "text": "• Difference Between Necessity and Duress. *People v. Heath* (1989) 207 Cal.App.3d 892, 897–902 [255 Cal.Rptr. 120]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Necessity Distinguished"
+      },
+      {
+        "text": "Although evidence may raise both necessity and duress defenses, there is an important distinction between the two concepts. With necessity, the threatened harm is in the immediate future, thereby permitting a defendant to balance alternative courses of conduct. (*People v. Condley* (1977) 69 Cal.App.3d 999, 1009–1013 [138 Cal.Rptr. 515].) Necessity does not negate any element of the crime, but rather represents a public policy decision not to punish a defendant despite proof of the crime. (*People v. Heath* (1989) 207 Cal.App.3d 892, 901 [255 Cal.Rptr. 120].) The duress defense, on the other hand, does negate an element of the crime. The defendant does not have the time to form the criminal intent because of the immediacy of the threatened harm. (*Ibid*.)"
+      },
+      {
+        "heading": true,
+        "text": "Duress Cannot Reduce Murder to Manslaughter"
+      },
+      {
+        "text": "Duress cannot reduce murder to manslaughter. (*People v. Anderson* (2002) 28 Cal.4th 767, 783–785 [122 Cal.Rptr.2d 587, 50 P.3d 368] [only the Legislature can recognize killing under duress as new form of manslaughter].)"
+      },
+      {
+        "heading": true,
+        "text": "Mental State or Intent"
+      },
+      {
+        "text": "Evidence of duress may be relevant to determining whether the defendant acted with the required mental state, even if insufficient to constitute a complete defense. (*People v. Coffman and Marlow* (2004) 34 Cal.4th 1, 99–100 [17 Cal.Rptr.3d 710, 96 P.3d 30] [noting that court properly instructed that duress may be considered on the question of whether the defendant acted with the proper mental state].)"
+      },
+      {
+        "heading": true,
+        "text": "Great Bodily Harm"
+      },
+      {
+        "text": "Penal Code section 26(6) discusses life-endangering threats and several older cases have outlined the defense of duress in the literal language of the statute. However, some cases have concluded that fear of great bodily harm is sufficient to raise this defense. (Compare *People v. Hart* (1950) 98 Cal.App.2d 514, 516 [220 P.2d 595] and *People v. Lindstrom* (1932) 128 Cal.App. 111, 116 [16 P.2d 1003] with *People v. Otis* (1959) 174 Cal.App.2d 119, 124 [344 P.2d 342]; see also 1 Witkin & Epstein, California Criminal Law (3d ed. 2000) Defenses, § 59 [discussing this split]; but see *People v. Subielski* (1985) 169 Cal.App.3d 563, 566–567 [211 Cal.Rptr. 579] [court rejects defense of duress because evidence showed defendant feared only a beating].) It is clear, however, that threats of great bodily harm are sufficient in the context of necessity. (*People v. Lovercamp* (1974) 43 Cal.App.3d 823, 831 [118 Cal.Rptr. 110]; *People v. Pena* (1983) 149 Cal.App.3d Supp. 14, 27 [197 Cal.Rptr. 264].)"
+      },
+      {
+        "heading": true,
+        "text": "Third Person Threatened"
+      },
+      {
+        "text": "In *People v. Pena* (1983) 149 Cal.App.3d Supp. 14, 21–25 [197 Cal.Rptr. 264], the court held that the defenses of necessity and duress may be based on threats of harm to a third party. Although *Pena* is regarded as a necessity case, its discussion of this point was based on out-of-state and secondary authority involving the defense of duress. (See *People v. Heath* (1989) 207 Cal.App.3d 892, 898 [255 Cal.Rptr. 120] [acknowledging that though *Pena* uses the terms necessity and duress interchangeably, it is really concerned with the defense of necessity].) No other California cases discuss threats made to a third party and duress. (See also 1 Witkin & Epstein, California Criminal Law (3d ed. 2000) Defenses, § 60 [discussing *Pena* on this point].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

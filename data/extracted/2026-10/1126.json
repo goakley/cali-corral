@@ -1,0 +1,95 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1126",
+  "title": "Going to Meeting With Minor for Lewd Purpose (Pen. Code, § 288.4(b))",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      58,
+      59
+    ]
+  },
+  "revision_line": "New August 2009; Revised April 2010, February 2013, August 2016, March 2017, October 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with going to a meeting with a minor for a lewd purpose [in violation of Penal Code section 288.4(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant arranged a meeting with (a minor/[or] a person (he/she) believed to be a minor);",
+    "2. When the defendant did so, (he/she) was motivated by an unnatural or abnormal sexual interest in children;",
+    "3. At that meeting, the defendant intended to (expose (his/her) genitals or pubic or rectal area/[or] have the minor expose (his/her) genitals or pubic or rectal area/[or] engage in lewd or lascivious behavior);",
+    "AND",
+    "4. The defendant went to the arranged meeting place at or about the arranged time.",
+    "<Give the bracketed language at the beginning of the following sentence if instructing on other offenses mentioning children for which the definition given here does not apply.>",
+    "[For the purposes of this instruction,] (A/a) *child* or *minor* is a person under the age of 18.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[*Lewd and lascivious behavior* includes any touching of a person with the intent to sexually arouse the perpetrator or the other person. *Lewd or lascivious behavior* includes touching any part of the person’s body, either on the bare skin or through the clothes the person is wearing. [A *lewd or lascivious act* includes causing someone to touch his or her own body or someone else’s body at the instigation of the perpetrator who has the required intent.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Do not give CALCRIM No. 370, *Motive*, with this instruction because motive is an element of the crime. (*People v. Valenti* (2016) 243 Cal. App. 4th 1140, 1165 [197 Cal. Rptr.3d 317]; *People v. Maurer* (1995) 32 Cal.App.4th 1121, 1126–1127 [38 Cal.Rptr.2d 335].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the good faith belief that the victim was not a minor as a defense for certain sex crimes with minors, including statutory rape, when that defense is supported by evidence. Until courts of review clarify whether this defense is available in prosecutions for violations of Pen. Code, § 288.4(b), the court will have to exercise its own discretion. Suitable language for such an instruction is found in CALCRIM No. 1070, *Unlawful Sexual Intercourse: Defendant 21 or Older.*"
+      },
+      {
+        "text": "There is no sua sponte duty to instruct that the “motivated by” element of the offense must have been a substantial factor in its commission. (*People v. Fromuth* (2016) 2 Cal.App.5th 91, 106–109 [206 Cal.Rptr.3d 83].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements and Enumerated Offenses. Pen. Code, § 288.4."
+      },
+      {
+        "text": "• “Lewd” Defined. See *In re Smith* (1972) 7 Cal.3d 362, 365 [102 Cal.Rptr. 335, 497 P.2d 807] [in context of indecent exposure]; see *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256–257, fn. 13 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      },
+      {
+        "text": "• Calculating Age. Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391]."
+      },
+      {
+        "text": "• Meaning of Child and Minor. *People v. Yuksel* (2012) 207 Cal.App.4th 850, 854–855 [143 Cal.Rptr.3d 823]."
+      },
+      {
+        "text": "• Specific Intent Required. *People v. Ismaiel* (2025) 116 Cal.App.5th 1221, 1231 [339 Cal.Rptr.3d 914]; *People v. Fromuth* (2016) 2 Cal.App.5th 91, 105–106 [206 Cal.Rptr.3d 83]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Arranging Meeting With Minor for Lewd Purpose. Pen. Code, § 288.4(a). (See *People v. Ramirez* (2019) 43 Cal.App.5th 538, 547 [256 Cal.Rptr.3d 733].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New August 2009; Revised April 2010, February 2013, August 2016, March 2017"
+  },
+  "supplement_status": "revised"
+}

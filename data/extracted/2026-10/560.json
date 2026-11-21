@@ -1,0 +1,181 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "560",
+  "title": "Homicide: Provocative Act by Defendant",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      377,
+      382
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2013",
+  "revision_legend": null,
+  "body": [
+    "[The defendant is charged [in Count ______] with ______ <insert underlying crime>.] The defendant is [also] charged [in Count ______] with murder. A person can be guilty of murder under the provocative act doctrine even if someone else did the actual killing.",
+    "To prove that the defendant is guilty of murder under the provocative act doctrine, the People must prove that:",
+    "1. In (committing/[or] attempting to commit) ______ <insert underlying crime>, the defendant intentionally did a provocative act;",
+    "2. The defendant knew that the natural and probable consequences of the provocative act were dangerous to human life and then acted with conscious disregard for life;",
+    "3. In response to the defendant’s provocative act, ______ <insert name or description of third party> killed ______ <insert name of decedent>;",
+    "AND",
+    "4. ______’s <insert name of decedent> death was the natural and probable consequence of the defendant’s provocative act.",
+    "A *provocative act* is an act:",
+    "1. [That goes beyond what is necessary to accomplish the ______ <insert underlying crime>;]",
+    "[AND",
+    "2.] Whose natural and probable consequences are dangerous to human life, because there is a high probability that the act will provoke a deadly response.",
+    "In order to prove that ______’s <insert name of decedent> death was the *natural and probable consequence* of the defendant’s provocative act, the People must prove that:",
+    "1. A reasonable person in the defendant’s position would have foreseen that there was a high probability that his or her act could begin a chain of events resulting in someone’s death;",
+    "2. The defendant’s act was a direct and substantial factor in causing ______’s <insert name of decedent> death;",
+    "AND",
+    "3. ______’s <insert name of decedent> death would not have happened if the defendant had not committed the provocative act.",
+    "A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that caused the death.",
+    "<Multiple Provocative Acts>",
+    "[The People alleged that the defendant committed the following provocative acts: ______ <insert acts alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant committed at least one of these acts. However, you do not all need to agree on which act.]",
+    "<Independent Criminal Act>",
+    "[A defendant is not guilty of murder if the killing of ______ <insert name of decedent> was caused solely by the independent criminal act of someone else. An *independent criminal act* is a free, deliberate, and informed criminal act by a person who is not acting with the defendant.]",
+    "<Degree of Murder>",
+    "[[If you decide that the defendant is guilty of murder, you must decide whether the murder is first or second degree.]",
+    "<Give if multiple theories alleged.>",
+    "[The defendant has been prosecuted for first degree murder under (two/______ <insert number>) theories: (1) ______ <insert first theory, e.g., “the provocative act was willful, deliberate, and premeditated (murder/attempted murder)”> [and] (2) ______ <insert second theory, e.g., “the provocative act was committed during the defendant’s perpetration of an enumerated felony> [______ <insert additional theories>”*].",
+    "Each theory of first degree murder has different requirements, and I will instruct you on (both/all ______ <insert number>.)",
+    "You may not find the defendant guilty of first degree murder unless all of you agree that the People have proved that the defendant committed murder. But all of you do not need to agree on the same theory.]",
+    "<A. Deliberation and Premeditation>",
+    "[The defendant is guilty of first degree murder if the People have proved that (his/her) provocative act was a (murder/attempted murder) committed willfully, deliberately, and with premeditation. The defendant acted *willfully* in committing this provocative act if (he/she) intended to kill. The defendant acted *deliberately* if (he/she) carefully weighed the considerations for and against (his/her) choice and, knowing the consequences, decided to kill. The defendant acted with *premeditation* if (he/she) decided to kill before committing the provocative act[s] that (caused/(was/were) intended to cause) death.",
+    "The length of time the person spends considering whether to kill does not alone determine whether the (killing/attempted killing) is deliberate and premeditated. The amount of time required for deliberation and premeditation may vary from person to person and according to the circumstances. A decision to kill made rashly, impulsively, or without careful consideration is not deliberate and premeditated. On the other hand, a cold, calculated decision to kill can be reached quickly. The test is the extent of the reflection, not the length of time.]",
+    "<Give the following paragraph if more than one defendant was involved in the provocative act>",
+    "For a defendant to be found guilty of first degree murder, (he/she) personally must have acted willfully, deliberately, and with premeditation when the (murder/attempted murder) was committed.",
+    "<B. Enumerated Felony>",
+    "[To prove that the defendant is guilty of first degree murder, the People must prove that:",
+    "1. As a result of the defendant’s provocative act, ______ <insert name of decedent> was killed during the commission of ______ <insert Pen. Code, § 189 felony>;",
+    "AND",
+    "2. Defendant intended to commit ______ <insert Pen. Code, § 189 felony> when (he/she) did the provocative act.",
+    "2. In deciding whether the defendant intended to commit ______ <insert Pen. Code, § 189 felony> and whether the death occurred during the commission of ______ <insert Pen. Code, § 189 felony>, you should refer to the instructions I have given you on ______ <insert Pen. Code, § 189 felony>.]",
+    "<C. If there is another theory, see Bench Note below and modify and use CALCRIM No. 521 in a manner consistent with the modifications in section A. Deliberation and Premeditation>",
+    "The People have the burden of proving beyond a reasonable doubt that the killing was first degree murder rather than a lesser crime. If the People have not met this burden, you must find the defendant not guilty of first degree murder.",
+    "Any murder that does not meet these requirements for first degree murder is second degree murder.",
+    "[If you decide that the defendant committed murder, that crime is murder in the second degree.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if the provocative act doctrine is one of the general principles of law relevant to the issues raised by the evidence. (*People v. Hood* (1969) 1 Cal.3d 444, 449 [82 Cal.Rptr. 618, 462 P.2d 370].) If the prosecution relies on a first degree murder theory based on a Penal Code section 189 felony, the court has a sua sponte duty to give instructions relating to the underlying felony, whether or not it is separately charged."
+      },
+      {
+        "text": "If the defendant is an accomplice, aider and abettor, or coconspirator of the person who did the provocative act, give CALCRIM No. 561, *Homicide: Provocative Act by Accomplice*, instead of this instruction."
+      },
+      {
+        "text": "The first bracketed sentence of this instruction should only be given if the underlying felony is separately charged."
+      },
+      {
+        "text": "In the definition of “provocative act,” the court should always give the bracketed phrase that begins, “that goes beyond what is necessary,” unless the court determines that this element is not required because the underlying felony includes malice as an element. (*In re Aurelio R.* (1985) 167 Cal.App.3d 52, 59–60 [212 Cal.Rptr. 868]; see also *People v. Briscoe* (2001) 92 Cal.App.4th 568, 582 [112 Cal.Rptr.2d 401]; *People v. Gonzalez* (2010) 190 Cal.App.4th 968 [118 Cal.Rptr.3d 637].) See discussion in the Related Issues section below."
+      },
+      {
+        "text": "If the evidence suggests that there is more than one provocative act, give the bracketed paragraph on “multiple provocative acts,” which instructs the jury that they need not unanimously agree about which provocative act caused the killing. (*People v. Briscoe* (2001) 92 Cal.App.4th 568, 591 [112 Cal.Rptr.2d 401].)"
+      },
+      {
+        "text": "If there is evidence that the actual perpetrator may have committed an *independent criminal act*, give on request the bracketed paragraph that begins with “A defendant is not guilty of murder if . . . .” (See *People v. Cervantes* (2001) 26 Cal.4th 860, 874 [111 Cal.Rptr.2d 148, 29 P.3d 225].)"
+      },
+      {
+        "text": "If the prosecution is not seeking a first degree murder conviction, omit those bracketed paragraphs relating to first degree murder and simply give the last bracketed sentence of the instruction. As an alternative, the court may omit all instructions relating to the degree and secure a stipulation that if a guilty verdict is returned, the degree of murder is set at second degree. If the prosecution is seeking a first degree murder conviction, give the bracketed section on “degree of murder.”"
+      },
+      {
+        "text": "If there is a theory of first degree murder other than *A. Deliberation and Premeditation*, or *B. Enumerated Felony*, e.g., torture, insert relevant portions of CALCRIM No. 521. That instruction must be modified to reflect the circumstances of the case. For example, if the defendant’s provocative act is the torture of A, which causes B to shoot and kill C, the defendant will not have inflicted the required pain on “the person killed,” C, but on “the person tortured,” *People v. Concha I* (2010) 47 Cal.4th 653, 666 [101 Cal.Rptr.3d 141, 218 P.3d 660]."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Provocative Act Doctrine. *People v. Gallegos* (1997) 54 Cal.App.4th 453, 461 [63 Cal.Rptr.2d 382]."
+      },
+      {
+        "text": "• Felony-Murder Rule Invoked to Determine Degree. *People v. Gilbert* (1965) 63 Cal.2d 690, 705 [47 Cal.Rptr. 909, 408 P.2d 365]; *Pizano v. Superior Court* (1978) 21 Cal.3d 128, 139, fn. 4 [145 Cal.Rptr. 524, 577 P.2d 659]; see *People v. Caldwell* (1984) 36 Cal.3d 210, 216–217, fn. 2 [203 Cal.Rptr. 433, 681 P.2d 274]."
+      },
+      {
+        "text": "• Independent Intervening Act by Third Person. *People v. Cervantes* (2001) 26 Cal.4th 860, 874 [111 Cal.Rptr.2d 148, 29 P.3d 225]."
+      },
+      {
+        "text": "• Natural and Probable Consequences Doctrine. *People v. Gardner* (1995) 37 Cal.App.4th 473, 479 [43 Cal.Rptr.2d 603]."
+      },
+      {
+        "text": "• Response of Third Party Need Not Be Reasonable. *People v. Gardner* (1995) 37 Cal.App.4th 473, 482 [43 Cal.Rptr.2d 603]."
+      },
+      {
+        "text": "• Unanimity on Which Act Constitutes Provocative Act is Not Required. *People v. Briscoe* (2001) 92 Cal.App.4th 568, 591 [112 Cal.Rptr.2d 401] [multiple provocative acts]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Baker-Riley* (2012) 207 Cal.App.4th 631, 635–636 [143 Cal.Rptr.3d 737]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Act “Beyond What is Necessary”"
+      },
+      {
+        "text": "The general rule that has arisen in the context of robbery cases is that the provocative act must be one that goes beyond what is necessary to accomplish the underlying felony. However, more recent cases make clear that this requirement is not universal. In attempted murder or assault with a deadly weapon cases, the crime itself may be a provocative act because it demonstrates either express or implied malice. (*In re Aurelio R.* (1985) 167 Cal.App.3d 52, 59–60 [212 Cal.Rptr. 868]; see *Pizano v. Superior Court* (1978) 21 Cal.3d 128, 134 [145 Cal.Rptr. 524, 577 P.2d 659].)"
+      },
+      {
+        "heading": true,
+        "text": "Death of a Fetus"
+      },
+      {
+        "text": "The California Supreme Court has declined to decide whether the felony-murder doctrine could constitutionally apply to the death of a fetus that did not result from a direct attack on the mother. (*People v. Davis* (1994) 7 Cal.4th 797, 810, fn. 2 [30 Cal.Rptr.2d 50, 872 P.2d 591].) That ambiguity could extend to the provocative act doctrine as well."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

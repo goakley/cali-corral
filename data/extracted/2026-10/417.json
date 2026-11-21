@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "417",
+  "title": "Liability for Coconspirators’ Acts",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      263,
+      265
+    ]
+  },
+  "revision_line": "New January 2006; Revised October 2021, September 2023, February 2026",
+  "revision_legend": null,
+  "body": [
+    "A member of a conspiracy is criminally responsible for the crimes that he or she conspires to commit, no matter which member of the conspiracy commits the crime.",
+    "A member of a conspiracy is also criminally responsible for any act of any member of the conspiracy if that act is done to further the conspiracy and that act is a natural and probable consequence of the common plan or design of the conspiracy. This rule applies even if the act was not intended as part of the original plan. [Under this rule, a defendant who is a member of the conspiracy does not need to be present at the time of the act.] [A member of a conspiracy cannot be held criminally responsible for (murder/[ or] attempted murder) solely because the (murder/[ or] attempted murder) was the natural and probable consequence of the conspiracy.]",
+    "A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.",
+    "A member of a conspiracy is not criminally responsible for the act of another member if that act does not further the common plan or is not a natural and probable consequence of the common plan.",
+    "To prove that the defendant is guilty of the crime[s] charged in Count[s] ______, the People must prove that:",
+    "1. The defendant conspired to commit one of the following crimes: ______ <insert target crime[s]>;",
+    "2. A member of the conspiracy committed ______ <insert nontarget offense[s]> to further the conspiracy;",
+    "AND",
+    "3. ______ <insert nontarget offense[s]> (was/were) [a] natural and probable consequence[s] of the common plan or design of the crime that the defendant conspired to commit.",
+    "[The defendant is not responsible for the acts of another person who was not a member of the conspiracy even if the acts of the other person helped accomplish the goal of the conspiracy.]",
+    "[A conspiracy member is not responsible for the acts of other conspiracy members that are done after the goal of the conspiracy had been accomplished.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Give this instruction when there is an issue whether the defendant is liable for the acts of coconspirators. (See *People v. Flores* (1992) 7 Cal.App.4th 1350, 1363 [9 Cal.Rptr.2d 754] [no sua sponte duty when no issue of independent criminal act by coconspirator].)"
+      },
+      {
+        "text": "The court must also give either CALCRIM No. 415, *Conspiracy*, or CALCRIM No. 416, *Evidence of Uncharged Conspiracy*, with this instruction. The court must also give all appropriate instructions on the offense or offenses alleged to be the target of the conspiracy. (*People v. Prettyman* (1996) 14 Cal.4th 248, 254 [58 Cal.Rptr.2d 827, 926 P.2d 1013].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins “A member of a conspiracy cannot be held criminally responsible” if murder or attempted murder is charged. (See *People v. Richee* (2025) 111 Cal.App.5th 281, 292–295 [332 Cal.Rptr.3d 722].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “Under this rule,” if there is evidence that the defendant was not present at the time of the act. (See *People v. Benenato* (1946) 77 Cal.App.2d 350, 356 [175 P.2d 296]; *People v. King* (1938) 30 Cal.App.2d 185, 203 [85 P.2d 928].)"
+      },
+      {
+        "text": "Although no published case to date gives a clear definition of the terms “natural” and “probable,” nor holds that there is a sua sponte duty to define them, a suggested definition is included. (See *People v. Prettyman, supra,* 14 Cal.4th at p. 291 (conc. & dis. opn. of Brown, J.).)"
+      },
+      {
+        "text": "Give either of the last two bracketed paragraphs on request, when supported by the evidence."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 418, *Coconspirator’s Statements*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Natural and Probable Consequences; Reasonable Person Standard. *People v. Superior Court (Shamis)* (1997) 58 Cal.App.4th 833, 842–843 [68 Cal.Rptr.2d 388]; see *People v. Nguyen* (1993) 21 Cal.App.4th 518, 531 [26 Cal.Rptr.2d 323] [in context of aiding and abetting]."
+      },
+      {
+        "text": "• Vicarious Liability of Conspirators. *People v. Hardy* (1992) 2 Cal.4th 86, 188 [5 Cal.Rptr.2d 796, 825 P.2d 781]."
+      },
+      {
+        "text": "• Must Identify and Describe Target Offense. *People v. Prettyman, supra,* 14 Cal.4th at p. 254."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Murder and Attempted Murder"
+      },
+      {
+        "text": "A verdict of murder or attempted murder may not be based on the natural and probable consequences doctrine. (Pen. Code, § 188(a)(3); *People v. Gentile* (2020) 10 Cal.5th 830, 849 [272 Cal.Rptr.3d 814, 477 P.3d 539] [murder]; *People v. Sanchez* (2022) 75 Cal.App.5th 191, 196 [290 Cal.Rptr.3d 390] [attempted murder].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

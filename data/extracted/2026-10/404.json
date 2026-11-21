@@ -1,0 +1,83 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "404",
+  "title": "Intoxication",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      251,
+      252
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that the defendant was intoxicated at the time of the alleged crime, you may consider this evidence in deciding whether the defendant:",
+    "A. Knew that ______ <insert name of perpetrator> intended to commit ______ <insert target offense>;",
+    "AND",
+    "B. Intended to aid and abet ______ <insert name of perpetrator> in committing ______ <insert target offense>.",
+    "Someone is *intoxicated* if he or she (took[,]/[or] used[,]/[or] was given) any drug, drink, or other substance that caused an intoxicating effect.",
+    "[Do not consider evidence of intoxication in deciding whether ______ <insert charged nontarget offense> is a natural and probable consequence of ______ <insert target offense>.]"
+  ],
+  "body_indents": [
+    0.0,
+    16.3,
+    16.0,
+    17.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has no sua sponte duty to instruct on voluntary intoxication; however, the trial court must give this instruction on request. (See *People v. Ricardi* (1992) 9 Cal.App.4th 1427, 1432 [12 Cal.Rptr.2d 364]; *People v. Castillo* (1997) 16 Cal.4th 1009, 1014 [68 Cal.Rptr.2d 648, 945 P.2d 1197]; *People v. Saille* (1991) 54 Cal.3d 1103, 1119 [2 Cal.Rptr.2d 364, 820 P.2d 588] [in context not involving aiding and abetting].) Although voluntary intoxication is not an affirmative defense to a crime, the jury may consider evidence of voluntary or involuntary intoxication and its effect on a defendant’s ability to form specific mental states. (Pen. Code, §§ 22, 26; *People v. Mendoza* (1998) 18 Cal.4th 1114, 1131–1134 [77 Cal.Rptr.2d 428, 959 P.2d 735]; *People v. Scott* (1983) 146 Cal.App.3d 823, 832 [194 Cal.Rptr. 633].)"
+      },
+      {
+        "text": "Give the last bracketed paragraph on request if the defendant was charged with both target and nontarget crimes. (*People v. Mendoza* (1998) 18 Cal.4th 1114, 1134 [77 Cal.Rptr.2d 428, 959 P.2d 735].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "See CALCRIM No. 3426, *Voluntary Intoxication*, and CALCRIM No. 3427, *Involuntary Intoxication*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 29.4; *People v. Mendoza* (1998) 18 Cal.4th 1114, 1131–1134 [77 Cal.Rptr.2d 428, 959 P.2d 735]; see *People v. Castillo* (1997) 16 Cal.4th 1009, 1014 [68 Cal.Rptr.2d 648, 945 P.2d 1197]; *People v. Saille* (1991) 54 Cal.3d 1103, 1119 [2 Cal.Rptr.2d 364, 820 P.2d 588] [in context other than aiding and abetting]."
+      },
+      {
+        "text": "• Burden of Proof. See *People v. Saille* (1991) 54 Cal.3d 1103, 1118–1119 [2 Cal.Rptr.2d 364, 820 P.2d 588] [in context other than aiding and abetting]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Intoxication Based on Mistake of Fact Is Involuntary"
+      },
+      {
+        "text": "Intoxication resulting from trickery is not “voluntary.” (*People v. Scott* (1983) 146 Cal.App.3d 823, 831–833 [194 Cal.Rptr. 633] [defendant drank punch not knowing it contained hallucinogens; court held his intoxication was result of trickery and mistake and involuntary].)"
+      },
+      {
+        "heading": true,
+        "text": "Unconsciousness Based on Voluntary Intoxication Is Not a Complete Defense"
+      },
+      {
+        "text": "Unconsciousness is typically a complete defense to a crime except when it is caused by voluntary intoxication. (*People v. Heffington* (1973) 32 Cal.App.3d 1, 8 [107 Cal.Rptr. 859].) Unconsciousness caused by voluntary intoxication is governed by former Penal Code section 22 [now Penal Code section 29.4], rather than by section 26, and is only a partial defense to a crime. (*People v. Walker* (1993) 14 Cal.App.4th 1615, 1621 [18 Cal.Rptr.2d 431] [no error in refusing to instruct on unconsciousness when defendant was voluntarily under the influence of drugs at the time of the crime].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

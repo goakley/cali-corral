@@ -1,0 +1,159 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1250",
+  "title": "Child Abduction: No Right to Custody (Pen. Code, §§ 277, 278)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1089,
+      1092
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with child abduction without a right of custody [in violation of Penal Code section 278].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant maliciously (took[,]/[or] enticed away[,]/[or] kept[,]/[or] withheld[,]/[or] concealed) a child from (his/her) lawful custodian;",
+    "2. The child was under the age of 18;",
+    "3. When the defendant acted, (he/she) did not have a right to custody of that child;",
+    "AND",
+    "4. When the defendant acted, (he/she) intended to detain or conceal the child from the child’s lawful custodian.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to disturb, defraud, annoy, or injure someone else.",
+    "A *lawful custodian* is a person, guardian, or public agency having a right to custody of the child. The *right to custody* means the right to physical care, custody, and control of the child according to the law or because of a court order. [A public agency has the right to custody if it has been given protective custody or jurisdiction of the care, custody, control, or conduct of the child by statute or court order.]",
+    "[*Intending to detain* includes delaying or hindering. A person can detain someone without using force.]",
+    "[To *entice away* means to lure away by creating hope or desire.]",
+    "[The defendant can be guilty of child abduction whether or not the child resisted or objected, and even if the child consented to go with the defendant.]",
+    "[A parent has no right to physical custody if his or her parental rights were terminated by court order.]",
+    "[A parent loses his or her right to custody if he or she (is unable to take custody of the child[,]/[or] refuses to take custody of the child[,]/[or] abandons his or her family).]",
+    "[A parent *abandons* a child by actually deserting the child with the intent to cut off the relationship with the child and end all parental obligations. Intent to abandon can be shown in many ways, including, but not limited to:",
+    "1. Leaving the child without providing a way for the child to be identified;",
+    "2. Leaving the child with the other parent for at least one year without communicating with or supporting the child;",
+    "OR",
+    "3. Leaving the child with someone other than a parent for at least six months without communicating with or supporting the child.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If requested, give the final bracketed sentence at the end of the paragraph defining “lawful custodian” if a public agency was the lawful custodian at the time of the alleged abduction. (See Pen. Code, § 277(e).)"
+      },
+      {
+        "text": "If requested, give the bracketed sentences defining “intending to detain” (see *People v. Moore* (1945) 67 Cal.App.2d 789, 791 [155 P.2d 403]) or “entice away” (see *People v. Torres* (1920) 48 Cal.App. 606, 609 [192 P. 175]) depending on the evidence in the case."
+      },
+      {
+        "text": "If requested, give the bracketed paragraph about the child’s consent or lack of resistance if there is evidence the child did not resist or consented to go with the defendant. (*People v. Moore, supra,* 67 Cal.App.2d at p. 792 [child’s consent irrelevant]; *People v. Grever* (1989) 211 Cal.App.3d Supp. 1, 7 [259 Cal.Rptr. 469].)"
+      },
+      {
+        "text": "Give on request the bracketed paragraph that begins with “A parent loses his or her right to custody . . .” if there is evidence the defendant lost his or her right to custody by being unable or refusing to take custody, or by abandoning his or her family. (See Pen. Code, § 277(f).)"
+      },
+      {
+        "text": "If there is evidence of abandonment, give the bracketed paragraphs defining when a parent “abandons” a child. The trial court must define abandonment sua sponte when it is closely connected to the evidence presented on the right to custody. (*People v. Ryan* (1999) 76 Cal.App.4th 1304, 1319 [76 Cal.Rptr.2d 160].) If an Indian parent is involved, see Fam. Code, § 7822(e)."
+      },
+      {
+        "text": "Give the final bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "A defendant may be prosecuted for both the crimes of child abduction and kidnapping. Child abduction or stealing is a crime against the parents, while kidnapping is a crime against the child. (*In re Michele D.* (2002) 29 Cal.4th 600, 614 [128 Cal.Rptr.2d 92, 59 P.3d 164]; *People v. Campos* (1982) 131 Cal.App.3d 894, 899 [182 Cal.Rptr. 698].) See CALCRIM No. 1215, *Kidnapping*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 277, 278."
+      },
+      {
+        "text": "• “Abandonment” Defined. Fam. Code, § 7822(a), (b); *People v. Ryan, supra,* 76 Cal.App.4th at pp. 1315–1316, 1320."
+      },
+      {
+        "text": "• “Court Order” or “Custody Order” Defined. Pen. Code, § 277(b)."
+      },
+      {
+        "text": "• “Custody Proceeding” Defined. Pen. Code, § 277(c)."
+      },
+      {
+        "text": "• “Maliciously” Defined. Pen. Code, § 7(4)."
+      },
+      {
+        "text": "• “Person” Defined. Pen. Code, § 277(i) [includes parent or parent’s agent]."
+      },
+      {
+        "text": "• Child’s Consent Irrelevant. *People v. Moore, supra,* 67 Cal.App.2d at pp. 791–792 [crime against parent]; *People v. Grever, supra,* 211 Cal.App.3d Supp. at p. 7."
+      },
+      {
+        "text": "• “Detain” Defined. *People v. Moore, supra,* 67 Cal.App.2d at p. 791 [includes delaying, hindering, or retarding but not necessarily the use of force]."
+      },
+      {
+        "text": "• “Entice” Defined. *People v. Torres* (1920) 48 Cal.App. 606, 609 [192 P. 175]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Child Abduction. Pen. Code, §§ 664, 278."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Custody Placed With Other Parent"
+      },
+      {
+        "text": "Penal Code section 278 applies to a parent of a minor child whose custody has been placed with the other parent by court order. (*People v. Hyatt* (1971) 18 Cal.App.3d 618, 622 [96 Cal.Rptr. 156].) A parent with bare legal custody does not have a “right of custody” under the statute. (*People v. Irwin* (1984) 155 Cal.App.3d 891, 897 [202 Cal.Rptr. 475] [father only had joint legal custody; physical custody was awarded to the mother].)"
+      },
+      {
+        "heading": true,
+        "text": "Intent to Detain or Conceal Not Required"
+      },
+      {
+        "text": "Proof of violation of section 278 does not require the intent to detain or conceal the child in California. Proof of detention or concealment, however, supports an inference of an intention to detain or conceal. (*People v. Hyatt, supra,* 18 Cal.App.3d at p. 623 [construing former section 278 that required intent to detain “and” conceal].)"
+      },
+      {
+        "heading": true,
+        "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA)"
+      },
+      {
+        "text": "Penal Code section 278 does not require the prosecution to prove that a foreign court order or custody order had previously been registered in California pursuant to the UCCJEA. (*People v. Coulthard* (2023) 90 Cal.App.5th 743, 758 [307 Cal.Rptr.3d 383].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

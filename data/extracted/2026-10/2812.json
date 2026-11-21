@@ -1,0 +1,107 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2812",
+  "title": "Willfully Filing False Tax Return: Intent to Evade Tax (Rev. & Tax. Code, § 19706)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2045,
+      2047
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (supplying (false/[or] fraudulent) information/[or] (making[,]/[or] verifying [,]/[or] signing[,]/[or] rendering) [a] (false/[or] fraudulent) (tax return[s]/[or] statement[s])) to the Franchise Tax Board with intent to evade a tax [in violation of Revenue and Taxation Code section 19706].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (supplied information/[or] (made[,]/[or] verified[,]/[or] signed[,]/[or] rendered)) [a] (tax return[s]/[or] statement[s] provided) to the Franchise Tax Board;",
+    "2. The (information[,]/[or] tax return[,]/[or] statement) was (false/[or] fraudulent);",
+    "<Alternative 3A—information>",
+    "[3. When the defendant supplied the information, (he/she) knew that it was (false/[or] fraudulent);]",
+    "<Alternative 3B—tax return or statement>",
+    "[3. When the defendant (made[,]/[or] verified[,]/[or] signed[,]/[or] rendered) the (tax return/[or] statement), (he/she) knew that it contained (false/[or] fraudulent) information;]",
+    "4. When the defendant acted, (he/she) did so voluntarily, with intent to violate a legal duty known to (him/her);",
+    "AND",
+    "5. When the defendant acted, (he/she) intended to unlawfully evade paying a tax.",
+    "[The People do not have to prove the exact amount of (unreported income/[or] [additional] tax owed). The People must prove beyond a reasonable doubt that the defendant (failed to report income/[or] owed [additional] taxes).]",
+    "[The People do not have to prove that the (unreported/[or] underreported) income came from illegal activity.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Two statutes prohibit willfully making a false return. (Rev. & Tax. Code, §§ 19705(a)(1), 19706.) Section 19705(a)(1) requires verification under penalty of perjury whereas section 19706 requires an intent to evade. (*People v. Hagen* (1998) 19 Cal.4th 652, 659 [80 Cal.Rptr.2d 24, 967 P.2d 563].) Give this instruction if the defendant is charged with a violation of section 19706. If the defendant is charged with a violation of section 19705(a)(1), give CALCRIM No. 2811, *Willfully Filing False Tax Return: Statement Made Under Penalty of Perjury*."
+      },
+      {
+        "text": "The statute states that the defendant’s acts must be “willful.” (Rev. & Tax. Code, § 19706.) As used in the tax code, “willful” means that the defendant must act “in voluntary, intentional violation of a known legal duty.” (*People v. Hagen* (1998) 19 Cal.4th 652, 666 [80 Cal.Rptr.2d 24, 967 P.2d 563].) The committee has chosen to use this description of the meaning of the term in place of the word “willful” to avoid confusion with other instructions that provide a different definition of “willful.”"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “The People do not have to prove the exact amount” on request. (*United States v. Wilson* (3d Cir. 1979) 601 F.2d 95, 99; Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.08.)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant had a good faith belief that his or her conduct was legal, the court has a sua sponte duty to give the instruction on this defense. (*People v. Hagen* (1998) 19 Cal.4th 652, 660 [80 Cal.Rptr.2d 24, 967 P.2d 563].) Give CALCRIM No. 2860, *Defense: Good Faith Belief Conduct Legal*."
+      },
+      {
+        "text": "If there is sufficient evidence to raise a reasonable doubt that the defendant relied on the advice of a professional, the court has a sua sponte duty to give the instruction on this defense. (*United States v. Mitchell* (4th Cir. 1974) 495 F.2d 285, 287–288; see Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.25.) Give CALCRIM No. 2861, *Defense: Reliance on Professional Advice*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Rev. & Tax. Code, § 19706."
+      },
+      {
+        "text": "• Evade a Tax Defined. See *United States v. Bishop* (1973) 412 U.S. 346, 360, fn. 8 [93 S.Ct. 2008, 36 L.Ed.2d 941]; *Distinctive Theatres of Columbus v. Looker* (S.D.Ohio 1958) 165 F.Supp. 410, 411."
+      },
+      {
+        "text": "• Willful Requires Volitional Violation of Known Legal Duty. *People v. Hagen* (1998) 19 Cal.4th 652, 666 [80 Cal.Rptr.2d 24, 967 P.2d 563]; see also Federal Jury Practice and Instructions, Criminal (5th ed.) § 67.20."
+      },
+      {
+        "text": "• Need Not Prove Exact Amount. *United States v. Wilson* (3d Cir. 1979) 601 F.2d 95, 99; *United States v. Johnson* (1943) 319 U.S. 503, 517–518 [63 S.Ct. 1233, 87 L.Ed. 1546]."
+      },
+      {
+        "text": "• Need Not Prove From Illegal Activity. *People v. Smith* (1984) 155 Cal.App.3d 1103, 1158 [203 Cal.Rptr. 196]."
+      },
+      {
+        "text": "• Amount of Unpaid Taxes Need Not Be Substantial. *People v. Mojica* (2006) 139 Cal.App.4th 1197, 1204 [43 Cal.Rptr.3d 634]; *United States v. Holland* (1989) 880 F.2d 1091, 1095–1096."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Filing False Tax Return. Rev. & Tax. Code, § 19701; *People v. Hagen* (1998) 19 Cal.4th 652, 670 [80 Cal.Rptr.2d 24, 967 P.2d 563]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

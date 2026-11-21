@@ -1,0 +1,118 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "766",
+  "title": "Death Penalty: Weighing Process",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      589,
+      591
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, September 2020",
+  "revision_legend": null,
+  "body": [
+    "You have sole responsibility to decide which penalty (the/each) defendant will receive.",
+    "You must consider the arguments of counsel and all the evidence presented [during (both/all) phases of the trial] [except for the items of evidence I specifically instructed you not to consider].",
+    "In reaching your decision, you must consider, take into account, and be guided by the aggravating and mitigating circumstances. Each of you is free to assign whatever moral or sympathetic value you find appropriate to each individual factor and to all of them together. Do not simply count the number of aggravating and mitigating factors and decide based on the higher number alone. Consider the relative or combined weight of the factors and evaluate them in terms of their relative convincing force on the question of punishment.",
+    "Each of you must decide for yourself whether aggravating or mitigating factors exist. You do not all need to agree whether such factors exist. If any juror individually concludes that a factor exists, that juror may give the factor whatever weight he or she believes is appropriate.",
+    "Determine which penalty is appropriate and justified by considering all the evidence and the totality of any aggravating and mitigating circumstances. Even without mitigating circumstances, you may decide that the aggravating circumstances are not substantial enough to warrant death. To return a judgment of death, each of you must be persuaded that the aggravating circumstances both outweigh the mitigating circumstances and are also so substantial in comparison to the mitigating circumstances that a sentence of death is appropriate and justified.",
+    "To return a verdict of either death or life without the possibility of parole, all 12 of you must agree on that verdict.",
+    "[You must separately consider which sentence to impose on each defendant. If you cannot agree on the sentence[s] for one [or more] defendant[s] but you do agree on the sentence[s] for the other defendant[s], then you must return a verdict for (the/each) defendant on whose sentence you do agree.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury on the weighing process in a capital case. (*People v. Brown* (1985) 40 Cal.3d 512, 544 [230 Cal.Rptr. 834, 726 P.2d 516]; *People v. Benson* (1990) 52 Cal.3d 754, 799 [276 Cal.Rptr. 827, 802 P.2d 330].)"
+      },
+      {
+        "text": "Following this instruction, the court must give CALCRIM No. 3550, *Pre-Deliberation Instructions*, explaining how to proceed in deliberations."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Death Penalty Statute. Pen. Code, § 190.3."
+      },
+      {
+        "text": "• Error to Instruct “Shall Impose Death.” *People v. Brown* (1985) 40 Cal.3d 512, 544 [230 Cal.Rptr. 834, 726 P.2d 516]."
+      },
+      {
+        "text": "• Must Instruct on Weighing Process. *People v. Brown* (1985) 40 Cal.3d 512, 544 [230 Cal.Rptr. 834, 726 P.2d 516]; *People v. Benson* (1990) 52 Cal.3d 754, 799 [276 Cal.Rptr. 827, 802 P.2d 330]; *People v. Duncan* (1991) 53 Cal.3d 955, 977–979 [281 Cal.Rptr. 273, 810 P.2d 131]."
+      },
+      {
+        "text": "• Aggravating Factors “So Substantial in Comparison to” Mitigating. *People v. Duncan* (1991) 53 Cal.3d 955, 977–979 [281 Cal.Rptr. 273, 810 P.2d 131]."
+      },
+      {
+        "text": "• This Instruction Approved in Dicta. *People v. Murtishaw* (2011) 51 Cal.4th 574, 588–589 [121 Cal.Rptr.3d 586, 247 P.3d 941]."
+      },
+      {
+        "text": "• Responding to Juror Inquiry re Commutation of Sentence. *People v. Letner and Tobin* (2010) 50 Cal.4th 99, 204–207 [112 Cal.Rptr.3d 746, 235 P.3d 62]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "No Presumption of Life and No Reasonable Doubt Standard"
+      },
+      {
+        "text": "The court is not required to instruct the jury that there is a presumption in favor of a life sentence; that the aggravating factors (other than prior crimes) must be found beyond a reasonable doubt; or that the jury must find beyond a reasonable doubt that the aggravating factors substantially outweigh the mitigating factors. (*People v. Benson* (1990) 52 Cal.3d 754, 800 [276 Cal.Rptr. 827, 802 P.2d 330]; *People v. Miranda* (1987) 44 Cal.3d 57, 107 [241 Cal.Rptr. 594, 744 P.2d 1127]; *People v. Rodriguez* (1986) 42 Cal.3d 730, 777–779 [230 Cal.Rptr. 667, 726 P.2d 113].)"
+      },
+      {
+        "heading": true,
+        "text": "Unanimity on Factors Not Required"
+      },
+      {
+        "text": "The court is not required to instruct the jury that they must unanimously agree on any aggravating circumstance. (*People v. Rodriguez* (1986) 42 Cal.3d 730, 777–779 [230 Cal.Rtpr. 667, 726 P.2d 113].)"
+      },
+      {
+        "heading": true,
+        "text": "Commutation Power"
+      },
+      {
+        "text": "The court must not state or imply to the jury that the ultimate authority for selecting the sentence to be imposed lies elsewhere. (*Caldwell v. Mississippi* (1985) 472 U.S. 320, 328–329 [105 S.Ct. 2633, 86 L.Ed.2d 231].)"
+      },
+      {
+        "heading": true,
+        "text": "Deadlock—No Duty to Inform Jury Not Required to Return Verdict"
+      },
+      {
+        "text": "“[W]here, as here, there is no jury deadlock, a court is not required to instruct the jury that it has the choice not to deliver any verdict.” (*People v. Miranda* (1987) 44 Cal.3d 57, 105 [241 Cal.Rptr. 594, 744 P.2d 1127].)"
+      },
+      {
+        "heading": true,
+        "text": "Deadlock—Questions From the Jury About What Will Happen"
+      },
+      {
+        "text": "If the jury inquires about what will happen in the event of a deadlock, the court should instruct jurors: “[T]hat subject is not for the jury to consider or to concern itself with. You must make every effort to reach [a] unanimous decision if at all possible.” (*People v. Virgil* (2011) 51 Cal.4th 1210, 1281, [126 Cal.Rptr.3d 465, 253 P.3d 553], citing *People v. Thomas* (1992) 2 Cal.4th 489 [7 Cal.Rptr.2d 199, 828 P.2d 101].)"
+      },
+      {
+        "heading": true,
+        "text": "No Duty to Instruct Not to Consider Deterrence or Costs"
+      },
+      {
+        "text": "“Questions of deterrence or cost in carrying out a capital sentence are for the Legislature, not for the jury considering a particular case.” (*People v. Benson* (1990) 52 Cal.3d 754, 807 [276 Cal.Rptr. 827, 802 P.2d 330] [citation and internal quotation marks omitted].) Where “[t]he issue of deterrence or cost [is] not raised at trial, either expressly or by implication,” the court need not instruct the jury to disregard these matters. *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

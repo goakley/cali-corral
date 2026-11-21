@@ -1,0 +1,73 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2930",
+  "title": "Trespass: To Interfere With Business (Pen. Code, § 602(k))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2098,
+      2099
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with trespassing [in violation of Penal Code section 602(k)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully entered (land/[or] a building) belonging to someone else;",
+    "2. When the defendant entered, (he/she) intended (to damage someone else’s property [or property right]/[or] to interfere with, obstruct, or damage a lawful business or occupation carried on by the (owner of the land[,]/[or] owner’s agent[,]/[or] person in lawful possession of the land));",
+    "AND",
+    "3. The defendant actually did (damage someone else’s property [or property right]/[or] interfere with, obstruct, or damage a lawful business or occupation carried on by the (owner of the land[,]/[or] owner’s agent[,]/[or] person in lawful possession of the land)).",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "[An *agent* is a person who is authorized to act for someone else in dealings with third parties.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The statute uses the term “injure.” (Pen. Code, § 602(k).) The committee has replaced the word “injure” with the word “damage” because the word “injure” generally refers to harm to a person rather than to property."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 602(k)."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Actual Damage Required. *In re Wallace* (1970) 3 Cal.3d 289, 295 [90 Cal.Rptr. 176, 475 P.2d 208]; *In re Ball* (1972) 23 Cal.App.3d 380, 386 [100 Cal.Rptr. 189]."
+      },
+      {
+        "text": "• “Land” Includes Building on the Land. *People v. Brown* (1965) 236 Cal.App.2d Supp. 915, 917–919 [47 Cal.Rptr. 662]."
+      },
+      {
+        "text": "• Agent Defined. Civ. Code, § 2295."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

@@ -1,0 +1,90 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1161",
+  "title": "Lewd Conduct in Public (Pen. Code, § 647(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1015,
+      1016
+    ]
+  },
+  "revision_line": "New January 2006; Revised September 2017, March 2019",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with engaging in lewd conduct in public [in violation of Penal Code section 647(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully engaged in the touching of ((his/her) own/[or] another person’s) (genitals[,]/[or] buttocks[,]/[or] female breast);",
+    "2. The defendant did so with the intent to sexually arouse or gratify (himself/herself) or another person, or to annoy or offend another person;",
+    "3. At the time the defendant engaged in the conduct, (he/she) was in (a public place/[or] a place open to the public [or to public view]);",
+    "4. At the time the defendant engaged in the conduct, someone else who might have been offended was present;",
+    "AND",
+    "5. The defendant knew or reasonably should have known that another person who might have been offended by (his/her) conduct was present.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "[As used here, a *public place* is a place that is open and accessible to anyone who wishes to go there.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 647(a); *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256–257 [158 Cal.Rptr. 330, 599 P.2d 636]; *People v. Rylaarsdam* (1982) 130 Cal.App.3d Supp. 1, 3–4 [181 Cal.Rptr. 723]."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7, subd. 1; *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• “Lewd” and “Dissolute” Synonymous. *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      },
+      {
+        "text": "• Lewd Conduct Defined. *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      },
+      {
+        "text": "• Public Place Defined. *In re Zorn* (1963) 59 Cal.2d 650, 652 [30 Cal.Rptr. 811, 381 P.2d 635]; *People v. Strider* (2009) 177 Cal.App.4th 1393, 1401 [100 Cal.Rptr. 3d 66]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Need Not Prove Someone Was Offended"
+      },
+      {
+        "text": "“It is not the burden of the prosecution to prove that the observer was in fact offended by the conduct but only that the conduct was such that defendant should know that the observer ‘may be offended.’ ” (*People v. Rylaarsdam* (1982) 130 Cal.App.3d Supp. 1, 11 [181 Cal.Rptr. 723].)"
+      },
+      {
+        "heading": true,
+        "text": "Does Not Apply to Live Theater Performance"
+      },
+      {
+        "text": "“It seems evident from the foregoing that the vagrancy law, [Penal Code] section 647, subdivision (a), was not intended to apply to live performances in a theater before an audience.” (*Barrows v. Municipal Court* (1970) 1 Cal.3d 821, 827–828 [83 Cal.Rptr. 819, 464 P.2d 483].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

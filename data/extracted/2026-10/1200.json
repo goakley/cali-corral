@@ -1,0 +1,99 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1200",
+  "title": "Kidnapping: For Child Molestation (Pen. Code, §§ 207(b), 288(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1045,
+      1047
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, February 2013, August 2013, April 2020, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with kidnapping for the purpose of child molestation [in violation of Penal Code section 207(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (persuaded/hired/enticed/decoyed/[or] seduced by false promises or misrepresentations) a child younger than 14 years old to go somewhere;",
+    "2. When the defendant did so, (he/she) intended to commit a lewd or lascivious act on the child;",
+    "AND",
+    "3. As a result of the defendant’s conduct, the child then moved or was moved a substantial distance.",
+    "As used here, *substantial distance* means more than a slight or trivial distance. The movement must have increased the risk of [physical or psychological] harm to the person beyond that necessarily present in the molestation. In deciding whether the movement was sufficient, consider all the circumstances relating to the movement.",
+    "As used here, a *lewd or lascivious act* is any touching of a child with the intent of arousing, appealing to, or gratifying the lust, passions, or sexual desires of either the perpetrator or the child. Contact with the child’s bare skin or private parts is not required. Any part of the child’s body or the clothes the child is wearing may be touched. [A *lewd or lascivious act* includes causing a child to touch his or her own body, the perpetrator’s body, or someone else’s body at the instigation of a perpetrator who has the required intent.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give this instruction when the defendant is charged under Penal Code section 207(b) with kidnapping a child without the use of force for the purpose of committing a lewd or lascivious act. Give CALCRIM No. 1201, *Kidnapping: Child or Person Incapable of Consent,* when the defendant is charged under Penal Code section 207(a) with using force to kidnap an unresisting infant or child, or person with a mental impairment, who was incapable of consenting to the movement."
+      },
+      {
+        "text": "Give the final bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "Kidnapping with intent to commit a rape or other specified sex crimes is a separate offense under Penal Code section 209(b). (*People v. Rayford* (1994) 9 Cal.4th 1, 8–11 [36 Cal.Rptr.2d 317, 884 P.2d 1369].) See CALCRIM No. 1203, *Kidnapping: For Robbery, Rape, or Other Sex Offenses*."
+      },
+      {
+        "text": "A defendant may be prosecuted for both the crimes of child abduction and kidnapping. Child abduction or stealing is a crime against the parents, while kidnapping is a crime against the child. (*People v. Campos* (1982) 131 Cal.App.3d 894, 899 [182 Cal.Rptr. 698].) See CALCRIM No. 1250, *Child Abduction: No Right to Custody*."
+      },
+      {
+        "text": "For instructions based on violations of Penal Code section 288, see CALCRIM No. 1110, *Lewd or Lascivious Acts: Child Under 14*, and the following instructions in that series."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 207(b), 288(a)."
+      },
+      {
+        "text": "• Increased Prison Term If Victim Under 14 Years of Age. Pen. Code, § 208(b)."
+      },
+      {
+        "text": "• Asportation Requirement. See *People v. Robertson* (2012) 208 Cal. App. 4th 965, 982 [146 Cal.Rptr.3d 66]; *People v. Vines* (2011) 51 Cal.4th 830, 870 & fn. 20 [124 Cal.Rptr.3d 830, 251 P.3d 943]; *People v. Martinez* (1999) 20 Cal.4th 225, 232 & fn. 4 [83 Cal.Rptr.2d 533, 973 P.2d 512]; *People v. Rayford* (1994) 9 Cal.4th 1, 11–14, 20 [36 Cal.Rptr.2d 317, 884 P.2d 1369]; *People v. Daniels* (1969) 71 Cal.2d 1119, 1139 [80 Cal.Rptr. 897, 459 P.2d 225]."
+      },
+      {
+        "text": "• Lewd or Lascivious Acts Defined. *People v. Martinez* (1995) 11 Cal.4th 434, 452 [45 Cal.Rptr.2d 905, 903 P.2d 1037] [disapproving *People v. Wallace* (1992) 11 Cal.App.4th 568, 574–580 [14 Cal.Rptr.2d 67] and its progeny]; *People v. Levesque* (1995) 35 Cal.App.4th 530, 538–542 [41 Cal.Rptr.2d 439]; *People v. Marquez* (1994) 28 Cal.App.4th 1315, 1321–1326 [33 Cal.Rptr.2d 821]."
+      },
+      {
+        "text": "• Movement of Victim Need Not Substantially Increase Risk of Harm to Victim. *People v. Robertson* (2012) 208 Cal.App.4th 965, 982 [146 Cal.Rptr.3d 66]; *People v. Vines* (2011) 51 Cal.4th 830, 870 & fn. 20 [124 Cal.Rptr.3d 830, 251 P.3d 943]; *People v. Martinez* (1999) 20 Cal.4th 225, 232 & fn. 4 [83 Cal.Rptr.2d 533, 973 P.2d 512]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Kidnapping. Pen. Code, § 207."
+      },
+      {
+        "text": "False imprisonment is a lesser included offense if there is an unlawful restraint of the child. (See Pen. Code, §§ 236, 237; *People v. Magana* (1991) 230 Cal.App.3d 1117, 1121 [281 Cal.Rptr. 338].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

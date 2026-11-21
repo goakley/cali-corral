@@ -1,0 +1,85 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1123",
+  "title": "Aggravated Sexual Assault of Child Under 14 Years (Pen. Code, § 269(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      949,
+      950
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with aggravated sexual assault of a child who was under the age of 14 years and at least seven years younger than the defendant [in violation of Penal Code section 269(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed ______ <insert sex offense specified in Pen. Code, § 269(a)(1)–(5)> on another person;",
+    "AND",
+    "2. When the defendant acted, the other person was under the age of 14 years and was at least seven years younger than the defendant.",
+    "To decide whether the defendant committed ______ <insert sex offense specified in Pen. Code, § 269(a)(1)–(5)>, please refer to the separate instructions that I (will give/have given) you on that crime.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 1 and in the sentence following element 2, insert the sex offense specified in Penal Code section 269(a)(1)–(5) that is charged. The sex offenses specified in section 269(a)(1)–(5) and their applicable instructions are:"
+      },
+      {
+        "text": "1. Rape (Pen. Code, § 261(a)(2); see CALCRIM No. 1000, *Rape by Force, Fear, or Threats*)."
+      },
+      {
+        "text": "2. Rape or sexual penetration in concert (Pen. Code, § 264.1; see CALCRIM No. 1001, *Rape in Concert*, and CALCRIM No. 1046, *Sexual Penetration in Concert*)."
+      },
+      {
+        "text": "3. Sodomy (Pen. Code, § 286(c)(2); see CALCRIM No. 1030, *Sodomy by Force, Fear, or Threats*)."
+      },
+      {
+        "text": "4. Oral copulation (Pen. Code, § 287(c)(2); see CALCRIM No. 1015, *Oral Copulation by Force, Fear, or Threats*)."
+      },
+      {
+        "text": "5. Sexual penetration (Pen. Code, § 289(a); see CALCRIM No. 1045, *Sexual Penetration by Force, Fear, or Threats*)."
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 269(a)."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Simple Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Underlying Sex Offense. Pen. Code, §§ 261(a)(2) [rape], 264.1 [rape or sexual penetration in concert], 286(c)(2) [sodomy], 287(c)(2) [oral copulation], 289(a) [sexual penetration]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

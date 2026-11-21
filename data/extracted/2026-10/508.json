@@ -1,0 +1,100 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "508",
+  "title": "Justifiable Homicide: Citizen Arrest (Non-Peace Officer)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      312,
+      314
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2012, September 2020, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of (murder/[or] manslaughter/attempted murder/[or] attempted voluntary manslaughter) if (he/she) (killed/attempted to kill) someone while trying to arrest him or her for a violent felony. Such (a/an) [attempted] killing is justified, and therefore not unlawful, if:",
+    "1. The defendant committed the [attempted] killing while lawfully trying to arrest or detain ______ <insert name of decedent> for committing (the crime of ______ <insert forcible and atrocious crime, i.e., felony that threatened death or great bodily injury>/*______ <insert crime decedent was suspected of committing, e.g., burglary>, and that crime threatened the defendant or others with death or great bodily injury);",
+    "2. ______ <insert name of decedent> actually committed (the crime of ______ <insert forcible and atrocious crime, i.e., felony that threatened death or great bodily injury>/______ <insert crime decedent was suspected of committing, e.g., burglary>, and that crime threatened the defendant or others with death or great bodily injury);",
+    "3. The defendant had reason to believe that ______ <insert name of decedent> had committed (the crime of ______ <insert forcible and atrocious crime, i.e., felony that threatened death or great bodily injury>/______ <insert crime decedent was suspected of committing, e.g., burglary>, and that crime threatened the defendant or others with death or great bodily injury);",
+    "[4. The defendant had reason to believe that ______ <insert name of decedent> posed a threat of death or great bodily injury, either to the defendant or to others];",
+    "AND",
+    "5. The [attempted] killing was necessary to prevent ______’s <insert name of decedent> escape.",
+    "A person has *reason to believe* that someone [poses a threat of death or great bodily injury or] committed (the crime of ______ <insert forcible and atrocious crime, i.e., felony that threatened death or great bodily injury> /______ <insert crime decedent was suspected of committing, e.g., burglary>, and that crime threatened the defendant or others with death or great bodily injury) when facts known to the person would persuade someone of reasonable caution to have (that/those) belief[s].",
+    "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "The People have the burden of proving beyond a reasonable doubt that the [attempted] killing was not justified. If the People have not met this burden, you must find the defendant not guilty of [attempted] (murder/[or] manslaughter)."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on justifiable homicide when “it appears that the defendant is relying on such a defense, or if there is substantial evidence supportive of such a defense and the defense is not inconsistent with the defendant’s theory of the case.” (See *People v. Breverman* (1998) 19 Cal.4th 142, 156 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [addressing sua sponte duty to instruct on self-defense].)"
+      },
+      {
+        "text": "It is unclear whether the defendant must always have probable cause to believe that the victim poses a threat of future harm or if it is sufficient if the defendant knows that the victim committed a forcible and atrocious crime. In *Tennessee v. Garner* (1985) 471 U.S. 1, 3, 11 [105 S.Ct. 1694, 85 L.Ed.2d 1], the Supreme Court held that, under the Fourth Amendment, deadly force may not be used by a law enforcement officer to prevent the escape of an apparently unarmed suspected felon unless it is necessary to prevent the escape and the officer has probable cause to believe that the suspect poses a significant threat of death or serious physical injury to the officer or others. “*Garner* necessarily limits the scope of justification for homicide under section 197, subdivision 4, and other similar statutes from the date of that decision.” (*People v. Martin* (1985) 168 Cal.App.3d 1111, 1124 [214 Cal.Rptr. 873].) In a footnote, *Garner*, *supra*, 471 U.S. 1, 16, fn. 15, noted that California law permits a killing in either situation, that is either when the suspect has committed an atrocious crime or when the suspect poses a threat of future harm. (See also *Long Beach Police Officers Assn v. City of Long Beach* (1976) 61 Cal.App.3d 364, 371–375 [132 Cal.Rptr. 348] [also stating the rule as “either” but quoting police regulations, which require that the officer always believe there is a risk of future harm].) The committee has provided both options. See *People v. Ceballos* (1974) 12 Cal.3d 470, 478–479 [116 Cal.Rptr. 233, 526 P.2d 241]. The court should review relevant case law before giving bracketed element 4."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 507, *Justifiable Homicide: By Public Officer*."
+      },
+      {
+        "text": "CALCRIM No. 509, *Justifiable Homicide: Non-Peace Officer Preserving the Peace*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Justifiable Homicide to Preserve the Peace. Pen. Code, §§ 197, subd. 4, 199. • Lawful Resistance to Commission of Offense. Pen. Code, §§ 692–694."
+      },
+      {
+        "text": "• Private Persons, Authority to Arrest. Pen. Code, § 837."
+      },
+      {
+        "text": "• Burden of Proof. Pen. Code, § 189.5; *People v. Frye* (1992) 7 Cal.App.4th 1148, 1154–1155 [10 Cal.Rptr.2d 217]."
+      },
+      {
+        "text": "• Felony Must Threaten Death or Great Bodily Injury. *People v. Piorkowski* (1974) 41 Cal.App.3d 324, 328–329 [115 Cal.Rptr. 830]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Felony Must Actually Be Committed"
+      },
+      {
+        "text": "A private citizen may use deadly force to apprehend a fleeing felon only if the suspect in fact committed the felony and the person using deadly force had reasonable cause to believe so. (*People v. Lillard* (1912) 18 Cal.App. 343, 345 [123 P. 221].)"
+      },
+      {
+        "heading": true,
+        "text": "Felony Committed Must Threaten Death or Great Bodily Injury"
+      },
+      {
+        "text": "Deadly force is permissible to apprehend a felon if “the felony committed is one which threatens death or great bodily injury . . . .” (*People v. Piorkowski, supra,* 41 Cal.App.3d at pp. 328–329)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

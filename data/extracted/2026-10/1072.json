@@ -1,0 +1,99 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1072",
+  "title": "Misdemeanor Unlawful Sexual Intercourse: Minor Within Three Years of Defendant’s Age (Pen. Code, § 261.5(a) & (b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      903,
+      904
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawful sexual intercourse with a minor whose age was within three years of the defendant’s age [in violation of Penal Code section 261.5(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual intercourse with another person;",
+    "2. The defendant and the other person were not married to each other at the time of the intercourse;",
+    "AND",
+    "3. At the time of the intercourse, the other person was under the age of 18 but not more than three years (younger/older) than the defendant.",
+    "*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]",
+    "[It is not a defense that the other person may have consented to the intercourse.]",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "<Defense: Good Faith Belief 18 or Over>",
+    "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that the other person was age 18 or older. The People must prove beyond a reasonable doubt that the defendant did not reasonably and actually believe that the other person was at least 18 years old. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “It is not a defense that” on request, if there is evidence that the minor consented to the act. (See *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502].)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant reasonably and actually believed that the minor was age 18 or older, the court has a sua sponte duty to instruct on the defense. (See *People v. Hernandez* (1964) 61 Cal.2d 529, 535–536 [39 Cal.Rptr. 361, 393 P.2d 673]; *People v. Winters* (1966) 242 Cal.App.2d 711, 716 [51 Cal.Rptr. 735].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements of Misdemeanor Offense. Pen. Code, § 261.5(a) & (b)."
+      },
+      {
+        "text": "• Minor’s Consent Not a Defense. *People v. Kemp* (1934) 139 Cal.App. 48, 51 [34 P.2d 502]."
+      },
+      {
+        "text": "• Mistake of Fact Regarding Age. *People v. Hernandez* (1964) 61 Cal.2d 529, 535–536 [39 Cal.Rptr. 361, 393 P.2d 673]; see *People v. Zeihm* (1974) 40 Cal.App.3d 1085, 1089 [115 Cal.Rptr. 528] [belief about age is a defense], disapproved on other grounds in *People v. Freeman* (1988) 46 Cal.3d 419, 428, fn. 6 [250 Cal.Rptr. 598, 758 P.2d 1128]."
+      },
+      {
+        "text": "• Penetration Defined. Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585, 600 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Unlawful Sexual Intercourse. Pen. Code, §§ 664, 261.5; see, e.g., *People v. Nicholson* (1979) 98 Cal.App.3d 617, 622–624 [159 Cal.Rtpr. 707]."
+      },
+      {
+        "text": "Contributing to the delinquency of a minor (Pen. Code, § 272) is not a lesser included offense of unlawful sexual intercourse. (*People v. Bobb* (1989) 207 Cal.App.3d 88, 93–96 [254 Cal.Rptr. 707], disapproved on another ground in *People v. Barton* (1995) 12 Cal.4th 186, 198, fn. 7 [47 Cal.Rptr.2d 569, 906 P.2d 531].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section under CALCRIM No. 1070, *Unlawful Sexual Intercourse: Defendant 21 or Older*, and CALCRIM No. 1071, *Unlawful Sexual Intercourse: Minor More Than Three Years Younger*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

@@ -1,0 +1,101 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "336",
+  "title": "In-Custody Informant",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      185,
+      187
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2012, February 2016, October 2021, March 2023",
+  "revision_legend": null,
+  "body": [
+    "View the (statement/[or] testimony) of an in-custody informant against the defendant with caution and close scrutiny. In evaluating such (a statement/[or] testimony), you should consider the extent to which it may have been influenced by the receipt of, or expectation of, any benefits. This does not mean that you may arbitrarily disregard such (statement/[or] testimony), but you should give it the weight to which you find it to be entitled in the light of all the evidence in the case.",
+    "<Give the following paragraph if the issue of whether a witness was an in-custody informant is in dispute>",
+    "[An *in-custody informant* is someone [, other than (a/an) (codefendant[,]/[or] percipient witness[,]/[or] accomplice[,]/[or] coconspirator,)] whose (statement/[or] testimony) is based on [a] statement[s] the defendant allegedly made while both the defendant and the informant were held within a correctional institution. If you decide that a (declarant/[or] witness) was not an in-custody informant, then you should evaluate his or her (statement/[or] testimony) as you would that of any other witness.]",
+    "<Give the first bracketed phrase if the issue of whether a witness was an in-custody informant is in dispute>",
+    "[If you decide that a (declarant/[or] witness) was an in-custody informant, then] (You/you) may not convict the defendant of ______ <insert charged crime[s]> based on the (statement/[or] testimony) of that in-custody informant alone. [Nor may you find a special circumstance true/[or] use evidence in aggravation based on the (statement/[or] testimony) of that in-custody informant alone.]",
+    "You may use the (statement/[or] testimony) of an in-custody informant against the defendant only if:",
+    "1. The (statement/[or] testimony) is supported by other evidence that you believe;",
+    "2. That supporting evidence is independent of the (statement/[or] testimony);",
+    "AND",
+    "3. That supporting evidence connects the defendant to the commission of the crime[s] [or to the special circumstance/[or] to evidence in aggravation]. The supporting evidence is not sufficient if it merely shows that the charged crime was committed [or proves the existence of a special circumstance/[or] evidence in aggravation].",
+    "This supporting evidence requirement does not apply where the testimony of an in-custody informant is offered for any purpose other than proving (guilt/[or] a special circumstance/evidence in aggravation).",
+    "[*Supporting evidence*, however, may be slight. It does not need to be enough, by itself, to prove that the defendant is guilty of the charged crime, and it does not need to support every fact (mentioned by the accomplice in the statement/[or] about which the witness testified). On the other hand, it is not enough if the supporting evidence merely shows that a crime was committed or the circumstances of its commission. The supporting evidence must tend to connect the defendant to the commission of the crime.]",
+    "[Do not use the (statement/[or] testimony) of an in-custody informant to support the (statement/[or] testimony) of another in-custody informant unless you are convinced that ______ <insert name of party calling in-custody informant as witness> has proven it is more likely than not that the in-custody informant has not communicated with another in-custody informant on the subject of the testimony.]",
+    "[A *percipient witness* is someone who personally perceived the matter that he or she testified about.]",
+    "<Insert the name of the in-custody informant if his or her statement is not in dispute>",
+    "[______ <insert name of witness> is an in-custody informant.]",
+    "[______ <insert name of institution> is a correctional institution.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    40.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must give this instruction on request. (Pen. Code, § 1127a.)"
+      },
+      {
+        "text": "The court should also be aware of the following statutory provisions relating to in-custody informants: Penal Code sections 1127a(c) [prosecution must disclose consideration given to witness]; 1191.25 [prosecution must notify victim of in-custody informant]; and 4001.1 [limitation on payments to in-custody informants and action that may be taken by in-custody informant]."
+      },
+      {
+        "text": "If there is no issue over whether the witness is an in-custody informant and the parties agree, the court may instruct the jury that the witness “is an in-custody informant.” If there is an issue over whether the witness is an in-custody informant, give the bracketed definition of the term."
+      },
+      {
+        "text": "The committee awaits guidance from courts of review on the issue of whether this instruction applies to witnesses other than those called by the People. Until the issue is resolved, the committee provides this version consistent with the language of the statute."
+      },
+      {
+        "text": "If the court concludes that the corroboration requirement applies to an out-of-court statement, use the word “statement” throughout the instruction. (See discussion in Related Issues section to CALCRIM No. 334, *Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice*.)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instruction"
+      },
+      {
+        "text": "CALCRIM No. 337, *Witness in Custody or Physically Restrained*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Duty. Pen. Code, §§ 1111.5, 1127a."
+      },
+      {
+        "text": "• In-Custody Informant Testimony and Accomplice Testimony May Corroborate Each Other. *People v. Huggins* (2015) 235 Cal.App.4th 715, 719–720 [185 Cal.Rptr.3d 672]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Tran* (2022) 13 Cal.5th 1169, 1198–1201 [298 Cal.Rptr.3d 150, 515 P.3d 1210]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

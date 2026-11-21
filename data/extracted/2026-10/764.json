@@ -1,0 +1,114 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "764",
+  "title": "Death Penalty: Evidence of Other Violent Crimes",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      583,
+      585
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The People allege as an aggravating circumstance that (the defendant/______ <insert name of defendant>) committed ______ <insert specific description of alleged offense[s]>.",
+    "The People must prove beyond a reasonable doubt that (the defendant/______ <insert name of defendant>) committed [each of] the alleged crime[s]. [Consider each of the alleged crimes separately.] If you have a reasonable doubt whether (the defendant/______ <insert name of defendant>) committed (the/an) alleged crime, you must completely disregard any evidence of that crime. If the People have proved that (the defendant/______ <insert name of defendant>) committed (the/an) alleged crime, you may consider the evidence of that alleged crime as an aggravating circumstance.",
+    "[To decide whether the defendant committed ______ <insert specific description of alleged offense[s]>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]",
+    "Each of you must decide for yourself whether the People have proved that the defendant committed an alleged crime. You do not all need to agree whether an alleged crime has been proved. If any juror individually concludes that an alleged crime has been proved, that juror may give the evidence whatever weight he or she believes is appropriate. On the other hand, if any juror individually concludes that an alleged crime has not been proved, that juror must disregard the evidence completely.",
+    "You may not consider any other evidence of alleged criminal activity as an aggravating circumstance [except for the alleged prior felony conviction[s] about which I will now instruct you]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct that alleged prior crimes offered in aggravation must be proved beyond a reasonable doubt. (*People v. Robertson* (1982) 33 Cal.3d 21, 53–55 [188 Cal.Rptr. 77, 655 P.2d 279]; *People v. Davenport* (1985) 41 Cal.3d 247, 281 [221 Cal.Rptr. 794, 710 P.2d 861].) Evidence of prior crimes is limited to offenses involving the “use or attempted use of force or violence or the express or implied threat to use force or violence.” (Pen. Code, § 190.3(b).)"
+      },
+      {
+        "text": "The prosecution must specify what prior crimes are alleged in aggravation and the court has a sua sponte duty to instruct the jury to consider only evidence relating to those alleged crimes. (*People v. Robertson* (1982) 33 Cal.3d 21, 55 [188 Cal.Rptr. 77, 655 P.2d 279]; *People v. Yeoman* (2003) 31 Cal.4th 93, 151 [2 Cal.Rptr.3d 186, 72 P.3d 1166].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to give any necessary instructions on defenses to the alleged prior crimes, including instructions on voluntary intoxication as a defense. (*People v. Montiel* (1993) 5 Cal.4th 877, 942 [21 Cal.Rptr.2d 705, 855 P.2d 1277].)"
+      },
+      {
+        "text": "When requested by the defense, the court must instruct on the elements of the alleged prior offense. (*People v. Brown* (2003) 31 Cal.4th 518, 571 [3 Cal.Rptr.3d 145, 73 P.3d 1137]; (*People v. Cox* (2003) 30 Cal.4th 916, 964 [135 Cal.Rptr.2d 272, 70 P.3d 277]; *People v. Anderson* (2001) 25 Cal.4th 543, 589, fn. 14 [106 Cal.Rptr.2d 575, 22 P.3d 347] [rule not changed by *Apprendi v. New Jersey* (2000) 530 U.S. 466, 475–476, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435]], cert. den. sub nom. *Anderson v. California* (2002) 534 U.S. 1136 [122 S.Ct. 1082, 151 L.Ed.2d 982].) However, the court is not required to instruct on the elements sua sponte. (*People v. Brown, supra,* 31 Cal.4th at p. 571; *People v. Cox, supra,* 30 Cal.4th at p. 964.) The defense may, for tactical reasons, prefer not to have the jury hear the elements."
+      },
+      {
+        "text": "Give the bracketed portion in the final paragraph when the court is also instructing the jury on prior felony convictions alleged in aggravation. (See CALCRIM No. 765, *Death Penalty: Conviction for Other Felony Crimes*.)"
+      },
+      {
+        "text": "If the case involves only one defendant, the court should use the word “defendant” throughout the instruction. If the case involves codefendants tried jointly, the court should insert the name of the specific defendant alleged to have committed the prior crimes in the places indicated in the instruction."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Factor (b). Pen. Code, § 190.3."
+      },
+      {
+        "text": "• Must Instruct on Reasonable Doubt. *People v. Robertson* (1982) 33 Cal.3d 21, 53–55 [188 Cal.Rptr. 77, 655 P.2d 279]; *People v. Davenport* (1985) 41 Cal.3d 247, 281 [221 Cal.Rptr. 794, 710 P.2d 861]."
+      },
+      {
+        "text": "• Must Instruct Jury to Consider Only Specified Prior Crimes Evidence. *People v. Robertson* (1982) 33 Cal.3d 21, 55 [188 Cal.Rptr. 77, 655 P.2d 279]; *People v. Yeoman* (2003) 31 Cal.4th 93, 151 [2 Cal.Rptr.3d 186, 72 P.3d 1166]."
+      },
+      {
+        "text": "• Instruct on Elements Only When Requested. *People v. Brown* (2003) 31 Cal.4th 518, 571 [3 Cal.Rptr.3d 145, 73 P.3d 1137]; *People v. Cox* (2003) 30 Cal.4th 916, 964 [135 Cal.Rptr.2d 272, 70 P.3d 277]; *People v. Anderson* (2001) 25 Cal.4th 543, 589, fn. 14 [106 Cal.Rptr.2d 575, 22 P.3d 347], cert. den. sub nom. *Anderson v. California* (2002) 534 U.S. 1136 [122 S.Ct. 1082, 151 L.Ed.2d 982]."
+      },
+      {
+        "text": "• Defense Instructions to Uncharged Crimes. *People v. Montiel* (1993) 5 Cal.4th 877, 942 [21 Cal.Rptr.2d 705, 855 P.2d 1277]."
+      },
+      {
+        "text": "• Constitutional to Admit Evidence of Uncharged Crimes. *People v. Balderas* (1985) 41 Cal.3d 144, 205 [222 Cal.Rptr. 184, 711 P.2d 480]; *People v. Brown* (2003) 31 Cal.4th 518, 571 [3 Cal.Rptr.3d 145, 73 P.3d 1137]."
+      },
+      {
+        "text": "• No Unanimity Requirement. *People v. Benson* (1990) 52 Cal.3d 754, 811 [276 Cal.Rptr. 827, 802 P.2d 330]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Need Not Instruct on Presumption of Innocence"
+      },
+      {
+        "text": "The court is not required to instruct on the presumption of innocence regarding alleged prior crimes. (*People v. Benson* (1990) 52 Cal.3d 754, 809–810 [276 Cal.Rptr. 827, 802 P.2d 330].)"
+      },
+      {
+        "heading": true,
+        "text": "No Unanimity Requirement"
+      },
+      {
+        "text": "“We see nothing improper in permitting each juror individually to decide whether uncharged criminal activity has been proved beyond a reasonable doubt and, if so, what weight that activity should be given in deciding the penalty.” (*People v. Benson* (1990) 52 Cal.3d 754, 811 [276 Cal.Rptr. 827, 802 P.2d 330].)"
+      },
+      {
+        "text": "*No Requirement to Instruct Jury Must Find “Violence or Threat of Violence” Beyond a Reasonable Doubt*"
+      },
+      {
+        "text": "The court is required to instruct the jury that the alleged prior crime must be proved beyond a reasonable doubt. However, the court does not have to instruct the jury that the fact that the alleged crime involved violence or the threat of violence must be proved beyond a reasonable doubt. (*People v. Ochoa* (2002) 26 Cal.4th 398, 453 [110 Cal.Rptr.2d 324, 28 P.3d 78], cert. den. sub nom. *Ochoa v. California* (1999) 535 U.S. 1040 [122 S.Ct. 1803, 152 L.Ed.2d 660].)"
+      },
+      {
+        "heading": true,
+        "text": "May Use Same Conduct Under Factor (b) and Factor (c)"
+      },
+      {
+        "text": "“Where violent ‘criminal activity’ results in a ‘prior felony conviction,’ it shows both a propensity for violence and an inability or unwillingness to be deterred by prior criminal sanctions. The jury was entitled to consider the relevance of defendant’s prior conviction for both purposes under factors (b) *and* (c).” (People v. Whitt (1990) 51 Cal.3d 620, 654 [274 Cal.Rptr. 252, 798 P.2d 849] [emphasis in original]; *People v. Yeoman* (2003) 31 Cal.4th 93, 156 [2 Cal.Rptr.3d 186, 72 P.3d 1166].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

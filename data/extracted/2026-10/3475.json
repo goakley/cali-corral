@@ -1,0 +1,86 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3475",
+  "title": "Right to Eject Trespasser From Real Property",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2437,
+      2438
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008",
+  "revision_legend": null,
+  "body": [
+    "The (owner/lawful occupant) of a (home/property) may request that a trespasser leave the (home/property). If the trespasser does not leave within a reasonable time and it would appear to a reasonable person that the trespasser poses a threat to (the (home/property)/[or] the (owner/[or] occupants), the (owner/lawful occupant) may use reasonable force to make the trespasser leave.",
+    "*Reasonable force* means the amount of force that a reasonable person in the same situation would believe is necessary to make the trespasser leave.",
+    "[If the trespasser resists, the (owner/lawful occupant) may increase the amount of force he or she uses in proportion to the force used by the trespasser and the threat the trespasser poses to the property.]",
+    "When deciding whether the defendant used reasonable force, consider all the circumstances as they were known to and appeared to the defendant and consider what a reasonable person in a similar situation with similar knowledge would have believed. If the defendant’s beliefs were reasonable, the danger does not need to have actually existed.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant used more force than was reasonable. If the People have not met this burden, you must find the defendant not guilty of ______ <insert crime>."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must instruct on a defense when the defendant requests it and there is substantial evidence supporting the defense. The court has a sua sponte duty to instruct on a defense if there is substantial evidence supporting it and either the defendant is relying on it or it is not inconsistent with the defendant’s theory of the case."
+      },
+      {
+        "text": "When the court concludes that the defense is supported by substantial evidence and is inconsistent with the defendant’s theory of the case, however, it should ascertain whether defendant wishes instruction on this alternate theory. (*People v. Gonzales* (1999) 74 Cal.App.4th 382, 389–390 [88 Cal.Rptr.2d 111]; *People v. Breverman* (1998) 19 Cal.4th 142, 157 [77 Cal.Rptr.2d 870, 960 P.2d 1094].)"
+      },
+      {
+        "text": "Substantial evidence means evidence of a defense, which, if believed, would be sufficient for a reasonable jury to find a reasonable doubt as to the defendant’s guilt. (*People v. Salas* (2006) 37 Cal.4th 967, 982–983 [38 Cal.Rptr.3d 624, 127 P.3d 40].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 3476, *Right to Defend Real or Personal Property*."
+      },
+      {
+        "text": "CALCRIM No. 3477, *Presumption That Resident Was Reasonably Afraid of Death or Great Bodily Injury*."
+      },
+      {
+        "text": "CALCRIM No. 506, *Justifiable Homicide: Defending Against Harm to Person Within Home or on Property*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. See *People v. Corlett* (1944) 67 Cal.App.2d 33, 51–52 [153 P.2d 595]; *People v. Teixeira* (1899) 123 Cal. 297, 298–299 [55 P. 988]; Civ. Code, § 50."
+      },
+      {
+        "text": "• Burden of Proof. See *Boyer v. Waples* (1962) 206 Cal.App.2d 725, 727 [24 Cal.Rptr. 192] [civil action]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Negating Self-Defense Claim"
+      },
+      {
+        "text": "The right to defend one’s home may negate a defendant’s claim of imperfect self-defense, as held in *People v. Watie* (2002) 100 Cal.App.4th 866, 878 [124 Cal.Rptr.2d 258]:"
+      },
+      {
+        "text": "[T]he right of a victim to defend himself and his property is a relevant consideration in determining whether a defendant may prevail when he seeks to negate malice aforethought by asserting the affirmative defense of imperfect self-defense . . . [¶] . . . If [the victim] had a right to use force to defend himself in his home, then defendant had no right of self-defense, imperfect, or otherwise."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 3
+  },
+  "warnings": []
+}

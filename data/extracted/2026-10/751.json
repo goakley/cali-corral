@@ -1,0 +1,84 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "751",
+  "title": "Second Degree Murder With Prior Prison for Murder (Pen. Code, § 190.05)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      571,
+      572
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with the additional allegation of having previously served a prison term for murder. You must now decide if the People have proved this allegation.",
+    "To prove that this allegation is true, the People must prove that:",
+    "1. The defendant was convicted previously of murder in the (first/second) degree;",
+    "AND",
+    "2. The defendant served time in prison as a result of that conviction.",
+    "[A conviction of ______ <insert name of offense from other state> is the same as a conviction for (first/second) degree murder.]",
+    "[For the purpose of this allegation, serving time in ______ <insert name of institution from Pen. Code, § 190.05> qualifies as serving time in prison.]",
+    "<Limiting instruction alternative A—bifurcated trial>",
+    "[In deciding whether the People have proved this allegation, consider only the evidence presented in this proceeding. Do not consider your verdict or any evidence from the earlier part of the trial.]",
+    "<Limiting instruction alternative B—nonbifurcated trial>",
+    "[Consider the evidence presented on this allegation only when deciding whether the defendant was previously convicted of the crime[s] alleged [or for the limited purpose of ______ <insert other permitted purpose, e.g., assessing credibility of the defendant>]. Do not consider this evidence for any other purpose.]",
+    "[You may not return a finding that this allegation has or has not been proved unless all 12 of you agree on that finding.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the elements of the additional allegation. (See Pen. Code, § 190.05(c) [must submit special allegation to jury].)"
+      },
+      {
+        "text": "Penal Code section 190.05 provides for possible sentences of either life without parole or 15 years to life for a defendant convicted of second degree murder who has served a prior prison term for first or second degree murder. (Pen. Code, § 190.05(a).) The statute requires the jury to find the fact of the conviction true beyond a reasonable doubt. (Pen. Code, § 190.05(c), (d).) The statute does not require that trial on the prior conviction be bifurcated from trial on the underlying charge. If the court does use a bifurcated trial, the court must also give CALCRIM No. 221, *Reasonable Doubt: Bifurcated Trial*, and CALCRIM No. 3550, *Pre-Deliberation Instructions*. (See *People v. Gutierrez* (1994) 23 Cal.App.4th 1576, 1579 [28 Cal.Rptr.2d 897].) The court must also give the last bracketed sentence."
+      },
+      {
+        "text": "On request, the court should give one of the appropriate limiting instruction, depending on whether the court has granted a bifurcated trial."
+      },
+      {
+        "text": "If the prior is found true, the court must then proceed with a separate penalty phase in which the jury determines which of the two possible sentences is appropriate. (Pen. Code, § 190.05(e); *People v. Gutierrez, supra,* 23 Cal.App.4th at p. 1579.) The court should then modify the death penalty phase instructions for use in this penalty phase trial. The factors for the jury to consider under Penal Code section 190.05(e) are identical to the factors to be considered in a death penalty trial. Thus, the court needs to change only the penalties that the jury must choose between."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Second Degree Murder With Prior Prison for Murder. Pen. Code, § 190.05."
+      },
+      {
+        "text": "• Right to Jury Trial on Prior Conviction. Pen. Code, § 190.05(c)."
+      },
+      {
+        "text": "• Reasonable Doubt Standard. Pen. Code, § 190.05(d)."
+      },
+      {
+        "text": "• Separate Penalty Phase. Pen. Code, § 190.05(e)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

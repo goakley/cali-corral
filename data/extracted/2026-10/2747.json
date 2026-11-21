@@ -1,0 +1,150 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2747",
+  "title": "Bringing or Sending Firearm, Deadly Weapon, or Explosive Into Penal Institution (Pen. Code, § 4574(a)–(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1999,
+      2002
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, September 2020, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (bringing/sending/[or] assisting in (bringing/sending)) a weapon into a penal institution [in violation of Penal Code section 4574].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [unlawfully] (brought/sent/[or] assisted in (bringing/sending)) [(a/an)] (firearm[,]/[or] deadly weapon[,]/[or]explosive[,]/[or] tear gas[,]/[or] tear gas weapon) into a penal institution [or onto the grounds (of/[or] adjacent to) a penal institution];",
+    "2. The defendant knew that (he/she) was (bringing/sending/[or] assisting in (bringing/sending)) an object into a penal institution [or onto the grounds (of/[or] adjacent to) a penal institution];",
+    "AND",
+    "3. The defendant knew that the object was [(a/an)] (firearm[,]/[or] deadly weapon[,]/[or] explosive[,]/[or] tear gas[,]/[or] tear gas weapon).",
+    "A *penal institution* is a (state prison[,]/[or] prison camp or farm[,]/[or] jail[,]/[or] county road camp[,]/[or] place where prisoners of the state prison are located under the custody of prison officials, officers, or employees).",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.] [A firearm need not be in working order if it was designed to shoot and appears capable of shooting.]",
+    "[As used here, a *deadly weapon* is any weapon, instrument or object that has the reasonable potential of being used in a manner that would cause great bodily injury or death.] [*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) which is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is also any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type[s] of explosive[s] from Health & Saf. Code, § 12000> (is/are) [an] *explosive[s]*.]",
+    "[*Tear gas* means a liquid, gaseous, or solid substance intended to produce temporary physical discomfort or permanent injury through being vaporized or otherwise dispersed in the air.]",
+    "[A *tear gas weapon* means any shell, cartridge, or bomb capable of being discharged or exploded to release or emit tear gas.] [A *tear gas weapon* [also] means a revolver, pistol, fountain pen gun, billy, or other device, portable or fixed, intended specifically to project or release tear gas.] [A *tear gas weapon* does not include a device regularly manufactured and sold for use with firearm ammunition.]",
+    "The People do not have to prove that the defendant used or intended to use the object as a weapon.",
+    "[You may consider evidence that the object could be used in a harmless way in deciding if the object is a deadly weapon as defined here.]",
+    "[The People do not have to prove that the object was (concealable[,]/[or] carried by the defendant on (his/her) person[,]/[or] (displayed/visible)).]",
+    "[The People allege that the defendant (brought/sent/[or] assisted in (bringing/sending)) the following weapons: ______ <insert description of each weapon when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (brought/sent/[or] assisted in (bringing/sending)) at least one of these weapons and you all agree on which weapon (he/she) (brought/sent/[or] assisted in (bringing/sending)).]",
+    "<Defense: Conduct Authorized>",
+    "[The defendant is not guilty of this offense if (he/she) was authorized to (bring/send) a weapon into the penal institution by (law[,]/[or] a person in charge of the penal institution[,]/[or] an officer of the penal institution empowered by the person in charge of the institution to give such authorization). The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to (bring/send) the weapon into the institution. If the People have not met this burden, you must find the defendant not guilty of this offense.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant brought or sent multiple weapons into the institution, the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483]; *People v. Rowland* (1999) 75 Cal.App.4th 61, 65 [88 Cal.Rptr.2d 900].) Give the bracketed paragraph that begins with “The People allege that the defendant (brought/sent/[or] assisted in (bringing/sending)),” inserting the items alleged."
+      },
+      {
+        "text": "If the defendant is charged with a felony for bringing or sending tear gas or a tear gas weapon into a penal institution resulting in the release of tear gas (Pen. Code, § 4574(b)), the court has a sua sponte duty to instruct the jury on this additional allegation. The court should give the jury an additional instruction on this issue and a verdict form on which the jury may indicate if this fact has or has not been proved."
+      },
+      {
+        "text": "Note that the definition of “deadly weapon” in the context of Penal Code section 4574 differs from the definition given in other instructions. (*People v. Martinez* (1998) 67 Cal.App.4th 905, 909 [79 Cal.Rptr.2d 334].)"
+      },
+      {
+        "text": "If there is sufficient evidence of a harmless use for the object, give the bracketed sentence that begins with “You may consider evidence that the object could be used in a harmless way . . . .” (*People v. Savedra* (1993) 15 Cal.App.4th 738, 743–744 [19 Cal.Rptr.2d 115].)"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant was authorized to bring or send the weapon, give the bracketed word “unlawfully” in element 1. Give also the bracketed paragraph headed “Defense: Conduct Authorized.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 4574(a), (b) & (c)."
+      },
+      {
+        "text": "• “Firearm” Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• “Explosive” Defined. Health & Saf. Code, § 12000."
+      },
+      {
+        "text": "• “Tear Gas” Defined. Pen. Code, § 17240."
+      },
+      {
+        "text": "• “Tear Gas Weapon” Defined. Pen. Code, § 17250."
+      },
+      {
+        "text": "• “Deadly Weapon” Defined. *People v. Martinez, supra,* 67 Cal.App.4th at p. 909."
+      },
+      {
+        "text": "• “Jail” Defined. *People v. Carter* (1981) 117 Cal.App.3d 546, 550 [172 Cal.Rptr. 838]."
+      },
+      {
+        "text": "• Knowledge of Nature of Object. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]; *People v. James* (1969) 1 Cal.App.3d 645, 650 [81 Cal.Rptr. 845]."
+      },
+      {
+        "text": "• Knowledge of Location as Penal Institution. *People v. Seale* (1969) 274 Cal.App.2d 107, 111 [78 Cal.Rptr. 811]."
+      },
+      {
+        "text": "• Harmless Use. *People v. Savedra, supra,* 15 Cal.App.4th at pp. 743–744; *People v. Martinez, supra,* 67 Cal.App.4th at pp. 910–913."
+      },
+      {
+        "text": "• Unanimity. *People v. Wolfe, supra,* 114 Cal.App.4th at pp. 184–185."
+      },
+      {
+        "text": "• Firearm Need Not Be Operable. *People v. Talkington* (1983) 140 Cal.App.3d 557, 563 [189 Cal.Rptr. 735]."
+      },
+      {
+        "text": "• “Adjacent to” and “Grounds” Not Vague. *People v. Seale* (1969) 274 Cal.App.2d 107, 114–115 [78 Cal.Rptr. 811]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempt to Bring or Send Weapon Into Penal Institution. Pen. Code, §§ 664, 4574(a), (b), or (c); *People v. Carter* (1981) 117 Cal.App.3d 546, 548 [172 Cal.Rptr. 838]."
+      },
+      {
+        "text": "If the defendant is charged with bringing or sending tear gas or a tear gas weapon into a penal institution, the offense is a misdemeanor unless tear gas was released in the institution. (Pen. Code, § 4574(b) & (c).) If the defendant is charged with a felony, then the misdemeanor offense is a lesser included offense. The court must provide the jury with a verdict form on which the jury will indicate if the prosecution has proved that tear gas was released. If the jury finds that this has not been proved, then the offense should be set at a misdemeanor."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Inmate Transferred to Mental Hospital"
+      },
+      {
+        "text": "A prison inmate transferred to a mental hospital for treatment pursuant to Penal Code section 2684 is not “under the custody of prison officials.” (*People v. Superior Court (Ortiz)* (2004) 115 Cal.App.4th 995, 1002 [9 Cal.Rptr.3d 745].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

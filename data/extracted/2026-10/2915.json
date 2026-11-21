@@ -1,0 +1,59 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2915",
+  "title": "Loitering (Pen. Code, § 647(h))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2089,
+      2089
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with loitering [in violation of Penal Code section 647(h)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant delayed, lingered, prowled, or wandered on the private property of someone else;",
+    "2. When the defendant was on that property, (he/she) did not have a lawful purpose for being there;",
+    "3. When the defendant was on the property, (he/she) intended to commit a crime if the opportunity arose;",
+    "AND",
+    "4. The defendant’s purpose for being on the property was to commit a crime if the opportunity arose."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 647(h)."
+      },
+      {
+        "text": "• Specific Intent to Commit Crime Required. *In re Cregler* (1961) 56 Cal.2d 308, 311–312 [14 Cal.Rptr. 289, 363 P.2d 305]; see *In re Joshua M.* (2001) 91 Cal.App.4th 743, 746–747 [110 Cal.Rptr.2d 662]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

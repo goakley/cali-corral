@@ -1,0 +1,130 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2180",
+  "title": "Evading Peace Officer: Death or Serious Bodily Injury (Veh. Code, §§ 2800.1(a), 2800.3(a), (b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1551,
+      1554
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with evading a peace officer and causing (death/[or] serious bodily injury) [in violation of ______ <insert appropriate code section[s]>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. A peace officer in a vehicle was pursuing the defendant, who was also driving a vehicle;",
+    "2. The defendant intended to evade the peace officer;",
+    "3. While driving, the defendant willfully fled from, or tried to elude, the pursuing peace officer;",
+    "4. The defendant’s attempt to flee from, or elude, the pursuing peace officer caused (the death of/[or] serious bodily injury to) someone else;",
+    "AND",
+    "5. All of the following were true:",
+    "(a) There was at least one lighted red lamp visible from the front of the peace officer’s vehicle;",
+    "(b) The defendant either saw or reasonably should have seen the lamp;",
+    "(c) The peace officer’s vehicle was sounding a siren as reasonably necessary;",
+    "(d) The peace officer’s vehicle was distinctively marked;",
+    "AND",
+    "(e) The peace officer was wearing a distinctive uniform.",
+    "[A person employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g, “designated by the director of the agency as a peace officer”>.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[A *serious bodily injury* means a serious impairment of physical condition. Such an injury may include[, but is not limited to]: (loss of consciousness/concussion/bone fracture/protracted loss or impairment of function of any bodily member or organ/a wound requiring extensive suturing/[and] serious disfigurement).]",
+    "A vehicle is *distinctively marked* if it has features that are reasonably noticeable to other drivers, including a red lamp, siren, and at least one other feature that makes it look different from vehicles that are not used for law enforcement purposes.",
+    "A *distinctive uniform* means clothing adopted by a law enforcement agency to identify or distinguish members of its force. The uniform does not have to be complete or of any particular level of formality. However, a badge, without more, is not enough.",
+    "[An act causes (death/[or] serious bodily injury) if the (death/[or] injury) is the direct, natural, and probable consequence of the act and the (death/[or] injury) would not have happened without the act. A natural and probable consequence is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence.]",
+    "[There may be more than one cause of (death/[or] serious bodily injury). An act causes (death/[or] injury) only if it is a substantial factor in causing the (death/[or] injury). A *substantial factor* is more than a trivial or remote factor. However, it need not be the only factor that causes the (death/[or] injury).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    30.0,
+    29.3,
+    30.7,
+    29.3,
+    16.0,
+    30.7,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of death or injury, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of death or injury, the court should also give the “substantial factor” instruction in the second bracketed paragraph on causation. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "The jury must determine whether a peace officer was pursuing the defendant. (*People v. Flood* (1998) 18 Cal.4th 470, 482 [76 Cal.Rptr.2d 180, 957 P.2d 869].) The court must instruct the jury on the appropriate definition of “peace officer” from the statute. *(Ibid.)* It is an error for the court to instruct that the witness is a peace officer as a matter of law. (*Ibid.* [instruction that “Officer Bridgeman and Officer Gurney are peace officers” was error].) If the witness is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the witness is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "On request, the court must give CALCRIM No. 3426, *Voluntary Intoxication*, if there is sufficient evidence of voluntary intoxication to negate the intent to evade. (*People v. Finney* (1980) 110 Cal.App.3d 705, 712 [168 Cal.Rptr. 80].)"
+      },
+      {
+        "text": "On request, give CALCRIM No. 2241, *Driver and Driving Defined*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, §§ 2800.1(a), 2800.3(a), (b)."
+      },
+      {
+        "text": "• Serious Bodily Injury Defined. Pen. Code, § 243(f)(4); *People v. Taylor* (2004) 118 Cal.App.4th 11, 25, fn. 4 [12 Cal.Rptr.3d 693]."
+      },
+      {
+        "text": "• Distinctively Marked Vehicle. *People v. Hudson* (2006) 38 Cal.4th 1002, 1010–1011 [44 Cal.Rptr.3d 632, 136 P.3d 168]."
+      },
+      {
+        "text": "• Distinctive Uniform. *People v. Estrella* (1995) 31 Cal.App.4th 716, 724 [37 Cal.Rptr.2d 383]; *People v. Mathews* (1998) 64 Cal.App.4th 485, 491 [75 Cal.Rptr.2d 289]."
+      },
+      {
+        "text": "• Jury Must Determine If Peace Officers. *People v. Flood* (1998) 18 Cal.4th 470, 482 [76 Cal.Rptr.2d 180, 957 P.2d 869]."
+      },
+      {
+        "text": "• Red Lamp, Siren, Additional Distinctive Feature of Car, and Distinctive Uniform Must Be Proved. *People v. Hudson* (2006) 38 Cal.4th 1002, 1013 [44 Cal.Rptr.3d 632, 136 P.3d 168]; *People v. Acevedo* (2003) 105 Cal.App.4th 195, 199 [129 Cal.Rptr.2d 270]; *People v. Brown* (1989) 216 Cal.App.3d 596, 599–600 [264 Cal.Rptr. 908]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Misdemeanor Evading a Pursuing Peace Officer. Veh. Code, § 2800.1; *People v. Springfield* (1993) 13 Cal.App.4th 1674, 1680–1681 [17 Cal.Rptr.2d 278]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Not Inherently Dangerous Felony"
+      },
+      {
+        "text": "Vehicle Code section 2800.3 is not an inherently dangerous felony and does not support a felony-murder conviction. (*People v. Jones* (2000) 82 Cal.App.4th 663, 668–669 [98 Cal.Rptr.2d 724]; *People v. Sanchez* (2001) 86 Cal.App.4th 970, 974 [103 Cal.Rptr.2d 809].)"
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 2182, *Evading Peace Officer: Misdemeanor*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

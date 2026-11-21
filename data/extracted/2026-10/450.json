@@ -1,0 +1,100 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "450",
+  "title": "Liability of Corporate Officers and Agents: Single Theory of Liability",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      281,
+      282
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with ______ <insert offense charged> while acting as an (officer/[or] agent) of a corporation.",
+    "The People must prove that the defendant (personally committed/was a direct participant in) the crime charged. The fact that the defendant is an (officer/[or] agent) of the corporation is not sufficient by itself to support a finding of guilt.",
+    "<Alternative A—prosecution alleges only that defendant committed prohibited act personally>",
+    "[To prove that the defendant personally committed the crime charged, the People must prove that the defendant ______ <insert description of conduct alleged in offense>.]",
+    "<Alternative B—prosecution alleges only that defendant had authority to control conduct of others>",
+    "[To prove that the defendant was a direct participant in the crime charged, the People must prove that:",
+    "1. The defendant had the authority to control ______ <insert description of conduct alleged in offense>;",
+    "[AND]",
+    "2. The defendant (failed to/authorized/caused/permitted) ______ <insert description of conduct alleged in offense>(;/.)]",
+    "<Alternative 3A: Give if offense alleged requires only knowledge or general criminal intent.>",
+    "[AND",
+    "3. The defendant knew ______ <insert description of knowledge about conduct alleged in offense>(;/.)]",
+    "<Alternative 3B: Give if offense alleged requires specific intent.>",
+    "[AND",
+    "3. When the defendant acted, (he/she) intended to ______ <insert description of specific intent required>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction in any case where the defendant is charged as the officer or agent of a corporation. (See *Sea Horse Ranch, Inc. v. Superior Court* (1994) 24 Cal.App.4th 446, 456–458 [30 Cal.Rptr.2d 681]; *Otis v. Superior Court* (1905) 148 Cal. 129, 131 [82 P. 853].) Repeat this instruction for each offense, inserting the specific requirements for that offense."
+      },
+      {
+        "text": "If the prosecution alleges that the defendant personally committed some or all of the acts alleged in the offense, give alternative A. If the prosecution’s theory is solely that the defendant had control over the conduct alleged, give alternative B. If the prosecution is pursuing both theories of liability, do not give this instruction. Give CALCRIM No. 451, *Liability of Corporate Officers and Agents: Two Theories of Liability*."
+      },
+      {
+        "text": "Give element 3A if the alleged offense requires knowledge or general criminal intent by the defendant. (See *Sea Horse Ranch, supra*, 24 Cal.App.4th at pp. 456–458; *People v. Epstein* (1931) 118 Cal.App. 7, 10 [4 P.2d 555].) Give element 3B if specific intent is required. If a strict-liability offense is alleged, give only elements 1 and 2. (See *People v. Matthews* (1992) 7 Cal.App.4th 1052, 1062 [9 Cal.Rptr.2d 348].)"
+      },
+      {
+        "heading": true,
+        "text": "Example"
+      },
+      {
+        "text": "In *Sea Horse Ranch, Inc. v. Superior Court* (1994) 24 Cal.App.4th 446 [30 Cal.Rptr.2d 681], the defendant was charged as the president of a corporation with involuntary manslaughter based on a horse’s escape from the ranch that caused a fatal vehicle accident. The instruction in such a case could read:"
+      },
+      {
+        "text": "To prove that the defendant was a direct participant in the crime charged, the People must prove that:"
+      },
+      {
+        "text": "1. The defendant had the authority to control the maintenance of the fences."
+      },
+      {
+        "text": "2. The defendant failed to ensure that the fences were properly maintained."
+      },
+      {
+        "text": "AND"
+      },
+      {
+        "text": "3. The defendant knew that horses had repeatedly escaped from the ranch due to poor maintenance of the fences."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Liability of Corporate Officer or Agent. *Sea Horse Ranch, Inc. v. Superior Court* (1994) 24 Cal.App.4th 446, 456–458 [30 Cal.Rptr.2d 681]; see *People v. Matthews* (1992) 7 Cal.App.4th 1052, 1062 [9 Cal.Rptr.2d 348]; *Otis v. Superior Court* (1905) 148 Cal. 129, 131 [82 P. 853]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

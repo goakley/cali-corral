@@ -1,0 +1,144 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "703",
+  "title": "Special Circumstances: Intent Requirement for Accomplice After June 5, 1990—Felony Murder (Pen. Code, § 190.2(d))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      501,
+      505
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, February 2016, August 2016, September 2019, April 2020, September 2023, February 2025,* February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "If you decide that (the/a) defendant is guilty of first degree murder but was not the actual killer, then, when you consider the special circumstance[s] of ______ <insert felony murder special circumstance[s]>, you must also decide whether the defendant acted either with intent to kill or with reckless indifference to human life.",
+    "In order to prove (this/these) special circumstance[s] for a defendant who is not the actual killer but who is guilty of first degree murder as (an aider and abettor/[or] a member of a conspiracy), the People must prove either that the defendant intended to kill, or the People must prove all of the following:",
+    "1. The defendant’s participation in the crime began before or during the killing;",
+    "2. The defendant was a major participant in the crime;",
+    "2. AND",
+    "3. When the defendant participated in the crime, (he/she) acted with reckless indifference to human life.",
+    "[A person *acts with reckless indifference to human life* when he or she engages in criminal activity that a reasonable person would know involves a grave risk of death and he or she knows that the activity involves a grave risk of death.]",
+    "[The People do not have to prove that the actual killer acted with intent to kill or with reckless indifference to human life in order for the special circumstance[s] of ______ <insert felony-murder special circumstance[s]>to be true.]",
+    "[If you decide that the defendant is guilty of first degree murder, but you cannot agree whether the defendant was the actual killer, then, in order to find (this/these) special circumstance[s] true, you must find either that the defendant acted with intent to kill or you must find that the defendant acted with reckless indifference to human life and was a *major participant* in the crime.]",
+    "[When you decide whether the defendant acted with *reckless indifference to human life*, consider all the evidence. No one of the following factors is necessary, nor is any one of them necessarily enough, to determine whether the defendant acted with reckless indifference to human life. Among the factors you may consider are:",
+    "[• Did the defendant know that [a] lethal weapon[s] would be present during the ______ <insert underlying felony>?]",
+    "[• Did the defendant know that [a] lethal weapon[s] (was/were) likely to be used?]",
+    "[• Did the defendant know that [a] lethal weapon[s] (was/were) used?]",
+    "[• Did the defendant know the number of weapons involved?]",
+    "[• Was the defendant near the person(s) killed when the killing occurred?]",
+    "[• Did the defendant have an opportunity to stop the killing or to help the victim(s)?]",
+    "[• How long did the crime last?]",
+    "[• Was the defendant aware of anything that would make a coparticipant likely to kill?]",
+    "[• Did the defendant try to minimize the possibility of violence?]",
+    "[• How old was the defendant?]",
+    "[• ______ <insert any other relevant factors>]]",
+    "[When you decide whether the defendant was a *major participant*, consider all the evidence. No one of the following factors is necessary, nor is any one of them necessarily enough, to determine whether the defendant was a major participant. Among the factors you may consider are:",
+    "[• What was the defendant’s role in planning the crime that led to the death[s]?]",
+    "[• What was the defendant’s role in supplying or using lethal weapons?]",
+    "[• What did the defendant know about dangers posed by the crime, any weapons used, or past experience or conduct of the other participant[s]?]",
+    "[• Was the defendant in a position to facilitate or to prevent the death?]",
+    "[• Did the defendant’s action or inaction play a role in the death?]",
+    "[• What did the defendant do after lethal force was used?]",
+    "[• ______ <insert any other relevant factors.>]]",
+    "If the defendant was not the actual killer, then the People have the burden of proving beyond a reasonable doubt that (he/she) acted with either the intent to kill or with reckless indifference to human life and was a major participant in the crime for the special circumstance[s] of ______ <insert felony murder special circumstance[s]> to be true. If the People have not met this burden, you must find (this/these) special circumstance[s] (has/have) not been proved true [for that defendant]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    0.0,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury on the mental state required for accomplice liability when a special circumstance is charged and there is sufficient evidence to support the finding that the defendant was not the actual killer. (See *People v. Jones* (2003) 30 Cal.4th 1084, 1117 [135 Cal.Rptr.2d 370, 70 P.3d 359].) If there is sufficient evidence to show that the defendant may have been an accomplice and not the actual killer, the court has a sua sponte duty to give the accomplice intent instruction, regardless of the prosecution’s theory of the case. *(Ibid.)*"
+      },
+      {
+        "text": "Do not give this instruction when giving CALCRIM No. 731, *Special Circumstances: Murder in Commission of Felony-Kidnapping With Intent to Kill After March 8, 2000* or CALCRIM No. 732, *Special Circumstances: Murder in Commission of Felony-Arson With Intent to Kill*. (*People v. Odom* (2016) 244 Cal.App.4th 237, 256–257 [197 Cal.Rptr.3d 774].)"
+      },
+      {
+        "text": "When multiple special circumstances are charged, one or more of which require intent to kill, the court may need to modify this instruction."
+      },
+      {
+        "text": "Proposition 115 modified the intent requirement of the special circumstance law, codifying the decisions of *People v. Anderson* (1987) 43 Cal.3d 1104, 1147 [240 Cal.Rptr. 585, 742 P.2d 1306], and *Tison v. Arizona* (1987) 481 U.S. 137, 157–158 [107 S.Ct. 1676, 95 L.Ed.2d 127]. The current law provides that the actual killer does not have to act with intent to kill unless the special circumstance specifically requires intent. (Pen. Code, § 190.2(b).) If the felony-murder special circumstance is charged, then the People must prove that a defendant who was not the actual killer was a major participant and acted with intent to kill or with reckless indifference to human life. (Pen. Code, § 190.2(d); *People v. Banks* (2015) 61 Cal.4th 788, 807–809 [189 Cal.Rptr.3d 208, 351 P.3d 330]; *People v. Estrada* (1995) 11 Cal.4th 568, 571 [46 Cal.Rptr.2d 586, 904 P.2d 1197].)"
+      },
+      {
+        "text": "Use this instruction for any case in which the jury could conclude that the defendant was an accomplice to a killing that occurred after June 5, 1990, when the felony-murder special circumstance is charged."
+      },
+      {
+        "text": "Give the bracketed paragraph stating that the People do not have to prove intent to kill or reckless indifference on the part of the actual killer if there is a codefendant alleged to be the actual killer or if the jury could convict the defendant as either the actual killer or an accomplice."
+      },
+      {
+        "text": "If the jury could convict the defendant either as a principal or as an accomplice, the jury must find intent to kill or reckless indifference if they cannot agree that the defendant was the actual killer. (*People v. Jones, supra,* 30 Cal.4th at p. 1117.) In such cases, the court should give both the bracketed paragraph stating that the People do not have to prove intent to kill or reckless indifference on the part of the actual killer, and the bracketed paragraph that begins with “[I]f you decide that the defendant is guilty of first degree murder, but you cannot agree whether the defendant was the actual killer . . . .”"
+      },
+      {
+        "text": "In *People v. Banks, supra,* 61 Cal.4th at pp. 803–808, the court identified certain factors to guide the jury in its determination of whether the defendant was a major participant, but stopped short of holding that the court has a sua sponte duty to instruct on those factors. The trial court should determine whether the *Banks* factors need be given."
+      },
+      {
+        "text": "The court does not have a sua sponte duty to define “reckless indifference to human life.” (*People v. Estrada, supra,* 11 Cal.4th at p. 578.) However, this “holding should not be understood to discourage trial courts from amplifying the statutory language for the jury.” (*Id*. at p. 579.) The court may give the bracketed definition of reckless indifference if requested."
+      },
+      {
+        "text": "In *People v. Clark* (2016) 63 Cal.4th 522, 614–620 [203 Cal.Rptr.3d 407, 372 P.3d 811], the court identified certain factors to guide the jury in its determination of whether the defendant acted with reckless indifference to human life but did not hold that the court has a sua sponte duty to instruct on those factors. *Clark* noted that these factors had been applied by appellate courts “in cases involving nonshooter aiders and abettors to commercial armed robbery felony murders.” (*Id.* at p. 618.) The trial court should determine whether the *Clark* factors need be given."
+      },
+      {
+        "text": "Do not give this instruction if accomplice liability is not at issue in the case."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Accomplice Intent Requirement, Felony Murder. Pen. Code, § 190.2(d)."
+      },
+      {
+        "text": "• Reckless Indifference to Human Life. *People v. Emanuel* (2025) 17 Cal.5th 867, 881–885 [333 Cal.Rptr.3d 1, 569 P.3d 372]; *In re Scoggins* (2020) 9 Cal.5th 667, 676–677 [264 Cal.Rptr.3d 804, 467 P.3d 198]; *People v. Clark, supra,* 63 Cal.4th at pp. 614–620; *People v. Banks, supra,* 61 Cal.4th at pp. 807–811; *Tison v. Arizona, supra,* 481 U.S. at pp. 157–158."
+      },
+      {
+        "text": "• Constitutional Standard for Intent by Accomplice. *Tison v. Arizona, supra,* 481 U.S. at pp. 157–158."
+      },
+      {
+        "text": "• Major Participant. *People v. Banks, supra,* 61 Cal.4th at pp. 803–808."
+      },
+      {
+        "text": "• Defendant’s Youth Can Be Relevant Factor When Determining Reckless Indifference. *People v. Jimenez* (2024) 103 Cal.App.5th 994, 1001–1008 [323 Cal.Rptr.3d 549]; *People v. Oliver* (2023) 90 Cal.App.5th 466, 485–488 [307 Cal.Rptr.3d 6]; *People v. Jones* (2022) 86 Cal.App.5th 1076, 1091–1093 [302 Cal.Rptr.3d 847] [20-year-old defendant]; *People v. Keel* (2022) 84 Cal.App.5th 546, 558–559 [300 Cal.Rptr.3d 483] [juvenile defendant]; *People v. Mitchell* (2022) 81 Cal.App.5th 575, 591–595 [297 Cal.Rptr.3d 223]; *In re Harper* (2022) 76 Cal.App.5th 450, 466–470 [291 Cal.Rptr.3d 543]; *People v. Ramirez* (2021) 71 Cal.App.5th 970, 987 [286 Cal.Rptr.3d 771] [juvenile defendant]; *In re Moore* (2021) 68 Cal.App.5th 434, 454 [283 Cal.Rptr.3d 584] [juvenile defendant]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

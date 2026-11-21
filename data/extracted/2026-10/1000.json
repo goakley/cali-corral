@@ -1,0 +1,235 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1000",
+  "title": "Rape by Force, Fear, or Threats (Pen. Code, § 261(a)(2), (6) & (7))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      811,
+      816
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, February 2014, March 2022, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with rape by force [in violation of Penal Code section 261(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant had sexual intercourse with another person;",
+    "2. The other person did not consent to the intercourse;",
+    "AND",
+    "3. The defendant accomplished the intercourse by",
+    "<Alternative 3A—force or fear>",
+    "[force, violence, duress, menace, or fear of immediate and unlawful bodily injury to the person or to someone else.]",
+    "<Alternative 3B—future threats of bodily harm>",
+    "[threatening to retaliate in the future against the person or someone else when there was a reasonable possibility that the defendant would carry out the threat. A *threat to retaliate* is a threat to kidnap, falsely imprison, or inflict extreme pain, serious bodily injury, or death.]",
+    "<Alternative 3C—threat of official action>",
+    "[threatening to use the authority of a public office to incarcerate, arrest, or deport someone. A *public official* is a person employed by federal, state, or local government who has authority to incarcerate, arrest, or deport. ______ <insert name of alleged victim> must have reasonably believed that the defendant was a public official even if the defendant was not.]",
+    "*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]",
+    "[To *consent,* a person must know the nature of the act or transaction involved, act freely and voluntarily, and positively cooperate by act or attitude.]",
+    "[A person who initially consents to an act of intercourse may change (his/her) mind during the act. If (he/she) does so, under the law, the act of intercourse is then committed without (his/her) consent if:",
+    "1. (He/She) communicated through words or acts to the defendant that (he/she) no longer consented to the act of intercourse;",
+    "2. A reasonable person would have understood that (his/her) words or acts expressed (his/her) lack of consent;",
+    "AND",
+    "3. The defendant forcibly continued the act of intercourse despite (his/her) objection.]",
+    "[It is not required that (he/she) physically resist or fight back in order to communicate (his/her) lack of consent.]",
+    "[Evidence that the defendant and the other person (dated/were married/had been married) is not enough by itself to constitute consent.]",
+    "[Evidence that the other person (requested/suggested/communicated) that the defendant use a condom or other birth control device is not enough by itself to constitute consent.]",
+    "[Intercourse is *accomplished by force* if a person uses enough physical force to overcome the other person’s will.]",
+    "[*Duress* means a direct or implied threat of force, violence, danger, or retribution that would cause a reasonable person to do [or submit to] something that (he/she) would not do [or submit to] otherwise. When deciding whether the act was accomplished by duress, consider all the circumstances, including the other person’s age and relationship to the defendant.]",
+    "[*Retribution* is a form of payback or revenge.]",
+    "[*Menace* means a threat, statement, or act showing an intent to injure someone.]",
+    "[Intercourse is *accomplished by fear* if the other person is actually and reasonably afraid [or is actually but unreasonably afraid and the defendant knows of the other person’s fear and takes advantage of it].]",
+    "[The other person must be alive at the time of the sexual intercourse for the crime of rape to occur.]",
+    "<Defense: Reasonable Belief in Consent>",
+    "[The defendant is not guilty of rape if he actually and reasonably believed that the other person consented to the intercourse [and actually and reasonably believed that (he/she) consented throughout the act of intercourse]. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the other person consented. If the People have not met this burden, you must find the defendant not guilty.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of rape."
+      },
+      {
+        "text": "Penal Code section 261, as amended by Assembly Bill 1171 (Stats. 2021, ch. 626), became effective on January 1, 2022. If the defendant’s alleged act occurred before this date, the court should give the prior version of this instruction."
+      },
+      {
+        "text": "The court should select the appropriate alternative in element 3 describing how the sexual intercourse was allegedly accomplished."
+      },
+      {
+        "text": "Rape requires that the victim be alive at the moment of intercourse. (*People v. Ramirez* (1990) 50 Cal.3d 1158, 1175–1177 [270 Cal.Rptr. 286, 791 P.2d 965]; *People v. Carpenter* (1997) 15 Cal.4th 312, 391 [63 Cal.Rptr.2d 1, 935 P.2d 708].) Intercourse with a deceased victim may constitute attempted rape if the defendant intended to rape a live victim. (*People v. Kelly* (1992) 1 Cal.4th 495, 524–526 [3 Cal.Rptr.2d 677, 822 P.2d 385].) If this is an issue in the case, give the bracketed sentence that begins with “The other person must be alive . . .”"
+      },
+      {
+        "text": "The defendant must continue to actually and reasonably believe in the victim’s consent throughout the act. If the act of intercourse begins consensually and the victim then changes his or her mind, the victim must clearly and unequivocally communicate to the defendant his or her withdrawal of consent to the act. If, however, the defendant initiates the use of nonconsensual duress, menace, or force during the act, the victim’s subsequent withdrawal of consent to the act may be inferred from the circumstances and need not be expressed. (*People v. Ireland* (2010) 188 Cal.App.4th 328, 338 [114 Cal.Rptr.3d 915]). If there is an issue regarding the defendant’s continued belief in the victim’s consent, give the second optional first sentence in the definition of “*Defense: Reasonable Belief in Consent.*”"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of reasonable belief in consent if there is “substantial evidence of equivocal conduct that would have led a defendant to reasonably and in good faith believe consent existed where it did not.” (See *People v. Williams* (1992) 4 Cal.4th 354, 362 [14 Cal.Rptr.2d 441, 841 P.2d 961]; *People v. Mayberry* (1975) 15 Cal.3d 143, 153–158 [125 Cal.Rptr. 745, 542 P.2d 1337].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 1001, *Rape in Concert*, may be given in conjunction with this instruction, if appropriate."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 261(a)(2), (6) & (7)."
+      },
+      {
+        "text": "• “Consent” Defined. Pen. Code, §§ 261.6, 261.7."
+      },
+      {
+        "text": "• “Duress” Defined. Pen. Code, § 261(b)."
+      },
+      {
+        "text": "• “Menace” Defined. Pen. Code, § 261(c)."
+      },
+      {
+        "text": "• “Penetration” Defined. Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585, 600 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      },
+      {
+        "text": "• “Fear” Defined. *People v. Iniguez* (1994) 7 Cal.4th 847, 856–857 [30 Cal.Rptr.2d 258, 872 P.2d 1183] [level of fear]."
+      },
+      {
+        "text": "• “Force” Defined. *People v. Griffin* (2004) 33 Cal.4th 1015, 1023–1024 [16 Cal.Rptr.3d 891, 94 P.3d 1089]."
+      },
+      {
+        "text": "• Reasonable Person Standard for Duress Includes Victim’s Religious Indoctrination. *People v. Townes* (2025) 108 Cal.App.5th 603 [329 Cal.Rptr.3d 427]."
+      },
+      {
+        "text": "• Mistake of Fact Regarding Consent. *People v. Mayberry*, *supra*, 15 Cal.3d at pp. 153–158; *People v. May* (1989) 213 Cal.App.3d 118, 124 [261 Cal.Rptr. 502]."
+      },
+      {
+        "text": "• Circumstances Requiring *Mayberry* Instruction. *People v. Dominguez* (2006) 39 Cal.4th 1141 [47 Cal.Rptr.3d 575, 140 P.3d 866]."
+      },
+      {
+        "text": "• Withdrawal of Consent. *In re John Z.* (2003) 29 Cal.4th 756, 760 [128 Cal.Rptr.2d 783, 60 P.3d 183]."
+      },
+      {
+        "text": "• Inferring Lack of Consent From Circumstances. *People v. Ireland* (2010) 188 Cal.App.4th 328, 338 [114 Cal.Rptr.3d 915]."
+      },
+      {
+        "text": "• Victim Need Not Resist. *People v. Barnes* (1986) 42 Cal.3d 284, 297–302 [228 Cal.Rptr. 228, 721 P.2d 110]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "“[T]he offense of forcible rape occurs when, during apparently consensual intercourse, the victim expresses an objection and attempts to stop the act and the defendant forcibly continues despite the objection . . . . ‘[I]t is immaterial at what point the victim withdraws her consent, so long as that withdrawal is communicated to the male and he thereafter ignores it.’ ” (*In re John Z.*, *supra*, 29 Cal.4th at p. 760.)"
+      },
+      {
+        "text": "The instruction includes definitions of “duress,” “menace,” and the sufficiency of “fear” because those terms have meanings in the context of rape that are technical and may not be readily apparent to jurors. (See Pen. Code, §§ 262(b) [duress] and (c) [menace]; *People v. Iniguez*, *supra*, 7 Cal.4th at pp. 856–857 [fear].)"
+      },
+      {
+        "text": "The term “force” as used in the rape statutes does not have a specialized meaning and court is not required to define the term sua sponte. (*People v. Griffin*, *supra*, 33 Cal.4th at pp. 1023–1024.) In *People v. Griffin*, the Supreme Court further stated, Nor is there anything in the common usage definitions of the term “force,” or in the express statutory language of section 261 itself, that suggests force in a forcible rape prosecution actually means force “*substantially* different from or *substantially* greater than” the physical force normally inherent in an act of consensual sexual intercourse. [*People v. Cicero* (1984) 157 Cal.App.3d 465, 474 [204 Cal.Rptr. 582].] To the contrary, it has long been recognized that “in order to establish force within the meaning of section 261, subdivision (2), the prosecution need only show the defendant used physical force of a degree sufficient to support a finding that the act of sexual intercourse was against the will of the [victim].” (*People v. Young* (1987) 190 Cal.App.3d 248, 257–258 [235 Cal.Rptr. 361] . . . .)"
+      },
+      {
+        "text": "(*Ibid.* [emphasis in original].)"
+      },
+      {
+        "text": "The committee has provided a bracketed definition of “force,” consistent with *People v. Griffin*, *supra*, 33 Cal.4th at pp. 1023–1024, that the court may give on request."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      },
+      {
+        "text": "• Assault With Intent to Commit Rape. Pen. Code, § 220; *In re Jose M.* (1994) 21 Cal.App.4th 1470, 1477 [27 Cal.Rptr.2d 55]; *People v. Moran* (1973) 33 Cal.App.3d 724, 730 [109 Cal.Rptr. 287] [where forcible rape is charged]."
+      },
+      {
+        "text": "• Attempted Rape. Pen. Code, §§ 663, 261."
+      },
+      {
+        "text": "• Battery. Pen. Code, § 242; *People v. Guiterrez* (1991) 232 Cal.App.3d 1624, 1636 [284 Cal.Rptr. 230], disapproved on other grounds in *People v. Cromer* (2001) 24 Cal.4th 889, 901, fn. 3 [103 Cal.Rptr.2d 23, 15 P.3d 243]; but see *People v. Marshall* (1997) 15 Cal.4th 1, 38–39 [61 Cal.Rptr.2d 84, 931 P.2d 262] [battery not a lesser included of attempted rape]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Consent Obtained by Fraudulent Representation"
+      },
+      {
+        "text": "A person may also induce someone else to consent to engage in sexual intercourse by a false or fraudulent representation made with an intent to create fear, and which does induce fear and would cause a reasonable person to act contrary to his or her free will. (Pen. Code, § 266c.) While section 266c requires coercion and fear to obtain consent, it does not involve physical force or violence. (See *People v. Cardenas* (1994) 21 Cal.App.4th 927, 937–938 [26 Cal.Rptr.2d 567] [rejecting defendant’s argument that certain acts were consensual and without physical force, and were only violations of section 266c].)"
+      },
+      {
+        "heading": true,
+        "text": "Minor Victim and Unanimity"
+      },
+      {
+        "text": "“Generic testimony” by a victim who was 15 and 16 years old does not deprive a defendant of a due process right to defend against the charges. If the victim “specifies the type of conduct involved, its frequency, and that the conduct occurred during the limitation period, nothing more is required to establish the substantiality of the victim’s testimony.” (*People v. Matute* (2002) 103 Cal.App.4th 1437, 1446 [127 Cal.Rptr.2d 472] [affirming conviction for multiple counts of rape under Pen. Code, § 261(a)(2); citing *People v. Jones* (1990) 51 Cal.3d 294, 316 [270 Cal.Rptr. 611, 792 P.2d 643]].)"
+      },
+      {
+        "text": "When there is no reasonable likelihood the jury will disagree on particular acts of molestation, and the only question is whether or not the defendant in fact committed all of them, the jury should be given a modified unanimity instruction which, in addition to allowing a conviction if the jurors unanimously agree on specific acts, also allows a conviction if the jury unanimously agrees the defendant committed all the acts described by the victim. (*People v. Matute, supra,* 103 Cal.App.4th at p. 1448; *People v. Jones, supra,* 51 Cal.3d at pp. 321–322; see CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*.)"
+      },
+      {
+        "heading": true,
+        "text": "Mistake-of-Fact Defense and Developmental Disability"
+      },
+      {
+        "text": "A defendant cannot base a reasonable-belief-of-consent defense on the fact that he is developmentally disabled and, as a result, did not act as a reasonable person would have acted. (*People v. Castillo* (1987) 193 Cal.App.3d 119, 124–125 [238 Cal.Rptr. 207].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Rapes"
+      },
+      {
+        "text": "A penetration, however slight, completes the crime of rape; therefore a separate conviction is proper for each penetration that occurs. (*People v. Harrison* (1989) 48 Cal.3d 321, 329–334 [256 Cal.Rptr. 401, 768 P.2d 1078].)"
+      },
+      {
+        "heading": true,
+        "text": "Resistance Is Not Required"
+      },
+      {
+        "text": "Resistance by the victim is not required for rape; any instruction to that effect is erroneous. (*People v. Barnes*, *supra*, 42 Cal.3d at pp. 292, 302.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

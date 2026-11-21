@@ -1,0 +1,65 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "337",
+  "title": "Witness in Custody or Physically Restrained",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      188,
+      189
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "<Alternative A—physically restrained>",
+    "[When ______ <insert name[s] of witness[es]> testified, (he/she/they) (was/were) physically restrained. Do not speculate about the reason. You must completely disregard this circumstance in deciding the issues in this case. Do not consider it for any purpose or discuss it during your deliberations. Evaluate the witness’s testimony according to the instructions I have given you.]",
+    "<Alternative B—in custody>",
+    "[When ______ <insert name[s] of witness[es]> testified, (he/she/they) (was/were) in custody. [Do not speculate about the reason.] The fact that a witness is in custody does not by itself make a witness more or less believable. Evaluate the witness’s testimony according to the instructions I have given you.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if the witness has been physically restrained in a manner that is visible to the jury. (See *People v. Duran* (1976) 16 Cal.3d 282, 291–292 [127 Cal.Rptr. 618, 545 P.2d 1322]; *Wilson v. McCarthy* (9th Cir. 1985) 770 F.2d 1482, 1485; *People v. Metzger* (1904) 143 Cal. 447, 448 [77 P. 155].) If the restraints are not visible, do not give this instruction unless requested. For an in-custody witness, give this instruction on request."
+      },
+      {
+        "text": "Do not give this instruction for an in-custody informant unless the witness is also physically restrained. When an in-custody informant testifies, the court must give CALCRIM No. 336, *In-Custody Informant*. For an in-custody informant, the court may only give this instruction if it is limited to the issue of physical restraints."
+      },
+      {
+        "text": "In alternative B, always give the bracketed sentence that begins with “Do not speculate” unless the jury has been informed of the reason the witness is in custody."
+      },
+      {
+        "text": "The rules articulated in *People v. Duran* (1976) 16 Cal.3d 282, 290–292 [127 Cal.Rptr. 618, 545 P.2d 1322] regarding physical restraints of a defendant at trial also apply to physical restraint of a defense witness. (*Id.* at p. 288, fn. 4.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Duty. *People v. Duran* (1976) 16 Cal.3d 282, 291–292 [127 Cal.Rptr. 618, 545 P.2d 1322]; *Wilson v. McCarthy* (9th Cir. 1985) 770 F.2d 1482, 1485; *People v. Metzger* (1904) 143 Cal. 447, 448 [77 P. 155]."
+      },
+      {
+        "text": "• Requirements Before Restraints Used. *People v. Duran* (1976) 16 Cal.3d 282, 290–292 [127 Cal.Rptr. 618, 545 P.2d 1322]; *People v. Mar* (2002) 28 Cal.4th 1201, 1218 [124 Cal.Rptr.2d 161, 52 P.3d 95]."
+      },
+      {
+        "text": "• Use of Stun Belts. *People v. Mar* (2002) 28 Cal.4th 1201, 1205–1206 [124 Cal.Rptr.2d 161, 52 P.3d 95]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

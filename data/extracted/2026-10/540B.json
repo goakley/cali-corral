@@ -1,0 +1,261 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "540B",
+  "title": "Felony Murder: First Degree—Coparticipant Allegedly Committed Fatal Act (Pen. Code, § 189)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      360,
+      367
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2010, August 2013, February 2015, September 2019, April 2020, September 2020, September 2023, February 2025,* February 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries",
+  "body": [
+    "<Give the following introductory sentence when not giving CALCRIM No. 540A.>",
+    "[The defendant is charged [in Count ______] with murder, under a theory of first degree felony murder.]",
+    "The defendant may [also] be guilty of murder, under a theory of felony murder, even if another person did the act that resulted in the death. I will call the other person the *perpetrator.*",
+    "To prove that the defendant is guilty of first degree murder under this theory, the People must prove that:",
+    "1. The defendant (committed [or attempted to commit][,]/[or] aided and abetted[,]/[or] was a member of a conspiracy to commit) ______ <insert felony or felonies from Pen. Code, § 189>;",
+    "2. The defendant (intended to commit[,]/[or] intended to aid and abet the perpetrator in committing[,]/[or] intended that one or more of the members of the conspiracy commit) ______ <insert felony or felonies from Pen. Code, § 189>;",
+    "3. If the defendant did not personally commit [or attempt to commit] ______ <insert felony or felonies from Pen. Code, § 189>, then a perpetrator, (whom the defendant was aiding and abetting/[or] with whom the defendant conspired), committed [or attempted to commit] ______ <insert felony or felonies from Pen. Code, § 189>;",
+    "4. While committing [or attempting to commit] ______ <insert felony or felonies from Pen. Code, § 189>, the perpetrator caused the death of another person;",
+    "4. <Alternative for Pen. Code, § 189(e)(2) and (e)(3) liability>",
+    "[5A. The defendant intended to kill;",
+    "[5A. AND",
+    "[5B. The defendant (aided and abetted[,])/[or] counseled[,]/[or] commanded[,]/[or] induced[,]/[or] solicited[,]/[or] requested[,]/[or] assisted) the perpetrator in the commission of first degree murder(./;)]",
+    "[5B. OR",
+    "[(5A/6A). The defendant was a major participant in the______ <insert felony or felonies from Pen. Code, § 189>;",
+    "[(5A/6A). AND",
+    "(5B/6B). When the defendant participated in the ______ <insert felony or felonies from Pen. Code, § 189>, (he/she) acted with reckless indifference to human life(./;)]",
+    "(5B/6B). OR",
+    "(5B/6B). <Alternative for Pen. Code, § 189(f) liability>",
+    "[(5A/6A/7A). ______ <insert officer’s name, excluding title> was a peace officer lawfully performing (his/her) duties as a peace officer;",
+    "[(5A/6A/7A). AND",
+    "(5B/6B/7B). When the defendant acted, (he/she) knew, or reasonably should have known, that ______ <insert officer’s name, excluding title> was a peace officer performing (his/her) duties.]",
+    "[A person may be guilty of felony murder of a peace officer even if the killing was unintentional, accidental, or negligent.]",
+    "To decide whether (the defendant/[and] the perpetrator) committed [or attempted to commit] ______ <insert felony or felonies from Pen. Code, § 189>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s]. [To decide whether the defendant aided and abetted a crime, please refer to the separate instructions that I (will give/have given) you on aiding and abetting.] [To decide whether the defendant was a member of a conspiracy to commit a crime, please refer to the separate instructions that I (will give/have given) you on conspiracy.] You must apply those instructions when you decide whether the People have proved first degree murder under a theory of felony murder.",
+    "[The defendant must have (intended to commit[,]/[or] aid and abet[,]/[or] been a member of a conspiracy to commit) the (felony/felonies) of ______ *insert felony or felonies from Pen. Code, § 189* before or at the time of the death.]",
+    "[It is not required that the person die immediately, as long as the act causing death occurred while the defendant was committing the (felony/felonies).]",
+    "[It is not required that the person killed be the (victim/intended victim) of the (felony/felonies).]",
+    "[It is not required that the defendant be present when the act causing the death occurs.]",
+    "[You may not find the defendant guilty of felony murder unless all of",
+    "you agree that the defendant or a perpetrator caused the death of another. You do not all need to agree, however, whether the defendant or a perpetrator caused that death.]",
+    "<The following instructions can be given when reckless indifference and major participant under Pen. Code, § 189(e)(3) applies.>",
+    "[A person *acts with reckless indifference to human life* when he or she engages in criminal activity that a reasonable person would know involves a grave risk of death and he or she knows that the activity involves a grave risk of death.]",
+    "[When you decide whether the defendant acted with *reckless indifference to human life*, consider all the evidence. No one of the following factors is necessary, nor is any one of them necessarily enough, to determine whether the defendant acted with reckless indifference to human life. Among the factors you may consider are:",
+    "[• Did the defendant know that [a] lethal weapon[s] would be present during the ______ <insert underlying felony>?]",
+    "[• Did the defendant know that [a] lethal weapon[s] (was/were) likely to be used?]",
+    "[• Did the defendant know that [a] lethal weapon[s] (was/were) used?]",
+    "[• Did the defendant know the number of weapons involved?]",
+    "[• Was the defendant near the person(s) killed when the killing occurred?]",
+    "[• Did the defendant have an opportunity to stop the killing or to help the victim(s)?]",
+    "[• How long did the crime last?]",
+    "[• Was the defendant aware of anything that would make a coparticipant likely to kill?]",
+    "[• Did the defendant try to minimize the possibility of violence?]",
+    "[• How old was the defendant?]",
+    "[• ______ <insert any other relevant factors>]]",
+    "[When you decide whether the defendant was a *major participant*, consider all the evidence. No one of the following factors is necessary, nor is any one of them necessarily enough, to determine whether the defendant was a major participant. Among the factors you may consider are:",
+    "[• What was the defendant’s role in planning the crime that led to the death[s]?]",
+    "[• What was the defendant’s role in supplying or using lethal weapons?]",
+    "[• What did the defendant know about dangers posed by the crime, any weapons used, or past experience or conduct of the other participant[s]?]",
+    "[• Was the defendant in a position to facilitate or to prevent the death?]",
+    "[• Did the defendant’s action or inaction play a role in the death?]",
+    "[• What did the defendant do after lethal force was used?]",
+    "[• ______ <insert any other relevant factors>]]",
+    "<Give the following instructions when Pen. Code, § 189(f) applies.>",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a peace officer.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a peace officer if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[The duties of (a/an) ______ <insert title of peace officer> include ______ <insert job duties>.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    6.3,
+    6.3,
+    7.0,
+    7.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    0.0,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    19.8,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime. The court also has a sua sponte duty to instruct on the elements of any underlying felonies. (*People v. Cain* (1995) 10 Cal.4th 1, 36 [40 Cal.Rptr.2d 481, 892 P.2d 1224].)"
+      },
+      {
+        "text": "If the facts raise an issue whether the homicidal act caused the death, the court has a sua sponte duty to give CALCRIM No. 240, *Causation*."
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on aiding and abetting when the prosecutor relies on it as a theory of culpability. (*People v. Beeman* (1984) 35 Cal.3d 547, 560–561 [199 Cal.Rptr. 60, 674 P.2d 1318].) The court has a sua sponte duty to instruct on conspiracy when the prosecution has introduced evidence of a conspiracy to prove liability for other offenses. (See, e.g., *People v. Pike* (1962) 58 Cal.2d 70, 88 [22 Cal.Rptr. 664, 372 P.2d 656]; *People v. Ditson* (1962) 57 Cal.2d 415, 447 [20 Cal.Rptr. 165, 369 P.2d 714].)"
+      },
+      {
+        "text": "Give all appropriate instructions on all underlying felonies, aiding and abetting, and conspiracy."
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant, as well as the perpetrator, committed or attempted to commit the underlying felony or felonies, then select “committed [or attempted to commit]” in element 1 and “intended to commit” in element 2. In addition, in the paragraph that begins with “To decide whether,” select both “the defendant and the perpetrator.” Give all appropriate instructions on any underlying felonies with this instruction. The court may need to modify the first sentence of the instruction on an underlying felony if the defendant is not separately charged with that offense. The court may also need to modify the instruction to state “the defendant and the perpetrator each committed [the crime] if . . . .”"
+      },
+      {
+        "text": "If the prosecution’s theory is that the defendant aided and abetted or conspired to commit the felony, select one or both of these options in element 1 and the corresponding intent requirements in element 2. In addition, in the paragraph that begins with “To decide whether,” select “the perpetrator” in the first sentence. Give the second and/or third bracketed sentences. Give all appropriate instructions on any underlying felonies and on aiding and abetting and/or conspiracy with this instruction. The court may need to modify the first sentence of the instruction on an underlying felony if the defendant is not separately charged with that offense. The court may also need to modify the instruction to state “the perpetrator committed,” rather than “the defendant,” in the instructions on the underlying felony."
+      },
+      {
+        "text": "If the defendant was a nonkiller who fled, leaving behind an accomplice who killed, see *People v. Cavitt* (2004) 33 Cal.4th 187, 206, fn. 7 [14 Cal.Rtpr.3d 281, 91 P.3d 222] [continuous transaction] and the discussion of *Cavitt* in *People v. Wilkins* (2013) 56 Cal.4th 333, 344 [153 Cal.Rptr.3d 519, 295 P.3d 903]."
+      },
+      {
+        "text": "If there is evidence that the defendant did not form the intent to commit the felony until after the homicide, or did not join the conspiracy or aid and abet the felony until after the homicide, the defendant is entitled on request to an instruction pinpointing this issue. (*People v. Hudson* (1955) 45 Cal.2d 121, 124–127 [287 P.2d 497]; *People v. Silva* (2001) 25 Cal.4th 345, 371 [106 Cal.Rptr.2d 93, 21 P.3d 769].) Give the bracketed sentence that begins with “The defendant must have (intended to commit.” For an instruction specially tailored to robbery-murder cases, see *People v. Turner* (1990) 50 Cal.3d 668, 691 [268 Cal.Rptr. 706, 789 P.2d 887]."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “It is not required that the person die immediately” on request if relevant based on the evidence."
+      },
+      {
+        "text": "The felony-murder rule does not require that the person killed be the victim of the underlying felony. (*People v. Johnson* (1972) 28 Cal.App.3d 653, 658 [104 Cal.Rptr. 807] [accomplice]; *People v. Welch* (1972) 8 Cal.3d 106, 117–119 [104 Cal.Rptr. 217, 501 P.2d 225] [innocent bystander]; *People v. Salas* (1972) 7 Cal.3d 812, 823 [103 Cal.Rptr. 431, 500 P.2d 7] [police officer].) Give the bracketed sentence that begins with “It is not required that the person killed be” on request."
+      },
+      {
+        "text": "Give the last bracketed sentence, stating that the defendant need not be present, on request."
+      },
+      {
+        "text": "If the prosecutor is proceeding under both malice and felony-murder theories, or is proceeding under multiple felony-murder theories, give CALCRIM No. 548, *Murder: Alternative Theories*. If the prosecutor is relying only on a theory of felony murder, no instruction on malice should be given. (See *People v. Cain, supra,* 10 Cal.4th at pp. 35–37 [error to instruct on malice when felony murder only theory].)"
+      },
+      {
+        "text": "There is no sua sponte duty to clarify the logical nexus between the felony and the homicidal act. If an issue about the logical nexus requirement arises, the court may give the following language:"
+      },
+      {
+        "text": "There must be a logical connection between the cause of death and the ______ <insert felony or felonies from Pen. Code, § 189> [or attempted ______ <insert felony or felonies from Pen. Code, § 189>]. The connection between the cause of death and the ______ <insert felony or felonies from Pen. Code, § 189> [or attempted ______ <insert felony or felonies from Pen. Code, § 189>] must involve more than just their occurrence at the same time and place."
+      },
+      {
+        "text": "*People v. Cavitt, supra,* 33 Cal.4th at pp. 203–204; *People v. Wilkins, supra,* 56 Cal.4th at p. 347."
+      },
+      {
+        "text": "In *People v. Banks* (2015) 61 Cal.4th 788, 803–808 [189 Cal.Rptr.3d 208, 351 P.3d 330], the court identified certain factors to guide the jury in its determination of whether the defendant was a major participant but stopped short of holding that the court has a sua sponte duty to instruct on those factors. The trial court should determine whether the *Banks* factors need be given."
+      },
+      {
+        "text": "The court does not have a sua sponte duty to define “reckless indifference to human life.” (*People v. Estrada* (1995) 11 Cal.4th 568, 578 [46 Cal.Rptr.2d 586, 904 P.2d 1197].) However, this “holding should not be understood to discourage trial courts from amplifying the statutory language for the jury.” (*Id*. at p. 579.) The court may give the bracketed definition of reckless indifference if requested."
+      },
+      {
+        "text": "In *People v. Clark* (2016) 63 Cal.4th 522, 614–620 [203 Cal.Rptr.3d 407, 372 P.3d 811], the court identified certain factors to guide the jury in its determination of whether the defendant acted with reckless indifference to human life but did not hold that the court has a sua sponte duty to instruct on those factors. *Clark* noted that these factors had been applied by appellate courts “in cases involving nonshooter aiders and abettors to commercial armed robbery felony murders.” (*Id.* at p. 618.) The trial court should determine whether the *Clark* factors need be given."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions—Other Causes of Death"
+      },
+      {
+        "text": "This instruction should be used only when the prosecution alleges that a coparticipant in the felony committed the act causing the death."
+      },
+      {
+        "text": "When the alleged victim dies during the course of the felony as a result of a heart attack, a fire, or a similar cause, rather than as a result of some act of force or violence committed against the victim by one of the participants, give CALCRIM No. 540C, *Felony Murder: First Degree-Other Acts Allegedly Caused Death*. (Cf. *People v. Billa* (2003) 31 Cal.4th 1064, 1072 [6 Cal.Rptr.3d 425, 79 P.3d 542]; *People v. Stamp* (1969) 2 Cal.App.3d 203, 209–211 [82 Cal.Rptr. 598]; *People v. Hernandez* (1985) 169 Cal.App.3d 282, 287 [215 Cal.Rptr. 166]; but see *People v. Gunnerson* (1977) 74 Cal.App.3d 370, 378–381 [141 Cal.Rptr. 488] [simultaneous or coincidental death is not killing].)"
+      },
+      {
+        "text": "If the evidence indicates that someone other than the defendant or a coparticipant committed the fatal act, then the crime is not felony murder. (*People v. Washington* (1965) 62 Cal.2d 777, 782–783 [44 Cal.Rptr. 442, 402 P.2d 130]; *People v. Caldwell* (1984) 36 Cal.3d 210, 216 [203 Cal.Rptr. 433, 681 P.2d 274]; see also *People v. Gardner* (1995) 37 Cal.App.4th 473, 477 [43 Cal.Rptr.2d 603].) Liability may be imposed, however, under the provocative act doctrine. (*Pizano v. Superior Court of Tulare County* (1978) 21 Cal.3d 128, 134 [145 Cal.Rptr. 524, 577 P.2d 659]; see CALCRIM No. 560, *Homicide: Provocative Act by Defendant*.)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 400 et seq., *Aiding and Abetting: General Principles*."
+      },
+      {
+        "text": "CALCRIM No. 415 et seq., *Conspiracy*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Felony Murder: First Degree. Pen. Code, § 189."
+      },
+      {
+        "text": "• Specific Intent to Commit Felony Required. *People v. Gutierrez* (2002) 28 Cal.4th 1083, 1140 [124 Cal.Rptr.2d 373, 52 P.3d 572]."
+      },
+      {
+        "text": "• Infliction of Fatal Injury. *People v. Alvarez* (1996) 14 Cal.4th 155, 222–223 [58 Cal.Rptr.2d 385, 926 P.2d 365]."
+      },
+      {
+        "text": "• Defendant Must Join Felonious Enterprise Before or During Killing of Victim. *People v. Pulido* (1997) 15 Cal.4th 713, 726 [63 Cal.Rptr.2d 625, 936 P.2d 1235]."
+      },
+      {
+        "text": "• Logical Nexus Between Felony and Killing. *People v. Dominguez* (2006) 39 Cal.4th 1141; *People v. Cavitt, supra,* 33 Cal.4th at pp. 197–206."
+      },
+      {
+        "text": "• Merger Doctrine Does Not Apply to First Degree Felony Murder. *People v. Farley* (2009) 46 Cal.4th 1053, 1118–1120 [96 Cal.Rptr.3d 191, 210 P.3d 361]."
+      },
+      {
+        "text": "• Reckless Indifference to Human Life. *People v. Emanuel* (2025) 17 Cal.5th 867, 881–885 [333 Cal.Rptr.3d 1, 569 P.3d 372]; *In re Scoggins* (2020) 9 Cal.5th 667, 676–677 [264 Cal.Rptr.3d 804, 467 P.3d 198]; *People v. Clark, supra,* 63 Cal.4th at pp. 614–620; *People v. Banks, supra,* 61 Cal.4th at pp. 807–811 [189 Cal.Rptr.3d 208, 351 P.3d 330]; *Tison v. Arizona* (1987) 481 U.S. 137, 157–158 [107 S.Ct. 1676, 95 L.Ed.2d 127]."
+      },
+      {
+        "text": "• Major Participant. *People v. Banks, supra,* 61 Cal.4th at pp. 803–808."
+      },
+      {
+        "text": "• Objective Criminal Negligence Standard for Peace Officer Exception. *People v. Sifuentes* (2022) 83 Cal.App.5th 217, 229–230 [299 Cal.Rptr.3d 320]."
+      },
+      {
+        "text": "• Defendant’s Youth Can Be Relevant Factor When Determining Reckless Indifference. *People v. Jimenez* (2024) 103 Cal.App.5th 994, 1001–1008 [323 Cal.Rptr.3d 549]; *People v. Oliver* (2023) 90 Cal.App.5th 466, 485–488 [307 Cal.Rptr.3d 6]; *People v. Jones* (2022) 86 Cal.App.5th 1076, 1091–1093 [302 Cal.Rptr.3d 847] [20-year-old defendant]; *People v. Keel* (2022) 84 Cal.App.5th 546, 558–559 [300 Cal.Rptr.3d 483] [juvenile defendant]; *People v. Mitchell* (2022) 81 Cal.App.5th 575, 591–595 [297 Cal.Rptr.3d 223]; *In re Harper* (2022) 76 Cal.App.5th 450, 466–470 [291 Cal.Rptr.3d 543]; *People v. Ramirez* (2021) 71 Cal.App.5th 970, 987 [286 Cal.Rptr.3d 771] [juvenile defendant]; *In re Moore* (2021) 68 Cal.App.5th 434, 454 [283 Cal.Rptr.3d 584] [juvenile defendant]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 540A, *Felony Murder: First Degree-Defendant Allegedly Committed Fatal Act*."
+      },
+      {
+        "text": "See the Related Issues section of CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

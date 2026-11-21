@@ -1,0 +1,59 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "100",
+  "title": "Trial Process (Before or After Voir Dire)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      79,
+      80
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007",
+  "revision_legend": null,
+  "body": [
+    "[Jury service is very important and I would like to welcome you and thank you for your service.] Before we begin, I am going to describe for you how the trial will be conducted, and explain what you and the lawyers and I will be doing. When I refer to “the People,” I mean the attorney[s] from the (district attorney’s office/city attorney’s office/office of the attorney general) who (is/are) trying this case on behalf of the People of the State of California. When I refer to defense counsel, I mean the attorney[s] who (is/are) representing the defendant[s], ______ <insert name[s] of defendant[s]>.",
+    "[The first step in this trial is jury selection.",
+    "During jury selection, the attorneys and I will ask you questions. These questions are not meant to embarrass you, but rather to determine whether you would be suitable to sit as a juror in this case.]",
+    "The trial will (then/now) proceed as follows: The People may present an opening statement. The defense is not required to present an opening statement, but if it chooses to do so, it may give it either after the People’s opening statement or at the beginning of the defense case. The purpose of an opening statement is to give you an overview of what the attorneys expect the evidence will show.",
+    "Next, the People will offer their evidence. Evidence usually includes witness testimony and exhibits. After the People present their evidence, the defense may also present evidence but is not required to do so. Because (he/she/they) (is/are) presumed innocent, the defendant[s] (does/do) not have to prove that (he/she/they) (is/are) not guilty.",
+    "After you have heard all the evidence and [before] the attorneys (give/have given) their final arguments, I will instruct you on the law that applies to the case.",
+    "After you have heard the arguments and instructions, you will go to the jury room to deliberate."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is no sua sponte duty to give an instruction outlining how the trial will proceed. This instruction has been provided for the convenience of the trial judge who may wish to explain the trial process to jurors. See California Rules of Court, Rule 2.1035."
+      },
+      {
+        "text": "The court may give the optional bracketed language if using this instruction before jury selection begins."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1179–1181 [67 Cal.Rptr.3d 871]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

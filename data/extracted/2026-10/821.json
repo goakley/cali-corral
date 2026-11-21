@@ -1,0 +1,179 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "821",
+  "title": "Child Abuse Under Circumstances or Conditions Likely to Produce Great Bodily Harm or Death (Pen. Code, § 273a(a))",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      26,
+      29
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, April 2010, October 2010, February 2013, October 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with child abuse likely to produce (great bodily harm/[or] death) [in violation of Penal Code section 273a(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative A—inflicted pain>",
+    "[1. The defendant willfully inflicted unjustifiable physical pain or mental suffering on a child;]",
+    "<Alternative B—caused or permitted to suffer pain>",
+    "[1. The defendant willfully caused or permitted a child to suffer unjustifiable physical pain or mental suffering;]",
+    "<Alternative C—while having custody, caused or permitted to suffer injury>",
+    "[1. The defendant, while having care or custody of a child, willfully caused or permitted the child’s person or health to be injured;]",
+    "<Alternative D—while having custody, caused or permitted to be placed in danger>",
+    "[1. The defendant, while having care or custody of a child, willfully caused or permitted the child to be placed in a situation where the child’s person or health was endangered;]",
+    "[AND]",
+    "2. The defendant (inflicted pain or suffering on the child/[or] caused or permitted the child to (suffer/[or] be injured/[or] be endangered)) under circumstances or conditions likely to produce (great bodily harm/[or] death)(;/.)",
+    "<Give element 3 when giving alternatives 1B, 1C or 1D>",
+    "[AND]",
+    "[3. The defendant was criminally negligent when (he/she) caused or permitted the child to (suffer/[or] be injured/[or] be endangered)(;/.)]",
+    "<Give element 4 when instructing on parental right to discipline>",
+    "[AND",
+    "4. The defendant did not act while reasonably disciplining a child.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The phrase *likely to produce (great bodily harm/[or] death)* means the probability of (great bodily harm/[or] death) is high.",
+    "*Great bodily harm* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "A *child* is any person under the age of 18 years.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[*Unjustifiable* physical pain or mental suffering is pain or suffering that is not reasonably necessary or is excessive under the circumstances.]",
+    "[*Criminal negligence* involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with *criminal negligence* when:",
+    "1. He or she acts in a reckless way that is a gross departure from the way an ordinarily careful person would act in the same situation;",
+    "2. The person’s acts amount to disregard for human life or indifference to the consequences of his or her acts;",
+    "AND",
+    "3. A reasonable person would have known that acting in that way would naturally and probably result in harm to others.]",
+    "[A child does not need to actually suffer great bodily harm. But if a child does suffer great bodily harm, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed the offense.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence, the court has a sua sponte duty to instruct on the defense of disciplining a child. (*People v. Whitehurst* (1992) 9 Cal.App.4th 1045, 1049 [12 Cal.Rptr.2d 33].) Give bracketed element 4 and CALCRIM No. 3405, *Parental Right to Punish a Child*."
+      },
+      {
+        "text": "Give element 1A if it is alleged that the defendant directly inflicted unjustifiable physical pain or mental suffering. Give element 1B if it is alleged that the defendant caused or permitted a child to suffer. If it is alleged that the defendant had care or custody of a child and caused or permitted the child’s person or health to be injured, give element 1C. Finally, give element 1D if it is alleged that the defendant had care or custody of a child and endangered the child’s person or health. (See Pen. Code, § 273a(a).)"
+      },
+      {
+        "text": "Give bracketed element 3 and the bracketed definition of “criminally negligent” if element 1B, 1C, or 1D is given alleging that the defendant committed any indirect acts. (See *People v. Valdez* (2002) 27 Cal.4th 778, 788–789 [118 Cal.Rptr.2d 3, 42 P.3d 511]; *People v. Peabody* (1975) 46 Cal.App.3d 43, 48–49 [119 Cal.Rptr. 780].)"
+      },
+      {
+        "text": "Give on request the bracketed definition of “unjustifiable” physical pain or mental suffering if there is a question about the necessity or degree of pain or suffering. (See *People v. Curtiss* (1931) 116 Cal.App. Supp. 771, 779–780 [300 P. 801].)"
+      },
+      {
+        "text": "Give on request the bracketed paragraph stating that a child need not actually suffer great bodily harm. (See *People v. Cortes* (1999) 71 Cal.App.4th 62, 80 [83 Cal.Rptr.2d 519]; *People v. Jaramillo* (1979) 98 Cal.App.3d 830, 835 [159 Cal.Rptr. 771].)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 273a(a); *People v. Cortes* (1999) 71 Cal.App.4th 62, 80 [83 Cal.Rptr.2d 519]; *People v. Smith* (1984) 35 Cal.3d 798, 806 [201 Cal.Rptr. 311, 678 P.2d 886]."
+      },
+      {
+        "text": "• “Child” Defined. See Fam. Code, § 6500; *People v. Thomas* (1976) 65 Cal.App.3d 854, 857–858 [135 Cal.Rptr. 644] [in context of Pen. Code, § 273d]."
+      },
+      {
+        "text": "• “Likely” Defined. *People v. Chaffin* (2009) 173 Cal.App.4th 1348, 1351–1352 [93 Cal.Rptr.3d 531] [questioning analysis of term in *People v. Wilson*]; *People v. Wilson* (2006) 138 Cal.App.4th 1197, 1204 [41 Cal.Rptr.3d 919]."
+      },
+      {
+        "text": "• “Great Bodily Harm or Injury” Defined. Pen. Code, § 12022.7(f); *People v. Cortes* (1999) 71 Cal.App.4th 62, 80 [83 Cal.Rptr.2d 519]."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); see *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]; *People v. Vargas* (1988) 204 Cal.App.3d 1455, 1462, 1468–1469 [251 Cal.Rptr. 904]."
+      },
+      {
+        "text": "• Criminal Negligence Required for Indirect Conduct. *People v. Valdez* (2002) 27 Cal.4th 778, 788, 789 [118 Cal.Rptr.2d 3, 42 P.3d 511]; *People v. Peabody* (1975) 46 Cal.App.3d 43, 47, 48–49 [119 Cal.Rptr. 780]; see *People v. Penny* (1955) 44 Cal.2d 861, 879–880 [285 P.2d 926] [criminal negligence for homicide]; *Walker v. Superior Court* (1988) 47 Cal.3d 112, 135 [253 Cal.Rptr. 1, 763 P.2d 852]."
+      },
+      {
+        "text": "• General Criminal Intent Required for Direct Infliction of Pain or Suffering. *People v. Sargent* (1999) 19 Cal.4th 1206, 1224 [81 Cal.Rptr.2d 835, 970 P.2d 409]; see *People v. Atkins* (1975) 53 Cal.App.3d 348, 361 [125 Cal.Rptr. 855]; *People v. Wright* (1976) 60 Cal.App.3d 6, 14 [131 Cal.Rptr. 311]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Any violation of Penal Code section 273a(a) must be willful. (*People v. Smith* (1984) 35 Cal.3d 798, 806 [678 P.2d 886]; *People v. Cortes* (1999) 71 Cal.App.4th 62, 80 [83 Cal.Rptr.2d 519]; but see *People v. Valdez* (2002) 27 Cal.4th 778, 789 [118 Cal.Rptr.2d 3, 42 P.3d 511] [the prong punishing a *direct infliction* of unjustifiable physical pain or mental suffering does not expressly require that the conduct be willful].) Following *Smith* and *Cortes,* the committee has included “willfully” in element 1A regarding direct infliction of abuse until there is further guidance from the courts."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Child Abuse. Pen. Code, §§ 664, 273a(a)."
+      },
+      {
+        "text": "• Misdemeanor Child Abuse. Pen. Code, § 273a(b)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Care or Custody"
+      },
+      {
+        "text": "“The terms ‘care or custody’ do not imply a familial relationship but only a willingness to assume duties correspondent to the role of a caregiver.” (*People v. Toney* (1999) 76 Cal.App.4th 618, 621–622 [90 Cal.Rptr.2d 578] [quoting *People v. Cochran* (1998) 62 Cal.App.4th 826, 832 [73 Cal.Rptr.2d 257]].)"
+      },
+      {
+        "heading": true,
+        "text": "Prenatal Conduct"
+      },
+      {
+        "text": "Penal Code section 273a does not apply to prenatal conduct endangering an unborn child. (*Reyes v. Superior Court* (1977) 75 Cal.App.3d 214, 217–218, 219 [141 Cal.Rptr. 912].)"
+      },
+      {
+        "heading": true,
+        "text": "Unanimity"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on unanimity when the prosecution has presented evidence of multiple acts to prove a single count. (*People v. Russo* (2001) 25 Cal.4th 1124, 1132 [108 Cal.Rptr.2d 436, 25 P.3d 641].) However, the court does not have to instruct on unanimity if the offense constitutes a “continuous course of conduct.” (*People v. Napoles* (2002) 104 Cal.App.4th 108, 115–116 [127 Cal.Rptr.2d 777].) Child abuse may be a continuous course of conduct or a single, isolated incident. *(Ibid.)* The court should carefully examine the statute charged, the pleadings, and the evidence presented to determine whether the offense constitutes a continuous course of conduct. *(Ibid.)* See generally CALCRIM No. 3500, *Unanimity*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2006, April 2010, October 2010, February 2013"
+  },
+  "supplement_status": "revised"
+}

@@ -1,0 +1,61 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "223",
+  "title": "Direct and Circumstantial Evidence: Defined",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      127,
+      128
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, February 2013",
+  "revision_legend": null,
+  "body": [
+    "Facts may be proved by direct or circumstantial evidence or by a combination of both. *Direct evidence* can prove a fact by itself. For example, if a witness testifies he saw it raining outside before he came into the courthouse, that testimony is direct evidence that it was raining. *Circumstantial evidence* also may be called indirect evidence. Circumstantial evidence does not directly prove the fact to be decided, but is evidence of another fact or group of facts from which you may logically and reasonably conclude the truth of the fact in question. For example, if a witness testifies that he saw someone come inside wearing a raincoat covered with drops of water, that testimony is circumstantial evidence because it may support a conclusion that it was raining outside.",
+    "Both direct and circumstantial evidence are acceptable types of evidence to prove or disprove the elements of a charge, including intent and mental state and acts necessary to a conviction, and neither is necessarily more reliable than the other. Neither is entitled to any greater weight than the other. You must decide whether a fact in issue has been proved based on all the evidence."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction explaining direct and circumstantial evidence if the prosecution substantially relies on circumstantial evidence to establish any element of the case. (*People v. Yrigoyen* (1955) 45 Cal.2d 46, 49 [286 P.2d 1] [duty exists where circumstantial evidence relied on to prove any element, including intent]; see *People v. Bloyd* (1987) 43 Cal.3d 333, 351–352 [233 Cal.Rptr. 368, 729 P.2d 802]; *People v. Heishman* (1988) 45 Cal.3d 147, 167 [246 Cal.Rptr. 673, 753 P.2d 629].) The court must give this instruction if the court will be giving either CALCRIM No. 224, *Circumstantial Evidence: Sufficiency of Evidence* or CALCRIM No. 225, *Circumstantial Evidence: Intent or Mental State*."
+      },
+      {
+        "text": "The court, at its discretion, may give this instruction in any case in which circumstantial evidence has been presented."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Direct Evidence Defined. Evid. Code, § 410."
+      },
+      {
+        "text": "• Logical and Reasonable Inference Defined. Evid. Code, § 600(b)."
+      },
+      {
+        "text": "• Difference Between Direct and Circumstantial Evidence. *People v. Lim Foon* (1915) 29 Cal.App. 270, 274 [155 P. 477] [no sua sponte duty to instruct, but court approves definition]; *People v. Goldstein* (1956) 139 Cal.App.2d 146, 152–153 [293 P.2d 495] [sua sponte duty to instruct]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Ibarra* (2007) 156 Cal.App.4th 1174, 1186 [67 Cal.Rptr.3d 871]."
+      },
+      {
+        "text": "• This Instruction Cited With Approval. *People v. Livingston* (2012) 53 Cal.4th 1145, 1166 [140 Cal.Rptr.3d 139, 274 P.3d 1132]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

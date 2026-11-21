@@ -1,0 +1,120 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2723",
+  "title": "Battery by Prisoner on Nonprisoner (Pen. Code, § 4501.5)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1983,
+      1985
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2016, March 2017, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with battery on someone who was not a prisoner [in violation of Penal Code section 4501.5].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully touched ______ <insert name of person allegedly battered, excluding title of law enforcement agent> in a harmful or offensive manner;",
+    "2. When (he/she) acted, the defendant was serving a sentence in a [California] state prison;",
+    "[AND]",
+    "3. ______ <insert name of person allegedly battered, excluding title of law enforcement agent> was not serving a sentence in state prison(;/.)",
+    "<Give element 4 when self-defense or defense of another is an issue raised by the evidence.>",
+    "[AND",
+    "4. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The slightest touching can be enough to commit a battery if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "A person is *serving a sentence in a state prison* if he or she is (confined in ______ <insert name of institution from Pen. Code, § 5003>/committed to the Department of (Corrections and Rehabilitation, Division of Juvenile Justice/Corrections and Rehabilitation)) by an order made according to law[, regardless of both the purpose of the (confinement/commitment) and the validity of the order directing the (confinement/commitment), until a judgment of a competent court setting aside the order becomes final]. [A person may be *serving a sentence in a state prison* even if, at the time of the offense, he or she is confined in a local correctional institution pending trial or is temporarily outside the prison walls or boundaries for any permitted purpose, including but not limited to serving on a work detail.] [However, a prisoner who has been released on parole is not *serving a sentence in a state prison*.]",
+    "<When lawful performance is an issue, give the following paragraph and Instruction 2671, Lawful Performance: Custodial Officer.>",
+    "[A custodial officer is not lawfully performing his or her duties if he or she is using unreasonable or excessive force in his or her duties. Instruction 2671 explains when force is unreasonable or excessive.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 4 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (See *People v. Coleman* (1978) 84 Cal.App.3d 1016, 1022–1023 [149 Cal.Rptr. 134]; *People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541]; *People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) If there is evidence of excessive force, give bracketed element 4, the last bracketed paragraph, and the appropriate portions of CALCRIM No. 2671, *Lawful Performance: Custodial Officer*."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "In the definition of “serving a sentence in a state prison,” give the bracketed portion that begins with “regardless of the purpose,” or the bracketed second or third sentence, if requested and relevant based on the evidence."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 960, *Simple Battery*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements of Battery by Prisoner on Nonprisoner. Pen. Code, § 4501.5."
+      },
+      {
+        "text": "• Elements of Battery. Pen. Code, § 242; see *People v. Martinez* (1970) 3 Cal.App.3d 886, 889 [83 Cal.Rptr. 914] [harmful or offensive touching]."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• Contact With Object Held in Another Person’s Hand May Constitute Touching. *In re B.L.* (2015) 239 Cal.App.4th 1491, 1495–1497 [192 Cal.Rptr.3d 154]."
+      },
+      {
+        "text": "• Hitting a Vehicle Occupied by Another Person May Constitute Touching. *People v. Dealba* (2015) 242 Cal.App.4th 1142, 1144, 1153 [195 Cal.Rptr.3d 848]."
+      },
+      {
+        "text": "• “Confined in State Prison” Defined. Pen. Code, § 4504."
+      },
+      {
+        "text": "• Underlying Conviction Need Not Be Valid. *Wells v. California* (9th Cir. 1965) 352 F.2d 439, 442."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Simple Battery. Pen. Code, § 242."
+      },
+      {
+        "text": "• Assault. Pen. Code, § 240."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

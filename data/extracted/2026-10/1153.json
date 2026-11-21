@@ -1,0 +1,71 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1153",
+  "title": "Prostitution: Engaging in Act (Pen. Code, § 647(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1005,
+      1006
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with engaging in an act of prostitution [in violation of Penal Code section 647(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that the defendant willfully engaged in sexual intercourse or a lewd act with someone else in exchange for money [or other compensation].",
+    "A *lewd act* means touching the genitals, buttocks, or female breast of either the prostitute or customer with some part of the other person’s body for the purpose of sexual arousal or gratification of either person.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged with one or more prior convictions, give CALCRIM No. 3100, *Prior Conviction: Nonbifurcated Trial*, unless the defendant has stipulated to the conviction. If the court has granted a bifurcated trial on the prior conviction, use CALCRIM No. 3101, *Prior Conviction: Bifurcated Trial*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 647(b)."
+      },
+      {
+        "text": "• Willfully Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Prostitution Defined. Pen. Code, § 647(b); *People v. Hill* (1980) 103 Cal.App.3d 525, 534–535 [163 Cal.Rptr. 99]; *Wooten v. Superior Court* (2001) 93 Cal.App.4th 422, 431–433 [113 Cal.Rptr.2d 195] [lewd act requires touching between prostitute and customer]."
+      },
+      {
+        "text": "• Lewd Conduct Defined. *Pryor v. Municipal Court* (1979) 25 Cal.3d 238, 256 [158 Cal.Rptr. 330, 599 P.2d 636]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Payment Does Not Need to Be Made Directly to Person Doing Act"
+      },
+      {
+        "text": "“[W]e know of no statutory or case law requiring that payment be made to the person actually providing sexual favors.” (*People v. Bell* (1988) 201 Cal.App.3d 1396, 1400 [248 Cal.Rptr. 57].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

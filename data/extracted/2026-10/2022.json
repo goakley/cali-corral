@@ -1,0 +1,96 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2022",
+  "title": "False Financial Statement: Reaffirming Statement (Pen. Code, § 532a(3))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1461,
+      1463
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with representing in writing that a false written statement about (his/her/another person’s/a corporation’s) (financial condition[,]/[or] means[,]/[or] ability to pay) was true [in violation of Penal Code section 532a(3)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—statement made about defendant himself/herself>",
+    "[1. The defendant knew a written statement had been made about (his/her) (financial condition[,]/[or] means[,]/[or] ability to pay);]",
+    "<Alternative 1B—statement made about someone else or a corporation>",
+    "[1. The defendant knew a written statement had been made about the (financial condition[,]/[or] means[,]/[or] ability to pay) of (another person/a firm or corporation (in which the defendant had an interest/[or] for which the defendant was acting));]",
+    "2. After that first written statement had been made, the defendant made a second written statement representing that the contents of the first statement were true at the time of the second statement;",
+    "3. The defendant knew that the contents of the first statement were not true at the time (he/she) made the second statement;",
+    "AND",
+    "4. Based on the second statement, the defendant obtained the (delivery of personal property[,]/[or] payment of cash[,]/[or] making of a loan[,]/[or] extension of credit[,]/[or] execution of a contract of guaranty or suretyship[,]/[or] discount of an account receivable[,]/[or] making, acceptance, discount, sale, or endorsement of a bill of exchange or promissory note) for ((his/her) benefit/the benefit of the (other person/corporation)).",
+    "[The People allege that the defendant represented that the following statements were true: ______ <insert descriptions when multiple statements alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant represented that at least one of these statements was true while knowing that the statement was false. You must all agree on which false statement (he/she) represented to be true.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant represented as true multiple false statements, the court has a sua sponte duty to instruct on unanimity. (See *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752]; *People v. Dieguez* (2001) 89 Cal.App.4th 266, 274–275 [107 Cal.Rptr.2d 160, 66 Cal. Comp. Cases 594].) However, where the evidence shows a “continuous course of conduct,” a unanimity instruction is not required. (*People v. Dieguez, supra,* 89 Cal.App.4th at p. 275.) If the court concludes that a unanimity instruction is required, give the last bracketed paragraph, inserting the items alleged. (See also Bench Notes to CALCRIM No. 3500, *Unanimity*, discussing when instruction on unanimity is and is not required.)"
+      },
+      {
+        "text": "If the defendant is charged with a felony violation of Penal Code section 532a(1), give CALCRIM No. 2023, *False Financial Statement: Use of False Identifying Information*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 2020, *False Financial Statement: Making False Statement*."
+      },
+      {
+        "text": "CALCRIM No. 2021, *False Financial Statement: Obtaining Benefit*."
+      },
+      {
+        "text": "CALCRIM No. 2023, *False Financial Statement: Use of False Identifying Information*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 532a(3)."
+      },
+      {
+        "text": "• Unanimity Instruction If Multiple Items. See *People v. Sutherland* (1993) 17 Cal.App.4th 602, 619, fn. 6 [21 Cal.Rptr.2d 752]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "A violation of Penal Code section 532a is a misdemeanor unless the defendant used “a fictitious name, social security number, business name, or business address, or . . . falsely represent[ed] himself or herself to be another person or another business.” (Pen. Code, § 532a(4).) If the defendant is charged with a felony, then the misdemeanor offense is a lesser included offense. The court must provide the jury with a verdict form on which the jury will indicate if this allegation has or has not been proved. If the jury finds that the allegation has not been proved, then the offense should be set at a misdemeanor."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of the Bench Notes to CALCRIM No. 2020, *False Financial Statement: Making False Statement*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

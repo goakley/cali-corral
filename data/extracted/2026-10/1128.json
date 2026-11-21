@@ -1,0 +1,100 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1128",
+  "title": "Engaging in Oral Copulation or Sexual Penetration With Child 10 Years of Age or Younger (Pen. Code, § 288.7(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      960,
+      961
+    ]
+  },
+  "revision_line": "New August 2009; Revised April 2010, February 2013, February 2015, September 2017, September 2019, September 2020",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with engaging in (oral copulation/[or] sexual penetration) with a child 10 years of age or younger [in violation of Penal Code section 288.7(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant engaged in an act of (oral copulation/[or] sexual penetration) with ______ <insert name of complaining witness>;",
+    "2. When the defendant did so, ______ <insert name of complaining witness> was 10 years of age or younger;",
+    "3. At the time of the act, the defendant was at least 18 years old.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[*Oral copulation* is any contact, no matter how slight, between the mouth of one person and the sexual organ or anus of another person. Penetration is not required.]",
+    "[*Sexual penetration* means (penetration, however slight, of the genital or anal opening of the other person/[or] causing the other person to penetrate, however slightly, the defendant’s or someone else’s genital or anal opening/[or] causing the other person to penetrate, however slightly, his or her own genital or anal opening) by any foreign object, substance, instrument, device, or any unknown object for the purpose of sexual abuse, arousal, or gratification.]",
+    "[Penetration for *sexual abuse* means penetration for the purpose of causing pain, injury, or discomfort.]",
+    "[An *unknown object* includes any foreign object, substance, instrument, or device, or any part of the body, including a penis, if it is not known what object penetrated the opening.]",
+    "[A *foreign object, substance, instrument, or device* includes any part of the body except a sexual organ.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "When sexual penetration is charged under Penal Code section 288.7(b), instruct that the defendant must have specific intent. *People v. Saavedra* (2018) 24 Cal.App.5th 605, 613–615 [234 Cal.Rptr.3d 544]."
+      },
+      {
+        "text": "A conviction for Penal Code section 288.7(b) under an aiding and abetting theory requires that the direct perpetrator be at least 18 years old. *People v. Vital* (2019) 40 Cal.App.5th 925, 930 [254 Cal.Rptr.3d 22]. If the defendant is charged under an aiding and abetting theory, substitute the word “perpetrator” instead of “defendant” in elements 1, 2, and 3."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 288.7(b)."
+      },
+      {
+        "text": "• Sexual Penetration Defined. Pen. Code, § 289(k)(1); see *People v. Quintana* (2001) 89 Cal.App.4th 1362, 1371 [108 Cal.Rptr.2d 235] [penetration of genital opening refers to penetration of labia majora, not vagina]."
+      },
+      {
+        "text": "• Unknown Object Defined. Pen. Code, § 289(k)(3)."
+      },
+      {
+        "text": "• Foreign Object, Substance, Instrument, or Device Defined. Pen. Code, § 289(k)(2); *People v. Wilcox* (1986) 177 Cal.App.3d 715, 717 [223 Cal.Rptr. 170] [finger is “foreign object”]."
+      },
+      {
+        "text": "• Oral Copulation Defined. *People v. Grim* (1992) 9 Cal.App.4th 1240, 1242–1243 [11 Cal.Rptr.2d 884]."
+      },
+      {
+        "text": "• Calculating Age. Fam. Code, § 6500; *People v. Cornett* (2012) 53 Cal.4th 1261, 1264, 1275 [139 Cal.Rptr.3d 837, 274 P.3d 456] [“10 years of age or younger” means “under 11 years of age”]; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391]."
+      },
+      {
+        "text": "• Sexual Abuse Defined. *People v. White* (1986) 179 Cal.App.3d 193, 205–206 [224 Cal.Rptr. 467]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Saavedra* (2018) 24 Cal.App.5th 605, 615 [234 Cal.Rptr.3d 544]."
+      },
+      {
+        "text": "LESSER INCLUDED OFFENSE"
+      },
+      {
+        "text": "• Attempted Sexual Penetration. *People v. Ngo* (2014) 225 Cal.App.4th 126, 158–161 [170 Cal.Rptr.3d 90]."
+      },
+      {
+        "text": "• Attempt to commit oral copulation with a child 10 years of age or younger is not a lesser included offense. *People v. Mendoza* (2015) 240 Cal.App.4th 72, 83 [191 Cal.Rptr.3d 905]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

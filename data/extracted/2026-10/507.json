@@ -1,0 +1,119 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "507",
+  "title": "Justifiable Homicide: By Peace Officer",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      308,
+      310
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, February 2012, August 2012, April 2020, September 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of (murder/[or] manslaughter/attempted murder/[or] attempted voluntary manslaughter) if (he/she) (killed/attempted to kill) someone while (acting as a peace officer/obeying a peace officer’s command for aid and assistance). (A/An) [attempted] killing is justified, and therefore not unlawful, if:",
+    "1. The defendant was (a peace officer/obeying a peace officer’s command for aid and assistance);",
+    "AND",
+    "2. The [attempted] killing was committed while the defendant either:",
+    "A. Reasonably believed, based on the totality of the circumstances, that the force was necessary to defend against an imminent threat of death or serious bodily injury to the defendant or another person;",
+    "OR",
+    "B. Reasonably believed, based on the totality of the circumstances, that:",
+    "B1. ______ <insert name of fleeing felon> was fleeing;",
+    "B2. The force was necessary to arrest or detain ______ <insert name of fleeing felon> for the crime of ______ <insert name of felony>;",
+    "B3. The commission of the crime of ______ <insert name of felony> created a risk of or resulted in death or serious bodily injury to another person;",
+    "AND",
+    "B4. ______ <insert name of fleeing felon> would cause death or serious bodily injury to another person unless immediately arrested or detained.",
+    "[A *serious bodily injury* means a serious impairment of physical condition. Such an injury may include[, but is not limited to]: (loss of consciousness/concussion/bone fracture/protracted loss or impairment of function of any bodily member or organ/a wound requiring extensive suturing/[and] serious disfigurement).]",
+    "[A threat of death or serious bodily injury is *imminent* when, based on the totality of the circumstances, a reasonable officer in the same situation would believe that a person has the present ability, opportunity, and apparent intent to immediately cause death or serious bodily injury to the peace officer or to another person. An imminent harm is not merely a fear of future harm, no matter how great the fear and no matter how great the likelihood of the harm, but is one that, from appearances, must be instantly confronted and addressed.]",
+    "[*Totality of the circumstances* means all facts known to the defendant at the time, including the conduct of the defendant and ______ <insert name of decedent> leading up to the use of deadly force.]",
+    "[*Deadly force* means any use of force that creates a substantial risk of causing death or serious bodily injury. Deadly force includes, but is not limited to, the discharge of a firearm.]",
+    "[A peace officer who makes or attempts to make an arrest need not retreat or stop because the person being arrested is resisting or threatening to resist. A peace officer does not lose (his/her) right to self-defense by using objectively reasonable force to arrest or to prevent escape or to overcome resistance.]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g, “designated by the director of the agency as a peace officer”>.]",
+    "The People have the burden of proving beyond a reasonable doubt that the [attempted] killing was not justified. If the People have not met this burden, you must find the defendant not guilty of [attempted] (murder/[or] manslaughter)."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    32.3,
+    31.0,
+    33.0,
+    47.0,
+    47.0,
+    47.0,
+    46.0,
+    47.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on justifiable homicide when “it appears that the defendant is relying on such a defense, or if there is substantial evidence supportive of such a defense and the defense is not inconsistent with the defendant’s theory of the case.” (See *People v. Breverman* (1998) 19 Cal.4th 142, 156 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [addressing sua sponte duty to instruct on self-defense].)"
+      },
+      {
+        "text": "Penal Code sections 196 and 835a, as amended by Statutes 2019, ch.170 (A.B. 392), became effective on January 1, 2020. If the defendant’s act occurred before this date, the court should give the prior version of this instruction."
+      },
+      {
+        "text": "The jury must determine whether the defendant was a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury in the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the defendant was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the defendant is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the defendant is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 508, *Justifiable Homicide: Citizen Arrest (Non-Peace Officer)*."
+      },
+      {
+        "text": "CALCRIM No. 509, *Justifiable Homicide: Non-Peace Officer Preserving the Peace*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Justifiable Homicide by Peace Officer. Pen. Code, §§ 196, 199, 835a."
+      },
+      {
+        "text": "• Burden of Proof. Pen. Code, § 189.5; *People v. Frye* (1992) 7 Cal.App.4th 1148, 1154–1155 [10 Cal.Rptr.2d 217]; *People v. Banks* (1976) 67 Cal.App.3d 379, 383–384 [137 Cal.Rptr. 652]."
+      },
+      {
+        "text": "• Peace Officer Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• Serious Bodily Injury Defined. Pen. Code, § 243(f)(4); *People v. Taylor* (2004) 118 Cal.App.4th 11, 25, fn. 4 [12 Cal.Rptr.3d 693]."
+      },
+      {
+        "text": "• Deadly Force Defined. Pen. Code, § 835a(e)."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Graham Factors"
+      },
+      {
+        "text": "In determining reasonableness, the inquiry is whether the officer’s actions are objectively reasonable from the perspective of a reasonable officer on the scene. (*Graham v. Connor* (1989) 490 U.S. 386, 396 [109 S.Ct. 1865, 104 L.Ed.2d 443].) Factors relevant to the totality of the circumstances may include those listed in *Graham*, but those factors are not exclusive. (See *Glenn v. Washington County* (9th Cir. 2011) 673 F.3d 864, 872.) The *Graham* factors may not all apply in a given case. (See *People v. Perry* (2019) 36 Cal.App.5th 444, 473, fn. 18 [248 Cal.Rptr.3d 522].) Conduct and tactical decisions preceding an officer’s use of deadly force are relevant considerations. (*Hayes v. County of San Diego* (2013) 57 Cal.4th 622, 639 [160 Cal.Rptr.3d 684, 305 P.3d 252] [in context of negligence liability].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

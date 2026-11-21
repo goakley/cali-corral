@@ -1,0 +1,92 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "916",
+  "title": "Assault by Conditional Threat",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      731,
+      732
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault committed by a conditional threat to use force.",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully threatened to use force on another person unless that person immediately did an act that the defendant demanded;",
+    "2. The defendant intended to use force immediately to compel the other person to do the act;",
+    "3. The defendant had no right to demand that the other person do the act;",
+    "4. When the defendant made the threat, (he/she) had the present ability to use force on the other person;",
+    "[AND]",
+    "5. The defendant placed (himself/herself) in a position to compel performance of the act (he/she) demanded and took all steps necessary to carry out (his/her) intention(;/.)",
+    "<Give element 6 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "6. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "The term *use force* means to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. It is enough if the touching makes contact with the person, including through his or her clothing. The touching need not cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "No one needs to actually have been injured by defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 6 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "Do not give an attempt instruction in conjunction with this instruction. There is no crime of “attempted assault” in California. (*In re James M.* (1973) 9 Cal.3d 517, 519, 521–522 [108 Cal.Rptr. 89, 510 P.2d 33].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. *People v. McMakin* (1857) 8 Cal. 547, 548–549; *People v. McCoy* (1944) 25 Cal.2d 177, 192–193 [153 P.2d 315]; *People v. Lipscomb* (1993) 17 Cal.App.4th 564, 570 [21 Cal.Rptr.2d 445]; see also *People v. Page* (2004) 123 Cal.App.4th 1466, 1473 [20 Cal.Rptr.3d 857]."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

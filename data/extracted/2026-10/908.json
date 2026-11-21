@@ -1,0 +1,179 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "908",
+  "title": "Assault Under Color of Authority (Pen. Code, § 149)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      723,
+      728
+    ]
+  },
+  "revision_line": "New September 2022; Revised March 2023, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (assaulting/[or] beating) a person under color of authority and without lawful necessity [in violation of Penal Code section 149].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was a *public officer*;",
+    "2. The defendant willfully [and unlawfully] (did an act that by its nature would directly and probably result in the application of force to ______ <insert name of alleged victim>/*touched ______ <insert name of alleged victim> in a harmful or offensive manner);",
+    "<instruct with elements 3 and 4 for assault>",
+    "[3. When the defendant did the act, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in the application of force to someone;",
+    "4. When the defendant did the act, (he/she) had the present ability to apply force to a person;]",
+    "(3/5). When the defendant (did the act/touched ______ <insert name of alleged victim> in a harmful or offensive manner), the defendant was performing or purporting to perform (his/her) duties as a *public officer*;",
+    "[AND]",
+    "(4/6). When the defendant (did the act/touched ______ <insert name of alleged victim>), (he/she) acted *without lawful necessity*(;/.)",
+    "[AND]",
+    "[(5/7). When the defendant (did the act/touched ______ <insert name of alleged victim>), (he/she) did not act in (self-defense/[or] defense of someone else).]",
+    "[An officer of ______ <insert name of state or local government agency that employs public officer> is a *public officer*.]",
+    "[A person employed as a police officer by ______ <insert name of agency that employs police officer> is a peace officer. A peace officer is a *public officer*.]",
+    "[The duties of (a/an) ______ <insert title of peace or public officer> include ______ <insert job duties>.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[No one needs to actually have been injured by the defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault.]",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "*Without lawful necessity* means more force than was reasonably necessary under the circumstances.",
+    "*Under color of authority* means clothed in the authority of law or when acting under pretense of law.",
+    "[Special rules control the use of force by a peace officer.]",
+    "[A peace officer may use reasonable nondeadly force to arrest or detain someone, to prevent escape, to overcome resistance, or in self-defense.]",
+    "[A peace officer may use deadly force if (he/she):",
+    "1. Reasonably believed, based on the totality of the circumstances, that the force was necessary to defend against an imminent threat of death or serious bodily injury to the officer or another person;",
+    "OR",
+    "2. Reasonably believed, based on the totality of the circumstances, that:",
+    "a. <insert name of fleeing felon> was fleeing;",
+    "b. The force was necessary to arrest or detain ______ <insert name of fleeing felon> for the crime of ______ <insert name of felony>;",
+    "c. The commission of the crime of ______ <insert name of felony> created a risk of or resulted in death or serious bodily injury to another person;",
+    "AND",
+    "d. ______ <insert name of fleeing felon> would cause death or serious bodily injury to another person unless immediately arrested or detained.]",
+    "[*Deadly force* means any use of force that creates a substantial risk of causing death or serious bodily injury. Deadly force includes, but is not limited to, the discharge of a firearm.]",
+    "[A *serious bodily injury* means a serious impairment of physical condition. Such an injury may include[, but is not limited to]: (loss of consciousness/concussion/bone fracture protracted loss or impairment of function of any bodily member or organ/a wound requiring extensive suturing/[and] serious disfigurement).]",
+    "[A threat of death or serious bodily injury is *imminent* when, based on the totality of the circumstances, a reasonable officer in the same situation would believe that a person has the present ability, opportunity, and apparent intent to immediately cause death or serious bodily injury to the peace officer or to another person. An imminent harm is not merely a fear of future harm, no matter how great the fear and no matter how great the likelihood of the harm, but is one that, from appearances, must be instantly confronted and addressed.]",
+    "*Totality of the circumstances* means all facts known to the defendant at the time, including the conduct of the defendant and ______ <insert name of alleged victim> leading up to the use of deadly force.",
+    "[A peace officer who makes or attempts to make an arrest need not retreat or stop because the person being arrested is resisting or threatening to resist. A peace officer does not lose (his/her) right to self-defense by using objectively reasonable force to arrest or to prevent escape or to overcome resistance.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    89.3,
+    15.0,
+    19.0,
+    1.7,
+    183.0,
+    1.7,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    35.0,
+    34.3,
+    35.7,
+    16.0,
+    34.3,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 5/7 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "The court may instruct the jury on the appropriate definition of “public officer” from the statute. However, the court may not instruct the jury that the defendant was a public officer as a matter of law."
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins “The duties of a ______ <insert title . . .> include” on request."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 149."
+      },
+      {
+        "text": "• Objectively Reasonable Force to Effect Arrest. Pen. Code, § 835a(b)."
+      },
+      {
+        "text": "• Violation of Statute Does Not Include Detention Without Lawful Authority. *People v. Lewelling* (2017) 16 Cal.App.5th 276, 298 [224 Cal.Rptr.3d 255]."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      },
+      {
+        "text": "• Public Officer. See, e.g., Pen. Code, §§ 831(a) [custodial officer], 831.4 [sheriff’s or police security officer], 831.5 [custodial officer], 831.6 [transportation officer], 3089 [county parole officer]; *In re Frederick B.* (1987) 192 Cal.App.3d 79, 89–90 [237 Cal.Rptr. 338], disapproved on other grounds in *In re Randy G.* (2001) 26 Cal.4th 556, 567, fn. 2 [110 Cal.Rptr.2d 516, 28 P.3d 239] [“public officers” is broader category than “peace officers”]; *In re Eddie D.* (1991) 235 Cal.App.3d 417, 421–422 [286 Cal.Rptr. 684]; *In re M.M.* (2012) 54 Cal.4th 530, 536–539 [142 Cal.Rptr.3d 869, 278 P.3d 1221]; see also Pen. Code, § 836.5(a) [authority to arrest without warrant]."
+      },
+      {
+        "text": "• Public Officer Includes De Facto Officer. *People v. Cradlebaugh* (1914) 24 Cal.App. 489, 491–492."
+      },
+      {
+        "text": "• “Peace Officer” Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• Without Lawful Necessity. *People v. Dukes* (1928) 90 Cal.App. 657, 661–662; *People v. Mehserle* (2012) 206 Cal.App.4th 1125, 1140 & fn.20 [142 Cal.Rptr.3d 423]; *People v. Lewelling, supra,* 16 Cal.App.5th at pp. 298–299; *People v. Perry* (2019) 36 Cal.App.5th 444 [248 Cal.Rptr.3d 522]."
+      },
+      {
+        "text": "• Color of Authority. *People v. Plesniarski* (1971) 22 Cal.App.3d 108, 114 [99 Cal.Rptr. 196]."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Graham Factors"
+      },
+      {
+        "text": "In determining reasonableness, the inquiry is whether the officer’s actions are objectively reasonable from the perspective of a reasonable officer on the scene. (*Graham v. Connor* (1989) 490 U.S. 386, 396 [109 S.Ct. 1865, 104 L.Ed.2d 443].) Factors relevant to the totality of the circumstances may include those listed in *Graham,* but those factors are not exclusive. (See *Glenn v. Washington County* (9th Cir. 2011) 673 F.3d 864, 872.) The *Graham* factors may not all apply in a given case. (See *People v. Perry, supra,* 36 Cal.App.5th at p. 473, fn. 18.) Conduct and tactical decisions preceding an officer’s use of deadly force are relevant considerations. (*Hayes v. County of San Diego* (2013) 57 Cal.4th 622, 639 [160 Cal.Rptr.3d 684, 305 P.3d 252] [in context of negligence liability].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      },
+      {
+        "heading": true,
+        "text": "Sexual Battery"
+      },
+      {
+        "text": "Officer convicted of sexually assaulting an arrestee was properly convicted of both sexual battery and assault under color of authority because the latter offense is not a necessarily included offense in the former. (See *People v. Alford* (1991) 235 Cal.App.3d 799, 804–805 [286 Cal.Rptr. 762].)"
+      },
+      {
+        "text": "909–914. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

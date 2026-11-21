@@ -1,0 +1,151 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3410",
+  "title": "Statute of Limitations",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2365,
+      2368
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, August 2009",
+  "revision_legend": null,
+  "body": [
+    "A defendant may not be convicted of ______ <insert crime[s]> unless the prosecution began within ______ years of the date the crime[s] ((was/were) committed/(was/were) discovered/should have been discovered). The present prosecution began on ______ <insert date>.",
+    "[A crime *should have been discovered* when the (victim/law enforcement officer) was aware of facts that would have alerted a reasonably diligent (person/law enforcement officer) in the same circumstances to the fact that a crime may have been committed.]",
+    "The People have the burden of proving by a preponderance of the evidence that prosecution of this case began within the required time. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the People must prove that it is more likely than not that prosecution of this case began within the required time. If the People have not met this burden, you must find the defendant not guilty of ______ <insert crime[s]>.",
+    "[If the People have proved that it is more likely than not that the defendant was outside of California for some period of time, you must not include that period [up to three years] in determining whether the prosecution began on time.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the statute of limitations if the defendant is relying on such a defense and there is substantial evidence supporting it. (See generally *People v. Stewart* (1976) 16 Cal.3d 133, 140 [127 Cal.Rptr. 117, 544 P.2d 1317] [discussing duty to instruct on defenses].)"
+      },
+      {
+        "text": "Do not give this instruction in cases in which the statute of limitations had already expired under the pre-2009 version of Penal Code section 804(c)."
+      },
+      {
+        "text": "The state has the burden of proving by a preponderance of the evidence that the prosecution is not barred by the statute of limitations. (*People v. Crosby* (1962) 58 Cal.2d 713, 725 [25 Cal.Rptr. 847, 375 P.2d 839]; see CACI 200, *Obligation to Prove—More Likely True Than Not True*.)"
+      },
+      {
+        "text": "For most crimes, the statute begins to run when the offense is committed. If the crime is a fraud-related offense and included in Penal Code section 803, the statute begins to run after the completion of or discovery of the offense, whichever is later. (Pen. Code, §§ 801.5, 803.) Courts interpreting the date of discovery provision have imposed a due diligence requirement on investigative efforts. (*People v. Zamora* (1976) 18 Cal.3d 538, 561 [134 Cal.Rptr. 784, 557 P.2d 75]; *People v. Lopez* (1997) 52 Cal.App.4th 233, 246 [60 Cal.Rptr.2d 511].) If one of the crimes listed in Section 803 is at issue, the court should instruct using the “discovery” language."
+      },
+      {
+        "text": "If there is a factual issue about when the prosecution started, the court should instruct that the prosecution begins when (1) an information or indictment is filed, (2) a complaint is filed charging a misdemeanor or infraction, (3) the defendant is arraigned on a complaint that charges the defendant with a felony, or (4) an arrest warrant or bench warrant is issued describing the defendant with the same degree of particularity required for an indictment, information, or complaint. (Pen. Code, § 804.)"
+      },
+      {
+        "heading": true,
+        "text": "Limitation Periods"
+      },
+      {
+        "text": "No limitations period (Pen. Code, § 799):"
+      },
+      {
+        "text": "Embezzlement of public funds and crimes punishable by death or by life imprisonment."
+      },
+      {
+        "text": "Six-year period (Pen. Code, § 800):"
+      },
+      {
+        "text": "Felonies punishable for eight years or more, unless otherwise specified by statute."
+      },
+      {
+        "text": "Five-year period (Pen. Code, § 801.6):"
+      },
+      {
+        "text": "All other crimes against elders and dependent adults."
+      },
+      {
+        "text": "Four-year period (Pen. Code, §§ 801.5, 803(c)):"
+      },
+      {
+        "text": "Fraud, breach of fiduciary obligation, theft, or embezzlement on an elder or dependent adult, and misconduct in office."
+      },
+      {
+        "text": "Three-year period (Pen. Code, §§ 801, 802(b)):"
+      },
+      {
+        "text": "All other felonies, unless otherwise specified by statute, and misdemeanors committed upon a minor under the age of 14. Note: “If the offense is an alternative felony/misdemeanor ‘wobbler’ initially charged as a felony, the three-year statute of limitations applies, without regard to the ultimate reduction to a misdemeanor after the filing of the complaint [citation].” (*People v. Mincey* (1992) 2 Cal.4th 408, 453 [6 Cal.Rptr.2d 822, 827 P.2d 388].)"
+      },
+      {
+        "text": "Two-year period (Pen. Code, § 802(c)):"
+      },
+      {
+        "text": "Misdemeanors under Business and Professions Code section 729."
+      },
+      {
+        "text": "One-year period (Pen. Code, § 802(a)):"
+      },
+      {
+        "text": "Misdemeanors. Note: “If the initial charge is a felony but the defendant is convicted of a necessarily included misdemeanor, the one-year period for misdemeanors applies.” (*People v. Mincey* (1992) 2 Cal.4th 408, 453 [6 Cal.Rptr.2d 822, 827 P.2d 388]; Pen. Code, § 805(b); see also 1 Witkin & Epstein, California. Criminal Law (3d ed. 2000) Defenses, § 220.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, § 799 et seq.; *People v. Stewart* (1976) 16 Cal.3d 133, 140 [127 Cal.Rptr. 117, 544 P.2d 1317]."
+      },
+      {
+        "text": "• Tolling the Statute. Pen. Code, § 803."
+      },
+      {
+        "text": "• Burden of Proof. *People v. Lopez* (1997) 52 Cal.App.4th 233, 250 [60 Cal.Rptr.2d 511]; *People v. Zamora* (1976) 18 Cal.3d 538, 565 [134 Cal.Rptr. 784, 557 P.2d 75]; *People v. Crosby* (1962) 58 Cal.2d 713, 725 [25 Cal.Rptr. 847, 375 P.2d 839]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Burden of Proof"
+      },
+      {
+        "text": "At trial, the prosecutor bears the burden of proving by a preponderance of the evidence that the prosecution began within the required time. However, at a pretrial motion to dismiss, the defendant has the burden of proving that the statute of limitations has run as a matter of law. (*People v. Lopez* (1997) 52 Cal.App.4th 233, 249–251 [60 Cal.Rptr.2d 511].) The defendant is entitled to prevail on the motion only if there is no triable issue of fact. (*Id*. at p. 249.)"
+      },
+      {
+        "heading": true,
+        "text": "Computation of Time"
+      },
+      {
+        "text": "To determine the exact date the statute began to run, exclude the day the crime was completed. (*People v. Zamora* (1976) 18 Cal.3d 538, 560 [134 Cal.Rptr. 784, 557 P.2d 75].)"
+      },
+      {
+        "heading": true,
+        "text": "Felony Murder"
+      },
+      {
+        "text": "Felony-murder charges and felony-murder special circumstances allegations may be filed even though the statute of limitations has run on the underlying felony. (*People v. Morris* (1988) 46 Cal.3d 1, 14–18 [249 Cal.Rptr. 119, 756 P.2d 843], disapproved of on other grounds in *In re Sassounian* (1995) 9 Cal.4th 535 [37 Cal.Rptr.2d 446, 887 P.2d 527].)"
+      },
+      {
+        "heading": true,
+        "text": "Offense Completed"
+      },
+      {
+        "text": "When an offense continues over a period of time, the statutory period usually does not begin until after the last overt act or omission occurs. (*People v. Zamora* (1976) 18 Cal.3d 538, 548 [134 Cal.Rptr. 784, 557 P.2d 75] [last act of conspiracy to burn insured’s property was when fire was ignited and crime was completed; last act of grand theft was last insurance payment].)"
+      },
+      {
+        "heading": true,
+        "text": "Waiving the Statute of Limitations"
+      },
+      {
+        "text": "A defendant may affirmatively, but not inadvertently, waive the statute of limitations. (*People v. Williams* (1999) 21 Cal.4th 335, 338, 340–342 [87 Cal.Rptr.2d 412, 981 P.2d 42]; *People v. Beasley* (2003) 105 Cal.App.4th 1078, 1089–1090 [130 Cal.Rptr.2d 717] [defendant did not request or acquiesce to instruction on time-barred lesser included offense].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

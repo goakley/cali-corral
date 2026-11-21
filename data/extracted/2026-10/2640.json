@@ -1,0 +1,159 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2640",
+  "title": "Perjury (Pen. Code, § 118)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1887,
+      1890
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with perjury [in violation of Penal Code section 118].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—defendant took an oath>",
+    "[1. The defendant took an oath to (testify[,]/[or] declare[,]/[or] depose[,]/[or] certify) truthfully before a competent (tribunal[,]/[or] officer[,]/[or] person) under circumstances in which the oath of the State of California lawfully may be given;]",
+    "<Alternative 1B—defendant gave statement under penalty of perjury>",
+    "[1. The defendant (testified[,]/[or] declared[,]/[or] deposed[,]/[or] certified) under penalty of perjury under circumstances in which such (testimony[,]/[or] declaration[,]/[or] deposition[,]/[or] certificate) was permitted by law;]",
+    "2. When the defendant (testified[,]/[or] declared[,]/[or] deposed[,]/[or] certified), (he/she) willfully stated that the information was true even though (he/she) knew it was false;",
+    "3. The information was material;",
+    "4. The defendant knew (he/she) was making the statement under (oath/penalty of perjury);",
+    "[AND]",
+    "5. When the defendant made the false statement, (he/she) intended to (testify[,]/[or] declare[,]/[or] depose[,]/[or] certify) falsely while under (oath/penalty of perjury)(;/.)",
+    "<Give element 6 only if statement made in declaration, deposition, or certificate.>",
+    "[AND",
+    "6. The defendant signed and delivered (his/her) (declaration[,]/[or] deposition[,]/[or] certificate) to someone else intending that it be circulated or published as true.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "[An *oath* is an affirmation or any other method authorized by law to affirm the truth of a statement.]",
+    "[Information is *material* if it is probable that the information would influence the outcome of the proceedings, but it does not need to actually have an influence on the proceedings.]",
+    "[Information is *material* if ______ <insert appropriate definition; see Bench Notes>.]",
+    "The People do not need to prove that the defendant knew that the information in (his/her) statement was material.",
+    "You may not find the defendant’s statement was false based on the testimony of ______ <insert name of witness> alone. In addition to the testimony of ______ <insert name of witness>, there must be some other evidence that the defendant’s statement was false. This other evidence may be direct or indirect. [However, if you conclude, based on the defendant’s own testimony, that the allegedly false statement was in fact false, then additional evidence is not required.]",
+    "If the defendant actually believed that the statement was true, the defendant is not guilty of this crime even if the defendant’s belief was mistaken.",
+    "The People allege that the defendant made the following false statement[s]: ______ <insert alleged statement[s]>.",
+    "[You may not find the defendant guilty unless all of you agree that the People have proved that the defendant made at least one false statement and you all agree on which particular false statement the defendant made. The People do not need to prove that all the allegedly false statements were in fact false.]",
+    "[It is not a defense (that the oath was given or taken in an irregular manner/[or] that the defendant did not go before or take the oath in the presence of the officer claiming to administer the oath) as long as the defendant caused the officer administering the oath to certify that the oath had been taken.]",
+    "[When a person makes a statement, without qualification, that information is true, but he or she does not know whether the information is true, the making of that statement is the same as saying something that the person knows is false.]",
+    "[If the defendant attempted to correct the statement after it was made, that attempt may show that the defendant did not intend to (testify[,]/[or] declare[,]/[or] depose[,]/[or] certify) falsely. It is up to you to decide the meaning and importance of that conduct.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to define “material.” (*People v. Kobrin* (1995) 11 Cal.4th 416, 430 [45 Cal.Rptr.2d 895, 903 P.2d 1027] [materiality is a fact question to be decided by the jury].) The first bracketed definition of material is appropriate for court proceedings or legislative hearings. (*People v. Hedgecock* (1990) 51 Cal.3d 395, 405 [272 Cal.Rptr. 803, 795 P.2d 1260] [not appropriate for charge of perjury on required disclosure forms].) For other types of proceedings, the court should use the second bracketed sentence, inserting an appropriate definition in the blank provided. (*Id.* at pp. 405–407.)"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct the jury about the need for corroboration of the evidence of perjury. (*People v. Di Giacomo* (1961) 193 Cal.App.2d 688, 698 [14 Cal.Rptr. 574]; Pen. Code, § 118(b).) If the evidence that the statement is false is based in whole or in part on the defendant’s testimony, give the bracketed sentence that begins with “However, if you conclude, based on the defendant’s own testimony.”"
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant made multiple statements that were perjury, the court has a sua sponte duty to instruct on unanimity. (*People v. McRae* (1967) 256 Cal.App.2d 95, 120–121 [63 Cal.Rptr. 854].) Give the bracketed paragraph that begins with “You may not find the defendant guilty unless.”"
+      },
+      {
+        "text": "Give element 6 if the case involves a declaration, deposition, or certificate. (Pen. Code, § 124; *People v. Griffini* (1998) 65 Cal.App.4th 581, 596 [76 Cal.Rptr.2d 590] [delivery requirement applies to “declaration”; discussing at length meaning of “deposition,” “declaration,” “certificate,” and “affidavit”]; *Collins v. Superior Court* (2001) 89 Cal.App.4th 1244, 1247 [108 Cal.Rptr.2d 123]; *People v. Post* (2001) 94 Cal.App.4th 467, 480–481 [114 Cal.Rptr.2d 356].)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “It is not a defense (that the oath was given or taken in an irregular manner” on request if supported by the evidence and when instructing with element 1A. (Pen. Code, § 121.)"
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “When a person makes a statement, without qualification,” on request if supported by the evidence. (Pen. Code, § 125.)"
+      },
+      {
+        "text": "If there is sufficient evidence, give the bracketed paragraph that begins with “If the defendant attempted to correct.” (*People v. Baranov* (1962) 201 Cal.App.2d 52, 60–61 [19 Cal.Rptr. 866].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 118."
+      },
+      {
+        "text": "• Oath Defined. Pen. Code, § 119."
+      },
+      {
+        "text": "• Irregular Oath Not a Defense. Pen. Code, § 121. • Knowledge of Materiality Not Necessary. Pen. Code, § 123."
+      },
+      {
+        "text": "• Completion of Deposition, Affidavit, or Certificate. Pen. Code, § 124; *Collins v. Superior Court* (2001) 89 Cal.App.4th 1244, 1247 [108 Cal.Rptr.2d 123]."
+      },
+      {
+        "text": "• Unqualified Statement Equivalent to False Statement. Pen. Code, § 125."
+      },
+      {
+        "text": "• Material Defined. *People v. Pierce* (1967) 66 Cal.2d 53, 61 [56 Cal.Rptr. 817, 423 P.2d 969]; *People v. Hedgecock* (1990) 51 Cal.3d 395, 405 [272 Cal.Rptr. 803, 795 P.2d 1260]; *People v. Rubio* (2004) 121 Cal.App.4th 927, 930–934 [17 Cal.Rptr.3d 524]."
+      },
+      {
+        "text": "• Materiality Is Element to Be Decided by Jury. *People v. Kobrin* (1995) 11 Cal.4th 416, 430 [45 Cal.Rptr.2d 895, 903 P.2d 1027]; *People v. Feinberg* (1997) 51 Cal.App.4th 1566, 1576 [60 Cal.Rptr.2d 323]."
+      },
+      {
+        "text": "• Specific Intent to Testify Falsely Required. *People v. Viniegra* (1982) 130 Cal.App.3d 577, 584 [181 Cal.Rptr. 848]; see also *People v. Hagen* (1998) 19 Cal.4th 652, 663–664 [80 Cal.Rptr.2d 24, 967 P.2d 563] [discussing intent requirement for perjury]."
+      },
+      {
+        "text": "• Good Faith Belief Statement True Negates Intent. *People v. Von Tiedeman* (1898) 120 Cal. 128, 134 [52 P. 155] [cited with approval in *People v. Hagen* (1998) 19 Cal.4th 652, 663–664 [80 Cal.Rptr.2d 24, 967 P.2d 563]]; *People v. Louie* (1984) 158 Cal.App.3d Supp. 28, 43 [205 Cal.Rptr. 247]."
+      },
+      {
+        "text": "• Declaration Must Be Delivered. *People v. Griffini* (1998) 65 Cal.App.4th 581, 596 [76 Cal.Rptr.2d 590]."
+      },
+      {
+        "text": "• Unanimity. *People v. McRae* (1967) 256 Cal.App.2d 95, 120–121 [63 Cal.Rptr. 854]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Perjury. *People v. Post* (2001) 94 Cal.App.4th 467, 480–481 [114 Cal.Rptr.2d 356]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Unsigned Deposition"
+      },
+      {
+        "text": "In *People v. Post* (2001) 94 Cal.App.4th 467, 480–481 [114 Cal.Rptr.2d 356], the court held that an unexecuted deposition transcript was like an undelivered statement that could not form the basis for a perjury conviction. Nevertheless, it was sufficient evidence to support a conviction on the lesser included offense of attempted perjury. *(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

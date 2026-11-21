@@ -1,0 +1,134 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "890",
+  "title": "Assault With Intent to Commit Specified Crimes [While Committing First Degree Burglary] (Pen. Code, § 220(a), (b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      691,
+      693
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2010, October 2010, August 2012, March 2022, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault with intent to commit ______ <insert crime specified in Penal Code section 220(a)> [while committing first degree burglary] [in violation of Penal Code section 220((a)/[and] (b))].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant did an act that by its nature would directly and probably result in the application of force to a person;",
+    "2. The defendant did that act willfully;",
+    "3. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act by its nature would directly and probably result in the application of force to someone;",
+    "4. When the defendant acted, (he/she) had the present ability to apply force to a person;",
+    "[AND]",
+    "5. When the defendant acted, (he/she) intended to commit ______ <insert crime specified in Pen. Code, § 220(a)>;*",
+    "[AND",
+    "6. When the defendant acted, (he/she) was committing a first degree burglary.]",
+    "<If the court concludes that the first degree burglary requirement in Pen. Code, § 220(b) is a penalty allegation and not an element of the offense, give the bracketed language below in place of element 6.>",
+    "6. [If you find the defendant guilty of the charged crime, you must then decide whether the People have proved the additional allegation that the crime was committed in the commission of a first degree burglary.]",
+    "[First degree burglary is defined in another instruction to which you should refer.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "No one needs to actually have been injured by the defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was].",
+    "To decide whether the defendant intended to commit ______ <insert crime specified in Pen. Code, § 220(a)> please refer to Instruction[s] ______ which define[s] (that/those) crime[s]."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The court has a sua sponte duty to give a *Mayberry* consent instruction if the defense is supported by substantial evidence and is consistent with the defense raised at trial. (*People v. May* (1989) 213 Cal.App.3d 118, 124–125 [261 Cal.Rptr. 502]; see *People v. Mayberry* (1975) 15 Cal.3d 143 [125 Cal.Rptr. 745, 542 P.2d 1337]; see also CALCRIM No. 1000, *Rape by Force, Fear, or Threats* [alternative paragraph on reasonable and actual belief in consent].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the sex offense or offense alleged. (*People v. May, supra,* 213 Cal.App.3d at p. 129.) In the blanks, specify the sex offense or offenses that the defendant is charged with intending to commit. Included sex offenses are: rape (Pen. Code, § 261); oral copulation (Pen. Code, § 287 [including in-concert offense]); sodomy (Pen. Code, § 286 [including in-concert offense]); sexual penetration (Pen. Code, § 289); rape or sexual penetration in concert (Pen. Code, § 264.1); and lewd or lascivious acts (Pen. Code, § 288). (See Pen. Code, § 220.) Give the appropriate instructions on the offense or offenses alleged."
+      },
+      {
+        "text": "The court should also give CALCRIM Nos. 1700 and 1701 on burglary, if defendant is charged with committing the offense during a first degree burglary, as well as the appropriate CALCRIM instruction on the target crime charged pursuant to Penal Code section 220."
+      },
+      {
+        "text": "If the specified crime is mayhem, give CALCRIM No. 891, *Assault With Intent to Commit Mayhem*."
+      },
+      {
+        "text": "Element 6 is in brackets because there is no guidance from courts of review regarding whether the first degree burglary requirement in Penal Code section 220(b) is an element or an enhancement."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 915, *Simple Assault*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 220."
+      },
+      {
+        "text": "• Elements for Assault. Pen. Code, § 240; *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Court Must Instruct on Elements of Intended Crime. *People v. May, supra,* 213 Cal.App.3d at p. 129 [in context of assault to commit rape]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Simple Assault. Pen. Code, § 240; see *People v. Greene* (1973) 34 Cal.App.3d 622, 653 [110 Cal.Rptr. 160] [in context of charged assault with intent to commit rape]."
+      },
+      {
+        "text": "Both assault with intent to commit rape and first degree burglary are lesser included offenses of assault with intent to commit rape during first degree burglary (Pen. Code, § 220(b); (*People v. Dyser* (2012) 202 Cal.App.4th 1015, 1021 [135 Cal.Rptr.3d 891].)"
+      },
+      {
+        "text": "There is no crime of attempted assault to commit an offense. (See *People v. Duens* (1976) 64 Cal.App.3d 310, 314 [134 Cal.Rptr. 341] [in context of assault to commit rape].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      },
+      {
+        "heading": true,
+        "text": "Abandonment"
+      },
+      {
+        "text": "An assault with intent to commit another crime is complete at any point during the incident when the defendant entertains the intent to commit the crime. “It makes no difference whatsoever that he later abandons that intent.” (See *People v. Trotter* (1984) 160 Cal.App.3d 1217, 1223 [207 Cal.Rptr. 165]; *People v. Meichtry* (1951) 37 Cal.2d 385, 388–389 [231 P.2d 847] [both in context of assault to commit rape].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

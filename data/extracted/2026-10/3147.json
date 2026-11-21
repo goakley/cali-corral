@@ -1,0 +1,114 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3147",
+  "title": "Personally Used Firearm: Assault Weapon, Machine Gun, or .50 BMG Rifle (Pen. Code, § 12022.5(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2218,
+      2220
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant personally used (an assault weapon/a machine gun/a .50 BMG rifle) during the commission [or attempted commission] of that crime. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
+    "[(A/An) ______ <insert type of weapon from Pen. Code, § 30510 or description from § 30515> is an *assault weapon*.]",
+    "[A *machine gun* is any weapon that (shoots[,]/[or] is designed to shoot[,]/[or] can readily be restored to shoot) automatically more than one shot by a single function of the trigger and without manual reloading.] [(A/An) ______ <insert name of weapon deemed by the federal Bureau of Alcohol, Tobacco, and Firearms as readily convertible to a machine gun> is [also] a *machine gun.*]",
+    "[A *.50 BMG rifle* is a center fire rifle that can fire a .50 BMG cartridge [and that is not an assault weapon or a machine gun]. A *.50 BMG cartridge* is a cartridge that is designed and intended to be fired from a center fire rifle and that has all three of the following characteristics:",
+    "1. The overall length is 5.54 inches from the base to the tip of the bullet;",
+    "2. The bullet diameter for the cartridge is from .510 to, and including, .511 inch;",
+    "AND",
+    "3. The case base diameter for the cartridge is from .800 inch to, and including, .804 inch.]",
+    "[The term *(assault weapon/machine gun/.50 BMG rifle)* is defined in another instruction.]",
+    "[(An assault weapon/A machine gun/A .50 BMG rifle) does not need to be in working order if it was designed to shoot and appears capable of shooting.] [(An assault weapon/A machine gun/A .50 BMG rifle) does not need to be loaded.]",
+    "Someone *personally uses* (an assault weapon/a machine gun/a .50 BMG rifle) if he or she [knows or reasonably should know that the weapon has characteristics that make it (an assault weapon/a machine gun/a .50 BMG rifle) and] intentionally does any of the following:",
+    "1. Displays the (assault weapon/machine gun/.50 BMG rifle) in a menacing manner;",
+    "2. Hits someone with the (assault weapon/machine gun/.50 BMG rifle);",
+    "OR",
+    "3. Fires the (assault weapon/machine gun/.50 BMG rifle).",
+    "<If there is an issue in the case over whether the defendant used the weapon “during the commission of” the offense, see Bench Notes.>",
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the enhancement. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "The Supreme Court has held that for the crime of possession of an assault weapon, the prosecution must prove that the defendant knew or reasonably should have known that the weapon possessed the characteristics of an assault weapon. (*In re Jorge M.* (2000) 23 Cal.4th 866, 887 [98 Cal.Rptr.2d 466, 4 P.3d 297].) It is unclear if this holding applies to an enhancement for using an assault weapon. In the definition of “personally uses,” the court may give the bracketed phrase that begins “knows or reasonably should know” at its discretion."
+      },
+      {
+        "text": "The court should give the bracketed definition of “assault weapon” or “machine gun” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "If the case involves an issue of whether the defendant used the weapon “during the commission of” the offense, the court may give CALCRIM No. 3261, *While Committing a Felony: Defined—Escape Rule*. (See *People v. Jones* (2001) 25 Cal.4th 98, 109 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, § 12022.5(b). • Assault Weapon Defined. Pen. Code, §§ 30510, 30515."
+      },
+      {
+        "text": "• Machine Gun Defined. Pen. Code, § 16880."
+      },
+      {
+        "text": "• .50 BMG Rifle Defined. Pen. Code, § 30530."
+      },
+      {
+        "text": "• Knowledge Required for Assault Weapon Possession. *In re Jorge M.* (2000) 23 Cal.4th 866, 887 [98 Cal.Rptr.2d 466, 4 P.3d 297]."
+      },
+      {
+        "text": "• Firearm Need Not Be Operable. *People v. Nelums* (1982) 31 Cal.3d 355, 360 [182 Cal.Rptr. 515, 644 P.2d 201]; see also Pen. Code, § 12022.53(b)."
+      },
+      {
+        "text": "• Firearm Need Not Be Loaded. See *People v. Steele* (1991) 235 Cal.App.3d 788, 791–795 [286 Cal.Rptr. 887]; see also Pen. Code, § 12022.53(b)."
+      },
+      {
+        "text": "• Personally Uses. *People v. Bland* (1995) 10 Cal.4th 991, 997 [43 Cal.Rptr.2d 77, 898 P.2d 391]; *People v. Johnson* (1995) 38 Cal.App.4th 1315, 1319–1320 [45 Cal.Rptr.2d 602]; see also Pen. Code, § 1203.06(b)(2)."
+      },
+      {
+        "text": "• “During Commission of” Felony. *People v. Jones* (2001) 25 Cal.4th 98, 109–110 [104 Cal.Rptr.2d 753, 18 P.3d 674]; *People v. Masbruch* (1996) 13 Cal.4th 1001, 1014 [55 Cal.Rptr.2d 760, 920 P.2d 705]; *People v. Taylor* (1995) 32 Cal.App.4th 578, 582 [38 Cal.Rptr.2d 127]."
+      },
+      {
+        "text": "• May Not Receive Enhancement for Both Using and Being Armed With One Weapon. *People v. Wischemann* (1979) 94 Cal.App.3d 162, 175–176 [156 Cal.Rptr. 386]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues sections of CALCRIM No. 3145, *Personally Used Deadly Weapon*, and CALCRIM No. 3146, *Personally Used Firearm*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

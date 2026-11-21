@@ -1,0 +1,51 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "356",
+  "title": "Miranda-Defective Statements",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      200,
+      200
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "You have heard evidence that the defendant made a statement to a peace officer. [I am referring to the statement (about which Officer[s] ______ testified/______ <insert other description to identify statement, e.g., time and place statement was taken>).]",
+    "If you conclude that the defendant made this statement, you may consider it only to help you decide whether to believe the defendant’s testimony. You may not consider it as proof that the statement is true or for any other purpose.",
+    "[You should view an unrecorded oral statement cautiously.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "There is no sua sponte duty to give a limiting instruction on the use of statements taken in violation of the *Miranda* rule. (*People v. Coffman and Marlow* (2004) 34 Cal.4th 1, 63 [17 Cal.Rptr.3d 710, 96 P.3d 30].) The court must give the instruction on request."
+      },
+      {
+        "text": "If the defendant made more than one statement, but not all of the statements are subject to the limiting admonition, specify the relevant statement or statements using the bracketed text in the first paragraph."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. *People v. Coffman and Marlow* (2004) 34 Cal.4th 1, 63 [17 Cal.Rptr.3d 710, 96 P.3d 30]; *People v. May* (1988) 44 Cal.3d 309 [243 Cal.Rptr. 369, 748 P.2d 307]; *Harris v. New York* (1971) 401 U.S. 222 [91 S.Ct. 643, 28 L.Ed.2d 1]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

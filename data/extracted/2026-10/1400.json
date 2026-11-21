@@ -1,0 +1,295 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1400",
+  "title": "Active Participation in Criminal Street Gang (Pen. Code, § 186.22(a))",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      68,
+      75
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007, December 2008, August 2012, February 2013, August 2013, February 2014, August 2014, February 2016, March 2022, March 2023, September 2024, October 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with participating in a criminal street gang [in violation of Penal Code section 186.22(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant actively participated in a criminal street gang;",
+    "2. When the defendant participated in the gang, (he/she) knew that members of the gang engage in or have engaged in a pattern of criminal gang activity;",
+    "AND",
+    "3. The defendant willfully assisted, furthered, or promoted felonious criminal conduct by members of the gang either by:",
+    "a. directly and actively committing a felony offense;",
+    "a. OR",
+    "b. aiding and abetting a felony offense.",
+    "At least two members of that same gang must have participated in committing the felony offense. The defendant may count as one of those members if you find that the defendant was a member of the gang.",
+    "*Active participation* means involvement with a criminal street gang in a way that is more than passive or in name only.",
+    "[The People do not have to prove that the defendant devoted all or a substantial part of (his/her) time or efforts to the gang, or that (he/she) was an actual member of the gang.]",
+    "<If criminal street gang has already been defined.>",
+    "[A *criminal street gang* is defined in another instruction to which you should refer.]",
+    "<If criminal street gang has not already been defined in another instruction.>",
+    "[A *criminal street gang* is an ongoing organized association or group of three or more persons, whether formal or informal:",
+    "1. That has a common name or common identifying sign or symbol;",
+    "2. That has, as one or more of its primary activities, the commission of ______ <insert one or more crimes listed in Pen. Code, § 186.22(e)(1)>;",
+    "AND",
+    "3. Whose members collectively engage in or have engaged in a pattern of criminal gang activity.",
+    "In order to qualify as a *primary* activity, the crime must be one of the group’s chief or principal activities rather than an occasional act committed by one or more persons who happen to be members of the group.]",
+    "<Give this paragraph only when the conduct that establishes the pattern of criminal gang activity, i.e., predicate offenses, has not resulted in a conviction or sustained juvenile petition>",
+    "[To decide whether the ongoing organized association or group has, as one of its primary activities, the commission of ______ <insert felony or felonies from Pen. Code, § 186.22(e)(1)>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]",
+    "A *pattern of criminal gang activity*, as used here, means:",
+    "1. [The] (commission of[,]/[or] attempted commission of[,]/[or] conspiracy to commit[,]/[or] solicitation to commit[,]/[or] conviction of[,]/[or] (Having/having) a juvenile petition sustained for commission of) (any combination of two or more of the following crimes/[,] [or] two or more occurrences of [one or more of the following crimes]:) ______ <insert one or more crimes listed in Pen. Code, § 186.22(e)(1)>;",
+    "2. At least one of those crimes was committed after September 26, 1988;",
+    "3. The most recent crime occurred within three years of one of the earlier crimes and within three years of the date of the charged offense;",
+    "4. The crimes were committed on separate occasions or were personally committed by two or more members;",
+    "5. The crimes commonly benefitted a criminal street gang;",
+    "AND",
+    "6. The common benefit from the crimes was more than reputational.",
+    "Examples of a common benefit that are more than reputational may include, but are not limited to, financial gain or motivation, retaliation, targeting a perceived or actual gang rival, or intimidation or silencing of a potential current or previous witness or informant.",
+    "As used here, members *collectively engage in or have engaged in* a pattern of criminal gang activity when the crimes that make up the pattern of criminal gang activity can be connected to the gang as a whole. Collective engagement requires a connection between the crimes and the gang’s organizational structure or manner of governance, its primary activities, or its common goals and principles.",
+    "<Give this paragraph only when the conduct that establishes the pattern of criminal gang activity, i.e., predicate offenses, has not resulted in a conviction or sustained juvenile petition.>",
+    "[To decide whether a member of the gang [or the defendant] committed ______ <insert felony or felonies from Pen. Code, § 186.22(e)(1)>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]",
+    "The People need not prove that every perpetrator involved in the pattern of criminal gang activity, if any, was a member of the alleged criminal street gang at the time when such activity was taking place.",
+    "[If you find the defendant guilty of a crime in this case, you may consider that crime in deciding whether one of the group’s primary activities was commission of that crime.]",
+    "[You may not consider evidence of the charged offense[s] in deciding whether a pattern of criminal gang activity has been established.]",
+    "[You may not find that there was a pattern of criminal gang activity unless all of you agree that two or more crimes that satisfy these requirements were committed, but you do not have to all agree on which crimes were committed.]",
+    "As the term is used here, a *willful act* is one done willingly or on purpose.",
+    "*Felonious criminal conduct* means committing or attempting to commit [any of] the following crime[s]: ______ <insert felony or felonies by gang members that the defendant is alleged to have furthered, assisted, promoted or directly committed>.",
+    "[To decide whether a member of the gang [or the defendant] committed ______ <insert felony or felonies listed immediately above>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]",
+    "To prove that the defendant aided and abetted felonious criminal conduct by a member of the gang, the People must prove that:",
+    "1. A member of the gang committed the crime;",
+    "2. The defendant knew that the gang member intended to commit the crime;",
+    "3. Before or during the commission of the crime, the defendant intended to aid and abet the gang member in committing the crime;",
+    "AND",
+    "4. The defendant’s words or conduct did in fact aid and abet the commission of the crime.",
+    "Someone *aids and abets* a crime if he or she knows of the perpetrator’s unlawful purpose and he or she specifically intends to, and does in fact, aid, facilitate, promote, encourage, or instigate the perpetrator’s commission of that crime.",
+    "[If all of these requirements are proved, the defendant does not need to actually have been present when the crime was committed to be guilty as an aider and abettor.]",
+    "[If you conclude that defendant was present at the scene of the crime or failed to prevent the crime, you may consider that fact in determining whether the defendant was an aider and abettor. However, the fact that a person is present at the scene of a crime or fails to prevent the crime does not, by itself, make him or her an aider and abettor.]",
+    "[A person who aids and abets a crime is not guilty of that crime if he or she withdraws before the crime is committed. To withdraw, a person must do two things:",
+    "1. He or she must notify everyone else he or she knows is involved in the commission of the crime that he or she is no longer participating. The notification must be made early enough to prevent the commission of the crime;",
+    "AND",
+    "2. He or she must do everything reasonably within his or her power to prevent the crime from being committed. He or she does not have to actually prevent the crime.",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw. If the People have not met this burden, you may not find the defendant guilty under an aiding and abetting theory.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    35.0,
+    35.0,
+    34.3,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "In the definition of “felonious criminal conduct,” insert the felony or felonies the defendant allegedly aided and abetted. (See *People v. Green* (1991) 227 Cal.App.3d 692, 704 [278 Cal.Rptr. 140] [abrogated on other grounds by *People v. Castenada* (2000) 23 Cal.4th 743, 747–748 [97 Cal.Rptr.2d 906, 3 P.3d 278]].) Note that a defendant’s misdemeanor conduct in the charged case, which is elevated to a felony by operation of Penal Code section 186.22(a), is not sufficient to satisfy the felonious criminal conduct requirement of an active gang participation offense charged under subdivision (a) of section 186.22 or of active gang participation charged as an element of felony firearm charges under section 12025(b)(3) or 12031(a)(2)(C). *People v. Lamas* (2007) 42 Cal.4th 516, 524 [67 Cal.Rptr.3d 179, 169 P.3d 102]."
+      },
+      {
+        "text": "The court should also give the appropriate instructions defining the elements of crimes inserted in the list of alleged “primary activities” or inserted in the definition of “pattern of criminal gang activity” that have not been established by prior convictions or sustained juvenile petitions. The court should also give the appropriate instructions defining the elements of all crimes inserted in the definition of “felonious criminal conduct.”"
+      },
+      {
+        "text": "On request, give the bracketed paragraph that begins with “The People do not need to prove that the defendant devoted all or a substantial part of . . . .” (See Pen. Code, § 186.22(j).)"
+      },
+      {
+        "text": "On request, give the bracketed paragraph that begins with “If you find the defendant guilty of a crime in this case.” (*People v. Sengpadychith* (2001) 26 Cal.4th 316, 322–323 [109 Cal.Rptr.2d 851, 27 P.3d 739]; *People v. Duran* (2002) 97 Cal.App.4th 1448, 1464–1465 [119 Cal.Rptr.2d 272].)"
+      },
+      {
+        "text": "On request, give the bracketed paragraph that begins with “You may not find that there was a pattern of criminal gang activity.” (*People v. Funes* (1994) 23 Cal.App.4th 1506, 1527–1528 [28 Cal.Rptr.2d 758]; see also Related Issues section below on Unanimity.)"
+      },
+      {
+        "text": "On request, the court must give a limiting instruction on the gang evidence. (*People v. Hernandez* (2004) 33 Cal.4th 1040, 1051–1052 [16 Cal.Rptr.3d 880, 94 P.3d 1080].) If requested, give CALCRIM No. 1403, *Limited Purpose of Evidence of Gang Activity*."
+      },
+      {
+        "text": "If the defendant is charged with other counts that do not require gang evidence as an element, the court must try the Penal Code section 186.22(a) count separately. (Pen. Code, § 1109(b).)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If there is evidence that the defendant was merely present at the scene or only had knowledge that a crime was being committed, the court has a sua sponte duty to give the bracketed paragraph that begins with “If you conclude that defendant was present.” (*People v. Boyd* (1990) 222 Cal.App.3d 541, 557, fn. 14 [271 Cal.Rptr. 738]; *In re Michael T.* (1978) 84 Cal.App.3d 907, 911 [149 Cal.Rptr. 87].)"
+      },
+      {
+        "text": "If there is sufficient evidence that the defendant withdrew, the court has a sua sponte duty to give the final bracketed section on the defense of withdrawal."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "This instruction should be used when a defendant is charged with a violation of Penal Code section 186.22(a) as a substantive offense. If the defendant is charged with an enhancement under 186.22(b), use CALCRIM No. 1401, *Felony or Misdemeanor Committed for Benefit of Criminal Street Gang (Pen. Code, § 186.22(b)(1) (Felony) and § 186.22(d) (Felony or Misdemeanor))*."
+      },
+      {
+        "text": "For additional instructions relating to liability as an aider and abettor, see the Aiding and Abetting series (CALCRIM No. 400 et seq.)."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 186.22(a)."
+      },
+      {
+        "text": "• “Active Participation” Defined. *People v. Cardenas* (2025) 18 Cal.5th 797, 828–829 [336 Cal.Rptr.3d 215, 574 P.3d 680]; *People v. Castenada, supra,* 23 Cal.4th at p. 747."
+      },
+      {
+        "text": "• “Criminal Street Gang” Defined. Pen. Code, § 186.22(f)."
+      },
+      {
+        "text": "• “Collectively Engage” Defined. *People v. Clark* (2024) 15 Cal.5th 743, 755–756 [318 Cal.Rptr.3d 152, 542 P.3d 1085]."
+      },
+      {
+        "text": "• “Organized” Defined. *People v. Superior Court (Farley)* (2024) 100 Cal.App.5th 315, 326–333 [319 Cal.Rptr.3d 100]; *People v. Campbell* (2023) 98 Cal.App.5th 350, 380–381 [316 Cal.Rptr.3d 638]."
+      },
+      {
+        "text": "• “Pattern of Criminal Gang Activity” Defined. Pen. Code, § 186.22(e), (g)."
+      },
+      {
+        "text": "• Examples of Common Benefit. Pen. Code, § 186.22(g); *People v. Cortez* (2025) 114 Cal.App.5th 1201, 1211–1213 [337 Cal.Rptr.3d 455] [intragang punishment for financial transgressions]."
+      },
+      {
+        "text": "• Nonreputational Common Benefit Means Actual Benefit. *People v. Cooper* (2023) 14 Cal.5th 735, 743–744 [308 Cal.Rptr.3d 409, 529 P.3d 66] [“the question about a common benefit asks about how the specific predicate offense actually benefited the gang.”]; *People v. Shively* (2025) 111 Cal.App.5th 460, 468–470 [332 Cal.Rptr.3d 855] [insufficient evidence of common benefit that was more than reputational]."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1)."
+      },
+      {
+        "text": "• Separate Intent From Underlying Felony. *People v. Herrera* (1999) 70 Cal.App.4th 1456, 1467–1468 [83 Cal.Rptr.2d 307]."
+      },
+      {
+        "text": "• Applies to Both Perpetrator and Aider and Abettor. *People v. Ngoun* (2001) 88 Cal.App.4th 432, 436 [105 Cal.Rptr.2d 837]; *People v. Castenada, supra,* 23 Cal.4th at pp. 749–750."
+      },
+      {
+        "text": "• “Felonious Criminal Conduct” Defined. *People v. Albillar* (2010) 51 Cal.4th 47, 54–59 [119 Cal.Rptr.3d 415, 244 P.3d 1062]; *People v. Green, supra,* 227 Cal.App.3d at p. 704."
+      },
+      {
+        "text": "• Separate Intent From Underlying Felony. *People v. Herrera* (1999) 70 Cal.App.4th 1456, 1467–1468 [83 Cal.Rptr.2d 307]."
+      },
+      {
+        "text": "• Willfully Assisted, Furthered, or Promoted Felonious Criminal Conduct. *People v. Rodriguez* (2012) 55 Cal.4th 1125, 1132–1138 [150 Cal.Rptr.3d 533, 290 P.3d 1143]."
+      },
+      {
+        "text": "• Temporal Connection Between Active Participation and Felonious Criminal Conduct. *People v. Garcia* (2007) 153 Cal.App.4th 1499, 1509 [64 Cal.Rptr.3d 104]."
+      },
+      {
+        "text": "• Crimes Committed After Charged Offense Not Predicates. *People v. Duran*, *supra*, 97 Cal.App.4th at p. 1458."
+      },
+      {
+        "text": "• Conspiracy to Commit This Crime. *People v. Johnson* (2013) 57 Cal.4th 250, 255, 266–267 [159 Cal.Rptr.3d 70, 303 P.3d 379]."
+      },
+      {
+        "text": "• Proof of Sufficient Connection Among Gang “Subsets” and Umbrella Gang Required. *People v. Prunty* (2015) 62 Cal.4th 59, 81–85 [192 Cal.Rptr.3d 309, 355 P.3d 480]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "The jury may not consider the circumstances of the charged crime to establish a pattern of criminal activity. (Pen. Code, § 186.22(e)(2).) A “pattern of criminal gang activity” requires two or more “predicate offenses” during a statutory time period. Another offense committed on the same occasion by a fellow gang member may serve as a predicate offense. (*People v. Loeun* (1997) 17 Cal.4th 1, 9–10 [69 Cal.Rptr.2d 776, 947 P.2d 1313]; see also *In re Nathaniel C.* (1991) 228 Cal.App.3d 990, 1002–1003 [279 Cal.Rptr. 236] [two incidents each with single perpetrator, or single incident with multiple participants committing one or more specified offenses, are sufficient]; *People v. Ortiz* (1997) 57 Cal.App.4th 480, 484 [67 Cal.Rptr.2d 126].) However, convictions of a perpetrator and an aider and abettor for a single crime establish only one predicate offense (*People v. Zermeno* (1999) 21 Cal.4th 927, 931–932 [89 Cal.Rptr.2d 863, 986 P.2d 196]), and “[c]rimes occurring *after* the charged offense cannot serve as predicate offenses to prove a pattern of criminal gang activity.” (*People v. Duran, supra,* 97 Cal.App.4th at p. 1458 [original italics].) The “felonious criminal conduct” need not be gang-related. (*People v. Albillar, supra,* 51 Cal.4th at pp. 54–59.)"
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "heading": true,
+        "text": "Predicate Offenses Not Lesser Included Offenses"
+      },
+      {
+        "text": "The predicate offenses that establish a pattern of criminal gang activity are not lesser included offenses of active participation in a criminal street gang. (*People v. Burnell* (2005) 132 Cal.App.4th 938, 944–945 [34 Cal.Rptr.3d 40].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Conspiracy"
+      },
+      {
+        "text": "Anyone who actively participates in a criminal street gang with knowledge that its members engage in or have engaged in a pattern of criminal gang activity, and who willfully promotes, furthers, assists, or benefits from any felonious criminal conduct by the members, is guilty of conspiracy to commit that felony. (Pen. Code, § 182.5; see Pen. Code, § 182; CALCRIM No. 415, *Conspiracy*.)"
+      },
+      {
+        "heading": true,
+        "text": "Labor Organizations or Mutual Aid Activities"
+      },
+      {
+        "text": "The California Street Terrorism Enforcement and Prevention Act does not apply to labor organization activities or to employees engaged in activities for their mutual aid and protection. (Pen. Code, § 186.23.)"
+      },
+      {
+        "heading": true,
+        "text": "Related Gang Crimes"
+      },
+      {
+        "text": "Soliciting or recruiting others to participate in a criminal street gang, or threatening someone to coerce them to join or prevent them from leaving a gang, are separate crimes. (Pen. Code, § 186.26.) It is also a crime to supply a firearm to someone who commits a specified felony while participating in a criminal street gang. (Pen. Code, § 186.28.)"
+      },
+      {
+        "heading": true,
+        "text": "Unanimity"
+      },
+      {
+        "text": "The “continuous-course-of-conduct exception” applies to the “pattern of criminal gang activity” element of Penal Code section 186.22(a). Thus the jury is not required to unanimously agree on which two or more crimes constitute a pattern of criminal activity. (*People v. Funes*, *supra*, 23 Cal.App.4th at pp. 1527–1528.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised August 2006, June 2007, December 2008, August 2012, February 2013, August 2013, February 2014, August 2014, February 2016, March 2022, March 2023, September 2024"
+  },
+  "supplement_status": "revised"
+}

@@ -1,0 +1,141 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1204",
+  "title": "Kidnapping: During Carjacking (Pen. Code, §§ 207(a), 209.5(a), (b), 215(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1063,
+      1066
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, August 2013",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with kidnapping during a carjacking [in violation of Penal Code section 209.5].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant committed a carjacking;",
+    "2. During the carjacking, the defendant took, held, or detained another person by using force or by instilling reasonable fear;",
+    "3. The defendant moved the other person or made that person move a substantial distance from the vicinity of the carjacking;",
+    "4. The defendant moved or caused the other person to move with the intent to facilitate the carjacking [or to help (himself/herself) escape/or to prevent the other person from sounding an alarm];",
+    "5. The person moved was not one of the carjackers;",
+    "[AND]",
+    "6. The other person did not consent to the movement(;/)",
+    "<Give element 7 when instructing on reasonable belief in consent.>",
+    "[AND",
+    "7. The defendant did not actually and reasonably believe that the other person consented to the movement.]",
+    "As used here, *substantial distance* means more than a slight or trivial distance. The movement must have been more than merely brief and incidental to the commission of the carjacking. The movement must also have increased the risk of [physical or psychological] harm to the person beyond that necessarily present in the carjacking. In deciding whether the movement was sufficient, consider all the circumstances relating to the movement.",
+    "[In order to *consent*, a person must act freely and voluntarily and know the nature of the act.]",
+    "<Defense: Good Faith Belief in Consent>",
+    "[The defendant is not guilty of kidnapping if (he/she) reasonably and actually believed that the other person consented to the movement. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe that the other person consented to the movement. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "<Defense: Consent Given>",
+    "[The defendant is not guilty of kidnapping if the other person consented to go with the defendant. The other person consented if (he/she) (1) freely and voluntarily agreed to go with or be moved by the defendant, (2) was aware of the movement, and (3) had sufficient maturity and understanding to choose to go with the defendant. The People have the burden of proving beyond a reasonable doubt that the other person did not consent to go with the defendant. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "[Consent may be withdrawn. If, at first, a person agreed to go with the defendant, that consent ended if the person changed his or her mind and no longer freely and voluntarily agreed to go with or be moved by the defendant. The defendant is guilty of kidnapping if after the other person withdrew consent, the defendant committed the crime as I have defined it.]",
+    "To decide whether the defendant committed carjacking, please refer to the separate instructions that I (will give/have given) you on that crime.",
+    "[*Fear*, as used in this instruction, means fear of injury to the person or injury to the person’s family or property.] [It also means fear of immediate injury to another person present during the incident or to that person’s property.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime. The court also has a sua sponte duty to instruct on the elements of carjacking. Give CALCRIM No. 1650, *Carjacking*."
+      },
+      {
+        "text": "Give the bracketed definition of “consent” on request."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of consent if there is sufficient evidence to support the defense. (See *People v. Davis* (1995) 10 Cal.4th 463, 516–518 [41 Cal.Rptr.2d 826, 896 P.2d 119] [approving consent instruction as given]; see also *People v. Sedeno* (1974) 10 Cal.3d 703, 717, fn. 7 [112 Cal.Rptr. 1, 518 P.2d 913], overruled on other grounds in *People v. Breverman* (1998) 19 Cal.4th 142, 165 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [when court must instruct on defenses].) An optional paragraph is provided for this purpose, “Defense: Consent Given.”"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defendant’s reasonable and actual belief in the victim’s consent to go with the defendant, if supported by the evidence. (See *People v. Greenberger* (1997) 58 Cal.App.4th 298, 375 [68 Cal.Rptr.2d 61]; *People v. Isitt* (1976) 55 Cal.App.3d 23, 28 [127 Cal.Rptr. 279] [reasonable, good faith belief that victim consented to movement is a defense to kidnapping].) Give bracketed element 7 and the paragraph “Defense: Good Faith Belief in Consent.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 207(a), 209.5(a), (b), 215(a)."
+      },
+      {
+        "text": "• Force or Fear Requirement. *People v. Moya* (1992) 4 Cal.App.4th 912, 916–917 [6 Cal.Rptr.2d 323]; *People v. Stephenson* (1974) 10 Cal.3d 652, 660 [111 Cal.Rptr. 556, 517 P.2d 820] [fear must be reasonable]."
+      },
+      {
+        "text": "• Incidental Movement. See *People v. Martinez* (1999) 20 Cal.4th 225, 237–238 [83 Cal.Rptr.2d 533, 973 P.2d 512]."
+      },
+      {
+        "text": "• Increased Risk of Harm. *People v. Ortiz* (2002) 101 Cal.App.4th 410, 415 [124 Cal.Rptr.2d 92]."
+      },
+      {
+        "text": "• Intent to Facilitate Commission of Carjacking. *People v. Perez* (2000) 84 Cal.App.4th 856, 860–861 [101 Cal.Rptr.2d 376]."
+      },
+      {
+        "text": "• Movement Need Not Substantially Increase Risk of Harm. *People v. Robertson* (2012) 208 Cal.App.4th 965, 982 [146 Cal.Rptr.3d 66]; *People v. Ortiz* (2002) 101 Cal.App.4th 410 [124 Cal.Rptr.2d 92]; Pen. Code, § 209.5(a)."
+      },
+      {
+        "text": "• Vicinity of Carjacking. *People v. Moore* (1999) 75 Cal.App.4th 37, 43–46 [88 Cal.Rptr.2d 914]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Carjacking. Pen. Code, § 215(a); *People v. Jones* (1999) 75 Cal.App.4th 616, 624–626 [89 Cal.Rptr.2d 485]; *People v. Contreras* (1997) 55 Cal.App.4th 760, 765 [64 Cal.Rptr.2d 233] [Pen. Code, § 209.5 requires completed offense of carjacking]."
+      },
+      {
+        "text": "• Attempted Carjacking. Pen. Code, §§ 664, 215(a); *People v. Jones* (1999) 75 Cal.App.4th 616, 626 [89 Cal.Rptr.2d 485]."
+      },
+      {
+        "text": "• False Imprisonment. Pen. Code, §§ 236, 237; see *People v. Russell* (1996) 45 Cal.App.4th 1083, 1088–1089 [53 Cal.Rptr.2d 241]; *People v. Gibbs* (1970) 12 Cal.App.3d 526, 547 [90 Cal.Rptr. 866]."
+      },
+      {
+        "text": "An unlawful taking or driving of a vehicle with an intent to temporarily deprive the owner of possession (Veh. Code, § 10851(a)) is not a necessarily included lesser offense or a lesser related offense of kidnapping during a carjacking. (*People v. Russell* (1996) 45 Cal.App.4th 1083, 1088–1091 [53 Cal.Rptr.2d 241] [evidence only supported finding of kidnapping by force or fear; automobile joyriding formerly governed by Pen. Code, § 499b].)"
+      },
+      {
+        "text": "Grand theft is not a necessarily included offense of carjacking. (*People v. Ortega* (1998) 19 Cal.4th 686, 693 [80 Cal.Rptr.2d 489, 968 P.2d 48].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Dominion and Control"
+      },
+      {
+        "text": "Carjacking can occur when a defendant forcibly takes a victim’s car keys, not just when a defendant takes a car from the victim’s presence. (*People v. Hoard* (2002) 103 Cal.App.4th 599, 608–609 [126 Cal.Rptr.2d 855] [victim was not physically present when defendant drove car away].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

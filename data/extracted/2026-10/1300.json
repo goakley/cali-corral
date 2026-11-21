@@ -1,0 +1,187 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1300",
+  "title": "Criminal Threat (Pen. Code, § 422)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1101,
+      1105
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, June 2007, February 2015, February 2016, March 2018, September 2020, September 2022, October 2025, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with having made a criminal threat [in violation of Penal Code section 422].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully threatened to unlawfully kill or unlawfully cause great bodily injury to ______ <insert name of complaining witness or member[s] of complaining witness’s immediate family>;",
+    "2. The defendant made the threat (orally/in writing/by electronic communication device);",
+    "3. The defendant intended that (his/her) statement be understood as a threat [and intended that it be communicated to ______ <insert name of complaining witness>];",
+    "4. Under the circumstances, the threat was so clear, immediate, unconditional, and specific that it communicated to ______ <insert name of complaining witness> a serious intention and the immediate prospect that the threat would be carried out;",
+    "5. The threat actually caused ______ <insert name of complaining witness> to be in sustained fear for (his/her) own safety [or for the safety of (his/her) immediate family];",
+    "[AND]",
+    "6. ______’s <insert name of complaining witness> fear was reasonable under the circumstances.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "In deciding whether a threat was sufficiently clear, immediate, unconditional, and specific, consider the words themselves, as well as the surrounding circumstances.",
+    "Someone who intends that a statement be understood as a threat does not have to actually intend to carry out the threatened act [or intend to have someone else do so].",
+    "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
+    "*Sustained fear* means fear for a period of time that is more than momentary, fleeting, or transitory.",
+    "[An immediate ability to carry out the threat is not required.]",
+    "[An *electronic communication device* includes, but is not limited to: a telephone, cellular telephone, pager, computer, video recorder, or fax machine.]",
+    "[*Immediate family* means (a) any spouse, parents, and children; (b) any grandchildren, grandparents, brothers and sisters related by blood or marriage; or (c) any person who regularly lives in the other person’s household [or who regularly lived there within the prior six months].]",
+    "<sentencing factor under Pen. Code, § 422(b)>",
+    "[If you find the defendant guilty of having made a criminal threat, you must then decide whether the People have proved the additional allegation that the defendant willfully threatened to commit a crime that would result in the death or great bodily injury of a person whom the defendant knew was a (state constitutional officer[,]/member of the legislature[,]/[state administrative law] judge [of a federally recognized Indian tribe]/[or] court commissioner).",
+    "[A *state constitutional officer* is an elected or appointed official who occupies a position established by the California constitution. (The/A) ______ <insert description, e.g., governor, attorney general, etc.> is a state constitutional officer.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find t______hat the allegation has not been proved.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "A specific crime or the elements of any specific Penal Code violation that might be subsumed within the actual words of any threat need not be identified for the jury. (See *People v. Butler* (2000) 85 Cal.App.4th 745, 758 [102 Cal.Rptr.2d 269].) The threatened acts or crimes may be described on request depending on the nature of the threats or the need to explain the threats to the jury. (*Id.* at p. 760.)"
+      },
+      {
+        "text": "When the threat is conveyed through a third party, give the appropriate bracketed language in element three. (*People v. Felix* (2001) 92 Cal.App.4th 905, 913 [112 Cal.Rptr.2d 311]; *In re Ryan D.* (2002) 100 Cal.App.4th 854, 861–862 [123 Cal.Rptr.2d 193] [insufficient evidence minor intended to convey threat to victim].)"
+      },
+      {
+        "text": "Give the bracketed definition of “electronic communication” on request. (Pen. Code, § 422; 18 U.S.C., § 2510(12).)"
+      },
+      {
+        "text": "If there is evidence that the threatened person feared for the safety of members of his or her immediate family, the bracketed phrase in element 5 and the final bracketed paragraph defining “immediate family” should be given on request. (See Pen. Code, § 422; Fam. Code, § 6205; Prob. Code, §§ 6401, 6402.)"
+      },
+      {
+        "text": "If instructing on attempted criminal threat, give the third element in the bench notes of CALCRIM No. 460, *Attempt Other Than Attempted Murder*. (*People v. Chandler* (2014) 60 Cal.4th 508, 525 [176 Cal.Rptr.3d 548, 332 P.3d 538]."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 422; *In re George T.* (2004) 33 Cal.4th 620, 630 [16 Cal.Rptr.3d 61, 93 P.3d 1007]; *People v. Melhado* (1998) 60 Cal.App.4th 1529, 1536 [70 Cal.Rptr.2d 878]."
+      },
+      {
+        "text": "• “Great Bodily Injury” Defined. Pen. Code, § 12022.7(f)."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Sufficiency of Threat Based on All Surrounding Circumstances. *People v. Mendoza* (1997) 59 Cal.App.4th 1333, 1340 [69 Cal.Rptr.2d 728]; *People v. Butler, supra,* 85 Cal.App.4th at pp. 752–753; *People v. Martinez* (1997) 53 Cal.App.4th 1212, 1218–1221 [62 Cal.Rptr.2d 303]; *In re Ricky T.* (2001) 87 Cal.App.4th 1132, 1137–1138 [105 Cal.Rptr.2d 165]; *People v. Solis* (2001) 90 Cal.App.4th 1002, 1013–1014 [109 Cal.Rptr.2d 464]; see *People v. Garrett* (1994) 30 Cal.App.4th 962, 966–967 [36 Cal.Rptr.2d 33]."
+      },
+      {
+        "text": "• Crime That Will Result in Great Bodily Injury Judged on Objective Standard. *People v. Maciel* (2003) 113 Cal.App.4th 679, 685 [6 Cal.Rptr.3d 628]."
+      },
+      {
+        "text": "• Threatening Hand Gestures Not Verbal Threats Under Penal Code Section 422. *People v. Gonzalez* (2017) 2 Cal.5th 1138, 1147 [218 Cal.Rptr.3d 150, 394 P.3d 1074]."
+      },
+      {
+        "text": "• Threat Not Required to Be Unconditional On Its Face. *People v. Bolin* (1998) 18 Cal.4th 297, 339–340 [75 Cal.Rptr.2d 412, 956 P.2d 374], disapproving *People v. Brown* (1993) 20 Cal.App.4th 1251, 1256 [25 Cal.Rptr.2d 76]; *People v. Melhado, supra,* 60 Cal.App.4th at p. 1540; *People v. Stanfield* (1995) 32 Cal.App.4th 1152, 1162 [38 Cal.Rptr.2d 328]."
+      },
+      {
+        "text": "• Immediate Ability to Carry Out Threat Not Required. *People v. Lopez* (1999) 74 Cal.App.4th 675, 679 [88 Cal.Rptr.2d 252]."
+      },
+      {
+        "text": "• Sustained Fear. *In re Ricky T., supra,* 87 Cal.App.4th at pp. 1139–1140; *People v. Solis, supra,* 90 Cal.App.4th at p. 1024; *People v. Allen* (1995) 33 Cal.App.4th 1149, 1155–1156 [40 Cal.Rptr.2d 7]."
+      },
+      {
+        "text": "• Verbal Statement, Not Mere Conduct, Is Required. *People v. Franz* (2001) 88 Cal.App.4th 1426, 1441–1442 [106 Cal.Rptr.2d 773]."
+      },
+      {
+        "text": "• Statute Not Unconstitutionally Vague. *People v. Maciel, supra,* 113 Cal.App.4th at pp. 684–686."
+      },
+      {
+        "text": "• Attempted Criminal Threats. *People v. Chandler, supra,* 60 Cal.4th at p. 525."
+      },
+      {
+        "text": "• Statute Authorizes Only One Conviction and One Punishment Per Victim, Per Threatening Encounter. *People v. Wilson* (2015) 234 Cal.App.4th 193, 202 [183 Cal.Rptr.3d 541]."
+      },
+      {
+        "text": "• First Amendment Requires Recklessness as to Threat. *Counterman v. Colorado* (2023) 600 U.S. 66, 69 [143 S.Ct. 2106, 216 L.Ed.2d 775]."
+      },
+      {
+        "text": "• “State Constitutional Officer” Defined. Gov. Code, § 75030.5(b)."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "This instruction uses the current nomenclature “criminal threat,” as recommended by the Supreme Court in *People v. Toledo* (2001) 26 Cal.4th 221, 224, fn. 1 [109 Cal.Rptr.2d 315, 26 P.3d 1051] [previously called “terrorist threat”]. (See also Stats. 2000, ch. 1001, § 4.)"
+      },
+      {
+        "text": "Because a threat need only be “so . . . unconditional,” a conditional threat may nonetheless violate Penal Code section 422 if it conveys a gravity of purpose and the immediate prospect of execution. (See *People v. Bolin, supra,* 18 Cal.4th at pp. 339–340, disapproving *People v. Brown, supra,* 20 Cal.App.4th at p. 1256.)"
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Criminal Threat. See Pen. Code, § 422; *People v. Toledo, supra,* 26 Cal.4th at pp. 230–231."
+      },
+      {
+        "text": "• Threatening a public officer of an educational institution in violation of Penal Code section 71 may be a lesser included offense of a section 422 criminal threat under the accusatory pleadings test. (*In re Marcus T.* (2001) 89 Cal.App.4th 468, 472–473 [107 Cal.Rptr.2d 451].) But see *People v. Chaney* (2005) 131 Cal.App.4th 253, 257–258 [31 Cal.Rptr.3d 714], finding that a violation of section 71 is not a lesser included offense of section 422 under the accusatory pleading test when the pleading does not specifically allege the intent to cause (or attempt to cause) a public officer to do (or refrain from doing) an act in the performance of official duty."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Ambiguous and Equivocal Poem Insufficient to Establish Criminal Threat"
+      },
+      {
+        "text": "In *In re George T., supra,* 33 Cal.4th at pp. 628–629, a minor gave two classmates a poem containing language that referenced school shootings. The court held that “the text of the poem, understood in light of the surrounding circumstances, was not ‘as unequivocal, unconditional, immediate, and specific as to convey to [the two students] a gravity of purpose and an immediate prospect of execution of the threat.’ ” (*Id.* at p. 638.)"
+      },
+      {
+        "heading": true,
+        "text": "Related Statutes"
+      },
+      {
+        "text": "Other statutes prohibit similar threatening conduct against specified individuals. (See, e.g., Pen. Code, §§ 76 [threatening elected public official, judge, etc., or staff or immediate family], 95.1 [threatening jurors after verdict], 139 [threatening witness or victim after conviction of violent offense], 140 [threatening witness, victim, or informant].)"
+      },
+      {
+        "heading": true,
+        "text": "Unanimity Instruction"
+      },
+      {
+        "text": "If the evidence discloses a greater number of threats than those charged, the prosecutor must make an election of the events relied on in the charges. When no election is made, the jury must be given a unanimity instruction. (*People v. Butler, supra,* 85 Cal.App.4th at p. 755, fn. 4; *People v. Melhado, supra,* 60 Cal.App.4th at pp. 1534, 1539.)"
+      },
+      {
+        "heading": true,
+        "text": "Whether Threat Actually Received"
+      },
+      {
+        "text": "If a threat is intended to and does induce a sustained fear, the person making the threat need not know whether the threat was actually received. (*People v. Teal* (1998) 61 Cal.App.4th 277, 281 [71 Cal.Rptr.2d 644].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

@@ -1,0 +1,73 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1191B",
+  "title": "Evidence of Charged Sex Offense",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1036,
+      1037
+    ]
+  },
+  "revision_line": "New March 2017; Revised September 2020, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The People have charged the defendant with the crime[s] of ______ <insert description of offense[s]> in Count[s] ______ <insert count[s] of sex offense[s] charged in this case >.",
+    "If the People have proved beyond a reasonable doubt that the defendant committed one or more of these crimes, you may, but are not required to, conclude from that evidence that the defendant was disposed or inclined to commit sexual offenses, and based on that decision, also conclude that the defendant was likely to commit [and did commit] the other sex offense[s] charged in this case.",
+    "If you find that the defendant committed one or more of these crimes, that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of another crime. The People must still prove (the/each) (charge/[and] allegation) beyond a reasonable doubt."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court must give this instruction on request if the People rely on charged offenses as evidence of predisposition to commit similar crimes charged in the same case, Evid. Code section 355."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 375, *Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc.*"
+      },
+      {
+        "text": "CALCRIM No. 1191A, *Evidence of Uncharged Sex Offense*."
+      },
+      {
+        "text": "CALCRIM No. 852A, *Evidence of Uncharged Domestic Violence*."
+      },
+      {
+        "text": "CALCRIM No. 852B, *Evidence of Charged Domestic Violence*."
+      },
+      {
+        "text": "CALCRIM No. 853A, *Evidence of Uncharged Abuse of Elder or Dependent Person*."
+      },
+      {
+        "text": "CALCRIM No. 853B, *Evidence of Charged Abuse of Elder or Dependent Person.*"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Charged Offenses Proved Beyond a Reasonable Doubt May Be Evidence of Propensity. *People v. Cruz* (2016) 2 Cal.App.5th 1178, 1186–1186 [206 Cal.Rptr.3d 835]; *People v. Villatoro* (2012) 54 Cal.4th 1152, 1161 [144 Cal.Rptr.3d 401, 281 P.3d 390]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Meneses* (2019) 41 Cal.App.5th 63, 68 [253 Cal.Rptr.3d 859]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

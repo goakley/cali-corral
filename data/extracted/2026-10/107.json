@@ -1,0 +1,46 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "107",
+  "title": "Pro Per Defendant",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      94,
+      94
+    ]
+  },
+  "revision_line": "New August 2009",
+  "revision_legend": null,
+  "body": [
+    "(The defendant[s]/______ <insert name[s] of self-represented defendant[s]>) (has/have) the right to be represented by an attorney in this trial, as do all criminal defendants in this country. (He/She/They) (has/have) decided instead to exercise (his/her/their) constitutional right to act as (his/her/their) own attorney in this case. Do not allow that decision to affect your verdict.",
+    "The court applies the rules of evidence and procedure to a (self-represented defendant/______ <insert name[s] of self-represented defendant[s]>)."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "This instruction may be given on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Basis for Right of Self-Representation. Sixth Amendment, Constitution of the United States; *Faretta v. California* (1975) 422 U.S. 806 [95 S.Ct. 2525, 45 L.Ed.2d 562]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

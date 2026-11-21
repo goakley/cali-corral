@@ -1,0 +1,137 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2151",
+  "title": "Failure to Perform Duty Following Accident: Property Damage—Defendant Nondriving Owner or Passenger in Control (Veh. Code, § 20002)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1545,
+      1548
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with failing to perform a legal duty following a vehicle accident that caused property damage [in violation of Vehicle Code section 20002].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant [owned and] was riding as a passenger in a vehicle involved in an accident;",
+    "2. At the time of the accident, the defendant had full authority to direct and control the vehicle even though another person was driving;",
+    "3. The accident caused damage to someone else’s property;",
+    "4. The defendant knew that (he/she) had been involved in an accident that caused property damage [or knew from the nature of the accident that it was probable that property had been damaged];",
+    "AND",
+    "5. The defendant willfully failed to perform one or more of the following duties:",
+    "(a) To cause the vehicle to immediately stop at the scene of the accident;",
+    "(a) OR",
+    "(b) To provide the owner or person in control of the damaged property with (his/her) name and current residence address [and the name and address of the driver of the vehicle the defendant [owned and] was a passenger in].",
+    "The (owner/passenger in control) may provide the required information in one of two ways:",
+    "1. He or she may locate the owner or person in control of the damaged property and give that person the required information directly. On request, he or she must also show that person his or her driver’s license, or any other available identification, and the vehicle registration;",
+    "OR",
+    "2. He or she may leave the required information in a written note in a conspicuous place on the vehicle or other damaged property. He or she must then also, without unnecessary delay, notify either the police department of the city where the accident happened or the local headquarters of the California Highway Patrol if the accident happened in an unincorporated area.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The duty to *immediately stop* means that the (owner/passenger in control) must cause the vehicle he or she is a passenger in to stop as soon as reasonably possible under the circumstances.",
+    "The (owner/passenger in control) of a vehicle must perform the duties listed regardless of how or why the accident happened. It does not matter if someone else caused the accident or if the accident was unavoidable.",
+    "You may not find the defendant guilty unless all of you agree that the People have proved that the defendant failed to perform at least one of the required duties. You must all agree on which duty the defendant failed to perform.",
+    "[To be *involved in an accident* means to be connected with the accident in a natural or logical manner. It is not necessary for the vehicle to collide with another vehicle or person.]",
+    "[The property damaged may include any vehicle other than the one the defendant allegedly (owned/was a passenger in).]",
+    "[An accident causes property damage if the property damage is the direct, natural, and probable consequence of the accident and the damage would not have happened without the accident. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence.]",
+    "[There may be more than one cause of property damage. An accident causes damage only if it is a substantial factor in causing the damage. A *substantial factor* is more than a trivial or remote factor. However, it need not be the only factor that causes the property damage.]",
+    "[If the accident caused the defendant to be unconscious or disabled so that (he/she) was not capable of performing the duties required by law, then (he/she) did not have to perform those duties at that time. [However, (he/she) was required to do so as soon as reasonably possible.]]",
+    "[If the defendant told the driver to stop and made a reasonable effort to stop the vehicle, but the driver refused, then the defendant is not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    30.0,
+    30.0,
+    29.3,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. Give this instruction if the prosecution alleges that the defendant was a nondriving owner present in the vehicle or other passenger in control. If the prosecution alleges that that the defendant drove the vehicle, give CALCRIM No. 2150, *Failure to Perform Duty Following Accident: Property Damage—Defendant Driver*."
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of property damage, the court should give the “direct, natural, and probable” language in the first bracketed paragraph on causation. If there is evidence of multiple causes of property damage, the court should also give the “substantial factor” instruction in the second bracketed paragraph on causation. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "Give the bracketed paragraph defining “involved in an accident,” if that is an issue in the case."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The property damaged may include” if the evidence shows that the accident may have damaged only the defendant’s vehicle."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “If the accident caused the defendant to be unconscious” if there is sufficient evidence that the defendant was unconscious or disabled at the scene of the accident."
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “If the defendant told the driver to stop” if there is sufficient evidence that the defendant attempted to cause the vehicle to be stopped."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 20002; *People v. Carbajal* (1995) 10 Cal.4th 1114, 1123, fn. 10 [43 Cal.Rptr.2d 681, 899 P.2d 67]."
+      },
+      {
+        "text": "• Knowledge of Accident. *People v. Carbajal* (1995) 10 Cal.4th 1114, 1123, fn. 10 [43 Cal.Rptr.2d 681, 899 P.2d 67]."
+      },
+      {
+        "text": "• Willful Failure to Perform Duty. *People v. Crouch* (1980) 108 Cal.App.3d Supp. 14, 21–22 [166 Cal.Rptr. 818]."
+      },
+      {
+        "text": "• Duty Applies Regardless of Fault for Accident. *People v. Scofield* (1928) 203 Cal. 703, 708 [265 P. 914]."
+      },
+      {
+        "text": "• Involved Defined. *People v. Bammes* (1968) 265 Cal.App.2d 626, 631 [71 Cal.Rptr. 415]; *People v. Sell* (1950) 96 Cal.App.2d 521, 523 [215 P.2d 771]."
+      },
+      {
+        "text": "• Immediately Stopped Defined. *People v. Odom* (1937) 19 Cal.App.2d 641, 646–647 [66 P.2d 206]."
+      },
+      {
+        "text": "• Nondriving Owner. *People v. Rallo* (1931) 119 Cal.App. 393, 397 [6 P.2d 516]."
+      },
+      {
+        "text": "• Statute Does Not Violate Fifth Amendment Privilege. *California v. Byers* (1971) 402 U.S. 424, 434 [91 S.Ct. 1535, 29 L.Ed.2d 9]."
+      },
+      {
+        "text": "• Unanimity Instruction Required. *People v. Scofield* (1928) 203 Cal. 703, 710 [265 P. 914]."
+      },
+      {
+        "text": "• Unconscious Driver Unable to Comply at Scene. *People v. Flores* (1996) 51 Cal.App.4th 1199, 1204 [59 Cal.Rptr.2d 637]."
+      },
+      {
+        "text": "• Offense May Occur on Private Property. *People v. Stansberry* (1966) 242 Cal.App.2d 199, 204 [51 Cal.Rptr. 403]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

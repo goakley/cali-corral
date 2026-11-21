@@ -1,0 +1,66 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "522",
+  "title": "Provocation: Effect on Degree of Murder",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      338,
+      339
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, March 2017, September 2023, September 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "Provocation may reduce a murder from first degree to second degree [and may reduce a murder to manslaughter]. The weight and significance of the provocation, if any, are for you to decide.",
+    "If you conclude that the defendant committed murder but was provoked, consider the provocation in deciding whether the crime was first or second degree murder. [Also, consider the provocation in deciding whether the defendant committed murder or manslaughter.]",
+    "[Provocation does not apply to a prosecution under a theory of felony murder.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Provocation may reduce murder from first to second degree. (*People v. Thomas* (1945) 25 Cal.2d 880, 903 [156 P.2d 7] [provocation raised reasonable doubt about premeditation or deliberation, “leaving the homicide as murder of the second degree; i.e., an unlawful killing perpetrated with malice aforethought but without premeditation and deliberation”]; see also *People v. Cole* (2004) 33 Cal.4th 1158, 1211–1212 [17 Cal.Rptr.3d 532, 95 P.3d 811] [court adequately instructed on relevance of provocation to whether defendant acted with intent to torture for torture murder].) There is, however, no sua sponte duty to instruct the jury on this issue. (*People v. Rogers* (2006) 39 Cal.4th 826, 877–880 [48 Cal.Rptr.3d 1, 141 P.3d 135].) This is a pinpoint instruction, to be given on request where evidence supports the theory. (*People v. Thomas* (2023) 14 Cal.5th 327, 384 [304 Cal.Rptr.3d 1, 523 P.3d 323].)"
+      },
+      {
+        "text": "This instruction may be given after CALCRIM No. 521, *First Degree Murder*."
+      },
+      {
+        "text": "If the court will be instructing on voluntary manslaughter, give both bracketed portions on manslaughter."
+      },
+      {
+        "text": "If the court will be instructing on felony murder, give the bracketed sentence stating that provocation does not apply to felony murder."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Provocation Reduces From First to Second Degree. *People v. Thomas, supra,* 25 Cal.2d at p. 903; see also *People v. Cole, supra,* 33 Cal.4th at pp. 1211–1212."
+      },
+      {
+        "text": "• Pinpoint Instruction. *People v. Rogers, supra,* 39 Cal.4th at pp. 877–878."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Hernandez* (2010) 183 Cal.App.4th 1327, 1333–1335 [107 Cal.Rptr.3d 915]."
+      },
+      {
+        "text": "• Provocation Must Be Caused by Victim’s Conduct or Conduct Reasonably Believed by Defendant to Have Been Engaged In by Victim. *People v. Verdugo* (2010) 50 Cal.4th 263, 294 [113 Cal.Rptr.3d 803, 236 P.3d 1035] [murder to manslaughter]; *People v. Nunez* (2023) 97 Cal.App.5th 362, 370 [315 Cal.Rptr.3d 452] [first degree to second degree murder]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

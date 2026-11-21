@@ -1,0 +1,100 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2800",
+  "title": "Failure to File Tax Return (Rev. & Tax. Code, § 19701(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2033,
+      2035
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with failing to (file a tax return with/[or] supply information to) the Franchise Tax Board [in violation of Revenue and Taxation Code section 19701(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was required to (file a tax return with/[or] supply information to) the Franchise Tax Board;",
+    "2. The defendant repeatedly failed to (file a tax return/[or] supply required information) over a period of two years or more;",
+    "AND",
+    "3. The defendant’s failure to (file the return/[or] supply required information) resulted in an estimated delinquent tax liability of at least fifteen thousand dollars.",
+    "[If the People prove beyond a reasonable doubt that the Franchise Tax Board issued a certificate stating that (a return had not been filed/[or] information had not been supplied) as required by law, you may but are not required to conclude that (the return was not filed/[or] the information was not supplied).]",
+    "[If the People prove beyond a reasonable doubt that the defendant was the (president/[or] chief operating officer) of a corporation, you may but are not required to conclude that the defendant is the person responsible for (filing a return with/[or] supplying information to) the Franchise Tax Board as required for that corporation.]",
+    "[The People do not have to prove the exact amount of unreported income.]",
+    "[The People do not have to prove that the (unreported/[or] underreported) income came from illegal activity.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "The two bracketed paragraphs that begin with “If the People prove beyond a reasonable doubt that” both explain rebuttable presumptions created by statute. (See Rev. & Tax. Code, §§ 19703, 19701(d); Evid. Code, §§ 600–607.) The California Supreme Court has held that a jury instruction phrased as a rebuttable presumption in a criminal case creates an unconstitutional mandatory presumption. (*People v. Roder* (1983) 33 Cal.3d 491, 497–505 [189 Cal.Rptr. 501, 658 P.2d 1302].) In accordance with *Roder*, the instructions have been written as permissive inferences. In addition, it is only appropriate to instruct the jury on a permissive inference if there is *no* evidence to contradict the inference. (Evid. Code, § 640.) If any evidence has been introduced to support the opposite factual finding, then the jury “shall determine the existence or nonexistence of the presumed fact from the evidence and without regard to the presumption.” *(Ibid.)*"
+      },
+      {
+        "text": "Therefore, the court must not give the bracketed paragraph that begins with “If the People prove beyond a reasonable doubt that the Franchise Tax Board” if there is evidence that the return was filed or the information was supplied."
+      },
+      {
+        "text": "Similarly, the court must not give the bracketed paragraph that begins with “If the People prove beyond a reasonable doubt that the defendant was the (president” if there is evidence that someone else was responsible for filing the return or supplying the information."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Rev. & Tax. Code, § 19701(a)."
+      },
+      {
+        "text": "• Certificate of Franchise Tax Board. Rev. & Tax. Code, § 19703."
+      },
+      {
+        "text": "• President Responsible for Corporate Filings. Rev. & Tax. Code, § 19701(d)."
+      },
+      {
+        "text": "• Mandatory Presumption Unconstitutional Unless Instructed as Permissive Inference. *People v. Roder* (1983) 33 Cal.3d 491, 497–505 [189 Cal.Rptr. 501, 658 P.2d 1302]."
+      },
+      {
+        "text": "• Need Not Prove Exact Amount. *United States v. Wilson* (3d Cir. 1979) 601 F.2d 95, 99; *United States v. Johnson* (1943) 319 U.S. 503, 517–518 [63 S.Ct. 1233, 87 L.Ed. 1546]."
+      },
+      {
+        "text": "• Need Not Prove From Illegal Activity. *People v. Smith* (1984) 155 Cal.App.3d 1103, 1158 [203 Cal.Rptr. 196]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Revenue and Taxation Code section 19701(a) does not require that the defendant’s conduct be “willful” and specifically states that the act may be “[w]ith or without intent to evade.” (Rev. & Tax. Code, § 19701(a).) Courts have held that this language creates a strict liability offense with no intent requirement. (*People v. Allen* (1993) 20 Cal.App.4th 846, 849 [25 Cal.Rptr.2d 26]; *People v. Kuhn* (1963) 216 Cal.App.2d 695, 698 [31 Cal.Rptr. 253]; *People v. Jones* (1983) 149 Cal.App.3d Supp. 41, 47 [197 Cal.Rptr. 273].) In addition, in *People v. Hagen* (1998) 19 Cal.4th 652, 670 [80 Cal.Rptr.2d 24, 967 P.2d 563], the Court held that section 19701 was a lesser included offense of section 19705, willful failure to file a tax return. The Court then concluded that the failure to instruct on the lesser included offense was not error since the “the evidence provided no basis for reasonable doubt as to willfulness.” (*Id.* at p. 672.) Thus, it appears that “willfulness” is not an element of a violation of section 19701(a)."
+      },
+      {
+        "text": "Revenue and Taxation Code section 19701(a) states that a person is liable if the person"
+      },
+      {
+        "text": "repeatedly over a period of two years or more, fails to file any return or to supply any information required, or who . . . makes, renders, signs, or verifies any false or fraudulent return or statement, or supplies any false or fraudulent information, resulting in an estimated delinquent tax liability of at least fifteen thousand dollars ($15,000)."
+      },
+      {
+        "text": "It is not completely clear from this language whether the requirement of an estimated delinquent tax liability of at least fifteen thousand dollars applies both to the failure to file a return and to the making, etc. of a false or fraudulent return. The Legislative Counsel’s Digest of Assembly Bill No. 139, the bill that added this provision to the statute, indicates that this provision is intended to apply to all the violations specified in Revenue and Taxation Code section 19701(a), including the failure to file a return or supply required information. (See Legis. Counsel’s Dig., Assem. Bill No. 139 (2005–2006 Reg. Sess.) Stats. 2005, ch. 74, par. (34).) The committee has adopted this interpretation pending clarification from either the Legislature or case law."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

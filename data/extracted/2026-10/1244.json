@@ -1,0 +1,89 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1244",
+  "title": "Human Trafficking of a Minor for Commercial Sex Act (Pen. Code, § 236.1(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1087,
+      1088
+    ]
+  },
+  "revision_line": "New February 2014; Revised March 2019, October 2021, March 2024, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (causing, inducing, or persuading /(and/or) attempting to cause, induce, or persuade) a minor to engage in a commercial sex act [in violation of Penal Code section 236.1(c)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (caused/[or] induced/[or] persuaded) [or] attempted to (cause/[or] induce/[or] persuade)] another person to engage in a commercial sex act;",
+    "2. When the defendant acted, (he/she) intended to (commit/[or] maintain) a [felony] violation of ______ <insert appropriate code section[s]>;",
+    "AND",
+    "3. When the defendant did so, (the other person was under 18 years of age/[or] the defendant believed that the person was under 18 years of age).",
+    "A *commercial sex act* is sexual conduct that takes place in exchange for anything of value.",
+    "When you decide whether the defendant (caused/[or] induced/[or] persuaded) the other person to engage in a commercial sex act, consider all of the circumstances, including the age of the other person, (his/her) relationship to the defendant [or defendant’s agent[s]], and the other person’s handicap or disability, if any.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[The other person’s consent is not a defense to this crime.]",
+    "[Being mistaken about the other person’s age is not a defense to this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Insert the correct Penal Code section into the blank provided in element 2 and give the corresponding instruction or instructions."
+      },
+      {
+        "text": "This instruction is based on the language of the statute effective November 7, 2012, and applies only to crimes committed on or after that date."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 3184, *Sex Offenses: Sentencing Factors—Using Force or Fear to Cause Minor to Engage in Commercial Sex Act*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements and Definitions. Pen. Code, § 236.1."
+      },
+      {
+        "text": "• “Menace” Defined [in context of false imprisonment]. *People v. Matian* (1995) 35 Cal.App.4th 480, 484–486 [41 Cal.Rptr.2d 459]."
+      },
+      {
+        "text": "• Calculating Age. Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391]."
+      },
+      {
+        "text": "• Attempt to Cause, Induce, or Persuade Does Not Require Minor Victim. *People v. Moses* (2020) 10 Cal.5th 893, 912–913 [272 Cal.Rptr.3d 862, 477 P.3d 579]."
+      },
+      {
+        "text": "• Specific Intent for Attempt. *People v. Moses, supra,* 10 Cal.5th at pp. 912–913 [adult posing as minor]; *People v. Middleton* (2023) 91 Cal.App.5th 749, 767–768 [308 Cal.Rptr.3d 705] [actual minor]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

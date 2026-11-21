@@ -1,0 +1,161 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "965",
+  "title": "Shooting at Inhabited House or Occupied Motor Vehicle (Pen. Code, § 246)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      775,
+      778
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, August 2012, September 2017, February 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with shooting at an (inhabited house/inhabited house car/inhabited camper/occupied building/occupied motor vehicle/occupied aircraft) [in violation of Penal Code section 246].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully and maliciously shot a firearm;",
+    "[AND]",
+    "2. The defendant shot the firearm at an (inhabited house/inhabited house car/inhabited camper/occupied building/occupied motor vehicle/occupied aircraft)(;/.)",
+    "<Give element 3 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "3. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to disturb, annoy, or injure someone else.",
+    "[A (house/house car/camper) is *inhabited* if someone uses it as a dwelling, whether or not someone is inside at the time of the alleged shooting.]",
+    "[A (house/house car/camper) is *inhabited* if someone used it as a dwelling and left only because a natural or other disaster caused him or her to leave.]",
+    "[A (house/house car/camper) is not *inhabited* if the former residents have moved out and do not intend to return, even if some personal property remains inside.]",
+    "[A house includes any (structure/garage/office/______ <insert other structure>) that is attached to the house and functionally connected with it.]",
+    "[A *motor vehicle* includes a (passenger vehicle/motorcycle/motor scooter/bus/school bus/commercial vehicle/truck tractor and trailer/______ <insert other type of motor vehicle>).]",
+    "[A *house car* is a motor vehicle originally designed, or permanently altered, and equipped for human habitation, or to which a camper has been permanently attached.]",
+    "[A *camper* is a structure designed to be mounted upon a motor vehicle and to provide facilities for human habitation or camping purposes.]",
+    "[An *aircraft* is an airplane or other craft intended for and capable of transporting persons through the air.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[The term[s] (*firearm/*______ <insert other term>) (is/are) defined in another instruction to which you should refer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give the relevant bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 966, *Shooting at Uninhabited House or Unoccupied Motor Vehicle*."
+      },
+      {
+        "text": "CALCRIM No. 967, *Shooting at Unoccupied Aircraft*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 246."
+      },
+      {
+        "text": "• Meaning of “at” in Pen. Code, § 246. *People v. Cruz* (1995) 38 Cal.App.4th 427, 431–433 [45 Cal.Rptr.2d 148]."
+      },
+      {
+        "text": "• “Aircraft” Defined. Pen. Code, § 247."
+      },
+      {
+        "text": "• “Camper” Defined. Veh. Code, § 243."
+      },
+      {
+        "text": "• “Firearm” Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• “House Car” Defined. Veh. Code, § 362."
+      },
+      {
+        "text": "• “Malicious” Defined. Pen. Code, § 7(b)(4); *People v. Watie* (2002) 100 Cal.App.4th 866, 879 [124 Cal.Rptr.2d 258]."
+      },
+      {
+        "text": "• “Motor” Vehicle Defined. Veh. Code, § 415."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7(b)(1); *In re Jerry R.* (1994) 29 Cal.App.4th 1432, 1438 [35 Cal.Rptr.2d 155]."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Jischke* (1996) 51 Cal.App.4th 552, 556 [59 Cal.Rptr.2d 269]; *People v. Cruz* (1995) 38 Cal.App.4th 427, 431–433 [45 Cal.Rptr.2d 148] [intent to strike building not required]."
+      },
+      {
+        "text": "• Occupied Building. *People v. Adams* (1982) 137 Cal.App.3d 346, 354–355 [187 Cal.Rptr. 505] [attached garage]."
+      },
+      {
+        "text": "• Occupied Motor Vehicle. *People v. Buttles* (1990) 223 Cal.App.3d 1631, 1638 [273 Cal.Rptr. 397] [tractor/trailer rig being operated on a road]."
+      },
+      {
+        "text": "• House Not Inhabited Means Former Residents Not Returning. *People v. Cardona* (1983) 142 Cal.App.3d 481, 483 [191 Cal.Rptr. 109]."
+      },
+      {
+        "text": "• Offense of Discharging Firearm at Occupied Vehicle Can Be Committed When Gun Is Inside Vehicle. *People v. Manzo* (2012) 53 Cal.4th 880, 889–890 [138 Cal.Rptr. 16, 270 P.3d 711]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Assault with a deadly weapon (Pen. Code, § 245) is not necessarily included in the offense of discharging a firearm at an occupied vehicle. (*In re Daniel R.* (1993) 20 Cal.App.4th 239, 244, 247 [24 Cal.Rptr.2d 414].)"
+      },
+      {
+        "text": "Grossly negligent discharge of a firearm pursuant to Penal Code section 246.3(a) is a lesser included offense of discharging a firearm at an occupied building. (*People v. Ramirez* (2009) 45 Cal.4th 980, 990 [89 Cal.Rptr.3d 586, 201 P.3d 466].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Concurrent Sentence for Firearm Possession"
+      },
+      {
+        "text": "If a prior felon arrives at the scene already in possession of a firearm and then shoots at an inhabited dwelling, Penal Code section 654 does not preclude imposing sentences for both offenses. (*People v. Jones* (2002) 103 Cal.App.4th 1139 [127 Cal.Rptr.2d 319].)"
+      },
+      {
+        "heading": true,
+        "text": "Shooting Weapon Inside Dwelling"
+      },
+      {
+        "text": "“[T]he firing of a pistol within a dwelling house does not constitute a violation of Penal Code section 246.” (*People v. Stepney* (1981) 120 Cal.App.3d 1016, 1021 [175 Cal.Rptr. 102] [shooting television inside dwelling].) However, shooting from “inside [an] apartment . . . in the direction of the apartment below” is a violation of section 246. (*People v. Jischke, supra*, 51 Cal.App.4th at p. 556.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

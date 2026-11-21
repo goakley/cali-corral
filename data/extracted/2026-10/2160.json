@@ -1,0 +1,82 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2160",
+  "title": "Fleeing the Scene Following Accident: Enhancement for Vehicular Manslaughter (Veh. Code, § 20001(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1549,
+      1550
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2013, September 2024*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "If you find the defendant guilty of vehicular manslaughter [as a felony] [under Count ______], you must then decide whether the People have proved the additional allegation that the defendant fled the scene of the accident after committing vehicular manslaughter [in violation of Vehicle Code section 20001(c)].",
+    "To prove this allegation, the People must prove that:",
+    "1. The defendant knew that (he/she) had been involved in an accident that injured another person [or knew from the nature of the accident that it was probable that another person had been injured];",
+    "AND",
+    "2. The defendant willfully fled the scene of the accident.",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[To be *involved in an accident* means to be connected with the accident in a natural or logical manner. It is not necessary for the driver’s vehicle to collide with another vehicle or person.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the sentencing factor. (See *Apprendi v. New Jersey* (2000) 530 U.S. 466, 475–476, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Give this instruction if the defendant is charged with an enhancement under Vehicle Code section 20001(c). This enhancement only applies to felony vehicular manslaughter convictions (Pen. Code, §§ 191.5, 192(c)(1) & (3), and 192.5(a) & (c)) and must be pleaded and proved. (Veh. Code, § 20001(c).) Give the bracketed “felony” in the introductory paragraph if the jury is also being instructed on misdemeanor vehicular manslaughter."
+      },
+      {
+        "text": "Give the bracketed paragraph defining “involved in an accident” if that is an issue in the case."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Veh. Code, § 20001(c)."
+      },
+      {
+        "text": "• Knowledge of Accident and Injury. *People v. Holford* (1965) 63 Cal.2d 74, 79–80 [45 Cal.Rptr. 167, 403 P.2d 423]; *People v. Carter* (1966) 243 Cal.App.2d 239, 241 [52 Cal.Rptr. 207]; *People v. Hamilton* (1978) 80 Cal.App.3d 124, 133–134 [145 Cal.Rptr. 429]."
+      },
+      {
+        "text": "• Neither Voluntary Intoxication Nor Unconsciousness Caused by Voluntary Intoxication Negates Knowledge Element in Vehicle Code Section 20001(a), (c). *People v. Suazo* (2023) 95 Cal.App.5th 681, 703–704 [313 Cal.Rptr.3d 649]."
+      },
+      {
+        "text": "• Willful Failure to Perform Duty. *People v. Crouch* (1980) 108 Cal.App.3d Supp. 14, 21–22 [166 Cal.Rptr. 818]."
+      },
+      {
+        "text": "• “Involved” Defined. *People v. Bammes* (1968) 265 Cal.App.2d 626, 631 [71 Cal.Rptr. 415]; *People v. Sell* (1950) 96 Cal.App.2d 521, 523 [215 P.2d 771]."
+      },
+      {
+        "text": "• Fleeing Scene of Accident. *People v. Vela* (2012) 205 Cal.App.4th 942, 950 [140 Cal.Rptr.3d 755]."
+      },
+      {
+        "text": "• First Element of This Instruction Cited With Approval. *People v. Nordberg* (2010) 189 Cal.App.4th 1228, 1238 [117 Cal.Rptr.3d 558]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

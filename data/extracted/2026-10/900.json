@@ -1,0 +1,141 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "900",
+  "title": "Assault on Firefighter, Peace Officer or Other Specified Victim (Pen. Code, §§ 240, 241)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      698,
+      701
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, April 2011, February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with assault on a (firefighter/peace officer/______ <insert description of other person from Pen. Code, § 241(b/c)>) [in violation of Penal Code section 241(b/c)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant did an act that by its nature would directly and probably result in the application of force to a person;",
+    "2. The defendant did that act willfully;",
+    "3. When the defendant acted, (he/she) was aware of facts that would lead a reasonable person to realize that (his/her) act would directly, naturally, and probably result in the application of force to someone;",
+    "4. When the defendant acted, (he/she) had the present ability to apply force to a person;",
+    "5. When the defendant acted, the person assaulted was lawfully performing (his/her) duties as a (firefighter/peace officer/______ <insert description of other person from Pen. Code, § 241(b) or (c)>);",
+    "[AND]",
+    "6. When the defendant acted, (he/she) knew, or reasonably should have known, that the person assaulted was a (firefighter/peace officer/______ <insert description of other person from Pen. Code, § 241(b) or (c)>) (who was performing (his/her) duties/providing emergency medical care)(;/.)",
+    "<Give element 7 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "7. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
+    "[The touching can be done indirectly (by causing an object [or someone else] to touch the other person/[or] by touching something held by or attached to the other person).]",
+    "[The People are not required to prove that the defendant actually touched someone.]",
+    "The People are not required to prove that the defendant actually intended to use force against someone when (he/she) acted.",
+    "No one needs to actually have been injured by the defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault[, and if so, what kind of assault it was].",
+    "[Voluntary intoxication is not a defense to assault.]",
+    "[A person employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[The duties of a ______ <insert title of peace officer specified in Pen. Code, § 830 et seq.> include ______ <insert job duties>.]",
+    "[A *firefighter* includes anyone who is an officer, employee, or member of a (governmentally operated (fire department/fire protection or firefighting agency) in this state/federal fire department/federal fire protection or firefighting agency), whether or not he or she is paid for his or her services.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 7 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Select the option in element six for “providing emergency medical care” if the victim is a physician or nurse engaged in rendering emergency medical care."
+      },
+      {
+        "text": "Give the bracketed paragraph on indirect touching if relevant."
+      },
+      {
+        "text": "In order to be “engaged in the performance of his or her duties,” a peace officer must be acting lawfully. (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1217 [275 Cal.Rptr. 729, 800 P.2d 1159].) “[D]isputed facts bearing on the issue of legal cause must be submitted to the jury considering an engaged-in-duty element.” *(Ibid.)* The court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (*People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) On request, the court must also instruct that the People have the burden of proving the lawfulness of an arrest beyond a reasonable doubt. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651].) Give the appropriate portions of CALCRIM No. 2670, *Lawful Performance: Peace Officer*."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins with “The duties of a ______ <insert title of peace officer specified in Pen. Code, § 830 et seq.> include” on request. The court may insert a description of the officer’s duties such as “the correct service of a facially valid search warrant.” (*People v. Gonzalez, supra,* 51 Cal.3d at p. 1222.)"
+      },
+      {
+        "text": "Do not give an attempt instruction in conjunction with this instruction. There is no crime of “attempted assault” in California. (*In re James M.* (1973) 9 Cal.3d 517, 519, 521–522 [108 Cal.Rptr. 89, 510 P.2d 33].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, §§ 240, 241."
+      },
+      {
+        "text": "• “Firefighter” Defined. Pen. Code, § 245.1."
+      },
+      {
+        "text": "• “Peace Officer” Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• “Willfully” Defined. Pen. Code, § 7, subd. 1; *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      },
+      {
+        "text": "• Least Touching. *People v. Myers* (1998) 61 Cal.App.4th 328, 335 [71 Cal.Rptr.2d 518] [citing *People v. Rocha* (1971) 3 Cal.3d 893, 899–900, fn. 12 [92 Cal.Rptr. 172, 479 P.2d 372]]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Simple Assault. Pen. Code, § 240."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Authority section in CALCRIM No. 960, *Simple Battery*, regarding indirect touching."
+      },
+      {
+        "heading": true,
+        "text": "Resisting Arrest"
+      },
+      {
+        "text": "“[A] person may not use force to resist any arrest, lawful or unlawful, except that he may use reasonable force to defend life and limb against excessive force . . . .” (*People v. Curtis* (1969) 70 Cal.2d 347, 357 [74 Cal.Rptr. 713, 450 P.2d 33].) “[I]f the arrest is ultimately determined factually to be unlawful [but the officer did not use excessive force], the defendant can be validly convicted only of simple assault or battery,” not assault or battery of a peace officer. (*Id.* at pp. 355–356.) See CALCRIM No. 2672, *Lawful Performance: Resisting Unlawful Arrest With Force*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

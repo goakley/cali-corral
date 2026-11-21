@@ -1,0 +1,127 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1650",
+  "title": "Carjacking (Pen. Code, § 215)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1207,
+      1209
+    ]
+  },
+  "revision_line": "New January 2006; Revised March 2017, March 2019",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with carjacking [in violation of Penal Code section 215].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant took a motor vehicle;",
+    "2. The vehicle was taken from the immediate presence of a person who possessed the vehicle or was its passenger;",
+    "3. The vehicle was taken against that person’s will;",
+    "4. The defendant used force or fear to take the vehicle or to prevent that person from resisting;",
+    "AND",
+    "5. When the defendant used force or fear to take the vehicle, (he/she) intended to deprive the other person of possession of the vehicle either temporarily or permanently.",
+    "The defendant’s intent to take the vehicle must have been formed before or during the time (he/she) used force or fear. If the defendant did not form this required intent until after using the force or fear, then (he/she) did not commit carjacking.",
+    "[A *motor vehicle* includes a (passenger vehicle/motorcycle/motor scooter/bus/school bus/commercial vehicle/truck tractor and trailer/______ <insert other type of motor vehicle>).]",
+    "[The term *motor vehicle* is defined in another instruction to which you should refer.]",
+    "A person *takes* something when he or she gains possession of it and moves it some distance. The distance moved may be short.",
+    "[An act is done *against a person’s will* if that person does not consent to the act. In order to *consent*, a person must act freely and voluntarily and know the nature of the act.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[*Fear*, as used here, means fear of (injury to the person himself or herself[,]/[or] injury to the person’s family or property[,]/[or] immediate injury to someone else present during the incident or to that person’s property).]",
+    "[A vehicle is within a person’s *immediate presence* if it is sufficiently within his or her control so that he or she could keep possession of it if not prevented by force or fear.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "There is no sua sponte duty to define the terms “possession,” “fear,” and “immediate presence.” (*People v. Anderson* (1966) 64 Cal.2d 633, 639 [51 Cal.Rptr. 238, 414 P.2d 366] [fear]; *People v. Mungia* (1991) 234 Cal.App.3d 1703, 1708 [286 Cal.Rptr. 394] [fear].) These definitions are discussed in the Commentary to CALCRIM No. 1600, *Robbery*."
+      },
+      {
+        "text": "Give the bracketed definition of “against a person’s will” on request."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 215."
+      },
+      {
+        "text": "• Fear Defined. Pen. Code, § 212."
+      },
+      {
+        "text": "• Motor Vehicle Defined. Veh. Code, § 415."
+      },
+      {
+        "text": "• Immediate Presence Defined. *People v. Hayes* (1990) 52 Cal.3d 577, 626–627 [276 Cal.Rptr. 874, 802 P.2d 376]; *People v. Medina* (1995) 39 Cal.App.4th 643, 650 [46 Cal.Rptr.2d 112]."
+      },
+      {
+        "text": "• Possession Defined. *People v. Bekele* (1995) 33 Cal.App.4th 1457, 1461 [39 Cal.Rptr.2d 797], disapproved on other grounds in *People v. Rodriguez* (1999) 20 Cal.4th 1, 13–14 [82 Cal.Rptr.2d 413, 971 P.2d 618]; see *People v. Hamilton* (1995) 40 Cal.App.4th 1137, 1143–1144 [47 Cal.Rptr.2d 343]."
+      },
+      {
+        "text": "• Carjacking Crime Against Possession, not Ownership, of Vehicle. *People v. Cabrera* (2007) 152 Cal.App.4th 695, 701–702 [61 Cal.Rptr.3d 373]."
+      },
+      {
+        "text": "• Sufficient Force. *People v. Hudson* (2017) 11 Cal.App.5th 831, 837 [217 Cal.Rptr.3d 775]; *People v. Lopez* (2017) 8 Cal.App.5th 1230, 1237 [214 Cal.Rptr.3d 618]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Carjacking. Pen. Code, §§ 663, 215; see *People v. Jones* (1999) 75 Cal.App.4th 616, 628 [89 Cal.Rptr.2d 485]."
+      },
+      {
+        "text": "Neither theft or robbery is a necessarily included offense of carjacking. (*People v. Ortega* (1998) 19 Cal.4th 686, 693 [80 Cal.Rptr.2d 489, 968 P.2d 48] [theft]; *People v. Dominguez* (1995) 38 Cal.App.4th 410, 419 [45 Cal.Rptr.2d 153] [robbery].) Vehicle theft (Veh. Code, § 10851(a)) is not a lesser included offense of carjacking. (*People v. Montoya* (2004) 33 Cal.4th 1031, 1035 [16 Cal.Rptr.3d 902, 94 P.3d 1098].)"
+      },
+      {
+        "text": "Attempted grand theft auto is not a lesser included offense of attempted carjacking. *People v. Marquez* (2007) 152 Cal.App.4th 1064, 1066 [62 Cal.Rptr.3d 31]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Force—Timing"
+      },
+      {
+        "text": "Force or fear must be used against the victim to gain possession of the vehicle. The timing, however, “in no way depends on whether the confrontation and use of force or fear occurs before, while, or after the defendant initially takes possession of the vehicle.” (*People v. O’Neil* (1997) 56 Cal.App.4th 1126, 1133 [66 Cal.Rptr.2d 72].)"
+      },
+      {
+        "heading": true,
+        "text": "Asportation—Felonious Taking"
+      },
+      {
+        "text": "“Felonious taking” has the same meaning in carjacking as in robbery. (*People v. Lopez* (2003) 31 Cal.4th 1051, 1062 [6 Cal.Rptr.3d 432, 79 P.3d 548].) “To satisfy the asportation requirement for robbery, no great movement is required, and it is not necessary that the property be taken out of the physical presence of the victim. [S]light movement is enough to satisfy the asportation requirement.” (*Id.* at p. 1061 [internal quotation marks and citations omitted].) The taking can occur whether or not the victim remains with the car. (*People v. Duran* (2001) 88 Cal.App.4th 1371, 1375–1377 [106 Cal.Rptr.2d 812].) Carjacking can also occur when a defendant forcibly takes a victim’s car keys, not just when a defendant takes a car from the victim’s presence. (*People v. Hoard* (2002) 103 Cal.App.4th 599, 608–609 [126 Cal.Rptr.2d 855] [although victim was not physically present in the parking lot when defendant drove the car away, she had been forced to relinquish her car keys].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 23
+  },
+  "warnings": []
+}

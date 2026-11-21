@@ -1,0 +1,153 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2572",
+  "title": "Possession of Explosive or Destructive Device in Specified Place (Pen. Code, § 18715)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1809,
+      1812
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, September 2019",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with recklessly or maliciously possessing (an explosive/[or] a destructive device) (in[,]/on[,]/[or] near) ______ <insert type of place alleged from Pen. Code, § 18715> [in violation of Penal Code section 18715].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant recklessly or maliciously possessed (an explosive/[or] a destructive device);",
+    "AND",
+    "2. At the time the defendant possessed the (substance/[or] device), (he/she) was",
+    "<2A.>",
+    "[on a public street or highway](;[ or]/.)",
+    "<2B.>",
+    "[in or near a (theater[,]/hall[,]/school[,]/college[,]/church[,]/hotel[,]/[or] other public building/[or] private habitation](;[ or]/.)",
+    "<2C.>",
+    "[in, on, or near a (plane[,]/passenger train[,]/car[,]/cable road or cable car[,]/boat carrying paying passengers)](; or/.)",
+    "<2D.>",
+    "[in, on, or near another public place ordinarily passed by human beings].",
+    "A person acts *recklessly* when (1) he or she is aware that his or her actions present a substantial and unjustifiable risk, (2) he or she ignores that risk, and (3) the person’s behavior is grossly different from what a reasonable person would have done in the same situation.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else.",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) which is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is also any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type of explosive from Health & Saf. Code, § 12000> is an *explosive*.]",
+    "[A *destructive device* is ______ <insert definition from Pen. Code, § 16460>.]",
+    "[______ <insert type of destructive device from Pen. Code, § 16460> is a *destructive device*.]",
+    "[The term[s] (*explosive/*[and] *destructive device*) (is/are) defined in another instruction.]",
+    "[The People do not need to prove that the (explosive/[or] destructive device) was set to explode.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The People allege that the defendant possessed the following (explosive[s]/[or] destructive device[s]): ______ <insert description of each explosive or destructive device when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant possessed at least one of the alleged items and you all agree on which alleged item (he/she) possessed.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple items, the court has a sua sponte duty to instruct on unanimity. (*People v. Heideman* (1976) 58 Cal.App.3d 321, 333 [130 Cal.Rptr. 349].) Give the bracketed paragraph that begins, “The People allege that the defendant possessed the following,” inserting the items alleged. The jury does not have to be unanimous about whether the defendant acted recklessly or maliciously. *(Ibid.)* The jury also does not have to agree on whether the item was an explosive or a destructive device. (*People v. Westoby* (1976) 63 Cal.App.3d 790, 797 [134 Cal.Rptr. 97]; see also *People v. Quinn*, (1976) 57 Cal.App.3d 251, 257 [129 Cal.Rptr. 139] [a bomb may be an explosive and may be a destructive device].)"
+      },
+      {
+        "text": "Depending on the device or substance used, give the bracketed definitions of “explosive” or “destructive device,” inserting the appropriate definition from Penal Code section 16460, unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere. If the case involves a specific device listed in Health and Safety Code section 12000 or Penal Code section 16460, the court may instead give the bracketed sentence stating that the listed item “is an explosive” or “is a destructive device.” For example, “A grenade is a destructive device.” However, the court may not instruct the jury that the defendant used a destructive device. For example, the court may not state that “the defendant used a destructive device, a grenade,” or “the device used by the defendant, a grenade, was a destructive device.” (*People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257].)"
+      },
+      {
+        "text": "If the device used is a bomb, the court may insert the word “bomb” in the bracketed definition of destructive device without further definition. (*People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) Appellate courts have held that the term “bomb” is not vague and is understood in its “common, accepted, and popular sense.” (*People v. Quinn, supra,* 57 Cal.App.3d at p. 258; *People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) If the court wishes to define the term “bomb,” the court may use the following definition: “A bomb is a device carrying an explosive charge fused to blow up or detonate under certain conditions.” (See *People v. Morse* (1992) 2 Cal.App.4th 620, 647, fn. 8 [3 Cal.Rptr.2d 343].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 18715."
+      },
+      {
+        "text": "• Explosive Defined. Health & Saf. Code, § 12000."
+      },
+      {
+        "text": "• Destructive Device Defined. Pen. Code, § 16460."
+      },
+      {
+        "text": "• Recklessly Defined. *People v. Heideman* (1976) 58 Cal.App.3d 321, 334 [130 Cal.Rptr. 349]; *In re Steven S.* (1994) 25 Cal.App.4th 598, 614–615 [31 Cal.Rptr.2d 644]; Model Pen. Code, § 2.02(2)(c)."
+      },
+      {
+        "text": "• Maliciously Defined. Pen. Code, § 7(4); *People v. Lopez* (1986) 176 Cal.App.3d 545, 550 [222 Cal.Rptr. 101]; see also *People v. Heideman* (1976) 58 Cal.App.3d 321, 335 [130 Cal.Rptr. 349]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. See *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6 [98 Cal.Rptr.2d 466, 4 P.3d 297]; *People v. Yoshimura* (1979) 91 Cal.App.3d 609, 619 [154 Cal.Rptr. 314]."
+      },
+      {
+        "text": "• Unanimity. *People v. Heideman* (1976) 58 Cal.App.3d 321, 333 [130 Cal.Rptr. 349]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Possession of Destructive Device. Pen. Code, § 18710; *People v. Westoby* (1976) 63 Cal.App.3d 790, 795 [134 Cal.Rptr. 97]."
+      },
+      {
+        "text": "• Possession of Explosive. Health & Saf. Code, § 12305; *People v. Westoby* (1976) 63 Cal.App.3d 790, 795 [134 Cal.Rptr. 97]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Need Not Be Set to Explode"
+      },
+      {
+        "text": "“One need not possess a destructive device already set to explode in order to violate [now-repealed] Penal Code section 12303.2.” (*People v. Westoby* (1976) 63 Cal.App.3d 790, 795 [134 Cal.Rptr. 97].) Thus, the defendant in *Westoby* was guilty of possessing a destructive device even though the battery wires were not connected on the pipe bomb. *(Ibid.)* Similarly, in *People v. Heideman* (1976) 58 Cal.App.3d 321, 335–336 [130 Cal.Rptr. 349], the defendant was guilty of illegally possessing dynamite even though he did not have the blasting caps necessary to ignite the dynamite. (See also *People v. Morse* (1992) 2 Cal.App.4th 620, 646–647 [3 Cal.Rptr.2d 343] [instruction on this point proper].)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Charges Based on Multiple Explosives or Destructive Devices"
+      },
+      {
+        "text": "The defendant may be charged with multiple counts of violating Penal Code section 18715 based on possession of multiple explosives or destructive devices. (*People v. DeGuzman* (2003) 113 Cal.App.4th 538, 548 [6 Cal.Rptr.3d 739].)"
+      },
+      {
+        "heading": true,
+        "text": "Maliciously—People v. Heideman"
+      },
+      {
+        "text": "In *People v. Heideman* (1976) 58 Cal.App.3d 321 [130 Cal.Rptr. 349], the defendant offered to commit murder for hire using explosives and possessed the explosives. (*Id.* at pp. 327–329.) The defendant asserted that he did not actually intend to physically injure anyone but simply to defraud the individuals offering to pay for the murders. (*Id.* at pp. 330–331.) On appeal, the defendant contended that the court had improperly instructed on the meaning of “recklessness,” which the prosecution conceded. (*Id.* at p. 334.) Noting that the “[d]efendant admitted that his purpose in storing the dynamite in his room was to carry out a nefarious scheme to defraud his victims,” the court found sufficient evidence to establish malice. (*Id.* at p. 335.) The court stated that under the facts of the case before it, the term “maliciously” did not “require an actual intent to physically injure, intimidate or terrify others.” *(Ibid.)* Accordingly, the court found that the error in the instruction on “recklessness” was harmless given that there was sufficient evidence to support the higher culpability standard of malice. *(Ibid.)* The committee did not incorporated the language from *Heideman* in the definition of “maliciously” in this instruction because the committee concluded that this case reflects unique facts and that the language quoted is dicta, not essential to the ruling of the case."
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 2571, *Carrying or Placing Explosive or Destructive Device on Common Carrier*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

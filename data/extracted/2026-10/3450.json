@@ -1,0 +1,130 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3450",
+  "title": "Insanity: Determination, Effect of Verdict (Pen. Code, §§ 25, 29.8)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2395,
+      2398
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2008, October 2010, August 2014, August 2015, September 2017",
+  "revision_legend": null,
+  "body": [
+    "You have found the defendant guilty of ______ <insert crime[s]>. Now you must decide whether (he/she) was legally insane when (he/she) committed the crime[s].",
+    "The defendant must prove that it is more likely than not that (he/she) was legally insane when (he/she) committed the crime[s].",
+    "The defendant was legally insane if:",
+    "1. When (he/she) committed the crime[s], (he/she) had a mental disease or defect;",
+    "AND",
+    "2. Because of that disease or defect, (he/she) was incapable of knowing or understanding the nature and quality of (his/her) act or was incapable of knowing or understanding that (his/her) act was morally or legally wrong.",
+    "Do not base a finding of not guilty by reason of insanity solely on the basis of a personality disorder, adjustment disorder, seizure disorder, or an abnormality of personality or character made apparent only by a series of criminal or antisocial acts.",
+    "[Special rules apply to an insanity defense involving drugs or alcohol. Addiction to or abuse of drugs or intoxicants, by itself, does not qualify as legal insanity. This is true even if the intoxicants cause organic brain damage or a settled mental disease or defect that lasts after the immediate effects of the intoxicants have worn off. Likewise, a temporary mental condition caused by the recent use of drugs or intoxicants is not legal insanity.]",
+    "[If the defendant suffered from a settled mental disease or defect caused by the long-term use of drugs or intoxicants, that settled mental disease or defect combined with another mental disease or defect may qualify as legal insanity. A *settled mental disease or defect* is one that remains after the effect of the drugs or intoxicants has worn off.]",
+    "You may consider any evidence that the defendant had a mental disease or defect before the commission of the crime[s]. If you are satisfied that (he/she) had a mental disease or defect before (he/she) committed the crime[s], you may conclude that (he/she) suffered from that same condition when (he/she) committed the crime[s]. You must still decide whether that mental disease or defect constitutes legal insanity.",
+    "[If you find the defendant was legally insane at the time of (his/her) crime[s], (he/she) will not be released from custody until a court finds (he/she) qualifies for release under California law. Until that time (he/she) will remain in a mental hospital or outpatient treatment program, if appropriate. (He/She) may not, generally, be kept in a mental hospital or outpatient program longer than the maximum sentence available for (his/her) crime[s]. If the state requests additional confinement beyond the maximum sentence, the defendant will be entitled to a new sanity trial before a new jury. Your job is only to decide whether the defendant was legally sane or insane at the time of the crime[s]. You must not speculate as to whether (he/she) is currently sane or may be found sane in the future. You must not let any consideration about where the defendant may be confined, or for how long, affect your decision in any way.]",
+    "[You may find that at times the defendant was legally sane and at other times was legally insane. You must determine whether (he/she) was legally insane when (he/she) committed the crime.]",
+    "[If you conclude that the defendant was legally sane at the time (he/she) committed the crime[s], then it is no defense that (he/she) committed the crime[s] as a result of an uncontrollable or irresistible impulse.]",
+    "If, after considering all the evidence, all twelve of you conclude the defendant has proved that it is more likely than not that (he/she) was legally insane when (he/she) committed the crime[s], you must return a verdict of not guilty by reason of insanity."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on insanity when the defendant has entered a plea of not guilty by reason of insanity. (Pen. Code, § 25.)"
+      },
+      {
+        "text": "Give the bracketed paragraph that begins with “Special rules apply” when the sole basis of insanity is the defendant’s use of intoxicants. (Pen. Code, § 29.8; *People v. Robinson* (1999) 72 Cal.App.4th 421, 427–428 [84 Cal.Rptr.2d 832].) If the defendant’s use of intoxicants is not the sole basis or causative factor of insanity, but rather one factor among others, give the bracketed paragraph that begins with “If the defendant suffered from a settled mental.” (*Id*. at p. 430, fn. 5.)"
+      },
+      {
+        "text": "Do not give CALCRIM No. 224, *Circumstantial Evidence: Sufficiency of Evidence*, or CALCRIM No. 225, *Circumstantial Evidence: Intent or Mental State*. These instructions have “no application when the standard of proof is preponderance of the evidence.” (*People v. Johnwell* (2004) 121 Cal.App.4th 1267, 1274 [18 Cal.Rptr.3d 286].)"
+      },
+      {
+        "text": "There is no sua sponte duty to inform the jury that an insanity verdict would result in the defendant’s commitment to a mental hospital. However, this instruction must be given on request. (*People v. Moore* (1985) 166 Cal.App.3d 540, 556 [211 Cal.Rptr. 856]; *People v. Kelly* (1992) 1 Cal.4th 495, 538 [3 Cal.Rptr.2d 677, 822 P.2d 385].)"
+      },
+      {
+        "text": "If the court conducts a bifurcated trial on the insanity plea, the court must also give the appropriate post-trial instructions such as CALCRIM No. 3550, *Pre-Deliberation Instructions*, CALCRIM No. 222, *Evidence*, and CALCRIM No. 226, *Witnesses*. (See *In re Ramon M.* (1978) 22 Cal.3d 419, 427, fn. 10 [149 Cal.Rptr. 387, 584 P.2d 524].) These instructions may need to be modified."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Instructional Requirements. Pen. Code, §§ 25, 29.8; *People v. Skinner* (1985) 39 Cal.3d 765 [217 Cal.Rptr. 685, 704 P.2d 752]."
+      },
+      {
+        "text": "• Burden of Proof. Pen. Code, § 25(b)."
+      },
+      {
+        "text": "• Commitment to Hospital. Pen. Code, §§ 1026, 1026.5; *People v. Moore* (1985) 166 Cal.App.3d 540, 556 [211 Cal.Rptr. 856]; *People v. Kelly* (1992) 1 Cal.4th 495, 538 [3 Cal.Rptr.2d 677, 822 P.2d 385]."
+      },
+      {
+        "text": "• Excluded Conditions. Pen. Code, § 29.8."
+      },
+      {
+        "text": "• Anti-Social Acts. *People v*. *Fields* (1983) 35 Cal.3d 329, 368–372 [197 Cal.Rptr. 803, 673 P.2d 680]; *People v. Stress* (1988) 205 Cal.App.3d 1259, 1271 [252 Cal.Rptr. 913]."
+      },
+      {
+        "text": "• Long-Term Substance Use. *People v. Robinson* (1999) 72 Cal.App.4th 421, 427 [84 Cal.Rptr.2d 832]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. McCarrick* (2016) 6 Cal.App.5th 227, 250–252 [210 Cal.Rptr.3d 838] [delusion also may negate premeditation and deliberation]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Bifurcated Proceedings"
+      },
+      {
+        "text": "The defendant has a right to bifurcated proceedings on the questions of sanity and guilt. (Pen. Code, § 1026.) When the defendant enters *both* a “not guilty” and a “not guilty by reason of insanity” plea, the defendant must be tried first with respect to guilt. If the defendant is found guilty, he or she is then tried with respect to sanity. The defendant may waive bifurcation and have both guilt and sanity tried at the same time. (Pen. Code, § 1026(a).)"
+      },
+      {
+        "heading": true,
+        "text": "Extension of Commitment"
+      },
+      {
+        "text": "The test for extending a person’s commitment is not the same as the test for insanity. (*People v. Superior Court (Williams)* (1991) 233 Cal.App.3d 477, 490 [284 Cal.Rptr. 601].) The test for insanity is whether the accused “was incapable of knowing or understanding the nature and quality of his or her act or of distinguishing right from wrong at the time of the commission of the offense.” (Pen. Code, § 25(b); *People v. Skinner* (1985) 39 Cal.3d 765, 768 [217 Cal.Rptr. 685, 704 P.2d 752].) In contrast, the standard for recommitment under Penal Code section 1026.5, subdivision (b), is whether a defendant, “by reason of a mental disease, defect, or disorder represents a substantial danger of physical harm to others.” (*People v. Superior Court, supra,* 233 Cal.App.3d at pp. 489–490; *People v. Wilder* (1995) 33 Cal.App.4th 90, 99 [39 Cal.Rptr.2d 247].)"
+      },
+      {
+        "heading": true,
+        "text": "Legal and Moral Wrong"
+      },
+      {
+        "text": "The wrong contemplated by the two-part insanity test refers to both the legal wrong and the moral wrong. If the defendant appreciates that his or her act is criminal but does not think it is morally wrong, he or she may still be criminally insane. (See *People v. Skinner* (1985) 39 Cal.3d 765, 777–784 [217 Cal.Rptr. 685]; see also *People v. Stress* (1988) 205 Cal.App.3d 1259, 1271–1274 [252 Cal.Rptr. 913].)"
+      },
+      {
+        "heading": true,
+        "text": "Temporary Insanity"
+      },
+      {
+        "text": "The defendant’s insanity does not need to be permanent in order to establish a defense. The relevant inquiry is the defendant’s mental state at the time the offense was committed. (*People v. Kelly* (1973) 10 Cal.3d 565, 577 [111 Cal.Rptr. 171, 516 P.2d 875].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

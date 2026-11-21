@@ -1,0 +1,73 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1127",
+  "title": "Engaging in Sexual Intercourse or Sodomy With Child 10 Years of Age or Younger (Pen. Code, § 288.7(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      958,
+      959
+    ]
+  },
+  "revision_line": "New August 2009; Revised February 2013, September 2017",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with engaging in (sexual intercourse/[or] sodomy) with a child 10 years of age or younger [in violation of Penal Code section 288.7(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant engaged in an act of (sexual intercourse/[or] sodomy) with ______ <insert name of complaining witness>;",
+    "2. When the defendant did so, ______ <insert name of complaining witness> was 10 years of age or younger;",
+    "3. At the time of the act, the defendant was at least 18 years old.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
+    "[*Sexual intercourse* means any penetration, no matter how slight, of the vagina or genitalia by the penis. [Ejaculation is not required.]]",
+    "[*Sodomy* is any penetration, no matter how slight, of the anus of one person by the penis of another person. [Ejaculation is not required.]]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 288.7(a)."
+      },
+      {
+        "text": "• Penetration Defined. Pen. Code, § 263; *People v. Karsai* (1982) 131 Cal.App.3d 224, 233–234 [182 Cal.Rptr. 406], disapproved on other grounds by *People v. Jones* (1988) 46 Cal.3d 585, 600 [250 Cal.Rptr. 635, 758 P.2d 1165]."
+      },
+      {
+        "text": "• Sodomy Defined. Pen. Code, § 286(a); see *People v. Singh* (1923) 62 Cal.App. 450, 452 [217 P. 121] [ejaculation is not required]."
+      },
+      {
+        "text": "• Calculating Age. Fam. Code, § 6500; *People v. Cornett* (2012) 53 Cal.4th 1261, 1264, 1275 [139 Cal.Rptr.3d 837, 274 P.3d 456] [“10 years of age or younger” means “under 11 years of age”]; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [21 Cal.Rptr.2d 373, 855 P.2d 391]."
+      },
+      {
+        "text": "LESSER INCLUDED OFFENSE"
+      },
+      {
+        "text": "• Attempts to commit the following crimes are not lesser included offenses of the underlying crime: sexual intercourse with child 10 years of age or younger, sodomy with a child 10 years of age or younger, oral copulation with a child 10 years of age or younger. *People v. Mendoza* (2015) 240 Cal.App.4th 72, 83 [191 Cal.Rptr.3d 905]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

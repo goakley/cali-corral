@@ -1,0 +1,116 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "970",
+  "title": "Shooting Firearm or BB Device in Grossly Negligent Manner (Pen. Code, § 246.3)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      787,
+      789
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, February 2012, September 2019, September 2020, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with shooting a (firearm/BB Device) in a grossly negligent manner [in violation of Penal Code section 246.3].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant intentionally shot a (firearm/BB device);",
+    "2. The defendant did the shooting with gross negligence;",
+    "[AND]",
+    "3. The shooting could have resulted in the injury or death of a person(;/.)",
+    "<Give element 4 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "4. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "*Gross negligence* involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with gross negligence when:",
+    "1. He or she acts in a reckless way that creates a high risk of death or great bodily injury.",
+    "AND",
+    "2. A reasonable person would have known that acting in that way would create such a risk.",
+    "In other words, a person acts with gross negligence when the way he or she acts is so different from the way an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act.",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[A *BB device* is any instrument that expels a projectile, such as a BB or a pellet, through the force of air pressure, gas pressure, or spring action.]",
+    "[The term[s] (*great bodily injury/*[and] *firearm*) (is/are) defined in another instruction to which you should refer.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 4 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "Give the relevant bracketed definitions unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 246.3."
+      },
+      {
+        "text": "• Discharge Must be Intentional. *People v. Robertson* (2004) 34 Cal.4th 156, 167 [17 Cal.Rptr.3d 604, 95 P.3d 872]; *In re Jerry R.* (1994) 29 Cal.App.4th 1432, 1438 [35 Cal.Rptr.2d 155]; *People v. Alonzo* (1993) 13 Cal.App.4th 535, 538 [16 Cal.Rptr.2d 656]."
+      },
+      {
+        "text": "• “Firearm” Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• “BB Device” Defined. Pen. Code, § 246.3(c)."
+      },
+      {
+        "text": "• “Willful” Defined. Pen. Code, § 7(1)."
+      },
+      {
+        "text": "• “Gross Negligence” Defined. *People v. Alonzo, supra,* 13 Cal.App.4th at p. 540; see *People v. Penny* (1955) 44 Cal.2d 861, 879–880 [285 P.2d 926]."
+      },
+      {
+        "text": "• Actual Belief Weapon Not Loaded Negates Mental State. *People v. Robertson, supra,* 34 Cal.4th at p. 167; *In re Jerry R., supra,* 29 Cal.App.4th at pp. 1438–1440."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "Unlawful possession by a minor of a firearm capable of being concealed on the person (see Pen. Code, § 29610) is not a necessarily included offense of unlawfully discharging a firearm with gross negligence. (*In re Giovani M.* (2000) 81 Cal.App.4th 1061, 1066 [97 Cal.Rptr.2d 319].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Actual Belief Weapon Not Loaded Negates Mental State"
+      },
+      {
+        "text": "“A defendant who believed that the firearm he or she discharged was unloaded . . . would not be guilty of a violation of section 246.3.” (*People v. Robertson, supra,* 34 Cal.4th at p. 167 [citing *In re Jerry R., supra,* 29 Cal.App.4th at pp. 1438–1439, p. 1440].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

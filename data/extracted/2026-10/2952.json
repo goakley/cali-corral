@@ -1,0 +1,74 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2952",
+  "title": "Defenses: Negligent Control of Attack Dog (Pen. Code, § 399.5(c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2109,
+      2110
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "You must find the defendant not guilty of failing to use ordinary care in (owning/[or] controlling) an attack dog if:",
+    "<Alternative A—trespassing>",
+    "[______ <insert name[s] of person[s] allegedly attacked> (was/were) trespassing at the time (he/she/they) (was/were) bitten by the dog][; or/.]",
+    "<Alternative B—provocation>",
+    "[______ <insert name[s] of person[s] allegedly attacked> provoked the dog or otherwise contributed to (his/her/their) own injuries][; or/.]",
+    "<Alternative C—dog doing military or police work>",
+    "[The dog was being used in military or police work and the biting occurred while the dog was actually performing in that capacity.]",
+    "[A *trespasser* is someone who (enters a residence without the consent of the (owner/owner’s agent/person who lawfully possesses the property)[,]/[or] enters land (enclosed by a fence/[or] posted with “no trespassing” signs) and refuses to leave the property when requested to do so by the (owner/owner’s agent/person who lawfully possesses the property)[,]/[or] ______ <insert other definition of trespasser, see Pen. Code, § 602 et seq.>).]",
+    "[*Provoking* includes, but is not limited to, approaching, in a threatening manner, the owner or custodian of a dog held on a leash so that the dog reacts in a protective manner.]",
+    "<Alternative A—reasonable doubt standard>",
+    "[The People have the burden of proving beyond a reasonable doubt that (______ <insert name[s] of person[s] allegedly attacked> (was/were) not trespassing[,]/[or] [______ <insert name[s] of person[s] allegedly attacked>] did not provoke the dog[,]/[or] the dog was not being used in military or police work). If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "<Alternative B—preponderance standard>",
+    "[The defendant has the burden of proving this defense by a preponderance of the evidence. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that (______ <insert name[s] of person[s] allegedly attacked> (was/were) trespassing[,]/[or] [______ <insert name[s] of person[s] allegedly attacked>] provoked the dog[,]/[or] the dog was being used in military or police work).]"
+  ],
+  "body_indents": [
+    0.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    16.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "Penal Code section 399.5(c) states that “nothing in this section shall authorize the bringing of an action pursuant” to this statute in the three situations described above: i.e., the bitten trespasser; the injured party who provokes the dog or who contributes to his or her own injuries; or the police or military dog performing in that capacity. No case presently addresses the issue of who must bear the burden of proving the existence or nonexistence of these facts."
+      },
+      {
+        "text": "Because the very bringing of a prosecution is barred under the circumstances stated in subdivision (c), it appears the Legislature intended to place these factual situations outside the scope of its criminal prohibition. This is to be contrasted with affirmative defenses such as entrapment, where the defendant’s conduct is within the statute’s facial reach but subject to an exception to the general rule based on considerations other than guilt or innocence. (See *People v. Mower* (2002) 28 Cal.4th 457, 476–483 [122 Cal.Rptr.2d 326, 49 P.3d 1067] [discussing at length affirmative defenses and burdens of proof]; 4 Witkin & Epstein, California Criminal Law (3d ed. 2000), Pretrial Proceedings, § 202.) That being so, the burden of proving beyond a reasonable doubt the nonexistence of the subdivision (c) circumstances would properly be placed on the prosecution. (See *People v. Mower, supra*, 28 Cal.4th at p. 482 [122 Cal.Rptr.2d 326, 49 P.3d 1067].) However, there must still be sufficient evidence to permit a reasonable jury to have a reasonable doubt about whether one or more of the circumstances existed before an instruction on this issue would be required."
+      },
+      {
+        "text": "Alternative paragraphs on both the reasonable doubt and preponderance of the evidence standards have been included. The court must choose, at its discretion, either alternative A—reasonable doubt standard, or alternative B—preponderance standard."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Defenses. Pen. Code, § 399.5(c)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 2
+  },
+  "warnings": []
+}

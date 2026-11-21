@@ -1,0 +1,69 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3530",
+  "title": "Judge’s Comment on the Evidence (Cal. Const., art. VI, § 10; Pen. Code, §§ 1127, 1093(f))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2473,
+      2474
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "Do not take anything I said or did during the trial as an indication of what I think about the evidence, the witnesses, or what your verdict should be.",
+    "Now, I will comment on the evidence only to help you decide the issues in this case.",
+    "However, it is not my role to tell you what your verdict should be. You are the sole judges of the evidence and believability of witnesses. It is up to you and you alone to decide the issues in this case. You may disregard any or all of my comments about the evidence or give them whatever weight you believe is appropriate."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "If the court comments on the evidence, the court has a sua sponte duty to give this instruction. (Cal. Const., art. VI, § 10; Pen. Code, §§ 1127, 1093(f); *People v. Proctor* (1992) 4 Cal.4th 499, 543 [15 Cal.Rptr.2d 340, 842 P.2d 1100]; *People v. Brock* (1967) 66 Cal.2d 645, 651 [58 Cal.Rptr. 321, 426 P.2d 889], overruled on other grounds in *People v. Cook* (1983) 33 Cal.3d 400, 413, fn. 13 [189 Cal.Rptr. 159, 658 P.2d 86].)"
+      },
+      {
+        "text": "“[J]udicial comment on the evidence must be accurate, temperate, nonargumentative, and scrupulously fair. The trial court may not, in the guise of privileged comment, withdraw material evidence from the jury’s consideration, distort the record, expressly or impliedly direct a verdict, or otherwise usurp the jury’s ultimate factfinding power.” (*People v. Proctor, supra,* 4 Cal.4th at p. 542.)"
+      },
+      {
+        "text": "The judge may comment on the evidence before the case is submitted to the jury or after the jury has announced it is deadlocked. (*People v. Rodriguez* (1986) 42 Cal.3d 730, 766 [230 Cal.Rptr. 667, 726 P.2d 113] [overruling *People v. Cook* (1983) 33 Cal.3d 400 [189 Cal.Rptr. 159, 658 P.2d 86].)"
+      },
+      {
+        "text": "The judge may comment on the evidence at the sanity phase of a trial. (*People v. Scott* (1960) 53 Cal.2d 558, 563–565 [2 Cal.Rptr. 274, 348 P.2d 882], overruled in part by *People v. Morse* (1964) 60 Cal.2d 631, 638, fn. 2, 648–649 [36 Cal.Rptr. 201, 388 P.2d 33].)"
+      },
+      {
+        "text": "The judge may comment on the evidence at the penalty phase of a capital trial. (*People v. Friend* (1958) 50 Cal.2d 570, 579 [327 P.2d 97], overruled on other grounds in *People v. Cook* (1983) 33 Cal.3d 400, 413, fn. 13 [189 Cal.Rptr. 159, 658 P.2d 86].) However, *Friend* was decided in 1958, prior to most of the modern case law on capital trials. Thus, the committee recommends proceeding with great caution prior to making any comment on the evidence in the penalty phase of a capital case."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Judge May Comment on Evidence. Cal. Const., art. VI, § 10; Pen. Code, §§ 1127, 1093(f)."
+      },
+      {
+        "text": "• Admonition Required. Cal. Const., art. VI, § 10; Pen. Code, §§ 1127, 1093(f); *People v. Proctor* (1992) 4 Cal.4th 499, 543 [15 Cal.Rptr.2d 340, 842 P.2d 1100]; *People v. Brock* (1967) 66 Cal.2d 645, 651 [58 Cal.Rptr. 321, 426 P.2d 889], overruled on other grounds in *People v. Cook* (1983) 33 Cal.3d 400, 413, fn. 13 [189 Cal.Rptr. 159, 658 P.2d 86]."
+      },
+      {
+        "text": "• Comments Must Not Direct Verdict and Must Be Fair. *People v. Proctor* (1992) 4 Cal.4th 499, 542 [15 Cal.Rptr.2d 340, 842 P.2d 1100]; *People v. Brock* (1967) 66 Cal.2d 645, 651 [58 Cal.Rptr. 321, 426 P.2d 889], overruled on other grounds in *People v. Cook* (1983) 33 Cal.3d 400, 413, fn. 13 [189 Cal.Rptr. 159, 658 P.2d 86]."
+      },
+      {
+        "text": "• Judge May Comment After Jury Declares Deadlock. *People v. Rodriguez* (1986) 42 Cal.3d 730, 766 [230 Cal.Rptr. 667, 726 P.2d 113]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3500",
+  "title": "Unanimity",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2445,
+      2448
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged with ______ <insert description of alleged offense> [in Count ______] [sometime during the period of ______ to ______ ][, and the court has also instructed you on the lesser crime[s] of ______ <insert description of lesser crime(s)>].",
+    "The People have presented evidence of more than one act to prove that the defendant committed the charged offense [and the lesser crime[s]]. You must not find the defendant guilty [of ______ <insert description of charged and lesser crimes requiring unanimity>] unless you all agree that the People have proved that the defendant committed at least one of these acts and you all agree on which act (he/she) committed."
+  ],
+  "body_indents": [
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give a unanimity instruction if the prosecution presents evidence of multiple acts to prove a single count. (*People v. Russo* (2001) 25 Cal.4th 1124, 1132 [108 Cal.Rptr.2d 436, 25 P.3d 641]; *People v. Diedrich* (1982) 31 Cal.3d 263, 282 [182 Cal.Rptr. 354, 643 P.2d 971]; *People v. Madden* (1981) 116 Cal.App.3d 212, 218 [171 Cal.Rptr. 897]; *People v. Alva* (1979) 90 Cal.App.3d 418, 426 [153 Cal.Rptr. 644].) The committee has addressed unanimity in those instructions where the issue is most likely to arise. If a case raises a unanimity issue and other instructions do not adequately cover the point, give this instruction."
+      },
+      {
+        "text": "The Supreme Court has stated the rule as follows: “[W]hen the evidence suggests more than one discrete crime, either the prosecution must elect among the crimes or the court must require the jury to agree on the same criminal act. On the other hand, where the evidence shows only a single discrete crime but leaves room for disagreement as to exactly how that crime was committed or what the defendant’s precise role was, the jury need not unanimously agree on the basis or, as the cases often put it, the ‘theory’ whereby the defendant is guilty.” (*People v. Russo, supra,* 25 Cal.4th at p. 1132; see also *People v. Sutherland* (1993) 17 Cal.App.4th 602, 618–619 [21 Cal.Rptr.2d 752] [unanimity required in forgery case where prosecution alleges forgery of multiple documents under single count, but not where defendant charged with forging and uttering single document].)"
+      },
+      {
+        "text": "The court has no sua sponte duty to instruct on unanimity if the offense constitutes a “continuous course of conduct.” (*People v. Maury* (2003) 30 Cal.4th 342, 423 [133 Cal.Rptr.2d 561, 68 P.3d 1]; *People v. Madden, supra,* 116 Cal.App.3d at p."
+      },
+      {
+        "text": "218.) “This exception arises in two contexts. The first is when the acts are so closely connected that they form part of one and the same transaction, and thus one offense. The second is when . . . the statute contemplates a continuous course of conduct of a series of acts over a period of time.” (*People v. Napoles* (2002) 104 Cal.App.4th 108, 115–116 [127 Cal.Rptr.2d 777], quoting *People v. Avina* (1993) 14 Cal.App.4th 1303, 1309 [18 Cal.Rptr.2d 511]; internal quotation marks and citations omitted].) The court should carefully examine the statute under which the defendant is charged, the pleadings, and the evidence presented to determine whether the offense constitutes a continuous course of conduct. (*Ibid.*) [noting that child abuse may be a continuous course of conduct or a single, isolated incident]; see also *People v. Madden, supra,* 116 Cal.App.3d at p. 218 [distinguishing “continuous crime spree” and finding repeated sexual offenses did not constitute continuous course of conduct]; *People v. Wolfe* (2003) 114 Cal.App.4th 177, 185 [7 Cal.Rptr.3d 483] [unanimity instruction required where acts fragmented in time or space]; *People v. Rae* (2002) 102 Cal.App.4th 116, 123 [125 Cal.Rptr.2d 312] [elder abuse offense did constitute continuous course of conduct]; *People v. Cortez* (1992) 6 Cal.App.4th 1202, 1209 [8 Cal.Rptr.2d 580] [kidnapping is a continuous course of conduct].)"
+      },
+      {
+        "text": "In addition, “where the acts were substantially identical in nature, so that any juror believing one act took place would inexorably believe all acts took place, the [unanimity] instruction is not necessary to the jury’s understanding of the case.” (*People v. Beardslee* (1991) 53 Cal.3d 68, 93 [279 Cal.Rptr. 276, 806 P.2d 1311]; see also *People v. Champion* (1995) 9 Cal.4th 879, 932 [39 Cal.Rptr.2d 547, 891 P.2d 93], questioned on unrelated issue in *People v. Ray* (1996) 13 Cal.4th 313, 369, fn. 2 [52 Cal.Rptr.2d 296, 914 P.2d 846].) However, the court should use caution in applying this exception. (See *People v. Brown* (1996) 42 Cal.App.4th 1493, 1500–1501 [50 Cal.Rptr.2d 407]; *People v. Wolfe, supra,* 114 Cal.App.4th at p. 185.) The better practice is to provide a unanimity instruction to the jury when evidence has been admitted of separate acts that could form the basis for one charge."
+      },
+      {
+        "text": "The jury need not unanimously agree on whether the defendant was an aider and abettor or a direct perpetrator of the offense. (*People v. Jenkins* (2000) 22 Cal.4th 900, 1024–1026 [95 Cal.Rptr.2d 377, 997 P.2d 1044]; *People v. Beardslee, supra,* 53 Cal.3d at p. 93.)"
+      },
+      {
+        "text": "The jury need not unanimously agree on which provocative act the defendant committed when prosecution is pursuing a provocative-act theory of murder. (*People v. Briscoe* (2001) 92 Cal.App.4th 568, 591 [112 Cal.Rptr.2d 401].)"
+      },
+      {
+        "text": "In a conspiracy case, the jury need not unanimously agree on what overt act was committed or who was part of the conspiracy. (*People v. Russo, supra,* 25 Cal.4th at pp. 1135–1136.) However, if a conspiracy case involves an issue about the statute of limitations or evidence of withdrawal by the defendant, a unanimity instruction may be required. (*Id.* at p. 1136, fn. 2.)"
+      },
+      {
+        "text": "In a child molestation case, if the evidence has been presented in the form of “generic testimony” about recurring events without specific dates and times, the court should determine whether it is more appropriate to give CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*. (*People v. Jones* (1990) 51 Cal.3d 294, 321–322 [270 Cal.Rptr. 611, 792 P.2d 643].) See discussion below in Related Issues section."
+      },
+      {
+        "text": "If the prosecution elects one act among many as the basis for the offense, do not give this instruction. (*People v. Melhado* (1998) 60 Cal.App.4th 1529, 1536 [70 Cal.Rptr.2d 878].) Give CALCRIM No. 3502, *Unanimity: When Prosecution Elects One Act Among Many*."
+      },
+      {
+        "text": "Give the bracketed “sometime during the period” if the information alleges that the charged event happened during a period of time rather than on a single date."
+      },
+      {
+        "text": "Consider giving the bracketed language about lesser crimes if applicable and to avoid any potential confusion. (See *People v. Fish* (2024) 102 Cal.App.5th 730, 735–737 [321 Cal.Rptr.3d 738].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Unanimity Required. Cal. Const., art. I, § 16; *People v. Russo, supra,* 25 Cal.4th at p. 1132."
+      },
+      {
+        "text": "• Instruction Required if Multiple Acts Could Support Single Charge. *People v. Russo, supra,* 25 Cal.4th at p. 1132; *People v. Diedrich, supra,* 31 Cal.3d at p. 282; *People v. Madden, supra,* 116 Cal.App.3d at p. 218; *People v. Alva, supra,* 90 Cal.App.3d at p. 426."
+      },
+      {
+        "text": "• Continuous Course of Conduct. *People v. Maury, supra,* 30 Cal.4th at p. 423; *People v. Napoles, supra,* 104 Cal.App.4th at pp. 115–116; *People v. Madden, supra,* 116 Cal.App.3d at p. 218; *People v. Wolfe, supra,* 114 Cal.App.4th at p. 185."
+      },
+      {
+        "text": "• Acts Substantially Identical in Nature. *People v. Beardslee, supra,* 53 Cal.3d at p. 93; see also *People v. Champion, supra,* 9 Cal.4th at p. 932, questioned on unrelated issue in *People v. Ray, supra,* 13 Cal.4th at p. 369, fn. 2."
+      },
+      {
+        "text": "• Aider and Abettor v. Direct Perpetrator. *People v. Jenkins, supra,* 22 Cal.4th at pp. 1024–1026; *People v. Beardslee, supra,* 53 Cal.3d at p. 93."
+      },
+      {
+        "text": "• Provocative-Act Murder. *People v. Briscoe, supra,* 92 Cal.App.4th at p. 591."
+      },
+      {
+        "text": "• Conspiracy. *People v. Russo, supra,* 25 Cal.4th at pp. 1135–1136."
+      },
+      {
+        "text": "• Generic Testimony. *People v. Jones, supra,* 51 Cal.3d at pp. 321–322."
+      },
+      {
+        "text": "• Must Instruct on Election by Prosecutor. *People v. Melhado, supra,* 60 Cal.App.4th at p. 1536."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Cases Based on Generic Testimony"
+      },
+      {
+        "text": "In *People v. Jones, supra,* 51 Cal.3d at p. 305, the Court analyzed the due process concerns raised when a witness testifies to numerous, repeated acts of child molestation over a period of time, but the witness is unable to give specifics on time and date. The Court held that prosecutions based on this type of evidence satisfied due process where the testimony met specified criteria. (*Id.* at p. 316.) The Court then addressed what type of unanimity instruction is required in such cases:"
+      },
+      {
+        "text": "In a case in which the evidence indicates the jurors might disagree as to the particular act defendant committed, the standard unanimity instruction should be given. (See, e.g., *People v. Gordon* [(1985)] 165 Cal. App.3d [839,] 855–856 [defendant raised separate defenses to the two offenses at issue].) But when there is no reasonable likelihood of juror disagreement as to particular acts, and the only question is whether or not the defendant in fact committed all of them, the jury should be given a modified unanimity instruction which, in addition to allowing a conviction if the jurors unanimously agree on specific acts, also allows a conviction if the jury unanimously agrees the defendant committed all the acts described by the victim."
+      },
+      {
+        "text": "(*Id.* at pp. 321–322; *People v. Matute* (2002) 103 Cal.App.4th 1437, 1448 [127 Cal.Rptr.2d 472].) If the court concludes that the modified jury instruction is appropriate, do not give this instruction. Give CALCRIM No. 3501, *Unanimity: When Generic Testimony of Offense Presented*."
+      },
+      {
+        "heading": true,
+        "text": "Instruction That Unanimity Not Required"
+      },
+      {
+        "text": "In *People v. Culuko* (2000) 78 Cal.App.4th 307, 321–323 [92 Cal.Rptr.2d 789], the court held that an instruction stating that the jurors need not agree on whether the defendant was an aider and abettor or a principal was a correct statement of the law and not error to give. However, in *People v. Napoles, supra,* 104 Cal.App.4th at p. 119, the court found that the nonunanimity instruction given in that case was erroneous. The court cautioned against giving any nonunanimity instruction in a case involving a continuous course of conduct offense. (*Id.* at p. 119, fn. 6.) The court stated that if a nonunanimity instruction must be given, the following language would be appropriate:"
+      },
+      {
+        "text": "The defendant is accused of having [], [in count] by having engaged in a course of conduct between [date] and [date]. The People must prove beyond a reasonable doubt that the defendant engaged in this course of conduct. Each juror must agree that defendant engaged in acts or omissions that prove the required course of conduct. As long as each of you is convinced beyond a reasonable doubt that the defendant committed some acts or omissions that prove the course of conduct, you need not all rely on the same acts or omissions to reach that conclusion."
+      },
+      {
+        "text": "*(Ibid.)*"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

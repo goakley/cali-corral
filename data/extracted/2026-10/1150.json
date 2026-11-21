@@ -1,0 +1,160 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1150",
+  "title": "Pimping (Pen. Code, § 266h)",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      60,
+      63
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, October 2026*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with pimping [in violation of Penal Code section 266h].",
+    "To prove that the defendant is guilty of pimping, the People must prove that:",
+    "1. The defendant knew that ______ <insert name> was a prostitute;",
+    "[AND]",
+    "<Alternative 2A—money earned by prostitute supported defendant>",
+    "[2. The (money/proceeds) that ______ <insert name> earned as a prostitute supported defendant, in whole or in part(;/.)]",
+    "<Alternative 2B—money loaned by house manager supported defendant>",
+    "[2. Money that was (loaned to/advanced to/charged against) ______ <insert name> by a person who (kept/managed/was a prostitute at) the house or other place where the prostitution occurred, supported the defendant in whole or in part(;/.)]",
+    "<Alternative 2C—defendant asked for payment>",
+    "[2. The defendant asked for payment or received payment for soliciting prostitution customers for ______ <insert name> (;/.)]",
+    "<Give element 3 when defendant charged with pimping a minor.>",
+    "[AND",
+    "3. ______ <insert name> was a minor (over the age of 16 years/under the age of 16 years) when (he/she) engaged in the prostitution.]",
+    "A *prostitute* is a person who engages in sexual intercourse or any lewd act with another person in exchange for money [or other compensation]. A *lewd act* means physical contact of the genitals, buttocks, or female breast of either the prostitute or customer with some part of the other person’s body for the purpose of sexual arousal or gratification.",
+    "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In element 2, use the appropriate alternative A–C depending on the evidence in the case."
+      },
+      {
+        "text": "Give element 3 if it is alleged that the prostitute was a minor. Punishment is enhanced if the minor is under the age of 16 years. (Pen. Code, § 266h(b).)"
+      },
+      {
+        "text": "Give the bracketed paragraph about calculating age if requested. (Fam. Code, § 6500; *In re Harris* (1993) 5 Cal.4th 813, 849–850 [855 P.2d 391].)"
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If necessary for the jury’s understanding of the case, the court must instruct sua sponte on a defense theory in evidence, for example, that nude modeling does not constitute an act of prostitution and that an act of procuring a person solely for the purpose of nude modeling does not violate either the pimping or pandering statute. (*People v. Hill* (1980) 103 Cal.App.3d 525, 536–537 [163 Cal.Rptr. 99].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 266h."
+      },
+      {
+        "text": "• “Prostitution” Defined. Pen. Code, § 647(b); *People v. Hill* (1980) 103 Cal.App.3d 525, 534–535 [163 Cal.Rptr. 99]; *People v. Romo* (1962) 200 Cal.App.2d 83, 90–91 [19 Cal.Rptr. 179]; *Wooten v. Superior Court* (2001) 93 Cal.App.4th 422, 431–433 [113 Cal.Rptr.2d 195] [lewd act requires touching between prostitute and customer]."
+      },
+      {
+        "text": "• General Intent Crime. *People v. McNulty* (1988) 202 Cal.App.3d 624, 630–631 [249 Cal.Rptr. 22]."
+      },
+      {
+        "text": "• Proof Person Is a Prostitute. *People v. James* (1969) 274 Cal.App.2d 608, 613 [79 Cal.Rptr. 182]."
+      },
+      {
+        "text": "• “Solicitation” Defined. *People v. Smith* (1955) 44 Cal.2d 77, 78–80 [279 P.2d 33]."
+      },
+      {
+        "text": "• Good Faith Belief That Minor Is 18 No Defense to Pimping and Pandering. *People v. Branch* (2010) 184 Cal.App.4th 516, 521–522 [109 Cal.Rptr.3d 412]."
+      },
+      {
+        "text": "• Money Need Not Be Used Solely for the Purpose of Support. *People v. Jackson* (1980) 114 Cal.App.3d 207, 210 [170 Cal.Rptr. 476]; *People v. Navarro* (1922) 60 Cal.App. 180, 182 [212 P. 403]."
+      },
+      {
+        "text": "• Amount of Money Received Irrelevant. *People v. Jackson, supra,* 114 Cal.App.3d at p. 210."
+      }
+    ],
+    "commentary": [
+      {
+        "heading": true,
+        "text": "Solicitation"
+      },
+      {
+        "text": "In deciding there was sufficient evidence of solicitation, the court in *People v. Phillips* (1945) 70 Cal.App.2d 449, 453 [160 P.2d 872], quoted the following definitions:"
+      },
+      {
+        "text": "“[S]olicit” is defined as: “To tempt . . . ; to lure on, esp. into evil, . . . to bring about . . . ; to seek to induce or elicit . . . .” (Webster’s New International Dictionary (2d ed.)). “. . . to ask earnestly; to ask for the purpose of receiving; to endeavor to obtain by asking or pleading; . . . to try to obtain. . . . While it does imply a serious request, it requires no particular degree of importunity, entreaty, imploration or supplication.” (58 C.J. 804–805.)"
+      },
+      {
+        "heading": true,
+        "text": "General Intent"
+      },
+      {
+        "text": "The three ways of violating Penal Code section 266h are all general intent crimes, as held in *People v. McNulty* (1988) 202 Cal.App.3d 624, 630–631 [249 Cal.Rptr. 22]:"
+      },
+      {
+        "text": "[D]eriving support with knowledge that the other person is a prostitute is all that is required for violating the section in this manner. No specific intent is required. . . . Receiving compensation for soliciting with knowledge that the other person is a prostitute is the only requirement under the first alternative of violating section 266h by solicitation. Under the second alternative to pimping by soliciting (soliciting compensation), . . . if the accused has solicited for the prostitute and has solicited compensation even though he had not intended to receive compensation, he would nevertheless be guilty of pimping. Pimping in all its forms is not a specific intent crime."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Pimping. Pen. Code, §§ 664, 266h; see *People v. Osuna* (1967) 251 Cal.App.2d 528, 531 [59 Cal.Rptr. 559]."
+      },
+      {
+        "text": "• There is no crime of aiding and abetting prostitution. *People v. Gibson* (2001) 90 Cal.App.4th 371, 385 [108 Cal.Rptr.2d 809]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "House of Prostitution"
+      },
+      {
+        "text": "One room of a building or other place is sufficient to constitute a house of prostitution, and one person may keep such a place to which others resort for purposes of prostitution. (*People v. Frey* (1964) 228 Cal.App.2d 33, 53 [39 Cal.Rptr. 49]; see *Aguilera v. Superior Court* (1969) 273 Cal.App.2d 848, 852 [78 Cal.Rptr. 736].)"
+      },
+      {
+        "heading": true,
+        "text": "Unanimity Instruction Not Required"
+      },
+      {
+        "text": "Pimping is a crime “of a continuous ongoing nature and [is] therefore not subject to the requirement that the jury must agree on the specific act or acts constituting the offense.” (*People v. Dell* (1991) 232 Cal.App.3d 248, 265–266 [283 Cal.Rptr. 361]; *People v. Lewis* (1978) 77 Cal.App.3d 455, 460–462 [143 Cal.Rptr. 587] [living or deriving support from prostitute’s earnings is an ongoing continuing offense].) Proof of an ongoing relationship between the defendant and the prostitute is not required. (*People v. Jackson* (1980) 114 Cal.App.3d 207, 209–210 [170 Cal.Rptr. 476].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised April 2011"
+  },
+  "supplement_status": "revised"
+}

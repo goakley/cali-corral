@@ -1,0 +1,130 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "511",
+  "title": "Excusable Homicide: Accident in the Heat of Passion",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      319,
+      321
+    ]
+  },
+  "revision_line": "New January 2006; Revised April 2011, September 2019, September 2020, March 2022, October 2025",
+  "revision_legend": null,
+  "body": [
+    "The defendant is not guilty of (murder/[or] manslaughter) if (he/she) killed someone by accident while acting in the heat of passion. Such a killing is excused, and therefore not unlawful, if, at the time of the killing:",
+    "1. The defendant acted in the heat of passion;",
+    "2. The defendant was (suddenly provoked by ______ <insert name of decedent>/[or] suddenly drawn into combat by ______ <insert name of decedent>);",
+    "3. The defendant did not take undue advantage of ______ <insert name of decedent>;",
+    "4. The defendant did not use a dangerous weapon;",
+    "5. The defendant did not kill ______ <insert name of decedent> in a cruel or unusual way;",
+    "6. The defendant did not intend to kill ______ <insert name of decedent> and did not act with conscious disregard of the danger to human life;",
+    "AND",
+    "7. The defendant did not act with criminal negligence.",
+    "A person acts *in the heat of passion* when he or she is provoked into doing a rash act under the influence of intense emotion that obscures his or her reasoning or judgment. The provocation must be sufficient to have caused a person of average disposition to act rashly and without due deliberation, that is, from passion rather than from judgment.",
+    "Heat of passion does not require anger, rage, or any specific emotion. It can be any violent or intense emotion that causes a person to act without due deliberation and reflection.",
+    "In order for the killing to be excused on this basis, the defendant must have acted under the direct and immediate influence of provocation as I have defined it. While no specific type of provocation is required, slight or remote provocation is not sufficient. Sufficient provocation may occur over a short or long period of time.",
+    "It is not enough that the defendant simply was provoked. The defendant is not allowed to set up (his/her) own standard of conduct. You must decide whether the defendant was provoked and whether the provocation was sufficient. In deciding whether the provocation was sufficient, consider whether a person of average disposition, in the same situation and knowing the same facts, would have reacted from passion rather than judgment.",
+    "[A *dangerous weapon* is any object, instrument, or weapon [that is inherently deadly or dangerous or one] that is used in such a way that it is capable of causing and likely to cause death or great bodily injury.]",
+    "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it was designed.]",
+    "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
+    "*Criminal negligence* involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with *criminal negligence* when:",
+    "1. He or she acts in a way that creates a high risk of death or great bodily injury;",
+    "AND",
+    "2. A reasonable person would have known that acting in that way would create such a risk.",
+    "In other words, a person acts with criminal negligence when the way he or she acts is so different from how an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act.",
+    "The People have the burden of proving beyond a reasonable doubt that the killing was not excused. If the People have not met this burden, you must find the defendant not guilty of (murder/[or] manslaughter)."
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The trial court has a sua sponte duty to instruct on accident and heat of passion that excuses homicide when there is evidence supporting the defense. (*People v. Hampton* (1929) 96 Cal.App. 157, 159–160 [273 P. 854] [court erred in refusing defendant’s requested instruction].)"
+      },
+      {
+        "text": "Give the bracketed phrase “that is inherently deadly or one” and give the bracketed definition of *inherently deadly* only if the object is a deadly weapon as a matter of law. (*People v. Stutelberg* (2018) 29 Cal.App.5th 314, 317–318 [240 Cal.Rptr.3d 156].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 510, *Excusable Homicide: Accident*."
+      },
+      {
+        "text": "CALCRIM No. 3471, *Right to Self-Defense: Mutual Combat or Initial Aggressor*."
+      },
+      {
+        "text": "CALCRIM No. 570, *Voluntary Manslaughter: Heat of Passion—Lesser Included Offense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Excusable Homicide if Committed in Heat of Passion. Pen. Code, § 195, subd. 2."
+      },
+      {
+        "text": "• Burden of Proof. Pen. Code, § 189.5; *People v. Frye* (1992) 7 Cal.App.4th 1148, 1154–1155 [10 Cal.Rptr.2d 217]."
+      },
+      {
+        "text": "• “Deadly Weapon” Defined. See *People v. Aguilar* (1997) 16 Cal.4th 1023, 1028–1029 [68 Cal.Rptr.2d 655, 945 P.2d 1204]."
+      },
+      {
+        "text": "• “Inherently Deadly” Defined. *People v. Perez* (2018) 4 Cal.5th 1055, 1065 [232 Cal.Rptr.3d 51, 416 P.3d 42]; *People v. Aguilar, supra,* 16 Cal.4th at pp. 1028–1029."
+      },
+      {
+        "text": "• Examples of Noninherently Deadly Weapon. *People v. Aledamat* (2019) 8 Cal.5th 1, 6 [251 Cal.Rptr.3d 371, 447 P.3d 277] [box cutter]; *People v. Perez, supra,* 4 Cal.5th at p.1065 [vehicle]; *People v. McCoy* (1944) 25 Cal.2d 177, 188 [153 P.2d 315] [knife]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Distinguished From Voluntary Manslaughter"
+      },
+      {
+        "text": "Under Penal Code section 195, subd. 2, a homicide is “excusable,” “in the heat of passion” if done “by accident,” or on “sudden . . . provocation . . . or . . . combat.” (Pen. Code, § 195, subd. 2.) Thus, unlike voluntary manslaughter, the killing must have been committed without criminal intent, that is, accidentally. (See *People v. Cooley* (1962) 211 Cal.App.2d 173, 204 [27 Cal.Rptr. 543], disapproved on other grounds in *People v. Lew* (1968) 68 Cal.2d 774, 778, fn. 1 [69 Cal.Rptr. 102, 441 P.2d 942]; Pen. Code, § 195, subd. 1 [act must be without criminal intent]; Pen. Code, § 26, subd. 5 [accident requires absence of “evil design [or] intent”].) The killing must also be on “sudden” provocation, eliminating the possibility of provocation over time, which may be considered in cases of voluntary manslaughter. (See Bench Notes to CALCRIM No. 570, *Voluntary Manslaughter: Heat of Passion—Lesser Included Offense*.)"
+      },
+      {
+        "heading": true,
+        "text": "Distinguished From Involuntary Manslaughter"
+      },
+      {
+        "text": "Involuntary manslaughter requires a finding of gross or criminal negligence. (See Bench Notes to CALCRIM No. 581, *Involuntary Manslaughter: Murder Not Charged*; Pen. Code, § 26, subd. 5 [accident requires no “culpable negligence”].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 9
+  },
+  "warnings": []
+}

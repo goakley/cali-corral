@@ -1,0 +1,113 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2612",
+  "title": "Witness Receiving a Bribe (Pen. Code, § 138(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1869,
+      1871
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with receiving a bribe as a witness [in violation of Penal Code section 138(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant was (a witness/about to be called as a witness);",
+    "2. The defendant (received/[or] offered to receive) a bribe;",
+    "3. When the defendant (received/[or] offered to receive) the bribe, (he/she) represented that the bribe would unlawfully (influence (his/her) testimony/cause (him/her) not to attend the (trial/______ <insert type of other judicial proceeding>)). The representation may have been express or implied;",
+    "AND",
+    "4. The defendant acted with the corrupt intent that the bribe would unlawfully (influence (his/her) testimony/cause (him/her) not to attend the (trial/______ <insert type of other judicial proceeding>)).",
+    "As used here, *bribe* means something of present or future value or advantage, or a promise to give such a thing, that is requested or received with corrupt intent.",
+    "A person acts with *corrupt intent* when he or she acts to wrongfully gain a financial or other advantage for himself, herself, or someone else.",
+    "[As used here, *witness* means someone [or a person reasonably believed to be someone]:",
+    "<Give the appropriate bracketed paragraph[s].>",
+    "• [Who knows about the existence or nonexistence of facts relating to a crime(;/.)]",
+    "[OR]",
+    "• [Whose declaration under oath has been or may be received as evidence(;/.)]",
+    "[OR]",
+    "• [Who has reported a crime to a (peace officer[,]/[or] prosecutor[,]/[or] probation or parole officer[,]/[or] correctional officer[,]/[or] judicial officer)(;/.)]",
+    "[OR",
+    "• Who has been served with a subpoena issued under the authority of any state or federal court.]]",
+    "[A person is *about to be called as a witness* (if he or she knows or has been told that he or she will be called as a witness[,]/[or] if he or she knows material information relating to the issues in a case that has been or may be filed). [Information is *material* if it is significant or important.]]",
+    "[*Offering to receive a bribe* does not require specific words or behavior, as long as the language used and the circumstances clearly show that the person is seeking a bribe from someone else. [The People do not need to prove that the other person actually consented to give a bribe.]]",
+    "[The People do not need to prove that the defendant made any effort to follow through on the purpose for which the bribe was sought.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    16.0,
+    23.8,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give the definition of “offering to take a bribe” if that is the prosecution’s theory of the case."
+      },
+      {
+        "text": "Give the bracketed sentence that begins with “The People do not need to prove” if there is no evidence that the defendant took any action based on the alleged bribe."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 138(b)."
+      },
+      {
+        "text": "• Witness Defined. Pen. Code, § 136(2)."
+      },
+      {
+        "text": "• Bribe Defined. Pen. Code, § 7, subd. 6."
+      },
+      {
+        "text": "• Corruptly Defined. Pen. Code, § 7, subd. 3."
+      },
+      {
+        "text": "• About to Be Called as a Witness. *People v. Broce* (1977) 76 Cal.App.3d 71, 75–76 [142 Cal.Rptr. 628]."
+      },
+      {
+        "text": "• Meaning of Understanding or Agreement. *People v. Pic’l* (1982) 31 Cal.3d 731, 738–740 [183 Cal.Rptr. 685, 646 P.2d 847]; *People v. Diedrich* (1982) 31 Cal.3d 263, 273–274 [182 Cal.Rptr. 354, 643 P.2d 971]; *People v. Gliksman* (1978) 78 Cal.App.3d 343, 346–350 [144 Cal.Rptr. 451]."
+      },
+      {
+        "text": "• Offering a Bribe. *People v. Britton* (1962) 205 Cal.App.2d 561, 564 [22 Cal.Rptr. 921]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section of CALCRIM No. 2610, *Giving or Offering a Bribe to a Witness*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

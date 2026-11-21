@@ -1,0 +1,74 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3218",
+  "title": "Value of Stolen Property Sold, Exchanged, or Returned (Pen. Code, § 12022.10)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2283,
+      2284
+    ]
+  },
+  "revision_line": "New October 2025",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______[,] [or of attempting to commit (that/those) crime[s]][ or the lesser crimes[s] of ______ <insert lesser offense[s]>], you must then decide whether the People have proved the additional allegation that the defendant (sold[,]/[ or] exchanged[,]/[ or] returned) property for value that had been obtained through [an] act[s] of (shoplifting[,]/[ or] theft[,]/[ or] burglary) from a retail business and the value of that property was more than $______ <insert amount alleged>.",
+    "To prove this allegation, the People must prove that:",
+    "1. In the commission [or attempted commission] of the crime[s], the defendant",
+    "1. <defendant acted alone>",
+    "1. [((sold[,]/[ or] exchanged[,]/[ or] returned) property/[ or] attempted to (sell[,]/[ or] exchange[,]/[ or] return) property) for value;]",
+    "[OR]",
+    "1. <defendant acted in concert>",
+    "1. [acted together with another person who (sold[,]/[ or] exchanged[,]/[ or] returned) property for value[ or] [who attempted to (sell[,]/[ or] exchange[,]/[ or] return property] for value;]",
+    "2. This property had been obtained through [an] act[s] of (shoplifting[,]/[ or] theft[,]/[ or] burglary) from a retail business;",
+    "3. At the time of the [attempted] (sale[,]/[ or] exchange[,]/[ or] return) of the property for value, the defendant knew that the property had been obtained though [an] act[s] of (shoplifting[,]/[ or] theft[,]/[ or] burglary) from a retail business;",
+    "AND",
+    "4. The [combined] value of the property was greater than $______ <insert amount alleged>.",
+    "[In deciding the value of the property, you may add together the value of property in Count[s] ______ <specify all counts that jury may use to compute cumulative total loss> to determine whether the total value was more than $______ <insert amount alleged> if the People prove that the crimes arose from a common scheme or plan.]",
+    "[When computing the property value according to this instruction, do not count any property more than once simply because it is mentioned in more than one count, if the property mentioned in those counts refers to the same property with respect to the same victim.]",
+    "The People are not required to prove that the defendant committed the underlying act[s] of (shoplifting[,]/[ or] theft[,]/[ or] burglary).",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the enhancement when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, § 12022.10."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

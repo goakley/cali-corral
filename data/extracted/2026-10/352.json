@@ -1,0 +1,90 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "352",
+  "title": "Character of Victim and of Defendant",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      195,
+      197
+    ]
+  },
+  "revision_line": "New March 2023",
+  "revision_legend": null,
+  "body": [
+    "You have heard testimony that ______ <insert name of alleged victim> ((is/was) a (violent/______ <insert character trait>) person/(has/had) a character trait for (violence/______ <insert character trait>)) [and testimony that ______ <insert name of alleged victim> (is/was) (not a violent person/does not have a character trait for violence/______ <insert character trait>)]. [You have also heard testimony that the defendant (is a violent person/has a character trait for violence)[ and testimony that the defendant (is not a violent person/does not have a character trait for violence)].]",
+    "<Give only when specific conduct evidence of the defendant’s character for violence has been admitted>",
+    "[The People presented evidence that the defendant (committed ([an]other offense[s]/the offense[s] of ______ <insert description of alleged offense[s]>)/______ <insert description of alleged conduct admitted under Evid. Code, § 1103(b)>) and was not charged with (that/those offense[s]/act[s]) in this case.",
+    "You may consider this evidence about the defendant only if the People have proved by a preponderance of the evidence that the defendant in fact committed the (uncharged offense[s]/act[s]). Proof by a preponderance of the evidence is a different burden of proof than proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that the fact is more likely than not to be true.",
+    "If the People have not met this burden, you must disregard this evidence entirely.",
+    "If you decide that the defendant committed the (uncharged offense[s]/act[s]), you may, but are not required to, consider that evidence for the limited purpose of deciding whether the defendant (is a violent person/has a trait for violence) and acted in conformity with that character trait.]",
+    "A person’s character for (violence/______ <insert other relevant trait>) may be shown by evidence of reputation, opinion, or specific acts. Evidence of a person’s character for (violence/______ <insert other relevant trait>) may tend to show the person acted in conformity with that character trait. You may consider such evidence only for this limited purpose[ and only in deciding the charges of ______ <insert applicable counts>].",
+    "You must decide the meaning and importance of the character evidence. Whether a person had a character for (violence/______ <insert other relevant trait>) and whether that person acted in conformity with that character trait are matters for you to decide.",
+    "[In evaluating this evidence, consider the similarity or lack of similarity between the (uncharged offense[s]/act[s]) and the charged offense[s].]",
+    "[Do not conclude from this evidence that the defendant has a bad character or is disposed to commit crime.]",
+    "If you conclude that the defendant committed the (uncharged offense[s]/act[s]), that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of ______ <insert charge[s]> [or that the ______ <insert allegation[s]> (has/have) been proved]. The People must still prove (the/each) (charge/[and] allegation) beyond a reasonable doubt.",
+    "You may consider the testimony regarding character along with all the other evidence in deciding whether the People have proved that the defendant is guilty beyond a reasonable doubt."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "No case holds that a trial court has a sua sponte duty to instruct on the use of character evidence admitted under Evidence Code section 1103. However, the court should give an instruction on request. (See Evid. Code, § 355.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Admissibility. Evid. Code, § 1103."
+      },
+      {
+        "text": "• “Victim” Defined. *People v. Tackett* (2006) 144 Cal.App.4th 445, 455 [50 Cal.Rptr.3d 449]."
+      },
+      {
+        "text": "• “Character Evidence” Defined. *People v. Myers* (2007) 148 Cal.App.4th 546, 552–553 [56 Cal.Rptr.3d 27]."
+      },
+      {
+        "text": "• Statute Constitutional. *People v. Blanco* (1992) 10 Cal.App.4th 1167, 1173 [13 Cal.Rptr.2d 176]."
+      },
+      {
+        "text": "• Defendant’s Character for Violence Must Be Relevant to Material Issue. *People v. Fuiava* (2012) 53 Cal.4th 622, 700 [137 Cal.Rptr.3d 147, 269 P.3d 568]."
+      },
+      {
+        "text": "• Analysis Under Evidence Code Section 352 Applies. *People v. Fuiava, supra,* 53 Cal.4th at p. 700."
+      },
+      {
+        "text": "• Similar Instruction Upheld. *People v. Fuiava, supra,* 53 Cal.4th at pp. 694–695."
+      },
+      {
+        "text": "• Other Crimes Proved by Preponderance of Evidence. *People v. Carpenter* (1997) 15 Cal.4th 312, 382 [63 Cal.Rptr.2d 1, 935 P.2d 708], abrogated on other grounds in *People v. Diaz* (2015) 60 Cal.4th 1176 [185 Cal.Rptr.3d 431, 345 P.3d 62]."
+      },
+      {
+        "text": "353–354. Reserved for Future Use"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

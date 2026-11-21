@@ -1,0 +1,161 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2653",
+  "title": "Taking Firearm or Weapon While Resisting Peace Officer or Public Officer (Pen. Code, § 148(b) & (c))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1905,
+      1908
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, August 2016",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with taking a (firearm/weapon) from a (peace/public) officer while (resisting[,]/obstructing[,]/[or] delaying) the officer in performing or attempting to perform (his/her) duties [in violation of Penal Code section 148].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. ______ <insert officer’s name, excluding title> was a (peace/public) officer lawfully performing or attempting to perform (his/her) duties as a (peace/public) officer;",
+    "2. The defendant willfully (resisted[,]/obstructed[,]/[or] delayed) ______ <insert officer’s name, excluding title> in the performance of or attempt to perform those duties;",
+    "3. When the defendant acted, (he/she) knew, or reasonably should have known, that ______ <insert officer’s name, excluding title> was a (peace/public) officer performing or attempting to perform (his/her) duties;",
+    "[AND]",
+    "4. While the defendant (resisted[,]/obstructed[,]/[or] delayed) ______ <insert officer’s name, excluding title>, the defendant took or removed a (firearm/weapon) from ______’s <insert officer’s name, excluding title> person [or immediate presence](;/.)",
+    "<Give element 5 when instructing on self-defense or defense of another.>",
+    "[AND",
+    "5. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
+    "[The term *firearm* is defined in another instruction to which you should refer.]",
+    "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
+    "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
+    "[An officer or employee of ______ <insert name of state or local government agency that employs public officer> is a *public officer*.]",
+    "[The duties of (a/an) ______ <insert title of peace or public officer> include ______ <insert job duties>.]",
+    "[Taking a photograph or making an audio or video recording of a (*peace officer/*[or] *public officer*) while the officer is in a public place or the person taking the photograph or making the recording is in a place where he or she has the right to be is not, by itself, a crime.]",
+    "<When lawful performance is an issue, give the following paragraph and Instruction 2670, Lawful Performance: Peace Officer.>",
+    "[A peace officer is not lawfully performing his or her duties if he or she is (unlawfully arresting or detaining someone/[or] using unreasonable or excessive force in his or her duties). Instruction 2670 explains (when an arrest or detention is unlawful/[and] when force is unreasonable or excessive).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 5 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      },
+      {
+        "text": "In addition, the court has a sua sponte duty to instruct on defendant’s reliance on self-defense as it relates to the use of excessive force. (*People v. White* (1980) 101 Cal.App.3d 161, 167–168 [161 Cal.Rptr. 541].) If excessive force is an issue, the court has a sua sponte duty to instruct the jury that the defendant is not guilty of the offense charged, or any lesser included offense in which lawful performance is an element, if the defendant used reasonable force in response to excessive force. (*People v. Olguin* (1981) 119 Cal.App.3d 39, 46–47 [173 Cal.Rptr. 663].) On request, the court must instruct that the prosecution has the burden of proving the lawfulness of the arrest beyond a reasonable doubt. (*People v. Castain* (1981) 122 Cal.App.3d 138, 145 [175 Cal.Rptr. 651].) If lawful performance of a peace officer is an issue, give the bracketed paragraph on lawful performance and the appropriate portions of CALCRIM No. 2670, *Lawful Performance: Peace Officer*. If lawful performance by a public officer is an issue, the court must draft an appropriate instruction depending on the duties of the officer."
+      },
+      {
+        "text": "Give the bracketed definition of “firearm” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+      },
+      {
+        "text": "The court may give the bracketed sentence that begins, “The duties of a ______ <insert title . . . .> include,” on request. The court may insert a description of the officer’s duties such as “the correct service of a facially valid search warrant.” (*People v. Gonzalez* (1990) 51 Cal.3d 1179, 1222 [275 Cal.Rptr. 729, 800 P.2d 1159].)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 2654, *Intentionally Taking or Attempting to Take Firearm From Peace Officer or Public Officer*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 148(b) & (c); see *In re Muhammed C.* (2002) 95 Cal.App.4th 1325, 1329 [116 Cal.Rptr.2d 21] [elements of Pen. Code, § 148(a) offense]; *Nuno v. County of San Bernardino* (1999) 58 F.Supp.2d 1127, 1133 [officer lawfully performing duties]; *People v. Lopez* (1986) 188 Cal.App.3d 592, 599–600 [233 Cal.Rptr. 207] [knowledge that other person is an officer]."
+      },
+      {
+        "text": "• Firearm Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• Multiple Violations. Pen. Code, § 148(e)."
+      },
+      {
+        "text": "• Peace Officer Defined. Pen. Code, § 830 et seq."
+      },
+      {
+        "text": "• Public Officer. See, e.g., Pen. Code, §§ 831(a) [custodial officer], 831.4 [sheriff’s or police security officer], 831.5 [custodial officer], 831.6 [transportation officer], 3089 [county parole officer]; *In re Frederick B.* (1987) 192 Cal.App.3d 79, 89–90 [237 Cal.Rptr. 338], disapproved on other grounds in *In re Randy G.* (2001) 26 Cal.4th 556, 567, fn. 2 [110 Cal.Rptr.2d 516, 28 P.3d 239] [“public officers” is broader category than “peace officers”]; see also Pen. Code, § 836.5(a) [authority to arrest without warrant]."
+      },
+      {
+        "text": "• Public Official Defined. Gov. Code, § 82048; see *In re Eddie D.* (1991) 235 Cal.App.3d 417, 421 [286 Cal.Rptr. 684]."
+      },
+      {
+        "text": "• Unlawful Arrest or Act by Officer. Pen. Code, § 148(f); *Franklin v. Riverside County* (1997) 971 F.Supp. 1332, 1335–1336; *People v. Curtis* (1969) 70 Cal.2d 347, 354 [74 Cal.Rptr. 713, 450 P.2d 33]; *Susag v. City of Lake Forest* (2002) 94 Cal.App.4th 1401, 1409 [115 Cal.Rptr.2d 269]."
+      },
+      {
+        "text": "• Delaying Officer From Performing Duties. *People v. Allen* (1980) 109 Cal.App.3d 981, 985–986, 987 [167 Cal.Rptr. 502]."
+      },
+      {
+        "text": "• General Intent Crime. *In re Muhammed C.* (2002) 95 Cal.App.4th 1325, 1329 [116 Cal.Rptr.2d 21]; *People v. Matthews* (1999) 70 Cal.App.4th 164, 175 [82 Cal.Rptr.2d 502]."
+      },
+      {
+        "text": "• “Take” or “Remove” Defined. *People v. Matthews* (1999) 70 Cal.App.4th 164, 173, 175 [82 Cal.Rptr.2d 502]."
+      },
+      {
+        "text": "• Verbal Resistance or Obstruction. *People v. Quiroga* (1993) 16 Cal.App.4th 961, 968, 970–972 [20 Cal.Rptr.2d 446] [nondisclosure of identity following arrest for felony, not misdemeanor]; *People v. Green* (1997) 51 Cal.App.4th 1433, 1438 [59 Cal.Rptr.2d 913] [attempt to intimidate suspected victim into denying offense]."
+      },
+      {
+        "text": "• Merely Photographing or Recording Officers Not a Crime. Pen. Code, § 148(g)."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Attempted Removal of Firearm or Weapon. Pen. Code, §§ 663, 148(b) & (c)."
+      },
+      {
+        "text": "• Misdemeanor Resisting Arrest. Pen. Code, § 148(a)(1)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Multiple Violations"
+      },
+      {
+        "text": "A person may be convicted of multiple violations of this section if there are multiple officer victims. (Pen. Code, § 148(e).) However, a person may not be convicted of both resisting an officer in violation of Penal Code section 148(a) and removing a weapon or firearm from an officer in violation of Penal Code section 148(b), (c), or (d) if the resistance and removal were committed against the same officer. (Pen. Code, § 148(e).)"
+      },
+      {
+        "heading": true,
+        "text": "Other Forms of Resistance or Interference"
+      },
+      {
+        "text": "It is a misdemeanor under Penal Code section 148(a)(1) to willfully resist, delay, or obstruct any emergency medical technician in discharging or attempting to discharge his or her duties of employment. (See Health & Saf. Code, § 1797 [defining emergency medical technician].) It is also a misdemeanor under Penal Code section 148(a)(2) to knowingly and maliciously interrupt, disrupt, impede, or otherwise interfere with the transmission of a communication over a public safety radio frequency."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

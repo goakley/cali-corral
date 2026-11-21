@@ -1,0 +1,224 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2100",
+  "title": "Driving a Vehicle or Operating a Vessel Under the Influence Causing Injury (Veh. Code, § 23153(a), (f), (g))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1481,
+      1487
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2008, December 2008, August 2015, September 2017, March 2018, September 2019, October 2021, October 2025*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "The defendant is charged [in Count ______] with causing injury to another person while (driving a vehicle/operating a vessel) under the [combined] influence of (an alcoholic beverage/[or] a drug/[or] an alcoholic beverage and a drug) [in violation of Vehicle Code section 23153(a)/(f)/(g)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (drove a vehicle/operated a vessel);",
+    "2. When (he/she) (drove a vehicle/operated a vessel), the defendant was under the [combined] influence of (an alcoholic beverage/[or] a drug/[or] an alcoholic beverage and a drug);",
+    "3. While (driving a vehicle/operating a vessel) under the influence, the defendant also (committed an illegal act/[or] neglected to perform a legal duty);",
+    "AND",
+    "4. The defendant’s (illegal act/[or] failure to perform a legal duty) caused bodily injury to another person.",
+    "A person is *under the influence* if, as a result of (drinking [or consuming] an alcoholic beverage/[and/or] taking a drug), his or her mental or physical abilities are so impaired that he or she is no longer able to (drive a vehicle/operate a vessel) with the caution of a sober person, using ordinary care, under similar circumstances.",
+    "The manner in which a person drives is not enough by itself to establish whether the person is or is not under the influence of (an alcoholic beverage/[or] a drug) [or under the combined influence of an alcoholic beverage and a drug]. However, it is a factor to be considered, in light of all the surrounding circumstances, in deciding whether the person was under the influence.",
+    "[An *alcoholic beverage* is a liquid or solid material intended to be consumed that contains ethanol. Ethanol is also known as ethyl alcohol, drinking alcohol, or alcohol. [An *alcoholic beverage* includes ______ <insert type[s] of beverage[s] from Veh. Code, § 109 or Bus. & Prof. Code, § 23004, e.g., wine, beer>.]]",
+    "[A *drug* is a substance or combination of substances, other than alcohol, that could so affect the nervous system, brain, or muscles of a person that it would appreciably impair his or her ability to (drive a vehicle/operate a vessel) as an ordinarily cautious person, in full possession of his or her faculties and using reasonable care, would (drive a vehicle/operate a vessel) under similar circumstances.]",
+    "[If the People have proved beyond a reasonable doubt that the defendant’s blood alcohol level was 0.08 percent or more at the time of the chemical analysis, you may, but are not required to, conclude that the defendant was under the influence of an alcoholic beverage at the time of the alleged offense.]",
+    "[In evaluating any test results in this case, you may consider whether or not the person administering the test or the agency maintaining the testing device followed the regulations of the California Department of Public Health.]",
+    "[The People allege that the defendant committed the following illegal act[s]: ______ <list name[s] of offense[s]>.",
+    "To decide whether the defendant committed ______ <list name[s] of offense[s]>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]",
+    "[The People [also] allege that the defendant failed to perform the following legal (duty/duties) while (driving the vehicle/operating the vessel): (the duty to exercise ordinary care at all times and to maintain proper control of the (vehicle/vessel)/______ <insert other duty or duties alleged>).]",
+    "[You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (committed [at least] one illegal act/[or] failed to perform [at least] one duty).",
+    "<Alternative A—unanimity required; see Bench Notes>",
+    "[You must all agree on which (act the defendant committed/[or] duty the defendant failed to perform).]",
+    "<Alternative B—unanimity not required; see Bench Notes>",
+    "[But you do not have to all agree on which (act the defendant committed/[or] duty the defendant failed to perform).]]",
+    "[Using *ordinary care* means using reasonable care to prevent reasonably foreseeable harm to someone else. A person fails to exercise ordinary care if he or she (does something that a reasonably careful person would not do in the same situation/[or] fails to do something that a reasonably careful person would do in the same situation).]",
+    "[An act causes bodily injury to another person if the injury is the direct, natural, and probable consequence of the act and the injury would not have happened without the act. A *natural and probable consequence* is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence.]",
+    "[There may be more than one cause of injury. An act causes bodily injury to another person only if it is a substantial factor in causing the injury. A *substantial factor* is more than a trivial or remote factor. However, it need not be the only factor that causes the injury.]",
+    "[It is not a defense that the defendant was legally entitled to use the drug.]",
+    "[If the defendant was under the influence of (an alcoholic beverage/[and/or] a drug), then it is not a defense that something else also impaired (his/her) ability to (drive a vehicle/operate a vessel).]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under element 3 that the defendant committed an act forbidden by law, the court has a sua sponte duty to specify the predicate offense alleged and to instruct on the elements of that offense. (*People v. Minor* (1994) 28 Cal.App.4th 431, 438–439 [33 Cal.Rptr.2d 641]; *People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409].)"
+      },
+      {
+        "text": "If the prosecution alleges under element 3 that the defendant neglected to perform a duty imposed by law, the court has a sua sponte duty to instruct on the duty allegedly neglected. (See *People v. Minor, supra,* 28 Cal.App.4th at pp. 438–439.) If the prosecution alleges that the defendant neglected the general duty of every driver to exercise ordinary care (see *People v. Oyaas* (1985) 173 Cal.App.3d 663, 669 [219 Cal.Rptr. 243]), the court should give the bracketed definition of “ordinary care.”"
+      },
+      {
+        "text": "If causation is at issue, the court has a sua sponte duty to instruct on proximate cause. (*People v. Bernhardt* (1963) 222 Cal.App.2d 567, 590–591 [35 Cal.Rptr. 401].) If the evidence indicates that there was only one cause of injury, the court should give the first bracketed paragraph on causation, which includes the “direct, natural, and probable” language. If there is evidence of multiple causes of injury, the court should also give the second bracketed paragraph on causation, which includes the “substantial factor” definition. (See *People v. Autry* (1995) 37 Cal.App.4th 351, 363 [43 Cal.Rptr.2d 135]; *People v. Pike* (1988) 197 Cal.App.3d 732, 746–747 [243 Cal.Rptr. 54].)"
+      },
+      {
+        "text": "The court has a sua sponte duty to give a unanimity instruction when the prosecution presents evidence of multiple acts to prove a single count, if the prosecution has not elected the specific act relied upon to prove the charge and if the continuous course of conduct exception does not apply. (See *People v. Jennings* (2010) 50 Cal.4th 616, 679 [114 Cal.Rptr.3d 133, 188, 237 P.3d 474, 520–521].) See the Bench Notes to CALCRIM No. 3500, *Unanimity*, for an extensive discussion of the sua sponte duty to instruct on unanimity. If the court concludes that a unanimity instruction is appropriate, give the unanimity alternative A. If the court concludes that unanimity is not required, give the unanimity alternative B."
+      },
+      {
+        "text": "The bracketed paragraph that begins with “If the People have proved beyond a reasonable doubt that the defendant’s blood alcohol level was 0.08 percent” explains a rebuttable presumption created by statute. (See Veh. Code, § 23610; Evid. Code, §§ 600–607.) The California Supreme Court has held that a jury instruction phrased as a rebuttable presumption in a criminal case creates an unconstitutional mandatory presumption. (*People v. Roder* (1983) 33 Cal.3d 491, 497–505 [189 Cal.Rptr. 501, 658 P.2d 1302].) In accordance with *Roder*, the instructions have been written as permissive inferences."
+      },
+      {
+        "text": "The court must not give the bracketed paragraph that begins with “If the People have proved beyond a reasonable doubt that the defendant’s blood alcohol level was 0.08 percent” if there is no substantial evidence that the defendant’s blood alcohol level was at or above 0.08 percent at the time of the test. In addition, if the test falls within the range in which no presumption applies, 0.05 percent to just below 0.08 percent, do not give this bracketed sentence. (*People v. Wood* (1989) 207 Cal.App.3d Supp. 11, 15 [255 Cal.Rptr. 537].) The court should also consider whether there is sufficient evidence to establish that the test result exceeds the margin of error before giving this instruction for test results of 0.08 percent. (Compare *People v. Campos* (1982) 138 Cal.App.3d Supp. 1, 4–5 [188 Cal.Rptr. 366], with *People v. Randolph* (1989) 213 Cal.App.3d Supp. 1, 11 [262 Cal.Rptr. 378].)"
+      },
+      {
+        "text": "The statute also creates a rebuttable presumption that the defendant was not under the influence if his or her blood alcohol level was less than 0.05 percent. (*People v. Gallardo* (1994) 22 Cal.App.4th 489, 496 [27 Cal.Rptr.2d 502].) Depending on the facts of the case, the defendant may be entitled to a pinpoint instruction on this presumption. It is not error to refuse an instruction on this presumption if the prosecution’s theory is that the defendant was under the combined influence of drugs and alcohol. (*People v. Andersen* (1994) 26 Cal.App.4th 1241, 1250 [32 Cal.Rptr.2d 442].)"
+      },
+      {
+        "text": "If the evidence demonstrates that the person administering the test or agency maintaining the testing device failed to follow the title 17 regulations, give the bracketed sentence that begins with “In evaluating any test results in this case.” (*People v. Adams* (1976) 59 Cal.App.3d 559, 567 [131 Cal.Rptr. 190] [failure to follow regulations in administering breath test goes to weight, not admissibility, of the evidence]; *People v. Williams* (2002) 28 Cal.4th 408, 417 [121 Cal.Rptr.2d 854, 49 P.3d 203] [same]; *People v. Esayian* (2003) 112 Cal.App.4th 1031, 1039 [5 Cal.Rptr.3d 542] [results of blood test admissible even though phlebotomist who drew blood not authorized under title 17].)"
+      },
+      {
+        "text": "Give the bracketed sentence stating that “it is not a defense that something else also impaired (his/her) ability to drive” if there is evidence of an additional source of impairment such as an epileptic seizure, inattention, or falling asleep."
+      },
+      {
+        "text": "If the defendant is charged with one or more prior convictions for driving under the influence, the defendant may stipulate to the convictions. (*People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170].) In addition, either the defendant or the prosecution may move for a bifurcated trial. (*People v. Calderon* (1994) 9 Cal.4th 69, 77–78 [36 Cal.Rptr.2d 333, 885 P.2d 83]; *People v. Cline* (1998) 60 Cal.App.4th 1327, 1334–1336 [71 Cal.Rptr.2d 41]; *People v. Weathington*, *supra*, 231 Cal.App.3d at p. 90.) If the defendant does not stipulate and the court does not grant a bifurcated trial, give CALCRIM No. 2125, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions*. If the court grants a bifurcated trial, give CALCRIM No. 2126, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions—Bifurcated Trial*. If the defendant stipulates to the truth of the convictions, the prior convictions should not be disclosed to the jury unless the court admits them as otherwise relevant. (See *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690].)"
+      },
+      {
+        "text": "On request, give CALCRIM No. 2241, *Driver and Driving Defined*."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "On request, if supported by the evidence, the court must instruct on the “imminent peril/sudden emergency” doctrine. (*People v. Boulware* (1940) 41 Cal.App.2d 268, 269–270 [106 P.2d 436].) The court may use the bracketed instruction on sudden emergency in CALCRIM No. 590, *Gross Vehicular Manslaughter While Intoxicated*."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 2101, *Driving With 0.08 Percent Blood Alcohol Causing Injury*."
+      },
+      {
+        "text": "CALCRIM No. 2125, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions*."
+      },
+      {
+        "text": "CALCRIM No. 2126, *Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions—Bifurcated Trial*."
+      },
+      {
+        "text": "CALCRIM No. 595, *Vehicular Manslaughter: Speeding Laws Defined*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Veh. Code, § 23153(a), (f), (g); *People v. Minor* (1994) 28 Cal.App.4th 431, 438 [33 Cal.Rptr.2d 641]."
+      },
+      {
+        "text": "• “Alcoholic Beverage Defined”. Veh. Code, § 109, Bus. & Prof. Code, § 23004."
+      },
+      {
+        "text": "• “Drug” Defined. Veh. Code, § 312."
+      },
+      {
+        "text": "• Presumptions. Veh. Code, § 23610; Evid. Code, § 607; *People v. Milham* (1984) 159 Cal.App.3d 487, 503–505 [205 Cal.Rptr. 688]."
+      },
+      {
+        "text": "• “Under the Influence” Defined. *People v. Schoonover* (1970) 5 Cal.App.3d 101, 105–107 [85 Cal.Rptr. 69]; *People v. Enriquez* (1996) 42 Cal.App.4th 661, 665–666 [49 Cal.Rptr.2d 710]."
+      },
+      {
+        "text": "• Manner of Driving. *People v. Stockman* (2020) 56 Cal.App.5th 1093, 1099–1101 [270 Cal.Rptr.3d 812]; *People v. Weathington* (1991) 231 Cal.App.3d 69, 84 [282 Cal.Rptr. 170]; *People v. McGrath* (1928) 94 Cal.App. 520, 524 [271 P. 549]."
+      },
+      {
+        "text": "• Must Instruct on Elements of Predicate Offense. *People v. Minor* (1994) 28 Cal.App.4th 431, 438–439 [33 Cal.Rptr.2d 641]; *People v. Ellis* (1999) 69 Cal.App.4th 1334, 1339 [82 Cal.Rptr.2d 409]."
+      },
+      {
+        "text": "• Negligence—Ordinary Care. Pen. Code, § 7, subd. 2; Restatement Second of Torts, § 282; *People v. Oyaas* (1985) 173 Cal.App.3d 663, 669 [219 Cal.Rptr. 243] [ordinary negligence standard applies to driving under the influence causing injury]."
+      },
+      {
+        "text": "• Causation. *People v. Rodriguez* (1960) 186 Cal.App.2d 433, 440 [8 Cal.Rptr. 863]."
+      },
+      {
+        "text": "• Legal Entitlement to Use Drug Not a Defense. Veh. Code, § 23630."
+      },
+      {
+        "text": "• Prior Convictions. *People v. Weathington* (1991) 231 Cal.App.3d 69, 90 [282 Cal.Rptr. 170]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Misdemeanor Driving Under the Influence or With 0.08 Percent. Veh. Code, § 23152(a) & (b); *People v. Capetillo* (1990) 220 Cal.App.3d 211, 220 [269 Cal.Rptr. 250]."
+      },
+      {
+        "text": "• Driving Under the Influence Causing Injury is not a lesser included offense of vehicular manslaughter without gross negligence. *People v. Binkerd* (2007) 155 Cal.App.4th 1143, 1148–1149 [66 Cal.Rptr.3d 675]."
+      },
+      {
+        "text": "• Violations of Vehicle Code section 23153(a) are not lesser included offenses of Vehicle Code section 23153(f) [now 23153(g)]. *People v. Cady* (2016) 7 Cal.App.5th 134, 145–146 [212 Cal.Rptr.3d 319]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "DUI Cannot Serve as Predicate Unlawful Act"
+      },
+      {
+        "text": "“[T]he evidence must show an unlawful act or neglect of duty *in addition* to driving under the influence.” (*People v. Minor* (1994) 28 Cal.App.4th 431, 438 [33 Cal.Rptr.2d 641] [italics in original]; *People v. Oyaas* (1985) 173 Cal.App.3d 663, 668 [219 Cal.Rptr. 243].)"
+      },
+      {
+        "heading": true,
+        "text": "Act Forbidden by Law"
+      },
+      {
+        "text": "The term “ ‘any act forbidden by law’ . . . refers to acts forbidden by the Vehicle Code . . . .” (*People v. Clenney* (1958) 165 Cal.App.2d 241, 253 [331 P.2d 696].) The defendant must commit the act when driving the vehicle. (*People v. Capetillo* (1990) 220 Cal.App.3d 211, 217 [269 Cal.Rptr. 250] [violation of Veh. Code, § 10851 not sufficient because offense not committed “when” defendant was driving the vehicle but by mere fact that defendant was driving the vehicle].)"
+      },
+      {
+        "heading": true,
+        "text": "Neglect of Duty Imposed by Law"
+      },
+      {
+        "text": "“In proving the person neglected any duty imposed by law in driving the vehicle, it is not necessary to prove that any specific section of [the Vehicle Code] was violated.” (Veh. Code, § 23153(c); *People v. Oyaas* (1985) 173 Cal.App.3d 663, 669 [219 Cal.Rptr. 243].) “[The] neglect of duty element . . . is satisfied by evidence which establishes that the defendant’s conduct amounts to no more than ordinary negligence.” (*People v. Oyaas*, *supra*, 173 Cal.App.3d at p. 669.) “[T]he law imposes on any driver [the duty] to exercise ordinary care at all times and to maintain a proper control of his or her vehicle.” (*Id.* at p. 670.)"
+      },
+      {
+        "heading": true,
+        "text": "Multiple Victims to One Drunk Driving Accident"
+      },
+      {
+        "text": "“In *Wilkoff v. Superior Court* [(1985) 38 Cal.3d 345, 352 [211 Cal.Rptr. 742, 696 P.2d 134]] we held that a defendant cannot be charged with multiple counts of felony drunk driving under Vehicle Code section 23153, subdivision (a), where injuries to several people result from one act of drunk driving.” (*People v. McFarland* (1989) 47 Cal.3d 798, 802 [254 Cal.Rptr. 331, 765 P.2d 493].) However, when “a defendant commits vehicular manslaughter with gross negligence[,] . . . he may properly be punished for [both the vehicular manslaughter and] injury to a separate individual that results from the same incident.” (*Id.* at p. 804.) The prosecution may also charge an enhancement for multiple victims under Vehicle Code section 23558."
+      },
+      {
+        "text": "See also the Related Issues section in CALCRIM No. 2110, *Driving Under the Influence*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 8
+  },
+  "warnings": []
+}

@@ -1,0 +1,88 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "440",
+  "title": "Accessories (Pen. Code, § 32)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      271,
+      272
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with being an accessory to a felony [in violation of Penal Code section 32].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. Another person, whom I will call the perpetrator, committed a felony;",
+    "2. The defendant knew that the perpetrator had committed a felony or that the perpetrator had been charged with or convicted of a felony;",
+    "3. After the felony had been committed, the defendant either harbored, concealed, or aided the perpetrator;",
+    "AND",
+    "4. When the defendant acted, (he/she) intended that the perpetrator avoid or escape arrest, trial, conviction, or punishment.",
+    "[To decide whether the perpetrator committed the (felony/felonies) of ______ <insert offense[s]>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "There is no sua sponte duty to instruct on the underlying felony unless it is unclear that a felony occurred. However, the defendant is entitled to such an instruction on request. (*People v. Shields* (1990) 222 Cal.App.3d 1, 4–5 [271 Cal.Rptr. 228].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 32; *People v. Duty* (1969) 269 Cal.App.2d 97, 100–101 [74 Cal.Rptr. 606]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "There is no authority defining “harbor.” The committee therefore kept “harbor” in the instruction. *Black’s Law Dictionary* defines harbor as “[t]he act of affording lodging, shelter, or refuge to a person, esp. a criminal or illegal alien.” (7th ed., 1999, at p. 721.) The court may wish to give an additional definition depending on the facts of the case."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Accessory and Principal to the Same Crime"
+      },
+      {
+        "text": "There is a split of authority on whether a person may ever be guilty as an accessory and a principal to the same crime. Early case law held that it was not possible to be convicted of both because either logic or policy prohibited it. (*People v. Prado* (1977) 67 Cal.App.3d 267, 271–273 [136 Cal.Rptr. 521]; *People v. Francis* (1982) 129 Cal.App.3d 241, 246–253 [180 Cal.Rptr. 873].) However, a later case disagreed with both of these cases and held “that there is no bar to conviction as both principal and accessory where the evidence shows distinct and independent actions supporting each crime.” (*People v. Mouton* (1993) 15 Cal.App.4th 1313, 1324 [19 Cal.Rptr.2d 423], disapproved on other grounds in *People v. Prettyman* (1996) 14 Cal.4th 248 [58 Cal.Rptr.2d 827, 926 P.2d 1013]; *People v. Riley* (1993) 20 Cal.App.4th 1808, 1816 [25 Cal.Rptr.2d 676]; but see *People v. Nguyen* (1993) 21 Cal.App.4th 518, 536 [26 Cal.Rptr.2d 323] [suggesting in dicta that a person guilty as a principal can never be guilty as an accessory].)"
+      },
+      {
+        "text": "*Awareness of the Commission of Other Crimes Insufficient to Establish Guilt as an Accessory*"
+      },
+      {
+        "text": "Awareness that a co-perpetrator has committed other crimes is not enough to find a person guilty as an accessory to those crimes unless there is evidence that the person intentionally did something to help the co-perpetrator avoid or escape arrest, trial, conviction or punishment for those offenses. (*People v. Nguyen* (1993) 21 Cal.App.4th 518, 537 [26 Cal.Rptr.2d 323] [defendants’ convictions as accessories to sexual assaults committed by co-perpetrators in the course of a robbery reversed; no evidence existed that defendants did anything to help co-perpetrators escape detection].)"
+      },
+      {
+        "heading": true,
+        "text": "Passive Nondisclosure"
+      },
+      {
+        "text": "Although a person is not guilty of being an accessory if he or she fails or refuses to give incriminating information about a third party to the police, providing a false alibi for that person violates the accessory statute. (*People v. Duty* (1969) 269 Cal.App.2d 97, 103–104 [74 Cal.Rptr. 606].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

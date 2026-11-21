@@ -1,0 +1,156 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2530",
+  "title": "Carrying Loaded Firearm (Pen. Code, § 25850(a))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1770,
+      1773
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012, March 2019",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully carrying a loaded firearm (on (his/her) person/in a vehicle) [in violation of Penal Code section 25850(a)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant carried a loaded firearm (on (his/her) person/in a vehicle);",
+    "2. The defendant knew that (he/she) was carrying a firearm;",
+    "AND",
+    "3. At that time, the defendant was in a public place or on a public street in (an incorporated city/in an unincorporated area where it was unlawful to discharge a firearm).",
+    "[A *public place* is a place that is open and accessible to anyone who wishes to go there.]",
+    "[A *firearm* is any device designed to be used as a weapon, from which a projectile is expelled or discharged through a barrel by the force of any explosion or other form of combustion. [A *firearm* also includes any rocket, rocket-propelled projectile launcher, or similar device containing any explosive or incendiary material, whether or not the device is designed for emergency or distress signaling purposes.]]",
+    "[The term *firearm* is defined in another instruction.]",
+    "As used here, a firearm is *loaded* if there is an unexpended cartridge or shell in the firing chamber or in either a magazine or clip attached to the firearm. An *unexpended cartridge or shell* consists of a case that holds a charge of powder and a bullet or shot. [A *muzzle-loader firearm is loaded* when it is capped or primed and has a powder charge and ball or shot in the barrel or cylinder.]",
+    "[A firearm does not need to be in working order if it was designed to shoot and appears capable of shooting.]",
+    "[______ <insert location> is (an incorporated city/in an unincorporated area where it is unlawful to discharge a firearm).]",
+    "<Defense: Statutory Exemption>",
+    "[The defendant did not unlawfully carry a loaded firearm if ______ <insert defense from Pen Code, §§ 25900, 26000 et seq.>. The People have the burden of proving beyond a reasonable doubt that the defendant unlawfully carried a loaded firearm. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime. If the defendant is charged with any of the sentencing factors in Penal Code section 25850, the court must also give the appropriate instruction from CALCRIM Nos. 2540–2546. (See *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690].)"
+      },
+      {
+        "text": "The court should give the bracketed definition of “firearm” unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "If the defense presents sufficient evidence to raise a reasonable doubt about the existence of a legal basis for the defendant’s actions, the court has a sua sponte duty to give the bracketed instruction on the defense. (See *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067] [discussing affirmative defenses generally and the burden of proof].) Insert the appropriate language in the bracketed paragraph that begins, “The defendant did not unlawfully . . . .”"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 2540, *Carrying Firearm: Specified Convictions*."
+      },
+      {
+        "text": "CALCRIM No. 2541, *Carrying Firearm: Stolen Firearm*."
+      },
+      {
+        "text": "CALCRIM No. 2542, *Carrying Firearm: Active Participant in Criminal Street Gang*."
+      },
+      {
+        "text": "CALCRIM No. 2543, *Carrying Firearm: Not in Lawful Possession*."
+      },
+      {
+        "text": "CALCRIM No. 2544, *Carrying Firearm: Possession of Firearm Prohibited Due to Conviction, Court Order, or Mental Illness*."
+      },
+      {
+        "text": "CALCRIM No. 2545, *Carrying Firearm: Not Registered Owner*."
+      },
+      {
+        "text": "CALCRIM No. 2546, *Carrying Concealed Firearm: Not Registered Owner and Weapon Loaded*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 25850(a)."
+      },
+      {
+        "text": "• Firearm Defined. Pen. Code, § 16520."
+      },
+      {
+        "text": "• Knowledge of Presence of Weapon Required. See *People v. Rubalcava* (2000) 23 Cal.4th 322, 331–332 [96 Cal.Rptr.2d 735, 1 P.3d 52]; *People v. Dillard* (1984) 154 Cal.App.3d 261, 267 [201 Cal.Rptr. 136]."
+      },
+      {
+        "text": "• Knowledge Firearm Loaded Not Required. *People v. Dillard* (1984) 154 Cal.App.3d 261, 266 [201 Cal.Rptr. 136]; *People v. Harrison* (1969) 1 Cal.App.3d 115, 120 [81 Cal.Rptr. 396]."
+      },
+      {
+        "text": "• Factors in Pen. Code, § 25400(c) Sentencing Factors, Not Elements. *People v. Hall* (1998) 67 Cal.App.4th 128, 135 [79 Cal.Rptr.2d 690]."
+      },
+      {
+        "text": "• Justifications and Exemptions. Pen. Code, § 25900, 26000 et seq."
+      },
+      {
+        "text": "• Need Not Be Operable. *People v. Taylor* (1984) 151 Cal.App.3d 432, 437 [199 Cal.Rptr. 6]."
+      },
+      {
+        "text": "• “Loaded” Firearm. *People v. Clark* (1996) 45 Cal.App.4th 1147, 1153 [53 Cal.Rptr.2d 99]."
+      },
+      {
+        "text": "• Must Be in Incorporated City or Prohibited Area of Unincorporated Territory. *People v. Knight* (2004) 121 Cal.App.4th 1568, 1575 [18 Cal.Rptr.3d 384]."
+      },
+      {
+        "text": "• Public Place Defined. *In re Zorn* (1963) 59 Cal.2d 650, 652 [30 Cal.Rptr. 811, 381 P.2d 635]; *People v. Strider* (2009) 177 Cal.App.4th 1393, 1401 [100 Cal.Rptr. 3d 66]."
+      },
+      {
+        "text": "• Loaded Firearm in Backpack is “On the Person.” *People v. Wade* (2016) 63 Cal.4th 137, 140 [201 Cal.Rptr.3d 876]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "If the defendant is charged with one of the sentencing factors that makes this offense a felony, then the misdemeanor offense is a lesser included offense. The statute defines as a misdemeanor all violations of the statute not covered by the specified sentencing factors. (Pen. Code, § 25850(c)(7).) The court must provide the jury with a verdict form on which the jury will indicate if the sentencing factor has been proved. If the jury finds that the sentencing factor has not been proved, then the offense should be set at a misdemeanor."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Loaded Firearm"
+      },
+      {
+        "text": "“Under the commonly understood meaning of the term ‘loaded,’ a firearm is ‘loaded’ when a shell or cartridge has been placed into a position from which it can be fired; the shotgun is not ‘loaded’ if the shell or cartridge is stored elsewhere and not yet placed in a firing position.” (*People v. Clark* (1996) 45 Cal.App.4th 1147, 1153 [53 Cal.Rptr.2d 99].)"
+      },
+      {
+        "heading": true,
+        "text": "Location—Court May Take Judicial Notice"
+      },
+      {
+        "text": "“The location of local streets within city boundaries is properly a matter of judicial notice [citation omitted], as is the fact that a particular jurisdiction is an incorporated city.” (*People v. Vega* (1971) 18 Cal.App.3d 954, 958 [96 Cal.Rptr. 391] [footnote and citation omitted].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

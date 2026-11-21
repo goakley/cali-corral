@@ -1,0 +1,83 @@
+{
+  "release": "2026-10",
+  "files": [
+    {
+      "key": "calcrim-2026",
+      "kind": "edition",
+      "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+      "pages": 2680,
+      "toc_entries": 787,
+      "toc_reserved_single_numbers": [
+        "762",
+        "1809",
+        "1934",
+        "2362",
+        "2411",
+        "3401",
+        "3473"
+      ],
+      "toc_reserved_ranges": 549,
+      "expected_instructions": 780,
+      "extracted_records": 784,
+      "reserved_placeholder_pages": [
+        "762",
+        "1934",
+        "3401",
+        "3473"
+      ],
+      "extracted_instructions": 780,
+      "missing": [],
+      "unexpected": [],
+      "supplement_status": {}
+    },
+    {
+      "key": "calcrim-2026-supplement",
+      "kind": "supplement",
+      "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+      "pages": 115,
+      "toc_entries": 29,
+      "toc_reserved_single_numbers": [],
+      "toc_reserved_ranges": 0,
+      "expected_instructions": 29,
+      "extracted_records": 29,
+      "reserved_placeholder_pages": [],
+      "extracted_instructions": 29,
+      "missing": [],
+      "unexpected": [],
+      "supplement_status": {
+        "521": "revised",
+        "590": "revised",
+        "734": "revised",
+        "736": "revised",
+        "821": "revised",
+        "830": "revised",
+        "831": "revised",
+        "850": "revised",
+        "1002": "revised",
+        "1003": "revised",
+        "1120": "revised",
+        "1124": "revised",
+        "1125": "revised",
+        "1126": "revised",
+        "1150": "revised",
+        "1192": "revised",
+        "1193": "revised",
+        "1400": "revised",
+        "1401": "revised",
+        "1600": "revised",
+        "1704": "revised",
+        "2542": "revised",
+        "2900": "revised",
+        "2903": "new",
+        "3161": "revised",
+        "3237": "new",
+        "3426": "revised",
+        "3428": "revised",
+        "3590": "revised"
+      }
+    }
+  ],
+  "merged_instructions": 782,
+  "warnings": {},
+  "unexpected_characters": {}
+}

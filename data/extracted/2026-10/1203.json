@@ -1,0 +1,161 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1203",
+  "title": "Kidnapping: For Robbery, Rape, or Other Sex Offenses (Pen. Code, § 209(b))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1058,
+      1062
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, April 2008, February 2013, August 2013, April 2020, March 2022",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with kidnapping for the purpose of (robbery/rape/oral copulation/sodomy/sexual penetration) [in violation of Penal Code section 209(b)].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant intended to commit (robbery/[or] rape/[or] oral copulation/[or] sodomy/[or] sexual penetration/[or] ______ <insert other offense specified in statute>);",
+    "2. Acting with that intent, the defendant took, held, or detained another person by using force or by instilling a reasonable fear;",
+    "3. Using that force or fear, the defendant moved the other person [or made the other person move] a substantial distance;",
+    "4. The other person was moved or made to move a distance beyond that merely incidental to the commission of a (robbery/[or] rape/[or] oral copulation/[or] sodomy/[or] sexual penetration/[or] ______ <insert other offense specified in statute>);",
+    "5. When that movement began, the defendant already intended to commit (robbery/[or] rape/[or] oral copulation/[or] sodomy/[or] sexual penetration/[or] ______ <insert other offense specified in statute>);",
+    "[AND]",
+    "6. The other person did not consent to the movement(;/.)",
+    "<Give element 7 if instructing on reasonable belief in consent.>",
+    "[AND",
+    "7. The defendant did not actually and reasonably believe that the other person consented to the movement.]",
+    "As used here, *substantial distance* means more than a slight or trivial distance. The movement must have increased the risk of [physical or psychological] harm to the person beyond that necessarily present in the (robbery/[or] rape/[or] oral copulation/[or] sodomy/[or] sexual penetration/[or] ______ <insert other offense specified in statute>). In deciding whether the movement was sufficient, consider all the circumstances relating to the movement.",
+    "[In order to *consent*, a person must act freely and voluntarily and know the nature of the act.]",
+    "[To be guilty of kidnapping for the purpose of (robbery/[or] rape/[or] oral copulation/[or] sodomy/[or] sexual penetration), the defendant does not actually have to commit the (robbery/[or] rape/[or] oral copulation/[or] sodomy/[or] sexual penetration/[or] ______ <insert other offense specified in statute>).]",
+    "To decide whether the defendant intended to commit (robbery/[or] rape/[or] oral copulation/[or] sodomy/[or] sexual penetration/[or] ______ <insert other offense specified in statute>), please refer to the separate instructions that I (will give/have given) you on that crime.",
+    "<Defense: Good Faith Belief in Consent>",
+    "[The defendant is not guilty of kidnapping if (he/she) reasonably and actually believed that the other person consented to the movement. The People have the burden of proving beyond a reasonable doubt that the defendant did not reasonably and actually believe that the other person consented to the movement. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "<Defense: Consent Given>",
+    "[The defendant is not guilty of kidnapping if the other person consented to go with the defendant. The other person consented if (he/she) (1) freely and voluntarily agreed to go with or be moved by the defendant, (2) was aware of the movement, and (3) had sufficient mental capacity to choose to go with the defendant. The People have the burden of proving beyond a reasonable doubt that the other person did not consent to go with the defendant. If the People have not met this burden, you must find the defendant not guilty of this crime.]",
+    "[Consent may be withdrawn. If, at first, a person agreed to go with the defendant, that consent ended if the person changed his or her mind and no longer freely and voluntarily agreed to go with or be moved by the defendant. The defendant is guilty of kidnapping if after the other person withdrew consent, the defendant committed the crime as I have defined it.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "In addition, the court has a sua sponte duty to instruct on the elements of the alleged underlying crime."
+      },
+      {
+        "text": "Give the bracketed definition of “consent” on request."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on the defense of consent if there is sufficient evidence to support the defense. (See *People v. Davis* (1995) 10 Cal.4th 463, 516–518 [41 Cal.Rptr.2d 826, 896 P.2d 119] [approving consent instruction as given]; see also *People v. Sedeno* (1974) 10 Cal.3d 703, 717, fn. 7 [112 Cal.Rptr. 1, 518 P.2d 913], overruled on other grounds in *People v. Breverman* (1998) 19 Cal.4th 142, 165 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [when court must instruct on defenses].) Give the bracketed paragraph on the defense of consent. On request, if supported by the evidence, also give the bracketed paragraph that begins with “Consent may be withdrawn.” (See People v. Camden (1976) 16 Cal.3d 808, 814 [129 Cal.Rptr. 438, 548 P.2d 1110].)"
+      },
+      {
+        "text": "The defendant’s reasonable and actual belief in the victim’s consent to go with the defendant may be a defense. (See *People v. Greenberger* (1997) 58 Cal.App.4th 298, 375 [68 Cal.Rptr.2d 61]; *People v. Isitt* (1976) 55 Cal.App.3d 23, 28 [127 Cal.Rptr. 279] [reasonable, good faith belief that victim consented to movement is a defense to kidnapping].)"
+      },
+      {
+        "heading": true,
+        "text": "Timing of Necessary Intent"
+      },
+      {
+        "text": "No court has specifically stated whether the necessary intent must precede all movement of the victim, or only one phase of it involving an independently adequate asportation."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "Kidnapping a child for the purpose of committing a lewd or lascivious act is a separate crime under Penal Code section 207(b). See CALCRIM No. 1200, *Kidnapping: For Child Molestation*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 209(b)(1); *People v. Robertson* (2012) 208 Cal. App. 4th 965, 982 [146 Cal.Rptr.3d 66]; *People v. Vines* (2011) 51 Cal.4th 830, 869–870 & fn. 20 [124 Cal.Rptr.3d 830, 251 P.3d 943]; *People v. Martinez* (1999) 20 Cal.4th 225, 232 & fn. 4 [83 Cal.Rptr.2d 533, 973 P.2d 512]; *People v. Rayford* (1994) 9 Cal.4th 1 [36 Cal.Rptr.2d 317]; *People v. Daniels* (1969) 71 Cal.2d. 1119 [80 Cal.Rptr. 897, 459 P.2d 225]."
+      },
+      {
+        "text": "• Robbery Defined. Pen. Code, § 211."
+      },
+      {
+        "text": "• Rape Defined. Pen. Code, § 261."
+      },
+      {
+        "text": "• Other Sex Offenses Defined. Pen. Code, §§ 264.1 [acting in concert], 286 [sodomy], 287 [oral copulation], 289 [sexual penetration]."
+      },
+      {
+        "text": "• Intent to Commit Robbery Must Exist at Time of Original Taking. *People v. Tribble* (1971) 4 Cal.3d 826, 830–832 [94 Cal.Rptr. 613, 484 P.2d 589]; *People v. Bailey* (1974) 38 Cal.App.3d 693, 699 [113 Cal.Rptr. 514]; see *People v. Thornton* (1974) 11 Cal.3d 738, 769–770 [114 Cal.Rptr. 467], overruled on other grounds in *People v. Flannel* (1979) 25 Cal.3d 668 [160 Cal.Rptr. 84, 603 P.2d 1]."
+      },
+      {
+        "text": "• Kidnapping to Effect Escape From Robbery. *People v. Laursen* (1972) 8 Cal.3d 192, 199–200 [104 Cal.Rptr. 425, 501 P.2d 1145] [violation of section 209 even though intent to kidnap formed after robbery commenced]."
+      },
+      {
+        "text": "• Kidnapping Victim Need Not Be Robbery Victim. *People v. Laursen* (1972) 8 Cal.3d 192, 200, fn. 7 [104 Cal.Rptr. 425, 501 P.2d 1145]."
+      },
+      {
+        "text": "• Use of Force or Fear. See *People v. Martinez* (1984) 150 Cal.App.3d 579, 599–600 [198 Cal.Rptr. 565], disapproved on other grounds in *People v. Hayes* (1990) 52 Cal.3d 577, 627–628, fn. 10 [276 Cal.Rptr. 874, 802 P.2d 376]; *People v. Jones* (1997) 58 Cal.App.4th 693, 713–714 [68 Cal.Rptr.2d 506]."
+      },
+      {
+        "text": "• Movement of Victim Need Not Substantially Increase Risk of Harm to Victim. *People v. Robertson* (2012) 208 Cal.App.4th 965, 982 [146 Cal.Rptr.3d 66]; *People v. Vines* (2011) 51 Cal.4th 830, 870 fn. 20 [124 Cal.Rptr.3d 830, 251 P.3d 943]; *People v. Martinez* (1999) 20 Cal.4th 225, 232 fn. 4 [83 Cal.Rptr.2d 533, 973 P.2d 512]."
+      },
+      {
+        "text": "• Movement Must Be for Illegal Purpose or Intent if Victim Incapable of Consent. *In re Michele D.* (2002) 29 Cal.4th 600, 610–611 [128 Cal.Rptr.2d 92, 59 P.3d 164]; *People v. Oliver* (1961) 55 Cal.2d 761, 768 [12 Cal.Rptr. 865, 361 P.2d 593]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Kidnapping. Pen. Code, § 207; *People v. Bailey* (1974) 38 Cal.App.3d 693, 699 [113 Cal.Rptr. 514]; see *People v. Jackson* (1998) 66 Cal.App.4th 182, 189 [77 Cal.Rptr.2d 564]."
+      },
+      {
+        "text": "• False Imprisonment. Pen. Code, §§ 236, 237; *People v. Magana* (1991) 230 Cal.App.3d 1117, 1121 [281 Cal.Rptr. 338]; *People v. Gibbs* (1970) 12 Cal.App.3d 526, 547 [90 Cal.Rptr. 866]; *People v. Shadden* (2001) 93 Cal.App.4th 164, 171 [112 Cal.Rptr.2d 826]."
+      },
+      {
+        "text": "Attempted kidnapping is not a lesser included offense of simple kidnapping under subdivision (a) of section 207, but the jury may be instructed on attempted kidnapping if supported by the evidence. (*People v. Fontenot* (2019) 8 Cal.5th 57, 65–71 [251 Cal.Rptr.3d 341, 447 P.3d 252] [discussing Pen. Code, § 1159].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Psychological Harm"
+      },
+      {
+        "text": "Psychological harm may be sufficient to support conviction for aggravated kidnapping under Penal Code section 209(b). An increased risk of harm is not limited to a risk of bodily harm. (*People v. Nguyen* (2000) 22 Cal.4th 872, 885–886 [95 Cal.Rptr.2d 178, 997 P.2d 493] [substantial movement of robbery victim that posed substantial increase in risk of psychological trauma beyond that expected from stationary robbery].)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

@@ -1,0 +1,111 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "3220",
+  "title": "Amount of Loss (Pen. Code, § 12022.6)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      2286,
+      2289
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2009, April 2010, August 2016; Revoked March 2021; Restored and Revised October 2025",
+  "revision_legend": null,
+  "body": [
+    "If you find the defendant guilty of the crime[s] charged in Count[s] ______[,] [or of attempting to commit (that/those) crime[s]][ or the lesser crimes[s] of ______ <insert lesser offense[s]>], you must then decide whether the People have proved the additional allegation that the value of the property [(taken[,]/[ or] damaged[,]/[ or] destroyed)] was more than $ ______ <insert amount alleged>.",
+    "To prove this allegation, the People must prove that:",
+    "<Alternative A: took, damaged, or destroyed property>",
+    "[1. In the commission [or attempted commission] of the crime, the defendant (took[,]/[ or] damaged[,]/[ or] destroyed) property;",
+    "AND",
+    "2. The [total] loss caused by the defendant’s (taking[,]/[ or] damaging[,]/[ or] destroying) the property was greater than $______ <insert amount alleged>.]",
+    "[If you find the defendant guilty of more than one crime, you may add together the loss suffered by each victim in Count[s] ______ <specify all counts that jury may use to compute cumulative total loss> to determine whether the total losses to all the victims were more than $______ <insert amount alleged> if the People prove that:",
+    "A. The defendant (took[,]/[ or] damaged[,]/[ or] destroyed) property in each crime;",
+    "AND",
+    "B. The losses arose from a common scheme or plan.]",
+    "[When computing the amount of loss according to this instruction, do not count any taking, damage, or destruction more than once simply because it is mentioned in more than one count, if the taking, damage, or destruction mentioned in those counts refers to the same taking, damage, or destruction with respect to the same victim.]",
+    "<Alternative B: Penal Code section 496 violation(s)>",
+    "[The property value and/or loss amount was greater than $ ______ <insert amount alleged>.]",
+    "[If you find the defendant guilty of more than one felony violation of receiving stolen property, you may combine the stolen property value and/or loss amount in Count[s] ______ <specify all counts that jury may use to compute cumulative total loss> to determine whether the total value and/or loss amount was more than $______ <insert amount alleged> if the People prove that the crimes arose from a common scheme or plan.]",
+    "[The value of property is the fair market value of the property.]",
+    "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    19.0,
+    0.0,
+    16.3,
+    16.0,
+    17.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction on the enhancement when charged. (*Apprendi v. New Jersey* (2000) 530 U.S. 466, 490 [120 S.Ct. 2348, 147 L.Ed.2d 435].)"
+      },
+      {
+        "text": "Alternative A applies to taking, damaging, or destroying property in the commission or attempted commission of any felony. Alternative B applies to felony violations of Penal Code section 496. In the introductory paragraph, give the bracketed language about property taken, damaged, or destroyed only when instructing with Alternative A. Do not use the bracketed language about attempt and lesser crimes when instructing with Alternative B."
+      },
+      {
+        "text": "Penal Code section 12022.6 sunset on January 1, 2018. In 2024, Proposition 36 reenacted this statute but with several differences, including new threshold amounts and the addition of property values or loss for felony violations of Penal Code section 496. Many of the cases cited in the authority section interpret the prior version of the statute but may still be relevant."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Enhancement. Pen. Code, § 12022.6."
+      },
+      {
+        "text": "• Value Is Fair Market Value. *People v. Swanson* (1983) 142 Cal.App.3d 104, 107–109 [190 Cal.Rptr. 768]."
+      },
+      {
+        "text": "• Defendant Need Not Intend to Permanently Deprive Owner of Property. *People v. Kellett* (1982) 134 Cal.App.3d 949, 958–959 [185 Cal.Rptr. 1]."
+      },
+      {
+        "text": "• Victim Need Not Suffer Actual Loss. *People v. Bates* (1980) 113 Cal.App.3d 481, 483–484 [169 Cal.Rptr 853]; *People v. Ramirez* (1980) 109 Cal.App.3d 529, 539–540 [167 Cal.Rptr. 174]."
+      },
+      {
+        "text": "• Defendant Need Not Know or Reasonably Believe Value of Item Exceeded Amount Specified. *People v. DeLeon* (1982) 138 Cal.App.3d 602, 606–607 [188 Cal.Rptr. 63]."
+      },
+      {
+        "text": "• Aggregation of Amount Based on Common Scheme or Plan. Pen. Code, § 12022.6(b)."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "“Take”"
+      },
+      {
+        "text": "As used in the prior version of Penal Code section 12022.6, “take” does not have the same meaning as in the context of theft. (*People v. Kellett, supra,* 134 Cal.App.3d at pp. 958–959.) The defendant need not intend to permanently deprive the owner of the property so long as the defendant intends to take, damage, or destroy the property. *(Ibid.)* Moreover, the defendant need not actually steal the property but may “take” it in other ways. (*People v. Superior Court (Kizer)* (1984) 155 Cal.App.3d 932, 935 [204 Cal.Rptr. 179].) Thus, the enhancement may be applied to the crime of driving a stolen vehicle (*People v. Kellett, supra,* 134 Cal.App.3d at pp. 958–959)."
+      },
+      {
+        "heading": true,
+        "text": "“Loss”"
+      },
+      {
+        "text": "As used in the prior version of Penal Code section 12022.6, “loss” does not require that the victim suffer an actual or permanent loss. (*People v. Bates, supra,* 113 Cal.App.3d at pp. 483–484; *People v. Ramirez, supra,* 109 Cal.App.3d at pp. 539–540.) Thus, the enhancement may be imposed when the defendant had temporary possession of the stolen property but the property was recovered (*People v. Bates, supra,* 113 Cal.App.3d at pp. 483–484), and when the defendant attempted fraudulent wire transfers but the bank suffered no actual financial loss (*People v. Ramirez, supra,* 109 Cal.App.3d at pp. 539–540)."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 0
+  },
+  "warnings": []
+}

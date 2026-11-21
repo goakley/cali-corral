@@ -1,0 +1,175 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "561",
+  "title": "Homicide: Provocative Act by Accomplice",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      383,
+      387
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2014, September 2019, February 2026",
+  "revision_legend": null,
+  "body": [
+    "[The defendant is charged [in Count ______] with ______ <insert underlying crime>.] The defendant is [also] charged [in Count ______] with murder. A person can be guilty of murder under the provocative act doctrine even if someone else did the actual killing.",
+    "To prove that the defendant is guilty of murder under the provocative act doctrine, the People must prove that:",
+    "1. The defendant was an accomplice of ______ <insert name[s] or description[s] of alleged provocateur[s]> in (committing/[or] attempting to commit) ______ <insert underlying crime>;",
+    "2. In (committing/[or] attempting to commit) ______ <insert underlying crime>, ______ <insert name[s] or description[s] of alleged provocateur[s]> intentionally did a provocative act;",
+    "3. The defendant knew that the natural and probable consequences of the provocative act were dangerous to human life and then acted with conscious disregard for life;",
+    "4. In response to ______’s <insert name[s] or description[s] of alleged provocateur[s]> provocative act, ______ <insert name or description of third party> killed ______ <insert name of decedent>;",
+    "AND",
+    "5. ______’s <insert name of decedent> death was the natural and probable consequence of ______’s <insert name[s] or description[s] of alleged provocateur[s]> provocative act.",
+    "A *provocative act* is an act:",
+    "1. [That goes beyond what is necessary to accomplish the ______ <insert underlying crime>;]",
+    "[AND",
+    "2.] Whose natural and probable consequences are dangerous to human life, because there is a high probability that the act will provoke a deadly response.",
+    "An act is *dangerous to human life* if it involved a high degree of probability that it would result in death.",
+    "The defendant is an *accomplice* of ______ <insert name[s] or description[s] of alleged provocateur[s]> if the defendant is subject to prosecution for the identical offense that you conclude ______ <insert name[s] or description[s] of alleged provocateur[s]> (committed/[or] attempted to commit). The defendant is subject to prosecution if (he/she) (committed/[or] attempted to commit) the crime or if:",
+    "1. (He/She) knew of ______’s <insert name[s] or description[s] of alleged provocateur[s]> criminal purpose to commit ______ <insert underlying crime>;",
+    "AND",
+    "2. The defendant intended to, and did in fact, (aid, facilitate, promote, encourage, or instigate the commission of ______ <insert underlying crime>/[or] participate in a criminal conspiracy to commit ______ <insert underlying crime>).",
+    "[An accomplice does not need to be present when the crime is committed. On the other hand, a person is not an accomplice just because he or she is at the scene of a crime, even if he or she knows that a crime [will be committed or] is being committed and does nothing to stop it.]",
+    "In order to prove that ______’s <insert name of decedent> death was the *natural and probable consequence* of ______’s <insert name[s] or description[s] of alleged provocateur[s]> provocative act, the People must prove that:",
+    "1. A reasonable person in ______’s <insert name[s] or description[s] of alleged provocateur[s]> position would have foreseen that there was a high probability that (his/her/their) act could begin a chain of events resulting in someone’s death;",
+    "2. ______’s <insert name[s] or description[s] of alleged provocateur[s]> act was a direct and substantial factor in causing ______’s <insert name of decedent> death;",
+    "AND",
+    "3. ______’s <insert name or description of decedent> death would not have happened if ______ <insert name[s] or description[s] of alleged provocateur[s]> had not committed the provocative act.",
+    "A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that caused the death.",
+    "<Multiple Provocative Acts>",
+    "[The People alleged the following provocative acts: ______ <insert acts alleged>. You may not find the defendant guilty unless you all agree that the People have proved that:",
+    "1. ______ <insert name[s] or description[s] of alleged provocateur[s]> committed at least one provocative act;",
+    "AND",
+    "2. At least one of the provocative acts committed by ______ <insert name[s] or description[s] of alleged provocateur[s]> was a direct and substantial factor that caused the killing.",
+    "However, you do not all need to agree on which provocative act has been proved.]",
+    "<Accomplice Deceased>",
+    "[If you decide that the only provocative act that caused ______’s <insert name of deceased accomplice> death was committed by ______ <insert name of deceased accomplice>, then the defendant is not guilty of ______’s <insert name of deceased accomplice> murder.]",
+    "<Independent Criminal Act>",
+    "[A defendant is not guilty of murder if the killing of ______ <insert name or description of decedent> was caused solely by the independent criminal act of someone other than the defendant or ______ <insert name[s] or description[s] of all alleged accomplice[s]>. An *independent criminal act* is a free, deliberate, and informed criminal act by a person who is not acting with the defendant.]",
+    "<Degree of Murder>",
+    "[If you decide that the defendant is guilty of murder, you must decide whether the murder is first or second degree.",
+    "To prove that the defendant is guilty of first degree murder, the People must prove that:",
+    "1. As a result of ______’s <insert name[s] or description[s] of alleged provocateur[s]> provocative act, ______ <insert name of decedent> was killed while ______ <insert name[s] or description[s] of alleged provocateur[s]> (was/were) committing ______ <insert Pen. Code, § 189 felony>;",
+    "AND",
+    "2. ______ <insert name[s] or description[s] of alleged provocateur[s]> specifically intended to commit ______ <insert Pen. Code, § 189 felony> when (he/she/they) did the provocative act.",
+    "In deciding whether ______ <insert name[s] or description[s] of alleged provocateur[s]> intended to commit ______ <insert Pen. Code, § 189 felony> and whether the death occurred during the commission of ______ <insert Pen. Code, § 189 felony>, you should refer to the instructions I have given you on ______ <insert Pen. Code, § 189 felony>.",
+    "Any murder that does not meet these requirements for first degree murder is second degree murder.]",
+    "[If you decide that the defendant committed murder, that crime is murder in the second degree.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    19.0,
+    16.0,
+    15.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction if the provocative act doctrine is one of the general principles of law relevant to the issues raised by the evidence. (*People v. Hood* (1969) 1 Cal.3d 444, 449 [82 Cal.Rptr. 618, 462 P.2d 370].) If the prosecution relies on a first degree murder theory based on a Penal Code section 189 felony, the court has a sua sponte duty to give instructions relating to the underlying felony, whether or not it is separately charged."
+      },
+      {
+        "text": "The first bracketed sentence of this instruction should only be given if the underlying felony is separately charged."
+      },
+      {
+        "text": "In the definition of “provocative act,” the court should always give the bracketed phrase that begins, “that goes beyond what is necessary,” unless the court determines that this element is not required because the underlying felony includes malice as an element. (*In re Aurelio R.* (1985) 167 Cal.App.3d 52, 59–60 [212 Cal.Rptr. 868].) See discussion in the Related Issues section to CALCRIM No. 560, *Homicide: Provocative Act by Defendant*."
+      },
+      {
+        "text": "In the paragraph that begins with “An accomplice does not need to be present,” use the bracketed phrase “will be committed or” if appropriate under the facts of the case."
+      },
+      {
+        "text": "If a deceased accomplice participated in provocative acts leading to his or her own death, give the bracketed sentence that begins, “If you decide that the only provocative act that caused . . . .” (See *People v. Garcia* (1999) 69 Cal.App.4th 1324, 1330 [82 Cal.Rptr.2d 254]; *People v. Superior Court (Shamis)* (1997) 58 Cal.App.4th 833, 846 [68 Cal.Rptr.2d 388]; *Taylor v. Superior Court* (1970) 3 Cal.3d 578, 583–584 [91 Cal.Rptr. 275, 477 P.2d 131]; *People v. Antick* (1975) 15 Cal.3d 79, 90 [123 Cal.Rptr. 475, 539 P.2d 43], disapproved on other grounds in *People v. McCoy* (2001) 25 Cal.4th 1111, 1123 [108 Cal.Rptr.2d 188, 24 P.3d 1210].)"
+      },
+      {
+        "text": "If there is evidence that the actual perpetrator may have committed an *independent criminal act*, give on request the bracketed paragraph that begins, “A defendant is not guilty of murder if . . . .” (See *People v. Cervantes* (2001) 26 Cal.4th 860, 874 [111 Cal.Rptr.2d 148, 29 P.3d 225].)"
+      },
+      {
+        "text": "If the evidence suggests that there is more than one provocative act, give the bracketed section on “Multiple Provocative Acts.” (*People v. Briscoe* (2001) 92 Cal.App.4th 568, 591 [112 Cal.Rptr.2d 401].)"
+      },
+      {
+        "text": "If the prosecution is not seeking a first degree murder conviction, omit those bracketed paragraphs relating to first degree murder and simply give the last bracketed sentence of the instruction. As an alternative, the court may omit all instructions relating to the degree and secure a stipulation that if a murder verdict is returned, the degree of murder is set at second degree. If the prosecution is seeking a first degree murder conviction, give the bracketed section on “degree of murder.”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Provocative Act Doctrine. *People v. Gallegos* (1997) 54 Cal.App.4th 453, 461 [63 Cal.Rptr.2d 382]."
+      },
+      {
+        "text": "• Felony-Murder Rule Invoked to Determine Degree. *People v. Gilbert* (1965) 63 Cal.2d 690, 705 [47 Cal.Rptr. 909, 408 P.2d 365]; *Pizano v. Superior Court* (1978) 21 Cal.3d 128, 139, fn. 4 [145 Cal.Rptr. 524, 577 P.2d 659]; see *People v. Caldwell* (1984) 36 Cal.3d 210, 216–217, fn. 2 [203 Cal.Rptr. 433, 681 P.2d 274]."
+      },
+      {
+        "text": "• Independent Intervening Act by Third Person. *People v. Cervantes* (2001) 26 Cal.4th 860, 874 [111 Cal.Rptr.2d 148, 29 P.3d 225]."
+      },
+      {
+        "text": "• Natural and Probable Consequences Doctrine. *People v. Gardner* (1995) 37 Cal.App.4th 473, 479 [43 Cal.Rptr.2d 603]."
+      },
+      {
+        "text": "• Response of Third Party Need Not Be Reasonable. *People v. Gardner* (1995) 37 Cal.App.4th 473, 482 [43 Cal.Rptr.2d 603]."
+      },
+      {
+        "text": "• Unanimity on Which Act Constitutes Provocative Act Is Not Required. *People v. Briscoe* (2001) 92 Cal.App.4th 568, 591 [112 Cal.Rptr.2d 401] [multiple provocative acts]."
+      },
+      {
+        "text": "• Personal Malice Requirement. *People v. Antonelli* (2025) 17 Cal.5th 719, 728–731 [332 Cal.Rptr.3d 120, 567 P.3d 690]; *People v. Concha* (2009) 47 Cal.4th 653, 660–664 [101 Cal.Rptr.3d 141, 218 P.3d 660]; see also Pen. Code, § 188(a)(3)."
+      },
+      {
+        "text": "• “Dangerous to Human Life” Defined. *People v. Reyes* (2023) 14 Cal.5th 981, 989 [309 Cal.Rptr.3d 832, 531 P.3d 357]."
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 560, *Homicide: Provocative Act by Defendant*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 7
+  },
+  "warnings": []
+}

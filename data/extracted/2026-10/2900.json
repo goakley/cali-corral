@@ -1,0 +1,121 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2900",
+  "title": "Vandalism (Pen. Code, § 594)",
+  "source": {
+    "file": "calcrim-2026-supplement",
+    "url": "https://courts.ca.gov/system/files/file/calcrim_2026_supplement.pdf",
+    "sha256": "4cbb8a86fc1ee59e928f2f42980ad51da9a1f815db60facf4e470f630b2f8c84",
+    "release": "CALCRIM Supplement 2026 (as adopted by the Judicial Council, October 2026)",
+    "pages": [
+      98,
+      100
+    ]
+  },
+  "revision_line": "New January 2006; Revised June 2007, February 2013, August 2013, September 2019, October 2026",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with vandalism [in violation of Penal Code section 594].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant maliciously (defaced with graffiti or with other inscribed material[,]/[or] damaged[,]/[or] destroyed) (real/[or] personal) property;",
+    "[AND]",
+    "2. The defendant (did not own the property/owned the property with someone else)(;/.)",
+    "<See Bench Notes regarding when to give element 3.>",
+    "[AND",
+    "3. The amount of damage caused by the vandalism was $400 or more.]",
+    "[*Amount of damage* includes the repair or replacement cost for the vandalized property.]",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to annoy or injure someone else.",
+    "*Graffiti or other inscribed material* includes an unauthorized inscription, word, figure, mark, or design that is written, marked, etched, scratched, drawn, or painted on real or personal property."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the defendant is charged with a felony for causing $400 or more in damage and the court is *not* instructing on the misdemeanor offense, give element 3. If the court *is* instructing on both the felony and the misdemeanor offenses, give CALCRIM No. 2901, *Vandalism: Amount of Damage*, with this instruction. (Pen. Code, § 594(b)(1).) The court should also give CALCRIM No. 2901 if the defendant is charged with causing more than $10,000 in damage under Penal Code section 594(b)(1)."
+      },
+      {
+        "text": "In element 2, give the alternative language “owned the property with someone else” if there is evidence that the property was owned by the defendant jointly with someone else. (*People v. Wallace* (2004) 123 Cal.App.4th 144, 150–151 [19 Cal.Rptr.3d 790]; *People v. Kahanic* (1987) 196 Cal.App.3d 461, 466 [241 Cal.Rptr. 722] [Pen. Code, § 594 includes damage by spouse to spousal community property].)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 594."
+      },
+      {
+        "text": "• “Malicious” Defined. Pen. Code, § 7(b)(4); *People v. Lopez* (1986) 176 Cal.App.3d 545, 550 [222 Cal.Rptr. 101]."
+      },
+      {
+        "text": "• Factual Nexus Required Between Damage Amount and Defendant’s Conduct. *People v. Jimenez* (2025) 117 Cal.App.5th 602, 609 [340 Cal.Rptr.3d 351]."
+      },
+      {
+        "text": "• Damage to Jointly Owned Property. *People v. Wallace* (2004) 123 Cal.App.4th 144, 150–151 [19 Cal.Rptr.3d 790]; *People v. Kahanic* (1987) 196 Cal.App.3d 461, 466 [241 Cal.Rptr. 722]."
+      },
+      {
+        "text": "• Wrongful Act Need Not Be Directed at Victim. *People v. Kurtenbach* (2012) 204 Cal.App.4th 1264, 1282 [139 Cal.Rptr.3d 637]."
+      },
+      {
+        "text": "• This Instruction Upheld. *People v. Carrasco* (2012) 209 Cal.App.4th 715, 722–723 [147 Cal.Rptr.3d 383]."
+      },
+      {
+        "text": "• General Intent Crime. *People v. Moore* (2018) 19 Cal.App.5th 889, 895–896 [228 Cal.Rptr.3d 261]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "This offense is a misdemeanor unless the amount of damage is $400 or more. (Pen. Code, § 594(b)(1) & (2)(A).) If the defendant is charged with a felony, then the misdemeanor offense is a lesser included offense. When instructing on both the felony and misdemeanor, the court must provide the jury with a verdict form on which the jury will indicate if the amount of damage has or has not been proved to be $400 or more. If the jury finds that the damage has not been proved to be $400 or more, then the offense should be set at a misdemeanor."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Lack of Permission Not an Element"
+      },
+      {
+        "text": "The property owner’s lack of permission is not an element of vandalism. (*In re Rudy L*. (1994) 29 Cal.App.4th 1007, 1014 [34 Cal.Rptr.2d 864].)"
+      },
+      {
+        "heading": true,
+        "text": "Damage Need Not Be Permanent"
+      },
+      {
+        "text": "To “deface” under Penal Code section 594 does not require that the defacement be permanent. (*In re Nicholas Y.* (2000) 85 Cal.App.4th 941, 944 [102 Cal.Rptr.2d 511] [writing on a glass window with a marker pen was defacement under the statute].)"
+      },
+      {
+        "heading": true,
+        "text": "Damage to Jail or Prison Property"
+      },
+      {
+        "text": "Penal Code section 4600 prohibits willfully and intentionally damaging or destroying any jail, prison, or public property within those facilities. In *People v. Jimenez*, the court reversed a felony vandalism conviction under Penal Code section 594(a), finding that the Legislature intended that damage to jail property should be exclusively prosecuted under Penal Code section 4600. (*People v. Jimenez, supra*, 117 Cal.App.5th at pp. 613–614.)"
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": [],
+  "supersedes": {
+    "file": "calcrim-2026",
+    "revision_line": "New January 2006; Revised June 2007, February 2013, August 2013, September 2019"
+  },
+  "supplement_status": "revised"
+}

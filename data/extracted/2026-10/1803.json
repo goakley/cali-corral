@@ -1,0 +1,72 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1803",
+  "title": "Theft: By Employee or Agent (Pen. Code, § 487(b)(3))",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1258,
+      1259
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "If you conclude that the defendant committed more than one theft, you must decide whether the defendant committed multiple petty thefts or a single grand theft. To prove that the defendant is guilty of a single grand theft, the People must prove that:",
+    "1. The defendant was an (employee/agent) of ______ <insert name of employer/principal>;",
+    "2. The defendant committed theft of property [or services] from ______ <insert name of employer/principal>;",
+    "AND",
+    "3. The combined value of the property [or services] that the defendant obtained during a period of 12 consecutive months was $950 or more.",
+    "If you conclude that the People have failed to prove grand theft, any multiple thefts you have found proven are petty thefts.",
+    "[An *agent* is a person who represents someone else in dealing with other people, corporations, or entities.]"
+  ],
+  "body_indents": [
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on aggregating the value of the property or services taken by an employee or agent if grand theft is charged on that theory."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Aggregating Value of Property Taken by Employee or Agent. Pen. Code, § 487(b)(3); *People v. Packard* (1982) 131 Cal.App.3d 622, 626–627 [182 Cal.Rptr. 576]."
+      },
+      {
+        "text": "• Agent Defined. Civ. Code, § 2295."
+      },
+      {
+        "text": "• Employee Defined. Lab. Code, § 2750."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Penal Code section 487(b)(3) allows the prosecutor, under specified conditions, to cumulate a series of petty thefts into a grand theft, without having to prove a single intent or scheme. (*People v. Packard* (1982) 131 Cal.App.3d 622, 626 [182 Cal.Rptr. 576].) Therefore, this instruction does not include a single intent or scheme as an element. (Compare *People v. Daniel* (1983) 145 Cal.App.3d 168, 175 [193 Cal.Rptr. 277] [theft pursuant to overall plan and single fraudulent intent], and CALCRIM No. 1802, *Theft: As Part of Overall Plan*.) Under the appropriate circumstances, however, a *defendant* may assert that grand thefts committed against his or her employer over a period greater than 12 consecutive months should be combined into a single grand theft in the absence of evidence of separate intents or plans. (See *People v. Packard, supra,* 131 Cal.App.3d at pp. 626–627 [thefts over three-year period].)"
+      }
+    ],
+    "related_issues": [
+      {
+        "text": "See the Related Issues section to CALCRIM No. 1802, *Theft: As Part of Overall Plan*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}

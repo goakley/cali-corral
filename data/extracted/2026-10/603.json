@@ -1,0 +1,115 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "603",
+  "title": "Attempted Voluntary Manslaughter: Heat of Passion—Lesser Included Offense (Pen. Code, §§ 21a, 192, 664)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      456,
+      458
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2009, April 2010, April 2011, August 2015, October 2025*",
+  "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
+  "body": [
+    "An attempted killing that would otherwise be attempted murder is reduced to attempted voluntary manslaughter if the defendant attempted to kill someone because of a sudden quarrel or in the heat of passion.",
+    "The defendant attempted to kill someone because of a sudden quarrel or in the heat of passion if:",
+    "1. The defendant took at least one direct but ineffective step toward killing a person;",
+    "2. The defendant intended to kill that person;",
+    "3. The defendant attempted the killing because (he/she) was provoked;",
+    "4. The provocation would have caused a person of average disposition to act rashly and without due deliberation, that is, from passion rather than from judgment;",
+    "AND",
+    "5. The attempted killing was a rash act done under the influence of intense emotion that obscured the defendant’s reasoning or judgment.",
+    "Heat of passion does not require anger, rage, or any specific emotion. It can be any violent or intense emotion that causes a person to act without due deliberation and reflection.",
+    "In order for a sudden quarrel or heat of passion to reduce an attempted murder to attempted voluntary manslaughter, the defendant must have acted under the direct and immediate influence of provocation as I have defined it. While no specific type of provocation is required, slight or remote provocation is not sufficient. Sufficient provocation may occur over a short or long period of time.",
+    "It is not enough that the defendant simply was provoked. The defendant is not allowed to set up (his/her) own standard of conduct. You must decide whether the defendant was provoked and whether the provocation was sufficient. In deciding whether the provocation was sufficient, consider whether a person of average disposition, in the same situation and knowing the same facts, would have reacted from passion rather than judgment.",
+    "[If enough time passed between the provocation and the attempted killing for a person of average disposition to “cool off” and regain his or her clear reasoning and judgment, then the attempted murder is not reduced to attempted voluntary manslaughter on this basis.]",
+    "The People have the burden of proving beyond a reasonable doubt that the defendant attempted to kill someone and was not acting as a result of a sudden quarrel or in the heat of passion. If the People have not met this burden, you must find the defendant not guilty of attempted murder."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to instruct on attempted voluntary manslaughter on either theory, heat of passion or imperfect self-defense, when evidence of either is “substantial enough to merit consideration” by the jury. (See *People v. Breverman* (1998) 19 Cal.4th 142, 153–163 [77 Cal.Rptr.2d 870, 960 P.2d 1094] [discussing charge of completed murder]; *People v. Barton* (1995) 12 Cal.4th 186, 201 [47 Cal.Rptr.2d 569, 906 P.2d 531] [same].)"
+      },
+      {
+        "text": "If the victim’s gender identity or sexual orientation raises specific issues concerning whether provocation was objectively reasonable, give an instruction tailored to those issues on request. (Pen. Code, § 192(f).)"
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "CALCRIM No. 511, *Excusable Homicide: Accident in the Heat of Passion*."
+      },
+      {
+        "text": "CALCRIM No. 570, *Voluntary Manslaughter: Heat of Passion—Lesser Included Offense*."
+      },
+      {
+        "text": "CALCRIM No. 604, *Attempted Voluntary Manslaughter: Imperfect Self-Defense—Lesser Included Offense*."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• “Attempt” Defined. Pen. Code, §§ 21a, 664."
+      },
+      {
+        "text": "• “Manslaughter” Defined. Pen. Code, § 192."
+      },
+      {
+        "text": "• Attempted Voluntary Manslaughter. *People v. Van Ronk* (1985) 171 Cal.App.3d 818, 824–825 [217 Cal.Rptr. 581]; *People v. Williams* (1980) 102 Cal.App.3d 1018, 1024–1026 [162 Cal.Rptr. 748]."
+      },
+      {
+        "text": "• Gender Identity and Sexual Orientation Not Proper Basis for Finding Provocation Objectively Reasonable. Pen. Code, § 192(f); see also *People v. Martinez* (2024) 106 Cal.App.5th 892, 903–905 [327 Cal.Rptr.3d 396] [victim’s alleged unwanted romantic advances were not forcible acts as they did not overpower defendants’ will to resist]."
+      }
+    ],
+    "related_issues": [
+      {
+        "heading": true,
+        "text": "Specific Intent to Kill Required"
+      },
+      {
+        "text": "An attempt to commit a crime requires an intention to commit the crime and an overt act towards its completion. Where a person intends to kill another person and makes an unsuccessful attempt to do so, his intention may be accompanied by any of the aggravating or mitigating circumstances which can accompany the completed crimes. In other words, the intent to kill may have been formed after premeditation or deliberation, it may have been formed upon a sudden explosion of violence, or it may have been brought about by a heat of passion or an unreasonable but good faith belief in the necessity of self-defense."
+      },
+      {
+        "text": "(*People v. Van Ronk* (1985) 171 Cal.App.3d 818, 824 [217 Cal.Rptr. 581] [citation omitted].)"
+      },
+      {
+        "heading": true,
+        "text": "No Attempted Involuntary Manslaughter"
+      },
+      {
+        "text": "There is no crime of attempted *involuntary* manslaughter. (*People v. Johnson* (1996) 51 Cal.App.4th 1329, 1332 [59 Cal.Rptr.2d 798].)"
+      },
+      {
+        "text": "See the Related Issues section to CALCRIM No. 570, *Voluntary Manslaughter: Heat of Passion—Lesser Included Offense*."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

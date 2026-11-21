@@ -1,0 +1,116 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "2560",
+  "title": "Possession, etc., of Assault Weapon or .50 BMG Rifle (Pen. Code, §§ 30605, 30600)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1793,
+      1796
+    ]
+  },
+  "revision_line": "New January 2006; Revised August 2006, February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with unlawfully (possessing/manufacturing/causing to be manufactured/distributing/transporting/importing/keeping for sale/offering or exposing for sale/giving/lending) (an assault weapon, specifically [a/an] ______ <insert type of weapon from Pen. Code, § 30510 or description from § 30515>/a .50 BMG rifle) [in violation of Penal Code section ______ <insert relevant Penal Code section>].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant (possessed/manufactured/caused to be manufactured/distributed/transported/imported/kept for sale/offered or exposed for sale/gave/lent) (an assault weapon, specifically [a/an] ______ <insert type of weapon from Pen. Code, § 30510 or description from § 30515>/a .50 BMG rifle);",
+    "2. The defendant knew that (he/she) (possessed/manufactured/caused to be manufactured/distributed/transported/imported/kept for sale/offered or exposed for sale/gave/lent) it;",
+    "AND",
+    "3. The defendant knew or reasonably should have known that it had characteristics that made it (an assault weapon/a .50 BMG rifle).",
+    "[(A/An) ______ <insert type of weapon from Pen. Code, § 30510 or description from § 30515> is an *assault weapon*.]",
+    "[A *.50 BMG rifle* is a center fire rifle that can fire a .50 BMG cartridge [and that is not an assault weapon or a machine gun]. A *.50 BMG cartridge* is a cartridge that is designed and intended to be fired from a center fire rifle and that has all three of the following characteristics:",
+    "1. The overall length is 5.54 inches from the base of the cartridge to the tip of the bullet;",
+    "2. The bullet diameter for the cartridge is from .510 to, and including, .511 inch;",
+    "AND",
+    "3. The case base diameter for the cartridge is from .800 inch to, and including, .804 inch.]",
+    "[Two or more people may possess something at the same time.]",
+    "[A person does not have to actually hold or touch something to possess it. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]",
+    "[The People allege that the defendant (possessed/manufactured/caused to be manufactured/distributed/transported/imported/kept for sale/offered or exposed for sale/gave/lent) the following weapons: ______ <insert description of each weapon when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (possessed/manufactured/caused to be manufactured/distributed/transported/imported/kept for sale/offered or exposed for sale/gave/lent) at least one of these weapons, and you all agree on which weapon (he/she) (possessed/manufactured/caused to be manufactured/distributed/transported/imported/kept for sale/offered or exposed for sale/gave/lent).]",
+    "<Defense: Permit, Registration, or Exemption From Statute>",
+    "[The defendant did not unlawfully (possess/manufacture/cause to be manufactured/distribute/transport/import/keep for sale/offer or expose for sale/give/lend) (an assault weapon/a .50 BMG rifle) if (he/she) (had registered the weapon/had a valid permit to (possess/manufacture/sell) the weapon/______ <insert exemption from Pen. Code, §§ 30625, 30630(a)–(c), 30635, 30640, 30645, 30655(a), (b), 30660(a)–(c), 30665, 30670(a), (b), 30675(a)–(c)>). The People have the burden of proving beyond a reasonable doubt that the defendant did not (register the weapon/have a valid permit to (possess/manufacture/sell) the weapon/______ <insert exemption from Pen. Code, §§ 30625, 30630(a)–(c), 30635, 30640, 30645, 30655(a), (b), 30660(a)–(c), 30665, 30670(a), (b), 30675(a)–(c)>). If the People have not met this burden, you must find the defendant not guilty of this crime.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give this instruction defining the elements of the crime."
+      },
+      {
+        "text": "If the prosecution alleges under a single count that the defendant possessed multiple weapons and the possession was “fragmented as to time . . . [or] space,” the court has a sua sponte duty to instruct on unanimity. (See *People v. Wolfe* (2003) 114 Cal.App.4th 177, 184–185 [7 Cal.Rptr.3d 483].) Give the bracketed paragraph that begins, “The People allege that the defendant possessed the following weapons,” inserting the items alleged. But see Pen. Code, § 30600(c), which states that except in case of a first violation involving not more than two firearms, if more than one assault weapon or .50 BMG rifle is involved in any violation of this section, there shall be a distinct and separate offense for each."
+      },
+      {
+        "text": "The jury must decide if the weapon possessed was an assault weapon or a .50 BMG rifle. (See *People v. Flood* (1998) 18 Cal.4th 470, 482 [76 Cal.Rptr.2d 180, 957 P.2d 869].) When instructing on the definition of assault weapon or .50 BMG rifle, the court should not state that the weapon possessed by the defendant was an assault weapon or was a .50 BMG rifle. In the case of an assault weapon, where indicated in the instruction, the court may insert a weapon listed in Penal Code section 30510 or a description of a weapon from section 30515. In the case of a .50 BMG rifle, give the bracketed definition of that term."
+      },
+      {
+        "text": "If the defendant is charged with both a separate count and an enhancement for violating Penal Code section 30615 while committing another crime, give this instruction and CALCRIM No. 2561, *Possession, etc., of Assault or .50 BMG Rifle Weapon While Committing Other Offense: Pen. Code, § 30615—Enhancement of Punishment for Another Crime* (Pen. Code, § 30615; *People v. Jimenez* (1992) 8 Cal.App.4th 391, 398 [10 Cal.Rptr.2d 281].) If the defendant is only charged with an enhancement under Penal Code section 30615 and not with a separate count for violating Penal Code section(s) 30605 or 30610, give only CALCRIM No. 2562, *Possession, etc., of Assault Weapon or .50 BMG Rifle While Committing Other Offense: Pen. Code, § 30615—Charged Only as Enhancement*."
+      },
+      {
+        "heading": true,
+        "text": "Defenses—Instructional Duty"
+      },
+      {
+        "text": "Registration and permitting procedures are contained in Penal Code sections 30900 to 31005. Exemptions to the statute are stated in Penal Code section 30625 et seq. The existence of a statutory exemption is an affirmative defense. (*People v. Jimenez, supra,* 8 Cal.App.4th at pp. 395–397.) If the defense presents sufficient evidence to raise a reasonable doubt about the existence of a legal basis for his or her actions, the court has a sua sponte duty to give the bracketed instruction on the defense. (See *People v. Mower* (2002) 28 Cal.4th 457, 478–481 [122 Cal.Rptr.2d 326, 49 P.3d 1067] [discussing affirmative defenses generally and the burden of proof].) Insert the appropriate language in the bracketed paragraph that begins, “The defendant did not unlawfully . . . .”"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 30605, 30600."
+      },
+      {
+        "text": "• Assault Weapon Defined. Pen. Code §§ 30510, 30515; see also *Harrott v. County of Kings* (2001) 25 Cal.4th 1138, 1142–1145 [108 Cal.Rptr.2d 445, 25 P.3d 649] [discussing statutory definition of assault weapon, amendments to statute and petition procedure by which the Attorney General may have weapon listed]."
+      },
+      {
+        "text": "• .50 BMG Rifle Defined. Pen. Code, § 30530."
+      },
+      {
+        "text": "• Permits and Registration. Pen. Code, §§ 30900–31005."
+      },
+      {
+        "text": "• Exemptions. Pen. Code, § 30625 et seq."
+      },
+      {
+        "text": "• Knowledge Required. *In re Jorge M.* (2000) 23 Cal.4th 866, 887 [98 Cal.Rptr.2d 466, 4 P.3d 297]."
+      },
+      {
+        "text": "• Permits, Registration, and Exemptions Are Affirmative Defenses. *People v. Jimenez* (1992) 8 Cal.App.4th 391, 395–397 [10 Cal.Rptr.2d 281]."
+      },
+      {
+        "text": "• Constructive vs. Actual Possession. *People v. Azevedo* (1984) 161 Cal.App.3d 235, 242–243 [207 Cal.Rptr. 270], questioned on other grounds in *In re Jorge M.* (2000) 23 Cal.4th 866, 876, fn. 6 [98 Cal.Rptr.2d 466, 4 P.3d 297]."
+      },
+      {
+        "text": "• Statute Constitutional. *Silveira v. Lockyer* (2002) 312 F.3d 1052, 1056; *Kasler v. Lockyer* (2000) 23 Cal.4th 472, 478 [97 Cal.Rptr.2d 334, 2 P.3d 581]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 6
+  },
+  "warnings": []
+}

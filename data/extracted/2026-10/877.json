@@ -1,0 +1,84 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "877",
+  "title": "Assault With Caustic Chemicals (Pen. Code, § 244)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      689,
+      690
+    ]
+  },
+  "revision_line": "New January 2006",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with (placing/[or] throwing) caustic chemicals on someone else [in violation of Penal Code section 244].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "1. The defendant willfully and maliciously (placed[,]/threw[,]/caused to be placed[,]/[or] caused to be thrown) any (caustic chemical[,]/corrosive acid[,]/flammable substance[,]/[or] vitriol) on someone else;",
+    "[AND]",
+    "2. When the defendant acted, (he/she) intended to injure the flesh of or disfigure the other person’s body(;/.)",
+    "<Give element 3 when instructing on self-defense or defense of another>",
+    "[AND",
+    "3. The defendant did not act (in self-defense/[or] in defense of someone else).]",
+    "[A *flammable substance* includes gasoline, petroleum products, or flammable liquids with a flashpoint of 150 degrees Fahrenheit or less.]",
+    "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
+    "Someone acts *maliciously* when he or she intentionally does a wrongful act or when he or she acts with the unlawful intent to disturb, defraud, annoy, or injure someone else."
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    19.0,
+    16.0,
+    19.0,
+    16.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "If there is sufficient evidence of self-defense or defense of another, the court has a sua sponte duty to instruct on the defense. Give bracketed element 3 and any appropriate defense instructions. (See CALCRIM Nos. 3470–3477.)"
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 244. • Malicious Defined. Pen. Code, § 7(4)."
+      },
+      {
+        "text": "• Willful Defined. Pen. Code, § 7(1); *People v. Lara* (1996) 44 Cal.App.4th 102, 107 [51 Cal.Rptr.2d 402]."
+      },
+      {
+        "text": "• Simple Assault Not a Lesser Included Offense. *People v. Warren* (1963) 223 Cal.App.2d 798, 801 [36 Cal.Rptr. 127]."
+      },
+      {
+        "text": "• Threat of Great Bodily Harm Not Required. *People v. Day* (1926) 199 Cal. 78, 85–86 [248 P. 250]."
+      },
+      {
+        "text": "• Mental State for Assault. *People v. Williams* (2001) 26 Cal.4th 779, 790 [111 Cal.Rptr.2d 114, 29 P.3d 197]."
+      }
+    ],
+    "commentary": [
+      {
+        "text": "Although Penal Code section 244 is titled “assault with caustic chemicals,” this statute does not truly define an assault crime since actual contact with the other person is required."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 5
+  },
+  "warnings": []
+}

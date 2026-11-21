@@ -1,0 +1,143 @@
+{
+  "record_version": 1,
+  "extractor_version": "0.1.0",
+  "number": "1302",
+  "title": "Terrorizing by Destructive Device, Explosive, or Arson (Pen. Code, § 11413)",
+  "source": {
+    "file": "calcrim-2026",
+    "url": "https://courts.ca.gov/system/files/file/calcrim-2026.pdf",
+    "sha256": "32cde18ace46a4a6fc4dd2ea27c9e30f923dc1d28dd554500119787f957a3d6e",
+    "release": "2026 Criminal Jury Instructions (as adopted by the Judicial Council, February 2026)",
+    "pages": [
+      1110,
+      1113
+    ]
+  },
+  "revision_line": "New January 2006; Revised February 2012",
+  "revision_legend": null,
+  "body": [
+    "The defendant is charged [in Count ______] with terrorizing by (use of (a/an) (destructive device/[or] explosive)/committing arson) [in violation of Penal Code section 11413].",
+    "To prove that the defendant is guilty of this crime, the People must prove that:",
+    "<Alternative 1A—destructive device or explosive>",
+    "[1. The defendant exploded or ignited [or attempted to explode or ignite] (a/an) (destructive device/[or] explosive);]",
+    "<Alternative 1B—arson>",
+    "[1. The defendant committed arson;]",
+    "2. The defendant (used [or attempted to use] the (device/[or] explosive)/committed the arson) in or around ______ <insert one or more of the places listed in Pen. Code, § 11413(b)>;",
+    "AND",
+    "3. The defendant committed these acts with the intent to terrorize someone else or with reckless disregard of terrorizing someone else.",
+    "*To terrorize* means to cause a person of ordinary emotions and sensibilities to fear for his or her personal safety.",
+    "A person acts with *reckless disregard* when (1) he or she is aware that his or her actions present a substantial and unjustifiable risk, (2) he or she ignores that risk, and (3) the person’s behavior is grossly different from what a reasonable person would have done in the same situation.",
+    "To decide whether the defendant (exploded or ignited [or attempted to explode or ignite] (a/an) (destructive device/[or] explosive)/committed arson), please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].",
+    "[An *explosive* is any substance, or combination of substances, (1) whose main or common purpose is to detonate or rapidly combust and (2) which is capable of a relatively instantaneous or rapid release of gas and heat.]",
+    "[An *explosive* is also any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously.]",
+    "[______ <insert type of explosive from Health & Saf. Code, § 12000> is an *explosive*.]",
+    "[A *destructive device* is ______ <insert definition from Pen. Code, § 16460>.]",
+    "[______ <insert type of destructive device from Pen. Code, § 16460> is a *destructive device*.]",
+    "[The term[s] (*explosive/*[and] *destructive device*) (is/are) defined in another instruction.]",
+    "[*Judicial officer* means a magistrate, judge, justice, commissioner, or referee of a state or federal court located in this state, or a person appointed by a court to serve in one of these capacities.]"
+  ],
+  "body_indents": [
+    0.0,
+    0.0,
+    16.0,
+    15.0,
+    16.0,
+    16.0,
+    19.0,
+    16.0,
+    19.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "bench_notes": {
+    "bench_notes": [
+      {
+        "heading": true,
+        "text": "Instructional Duty"
+      },
+      {
+        "text": "The court has a sua sponte duty to give an instruction defining the elements of the crime."
+      },
+      {
+        "text": "Give alternative 1A or 1B depending on whether the defendant is charged with exploding or igniting a destructive device or explosive, or with committing arson. Give all relevant instructions on the offense alleged. (For arson, see CALCRIM No. 1500, et seq.; for exploding or igniting destructive devices and explosives, see CALCRIM No. 2500, et seq.)"
+      },
+      {
+        "text": "In element 2, insert one or more of the places specifically protected against terrorizing. (See Pen. Code, § 11413(b).) These places are:"
+      },
+      {
+        "text": "1. Any health facility licensed under Health and Safety Code section 1250 et seq., or any place where medical care is provided by a licensed health care professional."
+      },
+      {
+        "text": "2. Any church, temple, synagogue, or other place of worship."
+      },
+      {
+        "text": "3. The buildings, offices, and meeting sites of organizations that counsel for or against abortion or among whose major activities are lobbying, publicizing, or organizing with respect to public or private issues relating to abortion."
+      },
+      {
+        "text": "4. Any place at which a lecture, film-showing, or other private meeting or presentation that educates or propagates with respect to abortion practices or policies, whether on private property or at a meeting site authorized for specific use by a private group on public property, is taking place."
+      },
+      {
+        "text": "5. Any bookstore or public or private library."
+      },
+      {
+        "text": "6. Any building or facility designated as a courthouse."
+      },
+      {
+        "text": "7. The home or office of a judicial officer."
+      },
+      {
+        "text": "8. Any building or facility regularly occupied by county probation department personnel in which the employees perform official duties of the probation department."
+      },
+      {
+        "text": "9. Any private property, if the property was targeted because of the race, color, religion, ancestry, national origin, disability, gender, or sexual orientation of the owner or occupant of the property."
+      },
+      {
+        "text": "10. Any public or private school providing instruction in kindergarten or grades 1 to 12, inclusive."
+      },
+      {
+        "text": "Depending on the device or substance used, give the bracketed definitions of “explosive” or “destructive device,” inserting the appropriate definition from Penal Code section 16460 or 16510, unless the court has already given the definition in other instructions. In such cases, the court may give the bracketed sentence stating that the term is defined elsewhere. If the case involves a specific device listed in Health and Safety Code section 12000 or Penal Code section 16460, the court may instead give the bracketed sentence stating that the listed item “is an explosive” or “is a destructive device.” For example, “A grenade is a destructive device.” However, the court may not instruct the jury that the defendant used a destructive device. For example, the court may not state that “the defendant used a destructive device, a grenade,” or “the device used by the defendant, a grenade, was a destructive device.” (*People v. Dimitrov* (1995) 33 Cal.App.4th 18, 25–26 [39 Cal.Rptr.2d 257].)"
+      },
+      {
+        "text": "If the device used is a bomb, the court may insert the word “bomb” in the bracketed definition of destructive device without further definition. (*People v. Dimitrov, supra,* 33 Cal.App.4th at p. 25.) Appellate courts have held that the term “bomb” is not vague and is understood in its “common, accepted, and popular sense.” (*People v. Quinn* (1976) 57 Cal.App.3d 251, 258 [129 Cal.Rptr. 139]; *People v. Dimitrov, supra,* 33 Cal.App.4th at p.25 [39 Cal.Rptr.2d 257].) If the court wishes to define the term “bomb,” the court may use the following definition: “A bomb is a device carrying an explosive charge fused to blow up or detonate under certain conditions.” (See *People v. Morse* (1992) 2 Cal.App.4th 620, 647, fn. 8 [3 Cal.Rptr.2d 343].)"
+      },
+      {
+        "text": "If it is alleged in element 2 that the home or office of a judicial officer was attacked (Pen. Code, § 11413(b)(7)), the final bracketed paragraph defining “judicial officer” (see Pen. Code, § 11413(c)) may be given on request."
+      },
+      {
+        "heading": true,
+        "text": "Related Instructions"
+      },
+      {
+        "text": "Penal Code section 11413 does not prohibit prosecution under Penal Code section 18740 or any other provision of law. (Pen. Code, § 11413(e).) Section 18740 prohibits the possession or explosion of any destructive device or explosive with the intent to injure or terrify any person, or with the intent to injure or destroy property. For instructions relating to the wrongful possession or explosion of destructive devices or explosives, see series 2500, Weapons, Destructive Devices, and Explosives."
+      }
+    ],
+    "authority": [
+      {
+        "text": "• Elements. Pen. Code, § 11413."
+      },
+      {
+        "text": "• Destructive Device Defined. Pen. Code, § 16460."
+      },
+      {
+        "text": "• Explosive Defined. Health & Saf. Code, § 12000. • Definition of Reckless Disregard per Pen. Code, § 11411(c). *People v. Carr* (2000) 81 Cal.App.4th 837, 845–846 [97 Cal.Rptr.2d 143] [noting that voluntary intoxication is not a defense to violations of Pen. Code, § 11411]."
+      }
+    ],
+    "lesser_included_offenses": [
+      {
+        "text": "• Arson and Attempted Arson. Pen. Code, §§ 451, 455 [when arson is charged conduct]."
+      }
+    ]
+  },
+  "excluded": {
+    "secondary_sources_lines": 4
+  },
+  "warnings": []
+}
