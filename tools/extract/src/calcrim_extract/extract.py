@@ -49,7 +49,7 @@ def _revision(lines: list[Line]) -> tuple[str | None, str | None]:
     for ln in lines:
         text = fix_glyphs(ln.text).strip()
         (legend if legend or text.startswith("*") else main).append(text)
-    join = lambda xs: canonical_spacing(join_lines(xs)) if xs else None  # noqa: E731
+    join = lambda xs: canonical_spacing(join_lines(xs)) if xs else None
     return join(main), join(legend)
 
 
@@ -88,9 +88,7 @@ def build_record(
     if not body:
         warnings.append("empty body")
 
-    sections = {
-        key: _section_paragraphs(lines, margins, hyphen_words) for key, lines in raw.sections.items()
-    }
+    sections = {key: _section_paragraphs(lines, margins, hyphen_words) for key, lines in raw.sections.items()}
     return {
         "record_version": RECORD_VERSION,
         "extractor_version": __version__,

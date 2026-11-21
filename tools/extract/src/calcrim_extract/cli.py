@@ -48,9 +48,7 @@ def cmd_download(cfg: dict, offline: bool = False) -> list[tuple[SourceFile, Pat
         got = fetch(f["url"], offline=offline)
         status = "cached" if got.from_cache else "downloaded"
         print(f"{status}: {f['url']} sha256={got.sha256}", file=sys.stderr)
-        out.append(
-            (SourceFile(f["key"], f["url"], got.sha256, f["label"], f["kind"], f["order"]), got.path)
-        )
+        out.append((SourceFile(f["key"], f["url"], got.sha256, f["label"], f["kind"], f["order"]), got.path))
     return out
 
 
@@ -98,7 +96,9 @@ def cmd_extract(cfg: dict, offline: bool) -> int:
                 "extracted_instructions": len(extracted - placeholder),
                 "missing": sorted(expected - extracted, key=_sort_key),
                 "unexpected": sorted((extracted - placeholder) - expected, key=_sort_key),
-                "supplement_status": dict(sorted(toc.supplement_status.items(), key=lambda kv: _sort_key(kv[0]))),
+                "supplement_status": dict(
+                    sorted(toc.supplement_status.items(), key=lambda kv: _sort_key(kv[0]))
+                ),
             }
         )
         for rec in records:
@@ -155,7 +155,14 @@ def cmd_extract(cfg: dict, offline: bool) -> int:
                 "release": cfg["release"],
                 "release_label": cfg["release_label"],
                 "files": [
-                    {"key": s.key, "kind": s.kind, "order": s.order, "label": s.release, "url": s.url, "sha256": s.sha256}
+                    {
+                        "key": s.key,
+                        "kind": s.kind,
+                        "order": s.order,
+                        "label": s.release,
+                        "url": s.url,
+                        "sha256": s.sha256,
+                    }
                     for s, _ in files
                 ],
             },

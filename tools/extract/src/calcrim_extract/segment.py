@@ -213,9 +213,7 @@ def paragraphs(lines: list[Line], margins: dict[int, float]) -> list[Paragraph]:
                 rel_new = ln.x0 - margins.get(ln.page, ln.x0)
                 if rel_new < rel_prev - 5:
                     new = True
-                if not new and re.match(r"^(\d+\.|<|\[)", ln.text) and re.search(
-                    r"[.;:\]>)]$", prev.text
-                ):
+                if not new and re.match(r"^(\d+\.|<|\[)", ln.text) and re.search(r"[.;:\]>)]$", prev.text):
                     new = True
         if new:
             groups.append([ln])

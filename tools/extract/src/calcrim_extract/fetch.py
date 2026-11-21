@@ -49,8 +49,7 @@ def user_agent() -> str:
     contact = os.environ.get("CALI_CORRAL_CONTACT", "").strip()
     if not contact:
         raise ContactNotSet(
-            "CALI_CORRAL_CONTACT is not set. Set it (see .env.example) before fetching "
-            "from courts.ca.gov."
+            "CALI_CORRAL_CONTACT is not set. Set it (see .env.example) before fetching from courts.ca.gov."
         )
     return f"CaliCorral-extract/{__version__} (open-source CALCRIM drafting tool; contact: {contact})"
 

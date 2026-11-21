@@ -35,8 +35,7 @@ LIGATURES = {
 
 # Characters that are expected in official text. Anything else is reported.
 _ALLOWED = set(
-    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-     " .,;:!?'\"()[]<>/-&%$#@+=§¶—–‘’“”…•é"
+    "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 .,;:!?'\"()[]<>/-&%$#@+=§¶—–‘’“”…•é"
 )
 
 

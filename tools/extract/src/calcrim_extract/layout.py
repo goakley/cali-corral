@@ -12,8 +12,8 @@ carrying the style, and re-insert blanks as explicit span objects.
 
 from __future__ import annotations
 
+from collections.abc import Iterable
 from dataclasses import dataclass, field
-from typing import Iterable
 
 import pdfplumber
 from pdfminer.converter import PDFLayoutAnalyzer
@@ -96,9 +96,7 @@ def _font_flags(fontname: str) -> tuple[bool, bool]:
 
 
 def _visible(c: dict) -> bool:
-    return c["size"] >= _MIN_VISIBLE_SIZE and not any(
-        m in c["fontname"] for m in _IGNORED_FONT_MARKERS
-    )
+    return c["size"] >= _MIN_VISIBLE_SIZE and not any(m in c["fontname"] for m in _IGNORED_FONT_MARKERS)
 
 
 def _group_rows(chars: list[dict], tol: float = 2.0) -> list[list[dict]]:
@@ -138,9 +136,7 @@ def page_lines(page, page_no: int) -> list[Line]:
         bottom = max(c["bottom"] for c in row)
         # rules drawn on this row's baseline (allow a little below the glyph bottom)
         blanks = [
-            (i, r)
-            for i, r in enumerate(rules)
-            if i not in used_rules and bottom - 4 <= r[2] <= bottom + 4
+            (i, r) for i, r in enumerate(rules) if i not in used_rules and bottom - 4 <= r[2] <= bottom + 4
         ]
         items: list[tuple[float, float, object]] = [(c["x0"], c["x1"], c) for c in row]
         for i, r in blanks:
@@ -164,11 +160,10 @@ def page_lines(page, page_no: int) -> list[Line]:
             text = c["text"]
             if prev_x1 is not None and x0 - prev_x1 > 0.2 * c["size"] and text != " ":
                 _append_text(spans, " ", c)
-            if text == " ":
-                # explicit space characters: keep at most one
-                if spans and not spans[-1].blank and spans[-1].text.endswith(" "):
-                    prev_x1 = x1
-                    continue
+            # explicit space characters: keep at most one
+            if text == " " and spans and not spans[-1].blank and spans[-1].text.endswith(" "):
+                prev_x1 = x1
+                continue
             _append_text(spans, text, c)
             prev_x1 = x1
             prev_size = c["size"]
