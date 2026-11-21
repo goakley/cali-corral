@@ -85,8 +85,28 @@ function hasVisibleText(b: RenderedBlock): boolean {
   return b.runs.some((r) => /[\p{L}\p{N}]/u.test(r.text));
 }
 
+/**
+ * Official paragraphs and elements always begin with a capital letter. When a
+ * lowercase alternative ends up first ("(Self-defense/[or] defense of
+ * another)" with only the second chosen, or a field value), capitalize its
+ * first letter. Only letter case changes, never wording.
+ */
+function capitalizeFirst(parts: string[]): string[] {
+  for (let i = 0; i < parts.length; i++) {
+    const s = parts[i]!;
+    const m = /\p{L}/u.exec(s);
+    if (m) {
+      parts[i] = s.slice(0, m.index) + s[m.index]!.toUpperCase() + s.slice(m.index + 1);
+      return parts;
+    }
+    if (/[\p{N}]/u.test(s)) return parts; // starts with a number: leave as is
+  }
+  return parts;
+}
+
 function finishBlock(b: RenderedBlock, mode: Mode): RenderedBlock {
   const cleaned = cleanJuryText(b.runs.map((r) => r.text));
+  if (b.kind !== "conj") capitalizeFirst(cleaned);
   const runs: Run[] = [];
   b.runs.forEach((r, i) => {
     const text = cleaned[i]!;
@@ -277,14 +297,15 @@ function node(n: InlineNode, ctx: Ctx, origin: Origin | undefined, sep: SepState
   if ("any" in n) return anyNode(n, ctx);
   if ("options" in n) return choice(n, ctx, origin, sep);
   if ("sep" in n) return sepNode(n.sep, sep);
-  if ("pronoun" in n) return pronoun(n.pronoun, n.forms, ctx);
+  if ("pronoun" in n) return pronoun(n.pronoun, n.forms, ctx, n.bare === true);
   if ("agree" in n) {
     const p = person(n.agree, ctx)?.pronouns;
     if (p === undefined) {
       ctx.missing.add(`${n.agree}.pronouns`);
       return [textRun(n.alt ? `(${n.sg}/${n.pl})` : n.sg, { person: n.agree })];
     }
-    return [textRun(p === "they" ? n.pl : n.sg, { person: n.agree })];
+    const plural = p === "they" && (n.onlyIf === undefined || cond(n.onlyIf, ctx));
+    return [textRun(plural ? n.pl : n.sg, { person: n.agree })];
   }
   if ("note" in n) return [];
   const never: never = n;
@@ -310,12 +331,12 @@ function field(path: string, ctx: Ctx): Run {
   return textRun(value.trim(), { field: path });
 }
 
-function pronoun(role: string, forms: string[], ctx: Ctx): Run[] {
+function pronoun(role: string, forms: string[], ctx: Ctx, bare: boolean): Run[] {
   const p = person(role, ctx)?.pronouns;
   const text = p === undefined ? undefined : pronounText(forms, p);
   if (text === undefined) {
     ctx.missing.add(`${role}.pronouns`);
-    return [textRun(`(${forms.join("/")})`, { person: role })];
+    return [textRun(bare ? forms.join("/") : `(${forms.join("/")})`, { person: role })];
   }
   return [textRun(text, { person: role })];
 }

@@ -142,7 +142,10 @@ export function semanticIssues(t: Template): ValidationIssue[] {
       if (theyForm(n.forms) === undefined) add(path, `can't derive a they-form for (${n.forms.join("/")})`);
       return;
     }
-    if ("agree" in n) return checkRole(n.agree, path);
+    if ("agree" in n) {
+      if (n.onlyIf !== undefined) checkCondition(n.onlyIf, `${path}/onlyIf`);
+      return checkRole(n.agree, path);
+    }
     if ("note" in n) {
       for (const g of n.governs ?? []) if (!questions.has(g)) add(path, `note governs unknown question "${g}"`);
       return;

@@ -100,6 +100,11 @@ export interface PronounNode {
   pronoun: string; // role id, or "defendant"
   /** Printed alternatives: masculine, feminine, and optionally they-form. */
   forms: string[];
+  /**
+   * Printed without parentheses (`he/she`), as the first option of a larger
+   * alternative such as `(he/she/[or] someone else)`.
+   */
+  bare?: true;
 }
 
 /**
@@ -112,6 +117,12 @@ export interface AgreeNode {
   pl: string;
   /** The official text prints both forms as alternatives: `(sg/pl)`. */
   alt?: true;
+  /**
+   * Use the plural form only when this condition also holds — e.g. for
+   * "(he/she/[or] someone else) was", only when "someone else" isn't selected
+   * (the verb agrees with the nearer subject).
+   */
+  onlyIf?: Condition;
 }
 
 /** A drafter note inside a paragraph. Source: `<text>`. Never rendered to the jury. */

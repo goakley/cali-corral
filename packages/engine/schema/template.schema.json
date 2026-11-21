@@ -145,7 +145,8 @@
           "required": ["pronoun", "forms"],
           "properties": {
             "pronoun": { "$ref": "#/$defs/id" },
-            "forms": { "type": "array", "minItems": 2, "maxItems": 3, "items": { "type": "string" } }
+            "forms": { "type": "array", "minItems": 2, "maxItems": 3, "items": { "type": "string" } },
+            "bare": { "const": true }
           }
         },
         {
@@ -156,7 +157,8 @@
             "agree": { "$ref": "#/$defs/id" },
             "sg": { "type": "string" },
             "pl": { "type": "string" },
-            "alt": { "const": true }
+            "alt": { "const": true },
+            "onlyIf": { "$ref": "#/$defs/condition" }
           }
         },
         {

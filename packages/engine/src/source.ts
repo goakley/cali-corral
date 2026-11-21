@@ -35,7 +35,7 @@ export function renderInlineSource(n: InlineNode): string {
     return "bare" in n && n.bare ? alts : `(${alts})`;
   }
   if ("sep" in n) return `[${n.sep}]`;
-  if ("pronoun" in n) return `(${n.forms.join("/")})`;
+  if ("pronoun" in n) return n.bare ? n.forms.join("/") : `(${n.forms.join("/")})`;
   if ("agree" in n) return n.alt ? `(${n.sg}/${n.pl})` : n.sg;
   if ("note" in n) return `<${n.note}>`;
   const never: never = n;

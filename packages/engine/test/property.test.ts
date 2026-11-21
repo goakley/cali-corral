@@ -96,8 +96,7 @@ describe.each(ids)("template %s (property)", (id) => {
         for (const b of r.blocks) {
           const text = b.runs.map((x) => x.text).join("");
           for (const pr of textProblems(text)) problems.push(`${pr}: ${JSON.stringify(text)}`);
-          const startsWithUserText = b.runs[0]?.origin?.field?.startsWith("text.") ?? false;
-          if (b.kind !== "conj" && !startsWithUserText && !/^[\p{Lu}\p{N}“"‘]/u.test(text)) {
+          if (b.kind !== "conj" && !/^[\p{Lu}\p{N}“"‘]/u.test(text)) {
             problems.push(`block does not start with a capital: ${JSON.stringify(text.slice(0, 40))}`);
           }
         }

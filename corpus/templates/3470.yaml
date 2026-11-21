@@ -1,0 +1,150 @@
+# CALCRIM No. 3470. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "3470"
+title: "Right to Self-Defense or Defense of Another (Non-Homicide)"
+source:
+  file: calcrim-2026
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2008, August 2009, February 2012, August 2012, March 2022, February 2025, October 2025"
+  body_sha256: "979fb11e2da2b97c25d8c2e7a8a5bcd5fedee637f1db57cdf15d346320a82c1c"
+review: machine-checked
+people:
+  third_party: { label: "Third party defended", uses: [name] }
+  victim: { label: "Alleged victim", uses: [name] }
+questions:
+  - id: defense
+    type: multi
+    prompt: "Which defenses?"
+    options: [{ id: self, label: "self-defense" }, { id: another, label: "defense of another" }]
+  - { id: crimes_plural, type: boolean, prompt: "More than one crime charged?" }
+  - id: protected
+    type: multi
+    prompt: "The defendant reasonably believed that … was in imminent danger"
+    options:
+      - { id: self, label: "the defendant (he/she)" }
+      - { id: other, label: "someone else" }
+      - { id: third, label: "a named third party" }
+  - { id: touched_unlawfully, type: boolean, prompt: "Include “or was in imminent danger of being touched unlawfully” in element 1?" }
+  - id: danger_kind
+    type: multi
+    prompt: "The defendant must have believed there was…"
+    options:
+      - { id: injury, label: "imminent danger of bodily injury" }
+      - { id: touched, label: "an imminent danger of being touched unlawfully" }
+  - id: belief_who
+    type: multi
+    prompt: "Danger to…"
+    options: [{ id: self, label: "the defendant" }, { id: other, label: "someone else" }]
+  - { id: imminent_def, type: boolean, prompt: "Give the definition of imminent (on request)?" }
+  - { id: slightest_touching, type: boolean, prompt: "Give the “slightest touching” paragraph?" }
+  - { id: untrue_information, type: boolean, prompt: "Give the paragraph on relying on untrue information?" }
+  - { id: victim_threatened_defendant, type: boolean, prompt: "Give the paragraph on the victim's past threats or harm to the defendant?" }
+  - { id: victim_threatened_defendant_others, type: boolean, prompt: "Include “or others”?" }
+  - { id: victim_threatened_others, type: boolean, prompt: "Give the paragraph on the victim's past threats or harm to others, known to the defendant?" }
+  - { id: act_more_quickly, type: boolean, prompt: "Give the paragraph on acting more quickly after past threats?" }
+  - { id: threat_from_other, type: boolean, prompt: "Give the paragraph on a threat received from someone else?" }
+  - { id: no_retreat, type: boolean, prompt: "Give the paragraph on no duty to retreat?" }
+  - id: danger_of
+    type: choice
+    prompt: "…until the danger of … has passed"
+    options: [{ id: death, label: "death" }, { id: injury, label: "bodily injury" }, { id: crime, label: "a named crime" }]
+body:
+  - - any: defense
+      options: ["Self-defense", [{ sep: "or" }, " defense of another"]]
+    - " is a defense to "
+    - { field: text.crimes, hint: "insert list of pertinent crimes charged" }
+    - ". The defendant is not guilty of "
+    - { when: ["!crimes_plural", crimes_plural], options: ["that", ["those crime", { opt: "s", if: crimes_plural }]] }
+    - " if "
+    - { pronoun: defendant, forms: [he, she] }
+    - " used force against the other person in lawful "
+    - { any: defense, options: ["self-defense", [{ sep: "or" }, " defense of another"]] }
+    - ". The defendant acted in lawful "
+    - { any: defense, options: ["self-defense", [{ sep: "or" }, " defense of another"]] }
+    - " if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant reasonably believed that "
+          - any: protected
+            options:
+              - [{ pronoun: defendant, forms: [he, she], bare: true }]
+              - [{ sep: "or" }, " someone else"]
+              - [{ sep: "or" }, " ", { field: third_party.name, hint: "insert name of third party" }]
+          - " "
+          - { agree: defendant, sg: was, pl: were, onlyIf: "!protected~other & !protected~third" }
+          - " in imminent danger of suffering bodily injury "
+          - { opt: "or was in imminent danger of being touched unlawfully", if: touched_unlawfully }
+        end: ";"
+      - { n: "2", text: "The defendant reasonably believed that the immediate use of force was necessary to defend against that danger", end: ";" }
+      - { n: "3", and: "AND", text: "The defendant used no more force than was reasonably necessary to defend against that danger", end: "." }
+  - - "Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be. The defendant must have believed there was "
+    - any: danger_kind
+      options:
+        - - "imminent danger of bodily injury to "
+          - any: belief_who
+            options: [[{ pronoun: defendant, forms: [himself, herself], bare: true }], [{ sep: "or" }, " someone else"]]
+        - - { sep: "or" }
+          - " an imminent danger that "
+          - any: belief_who
+            options: [[{ pronoun: defendant, forms: [he, she], bare: true }], [{ sep: "or" }, " someone else"]]
+          - " would be touched unlawfully"
+    - ". Defendant’s belief must have been reasonable and "
+    - { pronoun: defendant, forms: [he, she] }
+    - " must have acted because of that belief. The defendant is only entitled to use that amount of force that a reasonable person would believe is necessary in the same situation. If the defendant used more force than was reasonable, the defendant did not act in lawful "
+    - { any: defense, options: ["self-defense", [{ sep: "or" }, " defense of another"]] }
+    - "."
+  - { note: "The following definition may be given if requested.", governs: [imminent_def] }
+  - opt:
+      - - "Danger is "
+        - { em: "imminent" }
+        - " if, when the defendant used force, the danger actually existed or the defendant reasonably believed it existed. The danger must seem immediate and present, so that it must be instantly dealt with. It may not be merely prospective or in the near future."
+    if: imminent_def
+  - "When deciding whether the defendant’s beliefs were reasonable, consider all the circumstances as they were known to and appeared to the defendant and consider what a reasonable person in a similar situation with similar knowledge would have believed. If the defendant’s beliefs were reasonable, the danger does not need to have actually existed."
+  - opt:
+      - "The slightest touching can be unlawful if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind."
+    if: slightest_touching
+  - opt:
+      - - "The defendant’s belief that "
+        - any: belief_who
+          options: [[{ pronoun: defendant, forms: [he, she], bare: true }], [{ sep: "or" }, " someone else"]]
+        - " "
+        - { agree: defendant, sg: was, pl: were, onlyIf: "!belief_who~other" }
+        - " threatened may be reasonable even if "
+        - { pronoun: defendant, forms: [he, she] }
+        - " relied on information that was not true. However, the defendant must actually and reasonably have believed that the information was true."
+    if: untrue_information
+  - opt:
+      - - "If you find that "
+        - { field: victim.name, hint: "insert name of victim" }
+        - " threatened or harmed the defendant "
+        - { opt: "or others", if: victim_threatened_defendant_others }
+        - " in the past, you may consider that information in deciding whether the defendant’s conduct and beliefs were reasonable."
+    if: victim_threatened_defendant
+  - opt:
+      - - "If you find that the defendant knew that "
+        - { field: victim.name, hint: "insert name of victim" }
+        - " had threatened or harmed others in the past, you may consider that information in deciding whether the defendant’s conduct and beliefs were reasonable."
+    if: victim_threatened_others
+  - opt: ["Someone who has been threatened or harmed by a person in the past is justified in acting more quickly or taking greater self-defense measures against that person."]
+    if: act_more_quickly
+  - opt:
+      - - "If you find that the defendant received a threat from someone else that "
+        - { pronoun: defendant, forms: [he, she] }
+        - " reasonably associated with "
+        - { field: victim.name, hint: "insert name of victim" }
+        - ", you may consider that threat in deciding whether the defendant was justified in acting in "
+        - { any: defense, options: ["self-defense", [{ sep: "or" }, " defense of another"]] }
+        - "."
+    if: threat_from_other
+  - opt:
+      - - "A defendant is not required to retreat. He or she is entitled to stand his or her ground and defend himself or herself and, if reasonably necessary, to pursue an assailant until the danger of "
+        - { choice: danger_of, options: ["death", "bodily injury", [{ field: text.danger_crime, hint: "insert crime" }]] }
+        - " has passed. This is so even if safety could have been achieved by retreating."
+    if: no_retreat
+  - - "The People have the burden of proving beyond a reasonable doubt that at least one of the three elements of "
+    - { any: defense, options: ["self-defense", [{ sep: "or" }, " defense of another"]] }
+    - " listed above is not met in this case. If the People have not met this burden, you must find the defendant not guilty of "
+    - { field: text.crimes_charged, hint: "insert crime(s) charged" }
+    - "."
