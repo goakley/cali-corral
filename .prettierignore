@@ -1,0 +1,7 @@
+data/
+.cache/
+tools/extract/.venv/
+pnpm-lock.yaml
+tests/golden/
+docs/
+*.md
