@@ -109,7 +109,7 @@ The core workflow runs in five steps, with no setup step up front. The sections 
 ### 7. Freshness and updates
 
 - On launch (and at least weekly if left open), check a published manifest for a newer instruction data release.
-- Per-instruction status: if the official text was revised in a release newer than the app's encoding, the instruction is flagged and export is blocked until the user explicitly overrides.
+- Per-instruction status: if the official text (its normalized-text hash) changed in a release newer than the app's encoding, the instruction is flagged and export is blocked until the user explicitly overrides.
 - Schedule-based warning that works offline: Judicial Council releases come at February and October meetings, so if the data predates the most recent expected release by more than 30 days, the app warns even without a network.
 - When a case file is reopened after a data update, the app shows which of its instructions changed and the before/after text.
 - Revoked or renumbered instructions are flagged in saved cases.
@@ -140,7 +140,7 @@ The biggest risk is a template that renders text that looks right but is wrong. 
 | # | Gotcha | Why it matters | Safeguard |
 | --- | --- | --- | --- |
 | 1 | Silent template errors | A dropped bracket or mis-wired condition produces plausible but wrong text; instructional error is a classic ground for appeal | Round-trip and property tests on every template; maintainer approval for changes; review level shown; highlighted template view in the app |
-| 2 | PDF extraction artifacts | Extracted text already shows glitches like "offıcer" (broken "fi" ligature), hyphenation and page-break debris | Normalization pass, dictionary and character checks, round-trip test against a clean source |
+| 2 | PDF extraction artifacts | Extracted text already shows glitches like "offıcer" (broken "fi" ligature), hyphenation and page-break debris. Two worse problems were found in Phase 0. Both official PDFs carry **invisible duplicate text layers** (an OCR layer in the edition; a tagged-text layer in the supplement that doubles every character). And **blanks are drawn lines, not characters**, so naive extraction silently loses every fill-in blank | Invisible text (PDF render mode 3) dropped at the parser level; blanks recovered from drawn baseline rules; normalization pass, dictionary and character checks; title reconciliation against the tables of contents; round-trip test against the canonical source text |
 | 3 | Prose conditions need legal judgment | Notes like "give element 7 when instructing on self-defense" can't be decided by software | Every condition becomes a question for the user, shown with its note and Bench Notes; never inferred |
 | 4 | Choice-dependent punctuation | `(;/.)` and `[AND]` change with which elements are kept | Element-list node computes numbering, separators and "AND" |
 | 5 | Nested brackets and parentheses | Options inside options in one sentence | Template format is a tree; schema allows nesting |
@@ -151,7 +151,7 @@ The biggest risk is a template that renders text that looks right but is wrong. 
 | 10 | Edits create special instructions | Substantially modified approved instructions need citations under rule 2.1055 | Diff tracking, "modified" flag, citation prompt |
 | 11 | Court paper formatting | Proposed instructions must follow the trial court rules for papers (pleading-style layout) | Tested .docx template; sample outputs reviewed by practicing attorneys |
 | 12 | Confidential names | Some victims and witnesses must be identified as John/Jane Doe | Doe naming in the person model; local-only storage; nothing sent to AI |
-| 13 | Pronouns | CALCRIM offers his/her; the guide says the court may use they/them and should respect personal pronouns | Pronouns come from the person record and include they/them, with verb agreement |
+| 13 | Pronouns | CALCRIM offers his/her; the guide says the court may use they/them and should respect personal pronouns | Pronouns come from the person record and include they/them. Verb agreement requires per-template annotations (see Template format: Pronouns and agreement) |
 | 14 | Title vs. instruction | Titles are not part of the instruction and may be removed before the jury hears them | Separate title field; jury-copy export drops titles |
 | 15 | Review backlog | Two volumes of instructions; each needs careful human review | Ship every instruction machine-checked and labeled that way; human review starts with the most-used ones; flags steer what gets reviewed next |
 | 16 | Liability | Lawyers rely on the output | Open-source "as is" license plus clear in-app disclaimers; get a quick legal review before release |
@@ -192,37 +192,86 @@ Sharing one rendering library between the app and the tooling means the code tha
 
 ### Template format
 
-Each instruction is one file: metadata, questions, and a body tree. Node types:
+Each instruction is one file: metadata, people roles, questions, and a body tree. **The normative definition is the JSON Schema at `packages/engine/schema/template.schema.json`**, plus the semantic rules enforced by the validator. Full details are in `docs/design/technical-design.md` §4. This section summarizes format v1 and the extensions adopted after Phase 0.
 
-- **text**: literal words
-- **field**: a blank, bound to case data (`officer.name`, `count.number`) or free text
-- **optional**: shown when a condition holds (bracketed text)
-- **choice**: exactly one of several branches (parenthetical alternatives, labeled alternatives); pronoun choices bind to a person's pronouns
-- **elementList / element**: numbered elements; the engine computes numbering, `;` vs `.`, and where "AND" goes
-- **note**: drafter-facing text that is never rendered (angle-bracket notes), linked to the question it governs
-- **related**: a pointer to another instruction, surfaced as a suggestion
+**Top level:** `id`, `title`, `source` (source file, release, revision line, and `body_sha256`, the hash of the normalized official text), `review` level, `people` (roles besides the always-present defendant, each with the fields it uses: name, title, agency), `related` instructions, `questions`, `body`.
 
-Illustrative sketch (not final syntax, abridged):
+**Questions.** Questions are `boolean` (yes/no), `choice` (exactly one) or `multi` (one or more). A choice question can carry `articleFor` to suggest "a" or "an" from a field's value. A question is shown only when rendering actually consults it under the current answers, so dependent questions appear and disappear automatically. Every question must be used, and question ids are the stable contract with saved case files.
+
+**Conditions.** A small expression language used wherever content depends on answers:
+
+| Form | True when |
+| --- | --- |
+| `q` | boolean question `q` is answered yes |
+| `q=opt` | choice question `q` is answered `opt` |
+| `q~opt` | multi question `q` includes `opt` |
+| `q>n` | multi question `q` has more than `n` options selected |
+| `!a`, `a & b`, `a \| b`, `( )` | negation, conjunction, disjunction, grouping |
+| `@multiple_defendants` | built-in flag; always false in v1 |
+
+**Inline nodes:**
+
+| Node | Official markup | Jury text |
+| --- | --- | --- |
+| text | literal | literal |
+| emphasis | italic term | emphasized run |
+| field | `______ <insert …>` | the bound value: `count`, free text, or a person role's name, title or agency |
+| optional (`opt` + `if`) | `[…]` | content when the condition holds |
+| choice | `(a/b/c)`, or bare `a/b` inside brackets (`[grand/petty]`) | the option the user picked |
+| computed choice (`when`) | `(;/.)`-style or `(Y/y)`-style alternatives decided by other answers | the first option whose condition holds; none → nothing |
+| pick one or more (`any`) with series connectors (`sep`) | `(a[,]/[or] b/[or] c)` | the selected options, joined by the series rule (Rendering rules, item 1) |
+| pronoun | `(he/she)`, `(his/her)`, `(he/she/they)` | the bound person's pronoun |
+| agreement (`agree`) | `was`, or `(is/are)` | plural form when the bound person uses they/them; `onlyIf` keeps it singular when another subject is selected ("(he/she/[or] someone else) was") |
+| note | `<Give element 4 when …>` | nothing; shown beside the questions it governs |
+
+**Blocks:** paragraphs; bullets (dropped in jury mode when empty); standalone notes; optional blocks whose brackets span several paragraphs; and element lists.
+
+**Element lists.** Elements carry their printed label (`1`, `1A`, `(4/5)`, `a`), printed end punctuation (`;`, `.`, `(;/.)`, `:` or none) and printed conjunction (`AND`, `[AND]`, `OR`, `[OR]`, including `[AND` printed inside an optional element's own brackets). The engine computes jury numbering, end punctuation and conjunction placement. Lists can also be:
+
+- **alternative element groups** (labeled alternatives such as 1A / [OR] / 1Bi–1Bii), one or more of which is selected
+- **lettered sub-lists** (`style: alpha`)
+- **plain numbered lists** of complete sentences (`plain: true`, e.g. verdict-form directions), whose printed punctuation is kept and which get no conjunction
+
+**Pronouns and agreement.** Pronoun forms come from the person record: he, she or they. A printed they-form is used when CALCRIM has one; otherwise it is derived (he/she → they, him/her → them, his/her → their, his/hers → theirs, himself/herself → themselves). **In v1, they/them support covers a single person and depends on per-template agreement annotations.** Every verb that must change for they/them needs an `agree` node: the 84 instructions that print `(is/are)`-style alternatives, and many more with unmarked verbs ("(he/she) was"). Machine checks flag unannotated "they is/was/has/does" but can't find every case. The semantic pass must add these annotations before an instruction is machine-checked. Phase 3 then covers only agreement across multiple defendants.
+
+**Extensions adopted after Phase 0** (to be added to schema v1 before the drafting brief needs them):
+
+- **Errata.** The official text has flaws a faithful tree can't express: 47 instructions have unbalanced brackets or parentheses, and a few have spacing typos (2670's "<insert name of felony>created"). An erratum is a template attribute recording the exact location, the kind, the evidence (PDF page, confirmed visually) and the reviewer who approved it. There are two kinds:
+  - **Missing closer.** The template keeps its well-formed tree, and source mode omits the closer the official text lacks, so the round trip still matches the official text character for character.
+  - **Spacing.** Jury mode fixes a spacing-only typo (e.g. inserts the missing space), while source mode reproduces the official text exactly. Errata never change wording. This kind is approved by the owner, pending confirmation by the legal advisor.
+
+  Every erratum is reviewed like a template change, listed in the template's review notes, and **always visible in the app's highlighted-template view**.
+- **Repeatable blocks.** 50 instructions print identical copies of a paragraph to mean "repeat as needed" (e.g. one per count or item). A repeatable block holds one copy of the content, the number of copies CALCRIM prints (so source mode still round-trips), and a prompt for how many the user needs. In jury mode each copy gets its own answers and fields.
+- **Linked questions.** A choice node can map its options onto a subset of another question's options instead of declaring its own question. For example, 860's element 1A lists six weapons and its introduction lists seven. When the linked answer falls within the mapped subset, the choice is answered automatically and not asked again. Otherwise it is asked, with only the mapped options. The same thing is never asked twice.
+
+**Not in v1: counts and plurals.** 290 instructions use `[s]` plural markers (`defendant[s]`, `count[s]`, `crime[s]`), often tied to the number of counts or crimes charged. In v1 each marker is a yes/no question. The multi-count phase should instead model plurality from the case data (counts, crimes, defendants) and derive the markers from it, rather than asking one question per marker.
+
+Abridged example (945):
 
 ```yaml
+schema: 1
 id: "945"
 title: "Battery Against Peace Officer (Pen. Code, §§ 242, 243(b), (c)(2))"
-source:
-  release: "<CALCRIM release name>"
-  revision_line: "<New …; Revised …>"
-  pdf_sha256: "<hash of the official PDF>"
+source: { file: calcrim-2026, release: "2026-10", revision_line: "New January 2006; Revised …", body_sha256: "…" }
+review: machine-checked
+people:
+  officer: { label: "Peace officer", uses: [name, title] }
 questions:
-  - id: felony
-    type: boolean
-    prompt: "Are you instructing on felony battery against a peace officer?"
-    note: "Give element 4 when instructing on felony battery against a peace officer."
+  - { id: unlawfully, type: boolean, prompt: "Include “and unlawfully”?" }
+  - { id: felony, type: boolean, prompt: "Are you instructing on felony battery against a peace officer?" }
 body:
-  - elementList:
-      - element: [ {field: officer.name}, " was a peace officer performing the duties of ",
-                   {choice: article}, " ", {field: officer.title} ]
-      - element: [ "The defendant willfully ", {optional: "and unlawfully", if: unlawfully},
-                   " touched ", {field: officer.name}, " in a harmful or offensive manner" ]
-      - element: { if: felony, content: [ {field: officer.name}, " suffered injury as a result of the touching" ] }
+  - elements:
+      - n: "2"
+        end: "(;/.)"
+        text: ["The defendant willfully ", { opt: "and unlawfully", if: unlawfully },
+               " touched ", { field: officer.name, hint: "insert officer's name, excluding title" },
+               " in a harmful or offensive manner"]
+      - { note: "Give element 4 when instructing on felony battery against a peace officer.", governs: [felony] }
+      - n: "4"
+        if: felony
+        and: "AND"            # printed "[AND" inside the element's brackets
+        end: "(;/.)"
+        text: [{ field: officer.name }, " suffered injury as a result of the touching"]
 ```
 
 ### Rendering modes
@@ -231,12 +280,43 @@ body:
 - **Annotated mode:** final text with each user choice highlighted and linked to its question. Used in preview.
 - **Source mode:** re-emits the official markup (`[ ]`, `( / )`, `< >`) with no choices applied. Used only for the round-trip test.
 
+### Rendering rules
+
+Some official markup doesn't fully determine the jury text. The engine resolves these cases with fixed, documented rules (ADR 0005; technical design §5.4–5.5 and §12). The rules change only letter case, punctuation and where printed connectors go. They never change wording, and they always produce text the printed markup allows:
+
+1. **Series connectors.** `[,]`, `[or]` and `[and]` are punctuation for whichever items are kept, not tied to the item they are printed beside (`[and]` is often printed only before the last item). With comma connectors, the conjunction goes before the last selected item, with commas after each non-last item when three or more are selected. Without them, the conjunction repeats ("A or B or C").
+2. **Capitalization.** The first letter of every paragraph and element is capitalized, so a lowercase alternative chosen first reads correctly.
+3. **Element lists.** Kept elements are numbered 1…n. Printed `;`, `.` and `(;/.)` ends become `;` on every element but the last and `.` on the last. The list's conjunction (AND, OR) goes before the last element when there are at least two.
+4. **AND inside an optional element** (`[AND` … `4. …]`) is used only when that element is last, like `[AND]`.
+5. **Alternative element groups.** With one alternative selected, its elements are numbered as ordinary consecutive elements (with only 1B chosen, 1Bi and 1Bii become elements 1 and 2). With several selected, each keeps its printed label re-based on the group's number (1A, 1Bi), and the alternatives are joined by the group's conjunction.
+6. **Computed punctuation with nothing selected.** `[or socioeconomic status] (./,)` renders no punctuation when its item is omitted.
+7. **Pronoun they-forms.** Derived as in Template format: Pronouns and agreement, with "themselves" for one person (owner decision).
+8. **Jury text cleanup.** Spaces left by omitted content collapse. No space is left before closing punctuation (except a period starting a number, ".50 BMG") or after an opening bracket or quote. Paragraphs left with no letters or digits are dropped.
+9. **Faithfulness to official flaws.** Where the official text has a flaw (a sentence whose period sits inside an optional bracket in 3517, a repeated "or" in 200), it is reproduced as printed and flagged in the review notes. The only exception is a reviewed spacing erratum.
+
+**These rules need a practicing attorney's sign-off as part of Gate 0.** If an attorney rejects a rule, the rule is changed in the engine and every affected render is regenerated before Gate 0 is met.
+
 ### Verification
 
-- **Round-trip test:** for every template, source-mode output must equal the normalized official text of that instruction, character for character. Any difference fails CI.
-- **Property tests:** render many random answer combinations per template; fail on leftover markup characters, unfilled fields, doubled spaces or punctuation, or element lists ending without a period.
-- **Golden files:** a few hand-checked renders per instruction (reviewed by an attorney) are kept as regression tests.
-- **Review tiers:** at launch every instruction ships as machine-checked (an AI draft that passes the round-trip and property tests) and is labeled that way in the app. Human-reviewed status is earned over time, starting with the most-used instructions. Changes after launch, including flag-driven fixes, need maintainer approval on the pull request (enforced by branch protection).
+- **Normalized official text** is the *canonical source text* produced by the extractor (ADR 0004; technical design §3). It has one string per paragraph, with `______` for each drawn blank, `<…>` for notes and insert hints, and `*…*` for emphasis outside notes. Canonical spacing rules remove layout accidents (glyph gaps after brackets, spaces after slashes, gaps between a blank and the following punctuation). Ligatures are expanded and the edition's broken "fi" is repaired. Curly quotes, dashes and § are kept exactly as published.
+- **Round-trip test:** for every template, source-mode output must equal the normalized official text of that instruction, character for character. The title, revision line and `body_sha256` must also match. Any difference fails CI.
+- **Bench Notes** are extracted and displayed, but not round-tripped. They are never rendered into instruction text. Their headings come from a heuristic and get spot checks only.
+- **Property tests:** render many random answer combinations per template (500 per run, fictional data, random he/she/they). They fail on:
+  - leftover markup characters, unfilled fields or unanswered questions
+  - doubled spaces or punctuation, or a space before punctuation
+  - a block not starting with a capital letter
+  - element lists ending without a period
+  - they/them agreement errors ("they was")
+  - nondeterminism
+- **Markup consistency (property):** every computed `;` or `.` and every AND placement must be one the printed markup allows. `;` is never last and `.` is always last. An unbracketed AND on a required element appears only when that element is last. Every last element has a printed conjunction before it.
+- **Golden files:** a few hand-checked renders per instruction (reviewed by an attorney) are kept as regression tests. Candidates are generated for review and are never promoted automatically.
+- **Errata** are checked like everything else. Source mode with errata applied must still round-trip, and every erratum must name its evidence and reviewer.
+- **Review tiers.** There are three levels:
+  - **Skeleton:** a template drafted mechanically from the official markup. It passes the schema, round-trip and render checks, but its questions, people roles, pronoun targets, agreement annotations, prompts and computed punctuation haven't been worked out. **Skeletons never ship to users.** In the manifest they count as `not_encoded`.
+  - **Machine-checked:** the semantic pass is done and the template passes every automated check: schema and semantic validation, round trip, property tests including markup consistency and agreement, and goldens where they exist. The semantic pass merges repeated alternatives into shared questions, binds fields to people roles and case data, picks the target person of every pronoun, adds agreement annotations, writes prompts and encodes computed punctuation. It may be AI-assisted in maintainer tooling and is reviewed by a maintainer on the pull request. At launch every instruction ships at least machine-checked and is labeled that way in the app.
+  - **Human-reviewed:** a vetted reviewer has approved the template and its renders. This status is earned over time, starting with the most-used instructions.
+
+  Changes after launch, including flag-driven fixes, need maintainer approval on the pull request (enforced by branch protection).
 
 ### Ingestion pipeline
 
@@ -244,7 +324,7 @@ body:
 2. Extractor splits it into instructions and normalizes text (ligatures, hyphenation, headers and footers).
 3. For instructions whose text changed, a diff against the previous release is generated.
 4. The manifest is updated immediately to mark changed instructions **superseded**, and a quick data release goes out. Users are warned before re-encoding is done.
-5. AI drafter proposes new or updated templates; validator runs.
+5. The drafter proposes new or updated templates: a mechanical skeleton from the official markup, then a semantic pass (which may be AI-assisted) that makes it machine-checked. The validator runs.
 6. A pull request is opened. CI posts the rendered template, the source text and the diff as a comment, and maintainers review on GitHub (in-app review may come later).
 7. Merging triggers a build that compiles, signs and deploys the corpus alongside the app, usually within minutes.
 
@@ -276,7 +356,9 @@ A small signed JSON file at a stable URL (served from the app's own origin):
 - `corpus_version`, `published_at`, `signature`
 - `source_release`: name and date of the CALCRIM edition or supplement the corpus reflects
 - `expected_next_release`: the next February or October Judicial Council meeting, plus a 30-day grace period
-- Per instruction: `number`, `title`, `status` (current / superseded / revoked / not\_encoded), review level (machine-checked / reviewed), open flag count, `source_revision`, `template_hash`
+- Per instruction: `number`, `title`, `status` (current / superseded / revoked / not\_encoded / reserved), review level (machine-checked / reviewed), open flag count, `source_revision`, `body_sha256`, `template_hash`
+
+`body_sha256` is the SHA-256 of the instruction's normalized official text, the same hash each template records in its `source`. An instruction becomes **superseded** only when a newer release changes this hash. The revision line alone can't decide it: a supplement revision that touches only the Bench Notes (marked with `*` in the supplement) leaves the instruction text and its hash unchanged, so the template stays current. Supplements contain only revised and new instructions, so the corpus for a release is the edition merged with its supplement instruction by instruction.
 
 The app verifies the signature, compares against its installed corpus, and applies the status rules in Features §7. Offline, it falls back to the schedule check using `expected_next_release`.
 
@@ -284,12 +366,14 @@ The app verifies the signature, compares against its installed corpus, and appli
 
 The app ships as a static, offline-capable web app, because locked-down work laptops often block installing executables but allow websites. Storage size is not a problem; how long browser storage lasts, and whether users can trust the hosted code, are the real issues.
 
-**Storage budget** (sizes are estimates, to be measured in Phase 0)
+**Storage budget** (measured in Phase 0 on the 2026-10 corpus of 782 instructions)
 
-| Data | Rough size | Where it lives |
+| Data | Measured size | Where it lives |
 | --- | --- | --- |
-| App code (UI, engine, .docx library) | a few MB | Service worker cache |
-| Full instruction corpus (templates, Bench Notes, manifest) | \~10–30 MB uncompressed, less compressed | IndexedDB or Cache API |
+| App code (UI, engine, .docx library) | a few MB; the engine alone is 249 KB minified, 78 KB gzipped (including schema validation and YAML parsing, which the app doesn't need) | Service worker cache |
+| Compiled templates | \~5.6 MB raw, \~1.8 MB gzipped (projected from the pilot: \~7.2 KB, \~2.3 KB gzipped each) | IndexedDB or Cache API |
+| Bench Notes, all instructions | 2.5 MB raw, 1.0 MB gzipped | IndexedDB or Cache API |
+| Full corpus (templates, Bench Notes, manifest) | \~8 MB raw, \~3 MB gzipped | IndexedDB or Cache API |
 | One case file | tens of KB | IndexedDB, plus files the user saves |
 | Exports | generated on demand | User's downloads |
 
@@ -341,10 +425,10 @@ Each phase ships only after its gate is met. Gates are criteria, not dates.
 **Phase 0: Foundations**
 - Template schema; rendering engine with jury, annotated and source modes
 - PDF extractor and normalization; round-trip and property tests in CI
-- CI previews on pull requests; AI-draft and machine-check all ~800 instructions
+- CI previews on pull requests; draft and machine-check all ~800 instructions (skeleton plus semantic pass, as defined under Verification)
 - Note: `docs/PHASE-0.md` covers only the first part of this phase (foundations plus a 12-instruction pilot) and ends at its own stop point. Drafting the remaining instructions is a separate brief that follows owner review.
 
-> **Gate 0:** every template passes the round-trip test, and an attorney approves sample output.
+> **Gate 0:** every template passes the round-trip test, and a practicing attorney approves sample output (the golden candidates) **and signs off on the rendering rules** (High-level design: Rendering rules).
 
 **Phase 1: First release (single defendant)**
 - Instruction picker, questionnaire with on-demand case facts, live preview, edit tracking
@@ -356,12 +440,12 @@ Each phase ships only after its gate is met. Gates are criteria, not dates.
 **Phase 2: Breadth**
 - Template editor; proposed fixes become pull requests via the relay
 - Pending community fixes users can apply locally; report status tracking
-- Human review of the most-used instructions; multi-count cases
+- Human review of the most-used instructions; multi-count cases, with plurality (`[s]` markers on counts and crimes) derived from the case data rather than asked marker by marker
 
 > **Gate 2:** one full February or October CALCRIM release handled end to end.
 
 **Phase 3: Multiple defendants**
-- Agreement annotations in templates (plurals, verbs, pronouns)
+- Agreement across multiple defendants (plurals, verbs, pronouns). Single-person they/them agreement is already annotated in v1
 - Per-defendant elements and applicability
 - Optional in-app review for maintainers (GitHub stays the store)
 

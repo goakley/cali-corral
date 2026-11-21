@@ -168,6 +168,8 @@ The full corpus is about 8 MB raw and about 3 MB gzipped, well under the spec's 
 
 ## 7. Recommended changes to `docs/SPEC.md`
 
+Items 1–12 were adopted into `docs/SPEC.md` on 2026-11-20 (owner). The errata, repeatable-block and linked-question extensions are specified there but not yet implemented in schema v1. Item 13 (corpus size) awaits an owner decision.
+
 1. **Template format.** Replace the illustrative sketch with the v1 node set:
    - computed choices (`when`)
    - pick-one-or-more with series connectors (`any` / `sep`)
