@@ -88,14 +88,16 @@ describe.each(ids)("template %s (property)", (id) => {
   it(`renders clean jury text for ${RUNS} random answer sets`, () => {
     fc.assert(
       fc.property(inputArb(t), (input) => {
-        const r = render(t, input, "jury");
+        // Annotated mode has the same text as jury mode, plus run origins.
+        const r = render(t, input, "annotated");
         const problems: string[] = [];
         if (r.unanswered.length) problems.push(`unanswered: ${r.unanswered.join(", ")}`);
         if (r.missingFields.length) problems.push(`missing: ${r.missingFields.join(", ")}`);
         for (const b of r.blocks) {
           const text = b.runs.map((x) => x.text).join("");
           for (const pr of textProblems(text)) problems.push(`${pr}: ${JSON.stringify(text)}`);
-          if (b.kind !== "conj" && !/^[\p{Lu}\p{N}“"‘]/u.test(text)) {
+          const startsWithUserText = b.runs[0]?.origin?.field?.startsWith("text.") ?? false;
+          if (b.kind !== "conj" && !startsWithUserText && !/^[\p{Lu}\p{N}“"‘]/u.test(text)) {
             problems.push(`block does not start with a capital: ${JSON.stringify(text.slice(0, 40))}`);
           }
         }
@@ -112,6 +114,7 @@ describe.each(ids)("template %s (property)", (id) => {
         }
         // determinism
         expect(toPlainText(render(t, input, "jury"))).toBe(plain);
+        expect(toPlainText(render(t, input, "annotated"))).toBe(plain);
         expect(problems).toEqual([]);
       }),
       { numRuns: RUNS, seed: 20261120 },

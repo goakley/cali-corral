@@ -1,0 +1,263 @@
+# CALCRIM No. 2670. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "2670"
+title: "Lawful Performance: Peace Officer"
+source:
+  file: calcrim-2026
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2016, March 2022, September 2022, October 2025"
+  body_sha256: "490d24145e940f2f099684c343315c22f83b8121a6bb770aab4cd901ff687b50"
+review: machine-checked
+people:
+  officer: { label: "Peace officer", uses: [name] }
+  fleeing_felon: { label: "Fleeing felon", uses: [name] }
+questions:
+  - id: not_lawful_if
+    type: multi
+    prompt: "A peace officer is not lawfully performing duties if…"
+    options:
+      - { id: arrest, label: "unlawfully arresting or detaining someone" }
+      - { id: force, label: "using unreasonable or excessive force" }
+  # A. Unlawful detention
+  - { id: sec_detention, type: boolean, prompt: "Give paragraph A on unlawful detention?" }
+  - { id: detention_consent, type: boolean, prompt: "Include “the person consents to the detention or if”?" }
+  # B. Unlawful arrest
+  - { id: sec_arrest, type: boolean, prompt: "Give paragraph B on unlawful arrest?" }
+  - id: arrest_basis
+    type: multi
+    prompt: "A peace officer may legally arrest someone…"
+    options:
+      - { id: warrant, label: "on the basis of an arrest warrant" }
+      - { id: probable_cause, label: "if he or she has probable cause" }
+  - { id: misd_presence, type: boolean, prompt: "Give the paragraph on warrantless arrest for most misdemeanors or infractions?" }
+  - { id: warrantless_felony, type: boolean, prompt: "Give the paragraph on warrantless arrest for a felony or misdemeanor not requiring presence?" }
+  - id: warrantless_kind
+    type: multi
+    prompt: "Warrantless arrest for…"
+    options:
+      - { id: felony, label: "a felony" }
+      - { id: misdemeanor, label: "a misdemeanor not requiring commission in the officer’s presence" }
+  - id: misd_article
+    type: choice
+    prompt: "Article before the misdemeanor"
+    articleFor: text.misdemeanor
+    options: [{ id: a, label: "a" }, { id: an, label: "an" }]
+  - id: crime_class
+    type: choice
+    prompt: "The crime that was the basis for the arrest is a…"
+    options: [{ id: felony, label: "felony" }, { id: misdemeanor, label: "misdemeanor" }, { id: infraction, label: "infraction" }]
+  - { id: home_entry, type: boolean, prompt: "Give the paragraph on entering a home without a warrant?" }
+  - { id: home_no_consent, type: boolean, prompt: "Include “and without consent”?" }
+  - { id: must_tell, type: boolean, prompt: "Give the paragraph on what the officer must tell the person arrested?" }
+  - { id: must_tell_exception, type: boolean, prompt: "Include the exception (probable cause, fleeing, escaped)?" }
+  - { id: must_tell_offense, type: boolean, prompt: "Include telling the offense on request?" }
+  - { id: recording, type: boolean, prompt: "Give the paragraph on photographing or recording a peace officer?" }
+  - id: recording_not_basis
+    type: multi
+    prompt: "Recording is not a basis for…"
+    options:
+      - { id: suspicion, label: "reasonable suspicion to detain" }
+      - { id: probable_cause, label: "probable cause to arrest" }
+  # C. Use of force by a peace officer
+  - { id: special_rules, type: boolean, prompt: "Say “Special rules control the use of force”?" }
+  - { id: non_deadly, type: boolean, prompt: "Give the paragraph on reasonable non-deadly force?" }
+  - { id: deadly_force, type: boolean, prompt: "Give the paragraph on deadly force?" }
+  - { id: deadly_def, type: boolean, prompt: "Define deadly force?" }
+  - { id: sbi_def, type: boolean, prompt: "Define serious bodily injury?" }
+  - { id: sbi_not_limited, type: boolean, prompt: "Include “, but is not limited to”?" }
+  - id: sbi_list
+    type: multi
+    prompt: "Serious bodily injuries listed"
+    options:
+      - { id: consciousness, label: "loss of consciousness" }
+      - { id: concussion, label: "concussion" }
+      - { id: fracture, label: "bone fracture" }
+      - { id: impairment, label: "protracted loss or impairment of function of any bodily member or organ" }
+      - { id: suturing, label: "a wound requiring extensive suturing" }
+      - { id: disfigurement, label: "serious disfigurement" }
+  - { id: imminent_def, type: boolean, prompt: "Define imminent?" }
+  - { id: no_retreat, type: boolean, prompt: "Give the paragraph on no duty to retreat?" }
+  # D. Use of force by a person being arrested or detained
+  - { id: no_resist, type: boolean, prompt: "Give the paragraph on not using force to resist reasonable force?" }
+  - { id: unlawful_arrest_not_guilty, type: boolean, prompt: "Include “However, you may not find the defendant guilty of resisting arrest if the arrest was unlawful…”?" }
+  - { id: excessive_force_defense, type: boolean, prompt: "Give the paragraphs on defending against excessive force?" }
+  - id: excessive_while
+    type: multi
+    prompt: "Unreasonable force while…"
+    options:
+      - { id: arresting, label: "arresting or attempting to arrest" }
+      - { id: detaining, label: "detaining or attempting to detain" }
+body:
+  - - "The People have the burden of proving beyond a reasonable doubt that "
+    - { field: officer.name, hint: "insert name, excluding title" }
+    - " was lawfully performing "
+    - { pronoun: officer, forms: [his, her] }
+    - " duties as a peace officer. If the People have not met this burden, you must find the defendant not guilty of "
+    - { field: text.offenses, hint: "insert name[s] of all offense[s] with lawful performance as an element" }
+    - "."
+  - - "A peace officer is not lawfully performing his or her duties if he or she is "
+    - any: not_lawful_if
+      options:
+        - "unlawfully arresting or detaining someone"
+        - [{ sep: "or" }, " using unreasonable or excessive force when making or attempting to make an otherwise lawful arrest or detention"]
+    - "."
+  - { note: "A. Unlawful Detention", governs: [sec_detention] }
+  - opt:
+      - ["A peace officer may legally detain someone if ", { opt: "the person consents to the detention or if", if: detention_consent }, ":"]
+      - elements:
+          - { n: "1", text: "Specific facts known or apparent to the officer lead him or her to suspect that the person to be detained has been, is, or is about to be involved in activity relating to crime", end: ";" }
+          - { n: "2", and: "AND", text: "A reasonable officer who knew the same facts would have the same suspicion", end: "." }
+      - "Any other detention is unlawful."
+      - "In deciding whether the detention was lawful, consider evidence of the officer’s training and experience and all the circumstances known by the officer when he or she detained the person."
+    if: sec_detention
+  - { note: "B. Unlawful Arrest", governs: [sec_arrest] }
+  - opt:
+      - - "A peace officer may legally arrest someone "
+        - { opt: "either", if: "arrest_basis>1" }
+        - " "
+        - any: arrest_basis
+          options: ["on the basis of an arrest warrant", [{ sep: "or" }, " if he or she has probable cause to make the arrest"]]
+        - "."
+      - "Any other arrest is unlawful."
+      - "Probable cause exists when the facts known to the arresting officer at the time of the arrest would persuade someone of reasonable caution that the person to be arrested has committed a crime."
+      - "In deciding whether the arrest was lawful, consider evidence of the officer’s training and experience and all the circumstances known by the officer when he or she arrested the person."
+    if: sec_arrest
+  - { note: "Arrest without warrant for most misdemeanors or infractions", governs: [misd_presence] }
+  - opt:
+      - "In order for an officer to lawfully arrest someone without a warrant for a misdemeanor or infraction, the officer must have probable cause to believe that the person to be arrested committed a misdemeanor or infraction in the officer’s presence."
+    if: misd_presence
+  - { note: "Arrest without warrant for felony or misdemeanor not requiring commission in officer’s presence; see Bench Notes", governs: [warrantless_felony] }
+  - opt:
+      - - "In order for an officer to lawfully arrest someone for "
+        - { when: ["warrantless_kind~felony | misd_article=a", "!warrantless_kind~felony & misd_article=an"], options: ["a", "an"] }
+        - " "
+        - any: warrantless_kind
+          options:
+            - "felony"
+            - [{ sep: "or" }, " ", { field: text.misdemeanor, hint: "insert misdemeanor not requiring commission in officer’s presence" }]
+        - " without a warrant, the officer must have probable cause to believe the person to be arrested committed "
+        - { when: ["warrantless_kind~felony | misd_article=a", "!warrantless_kind~felony & misd_article=an"], options: ["a", "an"] }
+        - " "
+        - any: warrantless_kind
+          options:
+            - "felony"
+            - [{ sep: "or" }, " ", { field: text.misdemeanor, hint: "insert misdemeanor not requiring commission in officer’s presence" }]
+        - ". However, it is not required that the offense be committed in the officer’s presence."
+    if: warrantless_felony
+  - - { field: text.arrest_crime, hint: "insert crime that was basis for arrest" }
+    - " is "
+    - { when: ["!crime_class=infraction", "crime_class=infraction"], options: ["a", "an"] }
+    - " "
+    - { choice: crime_class, options: ["felony", "misdemeanor", "infraction"] }
+    - "."
+  - { note: "Entering home without warrant", governs: [home_entry] }
+  - opt:
+      - ["In order for an officer to enter a home to arrest someone without a warrant ", { opt: "and without consent", if: home_no_consent }, ":"]
+      - elements:
+          - { n: "1", text: "The officer must have probable cause to believe that the person to be arrested committed a crime and is in the home", end: ";" }
+          - { n: "2", and: "AND", text: "Exigent circumstances require the officer to enter the home without a warrant", end: "." }
+      - - "The term "
+        - { em: "exigent circumstances" }
+        - " describes an emergency situation that requires swift action to prevent (1) imminent danger to life or serious damage to property, or (2) the imminent escape of a suspect or destruction of evidence."
+    if: home_entry
+  - opt:
+      - - "The officer must tell that person that the officer intends to arrest him or her, why the arrest is being made, and the authority for the arrest. "
+        - opt: "The officer does not have to tell the arrested person these things if the officer has probable cause to believe that the person is committing or attempting to commit a crime, is fleeing immediately after having committed a crime, or has escaped from custody."
+          if: must_tell_exception
+        - " "
+        - { opt: "The officer must also tell the arrested person the offense for which he or she is being arrested if he or she asks for that information.", if: must_tell_offense }
+    if: must_tell
+  - { note: "When giving either paragraph A on unlawful detention or paragraph B on unlawful arrest, give the following paragraph also, if applicable", governs: [recording] }
+  - opt:
+      - - "Photographing or recording a "
+        - { em: "peace officer" }
+        - " while the officer is in a public place or while the person photographing or recording is in a place where he or she has the right to be is not, by itself, a crime nor a basis for "
+        - any: recording_not_basis
+          options: ["reasonable suspicion to detain", [{ sep: "nor" }, " probable cause to arrest"]]
+        - "."
+    if: recording
+  - { note: "C. Use of Force by a Peace Officer" }
+  - opt: ["Special rules control the use of force."]
+    if: special_rules
+  - opt: ["A peace officer may use reasonable non-deadly force to arrest or detain someone, to prevent escape, to overcome resistance, or in self-defense."]
+    if: non_deadly
+  - opt:
+      - ["A peace officer may use deadly force if ", { pronoun: officer, forms: [he, she] }, ":"]
+      - conj: "OR"
+        elements:
+          - n: "1"
+            text: "Reasonably believed, based on the totality of the circumstances, that the force was necessary to defend against an imminent threat of death or serious bodily injury to the officer or another person"
+            end: ";"
+          - { n: "2", and: "OR", text: "Reasonably believed, based on the totality of the circumstances, that", end: ":" }
+      - style: alpha
+        elements:
+          - n: "a"
+            text: [{ field: fleeing_felon.name, hint: "insert name of fleeing felon" }, " was fleeing"]
+            end: ";"
+          - n: "b"
+            text:
+              - "The force was necessary to arrest or detain "
+              - { field: fleeing_felon.name, hint: "insert name of fleeing felon" }
+              - " for the crime of "
+              - { field: text.felony, hint: "insert name of felony" }
+            end: ";"
+          - n: "c"
+            text:
+              - "The commission of the crime of "
+              - { field: text.felony, hint: "insert name of felony" }
+              - "created a risk of or resulted in death or serious bodily injury to another person"
+            end: ";"
+          - n: "d"
+            and: "AND"
+            text:
+              - { field: fleeing_felon.name, hint: "insert name of fleeing felon" }
+              - " would cause death or serious bodily injury to another person unless immediately arrested or detained"
+            end: "."
+    if: deadly_force
+  - opt:
+      - [{ em: "Deadly force" }, " means any use of force that creates a substantial risk of causing death or serious bodily injury. Deadly force includes, but is not limited to, the discharge of a firearm."]
+    if: deadly_def
+  - opt:
+      - - "A "
+        - { em: "serious bodily injury" }
+        - " means a serious impairment of physical condition. Such an injury may include"
+        - { opt: ", but is not limited to", if: sbi_not_limited }
+        - ": "
+        - any: sbi_list
+          options:
+            - "loss of consciousness"
+            - "concussion"
+            - "bone fracture"
+            - "protracted loss or impairment of function of any bodily member or organ"
+            - "a wound requiring extensive suturing"
+            - [{ sep: "and" }, " serious disfigurement"]
+        - "."
+    if: sbi_def
+  - opt:
+      - - "A threat of death or serious bodily injury is "
+        - { em: "imminent" }
+        - " when, based on the totality of the circumstances, a reasonable officer in the same situation would believe that a person has the present ability, opportunity, and apparent intent to immediately cause death or serious bodily injury to the peace officer or to another person. An imminent harm is not merely a fear of future harm, no matter how great the fear and no matter how great the likelihood of the harm, but is one that, from appearances, must be instantly confronted and addressed."
+    if: imminent_def
+  - - { em: "Totality of the circumstances" }
+    - " means all facts known to the peace officer at the time, including the conduct of the defendant and "
+    - { field: officer.name, hint: "insert name of officer" }
+    - " leading up to the use of deadly force."
+  - opt:
+      - - "A peace officer who makes or attempts to make an arrest need not retreat or stop because the person being arrested is resisting or threatening to resist. A peace officer does not lose "
+        - { pronoun: officer, forms: [his, her] }
+        - " right to self-defense by using objectively reasonable force to arrest or to prevent escape or to overcome resistance."
+    if: no_retreat
+  - { note: "D. Use of Force by a Person Being Arrested or Detained" }
+  - opt:
+      - - "If a person knows, or reasonably should know, that a peace officer is arresting or detaining him or her, the person must not use force or any weapon to resist an officer’s use of reasonable force. "
+        - opt: "However, you may not find the defendant guilty of resisting arrest if the arrest was unlawful, even if the defendant knew or reasonably should have known that the officer was arresting him or her."
+          if: unlawful_arrest_not_guilty
+    if: no_resist
+  - opt:
+      - - "If a peace officer uses unreasonable or excessive force while "
+        - any: excessive_while
+          options: ["arresting or attempting to arrest", [{ sep: "or" }, " detaining or attempting to detain"]]
+        - " a person, that person may lawfully use reasonable force to defend himself or herself."
+      - "A person being arrested or detained uses reasonable force when he or she: (1) uses that degree of force that he or she actually believes is reasonably necessary to protect himself or herself from the officer’s use of unreasonable or excessive force; and (2) uses no more force than a reasonable person in the same situation would believe is necessary for his or her protection."
+    if: excessive_force_defense

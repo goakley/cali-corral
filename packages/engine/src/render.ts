@@ -145,7 +145,7 @@ function renderBlock(b: Block, ctx: Ctx, out: RenderedBlock[]): void {
     return;
   }
   if ("elements" in b) {
-    renderElements(b.elements, b.conj ?? "AND", ctx, out);
+    renderElements(b.elements, b.conj ?? "AND", b.style ?? "number", ctx, out);
     return;
   }
   const never: never = b;
@@ -198,7 +198,14 @@ export function includedPositions(
 
 const unbracket = (s: string): string => s.replace(/^\[|\]$/g, "");
 
-function renderElements(items: ElementItem[], conj: string, ctx: Ctx, out: RenderedBlock[]): void {
+function renderElements(
+  items: ElementItem[],
+  conj: string,
+  style: "number" | "alpha",
+  ctx: Ctx,
+  out: RenderedBlock[],
+): void {
+  const depth = style === "alpha" ? 2 : 1;
   const positions = includedPositions(
     items,
     (e) => e.if === undefined || cond(e.if, ctx),
@@ -209,14 +216,15 @@ function renderElements(items: ElementItem[], conj: string, ctx: Ctx, out: Rende
     const runs = inlines(e.text, ctx, undefined, undefined);
     const end = computeEnd(e.end, last);
     if (end) runs.push({ text: end });
-    const b: RenderedBlock = { kind: "element", depth: 1, number, runs };
-    if (label !== undefined) b.label = label;
+    const b: RenderedBlock = { kind: "element", depth, number, runs };
+    const l = label ?? (style === "alpha" ? String.fromCharCode(96 + number) : undefined);
+    if (l !== undefined) b.label = l;
     out.push(b);
   };
   positions.forEach((p, i) => {
     const last = i === positions.length - 1;
     if (p.kind === "element") {
-      if (last && positions.length >= 2) out.push({ kind: "conj", depth: 1, runs: [{ text: conj }] });
+      if (last && positions.length >= 2) out.push({ kind: "conj", depth, runs: [{ text: conj }] });
       push(p.e, ++n, last);
       return;
     }
@@ -228,7 +236,7 @@ function renderElements(items: ElementItem[], conj: string, ctx: Ctx, out: Rende
     }
     n++;
     p.selected.forEach((oi, k) => {
-      if (k > 0) out.push({ kind: "conj", depth: 1, runs: [{ text: unbracket(g.or ?? "OR") }] });
+      if (k > 0) out.push({ kind: "conj", depth, runs: [{ text: unbracket(g.or ?? "OR") }] });
       for (const e of g.options[oi]!.elements) push(e, n, false, `${n}${e.n.replace(/^\d+/, "")}`);
     });
   });

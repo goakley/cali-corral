@@ -161,6 +161,8 @@ export interface ElementsBlock {
   elements: ElementItem[];
   /** Conjunction placed before the last element (default "AND"). */
   conj?: string;
+  /** Numbering: "number" (1., 2., ...; default) or "alpha" (a., b., ...) for sub-lists. */
+  style?: "number" | "alpha";
 }
 
 export type ElementItem = Element | NoteBlock | ElementGroup;

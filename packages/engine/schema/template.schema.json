@@ -214,7 +214,8 @@
                 "oneOf": [{ "$ref": "#/$defs/element" }, { "$ref": "#/$defs/note" }, { "$ref": "#/$defs/group" }]
               }
             },
-            "conj": { "type": "string" }
+            "conj": { "type": "string" },
+            "style": { "enum": ["number", "alpha"] }
           }
         }
       ]
