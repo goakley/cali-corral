@@ -10,8 +10,8 @@
   "scripts": {
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
-    "validate": "node --experimental-strip-types scripts/validate.ts",
-    "candidates": "node --experimental-strip-types scripts/candidates.ts"
+    "candidates": "node scripts/candidates.ts",
+    "stamp": "node scripts/stamp.ts"
   },
   "dependencies": {
     "ajv": "^8.20.0",

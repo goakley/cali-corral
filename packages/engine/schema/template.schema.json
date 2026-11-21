@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cali-corral.invalid/schema/template-v1.json",
+  "title": "Cali Corral CALCRIM template, schema version 1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema", "id", "title", "source", "review", "body"],
+  "properties": {
+    "schema": { "const": 1 },
+    "id": { "type": "string", "pattern": "^[0-9]{3,4}[A-Z]?$" },
+    "title": { "type": "string", "minLength": 1 },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["file", "release", "revision_line", "body_sha256"],
+      "properties": {
+        "file": { "type": "string" },
+        "release": { "type": "string" },
+        "revision_line": { "type": "string" },
+        "body_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+      }
+    },
+    "review": { "enum": ["machine-checked", "reviewed"] },
+    "people": {
+      "type": "object",
+      "propertyNames": { "pattern": "^[a-z][a-z0-9_]*$" },
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["label"],
+        "properties": {
+          "label": { "type": "string" },
+          "uses": { "type": "array", "items": { "enum": ["name", "title", "agency"] } }
+        }
+      }
+    },
+    "questions": { "type": "array", "items": { "$ref": "#/$defs/question" } },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[0-9]{3,4}[A-Z]?$" },
+          "reason": { "type": "string" }
+        }
+      }
+    },
+    "body": { "$ref": "#/$defs/blocks" }
+  },
+  "$defs": {
+    "id": { "type": "string", "pattern": "^[a-z][a-z0-9_]*$" },
+    "condition": { "type": "string", "minLength": 1 },
+    "question": {
+      "type": "object",
+      "required": ["id", "type"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "type": { "enum": ["boolean", "choice", "multi"] },
+        "prompt": { "type": "string" },
+        "help": { "type": "string" },
+        "options": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "label"],
+            "properties": { "id": { "$ref": "#/$defs/id" }, "label": { "type": "string" } }
+          }
+        }
+      },
+      "additionalProperties": false,
+      "if": { "properties": { "type": { "const": "boolean" } } },
+      "then": { "properties": { "options": false } },
+      "else": { "required": ["options"] }
+    },
+    "content": {
+      "oneOf": [{ "type": "string" }, { "$ref": "#/$defs/inlines" }]
+    },
+    "inlines": { "type": "array", "items": { "$ref": "#/$defs/inline" } },
+    "inline": {
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["em"],
+          "properties": { "em": { "$ref": "#/$defs/content" } }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["field"],
+          "properties": {
+            "field": {
+              "type": "string",
+              "pattern": "^(count|text\\.[a-z][a-z0-9_]*|[a-z][a-z0-9_]*\\.(name|title|agency))$"
+            },
+            "hint": { "type": "string" },
+            "noBlank": { "const": true }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["opt", "if"],
+          "properties": { "opt": { "$ref": "#/$defs/content" }, "if": { "$ref": "#/$defs/condition" } }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["options"],
+          "properties": {
+            "choice": { "$ref": "#/$defs/id" },
+            "when": { "type": "array", "items": { "$ref": "#/$defs/condition" } },
+            "options": { "type": "array", "minItems": 2, "items": { "$ref": "#/$defs/content" } }
+          },
+          "oneOf": [{ "required": ["choice"] }, { "required": ["when"] }]
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["any", "options"],
+          "properties": {
+            "any": { "$ref": "#/$defs/id" },
+            "options": { "type": "array", "minItems": 2, "items": { "$ref": "#/$defs/content" } }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["sep"],
+          "properties": { "sep": { "type": "string", "minLength": 1 } }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["pronoun", "forms"],
+          "properties": {
+            "pronoun": { "$ref": "#/$defs/id" },
+            "forms": { "type": "array", "minItems": 2, "maxItems": 3, "items": { "type": "string" } }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["agree", "sg", "pl"],
+          "properties": {
+            "agree": { "$ref": "#/$defs/id" },
+            "sg": { "type": "string" },
+            "pl": { "type": "string" },
+            "alt": { "const": true }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["note"],
+          "properties": {
+            "note": { "type": "string" },
+            "governs": { "type": "array", "items": { "$ref": "#/$defs/id" } }
+          }
+        }
+      ]
+    },
+    "note": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["note"],
+      "properties": {
+        "note": { "type": "string" },
+        "governs": { "type": "array", "items": { "$ref": "#/$defs/id" } }
+      }
+    },
+    "blocks": { "type": "array", "items": { "$ref": "#/$defs/block" } },
+    "block": {
+      "oneOf": [
+        { "type": "string" },
+        { "$ref": "#/$defs/inlines" },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["p"],
+          "properties": { "p": { "$ref": "#/$defs/content" } }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["bullet"],
+          "properties": { "bullet": { "$ref": "#/$defs/content" } }
+        },
+        { "$ref": "#/$defs/note" },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["opt", "if"],
+          "properties": { "opt": { "$ref": "#/$defs/blocks" }, "if": { "$ref": "#/$defs/condition" } }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["elements"],
+          "properties": {
+            "elements": {
+              "type": "array",
+              "items": { "oneOf": [{ "$ref": "#/$defs/element" }, { "$ref": "#/$defs/note" }] }
+            },
+            "conj": { "type": "string" }
+          }
+        }
+      ]
+    },
+    "element": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["n", "text", "end"],
+      "properties": {
+        "n": { "type": "string" },
+        "text": { "$ref": "#/$defs/content" },
+        "end": { "enum": [";", ".", "(;/.)", ":", ""] },
+        "and": { "enum": ["AND", "[AND]", "OR", "[OR]"] },
+        "if": { "$ref": "#/$defs/condition" }
+      }
+    }
+  }
+}

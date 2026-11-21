@@ -1,0 +1,164 @@
+# CALCRIM No. 945. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "945"
+title: "Battery Against Peace Officer (Pen. Code, §§ 242, 243(b), (c)(2))"
+source:
+  file: calcrim-2026
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2006, December 2008, October 2010, February 2025"
+  body_sha256: "9fc6796c37ca72af39101613fbf716037b7c0077964facd195e3750accd08f68"
+review: machine-checked
+people:
+  officer: { label: "Peace officer", uses: [name, title, agency] }
+related:
+  - { id: "2670", reason: "Give with the lawful-performance paragraphs when lawful performance is at issue (see Bench Notes)." }
+  - { id: "3470", reason: "Self-defense instructions when element 5 is given." }
+questions:
+  - { id: count_ref, type: boolean, prompt: "Name the count?" }
+  - { id: cite_statute, type: boolean, prompt: "Cite Penal Code section 243?" }
+  - id: officer_article
+    type: choice
+    prompt: "Article before the officer's title"
+    options: [{ id: a, label: "a" }, { id: an, label: "an" }]
+  - { id: unlawfully, type: boolean, prompt: "Include “and unlawfully” in element 2?" }
+  - { id: felony, type: boolean, prompt: "Instructing on felony battery against a peace officer (element 4)?" }
+  - { id: self_defense, type: boolean, prompt: "Instructing on self-defense or defense of another (element 5)?" }
+  - id: defense_kind
+    type: multi
+    prompt: "Which defenses?"
+    options: [{ id: self, label: "self-defense" }, { id: other, label: "defense of someone else" }]
+  - { id: slightest_touching, type: boolean, prompt: "Give the “slightest touching” paragraph?" }
+  - { id: injury_def, type: boolean, prompt: "Give the definition of injury?" }
+  - { id: indirect, type: boolean, prompt: "Give the indirect-touching paragraph?" }
+  - id: indirect_how
+    type: multi
+    prompt: "How was the touching indirect?"
+    options:
+      - { id: object, label: "by causing an object [or someone else] to touch the other person" }
+      - { id: held, label: "by touching something held by or attached to the other person" }
+  - { id: indirect_someone_else, type: boolean, prompt: "Include “or someone else”?" }
+  - { id: police_def, type: boolean, prompt: "Define peace officer by police employment?" }
+  - { id: designated_def, type: boolean, prompt: "Define peace officer by agency designation?" }
+  - { id: duties_def, type: boolean, prompt: "List the officer's duties?" }
+  - { id: on_duty, type: boolean, prompt: "Give the “actually on duty” paragraph?" }
+  - { id: private_capacity, type: boolean, prompt: "Give the private-capacity (security guard) paragraph?" }
+  - id: patrol_term
+    type: choice
+    prompt: "Term used in the private-capacity paragraph"
+    options: [{ id: patrolman, label: "patrolman" }, { id: patrolwoman, label: "patrolwoman" }]
+body:
+  - - "The defendant is charged "
+    - { opt: ["in Count ", { field: count }], if: count_ref }
+    - " with battery against a peace officer "
+    - { opt: "in violation of Penal Code section 243", if: cite_statute }
+    - "."
+  - "To prove that the defendant is guilty of this crime, the People must prove that:"
+  - elements:
+      - n: "1"
+        text:
+          - { field: officer.name, hint: "Insert officer’s name, excluding title" }
+          - " was a peace officer performing the duties of "
+          - { choice: officer_article, options: ["a", "an"] }
+          - " "
+          - { field: officer.title, hint: "insert title of peace officer specified in Pen. Code, § 830 et seq." }
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant willfully "
+          - { opt: "and unlawfully", if: unlawfully }
+          - " touched "
+          - { field: officer.name, hint: "insert officer’s name, excluding title" }
+          - " in a harmful or offensive manner"
+        end: ";"
+      - n: "3"
+        and: "[AND]"
+        text:
+          - "When the defendant acted, "
+          - { pronoun: defendant, forms: [he, she] }
+          - " knew, or reasonably should have known, that "
+          - { field: officer.name, hint: "insert officer’s name, excluding title" }
+          - " was a peace officer who was performing "
+          - { pronoun: officer, forms: [his, her] }
+          - " duties"
+        end: "(;/.)"
+      - { note: "Give element 4 when instructing on felony battery against a peace officer.", governs: [felony] }
+      - n: "4"
+        if: felony
+        and: "AND"
+        text:
+          - { field: officer.name, hint: "insert officer’s name, excluding title" }
+          - " suffered injury as a result of the touching"
+        end: "(;/.)"
+      - { note: "Give element 5 when instructing on self-defense or defense of another.", governs: [self_defense] }
+      - n: "5"
+        if: self_defense
+        and: "AND"
+        text:
+          - "The defendant did not act "
+          - { any: defense_kind, options: ["in self-defense", [{ sep: "or" }, " in defense of someone else"]] }
+        end: "."
+  - - "Someone commits an act "
+    - { em: "willfully" }
+    - " when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage."
+  - { note: "Do not give this paragraph when instructing on felony battery against a peace officer.", governs: [slightest_touching] }
+  - opt:
+      - "The slightest touching can be enough to commit a battery if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind."
+    if: slightest_touching
+  - { note: "Give this definition when instructing on felony battery against a peace officer.", governs: [injury_def] }
+  - opt:
+      - - "An "
+        - { em: "injury" }
+        - " is any physical injury that requires professional medical treatment. The question whether an injury requires such treatment cannot be answered simply by deciding whether or not a person sought or received treatment. You may consider those facts, but you must decide this question based on the nature, extent, and seriousness of the injury itself."
+    if: injury_def
+  - opt:
+      - - "The touching can be done indirectly "
+        - any: indirect_how
+          options:
+            - ["by causing an object ", { opt: "or someone else", if: indirect_someone_else }, " to touch the other person"]
+            - [{ sep: "or" }, " by touching something held by or attached to the other person"]
+        - "."
+    if: indirect
+  - opt:
+      - - "A person who is employed as a police officer by "
+        - { field: officer.agency, hint: "insert name of agency that employs police officer" }
+        - " is a "
+        - { em: "peace officer" }
+        - "."
+    if: police_def
+  - opt:
+      - - "A person employed by "
+        - { field: officer.agency, hint: "insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”" }
+        - " is a "
+        - { em: "peace officer" }
+        - " if "
+        - { field: text.designation_facts, hint: "insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”" }
+        - "."
+    if: designated_def
+  - opt:
+      - - "The duties of a "
+        - { field: officer.title, hint: "insert title of officer" }
+        - " include "
+        - { field: text.duties, hint: "insert job duties" }
+        - "."
+    if: duties_def
+  - opt:
+      - - "It does not matter whether "
+        - { field: officer.name, hint: "insert officer’s name, excluding title" }
+        - " was actually on duty at the time."
+    if: on_duty
+  - opt:
+      - - "A "
+        - { field: officer.title, hint: "insert title of peace officer specified in Pen. Code, § 830 et seq." }
+        - " is also performing the duties of a peace officer if "
+        - { pronoun: officer, forms: [he, she] }
+        - " "
+        - { agree: officer, sg: "is", pl: "are" }
+        - " in a police uniform and performing the duties required of "
+        - { pronoun: officer, forms: [him, her] }
+        - " as a peace officer and, at the same time, "
+        - { agree: officer, sg: "is", pl: "are" }
+        - " working in a private capacity as a part-time or casual private security guard or "
+        - { choice: patrol_term, options: ["patrolman", "patrolwoman"] }
+        - "."
+    if: private_capacity

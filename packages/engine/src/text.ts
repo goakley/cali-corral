@@ -32,43 +32,32 @@ const NO_SPACE_BEFORE = new Set([".", ",", ";", ":", ")", "]", "?", "!", "”", 
  * rules don't alter official wording.
  */
 export function cleanJuryText(parts: string[]): string[] {
-  const out = parts.slice();
-  const text = out.join("");
-  // Work on the concatenation, then map edits back onto parts.
-  const keep: boolean[] = new Array(text.length).fill(true);
+  const text = parts.join("");
+  const keep: boolean[] = new Array<boolean>(text.length).fill(true);
+  const ws = (c: string | undefined): boolean => c === " " || c === "\n" || c === "\t";
   let lastKept = -1;
   for (let i = 0; i < text.length; i++) {
     const c = text[i]!;
-    if (c === " " || c === "\n" || c === "\t") {
-      if (lastKept < 0) {
-        keep[i] = false; // leading
-        continue;
-      }
-      const prev = text[lastKept]!;
-      if (prev === " " || NO_SPACE_AFTER.has(prev)) {
+    if (ws(c)) {
+      const prev = lastKept < 0 ? undefined : text[lastKept];
+      if (prev === undefined || ws(prev) || NO_SPACE_AFTER.has(prev)) {
         keep[i] = false;
         continue;
       }
+      lastKept = i;
       continue;
     }
-    if (NO_SPACE_BEFORE.has(c) && lastKept >= 0 && text[lastKept] === " ") {
-      // Keep the space before an em/en dash only if the official text spaced it;
-      // CALCRIM sets dashes closed, so remove.
-      keep[lastKept] = false;
-    }
+    if (NO_SPACE_BEFORE.has(c) && lastKept >= 0 && ws(text[lastKept])) keep[lastKept] = false;
     lastKept = i;
   }
-  // trailing whitespace
-  for (let i = text.length - 1; i >= 0 && /\s/.test(text[i]!); i--) keep[i] = false;
-  // Normalize remaining whitespace characters to a single space.
+  for (let i = text.length - 1; i >= 0 && (ws(text[i]) || !keep[i]); i--) keep[i] = false;
+  // Map the kept characters back onto the parts, normalizing whitespace to " ".
+  const out: string[] = [];
   let pos = 0;
-  for (let p = 0; p < out.length; p++) {
-    const s = out[p]!;
+  for (const s of parts) {
     let r = "";
-    for (let k = 0; k < s.length; k++, pos++) {
-      if (keep[pos]) r += /\s/.test(s[k]!) ? " " : s[k]!;
-    }
-    out[p] = r;
+    for (let k = 0; k < s.length; k++, pos++) if (keep[pos]) r += ws(s[k]) ? " " : s[k]!;
+    out.push(r);
   }
   return out;
 }
