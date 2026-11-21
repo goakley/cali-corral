@@ -4,6 +4,7 @@ Usage:
     calcrim-extract download [--sources FILE]
     calcrim-extract extract  [--sources FILE]   (cached PDFs only, no network)
     calcrim-extract all      [--sources FILE]   (download, then extract)
+    calcrim-extract scan     [--sources FILE]   (corpus-wide markup statistics)
 
 `download` fetches each source PDF politely (cached, conditional, sequential).
 `extract` writes one JSON record per instruction to data/extracted/<release>/,
@@ -184,13 +185,22 @@ def cmd_extract(cfg: dict, offline: bool) -> int:
 
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="calcrim-extract")
-    ap.add_argument("command", choices=["download", "extract", "all"])
+    ap.add_argument("command", choices=["download", "extract", "all", "scan"])
     ap.add_argument("--sources", type=Path, default=DEFAULT_SOURCES)
     ap.add_argument("--offline", action="store_true", help="use cached PDFs only; no network")
     args = ap.parse_args(argv)
     cfg = load_sources(args.sources)
     if args.command == "download":
         cmd_download(cfg)
+        return 0
+    if args.command == "scan":
+        from .scan import main as scan_main
+
+        out_dir = EXTRACTED_DIR / cfg["release"]
+        res = scan_main(out_dir, out_dir / "markup-scan.json")
+        for k, v in res["patterns"].items():
+            print(f"{v['instructions']:4d} instr  {v['occurrences']:5d} occ  {k}")
+        print(f"static: {res['static_instructions']['count']} of {res['instructions']}")
         return 0
     # `extract` works from the local cache only; `all` refreshes the cache first.
     return cmd_extract(cfg, offline=args.offline or args.command == "extract")

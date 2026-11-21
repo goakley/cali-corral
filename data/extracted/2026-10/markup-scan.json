@@ -1,0 +1,639 @@
+{
+  "instructions": 782,
+  "static_instructions": {
+    "count": 20,
+    "numbers": [
+      "106",
+      "1190",
+      "1603",
+      "1702",
+      "209",
+      "223",
+      "224",
+      "2702",
+      "300",
+      "302",
+      "303",
+      "330",
+      "3530",
+      "355",
+      "400",
+      "443",
+      "548",
+      "704",
+      "706",
+      "767"
+    ]
+  },
+  "patterns": {
+    "optional [ ]": {
+      "instructions": 748,
+      "occurrences": 13390,
+      "examples": [
+        "100",
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1004"
+      ]
+    },
+    "pick-one alternatives ( / )": {
+      "instructions": 721,
+      "occurrences": 5925,
+      "examples": [
+        "100",
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1004"
+      ]
+    },
+    "element paragraph": {
+      "instructions": 574,
+      "occurrences": 2729,
+      "examples": [
+        "1000",
+        "1002",
+        "1003",
+        "1004",
+        "1005",
+        "1015"
+      ]
+    },
+    "blank without hint": {
+      "instructions": 532,
+      "occurrences": 733,
+      "examples": [
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005"
+      ]
+    },
+    "emphasis (italic terms)": {
+      "instructions": 529,
+      "occurrences": 2221,
+      "examples": [
+        "1000",
+        "1002",
+        "1003",
+        "1004",
+        "1005",
+        "1015"
+      ]
+    },
+    "blank with insert hint": {
+      "instructions": 518,
+      "occurrences": 2005,
+      "examples": [
+        "100",
+        "1000",
+        "1001",
+        "1002",
+        "1003",
+        "101"
+      ]
+    },
+    "series connectors [or] [and] [,]": {
+      "instructions": 492,
+      "occurrences": 5578,
+      "examples": [
+        "1003",
+        "1018",
+        "1033",
+        "1045",
+        "1047",
+        "1048"
+      ]
+    },
+    "nested brackets (depth >= 2)": {
+      "instructions": 490,
+      "occurrences": 490,
+      "examples": [
+        "1000",
+        "1002",
+        "1015",
+        "1017",
+        "1022",
+        "1030"
+      ]
+    },
+    "pronoun alternatives": {
+      "instructions": 484,
+      "occurrences": 1507,
+      "examples": [
+        "100",
+        "1000",
+        "1015",
+        "1017",
+        "1018",
+        "1019"
+      ]
+    },
+    "conjunction AND/OR (unbracketed)": {
+      "instructions": 451,
+      "occurrences": 556,
+      "examples": [
+        "1000",
+        "1002",
+        "1003",
+        "1004",
+        "1005",
+        "1015"
+      ]
+    },
+    "standalone note paragraph": {
+      "instructions": 368,
+      "occurrences": 847,
+      "examples": [
+        "1000",
+        "1001",
+        "1002",
+        "1015",
+        "1016",
+        "1017"
+      ]
+    },
+    "plural markers [s]": {
+      "instructions": 290,
+      "occurrences": 1055,
+      "examples": [
+        "100",
+        "1001",
+        "1002",
+        "101",
+        "1016",
+        "1017"
+      ]
+    },
+    "bracket spanning paragraphs": {
+      "instructions": 246,
+      "occurrences": 278,
+      "examples": [
+        "100",
+        "1000",
+        "1060",
+        "1121",
+        "1141",
+        "1142"
+      ]
+    },
+    "conjunction [AND]/[OR]": {
+      "instructions": 177,
+      "occurrences": 237,
+      "examples": [
+        "1001",
+        "1016",
+        "1031",
+        "1046",
+        "1060",
+        "1110"
+      ]
+    },
+    "(;/.) end punctuation": {
+      "instructions": 158,
+      "occurrences": 244,
+      "examples": [
+        "1001",
+        "1016",
+        "1031",
+        "1046",
+        "1060",
+        "1124"
+      ]
+    },
+    "nested alternatives": {
+      "instructions": 146,
+      "occurrences": 146,
+      "examples": [
+        "1125",
+        "1126",
+        "1142",
+        "1161",
+        "1162",
+        "1170"
+      ]
+    },
+    "[AND inside optional element": {
+      "instructions": 133,
+      "occurrences": 144,
+      "examples": [
+        "1060",
+        "1141",
+        "1142",
+        "1144",
+        "1150",
+        "1151"
+      ]
+    },
+    "labeled alternative note": {
+      "instructions": 111,
+      "occurrences": 302,
+      "examples": [
+        "1000",
+        "1001",
+        "1015",
+        "1016",
+        "1030",
+        "1031"
+      ]
+    },
+    "verb agreement alternatives (is/are)": {
+      "instructions": 84,
+      "occurrences": 149,
+      "examples": [
+        "100",
+        "1001",
+        "1002",
+        "1016",
+        "1017",
+        "103"
+      ]
+    },
+    "inline note (not a blank hint)": {
+      "instructions": 60,
+      "occurrences": 148,
+      "examples": [
+        "1145",
+        "1191A",
+        "1192",
+        "1193",
+        "1202",
+        "1300"
+      ]
+    },
+    "repeated identical paragraphs (repeat-as-needed slots)": {
+      "instructions": 50,
+      "occurrences": 56,
+      "examples": [
+        "1144",
+        "1160",
+        "1215",
+        "1226",
+        "1403",
+        "1500"
+      ]
+    },
+    "unbalanced [ ] or ( ) in official text": {
+      "instructions": 47,
+      "occurrences": 47,
+      "examples": [
+        "1142",
+        "1144",
+        "1243",
+        "1244",
+        "1301",
+        "1700"
+      ]
+    },
+    "other choice-dependent punctuation": {
+      "instructions": 41,
+      "occurrences": 73,
+      "examples": [
+        "101",
+        "1142",
+        "1243",
+        "1353",
+        "1402",
+        "1700"
+      ]
+    },
+    "sub-element labels (1A, 1Bi, a., i.)": {
+      "instructions": 40,
+      "occurrences": 105,
+      "examples": [
+        "1110",
+        "1111",
+        "1112",
+        "1243",
+        "1400",
+        "1500"
+      ]
+    },
+    "multi-defendant markers": {
+      "instructions": 32,
+      "occurrences": 79,
+      "examples": [
+        "100",
+        "1001",
+        "101",
+        "1016",
+        "103",
+        "1031"
+      ]
+    },
+    "computed element number (4/5).": {
+      "instructions": 28,
+      "occurrences": 34,
+      "examples": [
+        "1810",
+        "1933",
+        "2300",
+        "2301",
+        "2302",
+        "2303"
+      ]
+    },
+    "cross-reference to another instruction": {
+      "instructions": 25,
+      "occurrences": 26,
+      "examples": [
+        "1145",
+        "1350",
+        "1351",
+        "1352",
+        "1354",
+        "1355"
+      ]
+    },
+    "bare alternatives in brackets [a/b]": {
+      "instructions": 25,
+      "occurrences": 48,
+      "examples": [
+        "1800",
+        "1804",
+        "1805",
+        "1806",
+        "1807",
+        "1900"
+      ]
+    },
+    "bullet items": {
+      "instructions": 15,
+      "occurrences": 104,
+      "examples": [
+        "105",
+        "1403",
+        "1551",
+        "2140",
+        "2141",
+        "226"
+      ]
+    },
+    "pronoun alternatives with printed they-form": {
+      "instructions": 13,
+      "occurrences": 32,
+      "examples": [
+        "100",
+        "103",
+        "107",
+        "220",
+        "2951",
+        "2952"
+      ]
+    },
+    "capitalization choice (Y/y)": {
+      "instructions": 10,
+      "occurrences": 12,
+      "examples": [
+        "1126",
+        "2622",
+        "2980",
+        "3517",
+        "3519",
+        "520"
+      ]
+    }
+  },
+  "unbalanced": [
+    {
+      "number": "1142",
+      "brackets": 0,
+      "parens": 3
+    },
+    {
+      "number": "1144",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "1243",
+      "brackets": 0,
+      "parens": -1
+    },
+    {
+      "number": "1244",
+      "brackets": -1,
+      "parens": 0
+    },
+    {
+      "number": "1301",
+      "brackets": 0,
+      "parens": -1
+    },
+    {
+      "number": "1700",
+      "brackets": -2,
+      "parens": 0
+    },
+    {
+      "number": "1808",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "1810",
+      "brackets": 0,
+      "parens": 1
+    },
+    {
+      "number": "1830",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "1930",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "2040",
+      "brackets": 0,
+      "parens": -1
+    },
+    {
+      "number": "2102",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "2131",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "2352",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "2410",
+      "brackets": -1,
+      "parens": 0
+    },
+    {
+      "number": "2511",
+      "brackets": 0,
+      "parens": -1
+    },
+    {
+      "number": "2512",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "2572",
+      "brackets": 0,
+      "parens": 1
+    },
+    {
+      "number": "2622",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "2746",
+      "brackets": 0,
+      "parens": -1
+    },
+    {
+      "number": "2748",
+      "brackets": 0,
+      "parens": 2
+    },
+    {
+      "number": "2810",
+      "brackets": 0,
+      "parens": 1
+    },
+    {
+      "number": "2917",
+      "brackets": -1,
+      "parens": 0
+    },
+    {
+      "number": "2953",
+      "brackets": 0,
+      "parens": -1
+    },
+    {
+      "number": "2962",
+      "brackets": -1,
+      "parens": -2
+    },
+    {
+      "number": "2963",
+      "brackets": 0,
+      "parens": -2
+    },
+    {
+      "number": "2964",
+      "brackets": 0,
+      "parens": -2
+    },
+    {
+      "number": "2980",
+      "brackets": 0,
+      "parens": 1
+    },
+    {
+      "number": "2995",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "2997",
+      "brackets": 3,
+      "parens": 1
+    },
+    {
+      "number": "3184",
+      "brackets": 1,
+      "parens": -1
+    },
+    {
+      "number": "3218",
+      "brackets": 0,
+      "parens": 1
+    },
+    {
+      "number": "3224",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "3225",
+      "brackets": -1,
+      "parens": 1
+    },
+    {
+      "number": "334",
+      "brackets": 0,
+      "parens": -1
+    },
+    {
+      "number": "3414",
+      "brackets": 0,
+      "parens": -1
+    },
+    {
+      "number": "3459",
+      "brackets": 0,
+      "parens": -3
+    },
+    {
+      "number": "3475",
+      "brackets": 0,
+      "parens": 1
+    },
+    {
+      "number": "540B",
+      "brackets": 5,
+      "parens": -1
+    },
+    {
+      "number": "540C",
+      "brackets": 3,
+      "parens": 0
+    },
+    {
+      "number": "560",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "640",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "723",
+      "brackets": 0,
+      "parens": 1
+    },
+    {
+      "number": "733",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "830",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "831",
+      "brackets": 1,
+      "parens": 0
+    },
+    {
+      "number": "917",
+      "brackets": -1,
+      "parens": 0
+    }
+  ]
+}

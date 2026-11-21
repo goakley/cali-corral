@@ -1,0 +1,4722 @@
+{
+  "summary": {
+    "release": "2026-10",
+    "total": 782,
+    "status": {
+      "pass": 580,
+      "parse": 108,
+      "render": 67,
+      "roundtrip": 27
+    },
+    "failure_categories": {
+      "-": 580,
+      "elements": 85,
+      "doubled punctuation": 41,
+      "brackets": 16,
+      "note": 1,
+      "roundtrip": 27,
+      "leftover slash alternative": 21,
+      "leftover bracket markup": 5,
+      "parens": 6
+    },
+    "static_instructions": 21,
+    "questions_per_passing_template": {
+      "median": 10,
+      "max": 116
+    }
+  },
+  "results": [
+    {
+      "id": "100",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1000",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "1001",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1002",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1003",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1004",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1005",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "101",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1015",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "1016",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1017",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "1018",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "1019",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "102",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "1020",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "1021",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "1022",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "103",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "1030",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "1031",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1032",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "1033",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1034",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1035",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "1036",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1037",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "104",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1045",
+      "status": "pass",
+      "questions": 25,
+      "static": false
+    },
+    {
+      "id": "1046",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1047",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1048",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "1049",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "105",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "1050",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "1051",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "106",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "1060",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "107",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1070",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1071",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1072",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "1080",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1081",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1082",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1090",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1091",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1092",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1100",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "1101",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "1102",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "1110",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1111",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1112",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1120",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "1121",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1122",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "1123",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1124",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1125",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "1126",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "1127",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "1128",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "1140",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "1141",
+      "status": "pass",
+      "questions": 44,
+      "static": false
+    },
+    {
+      "id": "1142",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "unclosed ["
+    },
+    {
+      "id": "1143",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "1144",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [1. The defendant (promoted/[or] employe"
+    },
+    {
+      "id": "1145",
+      "status": "parse",
+      "category": "note",
+      "detail": "unbalanced angle brackets"
+    },
+    {
+      "id": "1150",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1151",
+      "status": "pass",
+      "questions": 32,
+      "static": false
+    },
+    {
+      "id": "1152",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "1153",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "1154",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1155",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1160",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 6: [[AND]"
+    },
+    {
+      "id": "1161",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "1162",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "1170",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1180",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1181",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1190",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "1191A",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "1191B",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1192",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "1193",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "1194",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "120",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "1200",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1201",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "1202",
+      "status": "pass",
+      "questions": 31,
+      "static": false
+    },
+    {
+      "id": "1203",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "1204",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "121",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1215",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 7: [[AND]"
+    },
+    {
+      "id": "122",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1225",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "1226",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "123",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "124",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "1240",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "1241",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "1242",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1243",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1244",
+      "status": "render",
+      "category": "leftover bracket markup",
+      "detail": "leftover bracket markup"
+    },
+    {
+      "id": "1250",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "1251",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "1252",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "1300",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "1301",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "1302",
+      "status": "pass",
+      "questions": 30,
+      "static": false
+    },
+    {
+      "id": "1303",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "1304",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "1305",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "1350",
+      "status": "pass",
+      "questions": 26,
+      "static": false
+    },
+    {
+      "id": "1351",
+      "status": "pass",
+      "questions": 27,
+      "static": false
+    },
+    {
+      "id": "1352",
+      "status": "pass",
+      "questions": 31,
+      "static": false
+    },
+    {
+      "id": "1353",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1354",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1355",
+      "status": "parse",
+      "category": "elements",
+      "detail": "unclosed [AND"
+    },
+    {
+      "id": "1400",
+      "status": "pass",
+      "questions": 34,
+      "static": false
+    },
+    {
+      "id": "1401",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1402",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 3: [[AND]"
+    },
+    {
+      "id": "1403",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1500",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1501",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "1502",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "1515",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "1520",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "1530",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1531",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "1532",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1550",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "1551",
+      "status": "pass",
+      "questions": 38,
+      "static": false
+    },
+    {
+      "id": "1600",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "1601",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "1602",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "1603",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "1650",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "1700",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 6: [[AND]"
+    },
+    {
+      "id": "1701",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1702",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "1703",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "1704",
+      "status": "pass",
+      "questions": 116,
+      "static": false
+    },
+    {
+      "id": "1705",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1750",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "1751",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "1752",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1760",
+      "status": "pass",
+      "questions": 32,
+      "static": false
+    },
+    {
+      "id": "1761",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1800",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "1801",
+      "status": "pass",
+      "questions": 28,
+      "static": false
+    },
+    {
+      "id": "1802",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "1803",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1804",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: (A/B). There was a note or memorandum of"
+    },
+    {
+      "id": "1805",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "1806",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "1807",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "1808",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [1. The defendant acted together with on"
+    },
+    {
+      "id": "1810",
+      "status": "parse",
+      "category": "parens",
+      "detail": "unclosed ("
+    },
+    {
+      "id": "1820",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [1. The defendant took someone else’s ve"
+    },
+    {
+      "id": "1821",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "1822",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "1830",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "1831",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1832",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1850",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "1851",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "1860",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "1861",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "1862",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "1863",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "1900",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "1901",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "1902",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "1903",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "1904",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "1905",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "1906",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "1920",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1921",
+      "status": "pass",
+      "questions": 31,
+      "static": false
+    },
+    {
+      "id": "1925",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "1926",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "1930",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "1931",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1932",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "1933",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1935",
+      "status": "pass",
+      "questions": 32,
+      "static": false
+    },
+    {
+      "id": "1945",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "1950",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "1951",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "1952",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "1953",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "1954",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "1955",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "1956",
+      "status": "pass",
+      "questions": 34,
+      "static": false
+    },
+    {
+      "id": "1957",
+      "status": "pass",
+      "questions": 25,
+      "static": false
+    },
+    {
+      "id": "1970",
+      "status": "pass",
+      "questions": 64,
+      "static": false
+    },
+    {
+      "id": "1971",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "200",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "2000",
+      "status": "pass",
+      "questions": 34,
+      "static": false
+    },
+    {
+      "id": "2001",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2002",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "2003",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "2004",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "201",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "202",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2020",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "2021",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "2022",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "2023",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "203",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "204",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "2040",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "2041",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "2042",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2043",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2044",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "unclosed ["
+    },
+    {
+      "id": "2045",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "205",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "206",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "207",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "208",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "209",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "2100",
+      "status": "pass",
+      "questions": 53,
+      "static": false
+    },
+    {
+      "id": "2101",
+      "status": "pass",
+      "questions": 29,
+      "static": false
+    },
+    {
+      "id": "2102",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "2110",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "2111",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2112",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "2113",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2114",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2125",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "2126",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2130",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2131",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "2140",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2141",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2142",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "2150",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2151",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "2160",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "2180",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2181",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [3/4]. All of the following were true:"
+    },
+    {
+      "id": "2182",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "219",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "220",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2200",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "2201",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2202",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "221",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "222",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2220",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2221",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2222",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "223",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "224",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "2240",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2241",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "2242",
+      "status": "pass",
+      "questions": 37,
+      "static": false
+    },
+    {
+      "id": "225",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "226",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2300",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2301",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2302",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 13: [[OR]"
+    },
+    {
+      "id": "2303",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 14: [[OR]"
+    },
+    {
+      "id": "2304",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 12: [[OR]"
+    },
+    {
+      "id": "2305",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "2306",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "2307",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "2315",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2316",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2320",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2321",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "2330",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "unclosed ["
+    },
+    {
+      "id": "2331",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "2335",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "2336",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "2337",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2338",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "2350",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "2351",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2352",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "2361",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "2363",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2364",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: ______. The defendant (transported for s"
+    },
+    {
+      "id": "2370",
+      "status": "pass",
+      "questions": 44,
+      "static": false
+    },
+    {
+      "id": "2375",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "2376",
+      "status": "pass",
+      "questions": 22,
+      "static": false
+    },
+    {
+      "id": "2380",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2381",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 12: [[OR]"
+    },
+    {
+      "id": "2382",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 13: [[OR]"
+    },
+    {
+      "id": "2383",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 13: [[OR]"
+    },
+    {
+      "id": "2384",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 12: [[OR]"
+    },
+    {
+      "id": "2390",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "2391",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2392",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2393",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "240",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "2400",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2401",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2410",
+      "status": "render",
+      "category": "leftover bracket markup",
+      "detail": "leftover bracket markup"
+    },
+    {
+      "id": "2412",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2413",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "2430",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "2431",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2432",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2440",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2441",
+      "status": "parse",
+      "category": "elements",
+      "detail": "unclosed [AND"
+    },
+    {
+      "id": "2500",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2501",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "2502",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "2503",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "2510",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2511",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2512",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "2513",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "2514",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "252",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "2520",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2521",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2522",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "253",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "2530",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "254",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2540",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2541",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "2542",
+      "status": "pass",
+      "questions": 34,
+      "static": false
+    },
+    {
+      "id": "2543",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "2544",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "2545",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "2546",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2560",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "2561",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2562",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "2570",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2571",
+      "status": "pass",
+      "questions": 34,
+      "static": false
+    },
+    {
+      "id": "2572",
+      "status": "parse",
+      "category": "parens",
+      "detail": "unclosed ("
+    },
+    {
+      "id": "2573",
+      "status": "pass",
+      "questions": 32,
+      "static": false
+    },
+    {
+      "id": "2574",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "2575",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "2576",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "2577",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "2578",
+      "status": "pass",
+      "questions": 41,
+      "static": false
+    },
+    {
+      "id": "2579",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "2590",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "2591",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2592",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "2593",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2600",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2601",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "2602",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "2603",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "2610",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2611",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2612",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2620",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2621",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2622",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "2623",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2624",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [3. The defendant consciously disregarde"
+    },
+    {
+      "id": "2630",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2640",
+      "status": "pass",
+      "questions": 25,
+      "static": false
+    },
+    {
+      "id": "2641",
+      "status": "pass",
+      "questions": 28,
+      "static": false
+    },
+    {
+      "id": "2650",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "2651",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "2652",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "2653",
+      "status": "pass",
+      "questions": 26,
+      "static": false
+    },
+    {
+      "id": "2654",
+      "status": "pass",
+      "questions": 34,
+      "static": false
+    },
+    {
+      "id": "2655",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "2656",
+      "status": "pass",
+      "questions": 28,
+      "static": false
+    },
+    {
+      "id": "2670",
+      "status": "pass",
+      "questions": 34,
+      "static": false
+    },
+    {
+      "id": "2671",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "2672",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "2673",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "2680",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "2681",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "2682",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2683",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "2684",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "2685",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2686",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2687",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2688",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 6: [[AND]"
+    },
+    {
+      "id": "2689",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 4: [[AND]"
+    },
+    {
+      "id": "2690",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2700",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2701",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2702",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "2703",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2720",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2721",
+      "status": "pass",
+      "questions": 28,
+      "static": false
+    },
+    {
+      "id": "2722",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "2723",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2735",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "2736",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "2745",
+      "status": "pass",
+      "questions": 50,
+      "static": false
+    },
+    {
+      "id": "2746",
+      "status": "pass",
+      "questions": 42,
+      "static": false
+    },
+    {
+      "id": "2747",
+      "status": "pass",
+      "questions": 50,
+      "static": false
+    },
+    {
+      "id": "2748",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [4A. The controlled substance was ______"
+    },
+    {
+      "id": "2749",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [4. The controlled substance was [an ana"
+    },
+    {
+      "id": "2760",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2761",
+      "status": "pass",
+      "questions": 52,
+      "static": false
+    },
+    {
+      "id": "2762",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2763",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2764",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "2765",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2800",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2801",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2810",
+      "status": "parse",
+      "category": "parens",
+      "detail": "unclosed ("
+    },
+    {
+      "id": "2811",
+      "status": "pass",
+      "questions": 29,
+      "static": false
+    },
+    {
+      "id": "2812",
+      "status": "pass",
+      "questions": 31,
+      "static": false
+    },
+    {
+      "id": "2825",
+      "status": "pass",
+      "questions": 32,
+      "static": false
+    },
+    {
+      "id": "2826",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2827",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2828",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2840",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2841",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "2842",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2843",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2844",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2845",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "2846",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "2860",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "2861",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2900",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "2901",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2902",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "2903",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2915",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "2916",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "2917",
+      "status": "render",
+      "category": "leftover bracket markup",
+      "detail": "leftover bracket markup"
+    },
+    {
+      "id": "2929",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2930",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "2931",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "2932",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "2933",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "2950",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "2951",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "2952",
+      "status": "pass",
+      "questions": 22,
+      "static": false
+    },
+    {
+      "id": "2953",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "2960",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "2961",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2962",
+      "status": "render",
+      "category": "leftover bracket markup",
+      "detail": "leftover bracket markup"
+    },
+    {
+      "id": "2963",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "2964",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "2965",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "2966",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "2980",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [1. The defendant (committed an act/[or]"
+    },
+    {
+      "id": "2981",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "2982",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "2990",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "2991",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "2992",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "2993",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2994",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "2995",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "unclosed ["
+    },
+    {
+      "id": "2996",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "2997",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [2A. <Give 2B and/or 2C as appropriate w"
+    },
+    {
+      "id": "300",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "3001",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "3002",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "301",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3010",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "302",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "303",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "304",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "305",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "306",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "3100",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "3101",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "3102",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: 2[B]. The defendant was convicted of a n"
+    },
+    {
+      "id": "3103",
+      "status": "pass",
+      "questions": 0,
+      "static": false
+    },
+    {
+      "id": "3115",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3116",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3117",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3130",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3131",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3132",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3145",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 7: [[OR]"
+    },
+    {
+      "id": "3146",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3147",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3148",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3149",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "315",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "3150",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "316",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "3160",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 9: [AND"
+    },
+    {
+      "id": "3161",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 14: [AND"
+    },
+    {
+      "id": "3162",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 14: [AND"
+    },
+    {
+      "id": "3163",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 13: [AND"
+    },
+    {
+      "id": "317",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3175",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "3176",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "3177",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "3178",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "3179",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "318",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "3180",
+      "status": "pass",
+      "questions": 37,
+      "static": false
+    },
+    {
+      "id": "3181",
+      "status": "pass",
+      "questions": 0,
+      "static": false
+    },
+    {
+      "id": "3182",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "3183",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "3184",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "3185",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "319",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "320",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3200",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3201",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "3218",
+      "status": "parse",
+      "category": "parens",
+      "detail": "unclosed ("
+    },
+    {
+      "id": "3219",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3220",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [1. In the commission [or attempted comm"
+    },
+    {
+      "id": "3221",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3222",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3223",
+      "status": "pass",
+      "questions": 0,
+      "static": false
+    },
+    {
+      "id": "3224",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "unclosed ["
+    },
+    {
+      "id": "3225",
+      "status": "parse",
+      "category": "parens",
+      "detail": "unclosed ("
+    },
+    {
+      "id": "3226",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "3227",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "3228",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "3229",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "3230",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "3231",
+      "status": "pass",
+      "questions": 37,
+      "static": false
+    },
+    {
+      "id": "3232",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "3233",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "3234",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "3235",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3237",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3238",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3250",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3251",
+      "status": "pass",
+      "questions": 0,
+      "static": false
+    },
+    {
+      "id": "3260",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "3261",
+      "status": "pass",
+      "questions": 58,
+      "static": false
+    },
+    {
+      "id": "330",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "331",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "332",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "333",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "334",
+      "status": "pass",
+      "questions": 34,
+      "static": false
+    },
+    {
+      "id": "335",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "336",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "337",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "3400",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "3402",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "3403",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "3404",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "3405",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "3406",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "3407",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "3408",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "3409",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "3410",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "3411",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "3412",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "3413",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "3414",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "3415",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "3425",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "3426",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "3427",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "3428",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "3429",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3450",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "3451",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "3452",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3453",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "3454",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "3454A",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "3455",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "3456",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "3457",
+      "status": "pass",
+      "questions": 22,
+      "static": false
+    },
+    {
+      "id": "3458",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3459",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "3470",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "3471",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "3472",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "3474",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "3475",
+      "status": "parse",
+      "category": "parens",
+      "detail": "unclosed ("
+    },
+    {
+      "id": "3476",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "3477",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "350",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "3500",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "3501",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "3502",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "351",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3515",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3516",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "3517",
+      "status": "pass",
+      "questions": 28,
+      "static": false
+    },
+    {
+      "id": "3518",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "3519",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "352",
+      "status": "pass",
+      "questions": 45,
+      "static": false
+    },
+    {
+      "id": "3530",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "3531",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "355",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "3550",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "3551",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "356",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "357",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "3575",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "3576",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "3577",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "358",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "359",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "3590",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "360",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "361",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "362",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "370",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "371",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "372",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "373",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "374",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "375",
+      "status": "pass",
+      "questions": 47,
+      "static": false
+    },
+    {
+      "id": "376",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "377",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "378",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "400",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "401",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "402",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "403",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "404",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "415",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "416",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "417",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "418",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "419",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "420",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "440",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "441",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "442",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "443",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "450",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "451",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "460",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "500",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "505",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "506",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "507",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "508",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [4. The defendant had reason to believe "
+    },
+    {
+      "id": "509",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "510",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "511",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "512",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "520",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 3: [[OR]"
+    },
+    {
+      "id": "521",
+      "status": "pass",
+      "questions": 36,
+      "static": false
+    },
+    {
+      "id": "522",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "523",
+      "status": "pass",
+      "questions": 22,
+      "static": false
+    },
+    {
+      "id": "524",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "525",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "526",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "540A",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "540B",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [5A. The defendant intended to kill;"
+    },
+    {
+      "id": "540C",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "548",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "560",
+      "status": "parse",
+      "category": "elements",
+      "detail": "unclosed [AND"
+    },
+    {
+      "id": "561",
+      "status": "parse",
+      "category": "elements",
+      "detail": "unclosed [AND"
+    },
+    {
+      "id": "562",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "563",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "570",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "571",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "572",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "580",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "581",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "582",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "590",
+      "status": "pass",
+      "questions": 42,
+      "static": false
+    },
+    {
+      "id": "591",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "592",
+      "status": "pass",
+      "questions": 31,
+      "static": false
+    },
+    {
+      "id": "593",
+      "status": "pass",
+      "questions": 32,
+      "static": false
+    },
+    {
+      "id": "594",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "595",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "600",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "601",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "602",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "603",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "604",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "620",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "625",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "626",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "627",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "640",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [3. If all of you agree that the defenda"
+    },
+    {
+      "id": "641",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [5. If all of you agree that the defenda"
+    },
+    {
+      "id": "642",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [3. If all of you agree that the defenda"
+    },
+    {
+      "id": "643",
+      "status": "pass",
+      "questions": 22,
+      "static": false
+    },
+    {
+      "id": "700",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "701",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "702",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "703",
+      "status": "pass",
+      "questions": 46,
+      "static": false
+    },
+    {
+      "id": "704",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "705",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "706",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "707",
+      "status": "pass",
+      "questions": 46,
+      "static": false
+    },
+    {
+      "id": "708",
+      "status": "pass",
+      "questions": 28,
+      "static": false
+    },
+    {
+      "id": "720",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "721",
+      "status": "pass",
+      "questions": 1,
+      "static": false
+    },
+    {
+      "id": "722",
+      "status": "pass",
+      "questions": 20,
+      "static": false
+    },
+    {
+      "id": "723",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: 2.] [The murder was committed while comp"
+    },
+    {
+      "id": "724",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "725",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "726",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "727",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "728",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "729",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "730",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "731",
+      "status": "pass",
+      "questions": 17,
+      "static": false
+    },
+    {
+      "id": "732",
+      "status": "pass",
+      "questions": 22,
+      "static": false
+    },
+    {
+      "id": "733",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [4. <Alternative B—before June 6, 1990>"
+    },
+    {
+      "id": "734",
+      "status": "pass",
+      "questions": 3,
+      "static": false
+    },
+    {
+      "id": "735",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "736",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "737",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "750",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "751",
+      "status": "pass",
+      "questions": 9,
+      "static": false
+    },
+    {
+      "id": "760",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "761",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "763",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "764",
+      "status": "pass",
+      "questions": 15,
+      "static": false
+    },
+    {
+      "id": "765",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "766",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "767",
+      "status": "pass",
+      "questions": 0,
+      "static": true
+    },
+    {
+      "id": "768",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "775",
+      "status": "render",
+      "category": "leftover slash alternative",
+      "detail": "leftover slash alternative"
+    },
+    {
+      "id": "800",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "801",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 3: [[OR]"
+    },
+    {
+      "id": "810",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    },
+    {
+      "id": "820",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "821",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 13: [[AND]"
+    },
+    {
+      "id": "822",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "823",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 11: [[AND]"
+    },
+    {
+      "id": "830",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "831",
+      "status": "parse",
+      "category": "brackets",
+      "detail": "bracket never closes"
+    },
+    {
+      "id": "840",
+      "status": "pass",
+      "questions": 23,
+      "static": false
+    },
+    {
+      "id": "841",
+      "status": "pass",
+      "questions": 22,
+      "static": false
+    },
+    {
+      "id": "850",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "851",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "852A",
+      "status": "render",
+      "category": "doubled punctuation",
+      "detail": "doubled punctuation"
+    },
+    {
+      "id": "852B",
+      "status": "pass",
+      "questions": 5,
+      "static": false
+    },
+    {
+      "id": "853A",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "853B",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "860",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "861",
+      "status": "pass",
+      "questions": 27,
+      "static": false
+    },
+    {
+      "id": "862",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [1A. The defendant did an act that by it"
+    },
+    {
+      "id": "863",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [1A. The defendant did an act that by it"
+    },
+    {
+      "id": "875",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [1A. The defendant did an act that by it"
+    },
+    {
+      "id": "876",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "877",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "890",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "891",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 10: [[OR]"
+    },
+    {
+      "id": "900",
+      "status": "pass",
+      "questions": 21,
+      "static": false
+    },
+    {
+      "id": "901",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "902",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "903",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "904",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "905",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "906",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "907",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "908",
+      "status": "parse",
+      "category": "elements",
+      "detail": "not an element: [3. When the defendant did the act, (he/"
+    },
+    {
+      "id": "915",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "916",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "917",
+      "status": "render",
+      "category": "leftover bracket markup",
+      "detail": "leftover bracket markup"
+    },
+    {
+      "id": "925",
+      "status": "pass",
+      "questions": 12,
+      "static": false
+    },
+    {
+      "id": "926",
+      "status": "pass",
+      "questions": 19,
+      "static": false
+    },
+    {
+      "id": "935",
+      "status": "pass",
+      "questions": 14,
+      "static": false
+    },
+    {
+      "id": "936",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "937",
+      "status": "pass",
+      "questions": 2,
+      "static": false
+    },
+    {
+      "id": "938",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "945",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "946",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "947",
+      "status": "pass",
+      "questions": 8,
+      "static": false
+    },
+    {
+      "id": "948",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 9: [[AND]"
+    },
+    {
+      "id": "949",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 11: [[AND]"
+    },
+    {
+      "id": "950",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "951",
+      "status": "pass",
+      "questions": 16,
+      "static": false
+    },
+    {
+      "id": "960",
+      "status": "pass",
+      "questions": 7,
+      "static": false
+    },
+    {
+      "id": "965",
+      "status": "pass",
+      "questions": 24,
+      "static": false
+    },
+    {
+      "id": "966",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 4: [[AND]"
+    },
+    {
+      "id": "967",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "968",
+      "status": "roundtrip",
+      "category": "roundtrip",
+      "detail": "paragraph 4: [[AND]"
+    },
+    {
+      "id": "969",
+      "status": "pass",
+      "questions": 10,
+      "static": false
+    },
+    {
+      "id": "970",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "980",
+      "status": "pass",
+      "questions": 13,
+      "static": false
+    },
+    {
+      "id": "981",
+      "status": "pass",
+      "questions": 11,
+      "static": false
+    },
+    {
+      "id": "982",
+      "status": "pass",
+      "questions": 18,
+      "static": false
+    },
+    {
+      "id": "983",
+      "status": "parse",
+      "category": "elements",
+      "detail": "conjunction not followed by an element"
+    },
+    {
+      "id": "984",
+      "status": "pass",
+      "questions": 4,
+      "static": false
+    },
+    {
+      "id": "985",
+      "status": "pass",
+      "questions": 6,
+      "static": false
+    }
+  ]
+}
