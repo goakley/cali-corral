@@ -1,0 +1,73 @@
+{
+  "answers": {
+    "not_lawful_if": [
+      "arrest"
+    ],
+    "sec_detention": false,
+    "detention_consent": false,
+    "sec_arrest": false,
+    "arrest_basis": [
+      "warrant"
+    ],
+    "misd_presence": false,
+    "warrantless_felony": false,
+    "warrantless_kind": [
+      "felony"
+    ],
+    "misd_article": "an",
+    "crime_class": "felony",
+    "home_entry": false,
+    "home_no_consent": false,
+    "must_tell": false,
+    "must_tell_exception": false,
+    "must_tell_offense": false,
+    "recording": false,
+    "recording_not_basis": [
+      "suspicion"
+    ],
+    "special_rules": false,
+    "non_deadly": false,
+    "deadly_force": false,
+    "deadly_def": false,
+    "sbi_def": false,
+    "sbi_not_limited": false,
+    "sbi_list": [
+      "consciousness"
+    ],
+    "imminent_def": false,
+    "no_retreat": false,
+    "no_resist": false,
+    "unlawful_arrest_not_guilty": false,
+    "excessive_force_defense": false,
+    "excessive_while": [
+      "arresting"
+    ]
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    },
+    "fleeing_felon": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "he"
+    },
+    "officer": {
+      "name": "Riley Placeholder",
+      "title": "highway patrol officer",
+      "agency": "the Department of Fish and Wildlife",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "arrest_crime": "example arrest crime",
+    "felony": "example felony",
+    "misdemeanor": "example misdemeanor",
+    "offenses": "example offenses"
+  }
+}

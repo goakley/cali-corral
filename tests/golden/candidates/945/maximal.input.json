@@ -1,0 +1,47 @@
+{
+  "answers": {
+    "count_ref": true,
+    "cite_statute": true,
+    "officer_article": "a",
+    "unlawfully": true,
+    "felony": true,
+    "self_defense": true,
+    "defense_kind": [
+      "self",
+      "other"
+    ],
+    "slightest_touching": true,
+    "injury_def": true,
+    "indirect": true,
+    "indirect_how": [
+      "object",
+      "held"
+    ],
+    "indirect_someone_else": true,
+    "police_def": true,
+    "designated_def": true,
+    "duties_def": true,
+    "on_duty": true,
+    "private_capacity": true,
+    "patrol_term": "patrolwoman"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "officer": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "designation_facts": "example designation facts",
+    "duties": "example duties"
+  }
+}

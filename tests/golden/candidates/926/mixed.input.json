@@ -1,0 +1,41 @@
+{
+  "answers": {
+    "count_ref": true,
+    "cite_statute": false,
+    "title_article": "a",
+    "unlawfully": false,
+    "victim_alt": "duties",
+    "medical_kind": "doctor",
+    "injury": true,
+    "self_defense": false,
+    "defense_kind": [
+      "self"
+    ],
+    "duties_def": false,
+    "on_duty": true,
+    "injury_def": false,
+    "indirect": true,
+    "indirect_how": [
+      "held"
+    ],
+    "indirect_someone_else": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    },
+    "victim": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "duties": "example duties"
+  }
+}

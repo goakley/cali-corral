@@ -1,0 +1,40 @@
+{
+  "answers": {
+    "explain_crimes": false,
+    "lesser_of_lesser": false,
+    "pair1": false,
+    "pair1_count": false,
+    "pair2": false,
+    "pair2_count": false,
+    "pair3": false,
+    "pair3_count": false,
+    "separate_forms": false,
+    "for_count": false,
+    "the_any": "the",
+    "that_count": false,
+    "combined_form": false,
+    "for_charge": false,
+    "mark": "write",
+    "unless_otherwise": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "count1": "example count1",
+    "count2": "example count2",
+    "count3": "example count3",
+    "greater1": "example greater1",
+    "greater2": "example greater2",
+    "greater3": "example greater3",
+    "lesser1": "example lesser1",
+    "lesser2": "example lesser2",
+    "lesser3": "example lesser3"
+  }
+}

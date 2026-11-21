@@ -1,0 +1,37 @@
+{
+  "answers": {
+    "count_ref": false,
+    "cite_statute": false,
+    "unlawfully": false,
+    "violence": false,
+    "title_def": false,
+    "officer_article": "a",
+    "sworn_member_def": false,
+    "duties_def": false,
+    "recording": false,
+    "lawful_performance": false,
+    "unlawful_kind": [
+      "arrest"
+    ]
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    },
+    "officer": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "authority_section": "example authority section",
+    "duties": "example duties",
+    "statutory_authority": "example statutory authority"
+  }
+}

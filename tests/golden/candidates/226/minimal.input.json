@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "f_other_evidence": false,
+    "f_admit_untruthful": false,
+    "f_character": false,
+    "f_felony": false,
+    "f_conduct": false,
+    "f_conduct_other": false,
+    "f_immunity": false,
+    "character_not_discussed": false,
+    "no_longer_remembers": false,
+    "deliberately_lied": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

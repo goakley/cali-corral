@@ -115,8 +115,8 @@ export function fixedInput(t: Template, kind: "minimal" | "maximal" | "mixed"): 
     };
   });
   const text: Record<string, string> = {};
-  [...n.textFields].forEach((f, i) => {
-    text[f] = `[${f.replace(/_/g, " ")} ${i + 1}]`.replace(/[[\]]/g, "");
+  [...n.textFields].sort().forEach((f) => {
+    text[f] = `example ${f.replace(/_/g, " ")}`;
   });
   const input: RenderInput = { answers, people, count: "1", text };
   // Apply the engine's suggestions (e.g. a/an), as the UI would offer them.

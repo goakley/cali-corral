@@ -1,0 +1,54 @@
+{
+  "answers": {
+    "defense": [
+      "self"
+    ],
+    "crimes_plural": false,
+    "protected": [
+      "self"
+    ],
+    "touched_unlawfully": false,
+    "danger_kind": [
+      "injury"
+    ],
+    "belief_who": [
+      "self"
+    ],
+    "imminent_def": false,
+    "slightest_touching": false,
+    "untrue_information": false,
+    "victim_threatened_defendant": false,
+    "victim_threatened_defendant_others": false,
+    "victim_threatened_others": false,
+    "act_more_quickly": false,
+    "threat_from_other": false,
+    "no_retreat": false,
+    "danger_of": "death"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    },
+    "third_party": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "he"
+    },
+    "victim": {
+      "name": "Riley Placeholder",
+      "title": "highway patrol officer",
+      "agency": "the Department of Fish and Wildlife",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "crimes": "example crimes",
+    "crimes_charged": "example crimes charged",
+    "danger_crime": "example danger crime"
+  }
+}

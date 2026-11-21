@@ -1,0 +1,38 @@
+{
+  "answers": {
+    "research_sources": [
+      "dictionary"
+    ],
+    "exhibits": false,
+    "exhibits_how": "sent",
+    "vote_on": [
+      "guilt"
+    ],
+    "each_count": false,
+    "coin_flip": false,
+    "retrial": false,
+    "retrial_charges_plural": false,
+    "retrial_counts": false,
+    "no_indication": false,
+    "forms_plural": false,
+    "partial_verdict": false,
+    "partial_on": [
+      "charges"
+    ]
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "other_source": "example other source",
+    "retrial_charges": "example retrial charges",
+    "retrial_count_numbers": "example retrial count numbers",
+    "social_media": "example social media"
+  }
+}
