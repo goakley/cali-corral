@@ -334,7 +334,36 @@ A free tool for attorneys is on solid ground: the Judicial Council intends the i
 
 Ship a narrow, well-verified first release before widening coverage. Multiple defendants come last because they are the hardest to get right.
 
-&#91;embedded content: roadmap · 4 phases, 3 gates\]
+### Roadmap
+
+Each phase ships only after its gate is met. Gates are criteria, not dates.
+
+**Phase 0: Foundations**
+- Template schema; rendering engine with jury, annotated and source modes
+- PDF extractor and normalization; round-trip and property tests in CI
+- CI previews on pull requests; AI-draft and machine-check all ~800 instructions
+- Note: `docs/PHASE-0.md` covers only the first part of this phase (foundations plus a 12-instruction pilot) and ends at its own stop point. Drafting the remaining instructions is a separate brief that follows owner review.
+
+> **Gate 0:** every template passes the round-trip test, and an attorney approves sample output.
+
+**Phase 1: First release (single defendant)**
+- Instruction picker, questionnaire with on-demand case facts, live preview, edit tracking
+- Rule 2.1055 .docx export; signed manifest and freshness checks
+- In-app flags via the relay, local overrides, flag banners, review levels shown
+
+> **Gate 1:** two attorneys use it in real trial prep, and the exports need no reformatting.
+
+**Phase 2: Breadth**
+- Template editor; proposed fixes become pull requests via the relay
+- Pending community fixes users can apply locally; report status tracking
+- Human review of the most-used instructions; multi-count cases
+
+> **Gate 2:** one full February or October CALCRIM release handled end to end.
+
+**Phase 3: Multiple defendants**
+- Agreement annotations in templates (plurals, verbs, pronouns)
+- Per-defendant elements and applicability
+- Optional in-app review for maintainers (GitHub stays the store)
 
 Gates are criteria, not dates; timing depends mostly on how many reviewers join.
 
