@@ -17,7 +17,7 @@
   "revision_legend": null,
   "body": [
     "<nonbifurcated trial>",
-    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______[,]][ or of attempting to commit (that/those) crime[s]][ or the lesser crimes[s] of ______ <insert lesser offense(s)>], you must then decide whether the People have proved the additional allegation that ______ <insert name of defendant> was on (probation/mandatory supervision/postrelease community supervision/parole) when the defendant committed the crime.]",
+    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______[,]] [or of attempting to commit (that/those) crime[s]] [or the lesser crimes[s] of ______ <insert lesser offense(s)>], you must then decide whether the People have proved the additional allegation that ______ <insert name of defendant> was on (probation/mandatory supervision/postrelease community supervision/parole) when the defendant committed the crime.]",
     "<bifurcated trial>",
     "[The People have alleged that ______ <insert name of defendant> was on (probation/mandatory supervision/postrelease community supervision/parole) when the defendant committed the crime.]",
     "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."

@@ -17,14 +17,14 @@
   "revision_legend": null,
   "body": [
     "<Introductory paragraph for nonbifurcated trial>",
-    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______[,]][ or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether the People have proved the additional allegation that ______ <insert name of defendant>’s prior performance on (probation[,]/[ or] mandatory supervision[,]/[ or] postrelease community supervision[,]/[ or] parole) was unsatisfactory.]",
+    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______[,]] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether the People have proved the additional allegation that ______ <insert name of defendant>’s prior performance on (probation[,]/[or] mandatory supervision[,]/[or] postrelease community supervision[,]/[or] parole) was unsatisfactory.]",
     "<Introductory paragraph for bifurcated trial>",
-    "[The People have alleged that ______ <insert name of defendant>’s prior performance on (probation[,]/[ or] mandatory supervision[,]/[ or] postrelease community supervision[,]/[ or] parole) was unsatisfactory.]",
+    "[The People have alleged that ______ <insert name of defendant>’s prior performance on (probation[,]/[or] mandatory supervision[,]/[or] postrelease community supervision[,]/[or] parole) was unsatisfactory.]",
     "To prove this allegation, the People must prove that:",
-    "1. The defendant had previously been placed on (probation[,]/[ or] mandatory supervision[,]/[ or] postrelease community supervision[,]/[ or] parole);",
+    "1. The defendant had previously been placed on (probation[,]/[or] mandatory supervision[,]/[or] postrelease community supervision[,]/[or] parole);",
     "AND",
-    "2. The defendant’s performance on (probation[,]/[ or] mandatory supervision[,]/[ or] postrelease community supervision[,]/[ or] parole) was unsatisfactory.",
-    "You may not find the allegation true unless all of you agree that the People have proved that the defendant’s prior performance on [a specific] (probation[,]/[ or] mandatory supervision[,]/[ or] postrelease community supervision[,]/[ or] parole) was unsatisfactory. However, all of you do not need to agree on which act[s] or conduct demonstrate[s] that the prior performance was unsatisfactory.",
+    "2. The defendant’s performance on (probation[,]/[or] mandatory supervision[,]/[or] postrelease community supervision[,]/[or] parole) was unsatisfactory.",
+    "You may not find the allegation true unless all of you agree that the People have proved that the defendant’s prior performance on [a specific] (probation[,]/[or] mandatory supervision[,]/[or] postrelease community supervision[,]/[or] parole) was unsatisfactory. However, all of you do not need to agree on which act[s] or conduct demonstrate[s] that the prior performance was unsatisfactory.",
     "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
   ],
   "body_indents": [

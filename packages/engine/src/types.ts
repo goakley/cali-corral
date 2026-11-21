@@ -53,9 +53,17 @@ export interface OptNode {
   if: Condition;
 }
 
-/** Pick exactly one alternative. Source: `(a/b/c)`. */
+/**
+ * Pick exactly one alternative. Source: `(a/b/c)`.
+ *
+ * Either `choice` names a question (type "choice") whose options map to these
+ * alternatives by position, or `when` gives one condition per alternative and
+ * the first that holds is used (for punctuation and capitalization that
+ * follow from other choices, e.g. `(./,)` or `(Y/y)ou`).
+ */
 export interface ChoiceNode {
-  choice: string; // question id (type "choice")
+  choice?: string;
+  when?: Condition[];
   options: (Inline[] | string)[];
 }
 
@@ -83,7 +91,8 @@ export interface SepNode {
  */
 export interface PronounNode {
   pronoun: string; // role id, or "defendant"
-  forms: [string, string];
+  /** Printed alternatives: masculine, feminine, and optionally they-form. */
+  forms: string[];
 }
 
 /**
@@ -94,6 +103,8 @@ export interface AgreeNode {
   agree: string; // role id
   sg: string;
   pl: string;
+  /** The official text prints both forms as alternatives: `(sg/pl)`. */
+  alt?: true;
 }
 
 /** A drafter note inside a paragraph. Source: `<text>`. Never rendered to the jury. */
@@ -106,15 +117,24 @@ export interface NoteNode {
 // Blocks
 
 export type Block =
+  | string // a paragraph of plain text (shorthand)
   | Inline[] // a paragraph (shorthand)
   | ParagraphBlock
+  | BulletBlock
   | NoteBlock
   | OptBlock
-  | ElementsBlock
-  | AlternativesBlock;
+  | ElementsBlock;
 
 export interface ParagraphBlock {
   p: Inline[] | string;
+}
+
+/**
+ * A bulleted list item. Source: `• ` + content. Dropped in jury mode when its
+ * content renders empty (official bullets sit outside the brackets).
+ */
+export interface BulletBlock {
+  bullet: Inline[] | string;
 }
 
 /** A drafter note standing as its own paragraph. Source: `<text>`. */
@@ -129,15 +149,6 @@ export interface OptBlock {
   if: Condition;
 }
 
-/**
- * Labeled alternatives: whole versions of a passage, each usually introduced by
- * a note such as `<Alternative 2A—...>`. Source prints every alternative in order.
- */
-export interface AlternativesBlock {
-  alternatives: string; // question id (type "choice")
-  options: Block[][];
-}
-
 /** A numbered element list. */
 export interface ElementsBlock {
   elements: ElementItem[];
@@ -145,7 +156,12 @@ export interface ElementsBlock {
   conj?: string;
 }
 
-export type ElementItem = Element | NoteBlock | ElementAlternatives;
+/**
+ * Labeled alternatives (`<Alternative 2A—...>` followed by `[2. ...]`) are
+ * encoded as a note plus an optional element whose condition tests a choice
+ * question, so no separate node type is needed.
+ */
+export type ElementItem = Element | NoteBlock;
 
 export interface Element {
   /** Printed element number in the official text, e.g. "4" or "2A". */
@@ -167,12 +183,6 @@ export interface Element {
   if?: Condition;
 }
 
-/** Alternative versions of one element (labeled alternatives in a list). */
-export interface ElementAlternatives {
-  alternatives: string; // question id
-  options: (Element | NoteBlock)[][];
-}
-
 // ---------------------------------------------------------------------------
 // Conditions: a small expression language.
 //
@@ -181,6 +191,7 @@ export interface ElementAlternatives {
 //   victim=firefighter  choice question equals option id
 //   defenses~self       multi question includes option id
 //   a & b, a | b, ( )   conjunction, disjunction, grouping
+//   @multiple_defendants  built-in flag (always false in v1: single defendant)
 export type Condition = string;
 
 // ---------------------------------------------------------------------------
@@ -289,7 +300,7 @@ export interface Run {
 }
 
 export interface RenderedBlock {
-  kind: "p" | "element" | "conj";
+  kind: "p" | "bullet" | "element" | "conj";
   /** Element number in the rendered list (jury numbering). */
   number?: number;
   /** Nesting depth (0 for body paragraphs, 1 for elements). */
@@ -301,4 +312,8 @@ export interface Rendered {
   id: string;
   title: string;
   blocks: RenderedBlock[];
+  /** Fields that were needed but empty (rendered as a blank). */
+  missingFields: string[];
+  /** Questions that were needed but unanswered (rendered as source markup). */
+  unanswered: string[];
 }

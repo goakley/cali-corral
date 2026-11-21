@@ -17,9 +17,9 @@
   "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
   "body": [
     "<Introductory paragraph for nonbifurcated trial>",
-    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant induced others to participate in committing the crime[s] or occupied a position of leadership or dominance of other participants in the commission of the crime[s].]",
+    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant induced others to participate in committing the crime[s] or occupied a position of leadership or dominance of other participants in the commission of the crime[s].]",
     "<Introductory paragraph for bifurcated trial>",
-    "[The People have alleged[ in Count[s] ______] that the defendant induced others to participate in committing the crime[s] or occupied a position of leadership or dominance of other participants in the commission of the crime[s].]",
+    "[The People have alleged [in Count[s] ______] that the defendant induced others to participate in committing the crime[s] or occupied a position of leadership or dominance of other participants in the commission of the crime[s].]",
     "To prove this allegation, the People must prove that:",
     "1. The defendant induced others to participate in the commission of the crime[s];",
     "OR",

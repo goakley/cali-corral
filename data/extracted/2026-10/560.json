@@ -40,7 +40,7 @@
     "<Degree of Murder>",
     "[[If you decide that the defendant is guilty of murder, you must decide whether the murder is first or second degree.]",
     "<Give if multiple theories alleged.>",
-    "[The defendant has been prosecuted for first degree murder under (two/______ <insert number>) theories: (1) ______ <insert first theory, e.g., “the provocative act was willful, deliberate, and premeditated (murder/attempted murder)”> [and] (2) ______ <insert second theory, e.g., “the provocative act was committed during the defendant’s perpetration of an enumerated felony> [______ <insert additional theories>”*].",
+    "[The defendant has been prosecuted for first degree murder under (two/______ <insert number>) theories: (1) ______ <insert first theory, e.g., “the provocative act was willful, deliberate, and premeditated (murder/attempted murder)”> [and] (2) ______ <insert second theory, e.g., “the provocative act was committed during the defendant’s perpetration of an enumerated felony> [______ <insert additional theories>”].",
     "Each theory of first degree murder has different requirements, and I will instruct you on (both/all ______ <insert number>.)",
     "You may not find the defendant guilty of first degree murder unless all of you agree that the People have proved that the defendant committed murder. But all of you do not need to agree on the same theory.]",
     "<A. Deliberation and Premeditation>",

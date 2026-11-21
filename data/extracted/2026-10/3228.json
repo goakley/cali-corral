@@ -17,9 +17,9 @@
   "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
   "body": [
     "<Introductory paragraph for nonbifurcated trial>",
-    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______][ or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the defendant induced a minor to commit or assist in the commission of the crime[s][ in Count[s] ______].]",
+    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the defendant induced a minor to commit or assist in the commission of the crime[s] [in Count[s] ______].]",
     "<Introductory paragraph for bifurcated trial>",
-    "[The People have alleged[ in Count[s] ______] that the defendant induced a minor to commit or assist in the commission of the crime[s].]",
+    "[The People have alleged [in Count[s] ______] that the defendant induced a minor to commit or assist in the commission of the crime[s].]",
     "To prove this allegation, the People must prove that:",
     "1. The defendant induced a minor to commit the crime[s];",
     "OR",

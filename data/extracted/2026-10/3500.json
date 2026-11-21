@@ -16,7 +16,7 @@
   "revision_line": "New January 2006; Revised February 2025",
   "revision_legend": null,
   "body": [
-    "The defendant is charged with ______ <insert description of alleged offense> [in Count ______] [sometime during the period of ______ to ______ ][, and the court has also instructed you on the lesser crime[s] of ______ <insert description of lesser crime(s)>].",
+    "The defendant is charged with ______ <insert description of alleged offense> [in Count ______] [sometime during the period of ______ to ______][, and the court has also instructed you on the lesser crime[s] of ______ <insert description of lesser crime(s)>].",
     "The People have presented evidence of more than one act to prove that the defendant committed the charged offense [and the lesser crime[s]]. You must not find the defendant guilty [of ______ <insert description of charged and lesser crimes requiring unanimity>] unless you all agree that the People have proved that the defendant committed at least one of these acts and you all agree on which act (he/she) committed."
   ],
   "body_indents": [

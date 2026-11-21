@@ -68,3 +68,37 @@ def test_emphasis_on_punctuation_dropped():
 def test_unexpected_chars_ignores_markup():
     assert unexpected_chars(f"*a* {BLANK} <b>") == set()
     assert unexpected_chars("xı") == {"ı"}
+
+
+def test_emphasis_balanced_when_run_continues_past_note():
+    # 560: an italic run covers a note and a closing quote after it
+    s = "[" + BLANK + em(" <insert additional theories>”") + "]."
+    assert resolve_emphasis(s) == "[" + BLANK + " <insert additional theories>”]."
+
+
+def test_emphasis_reopens_after_note():
+    s = em("<note> defined term") + " rest"
+    assert resolve_emphasis(s) == "<note> *defined term* rest"
+
+
+def test_bracket_inner_spacing_and_blank_punctuation():
+    assert canonical_spacing("(sent/[ or] brought)") == "(sent/[or] brought)"
+    assert canonical_spacing("[As used here, ](M/m)atter") == "[As used here, ](M/m)atter"
+    assert canonical_spacing(f"guilty of {BLANK} .") == f"guilty of {BLANK}."
+
+
+def test_emphasis_snaps_outside_choice():
+    assert resolve_emphasis("(" + em("M/m)atter") + " means") == "*(M/m)atter* means"
+
+
+def test_emphasis_not_snapped_out_of_brackets_or_citations():
+    assert resolve_emphasis("[" + em("Great bodily injury") + " means") == "[*Great bodily injury* means"
+    assert resolve_emphasis("(" + em("People v. Doe") + ")") == "(*People v. Doe*)"
+
+
+def test_space_after_bracket_moves_before_it():
+    assert canonical_spacing("is charged[ in Count") == "is charged [in Count"
+def test_space_move_after_paren():
+    assert canonical_spacing("violence)[ and") == "violence) [and"
+    assert canonical_spacing("(a/[ or] b)") == "(a/[or] b)"
+    assert canonical_spacing("[[ For (the/any) count") == "[[For (the/any) count"

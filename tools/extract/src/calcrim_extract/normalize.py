@@ -92,51 +92,85 @@ def join_lines(lines: list[str], hyphen_words: set[str] | None = None) -> str:
 
 def canonical_spacing(text: str) -> str:
     text = re.sub(r"[ \t\n]+", " ", text)
+    # A space just after an opening bracket or parenthesis is a glyph-
+    # positioning artifact ("[ or]"). (A space before a closing bracket can be
+    # real: "[As used here, ](M/m)atter".)
+    # When the glyph gap put the space after the bracket instead of before it
+    # ("charged[ in Count"), move it before the bracket.
+    text = re.sub(r"([^\s/(\[])([(\[]) +", r"\1 \2", text)
+    text = re.sub(r"([(\[]) +", r"\1", text)
     # Spacing after a slash is not significant: officially both "a/ [or] b"
     # and "a/[or] b" occur, sometimes only because of a line break.
     text = re.sub(r"/ +", "/", text)
     # Normalize blank runs and the space between a blank and its insert note.
     text = re.sub(r"_{2,}", BLANK, text)
     text = re.sub(BLANK + r" *(?=[" + EM_ON + EM_OFF + r"]*<)", BLANK + " ", text)
+    # A drawn blank followed by punctuation sometimes leaves a layout gap.
+    text = re.sub(BLANK + r" +(?=[.,;:)\]])", BLANK, text)
     return text.strip()
 
 
 def _touches_note(text: str, i: int, n: int) -> bool:
-    """True if an italic marker sits right outside a note (only spaces or other
-    markers between it and the note's angle bracket)."""
-    if text[i] == EM_ON:
-        j = i + 1
-        while j < n and text[j] in (" ", EM_ON, EM_OFF):
-            j += 1
-        return j < n and text[j] == "<"
-    j = i - 1
-    while j >= 0 and text[j] in (" ", EM_ON, EM_OFF):
-        j -= 1
-    return j >= 0 and text[j] == ">"
+    """True if an opening italic marker sits right before a note (only spaces
+    or other markers between it and the note's ``<``)."""
+    j = i + 1
+    while j < n and text[j] in (" ", EM_ON, EM_OFF):
+        j += 1
+    return j < n and text[j] == "<"
 
 
 def resolve_emphasis(text: str) -> str:
     """Turn italic markers into ``*...*`` outside angle brackets.
 
-    Inside ``<...>`` notes, italics are implied and the markers are dropped.
-    Whitespace is moved outside emphasis, and empty emphasis is removed.
+    Notes (``<...>``) are italic officially, so no emphasis is emitted inside
+    or around them: an italic run that reaches a note is closed before the
+    ``<`` and, if it continues past the ``>``, reopened after it. Emitted
+    markers are always balanced. Whitespace is moved outside emphasis, and
+    emphasis covering only punctuation is dropped.
     """
     out: list[str] = []
     depth = 0
+    italic = False  # raw state from the markers
+    open_ = False  # an emitted EM_ON is open
     n = len(text)
     for i, ch in enumerate(text):
+        if ch == EM_ON:
+            italic = True
+            if depth == 0 and not open_ and not _touches_note(text, i, n):
+                out.append(EM_ON)
+                open_ = True
+            continue
+        if ch == EM_OFF:
+            italic = False
+            if open_:
+                out.append(EM_OFF)
+                open_ = False
+            continue
         if ch == "<":
+            if open_:
+                out.append(EM_OFF)
+                open_ = False
             depth += 1
-        elif ch == ">" and depth:
-            depth -= 1
             out.append(ch)
             continue
-        if ch in (EM_ON, EM_OFF):
-            if depth == 0 and not _touches_note(text, i, n):
-                out.append(ch)
+        if ch == ">" and depth:
+            depth -= 1
+            out.append(ch)
+            j = i + 1
+            while j < n and text[j] == " ":
+                j += 1
+            if depth == 0 and italic and j < n and text[j] not in (EM_OFF, EM_ON, "<"):
+                out.append(EM_ON)
+                open_ = True
             continue
         out.append(ch)
+    if open_:
+        out.append(EM_OFF)
     s = "".join(out)
+    # Emphasis that starts just inside a choice ("(*M/m)atter*") snaps
+    # outward so it encloses the choice ("*(M/m)atter*"). Only for a
+    # parenthesized group containing a slash, i.e. an alternative.
+    s = re.sub(r"\(" + EM_ON + r"(?=[^()]*/[^()]*\))", EM_ON + "(", s)
     # merge adjacent emphasis separated only by whitespace
     s = re.sub(EM_OFF + r"(\s*)" + EM_ON, r"\1", s)
     # move whitespace outside emphasis
@@ -144,7 +178,7 @@ def resolve_emphasis(text: str) -> str:
     s = re.sub(r"(\s+)" + EM_OFF, EM_OFF + r"\1", s)
     s = re.sub(EM_ON + EM_OFF, "", s)
     # emphasis covering only punctuation is typographic noise
-    s = re.sub(EM_ON + r"([^\w" + EM_OFF + r"]*)" + EM_OFF, r"\1", s)
+    s = re.sub(EM_ON + r"([^\w" + EM_ON + EM_OFF + r"]*)" + EM_OFF, r"\1", s)
     return s.replace(EM_ON, "*").replace(EM_OFF, "*")
 
 

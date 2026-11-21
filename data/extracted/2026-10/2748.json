@@ -16,7 +16,7 @@
   "revision_line": "New January 2006; Revised October 2010, February 2014, September 2017, September 2018",
   "revision_legend": null,
   "body": [
-    "The defendant is charged [in Count ______] with possessing ( ______ <insert type of controlled substance>, a controlled substance/an object intended for use to inject or consume controlled substances), in a penal institution [in violation of Penal Code section 4573.6].",
+    "The defendant is charged [in Count ______] with possessing (______ <insert type of controlled substance>, a controlled substance/an object intended for use to inject or consume controlled substances), in a penal institution [in violation of Penal Code section 4573.6].",
     "To prove that the defendant is guilty of this crime, the People must prove that:",
     "1. The defendant [unlawfully] possessed (a controlled substance/an object intended for use to inject or consume controlled substances) in a penal institution [or on the grounds of a penal institution];",
     "2. The defendant knew of the (substance’s/object’s) presence;",
@@ -28,7 +28,7 @@
     "4B. The controlled substance was an analog of ______ <insert type of controlled substance>;",
     "AND",
     "5. The controlled substance was a usable amount.]",
-    "[In order to prove that the defendant is guilty of this crime, the People must prove that ______ <insert name of analog drug> is an analog of ______ <insert type of controlled substance>.* An analog of a controlled substance:",
+    "[In order to prove that the defendant is guilty of this crime, the People must prove that ______ <insert name of analog drug> is an analog of ______ <insert type of controlled substance>. An analog of a controlled substance:",
     "[1. Has a chemical structure substantially similar to the structure of a controlled substance(./;)]",
     "[OR]",
     "[(2/1). Has, is represented as having, or is intended to have a stimulant, depressant, or hallucinogenic effect on the central nervous system substantially similar to or greater than the effect of a controlled substance.]]",

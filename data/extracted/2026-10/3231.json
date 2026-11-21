@@ -17,9 +17,9 @@
   "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
   "body": [
     "<Introductory paragraph for nonbifurcated trial>",
-    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the crime[s][ in Count[s] ______] involved [(a/an)] [attempted] [or] [actual] (taking/[or] damage) of great monetary value.]",
+    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the crime[s] [in Count[s] ______] involved [(a/an)] [attempted] [or] [actual] (taking/[or] damage) of great monetary value.]",
     "<Introductory paragraph for bifurcated trial>",
-    "[The People have alleged that the crime[s][ in Count[s] ______] involved[ (a/an)][ attempted][ or][ actual] (taking/[or] damage) of great monetary value.]",
+    "[The People have alleged that the crime[s] [in Count[s] ______] involved [(a/an)] [attempted] [or] [actual] (taking/[or] damage) of great monetary value.]",
     "To prove this allegation, the People must prove that:",
     "1. During the commission of the crime[s], the defendant (attempted to take/[or ]actually took/damaged) ______ <insert description of item>;",
     "AND",

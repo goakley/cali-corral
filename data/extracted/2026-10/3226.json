@@ -17,9 +17,9 @@
   "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
   "body": [
     "<Introductory paragraph for nonbifurcated trial>",
-    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______][ or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that ______ <insert name of victim> was a particularly vulnerable victim.]",
+    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that ______ <insert name of victim> was a particularly vulnerable victim.]",
     "<Introductory paragraph for bifurcated trial>",
-    "[The People have alleged[ in Count[s] ______] that ______ <insert name of victim> was a particularly vulnerable victim.]",
+    "[The People have alleged [in Count[s] ______] that ______ <insert name of victim> was a particularly vulnerable victim.]",
     "To prove this allegation, the People must prove that:",
     "1. ______ <insert name of victim> (suffered/[or ]was threatened with suffering) a loss, injury, or harm as the result of the crime[s];",
     "AND",
@@ -29,7 +29,7 @@
     "[You may not find vulnerability based solely on ______ <insert element of the offense>, which is an element of ______ <insert offense>.]",
     "You may not find the allegation true unless all of you agree that the People have proved that the victim was particularly vulnerable. However, you do not have to agree on which facts show that the victim was particularly vulnerable.",
     "You may not find the allegation true unless all of you agree that the People have proved that the defendant’s conduct was distinctively worse than an ordinary commission of the underlying crime.",
-    "You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime[ and for each victim]. The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+    "You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime [and for each victim]. The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
   ],
   "body_indents": [
     0.0,

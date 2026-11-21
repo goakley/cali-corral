@@ -17,9 +17,9 @@
   "revision_legend": "* Denotes changes only to bench notes and other commentaries.",
   "body": [
     "<Introductory paragraph for nonbifurcated trial>",
-    "[If you find the defendant guilty of the crime[s] charged[ in Count[s] ______] [or of attempting to commit (that/those) crime[s]][ or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the offense was carried out with planning, sophistication, or professionalism.]",
+    "[If you find the defendant guilty of the crime[s] charged [in Count[s] ______] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation[s] that the offense was carried out with planning, sophistication, or professionalism.]",
     "<Introductory paragraph for bifurcated trial>",
-    "[The People have alleged[ in Count[s] ______] that the offense was carried out with planning, sophistication, or professionalism.]",
+    "[The People have alleged [in Count[s] ______] that the offense was carried out with planning, sophistication, or professionalism.]",
     "To prove this allegation, the People must prove that the defendant’s manner of committing the crime involved planning, sophistication, or professionalism.",
     "Whether the manner of committing the crime involves *planning, sophistication, or professionalism* depends on the totality of the circumstances surrounding the offense.",
     "*Planning* refers to conduct before the crime, preparing for its commission.",
