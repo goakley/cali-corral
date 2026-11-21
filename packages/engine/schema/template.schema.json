@@ -217,7 +217,8 @@
               }
             },
             "conj": { "type": "string" },
-            "style": { "enum": ["number", "alpha"] }
+            "style": { "enum": ["number", "alpha"] },
+            "plain": { "const": true }
           }
         }
       ]

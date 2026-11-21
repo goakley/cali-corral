@@ -174,6 +174,12 @@ export interface ElementsBlock {
   conj?: string;
   /** Numbering: "number" (1., 2., ...; default) or "alpha" (a., b., ...) for sub-lists. */
   style?: "number" | "alpha";
+  /**
+   * A numbered list of complete sentences (e.g. verdict-form directions), not
+   * elements of a crime: printed end punctuation is kept and no conjunction is
+   * added. Numbering is still computed.
+   */
+  plain?: true;
 }
 
 export type ElementItem = Element | NoteBlock | ElementGroup;

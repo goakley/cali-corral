@@ -165,7 +165,7 @@ function renderBlock(b: Block, ctx: Ctx, out: RenderedBlock[]): void {
     return;
   }
   if ("elements" in b) {
-    renderElements(b.elements, b.conj ?? "AND", b.style ?? "number", ctx, out);
+    renderElements(b.elements, b.conj ?? "AND", b.style ?? "number", b.plain === true, ctx, out);
     return;
   }
   const never: never = b;
@@ -222,6 +222,7 @@ function renderElements(
   items: ElementItem[],
   conj: string,
   style: "number" | "alpha",
+  plain: boolean,
   ctx: Ctx,
   out: RenderedBlock[],
 ): void {
@@ -234,7 +235,7 @@ function renderElements(
   let n = 0;
   const push = (e: Element, number: number, last: boolean, label?: string): void => {
     const runs = inlines(e.text, ctx, undefined, undefined);
-    const end = computeEnd(e.end, last);
+    const end = plain ? e.end : computeEnd(e.end, last);
     if (end) runs.push({ text: end });
     const b: RenderedBlock = { kind: "element", depth, number, runs };
     const l = label ?? (style === "alpha" ? String.fromCharCode(96 + number) : undefined);
@@ -244,7 +245,7 @@ function renderElements(
   positions.forEach((p, i) => {
     const last = i === positions.length - 1;
     if (p.kind === "element") {
-      if (last && positions.length >= 2) out.push({ kind: "conj", depth, runs: [{ text: conj }] });
+      if (!plain && last && positions.length >= 2) out.push({ kind: "conj", depth, runs: [{ text: conj }] });
       push(p.e, ++n, last);
       return;
     }

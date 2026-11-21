@@ -1,0 +1,153 @@
+# CALCRIM No. 3517. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "3517"
+title: "Deliberations and Completion of Verdict Forms: For Use When Lesser Included Offenses and Greater Crimes Are Not Separately Charged and the Jury Receives Guilty and Not Guilty Verdict Forms for Greater and Lesser Offenses (Non-Homicide)"
+source:
+  file: calcrim-2026
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2006, June 2007, February 2012, August 2012, February 2015, March 2024"
+  body_sha256: "78641fd0f4d23d54484b11e0b6bc4fa16fea1fb8908841257430841610d91c69"
+review: machine-checked
+questions:
+  - { id: explain_crimes, type: boolean, prompt: "Say “Now I will explain to you the crimes affected by this instruction”?" }
+  - { id: lesser_of_lesser, type: boolean, prompt: "Include “including lesser crimes of the lesser crimes”?" }
+  # The official text prints three copies of the lesser/greater paragraph, to be repeated as needed.
+  - { id: pair1, type: boolean, prompt: "Lesser/greater pair 1?" }
+  - { id: pair1_count, type: boolean, prompt: "Pair 1: name the count?" }
+  - { id: pair2, type: boolean, prompt: "Lesser/greater pair 2?" }
+  - { id: pair2_count, type: boolean, prompt: "Pair 2: name the count?" }
+  - { id: pair3, type: boolean, prompt: "Lesser/greater pair 3?" }
+  - { id: pair3_count, type: boolean, prompt: "Pair 3: name the count?" }
+  - { id: separate_forms, type: boolean, prompt: "Does the jury have separate guilty and not guilty forms for greater and lesser offenses (Stone v. Superior Court)?" }
+  - { id: for_count, type: boolean, prompt: "Begin with “For (the/any) count in which a greater and lesser crime is charged”?" }
+  - id: the_any
+    type: choice
+    prompt: "For … count/charge"
+    options: [{ id: the, label: "the" }, { id: any, label: "any" }]
+  - { id: that_count, type: boolean, prompt: "Add “for that count” in directions 1 and 2?" }
+  - { id: combined_form, type: boolean, prompt: "Does the jury have a combined verdict form for greater and lesser offenses?" }
+  - { id: for_charge, type: boolean, prompt: "Begin with “For (the/any) charge with a lesser crime”?" }
+  - id: mark
+    type: choice
+    prompt: "How does the jury mark the combined form?"
+    options:
+      - { id: write, label: "write in the blank" }
+      - { id: circle, label: "circle the word" }
+      - { id: check, label: "check the box" }
+  - { id: unless_otherwise, type: boolean, prompt: "Add “unless I specifically tell you otherwise”?" }
+body:
+  - - "If all of you find that the defendant is not guilty of a greater charged crime, you may find "
+    - { pronoun: defendant, forms: [him, her] }
+    - " guilty of a lesser crime if you are convinced beyond a reasonable doubt that the defendant is guilty of that lesser crime. A defendant may not be convicted of both a greater and lesser crime for the same conduct."
+  - - opt:
+        - "Now I will explain to you the crimes affected by this instruction "
+        - { opt: "including lesser crimes of the lesser crimes", if: lesser_of_lesser }
+        - ":"
+      if: explain_crimes
+  - - opt:
+        - { field: text.lesser1, hint: "insert crime" }
+        - " is a lesser crime of "
+        - { field: text.greater1, hint: "insert crime" }
+        - " "
+        - { opt: ["charged in Count ", { field: text.count1 }, "."], if: pair1_count }
+      if: pair1
+  - - opt:
+        - { field: text.lesser2, hint: "insert crime" }
+        - " is a lesser crime of "
+        - { field: text.greater2, hint: "insert crime" }
+        - " "
+        - { opt: ["charged in Count ", { field: text.count2 }, "."], if: pair2_count }
+      if: pair2
+  - - opt:
+        - { field: text.lesser3, hint: "insert crime" }
+        - " is a lesser crime of "
+        - { field: text.greater3, hint: "insert crime" }
+        - " "
+        - { opt: ["charged in Count ", { field: text.count3 }, "."], if: pair3_count }
+      if: pair3
+  - "It is up to you to decide the order in which you consider the greater and lesser crimes and the relevant evidence. You do not have to reach a verdict on the greater crime before considering a lesser crime. However, I can accept a verdict of guilty of a lesser crime only if you have found the defendant not guilty of the corresponding greater crime."
+  - { note: "Give the following paragraphs if the jury has separate guilty and not guilty forms for both greater and lesser offenses pursuant to Stone v. Superior Court.", governs: [separate_forms] }
+  - opt:
+      - - opt: ["For ", { choice: the_any, options: ["the", "any"] }, " count in which a greater and lesser crime is charged,"]
+          if: for_count
+        - " "
+        - { when: ["!for_count", for_count], options: ["Y", "y"] }
+        - "ou will receive verdict forms of guilty and not guilty for the greater crime and also verdict forms of guilty and not guilty for the lesser crime. Follow these directions before you give me any completed and signed, final verdict form. Return any unused verdict forms to me, unsigned."
+      - plain: true
+        elements:
+          - n: "1"
+            text: ["If all of you agree the People have proved that the defendant is guilty of the greater crime, complete and sign the verdict form for guilty of that crime. Do not complete or sign any other verdict form ", { opt: "for that count", if: that_count }]
+            end: "."
+          - n: "2"
+            text: ["If all of you cannot agree whether the People have proved that the defendant is guilty of the greater crime, inform me only that you cannot reach an agreement and do not complete or sign any verdict form ", { opt: "for that count", if: that_count }]
+            end: "."
+          - n: "3"
+            text:
+              - "If all of you agree that the People have not proved that the defendant is guilty of the greater crime and you also agree that the People have proved that "
+              - { pronoun: defendant, forms: [he, she] }
+              - " "
+              - { agree: defendant, sg: is, pl: are }
+              - " guilty of the lesser crime, complete and sign the verdict form for not guilty of the greater crime and the verdict form for guilty of the lesser crime"
+            end: "."
+          - n: "4"
+            text: "If all of you agree the People have not proved that the defendant is guilty of the greater or lesser crime, complete and sign the verdict form for not guilty of the greater crime and the verdict form for not guilty of the lesser crime"
+            end: "."
+          - n: "5"
+            text: "If all of you agree the People have not proved that the defendant is guilty of the greater crime, but all of you cannot agree on a verdict for the lesser crime, complete and sign the verdict form for not guilty of the greater crime and inform me only that you cannot reach an agreement about the lesser crime"
+            end: "."
+    if: separate_forms
+  - { note: "Give the following paragraphs if the jury has a combined verdict form for both greater and lesser offenses.", governs: [combined_form] }
+  - opt:
+      - - opt: ["For ", { choice: the_any, options: ["the", "any"] }, " charge with a lesser crime,"]
+          if: for_charge
+        - " "
+        - { when: ["!for_charge", for_charge], options: ["Y", "y"] }
+        - "ou will receive a form for indicating your verdict on both the greater crime and the lesser crime. The greater crime is listed first. When you have reached a verdict, have the foreperson complete the form, sign, and date it. Follow these directions before writing anything on the form."
+      - plain: true
+        elements:
+          - n: "1"
+            text:
+              - "If all of you agree that the People have proved that the defendant is guilty of the greater crime as charged, "
+              - { choice: mark, options: ["write “guilty” in the blank", "circle the word “guilty”", "check the box for “guilty”"] }
+              - " for that crime, then sign, date, and return the form. Do not "
+              - { choice: mark, options: ["write", "circle", "check"] }
+              - " anything for the lesser crime"
+            end: "."
+          - n: "2"
+            text: "If all of you cannot agree whether the People have proved that the defendant is guilty of the greater crime as charged, inform me only that you cannot reach an agreement and do not write anything on the verdict form"
+            end: "."
+          - n: "3"
+            text:
+              - "If all of you agree that the People have not proved that the defendant is guilty of the greater crime and you also agree that the People have proved that "
+              - { pronoun: defendant, forms: [he, she] }
+              - " "
+              - { agree: defendant, sg: is, pl: are }
+              - " guilty of the lesser crime, "
+              - { choice: mark, options: ["write “not guilty” in the blank", "circle the words “not guilty”", "check the box for “not guilty”"] }
+              - " for the greater crime and "
+              - { choice: mark, options: ["write “guilty” in the blank", "circle the word “guilty”", "check the box for “guilty”"] }
+              - " for the lesser crime. You must not "
+              - { choice: mark, options: ["write", "circle", "check"] }
+              - " anything for the lesser crime unless you have "
+              - { choice: mark, options: ["written", "circled", "checked"] }
+              - " “not guilty” for the greater crime"
+            end: "."
+          - n: "4"
+            text:
+              - "If all of you agree that the People have not proved that the defendant is guilty of either the greater or the lesser crime, "
+              - { choice: mark, options: ["write “not guilty” in the blank", "circle the words “not guilty”", "check the box for “not guilty”"] }
+              - " for both the greater crime and the lesser crime"
+            end: "."
+          - n: "5"
+            text:
+              - "If all of you agree that the People have not proved that the defendant is guilty of the greater crime, but all of you cannot agree on a verdict for the lesser crime, "
+              - { choice: mark, options: ["write “not guilty” in the blank", "circle the words “not guilty”", "check the box for “not guilty”"] }
+              - " for the greater crime, then sign, date, and return the form. Do not "
+              - { choice: mark, options: ["write", "circle", "check"] }
+              - " anything for the lesser crime, and inform me only that you cannot reach an agreement about that crime"
+            end: "."
+    if: combined_form
+  - - "Whenever I tell you the People must prove something, I mean they must prove it beyond a reasonable doubt "
+    - { opt: "unless I specifically tell you otherwise", if: unless_otherwise }
+    - "."

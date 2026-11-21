@@ -35,7 +35,9 @@ function elementLists(blocks: Block[]): ElementItem[][] {
   const out: ElementItem[][] = [];
   for (const b of blocks) {
     if (typeof b === "string" || Array.isArray(b)) continue;
-    if ("elements" in b) out.push(b.elements);
+    if ("elements" in b) {
+      if (!b.plain) out.push(b.elements); // plain lists keep printed punctuation
+    }
     else if ("opt" in b) out.push(...elementLists(b.opt));
   }
   return out;
@@ -100,11 +102,15 @@ describe.each(ids)("template %s (property)", (id) => {
             problems.push(`block does not start with a capital: ${JSON.stringify(text.slice(0, 40))}`);
           }
         }
-        const els = r.blocks.filter((b) => b.kind === "element");
-        if (els.length) {
-          const lastText = els[els.length - 1]!.runs.map((x) => x.text).join("");
-          if (!lastText.endsWith(".")) problems.push(`element list does not end with a period: ${lastText}`);
-        }
+        // Every element list (a run of element blocks) must end with a period
+        // unless its last item introduces a sub-list (":").
+        r.blocks.forEach((b, i) => {
+          if (b.kind !== "element") return;
+          const next = r.blocks.slice(i + 1).find((x) => x.kind !== "conj");
+          if (next && next.kind === "element" && next.depth === b.depth) return;
+          const text = b.runs.map((x) => x.text).join("");
+          if (!/[.:]$/.test(text)) problems.push(`element list does not end with a period: ${text}`);
+        });
         problems.push(...markupProblems(t, input));
         const usesThey = Object.values(input.people).some((x) => x.pronouns === "they");
         const plain = toPlainText(r);
