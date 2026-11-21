@@ -9,7 +9,7 @@ import { ConditionError, conditionFlags, conditionRefs, parseCondition } from ".
 import { theyForm } from "./pronouns.ts";
 import { DEFAULT_FLAGS } from "./render.ts";
 import type { Block, Inline, InlineNode, Question, Template } from "./types.ts";
-import { isElement, isNoteItem, toInlines } from "./walk.ts";
+import { isElement, isGroup, isNoteItem, toInlines } from "./walk.ts";
 
 export interface ValidationIssue {
   path: string;
@@ -38,6 +38,13 @@ export function semanticIssues(t: Template): ValidationIssue[] {
   (t.questions ?? []).forEach((q, i) => {
     if (questions.has(q.id)) add(`/questions/${i}`, `duplicate question id "${q.id}"`);
     questions.set(q.id, q);
+    if (q.type === "choice" && q.articleFor !== undefined) {
+      const labels = q.options.map((o) => o.label.toLowerCase()).sort().join("/");
+      if (labels !== "a/an") add(`/questions/${i}`, `articleFor needs options labeled "a" and "an"`);
+      if (!/^(count|text\.[a-z][a-z0-9_]*|[a-z][a-z0-9_]*\.(name|title|agency))$/.test(q.articleFor)) {
+        add(`/questions/${i}`, `articleFor "${q.articleFor}" is not a field path`);
+      }
+    }
     if (q.type !== "boolean") {
       const ids = new Set<string>();
       for (const o of q.options) {
@@ -71,7 +78,8 @@ export function semanticIssues(t: Template): ValidationIssue[] {
       }
       if (r.kind === "eq" && q.type !== "choice") add(path, `"${r.q}=..." needs a choice question`);
       if (r.kind === "has" && q.type !== "multi") add(path, `"${r.q}~..." needs a multi question`);
-      if (r.kind !== "is" && q.type !== "boolean" && !q.options.some((o) => o.id === r.v)) {
+      if (r.kind === "count" && q.type !== "multi") add(path, `"${r.q}>n" needs a multi question`);
+      if ((r.kind === "eq" || r.kind === "has") && q.type !== "boolean" && !q.options.some((o) => o.id === r.v)) {
         add(path, `question "${r.q}" has no option "${r.v}"`);
       }
     }
@@ -163,6 +171,24 @@ export function semanticIssues(t: Template): ValidationIssue[] {
           } else if (isElement(it)) {
             if (it.if !== undefined) checkCondition(it.if, `${ep}/if`);
             walkInlines(it.text, `${ep}/text`, false);
+          } else if (isGroup(it)) {
+            used.add(it.alt);
+            const q = questions.get(it.alt);
+            if (!q) add(ep, `unknown question "${it.alt}"`);
+            else if (q.type === "boolean") add(ep, `"${it.alt}" must be a choice or multi question`);
+            else if (q.options.length !== it.options.length) {
+              add(ep, `"${it.alt}" has ${q.options.length} options but the group has ${it.options.length}`);
+            }
+            if (q?.type === "multi" && it.or === undefined) add(ep, `a multi-choice group needs an "or" conjunction`);
+            if (j === b.elements.length - 1) add(ep, "an alternative group can't be the last element");
+            it.options.forEach((o, k) =>
+              o.elements.forEach((e, m) => {
+                if (e.if !== undefined || e.and !== undefined) {
+                  add(`${ep}/options/${k}/elements/${m}`, "elements in a group can't have if/and");
+                }
+                walkInlines(e.text, `${ep}/options/${k}/elements/${m}/text`, false);
+              }),
+            );
           }
         });
       }

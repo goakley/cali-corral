@@ -8,7 +8,7 @@
 
 import { BLANK, canonicalSource } from "./text.ts";
 import type { Block, Element, ElementItem, Inline, InlineNode, Template } from "./types.ts";
-import { isElement, isNoteItem, toInlines } from "./walk.ts";
+import { isElement, isGroup, isNoteItem, toInlines } from "./walk.ts";
 
 export function renderSource(t: Template): string[] {
   return blocks(t.body).map(canonicalSource);
@@ -65,6 +65,13 @@ function bracket(paras: string[]): string[] {
 function elementItem(it: ElementItem): string[] {
   if (isNoteItem(it)) return [`<${it.note}>`];
   if (isElement(it)) return element(it);
+  if (isGroup(it)) {
+    return it.options.flatMap((o, i) => [
+      ...(i > 0 && it.or !== undefined ? [it.or] : []),
+      ...(o.note !== undefined ? [`<${o.note}>`] : []),
+      ...bracket(o.elements.flatMap(element)),
+    ]);
+  }
   throw new Error(`unknown element item ${JSON.stringify(it)}`);
 }
 

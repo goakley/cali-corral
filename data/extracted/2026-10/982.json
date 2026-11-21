@@ -26,7 +26,7 @@
     "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it was designed.]",
     "[In deciding whether an object is a deadly weapon, consider all the surrounding circumstances.]",
     "[*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.]",
-    "[The term[s] *(firearm*[,]*/deadly weapon*[,]/[and] *great bodily injury*) (is/are) defined in another instruction to which you should refer.]",
+    "[The term[s] (*firearm*[,]/*deadly weapon*[,]/[and] *great bodily injury*) (is/are) defined in another instruction to which you should refer.]",
     "[A person who is employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
     "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]"
   ],
@@ -70,7 +70,7 @@
         "text": "If determining whether the item is an inherently deadly weapon requires resolution of a factual issue, give both bracketed instructions."
       },
       {
-        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). *(Ibid.)* However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). *(Ibid.)* If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
+        "text": "The jury must determine whether the alleged victim is a peace officer. (*People v. Brown* (1988) 46 Cal.3d 432, 444–445 [250 Cal.Rptr. 604, 758 P.2d 1135].) The court may instruct the jury on the appropriate definition of “peace officer” from the statute (e.g., “a Garden Grove Regular Police Officer and a Garden Grove Reserve Police Officer are peace officers”). (*Ibid.*) However, the court may not instruct the jury that the alleged victim was a peace officer as a matter of law (e.g., “Officer Reed was a peace officer”). (*Ibid.*) If the alleged victim is a police officer, give the bracketed sentence that begins with “A person employed as a police officer.” If the alleged victim is another type of peace officer, give the bracketed sentence that begins with “A person employed by.”"
       },
       {
         "heading": true,

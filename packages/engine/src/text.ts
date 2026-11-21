@@ -28,8 +28,9 @@ const NO_SPACE_BEFORE = new Set([".", ",", ";", ":", ")", "]", "?", "!", "”", 
 /**
  * Whitespace cleanup for jury text: when optional content is left out, the
  * spaces around it would otherwise double up or sit before punctuation.
- * Official text never has a space before `.,;:)]?!` or after `(`, so these
- * rules don't alter official wording.
+ * Official text never has a space before `.,;:)]?!` or after `(` — except a
+ * period that starts a number (".50 BMG rifle") — so these rules don't alter
+ * official wording.
  */
 export function cleanJuryText(parts: string[]): string[] {
   const text = parts.join("");
@@ -47,7 +48,11 @@ export function cleanJuryText(parts: string[]): string[] {
       lastKept = i;
       continue;
     }
-    if (NO_SPACE_BEFORE.has(c) && lastKept >= 0 && ws(text[lastKept])) keep[lastKept] = false;
+    // A period or comma that starts a number (".50 BMG", ".510 inch") keeps its space.
+    const startsNumber = (c === "." || c === ",") && /\d/.test(text[i + 1] ?? "");
+    if (NO_SPACE_BEFORE.has(c) && !startsNumber && lastKept >= 0 && ws(text[lastKept])) {
+      keep[lastKept] = false;
+    }
     lastKept = i;
   }
   for (let i = text.length - 1; i >= 0 && (ws(text[i]) || !keep[i]); i--) keep[i] = false;

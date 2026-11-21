@@ -119,6 +119,26 @@ def _touches_note(text: str, i: int, n: int) -> bool:
     return j < n and text[j] == "<"
 
 
+_MARKUP = "[]()/"
+
+
+def _split_emphasis_at_markup(s: str) -> str:
+    out: list[str] = []
+    on = False
+    for ch in s:
+        if ch == EM_ON:
+            on = True
+            out.append(ch)
+        elif ch == EM_OFF:
+            on = False
+            out.append(ch)
+        elif on and ch in _MARKUP:
+            out.append(EM_OFF + ch + EM_ON)
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
 def resolve_emphasis(text: str) -> str:
     """Turn italic markers into ``*...*`` outside angle brackets.
 
@@ -167,10 +187,12 @@ def resolve_emphasis(text: str) -> str:
     if open_:
         out.append(EM_OFF)
     s = "".join(out)
-    # Emphasis that starts just inside a choice ("(*M/m)atter*") snaps
-    # outward so it encloses the choice ("*(M/m)atter*"). Only for a
-    # parenthesized group containing a slash, i.e. an alternative.
-    s = re.sub(r"\(" + EM_ON + r"(?=[^()]*/[^()]*\))", EM_ON + "(", s)
+    # Emphasis never spans markup characters: split an emphasized run at
+    # [ ] ( ) / so that "*(great bodily injury[,]/deadly weapon)*" becomes
+    # "(*great bodily injury*[,]/*deadly weapon*)". Official emphasis runs
+    # cross markup in ways a structured template can't reproduce, and the
+    # split loses nothing a jury reads.
+    s = _split_emphasis_at_markup(s)
     # merge adjacent emphasis separated only by whitespace
     s = re.sub(EM_OFF + r"(\s*)" + EM_ON, r"\1", s)
     # move whitespace outside emphasis

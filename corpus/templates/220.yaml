@@ -1,0 +1,36 @@
+# CALCRIM No. 220. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "220"
+title: "Reasonable Doubt"
+source:
+  file: calcrim-2026
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2006, February 2013"
+  body_sha256: "a58266cdc400e2615e3b330f9d2830a69cae4b9a6b29464621f6ed66edc058e8"
+review: machine-checked
+questions:
+  - { id: unless_otherwise, type: boolean, prompt: "Add “unless I specifically tell you otherwise”?" }
+body:
+  - - "The fact that a criminal charge has been filed against the defendant"
+    - { opt: "s", if: "@multiple_defendants" }
+    - " is not evidence that the charge is true. You must not be biased against the defendant"
+    - { opt: "s", if: "@multiple_defendants" }
+    - " just because "
+    - { pronoun: defendant, forms: [he, she, they] }
+    - " "
+    - { agree: defendant, sg: has, pl: have, alt: true }
+    - " been arrested, charged with a crime, or brought to trial."
+  - - "A defendant in a criminal case is presumed to be innocent. This presumption requires that the People prove a defendant guilty beyond a reasonable doubt. Whenever I tell you the People must prove something, I mean they must prove it beyond a reasonable doubt "
+    - { opt: "unless I specifically tell you otherwise", if: unless_otherwise }
+    - "."
+  - "Proof beyond a reasonable doubt is proof that leaves you with an abiding conviction that the charge is true. The evidence need not eliminate all possible doubt because everything in life is open to some possible or imaginary doubt."
+  - - "In deciding whether the People have proved their case beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the defendant"
+    - { opt: "s", if: "@multiple_defendants" }
+    - " guilty beyond a reasonable doubt, "
+    - { pronoun: defendant, forms: [he, she, they] }
+    - " "
+    - { agree: defendant, sg: is, pl: are, alt: true }
+    - " entitled to an acquittal and you must find "
+    - { pronoun: defendant, forms: [him, her, them] }
+    - " not guilty."

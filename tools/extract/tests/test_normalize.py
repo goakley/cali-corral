@@ -87,8 +87,10 @@ def test_bracket_inner_spacing_and_blank_punctuation():
     assert canonical_spacing(f"guilty of {BLANK} .") == f"guilty of {BLANK}."
 
 
-def test_emphasis_snaps_outside_choice():
-    assert resolve_emphasis("(" + em("M/m)atter") + " means") == "*(M/m)atter* means"
+def test_emphasis_split_at_markup():
+    assert resolve_emphasis("(" + em("M/m)atter") + " means") == "(*M*/*m*)*atter* means"
+    s = "The term[s] " + em("(great bodily injury[,]/deadly weapon[,]/") + "[and] " + em(".50 BMG rifle)")
+    assert resolve_emphasis(s) == "The term[s] (*great bodily injury*[,]/*deadly weapon*[,]/[and] *.50 BMG rifle*)"
 
 
 def test_emphasis_not_snapped_out_of_brackets_or_citations():

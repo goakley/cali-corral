@@ -15,6 +15,8 @@ import type {
   Block,
   ChoiceNode,
   Element,
+  ElementGroup,
+  ElementItem,
   Inline,
   InlineNode,
   Origin,
@@ -26,7 +28,7 @@ import type {
   Run,
   Template,
 } from "./types.ts";
-import { isElement, isNoteItem, toInlines } from "./walk.ts";
+import { isElement, isGroup, toInlines } from "./walk.ts";
 
 export type Mode = "jury" | "annotated";
 
@@ -143,7 +145,7 @@ function renderBlock(b: Block, ctx: Ctx, out: RenderedBlock[]): void {
     return;
   }
   if ("elements" in b) {
-    renderElements(b.elements.filter(isElement), b.conj ?? "AND", ctx, out);
+    renderElements(b.elements, b.conj ?? "AND", ctx, out);
     return;
   }
   const never: never = b;
@@ -157,17 +159,78 @@ export function computeEnd(printed: string, isLast: boolean): string {
   return COMPUTED_ENDS.has(printed) ? (isLast ? "." : ";") : printed;
 }
 
-function renderElements(els: Element[], conj: string, ctx: Ctx, out: RenderedBlock[]): void {
-  const included = els.filter((e) => e.if === undefined || cond(e.if, ctx));
-  included.forEach((e, i) => {
-    const last = i === included.length - 1;
-    if (last && included.length >= 2) {
-      out.push({ kind: "conj", depth: 1, runs: [{ text: conj }] });
+type Position =
+  | { kind: "element"; e: Element }
+  | { kind: "group"; g: ElementGroup; selected: number[] };
+
+/** Which alternatives of a group are selected (in template order). */
+function groupSelection(g: ElementGroup, ctx: Ctx): number[] {
+  ctx.consulted.add(g.alt);
+  const qd = ctx.questions.get(g.alt);
+  const ans = ctx.input.answers[g.alt];
+  let sel: number[] = [];
+  if (qd?.type === "choice" && typeof ans === "string") {
+    sel = [qd.options.findIndex((o) => o.id === ans)].filter((i) => i >= 0);
+  } else if (qd?.type === "multi" && Array.isArray(ans)) {
+    sel = qd.options.map((o, i) => (ans.includes(o.id) ? i : -1)).filter((i) => i >= 0);
+  }
+  if (sel.length === 0) ctx.unanswered.add(g.alt);
+  return sel;
+}
+
+/** The positions of an element list that are included under the answers. */
+export function includedPositions(
+  items: ElementItem[],
+  includeElement: (e: Element) => boolean,
+  selectGroup: (g: ElementGroup) => number[],
+): Position[] {
+  const out: Position[] = [];
+  for (const it of items) {
+    if (isElement(it)) {
+      if (includeElement(it)) out.push({ kind: "element", e: it });
+    } else if (isGroup(it)) {
+      const selected = selectGroup(it);
+      if (selected.length) out.push({ kind: "group", g: it, selected });
     }
+  }
+  return out;
+}
+
+const unbracket = (s: string): string => s.replace(/^\[|\]$/g, "");
+
+function renderElements(items: ElementItem[], conj: string, ctx: Ctx, out: RenderedBlock[]): void {
+  const positions = includedPositions(
+    items,
+    (e) => e.if === undefined || cond(e.if, ctx),
+    (g) => groupSelection(g, ctx),
+  );
+  let n = 0;
+  const push = (e: Element, number: number, last: boolean, label?: string): void => {
     const runs = inlines(e.text, ctx, undefined, undefined);
     const end = computeEnd(e.end, last);
     if (end) runs.push({ text: end });
-    out.push({ kind: "element", depth: 1, number: i + 1, runs });
+    const b: RenderedBlock = { kind: "element", depth: 1, number, runs };
+    if (label !== undefined) b.label = label;
+    out.push(b);
+  };
+  positions.forEach((p, i) => {
+    const last = i === positions.length - 1;
+    if (p.kind === "element") {
+      if (last && positions.length >= 2) out.push({ kind: "conj", depth: 1, runs: [{ text: conj }] });
+      push(p.e, ++n, last);
+      return;
+    }
+    // Groups are never last (enforced by validation).
+    const g = p.g;
+    if (p.selected.length === 1) {
+      for (const e of g.options[p.selected[0]!]!.elements) push(e, ++n, false);
+      return;
+    }
+    n++;
+    p.selected.forEach((oi, k) => {
+      if (k > 0) out.push({ kind: "conj", depth: 1, runs: [{ text: unbracket(g.or ?? "OR") }] });
+      for (const e of g.options[oi]!.elements) push(e, n, false, `${n}${e.n.replace(/^\d+/, "")}`);
+    });
   });
 }
 
@@ -205,7 +268,7 @@ function node(n: InlineNode, ctx: Ctx, origin: Origin | undefined, sep: SepState
   }
   if ("any" in n) return anyNode(n, ctx);
   if ("options" in n) return choice(n, ctx, origin, sep);
-  if ("sep" in n) return sepNode(n.sep, sep, origin);
+  if ("sep" in n) return sepNode(n.sep, sep);
   if ("pronoun" in n) return pronoun(n.pronoun, n.forms, ctx);
   if ("agree" in n) {
     const p = person(n.agree, ctx)?.pronouns;
@@ -264,6 +327,9 @@ function choice(n: ChoiceNode, ctx: Ctx, origin: Origin | undefined, sep: SepSta
     if (idx < 0) ctx.unanswered.add(q);
   } else if (n.when !== undefined) {
     idx = n.when.findIndex((c) => cond(c, ctx));
+    // No condition holds: the punctuation belongs to an omitted optional item
+    // (e.g. "[or socioeconomic status] (./,)"), so nothing is rendered.
+    if (idx < 0) return [];
   }
   if (idx < 0 || idx >= n.options.length) {
     return [textRun(renderInlineSource(n), o)];
@@ -273,6 +339,24 @@ function choice(n: ChoiceNode, ctx: Ctx, origin: Origin | undefined, sep: SepSta
 
 const COMMA_SEP = /^[,;]$/;
 
+function sepsOf(o: Inline[] | string): string[] {
+  return toInlines(o).flatMap((x) => (typeof x === "object" && "sep" in x ? [x.sep] : []));
+}
+
+/**
+ * Pick-one-or-more alternatives with series connectors.
+ *
+ * CALCRIM's bracketed connectors (`[,]`, `[or]`, `[and]`) are series
+ * punctuation for whichever items are kept, not properties of the item they
+ * happen to be printed next to (`[and]` is often printed only before the last
+ * item). So the engine treats them as describing the series:
+ * - the conjunction is an option's own word connector, or else the first word
+ *   connector printed anywhere in the node;
+ * - with comma connectors, commas follow every selected item but the last when
+ *   three or more are selected, and the conjunction precedes the last;
+ * - without comma connectors, the conjunction precedes every selected item but
+ *   the first ("A or B or C").
+ */
 function anyNode(n: AnyNode, ctx: Ctx): Run[] {
   const q = n.any;
   ctx.consulted.add(q);
@@ -286,32 +370,29 @@ function anyNode(n: AnyNode, ctx: Ctx): Run[] {
   const selected = qd.options
     .map((opt, i) => (ans.includes(opt.id) ? i : -1))
     .filter((i) => i >= 0 && i < n.options.length);
-  const hasCommaSeps = n.options.some((o) => toInlines(o).some((x) => typeof x === "object" && "sep" in x && COMMA_SEP.test(x.sep)));
+  const allSeps = n.options.flatMap(sepsOf);
+  const hasComma = allSeps.some((x) => COMMA_SEP.test(x));
+  const comma = allSeps.find((x) => COMMA_SEP.test(x)) ?? ",";
+  const seriesWord = allSeps.find((x) => !COMMA_SEP.test(x));
   const runs: Run[] = [];
   selected.forEach((i, rank) => {
-    if (rank > 0) runs.push(textRun(" ", origin));
-    runs.push(...inlines(n.options[i]!, ctx, origin, { rank, count: selected.length, hasCommaSeps }));
+    const opt = n.options[i]!;
+    const word = sepsOf(opt).find((x) => !COMMA_SEP.test(x)) ?? seriesWord;
+    const count = selected.length;
+    if (rank > 0) {
+      runs.push(textRun(" ", origin));
+      if (word !== undefined && (!hasComma || rank === count - 1)) runs.push(textRun(word + " ", origin));
+    }
+    runs.push(...inlines(opt, ctx, origin, { rank, count, hasCommaSeps: hasComma }));
+    if (hasComma && count >= 3 && rank < count - 1) runs.push(textRun(comma, origin));
   });
   return runs;
 }
 
-/**
- * Series connectors inside an `any` node:
- * - a comma-type connector (`[,]`, `[;]`) shows after every selected option
- *   except the last, when three or more options are selected;
- * - a word connector (`[or]`, `[and]`, `[and/or]`) shows before a selected
- *   option that isn't the first; when the node also has comma connectors, only
- *   before the last selected option ("A, B, or C"), otherwise before each
- *   ("A or B or C").
- */
-export function sepVisible(sepText: string, s: SepState): boolean {
-  if (COMMA_SEP.test(sepText)) return s.count >= 3 && s.rank < s.count - 1;
-  return s.rank > 0 && (!s.hasCommaSeps || s.rank === s.count - 1);
-}
-
-function sepNode(text: string, s: SepState | undefined, origin: Origin | undefined): Run[] {
+/** Connector nodes render nothing themselves; `anyNode` places the series punctuation. */
+function sepNode(text: string, s: SepState | undefined): Run[] {
   if (!s) throw new Error(`[${text}] connector outside a pick-one-or-more alternative`);
-  return sepVisible(text, s) ? [textRun(text, origin)] : [];
+  return [];
 }
 
 // ---------------------------------------------------------------------------
@@ -323,7 +404,7 @@ export function toPlainText(r: Rendered, opts: { title?: boolean } = {}): string
   if (opts.title) lines.push(r.title, "");
   for (const b of r.blocks) {
     const text = b.runs.map((x) => x.text).join("");
-    if (b.kind === "element") lines.push(`${b.number}. ${text}`);
+    if (b.kind === "element") lines.push(`${b.label ?? b.number}. ${text}`);
     else if (b.kind === "bullet") lines.push(`• ${text}`);
     else lines.push(text);
   }

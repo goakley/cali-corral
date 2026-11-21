@@ -5,11 +5,12 @@
  *   or     := and ("|" and)*
  *   and    := unary ("&" unary)*
  *   unary  := "!" unary | "(" or ")" | atom
- *   atom   := ident (("=" | "~") ident)?
+ *   atom   := ident (("=" | "~") ident | ">" number)?
  *   ident  := [A-Za-z0-9_@.-]+
  *
  * `q` is true when boolean question q is answered true; `q=opt` when choice
- * question q is answered opt; `q~opt` when multi question q includes opt.
+ * question q is answered opt; `q~opt` when multi question q includes opt;
+ * `q>n` when multi question q has more than n options selected.
  * Identifiers starting with `@` are built-in flags supplied by the context.
  * Unanswered questions make atoms false.
  */
@@ -21,6 +22,7 @@ export type Expr =
   | { op: "not"; arg: Expr }
   | { op: "is"; q: string }
   | { op: "eq" | "has"; q: string; v: string }
+  | { op: "count"; q: string; n: number }
   | { op: "flag"; name: string };
 
 export class ConditionError extends Error {}
@@ -30,7 +32,7 @@ const cache = new Map<string, Expr>();
 export function parseCondition(src: string): Expr {
   const hit = cache.get(src);
   if (hit) return hit;
-  const tokens = src.match(/[A-Za-z0-9_@.-]+|[!&|()=~]|\S/g) ?? [];
+  const tokens = src.match(/[A-Za-z0-9_@.-]+|[!&|()=~>]|\S/g) ?? [];
   let i = 0;
   const peek = (): string | undefined => tokens[i];
   const take = (): string => {
@@ -72,6 +74,12 @@ export function parseCondition(src: string): Expr {
     if (!isIdent(id)) throw new ConditionError(`unexpected "${id}" in condition: ${src}`);
     if (id.startsWith("@")) return { op: "flag", name: id.slice(1) };
     const nx = peek();
+    if (nx === ">") {
+      take();
+      const v = take();
+      if (!/^\d+$/.test(v)) throw new ConditionError(`expected a number after ">": ${src}`);
+      return { op: "count", q: id, n: parseInt(v, 10) };
+    }
     if (nx === "=" || nx === "~") {
       take();
       const v = take();
@@ -108,6 +116,10 @@ export function evaluate(e: Expr, ctx: EvalContext): boolean {
       const a = ctx.answers[e.q];
       return Array.isArray(a) && a.includes(e.v);
     }
+    case "count": {
+      const a = ctx.answers[e.q];
+      return Array.isArray(a) && a.length > e.n;
+    }
     case "flag":
       return ctx.flags[e.name] === true;
   }
@@ -118,8 +130,10 @@ export function evalCondition(src: string, ctx: EvalContext): boolean {
 }
 
 /** Question ids an expression refers to (with the option ids it tests). */
-export function conditionRefs(src: string): { q: string; v?: string; kind: "is" | "eq" | "has" }[] {
-  const out: { q: string; v?: string; kind: "is" | "eq" | "has" }[] = [];
+export type RefKind = "is" | "eq" | "has" | "count";
+
+export function conditionRefs(src: string): { q: string; v?: string; kind: RefKind }[] {
+  const out: { q: string; v?: string; kind: RefKind }[] = [];
   const walk = (e: Expr): void => {
     switch (e.op) {
       case "or":
@@ -135,6 +149,9 @@ export function conditionRefs(src: string): { q: string; v?: string; kind: "is" 
       case "eq":
       case "has":
         out.push({ q: e.q, v: e.v, kind: e.op });
+        return;
+      case "count":
+        out.push({ q: e.q, kind: "count" });
         return;
       case "flag":
         return;

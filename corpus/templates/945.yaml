@@ -20,6 +20,7 @@ questions:
   - id: officer_article
     type: choice
     prompt: "Article before the officer's title"
+    articleFor: officer.title
     options: [{ id: a, label: "a" }, { id: an, label: "an" }]
   - { id: unlawfully, type: boolean, prompt: "Include “and unlawfully” in element 2?" }
   - { id: felony, type: boolean, prompt: "Instructing on felony battery against a peace officer (element 4)?" }

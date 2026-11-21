@@ -17,7 +17,7 @@
   "revision_legend": null,
   "body": [
     "If you find the defendant guilty of the crime[s] charged in Count[s] ______ [,] [or of attempting to commit (that/those) crime[s]] [or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>], you must then decide whether[, for each crime,] the People have proved the additional allegation that the defendant personally used a deadly [or dangerous] weapon during the commission [or attempted commission] of that crime. [You must decide whether the People have proved this allegation for each crime and return a separate finding for each crime.]",
-    "A *deadly [or dangerous] weapon* is any object, instrument, or weapon that is [inherently deadly] [or] [dangerous] [or] [one that is] used in such a way that it is capable of causing and likely to cause death or great bodily injury.",
+    "A *deadly* [*or dangerous*] *weapon* is any object, instrument, or weapon that is [inherently deadly] [or] [dangerous] [or] [one that is] used in such a way that it is capable of causing and likely to cause death or great bodily injury.",
     "[An object is *inherently deadly* if it is deadly or dangerous in the ordinary use for which it was designed.]",
     "[In deciding whether an object is a deadly weapon, consider all the surrounding circumstances, including when and where the object was possessed[,] [and] [where the person who possessed the object was going][,] [and] [whether the object was changed from its standard form] [and any other evidence that indicates whether the object would be used for a dangerous, rather than a harmless, purpose.]]",
     "*Great bodily injury* means significant or substantial physical injury. It is an injury that is greater than moderate harm.",
@@ -123,7 +123,7 @@
         "text": "Weapon Used Did Not Cause Death"
       },
       {
-        "text": "In *People v. Lerma* (1996) 42 Cal.App.4th 1221, 1224 [50 Cal.Rptr.2d 580], the defendant stabbed the victim and then kicked him. The coroner testified that the victim died as a result of blunt trauma to the head and that the knife wounds were not life threatening. *(Ibid.)* The court upheld the finding that the defendant had used a knife during the murder even though the weapon was not the cause of death. (*Id.* at p. 1226.) The court held that in order for a weapon to be used in the commission of the crime, there must be “a nexus between the offense and the item at issue, [such] that the item was an instrumentality of the crime.” *(Ibid.)* [ellipsis and brackets omitted] Here, the court found that “[t]he knife was instrumental to the consummation of the murder and was used to advantage.” *(Ibid.)*"
+        "text": "In *People v. Lerma* (1996) 42 Cal.App.4th 1221, 1224 [50 Cal.Rptr.2d 580], the defendant stabbed the victim and then kicked him. The coroner testified that the victim died as a result of blunt trauma to the head and that the knife wounds were not life threatening. (*Ibid.*) The court upheld the finding that the defendant had used a knife during the murder even though the weapon was not the cause of death. (*Id.* at p. 1226.) The court held that in order for a weapon to be used in the commission of the crime, there must be “a nexus between the offense and the item at issue, [such] that the item was an instrumentality of the crime.” (*Ibid.*) [ellipsis and brackets omitted] Here, the court found that “[t]he knife was instrumental to the consummation of the murder and was used to advantage.” (*Ibid.*)"
       },
       {
         "heading": true,

@@ -6,9 +6,8 @@
 import fc from "fast-check";
 import { describe, expect, it } from "vitest";
 import { evalCondition } from "../src/condition.ts";
-import { computeEnd, DEFAULT_FLAGS, render, toPlainText } from "../src/render.ts";
-import type { Block, Element, RenderInput, Template } from "../src/types.ts";
-import { isElement } from "../src/walk.ts";
+import { computeEnd, DEFAULT_FLAGS, includedPositions, render, toPlainText } from "../src/render.ts";
+import type { Block, Element, ElementItem, RenderInput, Template } from "../src/types.ts";
 import { inputArb } from "./arbitrary.ts";
 import { loadTemplate, templateIds } from "./corpus.ts";
 
@@ -25,17 +24,18 @@ export function textProblems(text: string): string[] {
   if (/\([^()]*\/[^()]*\)/.test(text.replace(ALLOWED_SLASH, ""))) p.push("leftover choice");
   if (/ {2}/.test(text)) p.push("doubled space");
   if (/^\s|\s$/.test(text)) p.push("leading or trailing space");
-  if (/([,;:])\s*[.,;:]|\.\s*[,;:]|(?<!\.)\.\.(?!\.)/.test(text)) p.push("doubled punctuation");
-  if (/\s[.,;:)]/.test(text)) p.push("space before punctuation");
+  if (/[,;:]\s*(?:[,;:]|\.(?!\d))|\.\s*[,;:]|(?<!\.)\.\.(?!\.)/.test(text)) p.push("doubled punctuation");
+  if (/\s[,;:)]|\s\.(?!\d)/.test(text)) p.push("space before punctuation");
+  if (/\p{L}[.,]\d/u.test(text)) p.push("missing space before a number");
   if (/\*/.test(text)) p.push("leftover emphasis markup");
   return p;
 }
 
-function elementLists(blocks: Block[]): Element[][] {
-  const out: Element[][] = [];
+function elementLists(blocks: Block[]): ElementItem[][] {
+  const out: ElementItem[][] = [];
   for (const b of blocks) {
     if (typeof b === "string" || Array.isArray(b)) continue;
-    if ("elements" in b) out.push(b.elements.filter(isElement));
+    if ("elements" in b) out.push(b.elements);
     else if ("opt" in b) out.push(...elementLists(b.opt));
   }
   return out;
@@ -45,14 +45,29 @@ function elementLists(blocks: Block[]): Element[][] {
 export function markupProblems(t: Template, input: RenderInput): string[] {
   const p: string[] = [];
   const ctx = { answers: input.answers, flags: DEFAULT_FLAGS };
+  const qs = new Map((t.questions ?? []).map((q) => [q.id, q]));
   for (const list of elementLists(t.body)) {
-    const inc = list.filter((e) => e.if === undefined || evalCondition(e.if, ctx));
-    inc.forEach((e, i) => {
-      const last = i === inc.length - 1;
-      const end = computeEnd(e.end, last);
-      if (e.end === ";" && end !== ";") p.push(`element ${e.n}: printed ";" but it is the last element`);
-      if (e.end === "." && end !== ".") p.push(`element ${e.n}: printed "." but it is not the last element`);
-      const conjShown = last && inc.length >= 2;
+    const pos = includedPositions(
+      list,
+      (e) => e.if === undefined || evalCondition(e.if, ctx),
+      (g) => {
+        const q = qs.get(g.alt);
+        const a = input.answers[g.alt];
+        if (!q || q.type === "boolean") return [];
+        return q.options.map((o, i) => ((Array.isArray(a) ? a.includes(o.id) : a === o.id) ? i : -1)).filter((i) => i >= 0);
+      },
+    );
+    pos.forEach((x, i) => {
+      const last = i === pos.length - 1;
+      const els: Element[] = x.kind === "element" ? [x.e] : x.selected.flatMap((k) => x.g.options[k]!.elements);
+      for (const e of els) {
+        const end = computeEnd(e.end, last);
+        if (e.end === ";" && end !== ";") p.push(`element ${e.n}: printed ";" but it is the last element`);
+        if (e.end === "." && end !== ".") p.push(`element ${e.n}: printed "." but it is not the last element`);
+      }
+      if (x.kind !== "element") return;
+      const e = x.e;
+      const conjShown = last && pos.length >= 2;
       if (conjShown && e.and === undefined) p.push(`element ${e.n}: needs AND but none is printed`);
       // An AND printed inside an optional element's brackets ("[AND 4. ...]")
       // is used only when that element is last, like "[AND]"; only an

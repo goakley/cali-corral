@@ -27,7 +27,7 @@
     "[A *motor vehicle* includes a (passenger vehicle/motorcycle/motor scooter/bus/school bus/commercial vehicle/truck tractor and trailer/______ <insert other type of motor vehicle>).]",
     "[A motor vehicle is *proceeding* on a public street or highway if it is moving on a street or highway with its engine running and propelling the vehicle.]",
     "[A *firearm* is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion.]",
-    "[The term[s] *(firearm/*______ <insert other term>) (is/are) defined in another instruction to which you should refer.]",
+    "[The term[s] (*firearm*/______ <insert other term>) (is/are) defined in another instruction to which you should refer.]",
     "[It is not required that the firearm be loaded.]"
   ],
   "body_indents": [

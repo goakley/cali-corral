@@ -12,6 +12,9 @@ describe("cleanJuryText", () => {
   it("removes space after an opening parenthesis and before closing punctuation", () => {
     expect(clean(["( ", "a", " )", " ;"])).toBe("(a);");
   });
+  it("keeps the space before a number that starts with a period", () => {
+    expect(clean(["with a ", ".50 BMG rifle", " ."])).toBe("with a .50 BMG rifle.");
+  });
   it("trims", () => {
     expect(clean(["  a ", " "])).toBe("a");
   });

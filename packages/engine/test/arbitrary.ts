@@ -2,7 +2,8 @@
 
 import fc from "fast-check";
 import type { Answer, Block, Inline, Person, Pronouns, RenderInput, Template } from "../src/types.ts";
-import { toInlines } from "../src/walk.ts";
+import { suggestAnswers } from "../src/suggest.ts";
+import { allElements, toInlines } from "../src/walk.ts";
 
 export interface TemplateNeeds {
   roles: Set<string>;
@@ -32,7 +33,7 @@ export function needs(t: Template): TemplateNeeds {
       else if ("p" in b) inl(b.p);
       else if ("bullet" in b) inl(b.bullet);
       else if ("opt" in b) blk(b.opt);
-      else if ("elements" in b) b.elements.forEach((e) => "text" in e && inl(e.text));
+      else if ("elements" in b) allElements(b.elements).forEach((e) => inl(e.text));
     }
   };
   blk(t.body);
@@ -117,5 +118,7 @@ export function fixedInput(t: Template, kind: "minimal" | "maximal" | "mixed"): 
   [...n.textFields].forEach((f, i) => {
     text[f] = `[${f.replace(/_/g, " ")} ${i + 1}]`.replace(/[[\]]/g, "");
   });
-  return { answers, people, count: "1", text };
+  const input: RenderInput = { answers, people, count: "1", text };
+  // Apply the engine's suggestions (e.g. a/an), as the UI would offer them.
+  return { ...input, answers: { ...answers, ...suggestAnswers(t, input) } };
 }

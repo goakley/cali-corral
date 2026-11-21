@@ -1,0 +1,52 @@
+# CALCRIM No. 226. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "226"
+title: "Witnesses"
+source:
+  file: calcrim-2026
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2008, September 2020"
+  body_sha256: "58575e1099b3659486c59eb70c39a11b05c859cc776ae2c9e76bb121118f0887"
+review: machine-checked
+questions:
+  - { id: f_other_evidence, type: boolean, prompt: "Factor: did other evidence prove or disprove any fact about which the witness testified?" }
+  - { id: f_admit_untruthful, type: boolean, prompt: "Factor: did the witness admit to being untruthful?" }
+  - { id: f_character, type: boolean, prompt: "Factor: the witness’s character for truthfulness?" }
+  - { id: f_felony, type: boolean, prompt: "Factor: has the witness been convicted of a felony?" }
+  - { id: f_conduct, type: boolean, prompt: "Factor: has the witness engaged in conduct that reflects on believability?" }
+  - { id: f_conduct_other, type: boolean, prompt: "Say “other” conduct?" }
+  - { id: f_immunity, type: boolean, prompt: "Factor: was the witness promised immunity or leniency?" }
+  - { id: character_not_discussed, type: boolean, prompt: "Give the paragraph on character for truthfulness not discussed?" }
+  - { id: no_longer_remembers, type: boolean, prompt: "Give the paragraph on a witness who no longer remembers?" }
+  - { id: deliberately_lied, type: boolean, prompt: "Give the paragraph on a witness who deliberately lied?" }
+body:
+  - "You alone must judge the credibility or believability of the witnesses. In deciding whether testimony is true and accurate, use your common sense and experience. You must judge the testimony of each witness by the same standards, setting aside any bias or prejudice you may have."
+  - "You may believe all, part, or none of any witness’s testimony. Consider the testimony of each witness and decide how much of it you believe."
+  - "In evaluating a witness’s testimony, you may consider anything that reasonably tends to prove or disprove the truth or accuracy of that testimony. Among the factors that you may consider are:"
+  - bullet: "How well could the witness see, hear, or otherwise perceive the things about which the witness testified?"
+  - bullet: "How well was the witness able to remember and describe what happened?"
+  - bullet: "What was the witness’s behavior while testifying?"
+  - bullet: "Did the witness understand the questions and answer them directly?"
+  - bullet: "Was the witness’s testimony influenced by a factor such as bias or prejudice, a personal relationship with someone involved in the case, or a personal interest in how the case is decided?"
+  - bullet: "What was the witness’s attitude about the case or about testifying?"
+  - bullet: "Did the witness make a statement in the past that is consistent or inconsistent with his or her testimony?"
+  - bullet: "How reasonable is the testimony when you consider all the other evidence in the case?"
+  - bullet: [{ opt: "Did other evidence prove or disprove any fact about which the witness testified?", if: f_other_evidence }]
+  - bullet: [{ opt: "Did the witness admit to being untruthful?", if: f_admit_untruthful }]
+  - bullet: [{ opt: "What is the witness’s character for truthfulness?", if: f_character }]
+  - bullet: [{ opt: "Has the witness been convicted of a felony?", if: f_felony }]
+  - bullet:
+      - opt: ["Has the witness engaged in ", { opt: "other", if: f_conduct_other }, " conduct that reflects on his or her believability?"]
+        if: f_conduct
+  - bullet: [{ opt: "Was the witness promised immunity or leniency in exchange for his or her testimony?", if: f_immunity }]
+  - "Do not automatically reject testimony just because of inconsistencies or conflicts. Consider whether the differences are important or not. People sometimes honestly forget things or make mistakes about what they remember. Also, two people may witness the same event yet see or hear it differently."
+  - opt:
+      - "If the evidence establishes that a witness’s character for truthfulness has not been discussed among the people who know him or her, you may conclude from the lack of discussion that the witness’s character for truthfulness is good."
+    if: character_not_discussed
+  - opt:
+      - "If you do not believe a witness’s testimony that he or she no longer remembers something, that testimony is inconsistent with the witness’s earlier statement on that subject."
+    if: no_longer_remembers
+  - opt:
+      - "If you decide that a witness deliberately lied about something significant in this case, you should consider not believing anything that witness says. Or, if you think the witness lied about some things, but told the truth about others, you may simply accept the part that you think is true and ignore the rest."
+    if: deliberately_lied

@@ -60,6 +60,10 @@
         "type": { "enum": ["boolean", "choice", "multi"] },
         "prompt": { "type": "string" },
         "help": { "type": "string" },
+        "articleFor": {
+          "type": "string",
+          "description": "For an (a/an) choice: the field whose value follows the article, used to suggest an answer."
+        },
         "options": {
           "type": "array",
           "minItems": 2,
@@ -205,12 +209,36 @@
           "properties": {
             "elements": {
               "type": "array",
-              "items": { "oneOf": [{ "$ref": "#/$defs/element" }, { "$ref": "#/$defs/note" }] }
+              "items": {
+                "oneOf": [{ "$ref": "#/$defs/element" }, { "$ref": "#/$defs/note" }, { "$ref": "#/$defs/group" }]
+              }
             },
             "conj": { "type": "string" }
           }
         }
       ]
+    },
+    "group": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["alt", "options"],
+      "properties": {
+        "alt": { "$ref": "#/$defs/id" },
+        "or": { "enum": ["OR", "[OR]", "AND", "[AND]"] },
+        "options": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["elements"],
+            "properties": {
+              "note": { "type": "string" },
+              "elements": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/element" } }
+            }
+          }
+        }
+      }
     },
     "element": {
       "type": "object",

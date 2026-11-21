@@ -59,7 +59,9 @@ export interface OptNode {
  * Either `choice` names a question (type "choice") whose options map to these
  * alternatives by position, or `when` gives one condition per alternative and
  * the first that holds is used (for punctuation and capitalization that
- * follow from other choices, e.g. `(./,)` or `(Y/y)ou`).
+ * follow from other choices, e.g. `(./,)` or `(Y/y)ou`). If no condition
+ * holds, nothing is rendered: used where the punctuation belongs to an
+ * omitted optional item, as in `[or socioeconomic status] (./,)`.
  */
 export interface ChoiceNode {
   choice?: string;
@@ -156,12 +158,37 @@ export interface ElementsBlock {
   conj?: string;
 }
 
+export type ElementItem = Element | NoteBlock | ElementGroup;
+
 /**
- * Labeled alternatives (`<Alternative 2A—...>` followed by `[2. ...]`) are
- * encoded as a note plus an optional element whose condition tests a choice
- * question, so no separate node type is needed.
+ * Labeled alternative versions of one element position, e.g.
+ *
+ *   <Alternative 1A—force with weapon>
+ *   [1A. ...;]
+ *   [OR]
+ *   <Alternative 1B—force without weapon>
+ *   [1Bi. ..., and
+ *   1Bii. ...;]
+ *
+ * Source prints each alternative's note, then its elements in brackets, with
+ * `or` (if any) printed between alternatives. `alt` names a choice question
+ * (exactly one alternative) or a multi question (one or more, joined by OR).
+ *
+ * Jury numbering: the group occupies one element position N. With one
+ * alternative selected, its elements are numbered as ordinary consecutive
+ * elements. With several, each element keeps its printed label re-based on N
+ * ("1A", "1Bi") and the alternatives are separated by the conjunction.
  */
-export type ElementItem = Element | NoteBlock;
+export interface ElementGroup {
+  alt: string;
+  or?: string;
+  options: ElementAlternative[];
+}
+
+export interface ElementAlternative {
+  note?: string;
+  elements: Element[];
+}
 
 export interface Element {
   /** Printed element number in the official text, e.g. "4" or "2A". */
@@ -190,6 +217,7 @@ export interface Element {
 //   !felony             negation
 //   victim=firefighter  choice question equals option id
 //   defenses~self       multi question includes option id
+//   terms>1             multi question has more than N options selected
 //   a & b, a | b, ( )   conjunction, disjunction, grouping
 //   @multiple_defendants  built-in flag (always false in v1: single defendant)
 export type Condition = string;
@@ -216,6 +244,11 @@ export interface BooleanQuestion extends QuestionBase {
 export interface ChoiceQuestion extends QuestionBase {
   type: "choice";
   options: QuestionOption[];
+  /**
+   * For an `(a/an)` choice: the field whose value follows the article. The
+   * engine suggests "a" or "an" from it; the user can override.
+   */
+  articleFor?: string;
 }
 
 export interface MultiQuestion extends QuestionBase {
@@ -303,6 +336,8 @@ export interface RenderedBlock {
   kind: "p" | "bullet" | "element" | "conj";
   /** Element number in the rendered list (jury numbering). */
   number?: number;
+  /** Element label when it differs from the number, e.g. "1A" or "1Bi". */
+  label?: string;
   /** Nesting depth (0 for body paragraphs, 1 for elements). */
   depth: number;
   runs: Run[];
