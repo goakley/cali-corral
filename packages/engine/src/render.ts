@@ -180,8 +180,7 @@ export function computeEnd(printed: string, isLast: boolean): string {
 }
 
 type Position =
-  | { kind: "element"; e: Element }
-  | { kind: "group"; g: ElementGroup; selected: number[] };
+  { kind: "element"; e: Element } | { kind: "group"; g: ElementGroup; selected: number[] };
 
 /** Which alternatives of a group are selected (in template order). */
 function groupSelection(g: ElementGroup, ctx: Ctx): number[] {
@@ -245,7 +244,8 @@ function renderElements(
   positions.forEach((p, i) => {
     const last = i === positions.length - 1;
     if (p.kind === "element") {
-      if (!plain && last && positions.length >= 2) out.push({ kind: "conj", depth, runs: [{ text: conj }] });
+      if (!plain && last && positions.length >= 2)
+        out.push({ kind: "conj", depth, runs: [{ text: conj }] });
       push(p.e, ++n, last);
       return;
     }
@@ -287,7 +287,12 @@ function inline(n: Inline, ctx: Ctx, origin: Origin | undefined, sep: SepState |
   return node(n, ctx, origin, sep);
 }
 
-function node(n: InlineNode, ctx: Ctx, origin: Origin | undefined, sep: SepState | undefined): Run[] {
+function node(
+  n: InlineNode,
+  ctx: Ctx,
+  origin: Origin | undefined,
+  sep: SepState | undefined,
+): Run[] {
   if ("em" in n) return inlines(n.em, ctx, origin, sep).map((r) => ({ ...r, em: true as const }));
   if ("field" in n) return [field(n.field, ctx)];
   if ("opt" in n) {
@@ -342,7 +347,12 @@ function pronoun(role: string, forms: string[], ctx: Ctx, bare: boolean): Run[] 
   return [textRun(text, { person: role })];
 }
 
-function choice(n: ChoiceNode, ctx: Ctx, origin: Origin | undefined, sep: SepState | undefined): Run[] {
+function choice(
+  n: ChoiceNode,
+  ctx: Ctx,
+  origin: Origin | undefined,
+  sep: SepState | undefined,
+): Run[] {
   let idx = -1;
   let o: Origin | undefined = origin;
   if (n.choice !== undefined) {
@@ -411,7 +421,8 @@ function anyNode(n: AnyNode, ctx: Ctx): Run[] {
     const count = selected.length;
     if (rank > 0) {
       runs.push(textRun(" ", origin));
-      if (word !== undefined && (!hasComma || rank === count - 1)) runs.push(textRun(word + " ", origin));
+      if (word !== undefined && (!hasComma || rank === count - 1))
+        runs.push(textRun(word + " ", origin));
     }
     runs.push(...inlines(opt, ctx, origin, { rank, count, hasCommaSeps: hasComma }));
     if (hasComma && count >= 3 && rank < count - 1) runs.push(textRun(comma, origin));

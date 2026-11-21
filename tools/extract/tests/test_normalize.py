@@ -90,7 +90,8 @@ def test_bracket_inner_spacing_and_blank_punctuation():
 def test_emphasis_split_at_markup():
     assert resolve_emphasis("(" + em("M/m)atter") + " means") == "(*M*/*m*)*atter* means"
     s = "The term[s] " + em("(great bodily injury[,]/deadly weapon[,]/") + "[and] " + em(".50 BMG rifle)")
-    assert resolve_emphasis(s) == "The term[s] (*great bodily injury*[,]/*deadly weapon*[,]/[and] *.50 BMG rifle*)"
+    want = "The term[s] (*great bodily injury*[,]/*deadly weapon*[,]/[and] *.50 BMG rifle*)"
+    assert resolve_emphasis(s) == want
 
 
 def test_emphasis_not_snapped_out_of_brackets_or_citations():
@@ -100,6 +101,8 @@ def test_emphasis_not_snapped_out_of_brackets_or_citations():
 
 def test_space_after_bracket_moves_before_it():
     assert canonical_spacing("is charged[ in Count") == "is charged [in Count"
+
+
 def test_space_move_after_paren():
     assert canonical_spacing("violence)[ and") == "violence) [and"
     assert canonical_spacing("(a/[ or] b)") == "(a/[or] b)"

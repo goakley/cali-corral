@@ -16,7 +16,12 @@ export interface ValidationIssue {
   message: string;
 }
 
-const ajv = new Ajv2020({ allErrors: true, strict: true, strictRequired: false, allowUnionTypes: true });
+const ajv = new Ajv2020({
+  allErrors: true,
+  strict: true,
+  strictRequired: false,
+  allowUnionTypes: true,
+});
 const validateSchema = ajv.compile(schema);
 
 export function validateTemplate(t: unknown): ValidationIssue[] {
@@ -39,9 +44,15 @@ export function semanticIssues(t: Template): ValidationIssue[] {
     if (questions.has(q.id)) add(`/questions/${i}`, `duplicate question id "${q.id}"`);
     questions.set(q.id, q);
     if (q.type === "choice" && q.articleFor !== undefined) {
-      const labels = q.options.map((o) => o.label.toLowerCase()).sort().join("/");
-      if (labels !== "a/an") add(`/questions/${i}`, `articleFor needs options labeled "a" and "an"`);
-      if (!/^(count|text\.[a-z][a-z0-9_]*|[a-z][a-z0-9_]*\.(name|title|agency))$/.test(q.articleFor)) {
+      const labels = q.options
+        .map((o) => o.label.toLowerCase())
+        .sort()
+        .join("/");
+      if (labels !== "a/an")
+        add(`/questions/${i}`, `articleFor needs options labeled "a" and "an"`);
+      if (
+        !/^(count|text\.[a-z][a-z0-9_]*|[a-z][a-z0-9_]*\.(name|title|agency))$/.test(q.articleFor)
+      ) {
         add(`/questions/${i}`, `articleFor "${q.articleFor}" is not a field path`);
       }
     }
@@ -74,12 +85,19 @@ export function semanticIssues(t: Template): ValidationIssue[] {
         continue;
       }
       if (r.kind === "is" && q.type !== "boolean") {
-        add(path, `"${r.q}" is a ${q.type} question; test it with ${q.type === "choice" ? "=" : "~"}option`);
+        add(
+          path,
+          `"${r.q}" is a ${q.type} question; test it with ${q.type === "choice" ? "=" : "~"}option`,
+        );
       }
       if (r.kind === "eq" && q.type !== "choice") add(path, `"${r.q}=..." needs a choice question`);
       if (r.kind === "has" && q.type !== "multi") add(path, `"${r.q}~..." needs a multi question`);
       if (r.kind === "count" && q.type !== "multi") add(path, `"${r.q}>n" needs a multi question`);
-      if ((r.kind === "eq" || r.kind === "has") && q.type !== "boolean" && !q.options.some((o) => o.id === r.v)) {
+      if (
+        (r.kind === "eq" || r.kind === "has") &&
+        q.type !== "boolean" &&
+        !q.options.some((o) => o.id === r.v)
+      ) {
         add(path, `question "${r.q}" has no option "${r.v}"`);
       }
     }
@@ -112,7 +130,10 @@ export function semanticIssues(t: Template): ValidationIssue[] {
       if (!q) add(path, `unknown question "${n.any}"`);
       else if (q.type !== "multi") add(path, `"${n.any}" must be a multi question`);
       else if (q.options.length !== n.options.length) {
-        add(path, `"${n.any}" has ${q.options.length} options but the node has ${n.options.length}`);
+        add(
+          path,
+          `"${n.any}" has ${q.options.length} options but the node has ${n.options.length}`,
+        );
       }
       n.options.forEach((o, i) => walkInlines(o, `${path}/options/${i}`, true));
       return;
@@ -124,7 +145,10 @@ export function semanticIssues(t: Template): ValidationIssue[] {
         if (!q) add(path, `unknown question "${n.choice}"`);
         else if (q.type !== "choice") add(path, `"${n.choice}" must be a choice question`);
         else if (q.options.length !== n.options.length) {
-          add(path, `"${n.choice}" has ${q.options.length} options but the node has ${n.options.length}`);
+          add(
+            path,
+            `"${n.choice}" has ${q.options.length} options but the node has ${n.options.length}`,
+          );
         }
       } else if (n.when !== undefined) {
         if (n.when.length !== n.options.length) add(path, `"when" needs one condition per option`);
@@ -139,7 +163,8 @@ export function semanticIssues(t: Template): ValidationIssue[] {
     }
     if ("pronoun" in n) {
       checkRole(n.pronoun, path);
-      if (theyForm(n.forms) === undefined) add(path, `can't derive a they-form for (${n.forms.join("/")})`);
+      if (theyForm(n.forms) === undefined)
+        add(path, `can't derive a they-form for (${n.forms.join("/")})`);
       return;
     }
     if ("agree" in n) {
@@ -147,7 +172,8 @@ export function semanticIssues(t: Template): ValidationIssue[] {
       return checkRole(n.agree, path);
     }
     if ("note" in n) {
-      for (const g of n.governs ?? []) if (!questions.has(g)) add(path, `note governs unknown question "${g}"`);
+      for (const g of n.governs ?? [])
+        if (!questions.has(g)) add(path, `note governs unknown question "${g}"`);
       return;
     }
   }
@@ -159,7 +185,8 @@ export function semanticIssues(t: Template): ValidationIssue[] {
       if ("p" in b) return walkInlines(b.p, `${p}/p`, false);
       if ("bullet" in b) return walkInlines(b.bullet, `${p}/bullet`, false);
       if ("note" in b) {
-        for (const g of b.governs ?? []) if (!questions.has(g)) add(p, `note governs unknown question "${g}"`);
+        for (const g of b.governs ?? [])
+          if (!questions.has(g)) add(p, `note governs unknown question "${g}"`);
         return;
       }
       if ("opt" in b) {
@@ -169,13 +196,15 @@ export function semanticIssues(t: Template): ValidationIssue[] {
       if ("elements" in b) {
         if (b.plain) {
           b.elements.forEach((it, j) => {
-            if (isElement(it) && it.and !== undefined) add(`${p}/elements/${j}`, "a plain list has no conjunctions");
+            if (isElement(it) && it.and !== undefined)
+              add(`${p}/elements/${j}`, "a plain list has no conjunctions");
           });
         }
         b.elements.forEach((it, j) => {
           const ep = `${p}/elements/${j}`;
           if (isNoteItem(it)) {
-            for (const g of it.governs ?? []) if (!questions.has(g)) add(ep, `note governs unknown question "${g}"`);
+            for (const g of it.governs ?? [])
+              if (!questions.has(g)) add(ep, `note governs unknown question "${g}"`);
           } else if (isElement(it)) {
             if (it.if !== undefined) checkCondition(it.if, `${ep}/if`);
             walkInlines(it.text, `${ep}/text`, false);
@@ -183,12 +212,18 @@ export function semanticIssues(t: Template): ValidationIssue[] {
             used.add(it.alt);
             const q = questions.get(it.alt);
             if (!q) add(ep, `unknown question "${it.alt}"`);
-            else if (q.type === "boolean") add(ep, `"${it.alt}" must be a choice or multi question`);
+            else if (q.type === "boolean")
+              add(ep, `"${it.alt}" must be a choice or multi question`);
             else if (q.options.length !== it.options.length) {
-              add(ep, `"${it.alt}" has ${q.options.length} options but the group has ${it.options.length}`);
+              add(
+                ep,
+                `"${it.alt}" has ${q.options.length} options but the group has ${it.options.length}`,
+              );
             }
-            if (q?.type === "multi" && it.or === undefined) add(ep, `a multi-choice group needs an "or" conjunction`);
-            if (j === b.elements.length - 1) add(ep, "an alternative group can't be the last element");
+            if (q?.type === "multi" && it.or === undefined)
+              add(ep, `a multi-choice group needs an "or" conjunction`);
+            if (j === b.elements.length - 1)
+              add(ep, "an alternative group can't be the last element");
             it.options.forEach((o, k) =>
               o.elements.forEach((e, m) => {
                 if (e.if !== undefined || e.and !== undefined) {

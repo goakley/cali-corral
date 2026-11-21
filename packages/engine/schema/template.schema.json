@@ -110,7 +110,10 @@
           "type": "object",
           "additionalProperties": false,
           "required": ["opt", "if"],
-          "properties": { "opt": { "$ref": "#/$defs/content" }, "if": { "$ref": "#/$defs/condition" } }
+          "properties": {
+            "opt": { "$ref": "#/$defs/content" },
+            "if": { "$ref": "#/$defs/condition" }
+          }
         },
         {
           "type": "object",
@@ -145,7 +148,12 @@
           "required": ["pronoun", "forms"],
           "properties": {
             "pronoun": { "$ref": "#/$defs/id" },
-            "forms": { "type": "array", "minItems": 2, "maxItems": 3, "items": { "type": "string" } },
+            "forms": {
+              "type": "array",
+              "minItems": 2,
+              "maxItems": 3,
+              "items": { "type": "string" }
+            },
             "bare": { "const": true }
           }
         },
@@ -203,7 +211,10 @@
           "type": "object",
           "additionalProperties": false,
           "required": ["opt", "if"],
-          "properties": { "opt": { "$ref": "#/$defs/blocks" }, "if": { "$ref": "#/$defs/condition" } }
+          "properties": {
+            "opt": { "$ref": "#/$defs/blocks" },
+            "if": { "$ref": "#/$defs/condition" }
+          }
         },
         {
           "type": "object",
@@ -213,7 +224,11 @@
             "elements": {
               "type": "array",
               "items": {
-                "oneOf": [{ "$ref": "#/$defs/element" }, { "$ref": "#/$defs/note" }, { "$ref": "#/$defs/group" }]
+                "oneOf": [
+                  { "$ref": "#/$defs/element" },
+                  { "$ref": "#/$defs/note" },
+                  { "$ref": "#/$defs/group" }
+                ]
               }
             },
             "conj": { "type": "string" },

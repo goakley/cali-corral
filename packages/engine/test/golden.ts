@@ -30,7 +30,12 @@ export function casesIn(dir: string): GoldenCase[] {
     for (const f of readdirSync(join(dir, id))) {
       const m = /^(.+)\.input\.json$/.exec(f);
       if (!m) continue;
-      out.push({ id, name: m[1]!, inputPath: join(dir, id, f), textPath: join(dir, id, `${m[1]}.txt`) });
+      out.push({
+        id,
+        name: m[1]!,
+        inputPath: join(dir, id, f),
+        textPath: join(dir, id, `${m[1]}.txt`),
+      });
     }
   }
   return out;

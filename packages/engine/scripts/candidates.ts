@@ -41,7 +41,12 @@ for (const id of ids) {
     const yes = Object.entries(input.answers)
       .filter(([, v]) => v !== false)
       .map(([k, v]) => (v === true ? k : `${k}=${Array.isArray(v) ? v.join("+") : v}`));
-    review.push(`### ${kind}`, "", `Answers: ${yes.length ? yes.join(", ") : "(all optional text off)"}`, "");
+    review.push(
+      `### ${kind}`,
+      "",
+      `Answers: ${yes.length ? yes.join(", ") : "(all optional text off)"}`,
+      "",
+    );
     const pr = Object.entries(input.people).map(([role, p]) => `${role}: ${p.pronouns}`);
     review.push(`Pronouns: ${pr.join(", ")}`, "");
     for (const n of reviewNotes(r.blocks)) review.push(`- Note: ${n}`);

@@ -21,7 +21,11 @@ const THEY_FORMS: Record<string, string> = {
 };
 
 function matchCase(model: string, word: string): string {
-  if (model.length > 0 && model[0] === model[0]!.toUpperCase() && model[0] !== model[0]!.toLowerCase()) {
+  if (
+    model.length > 0 &&
+    model[0] === model[0]!.toUpperCase() &&
+    model[0] !== model[0]!.toLowerCase()
+  ) {
     return word[0]!.toUpperCase() + word.slice(1);
   }
   return word;

@@ -12,7 +12,9 @@ export const TEMPLATES_DIR = join(REPO, "corpus/templates");
 export const GOLDEN_DIR = join(REPO, "tests/golden");
 
 /** The extracted release templates are checked against. */
-export const RELEASE: string = JSON.parse(readFileSync(join(REPO, "corpus/release.json"), "utf8")).extracted;
+export const RELEASE: string = JSON.parse(
+  readFileSync(join(REPO, "corpus/release.json"), "utf8"),
+).extracted;
 export const EXTRACTED_DIR = join(REPO, "data/extracted", RELEASE);
 
 export interface ExtractedRecord {

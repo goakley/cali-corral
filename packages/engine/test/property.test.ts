@@ -6,7 +6,13 @@
 import fc from "fast-check";
 import { describe, expect, it } from "vitest";
 import { evalCondition } from "../src/condition.ts";
-import { computeEnd, DEFAULT_FLAGS, includedPositions, render, toPlainText } from "../src/render.ts";
+import {
+  computeEnd,
+  DEFAULT_FLAGS,
+  includedPositions,
+  render,
+  toPlainText,
+} from "../src/render.ts";
 import type { Block, Element, ElementItem, RenderInput, Template } from "../src/types.ts";
 import { inputArb } from "./arbitrary.ts";
 import { loadTemplate, templateIds } from "./corpus.ts";
@@ -24,7 +30,8 @@ export function textProblems(text: string): string[] {
   if (/\([^()]*\/[^()]*\)/.test(text.replace(ALLOWED_SLASH, ""))) p.push("leftover choice");
   if (/ {2}/.test(text)) p.push("doubled space");
   if (/^\s|\s$/.test(text)) p.push("leading or trailing space");
-  if (/[,;:]\s*(?:[,;:]|\.(?!\d))|\.\s*[,;:]|(?<!\.)\.\.(?!\.)/.test(text)) p.push("doubled punctuation");
+  if (/[,;:]\s*(?:[,;:]|\.(?!\d))|\.\s*[,;:]|(?<!\.)\.\.(?!\.)/.test(text))
+    p.push("doubled punctuation");
   if (/\s[,;:)]|\s\.(?!\d)/.test(text)) p.push("space before punctuation");
   if (/\p{L}[.,]\d/u.test(text)) p.push("missing space before a number");
   if (/\*/.test(text)) p.push("leftover emphasis markup");
@@ -37,8 +44,7 @@ function elementLists(blocks: Block[]): ElementItem[][] {
     if (typeof b === "string" || Array.isArray(b)) continue;
     if ("elements" in b) {
       if (!b.plain) out.push(b.elements); // plain lists keep printed punctuation
-    }
-    else if ("opt" in b) out.push(...elementLists(b.opt));
+    } else if ("opt" in b) out.push(...elementLists(b.opt));
   }
   return out;
 }
@@ -56,16 +62,21 @@ export function markupProblems(t: Template, input: RenderInput): string[] {
         const q = qs.get(g.alt);
         const a = input.answers[g.alt];
         if (!q || q.type === "boolean") return [];
-        return q.options.map((o, i) => ((Array.isArray(a) ? a.includes(o.id) : a === o.id) ? i : -1)).filter((i) => i >= 0);
+        return q.options
+          .map((o, i) => ((Array.isArray(a) ? a.includes(o.id) : a === o.id) ? i : -1))
+          .filter((i) => i >= 0);
       },
     );
     pos.forEach((x, i) => {
       const last = i === pos.length - 1;
-      const els: Element[] = x.kind === "element" ? [x.e] : x.selected.flatMap((k) => x.g.options[k]!.elements);
+      const els: Element[] =
+        x.kind === "element" ? [x.e] : x.selected.flatMap((k) => x.g.options[k]!.elements);
       for (const e of els) {
         const end = computeEnd(e.end, last);
-        if (e.end === ";" && end !== ";") p.push(`element ${e.n}: printed ";" but it is the last element`);
-        if (e.end === "." && end !== ".") p.push(`element ${e.n}: printed "." but it is not the last element`);
+        if (e.end === ";" && end !== ";")
+          p.push(`element ${e.n}: printed ";" but it is the last element`);
+        if (e.end === "." && end !== ".")
+          p.push(`element ${e.n}: printed "." but it is not the last element`);
       }
       if (x.kind !== "element") return;
       const e = x.e;
@@ -99,7 +110,9 @@ describe.each(ids)("template %s (property)", (id) => {
           const text = b.runs.map((x) => x.text).join("");
           for (const pr of textProblems(text)) problems.push(`${pr}: ${JSON.stringify(text)}`);
           if (b.kind !== "conj" && !/^[\p{Lu}\p{N}“"‘]/u.test(text)) {
-            problems.push(`block does not start with a capital: ${JSON.stringify(text.slice(0, 40))}`);
+            problems.push(
+              `block does not start with a capital: ${JSON.stringify(text.slice(0, 40))}`,
+            );
           }
         }
         // Every element list (a run of element blocks) must end with a period
@@ -109,7 +122,8 @@ describe.each(ids)("template %s (property)", (id) => {
           const next = r.blocks.slice(i + 1).find((x) => x.kind !== "conj");
           if (next && next.kind === "element" && next.depth === b.depth) return;
           const text = b.runs.map((x) => x.text).join("");
-          if (!/[.:]$/.test(text)) problems.push(`element list does not end with a period: ${text}`);
+          if (!/[.:]$/.test(text))
+            problems.push(`element list does not end with a period: ${text}`);
         });
         problems.push(...markupProblems(t, input));
         const usesThey = Object.values(input.people).some((x) => x.pronouns === "they");

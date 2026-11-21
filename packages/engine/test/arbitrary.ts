@@ -1,7 +1,15 @@
 /** Answer generators for property tests and golden candidates. Fictional data only. */
 
 import fc from "fast-check";
-import type { Answer, Block, Inline, Person, Pronouns, RenderInput, Template } from "../src/types.ts";
+import type {
+  Answer,
+  Block,
+  Inline,
+  Person,
+  Pronouns,
+  RenderInput,
+  Template,
+} from "../src/types.ts";
 import { suggestAnswers } from "../src/suggest.ts";
 import { allElements, toInlines } from "../src/walk.ts";
 
@@ -12,7 +20,11 @@ export interface TemplateNeeds {
 }
 
 export function needs(t: Template): TemplateNeeds {
-  const out: TemplateNeeds = { roles: new Set(["defendant"]), textFields: new Set(), usesCount: false };
+  const out: TemplateNeeds = {
+    roles: new Set(["defendant"]),
+    textFields: new Set(),
+    usesCount: false,
+  };
   const inl = (xs: Inline[] | string): void => {
     for (const x of toInlines(xs)) {
       if (typeof x === "string") continue;
@@ -43,12 +55,29 @@ export function needs(t: Template): TemplateNeeds {
 
 const FIRST = ["Avery", "Jordan", "Riley", "Casey", "Morgan", "Quinn", "Rowan", "Sage"];
 const LAST = ["Example", "Sample", "Placeholder", "Testcase", "Fictional", "Doe"];
-const TITLES = ["police officer", "deputy sheriff", "highway patrol officer", "game warden", "firefighter"];
-const AGENCIES = ["the Exampleville Police Department", "the Sample County Sheriff’s Office", "the Department of Fish and Wildlife"];
-const TEXTS = ["enforcing the law", "a fictional fact pattern", "an example description", "assault"];
+const TITLES = [
+  "police officer",
+  "deputy sheriff",
+  "highway patrol officer",
+  "game warden",
+  "firefighter",
+];
+const AGENCIES = [
+  "the Exampleville Police Department",
+  "the Sample County Sheriff’s Office",
+  "the Department of Fish and Wildlife",
+];
+const TEXTS = [
+  "enforcing the law",
+  "a fictional fact pattern",
+  "an example description",
+  "assault",
+];
 
 const pronouns = fc.constantFrom<Pronouns>("he", "she", "they");
-const name = fc.tuple(fc.constantFrom(...FIRST), fc.constantFrom(...LAST)).map(([a, b]) => `${a} ${b}`);
+const name = fc
+  .tuple(fc.constantFrom(...FIRST), fc.constantFrom(...LAST))
+  .map(([a, b]) => `${a} ${b}`);
 
 export function personArb(): fc.Arbitrary<Person> {
   return fc.record({
@@ -96,10 +125,21 @@ export function fixedInput(t: Template, kind: "minimal" | "maximal" | "mixed"): 
     if (q.type === "boolean") answers[q.id] = kind === "maximal" || (kind === "mixed" && alt);
     else if (q.type === "choice") {
       const opts = q.options;
-      answers[q.id] = (kind === "minimal" ? opts[0] : kind === "maximal" ? opts[opts.length - 1] : opts[i % opts.length])!.id;
+      answers[q.id] = (
+        kind === "minimal"
+          ? opts[0]
+          : kind === "maximal"
+            ? opts[opts.length - 1]
+            : opts[i % opts.length]
+      )!.id;
     } else {
       const ids = q.options.map((o) => o.id);
-      answers[q.id] = kind === "minimal" ? [ids[0]!] : kind === "maximal" ? ids : ids.filter((_, j) => j % 2 === i % 2).slice(0, Math.max(1, ids.length - 1));
+      answers[q.id] =
+        kind === "minimal"
+          ? [ids[0]!]
+          : kind === "maximal"
+            ? ids
+            : ids.filter((_, j) => j % 2 === i % 2).slice(0, Math.max(1, ids.length - 1));
       if ((answers[q.id] as string[]).length === 0) answers[q.id] = [ids[0]!];
     }
   });
