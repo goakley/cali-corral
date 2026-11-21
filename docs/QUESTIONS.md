@@ -4,14 +4,13 @@ Questions raised while working. Each says what was chosen in the meantime (the m
 
 ## Open
 
-### Q3. They-form of reflexive pronouns (2026-11-20)
-
-When a person uses they/them, `(himself/herself)` renders as "themselves". Some style guides prefer "themself" for one person. **Meanwhile:** "themselves". Preference?
+_None._
 
 ## Resolved
 
 - **Q1. BlueOak-1.0.0 dev dependencies** — acceptable; added to CLAUDE.md's allowed licenses (owner, 2026-11-20).
 - **Q2. Obvious typos in the official text** — approved in principle: templates may carry a documented, reviewed erratum for spacing-only typos (source mode still matches the official text). The owner will confirm with the legal advisor before errata ship (owner, 2026-11-20). Not yet implemented; see findings §7 item 2.
+- **Q3. They-form of reflexive pronouns** — "themselves" (owner, 2026-11-20). Already the engine's behavior.
 - **Contact address for the User-Agent** — the owner's address, supplied through `CALI_CORRAL_CONTACT` in a local `.env` (2026-11-20).
 - **Default branch** — `master`; commit to it directly (2026-11-20).
 - **One repo or two** — one monorepo (ADR 0001).

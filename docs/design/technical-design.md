@@ -406,5 +406,5 @@ Rendering must produce text the official markup allows. In a few places the mark
 3. **AND inside an optional element** (`[AND` / `4. …]`) is used only when that element is last, like `[AND]`.
 4. **Alternative groups**: numbering as described in §5.4 (with only 1B chosen, its two parts become elements 1 and 2).
 5. **Computed punctuation with nothing selected**: `[or socioeconomic status] (./,)` renders no punctuation when the item is omitted.
-6. **Pronoun they-forms**, especially "themselves" for one person (QUESTIONS.md Q3).
+6. **Pronoun they-forms**: "themselves" for one person was chosen by the owner (QUESTIONS.md Q3); attorneys should still confirm the derived forms read correctly.
 7. **Literal faithfulness where the official text has a flaw** (missing space in 2670, sentence ending inside an optional bracket in 3517, repeated "or" in 200): reproduced as printed, flagged in the review notes.

@@ -200,4 +200,4 @@ The full corpus is about 8 MB raw and about 3 MB gzipped, well under the spec's 
 
 ## 8. Open questions
 
-See `docs/QUESTIONS.md`: Q1 (BlueOak-1.0.0 dev dependencies), Q2 (spacing-only official typos), Q3 (reflexive they-form).
+All resolved (`docs/QUESTIONS.md`): BlueOak-1.0.0 allowed; spacing-only errata approved pending legal advice; reflexive they-form is "themselves".
