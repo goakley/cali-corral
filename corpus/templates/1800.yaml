@@ -1,0 +1,67 @@
+# CALCRIM No. 1800. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "1800"
+title: "Theft by Larceny (Pen. Code, § 484)"
+source:
+  file: calcrim-2026
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2016, March 2024, October 2025 *"
+  body_sha256: "b37e64b8a00810e7341402bbef7e44a5ce9d2f570022bea5bc5f604f5b590607"
+review: machine-checked
+questions:
+  - { id: count_ref, type: boolean, prompt: "Name the count?" }
+  - { id: degree_named, type: boolean, prompt: "Say grand or petty theft?" }
+  - id: degree
+    type: choice
+    prompt: "Degree"
+    options: [{ id: grand, label: "grand" }, { id: petty, label: "petty" }]
+  - { id: by_larceny, type: boolean, prompt: "Say “by larceny”?" }
+  - { id: cite_statute, type: boolean, prompt: "Cite Penal Code section 484?" }
+  - { id: agent, type: boolean, prompt: "Include the owner’s agent?" }
+  - id: intent
+    type: multi
+    prompt: "The defendant intended…"
+    options:
+      - { id: permanently, label: "to deprive the owner of it permanently" }
+      - { id: extended, label: "to remove it for so extended a period…" }
+  - { id: consumption, type: boolean, prompt: "Say taking can include consumption or use of utilities?" }
+  - { id: agent_def, type: boolean, prompt: "Define agent?" }
+  - { id: petty_value, type: boolean, prompt: "Say petty theft property can be of any value?" }
+body:
+  - - "The defendant is charged "
+    - { opt: ["in Count ", { field: count }], if: count_ref }
+    - " with "
+    - { opt: [{ choice: degree, options: ["grand", "petty"], bare: true }], if: degree_named }
+    - " theft "
+    - { opt: "by larceny", if: by_larceny }
+    - " "
+    - { opt: "in violation of Penal Code section 484", if: cite_statute }
+    - "."
+  - "To prove that the defendant is guilty of this crime, the People must prove that:"
+  - elements:
+      - { n: "1", text: "The defendant took possession of property owned by someone else", end: ";" }
+      - n: "2"
+        text: ["The defendant took the property without the owner’s ", { opt: "or owner’s agent’s", if: agent }, " consent"]
+        end: ";"
+      - n: "3"
+        text:
+          - "When the defendant took the property "
+          - { pronoun: defendant, forms: [he, she] }
+          - " intended "
+          - any: intent
+            options:
+              - "to deprive the owner of it permanently"
+              - - { sep: "or" }
+                - " to remove it from the owner’s "
+                - { opt: "or owner’s agent’s", if: agent }
+                - " possession for so extended a period of time that the owner would be deprived of a major portion of the value or enjoyment of the property"
+        end: ";"
+      - { n: "4", and: "AND", text: "The defendant moved the property, even a small distance, and kept it for any period of time, however brief", end: "." }
+  - opt: ["The taking of property can include its consumption or the use of utilities."]
+    if: consumption
+  - opt:
+      - ["An ", { em: "agent" }, " is someone to whom the owner has given complete or partial authority and control over the owner’s property."]
+    if: agent_def
+  - opt: ["For petty theft, the property taken can be of any value, no matter how slight."]
+    if: petty_value

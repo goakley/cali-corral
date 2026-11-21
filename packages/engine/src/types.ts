@@ -67,6 +67,11 @@ export interface ChoiceNode {
   choice?: string;
   when?: Condition[];
   options: (Inline[] | string)[];
+  /**
+   * Printed without parentheses: `a/b`. Used inside brackets for an optional
+   * pick-one such as `[grand/petty] theft`.
+   */
+  bare?: true;
 }
 
 /**

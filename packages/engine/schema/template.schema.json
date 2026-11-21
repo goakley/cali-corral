@@ -119,7 +119,8 @@
           "properties": {
             "choice": { "$ref": "#/$defs/id" },
             "when": { "type": "array", "items": { "$ref": "#/$defs/condition" } },
-            "options": { "type": "array", "minItems": 2, "items": { "$ref": "#/$defs/content" } }
+            "options": { "type": "array", "minItems": 2, "items": { "$ref": "#/$defs/content" } },
+            "bare": { "const": true }
           },
           "oneOf": [{ "required": ["choice"] }, { "required": ["when"] }]
         },

@@ -1,0 +1,107 @@
+# CALCRIM No. 2652. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "2652"
+title: "Resisting an Executive Officer in Performance of Duty (Pen. Code, § 69)"
+source:
+  file: calcrim-2026
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2014, February 2015, August 2016, September 2019, September 2024"
+  body_sha256: "8ccfa7f44a45c91752ec216719cf931d7933ef80865543392cf71233697188fb"
+review: machine-checked
+people:
+  officer: { label: "Executive officer", uses: [title, agency] }
+related:
+  - { id: "2670", reason: "When lawful performance is an issue, give the lawful-performance paragraph and Instruction 2670." }
+questions:
+  - { id: count_ref, type: boolean, prompt: "Name the count?" }
+  - { id: cite_statute, type: boolean, prompt: "Cite Penal Code section 69?" }
+  - { id: unlawfully, type: boolean, prompt: "Include “unlawfully” in element 1?" }
+  - { id: violence, type: boolean, prompt: "Include “or violence” in element 1?" }
+  - { id: title_def, type: boolean, prompt: "Say the officer's title is an executive officer?" }
+  - id: officer_article
+    type: choice
+    prompt: "Article before the officer's title"
+    articleFor: officer.title
+    options: [{ id: a, label: "a" }, { id: an, label: "an" }]
+  - { id: sworn_member_def, type: boolean, prompt: "Define peace officer as a sworn member of an agency?" }
+  - { id: duties_def, type: boolean, prompt: "List the officer's duties?" }
+  - { id: recording, type: boolean, prompt: "Give the paragraph on photographing or recording an executive officer?" }
+  - { id: lawful_performance, type: boolean, prompt: "Is lawful performance an issue (give paragraph and Instruction 2670)?" }
+  - id: unlawful_kind
+    type: multi
+    prompt: "The officer was not lawfully performing duties if…"
+    options:
+      - { id: arrest, label: "unlawfully arresting or detaining someone" }
+      - { id: force, label: "using unreasonable or excessive force" }
+body:
+  - - "The defendant is charged "
+    - { opt: ["in Count ", { field: count }], if: count_ref }
+    - " with resisting an executive officer in the performance of that officer’s duty "
+    - { opt: "in violation of Penal Code section 69", if: cite_statute }
+    - "."
+  - "To prove that the defendant is guilty of this crime, the People must prove that:"
+  - elements:
+      - n: "1"
+        text: ["The defendant ", { opt: "unlawfully", if: unlawfully }, " used force ", { opt: "or violence", if: violence }, " to resist an executive officer"]
+        end: ";"
+      - n: "2"
+        text: ["When the defendant acted, the officer was performing ", { pronoun: officer, forms: [his, her] }, " lawful duty"]
+        end: ";"
+      - n: "3"
+        text: ["When the defendant acted, the defendant knew that the person ", { pronoun: defendant, forms: [he, she] }, " resisted was an executive officer"]
+        end: ";"
+      - n: "4"
+        and: "AND"
+        text:
+          - "When the defendant acted, "
+          - { pronoun: defendant, forms: [he, she] }
+          - " knew the executive officer was performing "
+          - { pronoun: officer, forms: [his, her] }
+          - " duty"
+        end: "."
+  - - "An "
+    - { em: "executive officer" }
+    - " is a government official within the executive branch who may use his or her own discretion in performing his or her job duties. "
+    - opt:
+        - { choice: officer_article, options: ["A", "An"] }
+        - " "
+        - { field: officer.title, hint: "insert title, e.g., peace officer, commissioner, etc." }
+        - " is an "
+        - { em: "executive officer." }
+      if: title_def
+  - opt:
+      - - "A sworn member of "
+        - { field: officer.agency, hint: "insert name of agency that employs peace officer" }
+        - ", authorized by "
+        - { field: text.authority_section, hint: "insert appropriate section from Pen. Code, § 830 et seq." }
+        - " to "
+        - { field: text.statutory_authority, hint: "describe statutory authority" }
+        - ", is a "
+        - { em: "peace officer" }
+        - "."
+    if: sworn_member_def
+  - opt:
+      - - "The duties of "
+        - { choice: officer_article, options: ["a", "an"] }
+        - " "
+        - { field: officer.title, hint: "insert title of officer specified in Pen. Code, § 830 et seq." }
+        - " include "
+        - { field: text.duties, hint: "insert job duties" }
+        - "."
+    if: duties_def
+  - opt:
+      - - "Taking a photograph or making an audio or video recording of an "
+        - { em: "executive officer" }
+        - " while the officer is in a public place or the person taking the photograph or making the recording is in a place where he or she has the right to be is not, by itself, a crime."
+    if: recording
+  - { note: "When lawful performance is an issue, give the following paragraph and Instruction 2670, Lawful Performance: Peace Officer.", governs: [lawful_performance] }
+  - opt:
+      - - "A peace officer is not lawfully performing his or her duties if he or she is "
+        - any: unlawful_kind
+          options: ["unlawfully arresting or detaining someone", [{ sep: "or" }, " using unreasonable or excessive force in his or her duties"]]
+        - ". Instruction 2670 explains "
+        - any: unlawful_kind
+          options: ["when an arrest or detention is unlawful", [{ sep: "and" }, " when force is unreasonable or excessive"]]
+        - "."
+    if: lawful_performance

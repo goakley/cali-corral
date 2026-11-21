@@ -30,7 +30,10 @@ export function renderInlineSource(n: InlineNode): string {
     return n.hint !== undefined ? `${BLANK} <${n.hint}>` : BLANK;
   }
   if ("opt" in n) return `[${inlines(n.opt)}]`;
-  if ("options" in n) return `(${n.options.map(inlines).join("/")})`;
+  if ("options" in n) {
+    const alts = n.options.map(inlines).join("/");
+    return "bare" in n && n.bare ? alts : `(${alts})`;
+  }
   if ("sep" in n) return `[${n.sep}]`;
   if ("pronoun" in n) return `(${n.forms.join("/")})`;
   if ("agree" in n) return n.alt ? `(${n.sg}/${n.pl})` : n.sg;
