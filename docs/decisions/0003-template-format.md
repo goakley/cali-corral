@@ -1,6 +1,6 @@
 # 0003. Templates: YAML tree, JSON Schema, typed nodes
 
-Date: 2026-11-20 · Status: proposed (Phase 0)
+Date: 2026-11-20 · Status: accepted (owner, 2026-11-22)
 
 ## Context
 

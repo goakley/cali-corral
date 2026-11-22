@@ -1,6 +1,6 @@
 # 0004. Canonical source text for the round-trip test
 
-Date: 2026-11-20 · Status: proposed (Phase 0)
+Date: 2026-11-20 · Status: accepted (owner, 2026-11-22)
 
 ## Context
 
