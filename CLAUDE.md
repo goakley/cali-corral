@@ -10,7 +10,7 @@ A free, open-source, offline-capable web app (PWA) that turns CALCRIM (Californi
 
 ## Non-negotiables
 
-1. **Fidelity.** Rendered text must match the official CALCRIM wording exactly. The round-trip test (source-mode render == normalized official text) must pass for every template on `master`. Never "improve" CALCRIM wording.
+1. **Fidelity.** Rendered text must match the official CALCRIM wording exactly. The round-trip test (source-mode render == normalized official text) must pass for every template on `master`. Never "improve" CALCRIM wording, and never correct apparent typos or misprints, even spacing (2670's missing space stays). Record suspected flaws as errata instead, which display them without changing the text (attorney review, 2026-11-22).
 2. **No generative AI at runtime.** The rendering path is deterministic. AI may draft templates only in maintainer tooling, and every draft is reviewed by a human before it ships.
 3. **Case data never leaves the user's device.** No telemetry, analytics or third-party scripts. The only network calls: same-origin corpus/manifest fetches, and user-initiated relay submissions (template data and a note only, never rendered text).
 4. **Permissive open-source dependencies only** (MIT, Apache-2.0, BSD, ISC, MPL-2.0, BlueOak-1.0.0). Ask before adding anything GPL/AGPL or proprietary.

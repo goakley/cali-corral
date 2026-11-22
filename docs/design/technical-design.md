@@ -397,9 +397,9 @@ Limits: body ≤ 64 KB, `note` ≤ 4,000 characters, `patch` ≤ 200 operations.
 - **Extracted records** carry `record_version`; the layout cache is versioned (`layout-v1-…`). Extraction is reproducible from the PDF hashes in `sources.json`.
 - **Corpus version** is `<release>.<n>`, incremented on every published change.
 
-## 12. Interpretations of CALCRIM markup that need attorney review
+## 12. Interpretations of CALCRIM markup (attorney-reviewed)
 
-Rendering must produce text the official markup allows. In a few places the markup underdetermines the result, and the engine applies a rule (ADR 0005). Each should be confirmed by a practicing attorney before Gate 0:
+Rendering must produce text the official markup allows. In a few places the markup underdetermines the result, and the engine applies a rule (ADR 0005). **A practicing attorney reviewed and approved all seven on 2026-11-22.** Their note on item 7 is recorded below it:
 
 1. **Series connectors.** `[,]`, `[or]`, `[and]` are treated as punctuation for whichever items are kept, not as tied to the item they are printed beside (`[and]` is often printed only before the last item). Without comma connectors, the conjunction repeats ("A or B or C").
 2. **Capitalization.** The first letter of every paragraph and element is capitalized, so a lowercase alternative chosen first reads correctly ("Defense of another is a defense to …").
@@ -408,3 +408,7 @@ Rendering must produce text the official markup allows. In a few places the mark
 5. **Computed punctuation with nothing selected**: `[or socioeconomic status] (./,)` renders no punctuation when the item is omitted.
 6. **Pronoun they-forms**: "themselves" for one person was chosen by the owner (QUESTIONS.md Q3); attorneys should still confirm the derived forms read correctly.
 7. **Literal faithfulness where the official text has a flaw** (missing space in 2670, sentence ending inside an optional bracket in 3517, repeated "or" in 200): reproduced as printed, flagged in the review notes.
+
+   *Attorney feedback (2026-11-22):* stay as close as possible to what the CALCRIM PDFs print, even where it looks like a typo. The missing space in 2670 stays in jury text. Errata should be used heavily whenever the system suspects a typo or misprint. Errata record and display a suspected flaw. They never correct the rendered text (spec, Template format: Errata).
+
+   This doesn't affect the canonical spacing rules in §3. Those remove gaps that the PDF layout introduced *during extraction* (glyph gaps after brackets, spaces after slashes), not spacing CALCRIM prints. Where it's unclear which of the two a gap is, the gap is kept as printed and an erratum is proposed.

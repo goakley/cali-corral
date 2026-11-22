@@ -1,6 +1,6 @@
 # 0005. How jury mode resolves underdetermined CALCRIM markup
 
-Date: 2026-11-20 · Status: proposed (Phase 0) — needs attorney confirmation
+Date: 2026-11-20 · Status: accepted — reviewed and approved by a practicing attorney, 2026-11-22
 
 ## Context
 
@@ -13,4 +13,5 @@ The engine applies fixed, documented rules (technical design §5.4–5.5 and §1
 ## Consequences
 
 - Output is deterministic and grammatical for every answer set.
-- These rules change only letter case and the placement of printed connectors, never wording; they still need a practicing attorney's confirmation before Gate 0.
+- These rules change only letter case and the placement of printed connectors, never wording. A practicing attorney confirmed them on 2026-11-22.
+- Official typos and misprints are reproduced exactly as printed, never corrected. Suspected flaws are recorded as errata and shown to the user (attorney feedback, 2026-11-22).

@@ -9,7 +9,7 @@ _None._
 ## Resolved
 
 - **Q1. BlueOak-1.0.0 dev dependencies** — acceptable; added to CLAUDE.md's allowed licenses (owner, 2026-11-20).
-- **Q2. Obvious typos in the official text** — approved in principle: templates may carry a documented, reviewed erratum for spacing-only typos (source mode still matches the official text). The owner will confirm with the legal advisor before errata ship (owner, 2026-11-20). Not yet implemented; see findings §7 item 2.
+- **Q2. Obvious typos in the official text** — settled by legal review (2026-11-22). The earlier owner approval of spacing-only corrections (2026-11-20) is superseded. **Never correct the official text, even an apparent typo**: 2670's missing space stays in jury text. Errata are used heavily to *record and display* suspected typos and misprints, never to change rendered text. See the spec, Template format: Errata.
 - **Q3. They-form of reflexive pronouns** — "themselves" (owner, 2026-11-20). Already the engine's behavior.
 - **Contact address for the User-Agent** — the owner's address, supplied through `CALI_CORRAL_CONTACT` in a local `.env` (2026-11-20).
 - **Default branch** — `master`; commit to it directly (2026-11-20).

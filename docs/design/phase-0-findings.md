@@ -202,4 +202,4 @@ Items 1–12 were adopted into `docs/SPEC.md` on 2026-11-20 (owner). The errata,
 
 ## 8. Open questions
 
-All resolved (`docs/QUESTIONS.md`): BlueOak-1.0.0 allowed; spacing-only errata approved pending legal advice; reflexive they-form is "themselves".
+All resolved (`docs/QUESTIONS.md`): BlueOak-1.0.0 allowed; reflexive they-form is "themselves". Typos: after legal review (2026-11-22), official text is never corrected, and errata record and display suspected misprints instead. The §12 interpretation rules were approved by an attorney on 2026-11-22.

@@ -236,11 +236,15 @@ Each instruction is one file: metadata, people roles, questions, and a body tree
 
 **Extensions adopted after Phase 0** (to be added to schema v1 before the drafting brief needs them):
 
-- **Errata.** The official text has flaws a faithful tree can't express: 47 instructions have unbalanced brackets or parentheses, and a few have spacing typos (2670's "<insert name of felony>created"). An erratum is a template attribute recording the exact location, the kind, the evidence (PDF page, confirmed visually) and the reviewer who approved it. There are two kinds:
-  - **Missing closer.** The template keeps its well-formed tree, and source mode omits the closer the official text lacks, so the round trip still matches the official text character for character.
-  - **Spacing.** Jury mode fixes a spacing-only typo (e.g. inserts the missing space), while source mode reproduces the official text exactly. Errata never change wording. This kind is approved by the owner, pending confirmation by the legal advisor.
+- **Errata.** **Rendered text stays as close as possible to what the CALCRIM PDFs print, even where it looks like a typo or misprint** (legal review, 2026-11-22). For example, 2670's "<insert name of felony>created" keeps its missing space in jury text: "…the crime of robberycreated a risk…". An erratum is how the project *records* a suspected flaw without correcting it. It never changes the jury text and never changes wording, spacing or punctuation.
 
-  Every erratum is reviewed like a template change, listed in the template's review notes, and **always visible in the app's highlighted-template view**.
+  An erratum is a template attribute recording the exact location, the kind of suspected flaw, what CALCRIM prints, what it probably meant, and the evidence (the PDF page, confirmed visually). Kinds include spacing (missing or extra space), punctuation (e.g. 3517's period inside an optional bracket), wording (e.g. 200's repeated "or"), structure (unbalanced brackets or parentheses) and title (the table of contents disagrees with the instruction's heading).
+
+  - **Use errata heavily.** Record one whenever the tooling or a reviewer suspects a typo or misprint. The bar is suspicion, not proof, and it's better to flag too much than too little. The extractor and drafter should detect likely misprints automatically and propose errata. Candidates include words joined with no space (especially after a `>` or a blank), unbalanced markup, doubled words, a paragraph that can end without closing punctuation, a period inside optional brackets, and title mismatches. A maintainer confirms each proposed erratum against the PDF and keeps it, or rejects it with a reason.
+  - **Unbalanced markup.** The template keeps a well-formed tree, and source mode omits the closer the official text lacks, so the round trip still matches character for character. Where the closer goes is an interpretation, so the erratum states it and the app shows it.
+  - **Visible to users.** Every erratum shows in the app's highlighted-template view, and in the preview beside the affected text ("CALCRIM prints this as shown; possible misprint: …"). The attorney decides whether to change it. A hand edit marks the instruction "modified", as with any other edit.
+
+  Errata are reviewed like template changes and listed in the template's review notes.
 - **Repeatable blocks.** 50 instructions print identical copies of a paragraph to mean "repeat as needed" (e.g. one per count or item). A repeatable block holds one copy of the content, the number of copies CALCRIM prints (so source mode still round-trips), and a prompt for how many the user needs. In jury mode each copy gets its own answers and fields.
 - **Linked questions.** A choice node can map its options onto a subset of another question's options instead of declaring its own question. For example, 860's element 1A lists six weapons and its introduction lists seven. When the linked answer falls within the mapped subset, the choice is answered automatically and not asked again. Otherwise it is asked, with only the mapped options. The same thing is never asked twice.
 
@@ -292,9 +296,9 @@ Some official markup doesn't fully determine the jury text. The engine resolves 
 6. **Computed punctuation with nothing selected.** `[or socioeconomic status] (./,)` renders no punctuation when its item is omitted.
 7. **Pronoun they-forms.** Derived as in Template format: Pronouns and agreement, with "themselves" for one person (owner decision).
 8. **Jury text cleanup.** Spaces left by omitted content collapse. No space is left before closing punctuation (except a period starting a number, ".50 BMG") or after an opening bracket or quote. Paragraphs left with no letters or digits are dropped.
-9. **Faithfulness to official flaws.** Where the official text has a flaw (a sentence whose period sits inside an optional bracket in 3517, a repeated "or" in 200), it is reproduced as printed and flagged in the review notes. The only exception is a reviewed spacing erratum.
+9. **Faithfulness to official flaws.** Where the official text appears to have a typo or misprint (2670's missing space in "…felony>created", 3517's period inside an optional bracket, 200's repeated "or"), jury text reproduces it exactly as printed, with no exceptions. The suspected flaw is recorded as an erratum, which the app shows to the user (Template format: Errata).
 
-**These rules need a practicing attorney's sign-off as part of Gate 0.** If an attorney rejects a rule, the rule is changed in the engine and every affected render is regenerated before Gate 0 is met.
+**A practicing attorney reviewed and approved these rules on 2026-11-22** (technical design §12). This is the rendering-rules part of Gate 0. Any change to a rule needs the same sign-off again, and every affected render is regenerated.
 
 ### Verification
 
@@ -310,7 +314,7 @@ Some official markup doesn't fully determine the jury text. The engine resolves 
   - nondeterminism
 - **Markup consistency (property):** every computed `;` or `.` and every AND placement must be one the printed markup allows. `;` is never last and `.` is always last. An unbracketed AND on a required element appears only when that element is last. Every last element has a printed conjunction before it.
 - **Golden files:** a few hand-checked renders per instruction (reviewed by an attorney) are kept as regression tests. Candidates are generated for review and are never promoted automatically.
-- **Errata** are checked like everything else. Source mode with errata applied must still round-trip, and every erratum must name its evidence and reviewer.
+- **Errata** are checked like everything else. Source mode must still round-trip, jury text must be unchanged by an erratum, and every erratum must name its evidence and the maintainer who confirmed it.
 - **Review tiers.** There are three levels:
   - **Skeleton:** a template drafted mechanically from the official markup. It passes the schema, round-trip and render checks, but its questions, people roles, pronoun targets, agreement annotations, prompts and computed punctuation haven't been worked out. **Skeletons never ship to users.** In the manifest they count as `not_encoded`.
   - **Machine-checked:** the semantic pass is done and the template passes every automated check: schema and semantic validation, round trip, property tests including markup consistency and agreement, and goldens where they exist. The semantic pass merges repeated alternatives into shared questions, binds fields to people roles and case data, picks the target person of every pronoun, adds agreement annotations, writes prompts and encodes computed punctuation. It may be AI-assisted in maintainer tooling and is reviewed by a maintainer on the pull request. At launch every instruction ships at least machine-checked and is labeled that way in the app.
@@ -428,7 +432,7 @@ Each phase ships only after its gate is met. Gates are criteria, not dates.
 - CI previews on pull requests; draft and machine-check all ~800 instructions (skeleton plus semantic pass, as defined under Verification)
 - Note: `docs/PHASE-0.md` covers only the first part of this phase (foundations plus a 12-instruction pilot) and ends at its own stop point. Drafting the remaining instructions is a separate brief that follows owner review.
 
-> **Gate 0:** every template passes the round-trip test, and a practicing attorney approves sample output (the golden candidates) **and signs off on the rendering rules** (High-level design: Rendering rules).
+> **Gate 0:** every template passes the round-trip test, and a practicing attorney approves sample output (the golden candidates) **and signs off on the rendering rules** (High-level design: Rendering rules; the rules were signed off 2026-11-22).
 
 **Phase 1: First release (single defendant)**
 - Instruction picker, questionnaire with on-demand case facts, live preview, edit tracking
