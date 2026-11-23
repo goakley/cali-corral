@@ -933,6 +933,7 @@ Answers: not_lawful_if=arrest+force, sec_detention, detention_consent, sec_arres
 Pronouns: defendant: they, fleeing_felon: they, officer: they
 
 - Note: Possible missing space: “…The commission of the crime of example felonycreated a risk of or resulted in de…”
+- Erratum (spacing, confirmed): CALCRIM prints no space between the felony blank and “created” (“…the crime of robberycreated a risk…”). Probably a missing space; the same sentence in 2671 has one. Reproduced as printed.
 
 ```text
 Lawful Performance: Peace Officer

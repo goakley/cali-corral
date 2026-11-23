@@ -192,6 +192,7 @@ Unanswered questions make atoms false and are reported as unanswered.
 | `{pronoun: role, forms: [he, she(, they)]}` | `(he/she)`; `bare` → `he/she` | the person's pronoun (§5.3) |
 | `{agree: role, sg, pl, alt?, onlyIf?}` | `sg`, or `(sg/pl)` with `alt` | `pl` when the person uses they/them (and `onlyIf` holds) |
 | `{note: "…", governs?: [q]}` | `<…>` | nothing |
+| `{erratum: e1, printed?: "]"}` | nothing, or the stray markup in `printed` | nothing; the block reports `errata: [e1]` (§4.7) |
 
 Field bindings: `count`, `text.<id>` (free text), `<role>.name|title|agency`.
 
@@ -223,6 +224,28 @@ Field bindings: `count`, `text.<id>` (free text), `<role>.name|title|agency`.
 - `n` is the printed label (`1`, `1A`, `(4/5)`, `a`); jury numbering is computed.
 - `end` is the printed end punctuation (`;`, `.`, `(;/.)`, `:` or none); `and` the printed conjunction paragraph (`AND`, `[AND]`, `OR`, `[OR]`). For an optional element the conjunction prints inside its brackets.
 - `conj` sets the list's conjunction (default `AND`); `style: alpha` letters a sub-list; `plain: true` marks a numbered list of complete sentences (verdict-form directions) whose printed punctuation is kept and which gets no conjunction.
+
+### 4.7 Errata and links to other instructions
+
+```yaml
+errata:
+  - id: e1
+    kind: spacing          # spacing | punctuation | wording | structure | title | other
+    note: "CALCRIM prints no space before “created” … Reproduced as printed."
+    evidence: "calcrim-2026 p. 1925"
+    status: confirmed      # proposed (by tooling) | confirmed (maintainer checked the PDF)
+related:
+  - { id: "2670", kind: reference, reason: "…" }
+  - { id: "2241", kind: definition, terms: [driver, driving] }
+  - { id: "875", kind: lesser_included, bench_note: "• Assault With a Deadly Weapon. Pen. Code, § 245." }
+```
+
+Errata record suspected misprints and **never change jury text** (spec, Template format: Errata).
+- An `{erratum: id}` inline node marks the spot. A rendered block lists the errata anchored in it, and `RenderResult.errata` lists those that apply to the output, plus every `title` erratum.
+- Unbalanced official markup uses `unclosed: id` / `unopened: id` on an `opt` or `choice`/`any` node, an optional block, an optional element, or a group alternative. Source mode leaves out that bracket or parenthesis, so the round trip still matches, while jury mode uses the well-formed tree. A stray closer with no partner is `{erratum: id, printed: "]"}`. Both forms need a `structure` erratum.
+- Validation: ids are unique and resolve; every non-title erratum is anchored at least once; a title erratum is never anchored.
+
+Links: `definition` needs `terms`, `lesser_included` needs `bench_note` (the verbatim Bench Notes entry), and a link can't point to its own instruction. A link without a kind is a plain reference.
 
 ## 5. Rendering engine
 

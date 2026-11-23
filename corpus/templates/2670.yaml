@@ -12,6 +12,15 @@ review: machine-checked
 people:
   officer: { label: "Peace officer", uses: [name] }
   fleeing_felon: { label: "Fleeing felon", uses: [name] }
+errata:
+  - id: e1
+    kind: spacing
+    note: >-
+      CALCRIM prints no space between the felony blank and “created” (“…the crime of
+      robberycreated a risk…”). Probably a missing space; the same sentence in 2671 has one.
+      Reproduced as printed.
+    evidence: "calcrim-2026 p. 1925 (zero glyph gap)"
+    status: confirmed
 questions:
   - id: not_lawful_if
     type: multi
@@ -206,6 +215,7 @@ body:
             text:
               - "The commission of the crime of "
               - { field: text.felony, hint: "insert name of felony" }
+              - { erratum: e1 }
               - "created a risk of or resulted in death or serious bodily injury to another person"
             end: ";"
           - n: "d"

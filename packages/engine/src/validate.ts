@@ -66,6 +66,37 @@ export function semanticIssues(t: Template): ValidationIssue[] {
   });
   const roles = new Set(["defendant", ...Object.keys(t.people ?? {})]);
   const used = new Set<string>();
+  const errata = new Map((t.errata ?? []).map((e) => [e.id, e]));
+  const anchored = new Set<string>();
+  (t.errata ?? []).forEach((e, i) => {
+    if ((t.errata ?? []).findIndex((x) => x.id === e.id) !== i)
+      add(`/errata/${i}`, `duplicate erratum id "${e.id}"`);
+  });
+  (t.related ?? []).forEach((r, i) => {
+    if (r.id === t.id) add(`/related/${i}`, "an instruction can't be related to itself");
+    if (r.terms !== undefined && r.kind !== "definition")
+      add(`/related/${i}`, `"terms" belongs on a definition link`);
+    if (r.kind === "definition" && !r.terms?.length)
+      add(`/related/${i}`, "a definition link names the terms it defines");
+    if (r.bench_note !== undefined && r.kind !== "lesser_included")
+      add(`/related/${i}`, `"bench_note" belongs on a lesser_included link`);
+    if (r.kind === "lesser_included" && r.bench_note === undefined)
+      add(`/related/${i}`, "a lesser_included link quotes its Bench Notes entry");
+  });
+
+  function checkErratum(id: string, path: string, structural: boolean): void {
+    anchored.add(id);
+    const e = errata.get(id);
+    if (!e) add(path, `unknown erratum "${id}" (declare it under errata)`);
+    else if (structural && e.kind !== "structure")
+      add(path, `erratum "${id}" marks unbalanced markup, so its kind must be "structure"`);
+    else if (e.kind === "title") add(path, `title erratum "${id}" can't be anchored in the body`);
+  }
+
+  function checkUnbalanced(u: { unclosed?: string; unopened?: string }, path: string): void {
+    if (u.unclosed) checkErratum(u.unclosed, `${path}/unclosed`, true);
+    if (u.unopened) checkErratum(u.unopened, `${path}/unopened`, true);
+  }
 
   function checkCondition(src: string, path: string): void {
     try {
@@ -122,9 +153,11 @@ export function semanticIssues(t: Template): ValidationIssue[] {
     }
     if ("opt" in n) {
       checkCondition(n.if, `${path}/if`);
+      checkUnbalanced(n, path);
       return walkInlines(n.opt, `${path}/opt`, inAny);
     }
     if ("any" in n) {
+      checkUnbalanced(n, path);
       used.add(n.any);
       const q = questions.get(n.any);
       if (!q) add(path, `unknown question "${n.any}"`);
@@ -139,6 +172,7 @@ export function semanticIssues(t: Template): ValidationIssue[] {
       return;
     }
     if ("options" in n) {
+      checkUnbalanced(n, path);
       if (n.choice !== undefined) {
         used.add(n.choice);
         const q = questions.get(n.choice);
@@ -176,6 +210,10 @@ export function semanticIssues(t: Template): ValidationIssue[] {
         if (!questions.has(g)) add(path, `note governs unknown question "${g}"`);
       return;
     }
+    if ("erratum" in n) {
+      checkErratum(n.erratum, path, n.printed !== undefined);
+      return;
+    }
   }
 
   function walkBlocks(bs: Block[], path: string): void {
@@ -191,6 +229,7 @@ export function semanticIssues(t: Template): ValidationIssue[] {
       }
       if ("opt" in b) {
         checkCondition(b.if, `${p}/if`);
+        checkUnbalanced(b, p);
         return walkBlocks(b.opt, `${p}/opt`);
       }
       if ("elements" in b) {
@@ -207,6 +246,9 @@ export function semanticIssues(t: Template): ValidationIssue[] {
               if (!questions.has(g)) add(ep, `note governs unknown question "${g}"`);
           } else if (isElement(it)) {
             if (it.if !== undefined) checkCondition(it.if, `${ep}/if`);
+            checkUnbalanced(it, ep);
+            if (it.if === undefined && (it.unclosed || it.unopened))
+              add(ep, "only an optional (bracketed) element can have unbalanced brackets");
             walkInlines(it.text, `${ep}/text`, false);
           } else if (isGroup(it)) {
             used.add(it.alt);
@@ -224,6 +266,7 @@ export function semanticIssues(t: Template): ValidationIssue[] {
               add(ep, `a multi-choice group needs an "or" conjunction`);
             if (j === b.elements.length - 1)
               add(ep, "an alternative group can't be the last element");
+            it.options.forEach((o, k) => checkUnbalanced(o, `${ep}/options/${k}`));
             it.options.forEach((o, k) =>
               o.elements.forEach((e, m) => {
                 if (e.if !== undefined || e.and !== undefined) {
@@ -239,6 +282,10 @@ export function semanticIssues(t: Template): ValidationIssue[] {
   }
 
   walkBlocks(t.body, "/body");
+  (t.errata ?? []).forEach((e, i) => {
+    if (e.kind !== "title" && !anchored.has(e.id))
+      add(`/errata/${i}`, `erratum "${e.id}" is never anchored in the body`);
+  });
   for (const q of questions.keys()) {
     if (!used.has(q)) add("/questions", `question "${q}" is never used`);
   }

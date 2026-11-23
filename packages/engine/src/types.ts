@@ -24,7 +24,8 @@ export type InlineNode =
   | SepNode
   | PronounNode
   | AgreeNode
-  | NoteNode;
+  | NoteNode
+  | ErratumNode;
 
 /** Emphasized text (italic in the official text). Source: `*text*`. */
 export interface EmNode {
@@ -47,8 +48,21 @@ export interface FieldNode {
   noBlank?: true;
 }
 
+/**
+ * Attributes for markup the official text prints unbalanced. Each names a
+ * "structure" erratum. Source mode leaves out the missing bracket or
+ * parenthesis so the round trip still matches the official text; jury mode
+ * uses the well-formed tree.
+ */
+export interface Unbalanced {
+  /** The official text has no closing bracket/parenthesis here. */
+  unclosed?: string;
+  /** The official text has no opening bracket/parenthesis here. */
+  unopened?: string;
+}
+
 /** Optional (bracketed) content. Source: `[...]`. */
-export interface OptNode {
+export interface OptNode extends Unbalanced {
   opt: Inline[] | string;
   if: Condition;
 }
@@ -63,7 +77,7 @@ export interface OptNode {
  * holds, nothing is rendered: used where the punctuation belongs to an
  * omitted optional item, as in `[or socioeconomic status] (./,)`.
  */
-export interface ChoiceNode {
+export interface ChoiceNode extends Unbalanced {
   choice?: string;
   when?: Condition[];
   options: (Inline[] | string)[];
@@ -78,7 +92,7 @@ export interface ChoiceNode {
  * Pick one or more alternatives. Source: `(a/ [or] b/ [or] c)`.
  * Connectors inside options are `sep` nodes.
  */
-export interface AnyNode {
+export interface AnyNode extends Unbalanced {
   any: string; // question id (type "multi")
   options: (Inline[] | string)[];
 }
@@ -125,6 +139,17 @@ export interface AgreeNode {
   onlyIf?: Condition;
 }
 
+/**
+ * Marks where a suspected typo or misprint in the official text sits. It never
+ * changes jury text; the app shows the erratum beside the text. `printed` is
+ * stray markup the official text prints (e.g. an unmatched `]`): source mode
+ * emits it, and jury mode omits it like any other markup.
+ */
+export interface ErratumNode {
+  erratum: string;
+  printed?: string;
+}
+
 /** A drafter note inside a paragraph. Source: `<text>`. Never rendered to the jury. */
 export interface NoteNode {
   note: string;
@@ -162,7 +187,7 @@ export interface NoteBlock {
 }
 
 /** Optional content spanning whole paragraphs. Source: `[` … `]` around them. */
-export interface OptBlock {
+export interface OptBlock extends Unbalanced {
   opt: Block[];
   if: Condition;
 }
@@ -209,12 +234,12 @@ export interface ElementGroup {
   options: ElementAlternative[];
 }
 
-export interface ElementAlternative {
+export interface ElementAlternative extends Unbalanced {
   note?: string;
   elements: Element[];
 }
 
-export interface Element {
+export interface Element extends Unbalanced {
   /** Printed element number in the official text, e.g. "4" or "2A". */
   n: string;
   text: Inline[] | string;
@@ -290,7 +315,31 @@ export interface PersonRole {
 
 export interface Related {
   id: string;
+  /**
+   * - reference: the text or Bench Notes point to the instruction (2652 → 2670)
+   * - definition: this instruction relies on it to define `terms` (2110 → 2241)
+   * - lesser_included: it covers an offense listed in this instruction's
+   *   LESSER INCLUDED OFFENSES Bench Notes (`bench_note`, verbatim)
+   */
+  kind?: "reference" | "definition" | "lesser_included";
   reason?: string;
+  terms?: string[];
+  bench_note?: string;
+}
+
+/**
+ * A suspected typo or misprint in the official text, recorded and shown to the
+ * user, never corrected (attorney review, 2026-11-22).
+ */
+export interface Erratum {
+  id: string;
+  kind: "spacing" | "punctuation" | "wording" | "structure" | "title" | "other";
+  /** What CALCRIM prints and what it probably meant. */
+  note: string;
+  /** Where it was confirmed, e.g. "calcrim-2026 p. 1925". */
+  evidence?: string;
+  /** proposed: flagged by tooling; confirmed: a maintainer checked the PDF. */
+  status: "proposed" | "confirmed";
 }
 
 export interface TemplateSource {
@@ -311,6 +360,7 @@ export interface Template {
   people?: Record<string, PersonRole>;
   questions?: Question[];
   related?: Related[];
+  errata?: Erratum[];
   body: Block[];
 }
 
@@ -348,6 +398,8 @@ export interface Origin {
   field?: string;
   /** Person role for pronoun/agreement text. */
   person?: string;
+  /** Erratum anchored here (internal marker; collected into `errata`). */
+  erratum?: string;
 }
 
 export interface Run {
@@ -365,6 +417,8 @@ export interface RenderedBlock {
   /** Nesting depth (0 for body paragraphs, 1 for elements). */
   depth: number;
   runs: Run[];
+  /** Errata anchored in this block, for display beside it. */
+  errata?: string[];
 }
 
 export interface Rendered {
@@ -375,4 +429,6 @@ export interface Rendered {
   missingFields: string[];
   /** Questions that were needed but unanswered (rendered as source markup). */
   unanswered: string[];
+  /** Errata that apply to the rendered text (plus title errata), in template order. */
+  errata: string[];
 }

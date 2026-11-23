@@ -59,6 +59,10 @@ for (const id of ids) {
     const pr = Object.entries(input.people).map(([role, p]) => `${role}: ${p.pronouns}`);
     review.push(`Pronouns: ${pr.join(", ")}`, "");
     for (const n of reviewNotes(r.blocks)) review.push(`- Note: ${n}`);
+    for (const id of r.errata) {
+      const e = t.errata?.find((x) => x.id === id);
+      if (e) review.push(`- Erratum (${e.kind}, ${e.status}): ${e.note}`);
+    }
     review.push("", "```text", text.trimEnd(), "```", "");
   }
 }

@@ -43,6 +43,8 @@ interface Ctx {
   missing: Set<string>;
   unanswered: Set<string>;
   consulted: Set<string>;
+  /** Errata of unbalanced markup that was included in the output. */
+  structural: Set<string>;
 }
 
 interface SepState {
@@ -65,12 +67,17 @@ export function render(t: Template, input: RenderInput, mode: Mode = "jury"): Re
     missing: new Set(),
     unanswered: new Set(),
     consulted: new Set(),
+    structural: new Set(),
   };
   const out: RenderedBlock[] = [];
   for (const b of t.body) renderBlock(b, ctx, out);
   const blocks = out
     .map((b) => finishBlock(b, mode))
     .filter((b) => b.kind === "conj" || hasVisibleText(b));
+  const seen = new Set([...ctx.structural, ...blocks.flatMap((b) => b.errata ?? [])]);
+  const errata = (t.errata ?? [])
+    .filter((e) => e.kind === "title" || seen.has(e.id))
+    .map((e) => e.id);
   return {
     id: t.id,
     title: t.title,
@@ -78,6 +85,7 @@ export function render(t: Template, input: RenderInput, mode: Mode = "jury"): Re
     missingFields: [...ctx.missing],
     unanswered: [...ctx.unanswered],
     relevant: [...ctx.consulted],
+    errata,
   };
 }
 
@@ -105,12 +113,15 @@ function capitalizeFirst(parts: string[]): string[] {
 }
 
 function finishBlock(b: RenderedBlock, mode: Mode): RenderedBlock {
+  const anchored = [
+    ...new Set(b.runs.flatMap((r) => (r.origin?.erratum ? [r.origin.erratum] : []))),
+  ];
   const cleaned = cleanJuryText(b.runs.map((r) => r.text));
   if (b.kind !== "conj") capitalizeFirst(cleaned);
   const runs: Run[] = [];
   b.runs.forEach((r, i) => {
     const text = cleaned[i]!;
-    if (text === "") return;
+    if (text === "" || r.origin?.erratum) return;
     const run: Run = { text };
     if (r.em) run.em = true;
     if (mode === "annotated" && r.origin) run.origin = r.origin;
@@ -121,7 +132,16 @@ function finishBlock(b: RenderedBlock, mode: Mode): RenderedBlock {
       runs.push(run);
     }
   });
-  return { ...b, runs };
+  const done: RenderedBlock = { ...b, runs };
+  if (anchored.length) done.errata = anchored;
+  else delete done.errata;
+  return done;
+}
+
+/** Record an included node whose official markup is unbalanced. */
+function noteUnbalanced(u: { unclosed?: string; unopened?: string }, ctx: Ctx): void {
+  if (u.unclosed) ctx.structural.add(u.unclosed);
+  if (u.unopened) ctx.structural.add(u.unopened);
 }
 
 function sameOrigin(a: Origin | undefined, b: Origin | undefined): boolean {
@@ -161,7 +181,10 @@ function renderBlock(b: Block, ctx: Ctx, out: RenderedBlock[]): void {
   }
   if ("note" in b) return;
   if ("opt" in b) {
-    if (cond(b.if, ctx)) for (const x of b.opt) renderBlock(x, ctx, out);
+    if (cond(b.if, ctx)) {
+      noteUnbalanced(b, ctx);
+      for (const x of b.opt) renderBlock(x, ctx, out);
+    }
     return;
   }
   if ("elements" in b) {
@@ -233,6 +256,7 @@ function renderElements(
   );
   let n = 0;
   const push = (e: Element, number: number, last: boolean, label?: string): void => {
+    noteUnbalanced(e, ctx);
     const runs = inlines(e.text, ctx, undefined, undefined);
     const end = plain ? e.end : computeEnd(e.end, last);
     if (end) runs.push({ text: end });
@@ -251,6 +275,7 @@ function renderElements(
     }
     // Groups are never last (enforced by validation).
     const g = p.g;
+    for (const oi of p.selected) noteUnbalanced(g.options[oi]!, ctx);
     if (p.selected.length === 1) {
       for (const e of g.options[p.selected[0]!]!.elements) push(e, ++n, false);
       return;
@@ -297,11 +322,18 @@ function node(
   if ("field" in n) return [field(n.field, ctx)];
   if ("opt" in n) {
     if (!cond(n.if, ctx)) return [];
+    noteUnbalanced(n, ctx);
     const q = firstQuestion(n.if);
     return inlines(n.opt, ctx, q ? { question: q } : origin, sep);
   }
-  if ("any" in n) return anyNode(n, ctx);
-  if ("options" in n) return choice(n, ctx, origin, sep);
+  if ("any" in n) {
+    noteUnbalanced(n, ctx);
+    return anyNode(n, ctx);
+  }
+  if ("options" in n) {
+    noteUnbalanced(n, ctx);
+    return choice(n, ctx, origin, sep);
+  }
   if ("sep" in n) return sepNode(n.sep, sep);
   if ("pronoun" in n) return pronoun(n.pronoun, n.forms, ctx, n.bare === true);
   if ("agree" in n) {
@@ -314,6 +346,7 @@ function node(
     return [textRun(plural ? n.pl : n.sg, { person: n.agree })];
   }
   if ("note" in n) return [];
+  if ("erratum" in n) return [{ text: "", origin: { erratum: n.erratum } }];
   const never: never = n;
   throw new Error(`unknown inline node ${JSON.stringify(never)}`);
 }

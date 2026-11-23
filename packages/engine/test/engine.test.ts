@@ -329,3 +329,155 @@ describe("validation", () => {
     expect(validateTemplate({ schema: 1, id: "x" }).length).toBeGreaterThan(0);
   });
 });
+
+describe("errata", () => {
+  const structure = (id: string): NonNullable<Template["errata"]>[number] => ({
+    id,
+    kind: "structure",
+    note: "Closing bracket missing in the official text.",
+    status: "confirmed",
+  });
+
+  it("leaves out a missing closer in source mode but renders a well-formed tree", () => {
+    const t = tpl(
+      [["The defendant ", { opt: "willfully", if: "w", unclosed: "e1" }, " acted."]],
+      [bool("w")],
+    );
+    t.errata = [structure("e1")];
+    expect(validateTemplate(t)).toEqual([]);
+    expect(renderSource(t)).toEqual(["The defendant [willfully acted."]);
+    const r = render(t, { answers: { w: true }, people: {} });
+    expect(toPlainText(r)).toBe("The defendant willfully acted.");
+    expect(r.errata).toEqual(["e1"]);
+    // Omitted optional text: the erratum no longer applies to the output.
+    expect(render(t, { answers: { w: false }, people: {} }).errata).toEqual([]);
+  });
+
+  it("leaves out a missing opener on an optional block and an optional element", () => {
+    const t = tpl(
+      [
+        { opt: ["First.", "Second."], if: "a", unopened: "e1" },
+        {
+          elements: [
+            { n: "1", text: "One", end: ";" },
+            { n: "2", text: "Two", end: "(;/.)", if: "b", and: "AND", unclosed: "e2" },
+          ],
+        },
+      ],
+      [bool("a"), bool("b")],
+    );
+    t.errata = [structure("e1"), structure("e2")];
+    expect(validateTemplate(t)).toEqual([]);
+    expect(renderSource(t)).toEqual(["First.", "Second.]", "1. One;", "[AND", "2. Two(;/.)"]);
+  });
+
+  it("anchors a suspected typo without changing jury text, and reports it on its block", () => {
+    const t = tpl([
+      "Nothing here.",
+      [
+        "the crime of ",
+        { field: "text.felony", hint: "insert name of felony" },
+        { erratum: "e1" },
+        "created a risk",
+      ],
+    ]);
+    t.errata = [
+      { id: "e1", kind: "spacing", note: "No space before “created”.", status: "confirmed" },
+    ];
+    expect(validateTemplate(t)).toEqual([]);
+    expect(renderSource(t)[1]).toBe("the crime of ______ <insert name of felony>created a risk");
+    const r = render(t, { answers: {}, people: {}, text: { felony: "robbery" } });
+    expect(toPlainText(r)).toBe("Nothing here.\n\nThe crime of robberycreated a risk");
+    expect(r.blocks.map((b) => b.errata)).toEqual([undefined, ["e1"]]);
+    expect(r.errata).toEqual(["e1"]);
+    // Annotated mode carries no empty marker runs.
+    const a = render(t, { answers: {}, people: {}, text: { felony: "robbery" } }, "annotated");
+    expect(a.blocks[1]!.runs.every((x) => x.text !== "")).toBe(true);
+  });
+
+  it("prints stray markup in source mode only", () => {
+    const t = tpl([["The defendant acted.", { erratum: "e1", printed: "]" }]]);
+    t.errata = [structure("e1")];
+    expect(validateTemplate(t)).toEqual([]);
+    expect(renderSource(t)).toEqual(["The defendant acted.]"]);
+    expect(jury(t, {})).toBe("The defendant acted.");
+  });
+
+  it("always reports title errata", () => {
+    const t = tpl(["Text."]);
+    t.errata = [{ id: "e1", kind: "title", note: "TOC says “Material”.", status: "confirmed" }];
+    expect(validateTemplate(t)).toEqual([]);
+    expect(render(t, { answers: {}, people: {} }).errata).toEqual(["e1"]);
+  });
+
+  it("rejects unknown, unanchored, duplicate and mis-kinded errata", () => {
+    const t = tpl(
+      [
+        [
+          { opt: "x", if: "a", unclosed: "e1" },
+          { erratum: "nope" },
+          { erratum: "e2", printed: "]" },
+        ],
+      ],
+      [bool("a")],
+    );
+    t.errata = [
+      { id: "e1", kind: "spacing", note: "n", status: "proposed" },
+      { id: "e2", kind: "wording", note: "n", status: "proposed" },
+      { id: "e3", kind: "wording", note: "n", status: "proposed" },
+      { id: "e3", kind: "title", note: "n", status: "proposed" },
+    ];
+    const msgs = validateTemplate(t).map((i) => i.message);
+    expect(msgs).toContain(`erratum "e1" marks unbalanced markup, so its kind must be "structure"`);
+    expect(msgs).toContain(`unknown erratum "nope" (declare it under errata)`);
+    expect(msgs).toContain(`erratum "e2" marks unbalanced markup, so its kind must be "structure"`);
+    expect(msgs).toContain(`duplicate erratum id "e3"`);
+    expect(msgs).toContain(`erratum "e3" is never anchored in the body`);
+  });
+
+  it("rejects unbalanced markup on a required element and non-markup stray text", () => {
+    const t = tpl([{ elements: [{ n: "1", text: "One", end: ".", unclosed: "e1" }] }]);
+    t.errata = [structure("e1")];
+    expect(validateTemplate(t).map((i) => i.message)).toContain(
+      "only an optional (bracketed) element can have unbalanced brackets",
+    );
+    const u = tpl([[{ erratum: "e1", printed: "oops" }]]);
+    u.errata = [structure("e1")];
+    expect(validateTemplate(u).length).toBeGreaterThan(0);
+  });
+});
+
+describe("related links", () => {
+  it("accepts reference, definition and lesser_included links", () => {
+    const t = tpl(["Text."]);
+    t.related = [
+      { id: "2670", kind: "reference", reason: "lawful performance" },
+      { id: "2241", kind: "definition", terms: ["driver", "driving"] },
+      {
+        id: "875",
+        kind: "lesser_included",
+        bench_note: "• Assault With a Deadly Weapon. Pen. Code, § 245.",
+      },
+      { id: "100" },
+    ];
+    expect(validateTemplate(t)).toEqual([]);
+  });
+
+  it("rejects links missing their kind-specific fields or pointing at themselves", () => {
+    const t = tpl(["Text."]);
+    t.related = [
+      { id: "2241", kind: "definition" },
+      { id: "875", kind: "lesser_included" },
+      { id: "100", kind: "reference", terms: ["x"], bench_note: "y" },
+      { id: "999" },
+    ];
+    const msgs = validateTemplate(t).map((i) => i.message);
+    expect(msgs).toEqual([
+      "a definition link names the terms it defines",
+      "a lesser_included link quotes its Bench Notes entry",
+      `"terms" belongs on a definition link`,
+      `"bench_note" belongs on a lesser_included link`,
+      "an instruction can't be related to itself",
+    ]);
+  });
+});
