@@ -1071,7 +1071,7 @@ A person being arrested or detained uses reasonable force when he or she: (1) us
 
 ## 3470. Right to Self-Defense or Defense of Another (Non-Homicide)
 
-### minimal
+### minimal — **Approved**
 
 Answers: defense=self, protected=self, danger_kind=injury, belief_who=self, danger_of=death
 
@@ -1100,7 +1100,7 @@ When deciding whether the defendant’s beliefs were reasonable, consider all th
 The People have the burden of proving beyond a reasonable doubt that at least one of the three elements of self-defense listed above is not met in this case. If the People have not met this burden, you must find the defendant not guilty of example crimes charged.
 ```
 
-### maximal
+### maximal — **Approved**
 
 Answers: defense=self+another, crimes_plural, protected=self+other+third, touched_unlawfully, danger_kind=injury+touched, belief_who=self+other, imminent_def, slightest_touching, untrue_information, victim_threatened_defendant, victim_threatened_defendant_others, victim_threatened_others, act_more_quickly, threat_from_other, no_retreat, danger_of=crime
 
@@ -1145,7 +1145,7 @@ A defendant is not required to retreat. He or she is entitled to stand his or he
 The People have the burden of proving beyond a reasonable doubt that at least one of the three elements of self-defense or defense of another listed above is not met in this case. If the People have not met this burden, you must find the defendant not guilty of example crimes charged.
 ```
 
-### mixed
+### mixed — **Approved**
 
 Answers: defense=self, protected=self+third, danger_kind=injury, belief_who=other, imminent_def, untrue_information, victim_threatened_defendant_others, act_more_quickly, no_retreat, danger_of=death
 
