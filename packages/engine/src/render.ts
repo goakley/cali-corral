@@ -112,7 +112,37 @@ function capitalizeFirst(parts: string[]): string[] {
   return parts;
 }
 
+/** Marks where optional text was left out (internal; never output). */
+const GAP: Run = { text: "", origin: { gap: true } };
+
+/**
+ * A comma printed both before and after optional text that was left out
+ * ("of ______), [or to find … true], that person") would double up. Drop the
+ * second comma, but only when omitted text lay between the two (rendering
+ * rule 10; a comma pair CALCRIM prints itself is kept).
+ */
+function collapseGapCommas(runs: Run[]): Run[] {
+  const out: Run[] = [];
+  let sawGap = false;
+  let lastVisible = "";
+  for (const r of runs) {
+    if (r.origin?.gap) {
+      sawGap = true;
+      continue;
+    }
+    let text = r.text;
+    if (sawGap && lastVisible === "," && /^\s*,/.test(text)) text = text.replace(/^(\s*),/, "$1");
+    if (/\S/.test(text)) {
+      lastVisible = text.trimEnd().slice(-1);
+      sawGap = false;
+    }
+    out.push(text === r.text ? r : { ...r, text });
+  }
+  return out;
+}
+
 function finishBlock(b: RenderedBlock, mode: Mode): RenderedBlock {
+  b = { ...b, runs: collapseGapCommas(b.runs) };
   const anchored = [
     ...new Set(b.runs.flatMap((r) => (r.origin?.erratum ? [r.origin.erratum] : []))),
   ];
@@ -331,7 +361,7 @@ function node(
   if ("em" in n) return inlines(n.em, ctx, origin, sep).map((r) => ({ ...r, em: true as const }));
   if ("field" in n) return [field(n.field, ctx)];
   if ("opt" in n) {
-    if (!cond(n.if, ctx)) return [];
+    if (!cond(n.if, ctx)) return [GAP];
     noteUnbalanced(n, ctx);
     const q = firstQuestion(n.if);
     return inlines(n.opt, ctx, q ? { question: q } : origin, sep);

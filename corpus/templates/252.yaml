@@ -1,0 +1,120 @@
+# CALCRIM No. 252. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "252"
+title: "Union of Act and Intent"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2010, April 2011, March 2017, February 2026"
+  body_sha256: e25ef35b42fa6d9ad72d2f70101bad73b402d469d3c14027d93e8b6c498a1904
+review: "machine-checked"
+questions:
+  - id: and_or_or
+    type: choice
+    options: [ { id: o1, label: and }, { id: o2, label: or } ]
+    prompt: "Choose one"
+  - id: other_allegation_s
+    type: boolean
+    prompt: "Include “(and/or) other allegation[s]”?"
+  - id: in_this_case
+    type: choice
+    options: [ { id: o1, label: "in this case" }, { id: o2, label: "of ___" } ]
+    prompt: "Choose one"
+  - id: find_allegation_s_true
+    type: boolean
+    prompt: "Include “or to find the allegation[s] of ___ true”?"
+  - id: fail_do_required_act
+    type: boolean
+    prompt: "Include “or fail to do the required act”?"
+  - id: intentionally_fails_do_required
+    type: boolean
+    prompt: "Include “or intentionally fails to do a required act”?"
+  - { id: allegation_s, type: boolean, prompt: "Include “or allegation[s]”?" }
+  - id: for_you_find_person
+    type: boolean
+    prompt: "Include “For you to find a person guilty of the crime[s] (in this case/of ___)…”?"
+  - id: in_this_case_2
+    type: choice
+    options: [ { id: o1, label: "in this case" }, { id: o2, label: "of ___" } ]
+    prompt: "Choose one"
+  - { id: find_true, type: boolean, prompt: "Include “or to find ___ true”?" }
+  - id: intentionally_fail_do_required
+    type: boolean
+    prompt: "Include “or intentionally fail to do the required act”?"
+  - id: for_you_find_person_2
+    type: boolean
+    prompt: "Include “For you to find a person guilty of the crime[s] (in this case/of ___)…”?"
+  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+  - { id: allegation_plural, type: boolean, prompt: "More than one allegation?" }
+  - { id: require_plural, type: boolean, prompt: "More than one require?" }
+  - { id: instruction_plural, type: boolean, prompt: "More than one instruction?" }
+body:
+  - - "The crime"
+    - { opt: [ s ], if: crime_plural }
+    - " "
+    - opt:
+        - { choice: and_or_or, options: [ [ and ], [ or ] ] }
+        - " other allegation"
+        - { opt: [ s ], if: allegation_plural }
+      if: other_allegation_s
+    - " charged in this case require"
+    - { opt: [ s ], if: require_plural }
+    - " proof of the union of act and wrongful intent."
+  - { note: "Give for crimes not requiring specific mental states." }
+  - - opt:
+        - "For you to find a person guilty of the crime"
+        - { opt: [ s ], if: crime_plural }
+        - " "
+        - choice: in_this_case
+          options:
+            - [ "in this case" ]
+            - - "of "
+              - field: "text.name_s_alleged_offense"
+                hint: "insert name[s] of alleged offense[s] and count[s], e.g., battery, as charged in Count 1"
+        - ", "
+        - opt:
+            - "or to find the allegation"
+            - { opt: [ s ], if: allegation_plural }
+            - " of "
+            - { field: "text.name_s_enhancement_s", hint: "insert name[s] of enhancement[s]" }
+            - " true"
+          if: find_allegation_s_true
+        - ", that person must not only commit the prohibited act "
+        - { opt: [ "or fail to do the required act" ], if: fail_do_required_act }
+        - ", but must do so with a wrongful intent. A person acts with a wrongful intent when he or she intentionally does a prohibited act "
+        - opt: [ "or intentionally fails to do a required act" ]
+          if: intentionally_fails_do_required
+        - "; however, it is not required that he or she intend to break the law. The act required is explained in the instruction"
+        - { opt: [ s ], if: instruction_plural }
+        - " for "
+        - { when: [ "!crime_plural", crime_plural ], options: [ that, those ] }
+        - " crime"
+        - { opt: [ s ], if: crime_plural }
+        - " "
+        - { opt: [ "or allegation", { opt: [ s ], if: allegation_plural } ], if: allegation_s }
+        - "."
+      if: for_you_find_person
+  - { note: "Give for crimes requiring one or more specific mental states." }
+  - - opt:
+        - "For you to find a person guilty of the crime"
+        - { opt: [ s ], if: crime_plural }
+        - " "
+        - choice: in_this_case_2
+          options: [ [ "in this case" ], [ "of ", { field: "text.offense_s", hint: "insert offense(s)" } ] ]
+        - " "
+        - opt: [ "or to find ", { field: "text.allegation_s", hint: "insert allegation(s)" }, " true" ]
+          if: find_true
+        - ", that person must not only intentionally commit the prohibited act "
+        - opt: [ "or intentionally fail to do the required act" ]
+          if: intentionally_fail_do_required
+        - ", but must do so with a specific mental state. The act and the specific mental state required are explained in the instruction"
+        - { opt: [ s ], if: instruction_plural }
+        - " for "
+        - { when: [ "!crime_plural", crime_plural ], options: [ that, those ] }
+        - " crime"
+        - { opt: [ s ], if: crime_plural }
+        - " "
+        - { opt: [ "or allegation", { opt: [ s ], if: allegation_plural } ], if: allegation_s }
+        - "."
+      if: for_you_find_person_2

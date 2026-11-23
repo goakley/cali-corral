@@ -10,7 +10,10 @@
  * must still finish it. Its main use in Phase 0 is measuring how much of the
  * corpus the format can represent mechanically.
  *
- *   node scripts/autodraft.ts [--out DIR] [--report FILE] [ids...]
+ *   node scripts/autodraft.ts [--out DIR] [--report FILE] [--force] [--keep-failing] [ids...]
+ *
+ * --out writes passing drafts (never overwriting a template unless --force);
+ * --keep-failing also writes drafts that parse but fail a check, to finish by hand.
  */
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
@@ -30,7 +33,7 @@ import type {
   Template,
 } from "../src/types.ts";
 import { validateTemplate } from "../src/validate.ts";
-import { isElement, isGroup } from "../src/walk.ts";
+import { isElement, isGroup, toInlines } from "../src/walk.ts";
 import { inputArb } from "../test/arbitrary.ts";
 import { bodySha256, EXTRACTED_DIR, RELEASE, type ExtractedRecord } from "../test/corpus.ts";
 import { renderProblems } from "../test/problems.ts";
@@ -191,15 +194,19 @@ class Drafter {
             if (alts.length === 1) out.push({ opt: alts[0]!, if: this.q("boolean") });
             else if (flat.join("/") === "and/or")
               out.push({ opt: ["and/or"], if: this.q("boolean") });
-            else if (flat.some((f) => f === null || /[()]/.test(f)))
-              throw new DraftError("brackets", "bare alternatives with markup inside");
             else {
-              // [grand/petty]: an optional pick-one printed without parentheses
+              // [grand/petty] or [a/[or] b]: an optional pick-one (or pick-one-or-more)
+              // printed without parentheses. Only plain words and connectors.
+              const restore = this.snapshot();
               const c = this.alternatives(alts);
-              const node = "pronoun" in c || "choice" in c ? { ...c, bare: true as const } : c;
-              if ("any" in node)
-                throw new DraftError("brackets", "connectors in bare alternatives");
-              out.push({ opt: [node], if: this.q("boolean") });
+              const simple = (c as { options?: (Inline[] | string)[] }).options?.every((o) =>
+                toInlines(o).every((x) => typeof x !== "string" || !/[()]/.test(x)),
+              );
+              if (!("pronoun" in c) && !simple) {
+                restore();
+                throw new DraftError("brackets", "bare alternatives with markup inside");
+              }
+              out.push({ opt: [{ ...c, bare: true as const }], if: this.q("boolean") });
             }
             break;
           }
@@ -673,12 +680,14 @@ function main(): void {
   let outDir: string | undefined;
   let reportPath: string | undefined;
   let force = false;
+  let keepFailing = false;
   const skipped: string[] = [];
   const ids: string[] = [];
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--out") outDir = args[++i];
     else if (args[i] === "--report") reportPath = args[++i];
     else if (args[i] === "--force") force = true;
+    else if (args[i] === "--keep-failing") keepFailing = true;
     else ids.push(args[i]!);
   }
   const all = readdirSync(EXTRACTED_DIR)
@@ -691,7 +700,7 @@ function main(): void {
     ) as ExtractedRecord;
     const { t, r } = check(rec);
     results.push(r);
-    if (outDir && t && r.status === "pass") {
+    if (outDir && t && (r.status === "pass" || keepFailing)) {
       const dest = join(outDir, `${id}.yaml`);
       // Never overwrite an authored template.
       if (existsSync(dest) && !force) skipped.push(id);

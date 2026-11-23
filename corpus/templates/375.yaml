@@ -1,0 +1,253 @@
+# CALCRIM No. 375. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "375"
+title: "Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc."
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2008, February 2016, August 2016, March 2023, February 2026"
+  body_sha256: "4cbefff4904c5494dee28bda9ead5545624f049b7e01dd8ac558e88215021b4e"
+review: "machine-checked"
+questions:
+  - { id: may_have, type: boolean, prompt: "Include “may have”?" }
+  - id: another_other
+    type: choice
+    options: [ { id: o1, label: another }, { id: o2, label: other } ]
+    prompt: "Choose one"
+  - id: another_other_offense_s
+    type: choice
+    options:
+      - { id: o1, label: "(another/other) offense[s]" }
+      - { id: o2, label: "the offense[s] of ___" }
+    prompt: "Choose one"
+  - id: people_presented_evidence_that
+    type: boolean
+    prompt: "Include “The People presented evidence that the defendant [may have] committed…”?"
+  - id: other_behavior_by_defendant
+    type: choice
+    options:
+      - { id: o1, label: "of other behavior by the defendant that was not charged in this case" }
+      - { id: o2, label: "that the defendant ___" }
+    prompt: "Choose one"
+  - id: people_presented_evidence_other
+    type: boolean
+    prompt: "Include “The People presented evidence (of other behavior by the defendant tha…”?"
+  - id: uncharged_offense_s_act
+    type: choice
+    options: [ { id: o1, label: "uncharged offense[s]" }, { id: o2, label: "act[s]" } ]
+    prompt: "Choose one"
+  - id: defendant_was_person_who
+    type: boolean
+    prompt: "Include “The defendant was the person who committed the offense[s] alleged in…”?"
+  - id: defendant_acted_with_intent
+    type: boolean
+    prompt: "Include “The defendant acted with the intent to ___ in this case”?"
+  - id: defendant_had_motive_commit
+    type: boolean
+    prompt: "Include “The defendant had a motive to commit the offense[s] alleged in this c…”?"
+  - id: defendant_knew_when_he
+    type: boolean
+    prompt: "Include “The defendant knew ___ when (he/she) allegedly acted in this case”?"
+  - id: defendant_alleged_actions_were
+    type: boolean
+    prompt: "Include “The defendant’s alleged actions were not the result of mistake or acc…”?"
+  - { id: scheme, type: boolean, prompt: "Include “or scheme”?" }
+  - id: defendant_had_plan_scheme
+    type: boolean
+    prompt: "Include “The defendant had a plan [or scheme] to commit the offense[s] alleged…”?"
+  - id: defendant_reasonably_in_good
+    type: boolean
+    prompt: "Include “The defendant reasonably and in good faith believed that ___ consented”?"
+  - { id: defendant, type: boolean, prompt: "Include “The defendant ___.”?" }
+  - id: offense_s
+    type: multi
+    options: [ { id: o1, label: "offense[s]" }, { id: o2, label: "act[s]" } ]
+    prompt: "Which apply? (one or more)"
+  - id: in_evaluating_this_evidence
+    type: boolean
+    prompt: "Include “In evaluating this evidence, consider the similarity or lack of simil…”?"
+  - id: except_for_limited_purpose
+    type: boolean
+    prompt: "Include “except for the limited purpose of ___”?"
+  - id: do_not_conclude_from
+    type: boolean
+    prompt: "Include “Do not conclude from this evidence that the defendant has a bad chara…”?"
+  - id: that_has_been_proved
+    type: boolean
+    prompt: "Include “or that the ___ has been proved”?"
+  - id: each
+    type: choice
+    options: [ { id: o1, label: the }, { id: o2, label: each } ]
+    prompt: "Choose one"
+  - id: charge
+    type: multi
+    options: [ { id: o1, label: charge }, { id: o2, label: allegation } ]
+    prompt: "Which apply? (one or more)"
+  - { id: offense_plural, type: boolean, prompt: "More than one offense?" }
+  - { id: act_plural, type: boolean, prompt: "More than one act?" }
+body:
+  - { note: "Introductory Sentence Alternative A—evidence of other offense admitted" }
+  - - opt:
+        - "The People presented evidence that the defendant "
+        - { opt: [ "may have" ], if: may_have }
+        - " committed "
+        - choice: another_other_offense_s
+          options:
+            - - { choice: another_other, options: [ [ another ], [ other ] ] }
+              - " offense"
+              - { opt: [ s ], if: offense_plural }
+            - - "the offense"
+              - { opt: [ s ], if: offense_plural }
+              - " of "
+              - field: "text.description_alleged_offense_s"
+                hint: "insert description of alleged offense[s]"
+        - " that "
+        - { when: [ "!offense_plural", offense_plural ], options: [ was, were ] }
+        - " not charged in this case."
+      if: people_presented_evidence_that
+  - { note: "Introductory Sentence Alternative B—evidence of other act admitted" }
+  - - opt:
+        - "The People presented evidence "
+        - choice: other_behavior_by_defendant
+          options:
+            - [ "of other behavior by the defendant that was not charged in this case" ]
+            - - "that the defendant "
+              - field: "text.description_alleged_conduct_admitted"
+                hint: "insert description of alleged conduct admitted under Evid. Code, § 1101(b)"
+        - "."
+      if: people_presented_evidence_other
+  - - "You may consider this evidence only if the People have proved by a preponderance of the evidence that the defendant in fact committed the "
+    - choice: uncharged_offense_s_act
+      options:
+        - [ "uncharged offense", { opt: [ s ], if: offense_plural } ]
+        - [ act, { opt: [ s ], if: act_plural } ]
+    - ". Proof by a preponderance of the evidence is a different burden of proof than proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that the fact is more likely than not to be true."
+  - [ "If the People have not met this burden, you must disregard this evidence entirely." ]
+  - - "If you decide that the defendant committed the "
+    - choice: uncharged_offense_s_act
+      options:
+        - [ "uncharged offense", { opt: [ s ], if: offense_plural } ]
+        - [ act, { opt: [ s ], if: act_plural } ]
+    - ", you may, but are not required to, consider that evidence for the limited purpose of deciding whether:"
+  - { note: "Select specific grounds of relevance and delete all other options" }
+  - { note: "A. Identity" }
+  - - opt:
+        - "The defendant was the person who committed the offense"
+        - { opt: [ s ], if: offense_plural }
+        - " alleged in this case"
+      if: defendant_was_person_who
+    - options: [ [ "." ], [ "; or" ] ]
+      when:
+        - "defendant_was_person_who & !(defendant_acted_with_intent | defendant_had_motive_commit | defendant_knew_when_he | defendant_alleged_actions_were | defendant_had_plan_scheme | defendant_reasonably_in_good)"
+        - "defendant_was_person_who & (defendant_acted_with_intent | defendant_had_motive_commit | defendant_knew_when_he | defendant_alleged_actions_were | defendant_had_plan_scheme | defendant_reasonably_in_good)"
+  - { note: "B. Intent" }
+  - - opt:
+        - "The defendant acted with the intent to "
+        - field: "text.specific_intent_required_prove"
+          hint: "insert specific intent required to prove the offense[s] alleged"
+        - " in this case"
+      if: defendant_acted_with_intent
+    - options: [ [ "." ], [ "; or" ] ]
+      when:
+        - "defendant_acted_with_intent & !(defendant_had_motive_commit | defendant_knew_when_he | defendant_alleged_actions_were | defendant_had_plan_scheme | defendant_reasonably_in_good)"
+        - "defendant_acted_with_intent & (defendant_had_motive_commit | defendant_knew_when_he | defendant_alleged_actions_were | defendant_had_plan_scheme | defendant_reasonably_in_good)"
+  - { note: "C. Motive" }
+  - - opt:
+        - "The defendant had a motive to commit the offense"
+        - { opt: [ s ], if: offense_plural }
+        - " alleged in this case"
+      if: defendant_had_motive_commit
+    - options: [ [ "." ], [ "; or" ] ]
+      when:
+        - "defendant_had_motive_commit & !(defendant_knew_when_he | defendant_alleged_actions_were | defendant_had_plan_scheme | defendant_reasonably_in_good)"
+        - "defendant_had_motive_commit & (defendant_knew_when_he | defendant_alleged_actions_were | defendant_had_plan_scheme | defendant_reasonably_in_good)"
+  - { note: "D. Knowledge" }
+  - - opt:
+        - "The defendant knew "
+        - field: "text.knowledge_required_prove_offense"
+          hint: "insert knowledge required to prove the offense[s] alleged"
+        - " when "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " allegedly acted in this case"
+      if: defendant_knew_when_he
+    - options: [ [ "." ], [ "; or" ] ]
+      when:
+        - "defendant_knew_when_he & !(defendant_alleged_actions_were | defendant_had_plan_scheme | defendant_reasonably_in_good)"
+        - "defendant_knew_when_he & (defendant_alleged_actions_were | defendant_had_plan_scheme | defendant_reasonably_in_good)"
+  - { note: "E. Accident" }
+  - - opt: [ "The defendant’s alleged actions were not the result of mistake or accident" ]
+      if: defendant_alleged_actions_were
+    - options: [ [ "." ], [ "; or" ] ]
+      when:
+        - "defendant_alleged_actions_were & !(defendant_had_plan_scheme | defendant_reasonably_in_good)"
+        - "defendant_alleged_actions_were & (defendant_had_plan_scheme | defendant_reasonably_in_good)"
+  - { note: "F. Common Plan" }
+  - - opt:
+        - "The defendant had a plan "
+        - { opt: [ "or scheme" ], if: scheme }
+        - " to commit the offense"
+        - { opt: [ s ], if: offense_plural }
+        - " alleged in this case"
+      if: defendant_had_plan_scheme
+    - options: [ [ "." ], [ "; or" ] ]
+      when:
+        - "defendant_had_plan_scheme & !(defendant_reasonably_in_good)"
+        - "defendant_had_plan_scheme & (defendant_reasonably_in_good)"
+  - { note: "G. Consent" }
+  - - opt:
+        - "The defendant reasonably and in good faith believed that "
+        - field: "complaining_witness.name"
+          hint: "insert name or description of complaining witness"
+        - " consented"
+      if: defendant_reasonably_in_good
+    - options: [ [ "." ], [ "; or" ] ]
+      when:
+        - defendant_reasonably_in_good
+        - "defendant_reasonably_in_good & !defendant_reasonably_in_good"
+  - { note: "H. Other Purpose" }
+  - - opt:
+        - "The defendant "
+        - field: "text.description_other_permissible_purpose"
+          hint: "insert description of other permissible purpose; see Evid. Code, § 1101(b)"
+        - "."
+      if: defendant
+  - - opt:
+        - "In evaluating this evidence, consider the similarity or lack of similarity between the uncharged "
+        - any: offense_s
+          options:
+            - [ offense, { opt: [ s ], if: offense_plural } ]
+            - [ { sep: and }, " act", { opt: [ s ], if: act_plural } ]
+        - " and the charged offense"
+        - { opt: [ s ], if: offense_plural }
+        - "."
+      if: in_evaluating_this_evidence
+  - - "Do not consider this evidence for any other purpose "
+    - opt:
+        - "except for the limited purpose of "
+        - field: "text.other_permitted_purpose_e"
+          hint: "insert other permitted purpose, e.g., determining the defendant’s credibility"
+      if: except_for_limited_purpose
+    - "."
+  - - opt:
+        - "Do not conclude from this evidence that the defendant has a bad character or is disposed to commit crime."
+      if: do_not_conclude_from
+  - - "If you conclude that the defendant committed the "
+    - choice: uncharged_offense_s_act
+      options:
+        - [ "uncharged offense", { opt: [ s ], if: offense_plural } ]
+        - [ act, { opt: [ s ], if: act_plural } ]
+    - ", that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of "
+    - { field: "text.charge_s", hint: "insert charge[s]" }
+    - " "
+    - opt:
+        - "or that the "
+        - { field: "text.allegation_s", hint: "insert allegation[s]" }
+        - " has been proved"
+      if: that_has_been_proved
+    - ". The People must still prove "
+    - { choice: each, options: [ [ the ], [ each ] ] }
+    - " "
+    - { any: charge, options: [ [ charge ], [ { sep: and }, " allegation" ] ] }
+    - " beyond a reasonable doubt."
+people: { complaining_witness: { label: "Complaining witness", uses: [ name ] } }

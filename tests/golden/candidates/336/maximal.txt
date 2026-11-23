@@ -1,0 +1,31 @@
+In-Custody Informant
+
+
+
+View the statement or testimony of an in-custody informant against the defendant with caution and close scrutiny. In evaluating such a statement or testimony, you should consider the extent to which it may have been influenced by the receipt of, or expectation of, any benefits. This does not mean that you may arbitrarily disregard such statement or testimony, but you should give it the weight to which you find it to be entitled in the light of all the evidence in the case.
+
+An in-custody informant is someone, other than an codefendant, percipient witness, accomplice, or coconspirator, whose statement or testimony is based on a statements the defendant allegedly made while both the defendant and the informant were held within a correctional institution. If you decide that a declarant or witness was not an in-custody informant, then you should evaluate his or her statement or testimony as you would that of any other witness.
+
+If you decide that a declarant or witness was an in-custody informant, then you may not convict the defendant of example charged crime s based on the statement or testimony of that in-custody informant alone. Nor may you find a special circumstance true or use evidence in aggravation based on the statement or testimony of that in-custody informant alone.
+
+You may use the statement or testimony of an in-custody informant against the defendant only if:
+
+1. The statement or testimony is supported by other evidence that you believe;
+
+2. That supporting evidence is independent of the statement or testimony;
+
+AND
+
+3. That supporting evidence connects the defendant to the commission of the crimes or to the special circumstance or to evidence in aggravation. The supporting evidence is not sufficient if it merely shows that the charged crime was committed or proves the existence of a special circumstance or evidence in aggravation.
+
+This supporting evidence requirement does not apply where the testimony of an in-custody informant is offered for any purpose other than proving guilt or a special circumstance or evidence in aggravation.
+
+Supporting evidence, however, may be slight. It does not need to be enough, by itself, to prove that the defendant is guilty of the charged crime, and it does not need to support every fact mentioned by the accomplice in the statement or about which the witness testified. On the other hand, it is not enough if the supporting evidence merely shows that a crime was committed or the circumstances of its commission. The supporting evidence must tend to connect the defendant to the commission of the crime.
+
+Do not use the statement or testimony of an in-custody informant to support the statement or testimony of another in-custody informant unless you are convinced that example name party calling in has proven it is more likely than not that the in-custody informant has not communicated with another in-custody informant on the subject of the testimony.
+
+A percipient witness is someone who personally perceived the matter that he or she testified about.
+
+Jordan Sample is an in-custody informant.
+
+Example name institution is a correctional institution.

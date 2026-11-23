@@ -614,3 +614,19 @@ describe("linked questions", () => {
     expect(msgs).toContain(`question "a" has no option "nope"`);
   });
 });
+
+describe("commas around omitted optional text", () => {
+  const t = tpl(
+    [["Of the crime, ", { opt: "or of the allegation", if: "a" }, ", that person acted."]],
+    [bool("a")],
+  );
+  it("drops the second comma when the optional text between them is left out", () => {
+    expect(jury(t, { answers: { a: false } })).toBe("Of the crime, that person acted.");
+    expect(jury(t, { answers: { a: true } })).toBe(
+      "Of the crime, or of the allegation, that person acted.",
+    );
+  });
+  it("keeps a doubled comma that CALCRIM prints itself", () => {
+    expect(jury(tpl(["Odd,, but printed."]), {})).toBe("Odd,, but printed.");
+  });
+});

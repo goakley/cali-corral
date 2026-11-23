@@ -1,0 +1,58 @@
+{
+  "answers": {
+    "may_have": true,
+    "another_other": "o2",
+    "another_other_offense_s": "o1",
+    "people_presented_evidence_that": false,
+    "other_behavior_by_defendant": "o1",
+    "people_presented_evidence_other": false,
+    "uncharged_offense_s_act": "o1",
+    "defendant_was_person_who": false,
+    "defendant_acted_with_intent": true,
+    "defendant_had_motive_commit": false,
+    "defendant_knew_when_he": true,
+    "defendant_alleged_actions_were": false,
+    "scheme": true,
+    "defendant_had_plan_scheme": false,
+    "defendant_reasonably_in_good": true,
+    "defendant": false,
+    "offense_s": [
+      "o1"
+    ],
+    "in_evaluating_this_evidence": false,
+    "except_for_limited_purpose": true,
+    "do_not_conclude_from": false,
+    "that_has_been_proved": true,
+    "each": "o2",
+    "charge": [
+      "o1"
+    ],
+    "offense_plural": false,
+    "act_plural": true
+  },
+  "people": {
+    "complaining_witness": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    },
+    "defendant": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "allegation_s": "example allegation s",
+    "charge_s": "example charge s",
+    "description_alleged_conduct_admitted": "example description alleged conduct admitted",
+    "description_alleged_offense_s": "example description alleged offense s",
+    "description_other_permissible_purpose": "example description other permissible purpose",
+    "knowledge_required_prove_offense": "example knowledge required prove offense",
+    "other_permitted_purpose_e": "example other permitted purpose e",
+    "specific_intent_required_prove": "example specific intent required prove"
+  }
+}

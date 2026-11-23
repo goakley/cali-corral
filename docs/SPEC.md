@@ -313,7 +313,9 @@ Some official markup doesn't fully determine the jury text. The engine resolves 
 8. **Jury text cleanup.** Spaces left by omitted content collapse. No space is left before closing punctuation (except a period starting a number, ".50 BMG") or after an opening bracket or quote. Paragraphs left with no letters or digits are dropped.
 9. **Faithfulness to official flaws.** Where the official text appears to have a typo or misprint (2670's missing space in "…felony>created", 3517's period inside an optional bracket, 200's repeated "or"), jury text reproduces it exactly as printed, with no exceptions. The suspected flaw is recorded as an erratum, which the app shows to the user (Template format: Errata).
 
-**A practicing attorney reviewed and approved these rules on 2026-11-22** (technical design §12). This is the rendering-rules part of Gate 0. Any change to a rule needs the same sign-off again, and every affected render is regenerated.
+10. **Commas around omitted text.** When CALCRIM prints a comma both before and after an optional phrase ("of ______), [or to find … true], that person") and the phrase is left out, the second comma is dropped, so the jury text reads "of battery, that person" rather than "of battery,, that person". This happens only when omitted text lay between the two commas. A comma pair CALCRIM prints itself is kept. (Added 2026-11-22 during drafting; needed by 28 instructions; awaiting attorney confirmation, QUESTIONS.md Q5.)
+
+**A practicing attorney reviewed and approved rules 1–9 on 2026-11-22** (technical design §12). This is the rendering-rules part of Gate 0. Any change to a rule needs the same sign-off again, and every affected render is regenerated.
 
 ### Verification
 

@@ -1,0 +1,238 @@
+# CALCRIM No. 336. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "336"
+title: "In-Custody Informant"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2012, February 2016, October 2021, March 2023"
+  body_sha256: "8a8523fc1907c61c8b28f57a33884b71cbc22c544c2f63934f690110b679aeb5"
+review: "machine-checked"
+questions:
+  - id: statement
+    type: multi
+    options: [ { id: o1, label: statement }, { id: o2, label: testimony } ]
+    prompt: "Which apply? (one or more)"
+  - id: statement_2
+    type: multi
+    options: [ { id: o1, label: "a statement" }, { id: o2, label: testimony } ]
+    prompt: "Which apply? (one or more)"
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    prompt: "Choose one"
+  - id: codefendant
+    type: multi
+    options:
+      - { id: o1, label: codefendant }
+      - { id: o2, label: "percipient witness" }
+      - { id: o3, label: accomplice }
+      - { id: o4, label: "coconspirator," }
+    prompt: "Which apply? (one or more)"
+  - id: other_than_codefendant_percipient
+    type: boolean
+    prompt: "Include “, other than (a/an) (codefendant[,]/[or] percipient witness[,]/[or] a…”?"
+  - { id: a, type: boolean, prompt: "Include “a”?" }
+  - id: declarant
+    type: multi
+    options: [ { id: o1, label: declarant }, { id: o2, label: witness } ]
+    prompt: "Which apply? (one or more)"
+  - id: in_custody_informant_is
+    type: boolean
+    prompt: "Include “An in-custody informant is someone [, other than (a/an) (codefendant[…”?"
+  - id: if_you_decide_that
+    type: boolean
+    prompt: "Include “If you decide that a (declarant/[or] witness) was an in-custody infor…”?"
+  - id: you_you
+    type: choice
+    options: [ { id: o1, label: "You" }, { id: o2, label: you } ]
+    prompt: "Choose one"
+  - id: nor_may_you
+    type: multi
+    options:
+      - { id: o1, label: "Nor may you find a special circumstance true" }
+      - id: o2
+        label: "use evidence in aggravation based on the (statement/[or] testimony) of that in-…"
+    prompt: "Which apply? (one or more)"
+  - id: nor_may_you_find
+    type: boolean
+    prompt: "Include “Nor may you find a special circumstance true/[or] use evidence in agg…”?"
+  - id: special_circumstance
+    type: multi
+    options:
+      - { id: o1, label: "or to the special circumstance" }
+      - { id: o2, label: "to evidence in aggravation" }
+    prompt: "Which apply? (one or more)"
+  - id: special_circumstance_evidence_in
+    type: boolean
+    prompt: "Include “or to the special circumstance/[or] to evidence in aggravation”?"
+  - id: proves_existence_special
+    type: multi
+    options:
+      - { id: o1, label: "or proves the existence of a special circumstance" }
+      - { id: o2, label: "evidence in aggravation" }
+    prompt: "Which apply? (one or more)"
+  - id: proves_existence_special_circumstance
+    type: boolean
+    prompt: "Include “or proves the existence of a special circumstance/[or] evidence in ag…”?"
+  - id: guilt
+    type: multi
+    options:
+      - { id: o1, label: guilt }
+      - { id: o2, label: "a special circumstance" }
+      - { id: o3, label: "evidence in aggravation" }
+    prompt: "Which apply? (one or more)"
+  - id: mentioned_by_accomplice
+    type: multi
+    options:
+      - { id: o1, label: "mentioned by the accomplice in the statement" }
+      - { id: o2, label: "about which the witness testified" }
+    prompt: "Which apply? (one or more)"
+  - id: supporting_evidence_however_may
+    type: boolean
+    prompt: "Include “Supporting evidence, however, may be slight. It does not need to be e…”?"
+  - id: do_not_use_statement
+    type: boolean
+    prompt: "Include “Do not use the (statement/[or] testimony) of an in-custody informant…”?"
+  - id: percipient_witness_is_someone
+    type: boolean
+    prompt: "Include “A percipient witness is someone who personally perceived the matter t…”?"
+  - id: is_in_custody_informant
+    type: boolean
+    prompt: "Include “___ is an in-custody informant.”?"
+  - id: is_correctional_institution
+    type: boolean
+    prompt: "Include “___ is a correctional institution.”?"
+  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+body:
+  - - "View the "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " of an in-custody informant against the defendant with caution and close scrutiny. In evaluating such "
+    - { any: statement_2, options: [ [ "a statement" ], [ { sep: or }, " testimony" ] ] }
+    - ", you should consider the extent to which it may have been influenced by the receipt of, or expectation of, any benefits. This does not mean that you may arbitrarily disregard such "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - ", but you should give it the weight to which you find it to be entitled in the light of all the evidence in the case."
+  - note: "Give the following paragraph if the issue of whether a witness was an in-custody informant is in dispute"
+  - - opt:
+        - "An "
+        - { em: "in-custody informant" }
+        - " is someone "
+        - opt:
+            - ", other than "
+            - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+            - " "
+            - any: codefendant
+              options:
+                - [ codefendant, { sep: "," } ]
+                - [ { sep: or }, " percipient witness", { sep: "," } ]
+                - [ { sep: or }, " accomplice", { sep: "," } ]
+                - [ { sep: or }, " coconspirator," ]
+          if: other_than_codefendant_percipient
+        - " whose "
+        - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        - " is based on "
+        - { opt: [ a ], if: a }
+        - " statement"
+        - { opt: [ s ], if: statement_plural }
+        - " the defendant allegedly made while both the defendant and the informant were held within a correctional institution. If you decide that a "
+        - { any: declarant, options: [ [ declarant ], [ { sep: or }, " witness" ] ] }
+        - " was not an in-custody informant, then you should evaluate his or her "
+        - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        - " as you would that of any other witness."
+      if: in_custody_informant_is
+  - note: "Give the first bracketed phrase if the issue of whether a witness was an in-custody informant is in dispute"
+  - - opt:
+        - "If you decide that a "
+        - { any: declarant, options: [ [ declarant ], [ { sep: or }, " witness" ] ] }
+        - " was an in-custody informant, then"
+      if: if_you_decide_that
+    - " "
+    - { choice: you_you, options: [ [ "You" ], [ you ] ] }
+    - " may not convict the defendant of "
+    - { field: "text.charged_crime_s", hint: "insert charged crime[s]" }
+    - " based on the "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " of that in-custody informant alone. "
+    - opt:
+        - any: nor_may_you
+          options:
+            - [ "Nor may you find a special circumstance true" ]
+            - - { sep: or }
+              - " use evidence in aggravation based on the "
+              - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+              - " of that in-custody informant alone."
+          bare: true
+      if: nor_may_you_find
+  - - "You may use the "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " of an in-custody informant against the defendant only if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The "
+          - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+          - " is supported by other evidence that you believe"
+        end: ";"
+      - n: "2"
+        text:
+          - "That supporting evidence is independent of the "
+          - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        end: ";"
+      - n: "3"
+        text:
+          - "That supporting evidence connects the defendant to the commission of the crime"
+          - { opt: [ s ], if: crime_plural }
+          - " "
+          - opt:
+              - any: special_circumstance
+                options: [ [ "or to the special circumstance" ], [ { sep: or }, " to evidence in aggravation" ] ]
+                bare: true
+            if: special_circumstance_evidence_in
+          - ". The supporting evidence is not sufficient if it merely shows that the charged crime was committed "
+          - opt:
+              - any: proves_existence_special
+                options:
+                  - [ "or proves the existence of a special circumstance" ]
+                  - [ { sep: or }, " evidence in aggravation" ]
+                bare: true
+            if: proves_existence_special_circumstance
+        end: "."
+        and: "AND"
+  - - "This supporting evidence requirement does not apply where the testimony of an in-custody informant is offered for any purpose other than proving "
+    - any: guilt
+      options: [ [ guilt ], [ { sep: or }, " a special circumstance" ], [ "evidence in aggravation" ] ]
+    - "."
+  - - opt:
+        - { em: "Supporting evidence" }
+        - ", however, may be slight. It does not need to be enough, by itself, to prove that the defendant is guilty of the charged crime, and it does not need to support every fact "
+        - any: mentioned_by_accomplice
+          options:
+            - [ "mentioned by the accomplice in the statement" ]
+            - [ { sep: or }, " about which the witness testified" ]
+        - ". On the other hand, it is not enough if the supporting evidence merely shows that a crime was committed or the circumstances of its commission. The supporting evidence must tend to connect the defendant to the commission of the crime."
+      if: supporting_evidence_however_may
+  - - opt:
+        - "Do not use the "
+        - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        - " of an in-custody informant to support the "
+        - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        - " of another in-custody informant unless you are convinced that "
+        - field: "text.name_party_calling_in"
+          hint: "insert name of party calling in-custody informant as witness"
+        - " has proven it is more likely than not that the in-custody informant has not communicated with another in-custody informant on the subject of the testimony."
+      if: do_not_use_statement
+  - - opt:
+        - "A "
+        - { em: "percipient witness" }
+        - " is someone who personally perceived the matter that he or she testified about."
+      if: percipient_witness_is_someone
+  - note: "Insert the name of the in-custody informant if his or her statement is not in dispute"
+  - - opt: [ { field: "witness.name", hint: "insert name of witness" }, " is an in-custody informant." ]
+      if: is_in_custody_informant
+  - - opt:
+        - { field: "text.name_institution", hint: "insert name of institution" }
+        - " is a correctional institution."
+      if: is_correctional_institution
+people: { witness: { label: "Witness", uses: [ name ] } }

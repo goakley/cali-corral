@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "unless_i_tell_you": true,
+    "research_sources": [
+      "dictionary",
+      "other"
+    ],
+    "if_you_have_cell": true,
+    "ses_bias": true,
+    "other_bias": true,
+    "if_you_violate_this": true,
+    "but_under_california_law": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "other_bias": "example other bias",
+    "other_source": "example other source"
+  }
+}

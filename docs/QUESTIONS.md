@@ -4,7 +4,11 @@ Questions raised while working. Each says what was chosen in the meantime (the m
 
 ## Open
 
-_None._
+- **Q5. Two rendering refinements made during drafting need attorney confirmation** (2026-11-22). Both keep wording unchanged and only affect punctuation or a conjunction around text the user left out:
+  1. *AND only where printed* (spec rendering rule 3): if an optional last element and its `[AND]` are dropped, no AND is added before the new last element.
+  2. *Commas around omitted text* (rule 10): "of battery, [or to find the allegation true], that person" with the bracket left out reads "of battery, that person", not "of battery,, that person". This happens only when omitted text sat between the two commas. Needed by 28 instructions.
+
+  *Meanwhile:* both are implemented, and the templates that rely on them are labeled machine-checked like all drafts.
 
 ## Resolved
 

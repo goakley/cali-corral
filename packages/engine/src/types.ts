@@ -103,6 +103,8 @@ export interface ChoiceNode extends Unbalanced {
 export interface AnyNode extends Unbalanced {
   any: string; // question id (type "multi")
   options: (Inline[] | string)[];
+  /** Printed without parentheses, inside brackets: `[a/[or] b]`. */
+  bare?: true;
 }
 
 /**
@@ -422,6 +424,8 @@ export interface Origin {
   person?: string;
   /** Erratum anchored here (internal marker; collected into `errata`). */
   erratum?: string;
+  /** Optional text was left out here (internal marker; never output). */
+  gap?: true;
 }
 
 export interface Run {

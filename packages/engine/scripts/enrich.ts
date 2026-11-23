@@ -423,7 +423,9 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
       if (typeof x === "string") continue;
       if ("choice" in x && x.choice !== undefined && !rename.has(x.choice)) {
         const key = x.options.map(plainText).join("/");
-        if (key.toLowerCase() !== "a/an") {
+        // Punctuation choices ("(./,)") depend on their neighbors: never merged.
+        const punct = x.options.some((o) => !/\p{L}/u.test(plainText(o)));
+        if (key.toLowerCase() !== "a/an" && !punct) {
           const prev = seenChoice.get(key);
           if (prev && prev !== x.choice) {
             rename.set(x.choice, prev);
@@ -573,6 +575,12 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
 
   // Apply renames to the tree and question list.
   rewriteRefs(t.body, finalId);
+  const listPunct = computeListPunctuation(t.body);
+  if (listPunct)
+    todo.push({
+      kind: "agreement",
+      detail: `${listPunct} list item(s) now compute their end punctuation from which later items are kept; check`,
+    });
   const outQs: Question[] = [];
   const emitted = new Set<string>();
   for (const q of t.questions ?? []) {
@@ -611,6 +619,59 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
       detail: `${t.questions!.length} questions: look for repeated choices that should be one question`,
     });
   return { t, todo };
+}
+
+/**
+ * Optional list items printed as separate paragraphs, each ending with a
+ * punctuation choice ("[The defendant was …](./; or)"): an item takes the
+ * continuing form ("; or") when a later item is kept, and the final form
+ * (".") otherwise. Returns how many items were converted.
+ */
+function computeListPunctuation(bs: Block[]): number {
+  let converted = 0;
+  const tail = (b: Block): { cond: string; node: ChoiceNode } | undefined => {
+    if (!Array.isArray(b) || b.length < 2) return undefined;
+    const o = b[b.length - 2];
+    const c = b[b.length - 1];
+    if (typeof o !== "object" || !("opt" in o)) return undefined;
+    if (typeof c !== "object" || !("options" in c) || "any" in c || c.options.length !== 2)
+      return undefined;
+    if (c.options.some((x) => /\p{L}/u.test(plainText(x).replace(/\b(or|and)\b/g, ""))))
+      return undefined;
+    return { cond: o.if, node: c };
+  };
+  let run: { cond: string; node: ChoiceNode }[] = [];
+  const flush = (): void => {
+    if (run.length >= 2) {
+      run.forEach((item, k) => {
+        const opts = item.node.options.map((o) => plainText(o).trim());
+        const fin = opts.indexOf(".") >= 0 ? opts.indexOf(".") : opts.indexOf("");
+        if (fin < 0) return;
+        const own = /^[a-z][a-z0-9_]*$/.test(item.cond) ? item.cond : `(${item.cond})`;
+        const later = run
+          .slice(k + 1)
+          .map((x) => (/^[a-z][a-z0-9_]*$/.test(x.cond) ? x.cond : `(${x.cond})`));
+        const any = later.length ? `(${later.join(" | ")})` : undefined;
+        const when = ["", ""];
+        when[fin] = any ? `${own} & !${any}` : own;
+        when[1 - fin] = any ? `${own} & ${any}` : `${own} & !${own}`;
+        delete item.node.choice;
+        item.node.when = when;
+        converted++;
+      });
+    }
+    run = [];
+  };
+  for (const b of bs) {
+    if (typeof b === "object" && !Array.isArray(b) && "note" in b) continue; // notes between items
+    const tl = tail(b);
+    if (tl) run.push(tl);
+    else flush();
+    if (typeof b === "object" && !Array.isArray(b) && "opt" in b)
+      converted += computeListPunctuation(b.opt);
+  }
+  flush();
+  return converted;
 }
 
 /** The plural condition of "<word>[s]" right after position i ("(that/those) day[s]"). */

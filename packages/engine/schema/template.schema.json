@@ -334,6 +334,9 @@
             },
             "unopened": {
               "$ref": "#/$defs/id"
+            },
+            "bare": {
+              "const": true
             }
           }
         },

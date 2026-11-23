@@ -1,0 +1,69 @@
+{
+  "answers": {
+    "statement": [
+      "o1"
+    ],
+    "statement_2": [
+      "o2"
+    ],
+    "a_or_an": "o1",
+    "codefendant": [
+      "o2",
+      "o4"
+    ],
+    "other_than_codefendant_percipient": true,
+    "a": false,
+    "declarant": [
+      "o1"
+    ],
+    "in_custody_informant_is": false,
+    "if_you_decide_that": true,
+    "you_you": "o2",
+    "nor_may_you": [
+      "o1"
+    ],
+    "nor_may_you_find": false,
+    "special_circumstance": [
+      "o1"
+    ],
+    "special_circumstance_evidence_in": false,
+    "proves_existence_special": [
+      "o1"
+    ],
+    "proves_existence_special_circumstance": false,
+    "guilt": [
+      "o1",
+      "o3"
+    ],
+    "mentioned_by_accomplice": [
+      "o2"
+    ],
+    "supporting_evidence_however_may": true,
+    "do_not_use_statement": false,
+    "percipient_witness_is_someone": true,
+    "is_in_custody_informant": false,
+    "is_correctional_institution": true,
+    "statement_plural": false,
+    "crime_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    },
+    "witness": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "charged_crime_s": "example charged crime s",
+    "name_institution": "example name institution",
+    "name_party_calling_in": "example name party calling in"
+  }
+}

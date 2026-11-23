@@ -282,7 +282,7 @@ A pronoun node renders the bound person's pronoun: `he` → first form, `she` �
 
 ### 5.5 Jury text cleanup
 
-Spaces left by omitted content are collapsed; no space is kept before `. , ; : ) ] ? ! ” ’` (except a period starting a number, ".50 BMG") or after `( [ “ ‘ /`; paragraphs are trimmed; the first letter of every paragraph and element is capitalized (§12, item 2). Paragraphs with no letters or digits left are dropped.
+Spaces left by omitted content are collapsed; no space is kept before `. , ; : ) ] ? ! ” ’` (except a period starting a number, ".50 BMG") or after `( [ “ ‘ /`; paragraphs are trimmed; the first letter of every paragraph and element is capitalized (§12, item 2). Paragraphs with no letters or digits left are dropped. A comma left doubled because optional text between two printed commas was omitted loses its second copy (spec rendering rule 10, pending attorney confirmation).
 
 ## 6. Verification
 

@@ -12,6 +12,7 @@ Candidates are grouped by series under `review/`. Status: **approved** (all case
 | No. | Title | Status |
 | --- | --- | --- |
 | [100](review/100.md) | Trial Process (Before or After Voir Dire) | machine-checked |
+| [101](review/100.md) | Cautionary Admonitions: Jury Conduct (Before, During, or After Jury Is Selected) | machine-checked |
 | [102](review/100.md) | Note-Taking | machine-checked |
 | [103](review/100.md) | Reasonable Doubt | machine-checked |
 | [104](review/100.md) | Evidence | machine-checked |
@@ -42,6 +43,7 @@ Candidates are grouped by series under `review/`. Status: **approved** (all case
 | [225](review/200.md) | Circumstantial Evidence: Intent or Mental State | machine-checked |
 | [226](review/200.md) | Witnesses | approved |
 | [240](review/200.md) | Causation | machine-checked |
+| [252](review/200.md) | Union of Act and Intent | machine-checked |
 | [253](review/200.md) | Union of Act and Intent: Criminal Negligence | machine-checked |
 | [254](review/200.md) | Strict Liability Crime | machine-checked |
 | [300](review/300.md) | All Available Evidence | machine-checked |
@@ -63,6 +65,7 @@ Candidates are grouped by series under `review/`. Status: **approved** (all case
 | [333](review/300.md) | Opinion Testimony of Lay Witness | machine-checked |
 | [334](review/300.md) | Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice | machine-checked |
 | [335](review/300.md) | Accomplice Testimony: No Dispute Whether Witness Is Accomplice | machine-checked |
+| [336](review/300.md) | In-Custody Informant | machine-checked |
 | [337](review/300.md) | Witness in Custody or Physically Restrained | machine-checked |
 | [350](review/300.md) | Character of Defendant | machine-checked |
 | [351](review/300.md) | Cross-Examination of Character Witness | machine-checked |
@@ -80,6 +83,7 @@ Candidates are grouped by series under `review/`. Status: **approved** (all case
 | [372](review/300.md) | Defendant’s Flight | machine-checked |
 | [373](review/300.md) | Other Perpetrator | machine-checked |
 | [374](review/300.md) | Dog Tracking Evidence | machine-checked |
+| [375](review/300.md) | Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc. | machine-checked |
 | [376](review/300.md) | Possession of Recently Stolen Property as Evidence of a Crime | machine-checked |
 | [377](review/300.md) | Presence of Support Person/Dog/Dog Handler (Pen. Code, §§ 868.4, 868.5) | machine-checked |
 | [378](review/300.md) | Consciousness of Guilt: General | machine-checked |
