@@ -86,6 +86,14 @@ export interface ChoiceNode extends Unbalanced {
    * pick-one such as `[grand/petty] theft`.
    */
   bare?: true;
+  /**
+   * Linked question: when the answer to choice question `q` is one of `map`
+   * (map[i] is the option id of `q` that this node's option i corresponds to;
+   * "" for none), that option is used and `choice` isn't asked. Otherwise
+   * `choice` is asked as usual. Avoids asking the same thing twice when an
+   * element repeats a subset of an earlier list.
+   */
+  link?: { q: string; map: string[] };
 }
 
 /**

@@ -570,3 +570,47 @@ describe("alternative groups with conjunctions and conditions", () => {
     expect(jury(t, { answers: { g: "a", o: true } })).toBe("1. One;\n\nAND\n\n2. Two A.");
   });
 });
+
+describe("linked questions", () => {
+  const t = tpl(
+    [
+      ["Assault with ", { choice: "weapon", options: ["force", "a knife", "a gun"] }, "."],
+      [
+        "Used ",
+        {
+          choice: "weapon_1a",
+          link: { q: "weapon", map: ["knife", "gun"] },
+          options: ["a knife", "a gun"],
+        },
+        ".",
+      ],
+    ],
+    [choiceQ("weapon", "force", "knife", "gun"), choiceQ("weapon_1a", "knife", "gun")],
+  );
+
+  it("takes the answer from the linked question when it maps, without asking", () => {
+    expect(validateTemplate(t)).toEqual([]);
+    const r = render(t, { answers: { weapon: "gun" }, people: {} });
+    expect(toPlainText(r)).toBe("Assault with a gun.\n\nUsed a gun.");
+    expect(r.relevant).not.toContain("weapon_1a");
+    expect(r.unanswered).toEqual([]);
+  });
+
+  it("asks its own question when the linked answer doesn't map", () => {
+    const r = render(t, { answers: { weapon: "force" }, people: {} });
+    expect(r.unanswered).toEqual(["weapon_1a"]);
+    expect(jury(t, { answers: { weapon: "force", weapon_1a: "knife" } })).toBe(
+      "Assault with force.\n\nUsed a knife.",
+    );
+  });
+
+  it("validates the map", () => {
+    const u = tpl(
+      [[{ choice: "b", link: { q: "a", map: ["x", "nope"] }, options: ["1", "2", "3"] }]],
+      [choiceQ("a", "x", "y"), choiceQ("b", "p", "q", "r")],
+    );
+    const msgs = validateTemplate(u).map((i) => i.message);
+    expect(msgs).toContain("link map needs one entry per option");
+    expect(msgs).toContain(`question "a" has no option "nope"`);
+  });
+});

@@ -287,6 +287,22 @@
             },
             "unopened": {
               "$ref": "#/$defs/id"
+            },
+            "link": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["q", "map"],
+              "properties": {
+                "q": {
+                  "$ref": "#/$defs/id"
+                },
+                "map": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
             }
           },
           "oneOf": [

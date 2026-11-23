@@ -398,6 +398,13 @@ function choice(
 ): Run[] {
   let idx = -1;
   let o: Origin | undefined = origin;
+  if (n.link !== undefined) {
+    ctx.consulted.add(n.link.q);
+    const la = ctx.input.answers[n.link.q];
+    const li = typeof la === "string" ? n.link.map.indexOf(la) : -1;
+    if (li >= 0) return inlines(n.options[li]!, ctx, { question: n.link.q }, sep);
+    if (la === undefined) ctx.unanswered.add(n.link.q);
+  }
   if (n.choice !== undefined) {
     const q = n.choice;
     ctx.consulted.add(q);

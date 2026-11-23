@@ -8,14 +8,14 @@ import fc from "fast-check";
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { parseTemplateYaml } from "../src/load.ts";
-import { render } from "../src/render.ts";
 import { renderSource } from "../src/source.ts";
 import type { Template } from "../src/types.ts";
 import { validateTemplate } from "../src/validate.ts";
 import { inputArb } from "../test/arbitrary.ts";
 import { EXTRACTED_DIR, TEMPLATES_DIR, type ExtractedRecord } from "../test/corpus.ts";
-import { textProblems } from "../test/problems.ts";
+import { renderProblems } from "../test/problems.ts";
 import { draftRecord } from "./autodraft.ts";
+import { enrich } from "./enrich.ts";
 
 for (const id of process.argv.slice(2)) {
   const rec = JSON.parse(
@@ -24,7 +24,9 @@ for (const id of process.argv.slice(2)) {
   const path = join(TEMPLATES_DIR, `${id}.yaml`);
   let t: Template;
   try {
-    t = existsSync(path) ? parseTemplateYaml(readFileSync(path, "utf8")) : draftRecord(rec);
+    t = existsSync(path)
+      ? parseTemplateYaml(readFileSync(path, "utf8"))
+      : enrich(draftRecord(rec)).t;
   } catch (e) {
     console.log(`${id}: parse: ${(e as Error).message}`);
     continue;
@@ -44,13 +46,11 @@ for (const id of process.argv.slice(2)) {
   fc.assert(
     fc.property(inputArb(t), (input) => {
       if (shown) return true;
-      for (const b of render(t, input, "jury").blocks) {
-        const text = b.runs.map((x) => x.text).join("");
-        const ps = textProblems(text);
-        if (ps.length) {
-          console.log(`${id}: ${ps.join(", ")}:\n  ${text}`);
-          shown = true;
-        }
+      const ps = renderProblems(t, input);
+      if (ps.length) {
+        console.log(`${id}:\n  ${ps.slice(0, 3).join("\n  ")}`);
+        console.log(`  answers: ${JSON.stringify(input.answers)}`);
+        shown = true;
       }
       return true;
     }),

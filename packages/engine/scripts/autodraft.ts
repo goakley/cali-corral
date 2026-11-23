@@ -12,11 +12,10 @@
  *
  *   node scripts/autodraft.ts [--out DIR] [--report FILE] [ids...]
  */
-import { readdirSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import fc from "fast-check";
-import { stringify } from "yaml";
-import { render } from "../src/render.ts";
+import { Document, visit } from "yaml";
 import { renderSource } from "../src/source.ts";
 import { theyForm } from "../src/pronouns.ts";
 import type {
@@ -30,10 +29,12 @@ import type {
   Question,
   Template,
 } from "../src/types.ts";
-import { semanticIssues, validateTemplate } from "../src/validate.ts";
+import { validateTemplate } from "../src/validate.ts";
+import { isElement, isGroup } from "../src/walk.ts";
 import { inputArb } from "../test/arbitrary.ts";
 import { bodySha256, EXTRACTED_DIR, RELEASE, type ExtractedRecord } from "../test/corpus.ts";
-import { textProblems } from "../test/problems.ts";
+import { renderProblems } from "../test/problems.ts";
+import { enrich, type Todo } from "./enrich.ts";
 
 class DraftError extends Error {
   category: string;
@@ -189,7 +190,9 @@ class Drafter {
             );
             if (alts.length === 1) out.push({ opt: alts[0]!, if: this.q("boolean") });
             else if (flat.join("/") === "and/or")
-              out.push({ opt: "and/or", if: this.q("boolean") });
+              out.push({ opt: ["and/or"], if: this.q("boolean") });
+            else if (flat.some((f) => f === null || /[()]/.test(f)))
+              throw new DraftError("brackets", "bare alternatives with markup inside");
             else {
               // [grand/petty]: an optional pick-one printed without parentheses
               const c = this.alternatives(alts);
@@ -391,7 +394,16 @@ function draft(rec: ExtractedRecord): Template {
     let p = lo;
     let list: ElementItem[] | null = null;
     const closeList = (): void => {
-      if (list && list.length) out.push({ elements: list });
+      if (list && list.length) {
+        // A numbered list of complete sentences (every item ends with ".", no
+        // conjunctions) is a list of directions, not elements of a crime.
+        const els = list.filter(isElement);
+        const plain =
+          els.length >= 2 &&
+          list.every((it) => !isGroup(it)) &&
+          els.every((e) => e.end === "." && e.and === undefined);
+        out.push(plain ? { elements: list, plain: true } : { elements: list });
+      }
       list = null;
     };
     while (p < hi) {
@@ -485,6 +497,11 @@ function draft(rec: ExtractedRecord): Template {
         p++;
         continue;
       }
+      if (s.startsWith("[• ") && s.endsWith("]") && bracketSpan(paras, p) === p) {
+        out.push({ opt: [{ bullet: d.inline(s.slice(3, -1)) }], if: d.q("boolean") });
+        p++;
+        continue;
+      }
       if (s.startsWith("• ")) {
         out.push({ bullet: d.inline(s.slice(2)) });
         p++;
@@ -534,66 +551,89 @@ function draft(rec: ExtractedRecord): Template {
 
 export interface DraftResult {
   id: string;
-  status: "pass" | "roundtrip" | "invalid" | "render" | "parse";
+  status: "pass" | "roundtrip" | "invalid" | "render" | "parse" | "enrich";
   category?: string;
   detail?: string;
   questions?: number;
   static?: boolean;
+  todo?: Todo[];
 }
 
-function check(rec: ExtractedRecord): { t?: Template; r: DraftResult } {
-  let t: Template;
-  try {
-    t = draft({ ...rec, body: rec.body.slice() });
-  } catch (e) {
-    const cat = e instanceof DraftError ? e.category : "crash";
-    return {
-      r: { id: rec.number, status: "parse", category: cat, detail: String((e as Error).message) },
-    };
-  }
+type Stage = { status: DraftResult["status"]; category: string; detail: string } | undefined;
+
+/** Schema, round trip and render checks; undefined when all pass. */
+function verify(t: Template, rec: ExtractedRecord, runs: number): Stage {
   const issues = validateTemplate(JSON.parse(JSON.stringify(t)));
-  if (issues.length) {
+  if (issues.length)
     return {
-      t,
-      r: { id: rec.number, status: "invalid", category: "schema", detail: issues[0]!.message },
+      status: "invalid",
+      category: "schema",
+      detail: `${issues[0]!.path} ${issues[0]!.message}`,
     };
-  }
   const src = renderSource(t);
   if (src.join("\n") !== rec.body.join("\n")) {
     const k = src.findIndex((x, i) => x !== rec.body[i]);
     return {
-      t,
-      r: {
-        id: rec.number,
-        status: "roundtrip",
-        category: "roundtrip",
-        detail: `paragraph ${k}: ${src[k]?.slice(0, 80)}`,
-      },
+      status: "roundtrip",
+      category: "roundtrip",
+      detail: `paragraph ${k}: ${src[k]?.slice(0, 80)}`,
     };
   }
   let problem: string | undefined;
   try {
     fc.assert(
       fc.property(inputArb(t), (input) => {
-        const r = render(t, input, "jury");
-        for (const b of r.blocks) {
-          const ps = textProblems(b.runs.map((x) => x.text).join(""));
-          if (ps.length) {
-            problem = ps[0];
-            return false;
-          }
+        const ps = renderProblems(t, input);
+        if (ps.length) {
+          problem = ps[0];
+          return false;
         }
         return true;
       }),
-      { numRuns: 100, seed: 1 },
+      { numRuns: runs, seed: 1 },
     );
   } catch {
+    const cat = (problem ?? "render").replace(/:.*$/s, "");
+    return { status: "render", category: cat, detail: problem ?? "" };
+  }
+  return undefined;
+}
+
+function check(rec: ExtractedRecord, runs = 100): { t?: Template; r: DraftResult } {
+  let raw: Template;
+  try {
+    raw = draft({ ...rec, body: rec.body.slice() });
+  } catch (e) {
+    const cat = e instanceof DraftError ? e.category : "crash";
     return {
-      t,
-      r: { id: rec.number, status: "render", category: problem ?? "render", detail: problem ?? "" },
+      r: { id: rec.number, status: "parse", category: cat, detail: String((e as Error).message) },
     };
   }
-  void semanticIssues;
+  let t: Template;
+  let todo: Todo[];
+  try {
+    ({ t, todo } = enrich(raw));
+  } catch (e) {
+    return {
+      r: {
+        id: rec.number,
+        status: "enrich",
+        category: "crash",
+        detail: String((e as Error).message),
+      },
+    };
+  }
+  const bad = verify(t, rec, runs);
+  if (bad) {
+    // Report whether the problem comes from the skeleton or from enrichment.
+    const rawBad = verify(raw, rec, runs);
+    if (!rawBad)
+      return {
+        t,
+        r: { id: rec.number, status: "enrich", category: bad.category, detail: bad.detail },
+      };
+    return { t, r: { id: rec.number, ...rawBad } };
+  }
   return {
     t,
     r: {
@@ -601,18 +641,39 @@ function check(rec: ExtractedRecord): { t?: Template; r: DraftResult } {
       status: "pass",
       questions: t.questions?.length ?? 0,
       static: (t.questions?.length ?? 0) === 0 && !rec.body.some((p) => p.includes("______")),
+      todo,
     },
   };
+}
+
+/** Compact YAML in the style of the hand-written templates. */
+export function templateYaml(t: Template): string {
+  const doc = new Document(t);
+  visit(doc, {
+    Map(_k, node) {
+      if (JSON.stringify(node.toJSON()).length <= 90) node.flow = true;
+    },
+    Seq(_k, node) {
+      if (JSON.stringify(node.toJSON()).length <= 90) node.flow = true;
+    },
+  });
+  const header =
+    `# CALCRIM No. ${t.id}. Instruction text: Judicial Council of California, freely\n` +
+    `# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.\n`;
+  return header + doc.toString({ lineWidth: 0, flowCollectionPadding: true });
 }
 
 function main(): void {
   const args = process.argv.slice(2);
   let outDir: string | undefined;
   let reportPath: string | undefined;
+  let force = false;
+  const skipped: string[] = [];
   const ids: string[] = [];
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--out") outDir = args[++i];
     else if (args[i] === "--report") reportPath = args[++i];
+    else if (args[i] === "--force") force = true;
     else ids.push(args[i]!);
   }
   const all = readdirSync(EXTRACTED_DIR)
@@ -626,8 +687,13 @@ function main(): void {
     const { t, r } = check(rec);
     results.push(r);
     if (outDir && t && r.status === "pass") {
-      mkdirSync(outDir, { recursive: true });
-      writeFileSync(join(outDir, `${id}.yaml`), stringify(t, { lineWidth: 0 }));
+      const dest = join(outDir, `${id}.yaml`);
+      // Never overwrite an authored template.
+      if (existsSync(dest) && !force) skipped.push(id);
+      else {
+        mkdirSync(outDir, { recursive: true });
+        writeFileSync(dest, templateYaml(t));
+      }
     }
   }
   const by = (k: keyof DraftResult) =>
@@ -651,6 +717,7 @@ function main(): void {
     })(),
   };
   console.log(JSON.stringify(summary, null, 2));
+  if (skipped.length) console.log(`kept existing templates: ${skipped.join(" ")}`);
   if (reportPath) writeFileSync(reportPath, JSON.stringify({ summary, results }, null, 2) + "\n");
 }
 

@@ -173,6 +173,22 @@ export function semanticIssues(t: Template): ValidationIssue[] {
     }
     if ("options" in n) {
       checkUnbalanced(n, path);
+      if (n.link !== undefined) {
+        used.add(n.link.q);
+        const lq = questions.get(n.link.q);
+        if (!lq) add(`${path}/link`, `unknown question "${n.link.q}"`);
+        else if (lq.type !== "choice")
+          add(`${path}/link`, `"${n.link.q}" must be a choice question`);
+        else {
+          if (n.link.map.length !== n.options.length)
+            add(`${path}/link`, "link map needs one entry per option");
+          for (const id of n.link.map)
+            if (id !== "" && !lq.options.some((o) => o.id === id))
+              add(`${path}/link`, `question "${n.link.q}" has no option "${id}"`);
+        }
+        if (n.choice === undefined)
+          add(`${path}/link`, "a linked choice still needs its own question");
+      }
       if (n.choice !== undefined) {
         used.add(n.choice);
         const q = questions.get(n.choice);
