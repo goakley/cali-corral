@@ -3,12 +3,13 @@
 Generated from templates encoded against CALCRIM release 2026-10. All names and facts are fictional.
 
 For each case, compare the rendered text with the official instruction and the answers given.
-To approve a case, move its `.input.json` and `.txt` from `candidates/<id>/` to `tests/golden/<id>/`.
+To approve a case, copy its `.input.json` and `.txt` from `candidates/<id>/` to `tests/golden/<id>/`.
+Cases marked **Approved** already match an attorney-approved golden; only the others need review.
 Notes flag output that follows the official markup literally but may need a human look.
 
 ## 200. Duties of Judge and Jury
 
-### minimal
+### minimal — **Approved**
 
 Answers: (all optional text off)
 
@@ -35,7 +36,7 @@ Some words or phrases used during this trial have legal meanings that are differ
 Some of these instructions may not apply, depending on your findings about the facts of the case. After you have decided what the facts are, follow the instructions that do apply to the facts as you find them.
 ```
 
-### maximal
+### maximal — **Approved**
 
 Answers: copy_will_give, copy_each_has, handwritten, ses_bias, other_bias, no_inference
 
@@ -62,7 +63,7 @@ Some words or phrases used during this trial have legal meanings that are differ
 Some of these instructions may not apply, depending on your findings about the facts of the case. Do not assume just because I give a particular instruction that I am suggesting anything about the facts. After you have decided what the facts are, follow the instructions that do apply to the facts as you find them.
 ```
 
-### mixed
+### mixed — **Approved**
 
 Answers: copy_will_give, handwritten, other_bias
 
@@ -91,7 +92,7 @@ Some of these instructions may not apply, depending on your findings about the f
 
 ## 220. Reasonable Doubt
 
-### minimal
+### minimal — **Approved**
 
 Answers: (all optional text off)
 
@@ -112,7 +113,7 @@ Proof beyond a reasonable doubt is proof that leaves you with an abiding convict
 In deciding whether the People have proved their case beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the defendant guilty beyond a reasonable doubt, he is entitled to an acquittal and you must find him not guilty.
 ```
 
-### maximal
+### maximal — **Approved**
 
 Answers: unless_otherwise
 
@@ -133,7 +134,7 @@ Proof beyond a reasonable doubt is proof that leaves you with an abiding convict
 In deciding whether the People have proved their case beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the defendant guilty beyond a reasonable doubt, they are entitled to an acquittal and you must find them not guilty.
 ```
 
-### mixed
+### mixed — **Approved**
 
 Answers: unless_otherwise
 
@@ -156,7 +157,7 @@ In deciding whether the People have proved their case beyond a reasonable doubt,
 
 ## 226. Witnesses
 
-### minimal
+### minimal — **Approved**
 
 Answers: (all optional text off)
 
@@ -193,7 +194,7 @@ In evaluating a witness’s testimony, you may consider anything that reasonably
 Do not automatically reject testimony just because of inconsistencies or conflicts. Consider whether the differences are important or not. People sometimes honestly forget things or make mistakes about what they remember. Also, two people may witness the same event yet see or hear it differently.
 ```
 
-### maximal
+### maximal — **Approved**
 
 Answers: f_other_evidence, f_admit_untruthful, f_character, f_felony, f_conduct, f_conduct_other, f_immunity, character_not_discussed, no_longer_remembers, deliberately_lied
 
@@ -248,7 +249,7 @@ If you do not believe a witness’s testimony that he or she no longer remembers
 If you decide that a witness deliberately lied about something significant in this case, you should consider not believing anything that witness says. Or, if you think the witness lied about some things, but told the truth about others, you may simply accept the part that you think is true and ignore the rest.
 ```
 
-### mixed
+### mixed — **Approved**
 
 Answers: f_other_evidence, f_character, f_conduct, f_immunity, no_longer_remembers
 
@@ -297,7 +298,7 @@ If you do not believe a witness’s testimony that he or she no longer remembers
 
 ## 860. Assault on Firefighter or Peace Officer With Deadly Weapon or Force Likely to Produce Great Bodily Injury (Pen. Code, §§ 240, 245(c) & (d))
 
-### minimal
+### minimal — **Approved**
 
 Answers: means=force, victim_kind=firefighter, theory=weapon, weapon=deadly_weapon, defense_kind=self, indirect_how=object, machine_gun_how=shoots, defined_terms=gbi, ff_agency=state, ff_state_kind=dept
 
@@ -336,7 +337,7 @@ The People are not required to prove that the defendant actually intended to use
 No one needs to actually have been injured by defendant’s act. But if someone was injured, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed an assault.
 ```
 
-### maximal
+### maximal — **Approved**
 
 Answers: count_ref, cite_statute, means=bmg, victim_kind=peace_officer, theory=weapon+force, weapon=bmg, self_defense, defense_kind=self+other, indirect, indirect_how=object+held, indirect_someone_else, no_touch_required, what_kind, intoxication, def_gbi, def_deadly_weapon, def_inherently_deadly_clause, def_inherently_deadly, surrounding_circumstances, def_firearm, def_semiauto, def_machine_gun, machine_gun_how=shoots+designed+restored, def_assault_weapon, def_bmg, bmg_not_assault, defined_elsewhere, defined_terms=gbi+deadly_weapon+firearm+machine_gun+assault_weapon+bmg, police_def, designated_def, duties_def, firefighter_def, ff_agency=federal_agency, ff_state_kind=agency
 
@@ -425,7 +426,7 @@ The duties of a deputy sheriff include example duties.
 A firefighter includes anyone who is an officer, employee, or member of a federal fire protection or firefighting agency, whether or not he or she is paid for his or her services.
 ```
 
-### mixed
+### mixed — **Approved**
 
 Answers: count_ref, means=firearm, victim_kind=peace_officer, theory=weapon, weapon=bmg, self_defense, defense_kind=other, indirect, indirect_how=held, indirect_someone_else, what_kind, def_gbi, def_inherently_deadly_clause, surrounding_circumstances, def_semiauto, machine_gun_how=shoots+restored, def_bmg, defined_elsewhere, defined_terms=deadly_weapon+machine_gun+bmg, police_def, duties_def, ff_agency=federal_agency, ff_state_kind=agency
 
@@ -492,7 +493,7 @@ The duties of a deputy sheriff include example duties.
 
 ## 926. Battery Against Specified Victim Not a Peace Officer (Pen. Code, §§ 242, 243(b)–(c)(1))
 
-### minimal
+### minimal — **Approved**
 
 Answers: title_article=a, victim_alt=duties, medical_kind=nurse, defense_kind=self, indirect_how=object
 
@@ -521,7 +522,7 @@ Someone commits an act willfully when he or she does it willingly or on purpose.
 Making contact with another person, including through his or her clothing, is enough to commit a battery.
 ```
 
-### maximal
+### maximal — **Approved**
 
 Answers: count_ref, cite_statute, title_article=a, unlawfully, victim_alt=medical, medical_kind=doctor, injury, self_defense, defense_kind=self+other, duties_def, on_duty, injury_def, indirect, indirect_how=object+held, indirect_someone_else
 
@@ -562,7 +563,7 @@ An injury is any physical injury that requires professional medical treatment. T
 The touching can be done indirectly by causing an object or someone else to touch the other person or by touching something held by or attached to the other person.
 ```
 
-### mixed
+### mixed — **Approved**
 
 Answers: count_ref, title_article=a, victim_alt=duties, medical_kind=doctor, injury, defense_kind=self, on_duty, indirect, indirect_how=held, indirect_someone_else
 
@@ -599,7 +600,7 @@ The touching can be done indirectly by touching something held by or attached to
 
 ## 945. Battery Against Peace Officer (Pen. Code, §§ 242, 243(b), (c)(2))
 
-### minimal
+### minimal — **Approved**
 
 Answers: officer_article=a, defense_kind=self, indirect_how=object, patrol_term=patrolman
 
@@ -626,7 +627,7 @@ AND
 Someone commits an act willfully when he or she does it willingly or on purpose. It is not required that he or she intend to break the law, hurt someone else, or gain any advantage.
 ```
 
-### maximal
+### maximal — **Approved**
 
 Answers: count_ref, cite_statute, officer_article=a, unlawfully, felony, self_defense, defense_kind=self+other, slightest_touching, injury_def, indirect, indirect_how=object+held, indirect_someone_else, police_def, designated_def, duties_def, on_duty, private_capacity, patrol_term=patrolwoman
 
@@ -673,7 +674,7 @@ It does not matter whether Jordan Sample was actually on duty at the time.
 A deputy sheriff is also performing the duties of a peace officer if they are in a police uniform and performing the duties required of them as a peace officer and, at the same time, are working in a private capacity as a part-time or casual private security guard or patrolwoman.
 ```
 
-### mixed
+### mixed — **Approved**
 
 Answers: count_ref, officer_article=a, felony, defense_kind=self, injury_def, indirect_how=object, police_def, duties_def, private_capacity, patrol_term=patrolwoman
 
@@ -712,7 +713,7 @@ A deputy sheriff is also performing the duties of a peace officer if she is in a
 
 ## 1800. Theft by Larceny (Pen. Code, § 484)
 
-### minimal
+### minimal — **Approved**
 
 Answers: degree=grand, intent=permanently
 
@@ -739,7 +740,7 @@ AND
 4. The defendant moved the property, even a small distance, and kept it for any period of time, however brief.
 ```
 
-### maximal
+### maximal — **Approved**
 
 Answers: count_ref, degree_named, degree=petty, by_larceny, cite_statute, agent, intent=permanently+extended, consumption, agent_def, petty_value
 
@@ -772,7 +773,7 @@ An agent is someone to whom the owner has given complete or partial authority an
 For petty theft, the property taken can be of any value, no matter how slight.
 ```
 
-### mixed
+### mixed — **Approved**
 
 Answers: count_ref, degree=grand, cite_statute, intent=permanently, agent_def
 

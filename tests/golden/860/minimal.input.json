@@ -1,0 +1,68 @@
+{
+  "answers": {
+    "count_ref": false,
+    "cite_statute": false,
+    "means": "force",
+    "victim_kind": "firefighter",
+    "theory": [
+      "weapon"
+    ],
+    "weapon": "deadly_weapon",
+    "self_defense": false,
+    "defense_kind": [
+      "self"
+    ],
+    "indirect": false,
+    "indirect_how": [
+      "object"
+    ],
+    "indirect_someone_else": false,
+    "no_touch_required": false,
+    "what_kind": false,
+    "intoxication": false,
+    "def_gbi": false,
+    "def_deadly_weapon": false,
+    "def_inherently_deadly_clause": false,
+    "def_inherently_deadly": false,
+    "surrounding_circumstances": false,
+    "def_firearm": false,
+    "def_semiauto": false,
+    "def_machine_gun": false,
+    "machine_gun_how": [
+      "shoots"
+    ],
+    "def_assault_weapon": false,
+    "def_bmg": false,
+    "bmg_not_assault": false,
+    "defined_elsewhere": false,
+    "defined_terms": [
+      "gbi"
+    ],
+    "police_def": false,
+    "designated_def": false,
+    "duties_def": false,
+    "firefighter_def": false,
+    "ff_agency": "state",
+    "ff_state_kind": "dept"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    },
+    "victim": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "assault_weapons": "example assault weapons",
+    "designation_facts": "example designation facts",
+    "duties": "example duties"
+  }
+}

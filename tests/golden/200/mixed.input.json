@@ -1,0 +1,22 @@
+{
+  "answers": {
+    "copy_will_give": true,
+    "copy_each_has": false,
+    "handwritten": true,
+    "ses_bias": false,
+    "other_bias": true,
+    "no_inference": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "other_bias": "example other bias"
+  }
+}

@@ -4,7 +4,7 @@ Questions raised while working. Each says what was chosen in the meantime (the m
 
 ## Open
 
-_None._
+- **Q4. Consolidated definitions under rule 2.1055** (raised by the reviewing attorney, 2026-11-22; feature planned for Phase 2). When repeated definitions move to one section at the front of the set, how should the export present it? Specifically: does each instruction that loses its copy count as "modified" in the index checklist, and is the definitions section numbered as a special instruction with citations to the instructions it came from? *Meanwhile (most conservative):* the option is off by default. When on, affected instructions are marked modified, and the definitions section is a special instruction citing its source instructions. Nothing is built until Phase 2.
 
 ## Resolved
 

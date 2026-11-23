@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "count_ref": false,
+    "degree_named": false,
+    "degree": "grand",
+    "by_larceny": false,
+    "cite_statute": false,
+    "agent": false,
+    "intent": [
+      "permanently"
+    ],
+    "consumption": false,
+    "agent_def": false,
+    "petty_value": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

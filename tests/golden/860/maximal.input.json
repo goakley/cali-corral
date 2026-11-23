@@ -1,0 +1,78 @@
+{
+  "answers": {
+    "count_ref": true,
+    "cite_statute": true,
+    "means": "bmg",
+    "victim_kind": "peace_officer",
+    "theory": [
+      "weapon",
+      "force"
+    ],
+    "weapon": "bmg",
+    "self_defense": true,
+    "defense_kind": [
+      "self",
+      "other"
+    ],
+    "indirect": true,
+    "indirect_how": [
+      "object",
+      "held"
+    ],
+    "indirect_someone_else": true,
+    "no_touch_required": true,
+    "what_kind": true,
+    "intoxication": true,
+    "def_gbi": true,
+    "def_deadly_weapon": true,
+    "def_inherently_deadly_clause": true,
+    "def_inherently_deadly": true,
+    "surrounding_circumstances": true,
+    "def_firearm": true,
+    "def_semiauto": true,
+    "def_machine_gun": true,
+    "machine_gun_how": [
+      "shoots",
+      "designed",
+      "restored"
+    ],
+    "def_assault_weapon": true,
+    "def_bmg": true,
+    "bmg_not_assault": true,
+    "defined_elsewhere": true,
+    "defined_terms": [
+      "gbi",
+      "deadly_weapon",
+      "firearm",
+      "machine_gun",
+      "assault_weapon",
+      "bmg"
+    ],
+    "police_def": true,
+    "designated_def": true,
+    "duties_def": true,
+    "firefighter_def": true,
+    "ff_agency": "federal_agency",
+    "ff_state_kind": "agency"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "victim": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "assault_weapons": "example assault weapons",
+    "designation_facts": "example designation facts",
+    "duties": "example duties"
+  }
+}

@@ -14,8 +14,9 @@ const candidates = casesIn(CANDIDATES_DIR);
 
 describe("golden renders (attorney-approved)", () => {
   it("lists the approved goldens", () => {
-    // Zero is expected until an attorney promotes candidates.
-    expect(goldens.length).toBeGreaterThanOrEqual(0);
+    // 21 approved 2026-11-22 (200, 220, 226, 860, 926, 945, 1800 × minimal/maximal/mixed).
+    // Goldens are never deleted to make CI pass, so the count only grows.
+    expect(goldens.length).toBeGreaterThanOrEqual(21);
   });
   it.each(goldens.map((c) => [`${c.id}/${c.name}`, c] as const))("%s matches", (_n, c) => {
     expect(goldenText(loadTemplate(c.id), readInput(c))).toBe(readFileSync(c.textPath, "utf8"));

@@ -74,6 +74,13 @@ The core workflow runs in five steps, with no setup step up front. The sections 
 - Each instruction shows its encoding status (reviewed, machine-checked, flagged, superseded) and its source release.
 - Shows the Bench Notes' Instructional Duty text when picking, so sua sponte and "give on request" instructions are easy to spot. Informational only; the app never claims the list is complete.
 - Suggests related instructions named in the text or Bench Notes (for example, 2652 suggests 2670 when lawful performance is at issue). The user accepts or dismisses each one.
+- **Lesser included offenses (always asked).** Whether to instruct on a lesser included offense is the parties' and the court's choice. Sometimes the prosecution instructs on them and sometimes it doesn't, and a lesser offense can be separately charged or only alleged as included. So whenever the user adds an instruction for a charged offense, the app asks which lesser included offenses to instruct on, if any. The prompt shows:
+  - the instruction's own LESSER INCLUDED OFFENSES Bench Notes, verbatim (including "not a lesser included offense" notes)
+  - maintainer-reviewed links from each listed offense to the CALCRIM instruction that covers it, as one-click suggestions (860 lists "Assault With a Deadly Weapon. Pen. Code, § 245", which links to 875)
+  - a search for any other instruction, because the Bench Notes lists are not exhaustive and many entries have no reviewed link
+
+  The prompt is never skipped because no list or link exists. It always offers "None" and "Add another". It also suggests the matching verdict-form instruction (3517, 3518 or 3519), depending on whether the lesser and greater offenses are separately charged. The app never decides that a lesser offense must be given.
+- **Definitions in other instructions.** Some instructions use a term that only another instruction defines. 2110 (Driving Under the Influence) uses "driving" and "driver", which only 2241 defines, and its Bench Notes say "On request, give CALCRIM No. 2241." Fifteen instructions print "[The term *firearm* is defined in another instruction.]" When a selected instruction depends on another for a definition, the picker suggests that instruction and names the terms. If such a definition is kept in the set without the instruction that defines it, the app warns before export. It's a suggestion, not a requirement, because the definition is often only given on request.
 - Reorder instructions; the default order follows CALCRIM's own trial order.
 - *(later)* Saved starter sets (for example "standard pretrial and closing instructions").
 
@@ -96,6 +103,7 @@ The core workflow runs in five steps, with no setup step up front. The sections 
 - The rendered text can be edited by hand. The app keeps a diff against the generated text and marks the instruction "modified."
 - If an edit goes beyond the template's options, the app flags that the instruction may count as a special instruction under rule 2.1055 and prompts for supporting citations, which appear at the bottom of its page.
 - Fully custom special instructions can be added, with required citations.
+- *(later)* **Consolidate repeated definitions** (an export option, off by default). Many sets define the same term identically in several instructions: 860 and 875 both define *machine gun*, and 158 definition paragraphs appear word for word in two or more instructions. Some judges prefer each repeated definition read once, in a definitions section at the start of the set, and some don't. When the option is on, a definition whose rendered jury text is identical in two or more instructions in the set moves to one forward section, and each instruction loses its copy. Turning the option off restores every instruction exactly. Only identical rendered text is consolidated; near-matches (the two *machine gun* variants in 860/875 and 3116/3147) are not merged. Templates tag definition paragraphs during drafting (Template format) so the feature needs no re-drafting later. Open question: how a consolidated set is presented under rule 2.1055 (QUESTIONS.md Q4).
 
 ### 6. Export
 
@@ -145,7 +153,7 @@ The biggest risk is a template that renders text that looks right but is wrong. 
 | 4 | Choice-dependent punctuation | `(;/.)` and `[AND]` change with which elements are kept | Element-list node computes numbering, separators and "AND" |
 | 5 | Nested brackets and parentheses | Options inside options in one sentence | Template format is a tree; schema allows nesting |
 | 6 | Single-defendant drafting | Multi-defendant and multi-count cases need rewritten text (plurals, verb agreement, per-defendant elements) | Single defendant in v1; multi-count next; multi-defendant later, with templates annotated for agreement |
-| 7 | Cross-instruction dependencies | Some instructions require others (lawful performance, lesser included offenses) | Encoded "related instruction" links shown as suggestions |
+| 7 | Cross-instruction dependencies | Some instructions require others (lawful performance, lesser included offenses) | Encoded "related instruction" links shown as suggestions, including reviewed lesser-included and definition links; the lesser-included prompt always appears, even without links |
 | 8 | Per-instruction revisions, revocations, renumbering | Releases revise some instructions, not all; numbers are sometimes reused or reserved | Each template records its source revision; manifest tracks status per instruction |
 | 9 | **Case law ahead of CALCRIM** | An appellate decision can make an instruction wrong before the committee revises it | Persistent disclaimer; app never claims legal currency, only fidelity to a named release |
 | 10 | Edits create special instructions | Substantially modified approved instructions need citations under rule 2.1055 | Diff tracking, "modified" flag, citation prompt |
@@ -195,6 +203,15 @@ Sharing one rendering library between the app and the tooling means the code tha
 Each instruction is one file: metadata, people roles, questions, and a body tree. **The normative definition is the JSON Schema at `packages/engine/schema/template.schema.json`**, plus the semantic rules enforced by the validator. Full details are in `docs/design/technical-design.md` §4. This section summarizes format v1 and the extensions adopted after Phase 0.
 
 **Top level:** `id`, `title`, `source` (source file, release, revision line, and `body_sha256`, the hash of the normalized official text), `review` level, `people` (roles besides the always-present defendant, each with the fields it uses: name, title, agency), `related` instructions, `questions`, `body`.
+
+**Links to other instructions.** Each `related` entry has a kind and a reason, and every link is reviewed by a maintainer:
+- **reference**: the text or Bench Notes point to another instruction (2652 → 2670).
+- **definition**: the instruction relies on another for the definition of named terms (2110 → 2241 for *driver* and *driving*).
+- **lesser included**: links a Bench Notes lesser-included entry to the instruction that covers that offense (860 → 875 for § 245). The entry's verbatim Bench Notes text is kept with the link.
+
+The extractor proposes these links. It parses each LESSER INCLUDED OFFENSES section into entries (offense name, code citations, case citations, and whether the note says the offense is *not* lesser included), and it finds "give CALCRIM No. ____" references. **The links can't be detected confidently by machine.** On the 2026-10 corpus, 224 instructions have a LESSER INCLUDED OFFENSES section, with 344 listed offenses and 110 prose notes. Matching a listed offense to instructions by its code section gives one candidate for only 73 of them; 206 match several (Pen. Code § 240 matches more than a dozen assault instructions) and 65 match none. So proposals are reviewed by a maintainer, and the app's lesser-included prompt never depends on them (Features §2).
+
+**Definition paragraphs** are tagged with the term they define (`definition: machine gun`). The tag doesn't change rendering; it lets the export consolidate repeated definitions later (Features §5).
 
 **Questions.** Questions are `boolean` (yes/no), `choice` (exactly one) or `multi` (one or more). A choice question can carry `articleFor` to suggest "a" or "an" from a field's value. A question is shown only when rendering actually consults it under the current answers, so dependent questions appear and disappear automatically. Every question must be used, and question ids are the stable contract with saved case files.
 
@@ -436,6 +453,7 @@ Each phase ships only after its gate is met. Gates are criteria, not dates.
 
 **Phase 1: First release (single defendant)**
 - Instruction picker, questionnaire with on-demand case facts, live preview, edit tracking
+- Lesser-included-offense prompt for charged offenses; definition and reference suggestions
 - Rule 2.1055 .docx export; signed manifest and freshness checks
 - In-app flags via the relay, local overrides, flag banners, review levels shown
 
@@ -443,6 +461,7 @@ Each phase ships only after its gate is met. Gates are criteria, not dates.
 
 **Phase 2: Breadth**
 - Template editor; proposed fixes become pull requests via the relay
+- Optional consolidation of repeated definitions at export (toggle, off by default)
 - Pending community fixes users can apply locally; report status tracking
 - Human review of the most-used instructions; multi-count cases, with plurality (`[s]` markers on counts and crimes) derived from the case data rather than asked marker by marker
 
