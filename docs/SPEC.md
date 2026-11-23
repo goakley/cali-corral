@@ -29,6 +29,7 @@ Cali Corral (working name) is a free, open-source, offline-capable web app (PWA)
 - Legal research, case-law monitoring, or advice to self-represented defendants.
 - Any instruction set other than CALCRIM, permanently (no CACI or CALJIC; the official guide also says CALJIC and CALCRIM should never be used together).
 - Being, or claiming to be, an official Judicial Council product.
+- Moving definitions that repeat across instructions into one shared section. Each instruction keeps its own definitions as printed (decided with the reviewing attorney, 2026-11-22).
 
 ## Background: how CALCRIM is written
 
@@ -80,8 +81,8 @@ The core workflow runs in five steps, with no setup step up front. The sections 
   - a search for any other instruction, because the Bench Notes lists are not exhaustive and many entries have no reviewed link
 
   The prompt is never skipped because no list or link exists. It always offers "None" and "Add another". It also suggests the matching verdict-form instruction (3517, 3518 or 3519), depending on whether the lesser and greater offenses are separately charged. The app never decides that a lesser offense must be given.
-- **Definitions in other instructions.** Some instructions use a term that only another instruction defines. 2110 (Driving Under the Influence) uses "driving" and "driver", which only 2241 defines, and its Bench Notes say "On request, give CALCRIM No. 2241." Fifteen instructions print "[The term *firearm* is defined in another instruction.]" When a selected instruction depends on another for a definition, the picker suggests that instruction and names the terms. If such a definition is kept in the set without the instruction that defines it, the app warns before export. It's a suggestion, not a requirement, because the definition is often only given on request.
-- Reorder instructions; the default order follows CALCRIM's own trial order.
+- **Definitions in other instructions.** Some instructions use a term that only another instruction defines. 2110 (Driving Under the Influence) uses "driving" and "driver", which only 2241 defines, and its Bench Notes say "On request, give CALCRIM No. 2241." Fifteen instructions print "[The term *firearm* is defined in another instruction.]" When a selected instruction depends on another for a definition, the picker suggests that instruction and names the terms. If such a definition is kept in the set without the instruction that defines it, the app warns before export. It's a suggestion, not a requirement, because the definition is often only given on request. An added definition instruction appears once in the set, however many instructions reference it, in its numerical CALCRIM position, not next to the instruction that referenced it. If 111 and 222 both reference 555, the set is ordered 111, 222, 555 (attorney guidance, 2026-11-22).
+- Instructions are ordered in numerical CALCRIM order by default (which follows CALCRIM's own trial order, 100 Pretrial through 3500 Concluding). This includes instructions added from suggestions. The user can still reorder by hand.
 - *(later)* Saved starter sets (for example "standard pretrial and closing instructions").
 
 ### 3. Guided questionnaire
@@ -103,7 +104,6 @@ The core workflow runs in five steps, with no setup step up front. The sections 
 - The rendered text can be edited by hand. The app keeps a diff against the generated text and marks the instruction "modified."
 - If an edit goes beyond the template's options, the app flags that the instruction may count as a special instruction under rule 2.1055 and prompts for supporting citations, which appear at the bottom of its page.
 - Fully custom special instructions can be added, with required citations.
-- *(later)* **Consolidate repeated definitions** (an export option, off by default). Many sets define the same term identically in several instructions: 860 and 875 both define *machine gun*, and 158 definition paragraphs appear word for word in two or more instructions. Some judges prefer each repeated definition read once, in a definitions section at the start of the set, and some don't. When the option is on, a definition whose rendered jury text is identical in two or more instructions in the set moves to one forward section, and each instruction loses its copy. Turning the option off restores every instruction exactly. Only identical rendered text is consolidated; near-matches (the two *machine gun* variants in 860/875 and 3116/3147) are not merged. Templates tag definition paragraphs during drafting (Template format) so the feature needs no re-drafting later. Open question: how a consolidated set is presented under rule 2.1055 (QUESTIONS.md Q4).
 
 ### 6. Export
 
@@ -210,8 +210,6 @@ Each instruction is one file: metadata, people roles, questions, and a body tree
 - **lesser included**: links a Bench Notes lesser-included entry to the instruction that covers that offense (860 → 875 for § 245). The entry's verbatim Bench Notes text is kept with the link.
 
 The extractor proposes these links. It parses each LESSER INCLUDED OFFENSES section into entries (offense name, code citations, case citations, and whether the note says the offense is *not* lesser included), and it finds "give CALCRIM No. ____" references. **The links can't be detected confidently by machine.** On the 2026-10 corpus, 224 instructions have a LESSER INCLUDED OFFENSES section, with 344 listed offenses and 110 prose notes. Matching a listed offense to instructions by its code section gives one candidate for only 73 of them; 206 match several (Pen. Code § 240 matches more than a dozen assault instructions) and 65 match none. So proposals are reviewed by a maintainer, and the app's lesser-included prompt never depends on them (Features §2).
-
-**Definition paragraphs** are tagged with the term they define (`definition: machine gun`). The tag doesn't change rendering; it lets the export consolidate repeated definitions later (Features §5).
 
 **Questions.** Questions are `boolean` (yes/no), `choice` (exactly one) or `multi` (one or more). A choice question can carry `articleFor` to suggest "a" or "an" from a field's value. A question is shown only when rendering actually consults it under the current answers, so dependent questions appear and disappear automatically. Every question must be used, and question ids are the stable contract with saved case files.
 
@@ -461,7 +459,6 @@ Each phase ships only after its gate is met. Gates are criteria, not dates.
 
 **Phase 2: Breadth**
 - Template editor; proposed fixes become pull requests via the relay
-- Optional consolidation of repeated definitions at export (toggle, off by default)
 - Pending community fixes users can apply locally; report status tracking
 - Human review of the most-used instructions; multi-count cases, with plurality (`[s]` markers on counts and crimes) derived from the case data rather than asked marker by marker
 
