@@ -252,7 +252,7 @@ function renderElements(
   const positions = includedPositions(
     items,
     (e) => e.if === undefined || cond(e.if, ctx),
-    (g) => groupSelection(g, ctx),
+    (g) => (g.if === undefined || cond(g.if, ctx) ? groupSelection(g, ctx) : []),
   );
   let n = 0;
   const push = (e: Element, number: number, last: boolean, label?: string): void => {
@@ -275,17 +275,25 @@ function renderElements(
       push(p.e, ++n, last);
       return;
     }
-    // Groups are never last (enforced by validation).
     const g = p.g;
+    noteUnbalanced(g, ctx);
     for (const oi of p.selected) noteUnbalanced(g.options[oi]!, ctx);
+    if (!plain && last && positions.length >= 2 && g.and !== undefined)
+      out.push({ kind: "conj", depth, runs: [{ text: conj }] });
+    // When the group is last, only its final element ends the list.
+    const finalAlt = p.selected[p.selected.length - 1]!;
+    const isFinal = (oi: number, k: number): boolean =>
+      last && oi === finalAlt && k === g.options[oi]!.elements.length - 1;
     if (p.selected.length === 1) {
-      for (const e of g.options[p.selected[0]!]!.elements) push(e, ++n, false);
+      g.options[finalAlt]!.elements.forEach((e, k) => push(e, ++n, isFinal(finalAlt, k)));
       return;
     }
     n++;
-    p.selected.forEach((oi, k) => {
-      if (k > 0) out.push({ kind: "conj", depth, runs: [{ text: unbracket(g.or ?? "OR") }] });
-      for (const e of g.options[oi]!.elements) push(e, n, false, `${n}${e.n.replace(/^\d+/, "")}`);
+    p.selected.forEach((oi, j) => {
+      if (j > 0) out.push({ kind: "conj", depth, runs: [{ text: unbracket(g.or ?? "OR") }] });
+      g.options[oi]!.elements.forEach((e, k) =>
+        push(e, n, isFinal(oi, k), `${n}${e.n.replace(/^\d+/, "")}`),
+      );
     });
   });
 }

@@ -266,8 +266,12 @@ export function semanticIssues(t: Template): ValidationIssue[] {
             }
             if (q?.type === "multi" && it.or === undefined)
               add(ep, `a multi-choice group needs an "or" conjunction`);
-            if (j === b.elements.length - 1)
-              add(ep, "an alternative group can't be the last element");
+            if (it.if !== undefined) checkCondition(it.if, `${ep}/if`);
+            checkUnbalanced(it, ep);
+            if (it.andOutside && (it.if === undefined || it.and === undefined))
+              add(ep, "andOutside needs an optional group with a conjunction");
+            if (it.if === undefined && (it.unclosed || it.unopened))
+              add(ep, "only an optional (bracketed) group can have unbalanced brackets");
             it.options.forEach((o, k) => checkUnbalanced(o, `${ep}/options/${k}`));
             it.options.forEach((o, k) =>
               o.elements.forEach((e, m) => {

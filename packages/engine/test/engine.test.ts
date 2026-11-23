@@ -511,3 +511,62 @@ describe("conjunction printed outside an optional element", () => {
     );
   });
 });
+
+describe("alternative groups with conjunctions and conditions", () => {
+  const group = (extra: object) => ({
+    alt: "g",
+    options: [
+      { note: "Alternative 2A—first", elements: [{ n: "2", text: "Two A", end: "(;/.)" }] },
+      { note: "Alternative 2B—second", elements: [{ n: "2", text: "Two B", end: "(;/.)" }] },
+    ],
+    ...extra,
+  });
+
+  it("prints a conjunction before a group and ends the list with it when it is last", () => {
+    const t = tpl(
+      [
+        {
+          elements: [
+            { n: "1", text: "One", end: ";" },
+            group({ and: "[AND]" }),
+            { n: "3", text: "Three", end: "(;/.)", if: "c", and: "AND" },
+          ],
+        },
+      ],
+      [choiceQ("g", "a", "b"), bool("c")],
+    );
+    expect(validateTemplate(t)).toEqual([]);
+    expect(renderSource(t)).toEqual([
+      "1. One;",
+      "[AND]",
+      "<Alternative 2A—first>",
+      "[2. Two A(;/.)]",
+      "<Alternative 2B—second>",
+      "[2. Two B(;/.)]",
+      "[AND",
+      "3. Three(;/.)]",
+    ]);
+    expect(jury(t, { answers: { g: "b", c: false } })).toBe("1. One;\n\nAND\n\n2. Two B.");
+    expect(jury(t, { answers: { g: "a", c: true } })).toBe(
+      "1. One;\n\n2. Two A;\n\nAND\n\n3. Three.",
+    );
+  });
+
+  it("brackets an optional group together with its conjunction", () => {
+    const t = tpl(
+      [{ elements: [{ n: "1", text: "One", end: "(;/.)" }, group({ and: "AND", if: "o" })] }],
+      [choiceQ("g", "a", "b"), bool("o")],
+    );
+    expect(validateTemplate(t)).toEqual([]);
+    expect(renderSource(t)).toEqual([
+      "1. One(;/.)",
+      "[AND",
+      "<Alternative 2A—first>",
+      "[2. Two A(;/.)]",
+      "<Alternative 2B—second>",
+      "[2. Two B(;/.)]]",
+    ]);
+    expect(jury(t, { answers: { g: "a", o: false } })).toBe("1. One.");
+    expect(jury(t, { answers: { g: "a", o: true } })).toBe("1. One;\n\nAND\n\n2. Two A.");
+  });
+});

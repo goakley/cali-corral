@@ -550,6 +550,21 @@
               }
             }
           }
+        },
+        "and": {
+          "enum": ["AND", "[AND]", "OR", "[OR]"]
+        },
+        "andOutside": {
+          "const": true
+        },
+        "if": {
+          "$ref": "#/$defs/condition"
+        },
+        "unclosed": {
+          "$ref": "#/$defs/id"
+        },
+        "unopened": {
+          "$ref": "#/$defs/id"
         }
       }
     },

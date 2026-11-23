@@ -83,11 +83,15 @@ function elementItem(it: ElementItem): string[] {
   if (isNoteItem(it)) return [`<${it.note}>`];
   if (isElement(it)) return element(it);
   if (isGroup(it)) {
-    return it.options.flatMap((o, i) => [
+    const lines = it.options.flatMap((o, i) => [
       ...(i > 0 && it.or !== undefined ? [it.or] : []),
       ...(o.note !== undefined ? [`<${o.note}>`] : []),
       ...bracket(o.elements.flatMap(element), o),
     ]);
+    if (it.if !== undefined && it.andOutside && it.and !== undefined)
+      return [it.and, ...bracket(lines, it)];
+    const paras = it.and !== undefined ? [it.and, ...lines] : lines;
+    return it.if !== undefined ? bracket(paras, it) : paras;
   }
   throw new Error(`unknown element item ${JSON.stringify(it)}`);
 }

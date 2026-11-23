@@ -22,8 +22,10 @@ import { theyForm } from "../src/pronouns.ts";
 import type {
   Block,
   Element,
+  ElementGroup,
   ElementItem,
   Inline,
+  InlineNode,
   NoteBlock,
   Question,
   Template,
@@ -120,6 +122,18 @@ class Drafter {
   private n = 0;
   private fields = 0;
 
+  /** Save state so a failed speculative parse leaves no stray questions. */
+  snapshot(): () => void {
+    const q = this.questions.slice();
+    const n = this.n;
+    const f = this.fields;
+    return () => {
+      this.questions = q;
+      this.n = n;
+      this.fields = f;
+    };
+  }
+
   q(type: "boolean"): string;
   q(type: "choice" | "multi", labels: string[]): string;
   q(type: Question["type"], labels: string[] = []): string {
@@ -163,10 +177,27 @@ class Drafter {
             out.push({ em: tk.v });
             break;
           case "[": {
-            const inner = seq(new Set(["]"]));
+            const alts: Inline[][] = [seq(new Set(["]", "/"]))];
+            while (toks[i]?.t === "/") {
+              i++;
+              alts.push(seq(new Set(["]", "/"])));
+            }
             if (toks[i]?.t !== "]") throw new DraftError("brackets", "unclosed [");
             i++;
-            out.push({ opt: inner, if: this.q("boolean") });
+            const flat = alts.map((a) =>
+              a.every((x) => typeof x === "string") ? a.join("") : null,
+            );
+            if (alts.length === 1) out.push({ opt: alts[0]!, if: this.q("boolean") });
+            else if (flat.join("/") === "and/or")
+              out.push({ opt: "and/or", if: this.q("boolean") });
+            else {
+              // [grand/petty]: an optional pick-one printed without parentheses
+              const c = this.alternatives(alts);
+              const node = "pronoun" in c || "choice" in c ? { ...c, bare: true as const } : c;
+              if ("any" in node)
+                throw new DraftError("brackets", "connectors in bare alternatives");
+              out.push({ opt: [node], if: this.q("boolean") });
+            }
             break;
           }
           case "(": {
@@ -196,7 +227,7 @@ class Drafter {
   }
 
   /** Turn parsed alternatives into a choice, any or pronoun node. */
-  alternatives(alts: Inline[][]): Inline {
+  alternatives(alts: Inline[][]): InlineNode {
     const plain = alts.map((a) => (a.every((x) => typeof x === "string") ? a.join("") : null));
     if (plain.every((p) => p !== null)) {
       const key = plain.map((p) => p!.toLowerCase()).join("/");
@@ -248,6 +279,7 @@ class Drafter {
 const EL_RE = /^(\d+[A-Z]?(?:i{1,3}v?)?|\(\d+\/\d+\)|[a-h])\. (.*)$/s;
 const END_RE = /(\(;\/\.\)|[;.:])$/;
 const CONJ = new Set(["AND", "[AND]", "OR", "[OR]"]);
+const ALT_NOTE = /^<Alternative [^<>]*>$/;
 
 function bracketSpan(paras: string[], start: number): number {
   // index of the paragraph that closes a bracket opened at the start of paras[start]
@@ -260,6 +292,10 @@ function bracketSpan(paras: string[], start: number): number {
     if (depth <= 0) return p;
   }
   throw new DraftError("brackets", "bracket never closes");
+}
+
+export function draftRecord(rec: ExtractedRecord): Template {
+  return draft({ ...rec, body: rec.body.slice() });
 }
 
 function draft(rec: ExtractedRecord): Template {
@@ -279,6 +315,77 @@ function draft(rec: ExtractedRecord): Template {
     return e;
   }
 
+  /**
+   * A run of alternatives, each an optional "<Alternative …>" note followed by
+   * one bracketed span of elements, separated by a conjunction line or printed
+   * back to back. Returns null (leaving no stray questions) when the shape
+   * doesn't match, so the caller can fall back.
+   */
+  function parseGroup(
+    start: number,
+    hi = paras.length,
+  ): { group: ElementGroup; next: number } | null {
+    const restore = d.snapshot();
+    const r = tryGroup(start, hi);
+    if (!r) restore();
+    return r;
+  }
+
+  function tryGroup(start: number, hi: number): { group: ElementGroup; next: number } | null {
+    const options: ElementGroup["options"] = [];
+    let or: string | undefined;
+    let p = start;
+    for (;;) {
+      let note: string | undefined;
+      if (ALT_NOTE.test(paras[p] ?? "")) {
+        note = paras[p]!.slice(1, -1);
+        p++;
+      }
+      const first = paras[p];
+      if (p >= hi || !first || !/^\[(\d+[A-Z]?(?:i{1,3}v?)?|[a-h])\. /.test(first)) return null;
+      let close: number;
+      try {
+        close = bracketSpan(paras, p);
+      } catch {
+        return null;
+      }
+      if (close >= hi || !paras[close]!.endsWith("]")) return null;
+      const lines = paras.slice(p, close + 1);
+      lines[0] = lines[0]!.slice(1);
+      lines[lines.length - 1] = lines[lines.length - 1]!.slice(0, -1);
+      if (!lines.every((l) => EL_RE.test(l))) return null;
+      try {
+        options.push({
+          ...(note !== undefined ? { note } : {}),
+          elements: lines.map((l) => parseElement(l)),
+        });
+      } catch {
+        return null;
+      }
+      p = close + 1;
+      if (p >= hi) break;
+      const conj = paras[p];
+      if (conj && CONJ.has(conj) && p + 1 < hi && ALT_NOTE.test(paras[p + 1] ?? "")) {
+        if (or !== undefined && or !== conj) return null;
+        if (or === undefined && options.length > 1) return null; // mixed separators
+        or = conj;
+        p++;
+        continue;
+      }
+      // alternatives printed back to back, with no conjunction between them
+      if (or === undefined && ALT_NOTE.test(conj ?? "")) continue;
+      break;
+    }
+    if (options.length < 2) return null;
+    const labels = options.map((o, i) =>
+      (o.note ?? `alternative ${i + 1}`).replace(/^Alternative\s*/, ""),
+    );
+    const alt = d.q(or ? "multi" : "choice", labels);
+    const group: ElementGroup = { alt, options };
+    if (or !== undefined) group.or = or as NonNullable<ElementGroup["or"]>;
+    return { group, next: p };
+  }
+
   function blocks(lo: number, hi: number): Block[] {
     const out: Block[] = [];
     let p = lo;
@@ -290,9 +397,42 @@ function draft(rec: ExtractedRecord): Template {
     while (p < hi) {
       const s = paras[p]!;
       const isEl = EL_RE.test(s) || /^\[(\d+[A-Z]?|\(\d+\/\d+\))\. /.test(s);
+      // labeled alternatives: <Alternative 1A—…> [1A. …] [OR] <Alternative 1B—…> [1B. …]
+      if (ALT_NOTE.test(s)) {
+        const g = parseGroup(p);
+        if (g) {
+          list ??= [];
+          list.push(g.group);
+          p = g.next;
+          continue;
+        }
+      }
       // element list items
       if (isEl || CONJ.has(s) || s === "[AND" || s === "[OR") {
         list ??= [];
+        if ((s === "[AND" || s === "[OR") && ALT_NOTE.test(paras[p + 1] ?? "")) {
+          // [AND <Alternative …> [3. …] <Alternative …> [3. …]]: an optional group
+          let close = -1;
+          try {
+            close = bracketSpan(paras, p);
+          } catch {
+            /* reported below */
+          }
+          if (close > p && paras[close]!.endsWith("]]")) {
+            const saved = paras[close]!;
+            paras[close] = saved.slice(0, -1);
+            const g = parseGroup(p + 1, close + 1);
+            paras[close] = saved;
+            if (g && g.next === close + 1) {
+              g.group.and = s.slice(1);
+              g.group.if = d.q("boolean");
+              list.push(g.group);
+              p = close + 1;
+              continue;
+            }
+          }
+          throw new DraftError("elements", "optional group shape not recognized");
+        }
         if (s === "[AND" || s === "[OR") {
           const next = paras[p + 1];
           if (!next || !next.endsWith("]")) throw new DraftError("elements", "unclosed [AND");
@@ -300,14 +440,25 @@ function draft(rec: ExtractedRecord): Template {
           p += 2;
           continue;
         }
+        if (CONJ.has(s) && ALT_NOTE.test(paras[p + 1] ?? "")) {
+          const g = parseGroup(p + 1);
+          if (!g) throw new DraftError("elements", "group after conjunction not recognized");
+          g.group.and = s;
+          list.push(g.group);
+          p = g.next;
+          continue;
+        }
         if (CONJ.has(s)) {
           const next = paras[p + 1];
           if (!next || !(EL_RE.test(next) || next.startsWith("["))) {
             throw new DraftError("elements", `conjunction not followed by an element`);
           }
-          if (next.startsWith("[") && next.endsWith("]")) {
-            list.push(parseElement(next.slice(1, -1), d.q("boolean"), s));
-          } else list.push(parseElement(next, undefined, s));
+          if (next.startsWith("[") && next.endsWith("]") && bracketSpan(paras, p + 1) === p + 1) {
+            const e = parseElement(next.slice(1, -1), d.q("boolean"), s);
+            e.andOutside = true;
+            list.push(e);
+          } else if (EL_RE.test(next)) list.push(parseElement(next, undefined, s));
+          else throw new DraftError("elements", "conjunction not followed by an element");
           p += 2;
           continue;
         }
@@ -503,4 +654,4 @@ function main(): void {
   if (reportPath) writeFileSync(reportPath, JSON.stringify({ summary, results }, null, 2) + "\n");
 }
 
-main();
+if (import.meta.filename === process.argv[1]) main();

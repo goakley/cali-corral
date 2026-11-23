@@ -41,6 +41,7 @@ export function markupProblems(t: Template, input: RenderInput): string[] {
       list,
       (e) => e.if === undefined || evalCondition(e.if, ctx),
       (g) => {
+        if (g.if !== undefined && !evalCondition(g.if, ctx)) return [];
         const q = qs.get(g.alt);
         const a = input.answers[g.alt];
         if (!q || q.type === "boolean") return [];
@@ -53,13 +54,14 @@ export function markupProblems(t: Template, input: RenderInput): string[] {
       const last = i === pos.length - 1;
       const els: Element[] =
         x.kind === "element" ? [x.e] : x.selected.flatMap((k) => x.g.options[k]!.elements);
-      for (const e of els) {
-        const end = computeEnd(e.end, last);
+      // In a group, only the final element of the final alternative can end the list.
+      els.forEach((e, k) => {
+        const end = computeEnd(e.end, last && k === els.length - 1);
         if (e.end === ";" && end !== ";")
           p.push(`element ${e.n}: printed ";" but it is the last element`);
         if (e.end === "." && end !== ".")
           p.push(`element ${e.n}: printed "." but it is not the last element`);
-      }
+      });
       if (x.kind !== "element") return;
       const e = x.e;
       // The engine shows a conjunction only where one is printed.

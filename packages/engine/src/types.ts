@@ -226,12 +226,20 @@ export type ElementItem = Element | NoteBlock | ElementGroup;
  * Jury numbering: the group occupies one element position N. With one
  * alternative selected, its elements are numbered as ordinary consecutive
  * elements. With several, each element keeps its printed label re-based on N
- * ("1A", "1Bi") and the alternatives are separated by the conjunction.
+ * ("1A", "1Bi") and the alternatives are separated by the conjunction. When
+ * the group is the last position, its final element takes the list's final
+ * punctuation and the group's printed conjunction goes before it.
  */
-export interface ElementGroup {
+export interface ElementGroup extends Unbalanced {
   alt: string;
   or?: string;
   options: ElementAlternative[];
+  /** Conjunction printed before the group, as for an element. */
+  and?: string;
+  /** Conjunction printed as its own line before the group's brackets. */
+  andOutside?: true;
+  /** The whole group is optional: source wraps conjunction + group in brackets. */
+  if?: Condition;
 }
 
 export interface ElementAlternative extends Unbalanced {
