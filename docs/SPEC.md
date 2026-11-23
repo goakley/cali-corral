@@ -305,7 +305,7 @@ Some official markup doesn't fully determine the jury text. The engine resolves 
 
 1. **Series connectors.** `[,]`, `[or]` and `[and]` are punctuation for whichever items are kept, not tied to the item they are printed beside (`[and]` is often printed only before the last item). With comma connectors, the conjunction goes before the last selected item, with commas after each non-last item when three or more are selected. Without them, the conjunction repeats ("A or B or C").
 2. **Capitalization.** The first letter of every paragraph and element is capitalized, so a lowercase alternative chosen first reads correctly.
-3. **Element lists.** Kept elements are numbered 1…n. Printed `;`, `.` and `(;/.)` ends become `;` on every element but the last and `.` on the last. The list's conjunction (AND, OR) goes before the last element when there are at least two, but only if CALCRIM prints a conjunction before that element (`AND`, `[AND]`, or `[AND` inside its brackets). If an optional last element and its `[AND]` are dropped, no AND is added before the new last element (refinement, 2026-11-22, for closeness to the printed text; the attorney-approved rule had no such limit).
+3. **Element lists.** Kept elements are numbered 1…n. Printed `;`, `.` and `(;/.)` ends become `;` on every element but the last and `.` on the last. The list's conjunction (AND, OR) goes before the last element when there are at least two, but only if CALCRIM prints a conjunction before that element (`AND`, `[AND]`, or `[AND` inside its brackets). If an optional last element and its `[AND]` are dropped, no AND is added before the new last element (refinement approved by the reviewing attorney, 2026-11-22: an AND is used only where printed, never added).
 4. **AND inside an optional element** (`[AND` … `4. …]`) is used only when that element is last, like `[AND]`.
 5. **Alternative element groups.** With one alternative selected, its elements are numbered as ordinary consecutive elements (with only 1B chosen, 1Bi and 1Bii become elements 1 and 2). With several selected, each keeps its printed label re-based on the group's number (1A, 1Bi), and the alternatives are joined by the group's conjunction.
 6. **Computed punctuation with nothing selected.** `[or socioeconomic status] (./,)` renders no punctuation when its item is omitted.
@@ -315,7 +315,7 @@ Some official markup doesn't fully determine the jury text. The engine resolves 
 
 10. **Commas around omitted text.** When CALCRIM prints a comma both before and after an optional phrase ("of ______), [or to find … true], that person") and the phrase is left out, the second comma is dropped, so the jury text reads "of battery, that person" rather than "of battery,, that person". This happens only when omitted text lay between the two commas. A comma pair CALCRIM prints itself is kept. (Added 2026-11-22 during drafting; needed by 28 instructions; approved by the reviewing attorney, 2026-11-22.)
 
-**A practicing attorney reviewed and approved rules 1–10 on 2026-11-22**, except the refinement in rule 3, which is still pending (QUESTIONS.md Q5) (technical design §12). This is the rendering-rules part of Gate 0. Any change to a rule needs the same sign-off again, and every affected render is regenerated.
+**A practicing attorney reviewed and approved rules 1–10 on 2026-11-22**, including the refinement in rule 3 (technical design §12). This is the rendering-rules part of Gate 0. Any change to a rule needs the same sign-off again, and every affected render is regenerated.
 
 ### Verification
 
