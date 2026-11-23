@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1903",
   "title": "Forgery by Altering or Falsifying Will or Other Legal Document (Pen. Code, § 470(c))",
   "source": {
@@ -29,13 +29,13 @@
     "[The People allege that the defendant (altered[,]/[or] corrupted[,]/[or] falsified) the following documents: ______ <insert description of each document when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (altered[,]/[or] corrupted[,]/[or] falsified) at least one of these documents and you all agree on which document (he/she) (altered[,]/[or] corrupted[,]/[or] falsified).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

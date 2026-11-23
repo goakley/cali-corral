@@ -1,0 +1,32 @@
+{
+  "answers": {
+    "murder": [
+      "o1",
+      "o2"
+    ],
+    "suddenly_provoked_by": [
+      "o1",
+      "o2"
+    ],
+    "that_is_inherently_deadly": true,
+    "dangerous_weapon_is_any": true,
+    "object_is_inherently_deadly": true,
+    "great_bodily_injury_means": true
+  },
+  "people": {
+    "decedent": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "defendant": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

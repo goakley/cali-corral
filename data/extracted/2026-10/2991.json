@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2991",
   "title": "Pool Selling (Pen. Code, § 337a(a)(1))",
   "source": {
@@ -24,12 +24,12 @@
     "The defendant does not need to be involved in selling or distributing shares or chances as a business or occupation. A single act that violates the statute is sufficient. [It is not necessary that the event that is the subject of a betting pool actually take place.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

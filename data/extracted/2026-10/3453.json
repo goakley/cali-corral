@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3453",
   "title": "Extension of Commitment (Pen. Code, § 1026.5(b)(1))",
   "source": {
@@ -32,7 +32,7 @@
   ],
   "body_indents": [
     0.0,
-    0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
@@ -43,7 +43,7 @@
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

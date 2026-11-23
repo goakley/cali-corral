@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2841",
   "title": "No Deductions on Gross Income From Illegal Conduct (Rev. & Tax. Code, § 17282(a))",
   "source": {
@@ -21,9 +21,9 @@
     "[Prohibited deductions include deductions for cost of goods sold.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1036",
   "title": "Sodomy by Fraud (Pen. Code, § 286(j))",
   "source": {
@@ -25,13 +25,13 @@
     "*Sodomy* is any penetration, no matter how slight, of the anus of one person by the penis of another person. [Ejaculation is not required.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

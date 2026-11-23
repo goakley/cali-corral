@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "983",
   "title": "Brandishing Firearm or Deadly Weapon: Misdemeanor (Pen. Code, § 417(a)(1) & (2))",
   "source": {
@@ -36,8 +36,8 @@
     "[It is not required that the firearm be loaded.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     16.0,
@@ -47,9 +47,9 @@
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

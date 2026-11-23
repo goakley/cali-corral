@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "801",
   "title": "Mayhem (Pen. Code, § 203)",
   "source": {
@@ -33,8 +33,8 @@
     "[A disfiguring injury may be *permanent* even if it can be repaired by medical procedures.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     15.0,
     16.0,
     15.0,
@@ -46,8 +46,8 @@
     15.0,
     16.0,
     15.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

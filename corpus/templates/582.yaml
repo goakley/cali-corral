@@ -1,0 +1,106 @@
+# CALCRIM No. 582. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "582"
+title: "Involuntary Manslaughter: Failure to Perform Legal Duty—Murder Not Charged (Pen. Code, § 192(b))"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised September 2020, October 2021, October 2025"
+  body_sha256: d0dbfce41ee2a4df6eff5f10ebc9cb98eadb12d263c695cf739644f8446b43ee
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 192(b)”?"
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: "A" }, { id: o2, label: "An" } ]
+    articleFor: "text.description_person_owing_duty"
+    prompt: "Choose one"
+  - id: help_care_for_rescue
+    type: choice
+    options:
+      - { id: o1, label: help }
+      - { id: o2, label: "care for" }
+      - { id: o3, label: rescue }
+      - { id: o4, label: warn }
+      - { id: o5, label: "maintain the property of" }
+      - { id: o6, label: "___" }
+    prompt: "Choose one"
+  - id: great_bodily_injury_means
+    type: boolean
+    prompt: "Include “Great bodily injury means significant or substantial physical injury.…”?"
+  - id: act_causes_death_if
+    type: boolean
+    prompt: "Include “An act causes death if the death is the direct, natural, and probable…”?"
+  - id: there_may_be_more
+    type: boolean
+    prompt: "Include “There may be more than one cause of death. An act causes death, only…”?"
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with involuntary manslaughter "
+    - opt: [ "in violation of Penal Code section 192", "(", b, ")" ]
+      if: in_violation_penal_code
+    - " based on failure to perform a legal duty."
+  - [ "To prove that the defendant is guilty of this crime, the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant had a legal duty to "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+        end: ";"
+      - { n: "2", text: [ "The defendant failed to perform that legal duty" ], end: ";" }
+      - { n: "3", text: [ "The defendant’s failure was criminally negligent" ], end: ";" }
+      - n: "4"
+        text:
+          - "The defendant’s failure caused the death of "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+        end: "."
+        and: "AND"
+  - - { choice: a_or_an, options: [ [ "A" ], [ "An" ] ] }
+    - " "
+    - field: "text.description_person_owing_duty"
+      hint: "insert description of person owing duty"
+    - " has a legal duty to "
+    - choice: help_care_for_rescue
+      options:
+        - [ help ]
+        - [ "care for" ]
+        - [ rescue ]
+        - [ warn ]
+        - [ "maintain the property of" ]
+        - [ { field: "text.other_required_action_s", hint: "insert other required action[s]" } ]
+    - " "
+    - field: "text.description_decedent_not_name"
+      hint: "insert description of decedent, not name"
+    - "."
+  - - { em: "Criminal negligence" }
+    - " involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with criminal negligence when:"
+  - elements:
+      - n: "1"
+        text:
+          - "He or she acts in a reckless way that creates a high risk of death or great bodily injury"
+        end: ";"
+      - n: "2"
+        text: [ "A reasonable person would have known that acting in that way would create such a risk" ]
+        end: "."
+        and: "AND"
+  - - "In other words, a person acts with criminal negligence when the way he or she acts is so different from how an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act."
+  - - opt:
+        - { em: "Great bodily injury" }
+        - " means significant or substantial physical injury. It is an injury that is greater than moderate harm."
+      if: great_bodily_injury_means
+  - - opt:
+        - "An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A "
+        - { em: "natural and probable consequence" }
+        - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+      if: act_causes_death_if
+  - - opt:
+        - "There may be more than one cause of death. An act causes death, only if it is a substantial factor in causing the death. A "
+        - { em: "substantial factor" }
+        - " is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death."
+      if: there_may_be_more
+people: { decedent: { label: "Decedent", uses: [ name ] } }

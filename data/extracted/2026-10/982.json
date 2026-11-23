@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "982",
   "title": "Brandishing Firearm or Deadly Weapon to Resist Arrest (Pen. Code, § 417.8)",
   "source": {
@@ -31,14 +31,14 @@
     "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

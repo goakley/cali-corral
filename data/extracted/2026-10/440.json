@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "440",
   "title": "Accessories (Pen. Code, § 32)",
   "source": {
@@ -26,14 +26,14 @@
     "[To decide whether the perpetrator committed the (felony/felonies) of ______ <insert offense[s]>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s].]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

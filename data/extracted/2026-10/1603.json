@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1603",
   "title": "Robbery: Intent of Aider and Abettor",
   "source": {
@@ -20,8 +20,8 @@
     "A perpetrator has reached a place of temporary safety with the property if he or she has successfully escaped from the scene, is no longer being pursued, and has unchallenged possession of the property."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

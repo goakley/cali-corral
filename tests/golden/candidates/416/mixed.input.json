@@ -1,0 +1,45 @@
+{
+  "answers": {
+    "the_or_a": "o1",
+    "one_more": false,
+    "other_defendant_s": [
+      "o1"
+    ],
+    "one": "o2",
+    "choice": true,
+    "or": false,
+    "choice_2": true,
+    "both_all": "o2",
+    "both_all_them": true,
+    "at_least_one": false,
+    "at_least_one_these_2": "o1",
+    "at_least_one_these": false,
+    "this_these": "o1",
+    "will_give_have_given": "o2",
+    "that_one_more_those": "o1",
+    "you_must_all_agree": false,
+    "you_must_decide_as": true,
+    "people_contend_that_defendant": false,
+    "you_must_also_all": true,
+    "member_conspiracy_does_not": false,
+    "someone_who_merely_accompanies": true,
+    "evidence_that_person_did": false,
+    "member_plural": true,
+    "act_plural": false,
+    "crime_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "alleged_crime_s": "example alleged crime s",
+    "alleged_overt_acts": "example alleged overt acts",
+    "name_s_description_s": "example name s description s"
+  }
+}

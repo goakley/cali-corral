@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2966",
   "title": "Disorderly Conduct: Under the Influence in Public (Pen. Code, § 647(f))",
   "source": {
@@ -29,8 +29,8 @@
     "As used here, a *public place* is a place that is open and accessible to anyone who wishes to go there."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -38,7 +38,7 @@
     15.0,
     16.0,
     15.0,
-    0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

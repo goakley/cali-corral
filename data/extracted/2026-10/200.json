@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "200",
   "title": "Duties of Judge and Jury",
   "source": {
@@ -25,13 +25,13 @@
     "Some of these instructions may not apply, depending on your findings about the facts of the case. [Do not assume just because I give a particular instruction that I am suggesting anything about the facts.] After you have decided what the facts are, follow the instructions that do apply to the facts as you find them."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

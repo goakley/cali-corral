@@ -1,0 +1,30 @@
+{
+  "answers": {
+    "in_count": true,
+    "attempted_commit": true,
+    "attempting_commit": true,
+    "an_or_the": "o2",
+    "who_was_actual_killer": true,
+    "will_give_have_given": "o2",
+    "felony_felonies": "o2",
+    "defendant_must_have_intended": true,
+    "crime_continues_until_defendant": true,
+    "it_is_not_required": true,
+    "victim_intended_victim": "o2",
+    "it_is_not_required_2": true,
+    "act_plural": true,
+    "crime_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "felony_felonies_from_pen": "example felony felonies from pen"
+  }
+}

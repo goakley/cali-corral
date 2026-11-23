@@ -1,0 +1,21 @@
+{
+  "answers": {
+    "in_count": false,
+    "defendant_is_charged_in": false,
+    "person_who_attempts_commit": false,
+    "will_give_have_given": "o1",
+    "defendant_may_be_guilty": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "target_offense": "example target offense"
+  }
+}

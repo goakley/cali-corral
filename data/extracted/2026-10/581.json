@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "581",
   "title": "Involuntary Manslaughter: Murder Not Charged (Pen. Code, § 192(b))",
   "source": {
@@ -36,24 +36,24 @@
     "[The People allege that the defendant committed the following (crime[s]/[and] lawful act[s] with criminal negligence): ______ <insert alleged predicate acts when multiple acts alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant committed at least one of these alleged acts and you all agree on which act (he/she) committed.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

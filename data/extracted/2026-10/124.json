@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "124",
   "title": "Separation Admonition",
   "source": {
@@ -21,9 +21,9 @@
     "Do not make up your mind or express any opinion about the case or any issue connected with the trial until after you have discussed the case with the other jurors during deliberations."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

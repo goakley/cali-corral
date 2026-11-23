@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1860",
   "title": "Owner’s Opinion of Value",
   "source": {
@@ -19,7 +19,7 @@
     "A witness gave (his/her) opinion of the value of the property (he/she) [allegedly] owned. In considering the opinion, you may but are not required to accept it as true or correct. Consider the reasons the witness gave for any opinion, the facts or information on which (he/she) relied in forming that opinion, and whether the information on which the witness relied was true and accurate. You may disregard all or any part of an opinion that you find unbelievable or unreasonable. You may give the opinion whatever weight, if any, you believe it deserves."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

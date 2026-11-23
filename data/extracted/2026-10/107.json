@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "107",
   "title": "Pro Per Defendant",
   "source": {
@@ -20,8 +20,8 @@
     "The court applies the rules of evidence and procedure to a (self-represented defendant/______ <insert name[s] of self-represented defendant[s]>)."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3518",
   "title": "Deliberations and Completion of Verdict Forms: For Use When Lesser Included Offenses and Greater Crimes Are Not Separately Charged and Jury Is Given Only One Not Guilty Verdict Form for Each Count (Non-Homicide)",
   "source": {
@@ -30,18 +30,18 @@
     "Whenever I tell you the People must prove something, I mean they must prove it beyond a reasonable doubt [unless I specifically tell you otherwise]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

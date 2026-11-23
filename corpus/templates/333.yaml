@@ -22,8 +22,8 @@ questions:
   - id: who_was_were_not
     type: boolean
     prompt: "Include “, who (was/were) not testifying as [an] expert[s],”?"
-  - { id: expert_plural, type: boolean, prompt: "More than one expert?" }
-  - { id: opinion_plural, type: boolean, prompt: "More than one opinion?" }
+  - { id: expert_plural, type: boolean, prompt: "Include the “s” in “expert[s]”?" }
+  - { id: opinion_plural, type: boolean, prompt: "Include the “s” in “opinion[s]”?" }
 body:
   - - { choice: witness_witnesses, options: [ [ "A witness" ], [ "Witnesses" ] ] }
     - opt:

@@ -1,0 +1,16 @@
+{
+  "answers": {
+    "if_defendant_intended_kill": true,
+    "if_defendant_intended_kill_2": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

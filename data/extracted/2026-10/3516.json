@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3516",
   "title": "Multiple Counts: Alternative Charges for One Event—Dual Conviction Prohibited",
   "source": {
@@ -22,10 +22,10 @@
     "[The defendant is charged in Count ______ with ______ <insert theft offense> and in Count ______ with ______ <insert receiving stolen property offense>. You must first decide whether the defendant is guilty of ______ <insert name of theft offense>. If you find the defendant guilty of ______ <insert name of theft offense>, you must return the verdict form for ______ <insert name of receiving stolen property offense> unsigned. If you find the defendant not guilty of ______ <insert theft offense> you must then decide whether the defendant is guilty of ______ <insert name of receiving stolen property offense>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

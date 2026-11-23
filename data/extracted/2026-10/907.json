@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "907",
   "title": "Assault Committed on Public Transportation Provider’s Property or Vehicle (Pen. Code, §§ 240, 241.3)",
   "source": {
@@ -39,8 +39,8 @@
     "[The property of the transportation provider includes the entire station where public transportation is available and the parking lot reserved for those who use the system.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -50,16 +50,16 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

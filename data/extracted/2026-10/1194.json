@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1194",
   "title": "Consent: Prior Sexual Intercourse",
   "source": {
@@ -19,7 +19,7 @@
     "You have heard evidence that (______ <insert name of complaining witness>/Jane Doe/John Doe) had consensual sexual intercourse with the defendant before the act that is charged in this case. You may consider this evidence only to help you decide (whether the alleged victim consented to the charged act[s]/[and] whether the defendant reasonably and in good faith believed that (______ <insert name of complaining witness>/Jane Doe/John Doe) consented to the charged act[s]). Do not consider this evidence for any other purpose."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

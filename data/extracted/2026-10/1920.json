@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1920",
   "title": "Falsifying, Altering, or Counterfeiting a Driver’s License (Pen. Code, § 470a)",
   "source": {
@@ -28,12 +28,12 @@
     "[The People allege that the defendant (altered[,]/[or] falsified[,]/[or] forged[,]/[or] duplicated[,]/[or] reproduced[,]/[or] counterfeited) the following documents: ______ <insert description of each document when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant (altered[,]/[or] falsified[,]/[or] forged[,]/[or] duplicated[,]/[or] reproduced[,]/[or] counterfeited) at least one of these documents and you all agree on which document (he/she) (altered[,]/[or] falsified[,]/[or] forged[,]/[or] duplicated[,]/[or] reproduced[,]/[or] counterfeited).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

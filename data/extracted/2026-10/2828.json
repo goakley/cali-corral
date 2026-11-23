@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2828",
   "title": "Failure to Withhold Tax (Rev. & Tax. Code, §§ 19708, 19709)",
   "source": {
@@ -25,13 +25,13 @@
     "[The People do not have to prove the exact amount owed. The People must prove beyond a reasonable doubt that the amount the defendant failed to (withhold/collect, or truthfully account for,) and pay to the Franchise Tax Board was substantial.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1225",
   "title": "Defense to Kidnapping: Protecting Child From Imminent Harm (Pen. Code, § 207(f)(1))",
   "source": {
@@ -21,9 +21,9 @@
     "[The People have the burden of proving beyond a reasonable doubt that the defendant did not act to protect the child from the danger of imminent harm. If the People have not met this burden, you must find the defendant not guilty of kidnapping.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,0 +1,157 @@
+# CALCRIM No. 525. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "525"
+title: "Second Degree Murder: Discharge From Motor Vehicle (Pen. Code, § 190(d))"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised September 2020, October 2025"
+  body_sha256: "27571c9aeb72caac99355e4aac7a9f1b8afe491acae7a36ffd63d941ee1c0aee"
+review: "machine-checked"
+questions:
+  - id: as_charged_in_count
+    type: boolean
+    prompt: "Include “as charged in Count ___”?"
+  - id: defendant
+    type: choice
+    options: [ { id: o1, label: "The defendant" }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: defendant_2
+    type: choice
+    options: [ { id: o1, label: "the defendant" }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: firearm_is_any_device
+    type: boolean
+    prompt: "Include “A firearm is any device designed to be used as a weapon, from which a…”?"
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    prompt: "Choose one"
+  - id: passenger_vehicle_motorcycle_motor
+    type: choice
+    options:
+      - { id: o1, label: "passenger vehicle" }
+      - { id: o2, label: motorcycle }
+      - { id: o3, label: "motor scooter" }
+      - { id: o4, label: bus }
+      - { id: o5, label: "school bus" }
+      - { id: o6, label: "commercial vehicle" }
+      - { id: o7, label: "truck tractor and trailer" }
+      - { id: o8, label: "___" }
+    prompt: "Choose one"
+  - id: motor_vehicle_includes_passenger
+    type: boolean
+    prompt: "Include “A motor vehicle includes (a/an) (passenger vehicle/motorcycle/motor s…”?"
+  - id: great_bodily_injury_means
+    type: boolean
+    prompt: "Include “Great bodily injury means significant or substantial physical injury.…”?"
+  - id: great_bodily_injury
+    type: multi
+    options:
+      - { id: o1, label: "great bodily injury" }
+      - { id: o2, label: firearm }
+      - { id: o3, label: "motor vehicle" }
+    prompt: "Which apply? (one or more)"
+  - id: term_s_great_bodily
+    type: boolean
+    prompt: "Include “The term[s] (great bodily injury[,]/firearm[,]/[and] motor vehicle) (…”?"
+  - id: he_she
+    type: choice
+    options: [ { id: o1, label: "he/she" }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: people_must_prove_that
+    type: boolean
+    prompt: "Include “The People must prove that the defendant intended that the person sho…”?"
+  - { id: term_plural, type: boolean, prompt: "Include the “s” in “term[s]”?" }
+body:
+  - - "If you find the defendant guilty of second degree murder "
+    - { opt: [ "as charged in Count ", { field: count } ], if: as_charged_in_count }
+    - ", you must then decide whether the People have proved the additional allegation that the murder was committed by shooting a firearm from a motor vehicle."
+  - [ "To prove this allegation, the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text:
+          - choice: defendant
+            options:
+              - [ "The defendant" ]
+              - - field: "text.name_description_principal_if"
+                  hint: "insert name or description of principal if not defendant"
+          - " killed a person by shooting a firearm from a motor vehicle"
+        end: ";"
+      - n: "2"
+        text:
+          - choice: defendant
+            options:
+              - [ "The defendant" ]
+              - - field: "text.name_description_principal_if"
+                  hint: "insert name or description of principal if not defendant"
+          - " intentionally shot at a person who was outside the vehicle"
+        end: ";"
+      - n: "3"
+        text:
+          - "When "
+          - choice: defendant_2
+            options:
+              - [ "the defendant" ]
+              - - field: "text.name_description_principal_if"
+                  hint: "insert name or description of principal if not defendant"
+          - " shot a firearm, "
+          - choice: defendant_2
+            options:
+              - [ "the defendant" ]
+              - - field: "text.name_description_principal_if"
+                  hint: "insert name or description of principal if not defendant"
+          - " intended to inflict great bodily injury on the person outside the vehicle"
+        end: "."
+        and: "AND"
+  - - opt:
+        - "A "
+        - { em: firearm }
+        - " is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion."
+      if: firearm_is_any_device
+  - - opt:
+        - "A "
+        - { em: "motor vehicle" }
+        - " includes "
+        - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+        - " "
+        - choice: passenger_vehicle_motorcycle_motor
+          options:
+            - [ "passenger vehicle" ]
+            - [ motorcycle ]
+            - [ "motor scooter" ]
+            - [ bus ]
+            - [ "school bus" ]
+            - [ "commercial vehicle" ]
+            - [ "truck tractor and trailer" ]
+            - [ { field: "text.other_type_motor_vehicle", hint: "insert other type of motor vehicle" } ]
+        - "."
+      if: motor_vehicle_includes_passenger
+  - - opt:
+        - { em: "Great bodily injury" }
+        - " means significant or substantial physical injury. It is an injury that is greater than moderate harm."
+      if: great_bodily_injury_means
+  - - opt:
+        - "The term"
+        - { opt: [ s ], if: term_plural }
+        - " "
+        - any: great_bodily_injury
+          options:
+            - [ { em: "great bodily injury" }, { sep: "," } ]
+            - [ { em: firearm }, { sep: "," } ]
+            - [ { sep: and }, " ", { em: "motor vehicle" } ]
+        - " "
+        - { when: [ "!term_plural", term_plural ], options: [ is, are ] }
+        - " defined in another instruction to which you should refer."
+      if: term_s_great_bodily
+  - - opt:
+        - "The People must prove that the defendant intended that the person shot at suffer great bodily injury when "
+        - choice: he_she
+          options:
+            - [ { pronoun: defendant, forms: [ he, she ], bare: true } ]
+            - - field: "text.name_description_principal_if"
+                hint: "insert name or description of principal if not defendant"
+        - " shot from the vehicle. However, the People do not have to prove that the defendant intended to injure the specific person who was actually killed."
+      if: people_must_prove_that
+  - - "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."

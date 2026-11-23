@@ -1,0 +1,123 @@
+# CALCRIM No. 595. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "595"
+title: "Vehicular Manslaughter: Speeding Laws Defined"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: df6d1858b0be7ec02a1f423e4d5604bd49e10abd3c764fda24ed13db28c2ad6d
+review: "machine-checked"
+questions:
+  - id: q_65_55
+    type: choice
+    options: [ { id: o1, label: "65" }, { id: o2, label: "55" }, { id: o3, label: "___" } ]
+    prompt: "Choose one"
+  - id: term_highway_describes_any
+    type: boolean
+    prompt: "Include “The term highway describes any area publicly maintained and open to t…”?"
+  - id: prove_that_defendant_committed
+    type: boolean
+    prompt: "Give the paragraph beginning “To prove that the defendant committed a violation of the ma…”?"
+  - id: faster_than_reasonable
+    type: multi
+    options:
+      - id: o1
+        label: "faster than a reasonable person would have driven considering the weather, visi…"
+      - { id: o2, label: "at a speed that endangered the safety of other people or property" }
+    prompt: "Which apply? (one or more)"
+  - id: prove_that_defendant_committed_2
+    type: boolean
+    prompt: "Give the paragraph beginning “To prove that the defendant committed a violation of the ba…”?"
+  - id: q_15_25
+    type: choice
+    options: [ { id: o1, label: "15" }, { id: o2, label: "25" } ]
+    prompt: "Choose one"
+  - id: element_4
+    type: boolean
+    prompt: "Include element 4 (“The defendant’s rate of speed was faster than a r…”)?"
+  - id: when_determining_whether_defendant
+    type: boolean
+    prompt: "Give the paragraph beginning “When determining whether the defendant drove faster than a…”?"
+  - id: prove_that_defendant_committed_3
+    type: boolean
+    prompt: "Give the paragraph beginning “To prove that the defendant committed a violation of the pr…”?"
+body:
+  - note: "A. Violation of Maximum Speed Law, Veh. Code, § 22349"
+    governs: [ prove_that_defendant_committed ]
+  - opt:
+      - - "To prove that the defendant committed a violation of the maximum speed law, the People must prove that:"
+      - elements:
+          - { n: "1", text: [ "The defendant drove a vehicle on a highway" ], end: ";" }
+          - n: "2"
+            text:
+              - "The defendant drove faster than "
+              - choice: q_65_55
+                options:
+                  - [ "65" ]
+                  - [ "55" ]
+                  - [ { field: "text.other_posted_speed_limit", hint: "insert other posted speed limit" } ]
+              - " mph"
+            end: "."
+            and: "AND"
+      - - opt:
+            - "The term "
+            - { em: highway }
+            - " describes any area publicly maintained and open to the public for purposes of vehicular travel and includes a street."
+          if: term_highway_describes_any
+    if: prove_that_defendant_committed
+  - note: "B. Violation of Basic Speed Law, Veh. Code, § 22350"
+    governs: [ prove_that_defendant_committed_2 ]
+  - opt:
+      - - "To prove that the defendant committed a violation of the basic speed law, the People must prove that:"
+      - elements:
+          - { n: "1", text: [ "The defendant drove a vehicle on a highway" ], end: ";" }
+          - n: "2"
+            text:
+              - "The defendant drove "
+              - any: faster_than_reasonable
+                options:
+                  - - "faster than a reasonable person would have driven considering the weather, visibility, traffic, and conditions of the highway"
+                  - [ { sep: or }, " at a speed that endangered the safety of other people or property" ]
+            end: "."
+            and: "AND"
+      - - "The speed of travel, alone, does not establish whether a person did or did not violate the basic speed law. When determining whether the defendant violated the basic speed law, consider not only the speed, but also all the surrounding conditions known by the defendant and also what a reasonable person would have considered a safe rate of travel given those conditions."
+      - - opt:
+            - "The term "
+            - { em: highway }
+            - " describes any area publicly maintained and open to the public for purposes of vehicular travel and includes a street."
+          if: term_highway_describes_any
+    if: prove_that_defendant_committed_2
+  - note: "C. Violation of Prima Facie Speed Law, Veh. Code, §§ 22351, 22352"
+    governs: [ prove_that_defendant_committed_3 ]
+  - opt:
+      - - "To prove that the defendant committed a violation of the prima facie speed law, the People must prove that:"
+      - elements:
+          - { n: "1", text: [ "The defendant drove a vehicle on a highway" ], end: ";" }
+          - n: "2"
+            text: [ "The defendant drove faster than ", { choice: q_15_25, options: [ [ "15" ], [ "25" ] ] }, " mph" ]
+            end: ";"
+          - n: "3"
+            text:
+              - "The defendant drove "
+              - field: "text.appropriate_description_from_veh"
+                hint: "insert appropriate description from Veh. Code, § 22352 of area where alleged violation occurred"
+            end: "(;/.)"
+            and: "[AND]"
+          - n: "4"
+            text:
+              - "The defendant’s rate of speed was faster than a reasonable person would have driven considering the weather, visibility, traffic, and conditions of the highway"
+            end: "."
+            and: "AND"
+            if: element_4
+      - - opt:
+            - "The term "
+            - { em: highway }
+            - " describes any area publicly maintained and open to the public for purposes of vehicular travel and includes a street."
+          if: term_highway_describes_any
+      - opt:
+          - - "When determining whether the defendant drove faster than a reasonable person would have driven, consider not only the speed, but also all the surrounding conditions known by the defendant and also what a reasonable person would have considered a safe rate of travel given those conditions."
+          - - "The People have the burden of proving beyond a reasonable doubt that the defendant’s rate of travel was not reasonable given the overall conditions, even if the rate of travel was faster than the prima facie speed law. If the People have not met this burden, you must find the defendant did not violate the prima facie speed law."
+        if: when_determining_whether_defendant
+    if: prove_that_defendant_committed_3

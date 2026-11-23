@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2351",
   "title": "Offering to Sell, Furnish, etc., Cannabis (Health & Saf. Code, § 11360)",
   "source": {
@@ -32,20 +32,20 @@
     "[The People do not need to prove that the defendant actually possessed the cannabis.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

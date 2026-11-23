@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3501",
   "title": "Unanimity: When Generic Testimony of Offense Presented",
   "source": {
@@ -23,8 +23,8 @@
     "2. You all agree that the People have proved that the defendant committed all the acts alleged to have occurred during this time period [and have proved that the defendant committed at least the number of offenses charged]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2826",
   "title": "Willful Failure to Pay Tax (Rev. & Tax. Code, § 19701(c))",
   "source": {
@@ -25,13 +25,13 @@
     "[The People do not have to prove the exact amount of (unreported income/[or] [additional] tax owed). The People must prove beyond a reasonable doubt that the defendant (failed to report a substantial amount of income/[or] owed a substantial amount in [additional] taxes).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

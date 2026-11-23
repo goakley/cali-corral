@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2960",
   "title": "Possession of Alcoholic Beverage by Person Under 21 (Bus. & Prof. Code, § 25662(a))",
   "source": {
@@ -29,17 +29,17 @@
     "[The defendant did not unlawfully possess an alcoholic beverage if (he/she) was following, in a timely manner, the reasonable instructions of (his/her) (parent/legal guardian/responsible adult relative/employer/______ <insert name or description of person designated by parent or legal guardian>) to deliver [or dispose of] the alcoholic beverage. The People have the burden of proving beyond a reasonable doubt that the defendant was not following such instructions. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

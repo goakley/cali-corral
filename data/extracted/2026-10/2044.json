@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2044",
   "title": "False Personation (Pen. Code, § 529(a))",
   "source": {
@@ -19,29 +19,29 @@
     "The defendant is charged [in Count ______] with falsely impersonating another person in that person’s private or official capacity and performing certain acts [in violation of Penal Code section 529(a)].",
     "To prove that the defendant is guilty of this crime, the People must prove that:",
     "1. The defendant falsely impersonated another person in the other person’s private or official capacity;",
-    "1. AND",
+    "AND",
     "2. While falsely impersonating that person, the defendant:",
-    "2. [A. Posted bail or acted as surety for anyone in any proceeding, before any judge or officer authorized to take that bail or surety(;/.)]",
-    "2. [OR]",
-    "2. [B(1). Verified, published, acknowledged, or proved, in the name of that person, any written document;",
-    "2. AND",
-    "2. B(2). When the defendant did so, (he/she) intended that the written document be recorded, delivered, or used as though it were an authentic document(./;)]",
-    "2. [OR]",
-    "2. [C. Did any act that, if done by the person being falsely impersonated, might cause (that person to be liable in a lawsuit or criminal prosecution/[or] that person to pay any amount of money/[or] that person to be subject to any charge, forfeiture, or penalty/[or] the defendant or anyone else to receive a benefit as a result).]"
+    "[A. Posted bail or acted as surety for anyone in any proceeding, before any judge or officer authorized to take that bail or surety(;/.)]",
+    "[OR]",
+    "[B(1). Verified, published, acknowledged, or proved, in the name of that person, any written document;",
+    "AND",
+    "B(2). When the defendant did so, (he/she) intended that the written document be recorded, delivered, or used as though it were an authentic document(./;)]",
+    "[OR]",
+    "[C. Did any act that, if done by the person being falsely impersonated, might cause (that person to be liable in a lawsuit or criminal prosecution/[or] that person to pay any amount of money/[or] that person to be subject to any charge, forfeiture, or penalty/[or] the defendant or anyone else to receive a benefit as a result).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
+    37.0,
     19.0,
-    19.0,
-    19.0,
-    19.0,
-    19.0,
-    19.0,
-    19.0,
-    19.0,
-    19.0
+    37.0,
+    47.0,
+    37.0,
+    47.0,
+    37.0,
+    47.0,
+    37.0
   ],
   "bench_notes": {
     "bench_notes": [

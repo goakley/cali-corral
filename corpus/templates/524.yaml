@@ -1,0 +1,207 @@
+# CALCRIM No. 524. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "524"
+title: "Second Degree Murder: Peace Officer (Pen. Code, § 190(b), (c))"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2009, February 2013, September 2019, September 2020, March 2022, October 2025"
+  body_sha256: "9e4592b42f3a035fd282d53156178e1fe49ac83bc79636c1c863a390a6d0f398"
+review: "machine-checked"
+questions:
+  - id: as_charged_in_count
+    type: boolean
+    prompt: "Include “as charged in Count ___”?"
+  - id: element_3
+    type: boolean
+    prompt: "Include element 3 (“The defendant (intended to kill the peace officer…”)?"
+  - id: deadly_dangerous_weapon
+    type: multi
+    options: [ { id: o1, label: "deadly or dangerous weapon" }, { id: o2, label: firearm } ]
+    prompt: "Which apply? (one or more)"
+  - id: intended_kill_peace
+    type: multi
+    options:
+      - { id: o1, label: "intended to kill the peace officer" }
+      - { id: o2, label: "intended to inflict great bodily injury on the peace officer" }
+      - id: o3
+        label: "personally used a (deadly or dangerous weapon/[or] firearm) in the commission o…"
+    prompt: "Which apply? (one or more)"
+  - id: great_bodily_injury_means
+    type: boolean
+    prompt: "Include “Great bodily injury means significant or substantial physical injury.…”?"
+  - id: that_is_inherently_deadly
+    type: boolean
+    prompt: "Include “that is inherently deadly or dangerous or one”?"
+  - id: deadly_dangerous_weapon_is
+    type: boolean
+    prompt: "Include “A deadly or dangerous weapon is any object, instrument, or weapon [th…”?"
+  - id: object_is_inherently_deadly
+    type: boolean
+    prompt: "Include “An object is inherently deadly if it is deadly or dangerous in the or…”?"
+  - id: firearm_is_any_device
+    type: boolean
+    prompt: "Include “A firearm is any device designed to be used as a weapon, from which a…”?"
+  - id: deadly_weapon
+    type: multi
+    options: [ { id: o1, label: "deadly weapon" }, { id: o2, label: firearm } ]
+    prompt: "Which apply? (one or more)"
+  - id: someone_personally_uses_deadly
+    type: boolean
+    prompt: "Give the paragraph beginning “Someone personally uses a (deadly weapon/[or] firearm) if h…”?"
+  - id: people_allege_that_defendant
+    type: boolean
+    prompt: "Include “The People allege that the defendant ___. You may not find the defend…”?"
+  - id: person_who_is_employed
+    type: boolean
+    prompt: "Include “A person who is employed as a police officer by ___ is a peace office…”?"
+  - id: person_employed_by_is
+    type: boolean
+    prompt: "Include “A person employed by ___ is a peace officer if ___.”?"
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    articleFor: "text.title_peace_officer"
+    prompt: "Choose one"
+  - id: duties_include
+    type: boolean
+    prompt: "Include “The duties of (a/an) ___ include ___.”?"
+  - id: unlawfully_arresting_detaining
+    type: multi
+    options:
+      - { id: o1, label: "unlawfully arresting or detaining someone" }
+      - { id: o2, label: "using unreasonable or excessive force in his or her duties" }
+    prompt: "Which apply? (one or more)"
+  - id: when_arrest_detention
+    type: multi
+    options:
+      - { id: o1, label: "when an arrest or detention is unlawful" }
+      - { id: o2, label: "when force is unreasonable or excessive" }
+    prompt: "Which apply? (one or more)"
+  - id: peace_officer_is_not
+    type: boolean
+    prompt: "Include “A peace officer is not lawfully performing his or her duties if he or…”?"
+body:
+  - - "If you find the defendant guilty of second degree murder "
+    - { opt: [ "as charged in Count ", { field: count } ], if: as_charged_in_count }
+    - ", you must then decide whether the People have proved the additional allegation that "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " murdered a peace officer."
+  - [ "To prove this allegation the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text:
+          - { field: "officer.name", hint: "insert officer’s name, excluding title" }
+          - " was a peace officer lawfully performing "
+          - { pronoun: officer, forms: [ his, her ] }
+          - " duties as a peace officer"
+        end: ";"
+      - n: "2"
+        text:
+          - "When the defendant killed "
+          - { field: "officer.name", hint: "insert officer’s name, excluding title" }
+          - ", the defendant knew, or reasonably should have known, that "
+          - { field: "officer.name", hint: "insert officer’s name, excluding title" }
+          - " was a peace officer who was performing "
+          - { pronoun: officer, forms: [ his, her ] }
+          - " duties"
+        end: "(;/.)"
+        and: "[AND]"
+      - note: "Give element 3 when defendant charged with Pen. Code, § 190(c)"
+        governs: [ element_3 ]
+      - n: "3"
+        text:
+          - "The defendant "
+          - any: intended_kill_peace
+            options:
+              - [ "intended to kill the peace officer" ]
+              - [ { sep: or }, " intended to inflict great bodily injury on the peace officer" ]
+              - - { sep: or }
+                - " personally used a "
+                - any: deadly_dangerous_weapon
+                  options: [ [ "deadly or dangerous weapon" ], [ { sep: or }, " firearm" ] ]
+                - " in the commission of the offense"
+        end: "."
+        and: "AND"
+        if: element_3
+  - - opt:
+        - { em: "Great bodily injury" }
+        - " means significant or substantial physical injury. It is an injury that is greater than moderate harm."
+      if: great_bodily_injury_means
+  - - opt:
+        - "A "
+        - { em: "deadly or dangerous weapon" }
+        - " is any object, instrument, or weapon "
+        - { opt: [ "that is inherently deadly or dangerous or one" ], if: that_is_inherently_deadly }
+        - " that is used in such a way that it is capable of causing and likely to cause death or great bodily injury."
+      if: deadly_dangerous_weapon_is
+  - - opt:
+        - "An object is "
+        - { em: "inherently deadly" }
+        - " if it is deadly or dangerous in the ordinary use for which it was designed."
+      if: object_is_inherently_deadly
+  - - opt:
+        - "A "
+        - { em: firearm }
+        - " is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion."
+      if: firearm_is_any_device
+  - opt:
+      - - "Someone "
+        - { em: "personally uses" }
+        - " a "
+        - { any: deadly_weapon, options: [ [ "deadly weapon" ], [ { sep: or }, " firearm" ] ] }
+        - " if he or she intentionally does any of the following:"
+      - elements:
+          - { n: "1", text: [ "Displays the weapon in a menacing manner" ], end: ";" }
+          - { n: "2", text: [ "Hits someone with the weapon" ], end: ";" }
+          - { n: "3", text: [ "Fires the weapon" ], end: ".", and: "OR" }
+    if: someone_personally_uses_deadly
+  - - opt:
+        - "The People allege that the defendant "
+        - field: "text.all_factors_from_element"
+          hint: "insert all of the factors from element 3 when multiple factors are alleged"
+        - ". You may not find the defendant guilty unless you all agree that the People have proved at least one of these alleged facts and you all agree on which fact or facts were proved. You do not need to specify the fact or facts in your verdict."
+      if: people_allege_that_defendant
+  - - opt:
+        - "A person who is employed as a police officer by "
+        - { field: "officer.agency", hint: "insert name of agency that employs police officer" }
+        - " is a "
+        - { em: "peace officer" }
+        - "."
+      if: person_who_is_employed
+  - - opt:
+        - "A person employed by "
+        - field: "officer.agency"
+          hint: "insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”"
+        - " is a "
+        - { em: "peace officer" }
+        - " if "
+        - field: "text.description_facts_necessary_make"
+          hint: "insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”"
+        - "."
+      if: person_employed_by_is
+  - - opt:
+        - "The duties of "
+        - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+        - " "
+        - { field: "text.title_peace_officer", hint: "insert title of peace officer" }
+        - " include "
+        - { field: "text.job_duties", hint: "insert job duties" }
+        - "."
+      if: duties_include
+  - note: "When lawful performance is an issue, give the following paragraph and Instruction 2670, Lawful Performance: Peace Officer."
+  - - opt:
+        - "A peace officer is not lawfully performing his or her duties if he or she is "
+        - any: unlawfully_arresting_detaining
+          options:
+            - [ "unlawfully arresting or detaining someone" ]
+            - [ { sep: or }, " using unreasonable or excessive force in his or her duties" ]
+        - ". Instruction 2670 explains "
+        - any: when_arrest_detention
+          options:
+            - [ "when an arrest or detention is unlawful" ]
+            - [ { sep: and }, " when force is unreasonable or excessive" ]
+        - "."
+      if: peace_officer_is_not
+people: { officer: { label: "Peace officer", uses: [ name, agency ] } }

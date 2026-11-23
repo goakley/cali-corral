@@ -1,0 +1,56 @@
+# CALCRIM No. 401. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "401"
+title: "Aiding and Abetting: Intended Crimes"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2012, September 2023"
+  body_sha256: b89181d83ec6cc6a609a9e8f7f0930cc7f6712e2d152271f2d54dbf7f8279de7
+review: "machine-checked"
+questions:
+  - id: if_you_conclude_that
+    type: boolean
+    prompt: "Include “If you conclude that defendant was present at the scene of the crime…”?"
+  - id: person_who_aids_abets
+    type: boolean
+    prompt: "Give the paragraph beginning “A person who aids and abets a crime is not guilty of that c…”?"
+body:
+  - - "To prove that the defendant is guilty of a crime based on aiding and abetting that crime, the People must prove that:"
+  - elements:
+      - { n: "1", text: [ "The perpetrator committed the crime" ], end: ";" }
+      - n: "2"
+        text: [ "The defendant knew that the perpetrator intended to commit the crime" ]
+        end: ";"
+      - n: "3"
+        text:
+          - "Before or during the commission of the crime, the defendant intended to aid and abet the perpetrator in committing the crime"
+        end: ";"
+      - n: "4"
+        text:
+          - "The defendant’s words or conduct did in fact aid and abet the perpetrator’s commission of the crime"
+        end: "."
+        and: "AND"
+  - - "Someone "
+    - { em: "aids and abets" }
+    - " a crime if he or she knows of the perpetrator’s unlawful purpose and he or she specifically intends to, and does in fact, aid, facilitate, promote, encourage, or instigate the perpetrator’s commission of that crime."
+  - - "If all of these requirements are proved, the defendant does not need to actually have been present when the crime was committed to be guilty as an aider and abettor."
+  - - opt:
+        - "If you conclude that defendant was present at the scene of the crime or failed to prevent the crime, you may consider that fact in determining whether the defendant was an aider and abettor. However, the fact that a person is present at the scene of a crime or fails to prevent the crime does not, by itself, make him or her an aider and abettor."
+      if: if_you_conclude_that
+  - opt:
+      - - "A person who aids and abets a crime is not guilty of that crime if he or she withdraws before the crime is committed. To withdraw, a person must do two things:"
+      - elements:
+          - n: "1"
+            text:
+              - "He or she must notify everyone else he or she knows is involved in the commission of the crime that he or she is no longer participating. The notification must be made early enough to prevent the commission of the crime"
+            end: "."
+          - n: "2"
+            text:
+              - "He or she must do everything reasonably within his or her power to prevent the crime from being committed. He or she does not have to actually prevent the crime"
+            end: "."
+            and: "AND"
+        plain: true
+      - - "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw. If the People have not met this burden, you may not find the defendant guilty under an aiding and abetting theory."
+    if: person_who_aids_abets

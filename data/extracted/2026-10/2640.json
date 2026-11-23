@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2640",
   "title": "Perjury (Pen. Code, § 118)",
   "source": {
@@ -44,8 +44,8 @@
     "[If the defendant attempted to correct the statement after it was made, that attempt may show that the defendant did not intend to (testify[,]/[or] declare[,]/[or] depose[,]/[or] certify) falsely. It is up to you to decide the meaning and importance of that conduct.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,
@@ -58,18 +58,18 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

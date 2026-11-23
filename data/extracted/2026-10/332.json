@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "332",
   "title": "Expert Witness Testimony",
   "source": {
@@ -22,10 +22,10 @@
     "[If the expert witnesses disagreed with one another, you should weigh each opinion against the others. You should examine the reasons given for each opinion and the facts or other matters on which each witness relied. You may also compare the experts’ qualifications.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

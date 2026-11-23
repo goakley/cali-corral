@@ -1,0 +1,14 @@
+# CALCRIM No. 443. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "443"
+title: "Compelling Another to Commit Crime"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: ab4f0a5198e6e7bdc95213ec85fa0d0f8f593fd84446070e97c48912360be103
+review: "machine-checked"
+questions: []
+body:
+  - - "If the defendant forced another person to commit a crime by threatening, menacing, commanding, or coercing that person, then the defendant is guilty of the crime that the defendant forced the other person to commit."

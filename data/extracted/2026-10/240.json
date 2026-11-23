@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "240",
   "title": "Causation",
   "source": {
@@ -21,9 +21,9 @@
     "[There may be more than one cause of (injury/______ <insert other description>). An act [or omission] causes (injury/______ <insert other description>), only if it is a substantial factor in causing the (injury/______ <insert other description>). A *substantial factor* is more than a trivial or remote factor. However, it does not have to be the only factor that causes the (injury/______ <insert other description>).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

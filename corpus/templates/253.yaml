@@ -7,7 +7,7 @@ source:
   file: "calcrim-2026"
   release: "2026-10"
   revision_line: "New January 2006; Revised June 2007, March 2022"
-  body_sha256: d79987537db7d1aee849f8eee61cb5972e8b61510f7af681a99ad57699c5a7a3
+  body_sha256: "86be4c74703fead7c58d789dfe8c4b89dd58dc0513549d60a7056b8583e1ebfd"
 review: "machine-checked"
 questions:
   - id: find_allegation_s_true
@@ -46,8 +46,8 @@ questions:
   - id: ordinary_negligence_is_failure
     type: boolean
     prompt: "Include “Ordinary negligence is the failure to use reasonable care to prevent…”?"
-  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
-  - { id: allegation_plural, type: boolean, prompt: "More than one allegation?" }
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+  - { id: allegation_plural, type: boolean, prompt: "Include the “s” in “allegation[s]”?" }
 body:
   - - "For you to find a person guilty of the crime"
     - { opt: [ s ], if: crime_plural }
@@ -86,10 +86,10 @@ body:
             text:
               - "He or she acts in a reckless way that creates a high risk of death or great bodily injury"
             end: ";"
-          - { n: "1", text: [ "AND" ], end: "" }
           - n: "2"
             text: [ "A reasonable person would have known that acting in that way would create such a risk" ]
             end: "."
+            and: "AND"
       - - "In other words, a person acts with "
         - choice: criminal_gross_2
           options: [ [ criminal ], [ gross ] ]

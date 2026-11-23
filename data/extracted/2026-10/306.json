@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "306",
   "title": "Untimely Disclosure of Evidence",
   "source": {
@@ -24,12 +24,12 @@
     "[You must not consider the fact that an attorney for defendant ______ <insert defendant’s name> failed to disclose evidence when you decide the charges against defendant[s] ______ <insert names of other defendant[s]>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

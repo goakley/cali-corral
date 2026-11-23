@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2220",
   "title": "Driving With Suspended or Revoked Driving Privilege (Veh. Code, §§ 13106, 14601, 14601.1, 14601.2, 14601.5)",
   "source": {
@@ -32,20 +32,20 @@
     "[The term *motor vehicle* is defined in another instruction to which you should refer.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

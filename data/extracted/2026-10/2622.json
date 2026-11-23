@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2622",
   "title": "Intimidating a Witness (Pen. Code, § 136.1(a) & (b))",
   "source": {
@@ -44,8 +44,8 @@
     "[It is not a defense that no one was actually physically injured or otherwise intimidated.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,
@@ -57,7 +57,7 @@
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     23.8,

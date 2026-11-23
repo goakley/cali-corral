@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1070",
   "title": "Unlawful Sexual Intercourse: Defendant 21 or Older (Pen. Code, § 261.5(a) & (d))",
   "source": {
@@ -30,18 +30,18 @@
     "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that the other person was age 18 or older. In order for reasonable and actual belief to excuse the defendant’s behavior, there must be evidence tending to show that (he/she) reasonably and actually believed that the other person was age 18 or older. If you have a reasonable doubt about whether the defendant reasonably and actually believed that the other person was age 18 or older, you must find (him/her) not guilty.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

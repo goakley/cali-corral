@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1822",
   "title": "Unlawful Taking of Bicycle or Vessel (Pen. Code, § 499b)",
   "source": {
@@ -25,13 +25,13 @@
     "[A *vessel* includes ships of all kinds, steamboats, steamships, canal boats, barges, sailing vessels, and any structure intended to transport people or merchandise over water.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,0 +1,27 @@
+# CALCRIM No. 562. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "562"
+title: "Transferred Intent"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised September 2024*"
+  body_sha256: "0ecb9ed419539f0abe195888f749f094d2fbac7187ff2392124858d4d9409ca4"
+review: "machine-checked"
+questions:
+  - id: if_defendant_intended_kill
+    type: boolean
+    prompt: "Include “If the defendant intended to kill one person, but by mistake or accid…”?"
+  - id: if_defendant_intended_kill_2
+    type: boolean
+    prompt: "Include “If the defendant intended to kill one person, but by mistake or accid…”?"
+body:
+  - { note: "A. Only unintended victim is killed." }
+  - - opt:
+        - "If the defendant intended to kill one person, but by mistake or accident killed someone else instead, then the crime, if any, is the same as if the intended person had been killed."
+      if: if_defendant_intended_kill
+  - { note: "B. Both intended and unintended victims are killed." }
+  - - opt:
+        - "If the defendant intended to kill one person, but by mistake or accident also killed someone else, then the crime, if any, is the same for the unintended killing as it is for the intended killing."
+      if: if_defendant_intended_kill_2

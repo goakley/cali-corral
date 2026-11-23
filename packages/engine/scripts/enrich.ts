@@ -250,7 +250,7 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
               questions.set(q, {
                 id: q,
                 type: "boolean",
-                prompt: `More than one ${noun.toLowerCase()}?`,
+                prompt: `Include the “s” in “${noun}[s]”?`,
               });
             }
             x.if = q;
@@ -334,6 +334,28 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
             }
           }
           continue;
+        }
+        // "(he/she/[or] someone else) was": the verb agrees with the pronoun
+        // only when the pronoun option is the one chosen (3470).
+        if ("options" in x && ("any" in x || x.choice !== undefined)) {
+          const head = toInlines(x.options[0]!)[0];
+          const next = arr[i + 1];
+          if (typeof head === "object" && "pronoun" in head && typeof next === "string") {
+            const split = splitVerb(next);
+            if (split) {
+              const q = "any" in x ? x.any : x.choice!;
+              const others = x.options.map((_o, k) => `o${k + 1}`).slice(1);
+              const onlyIf = "any" in x ? others.map((o) => `!${q}~${o}`).join(" & ") : `${q}=o1`;
+              arr.splice(
+                i + 1,
+                1,
+                split.before,
+                { agree: head.pronoun, sg: split.verb, pl: split.pl, onlyIf },
+                split.after,
+              );
+              agreeAdded++;
+            }
+          }
         }
         if ("options" in x && !("any" in x) && x.choice !== undefined && x.options.length === 2) {
           const a = plainText(x.options[0]!);

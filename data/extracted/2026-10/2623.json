@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2623",
   "title": "Intimidating a Witness: Sentencing Factors (Pen. Code, § 136.1(c))",
   "source": {
@@ -31,8 +31,8 @@
     "The People have the burden of proving (this/each) allegation beyond a reasonable doubt. If the People have not met this burden [for any allegation], you must find that (this/the) allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     15.0,
     16.0,
     16.0,
@@ -41,8 +41,8 @@
     16.0,
     16.0,
     16.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

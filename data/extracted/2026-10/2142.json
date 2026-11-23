@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2142",
   "title": "Failure to Perform Duty Following Accident: Lesser Included Offense (Veh. Code, §§ 20001, 20003 & 20004)",
   "source": {
@@ -20,8 +20,8 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant committed the crime of failing to perform a legal duty following a vehicle accident that caused (death/[or] permanent, serious injury) rather than a lesser offense. If the People have not met this burden, you must find the defendant not guilty of failing to perform a legal duty following a vehicle accident that caused (death/[or] permanent, serious injury). You must consider whether the defendant is guilty of the lesser crime[s] of [failing to perform a legal duty following a vehicle accident that caused injury] [or] [failing to perform a legal duty following a vehicle accident that caused property damage]."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

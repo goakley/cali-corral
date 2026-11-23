@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3426",
   "title": "Voluntary Intoxication (Pen. Code, § 29.4)",
   "source": {
@@ -23,11 +23,11 @@
     "You may not consider evidence of voluntary intoxication for any other purpose. [Voluntary intoxication is not a defense to ______ <insert general intent offense[s]>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

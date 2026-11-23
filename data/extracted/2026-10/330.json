@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "330",
   "title": "Testimony of Child 10 Years of Age or Younger",
   "source": {
@@ -22,10 +22,10 @@
     "While a child and an adult witness may behave differently, that difference does not mean that one is any more or less believable than the other. You should not discount or distrust the testimony of a witness just because he or she is a child."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2990",
   "title": "Bookmaking (Pen. Code, § 337a(a)(1))",
   "source": {
@@ -25,13 +25,13 @@
     "A *bet* is a wager or agreement between two or more people that if an uncertain future event happens, the loser will (pay money to the winner/[or] give the winner something of value). [A bet includes a wager made on the outcome of any actual or purported event, including but not limited to any kind of sporting contest [or ______ <insert description of event from Pen. Code, § 337a>].] [It is not necessary that the event that was bet on actually take place.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -95,8 +95,30 @@ def _font_flags(fontname: str) -> tuple[bool, bool]:
     return bold, italic
 
 
+def _is_white(color) -> bool:  # type: ignore[no-untyped-def]
+    """White fill: gray 1, RGB (1, 1, 1) or CMYK (0, 0, 0, 0)."""
+    if color is None:
+        return False
+    if isinstance(color, (int, float)):
+        return float(color) == 1.0
+    vals = tuple(float(v) for v in color)
+    if len(vals) == 1:
+        return vals[0] == 1.0
+    if len(vals) == 3:
+        return vals == (1.0, 1.0, 1.0)
+    if len(vals) == 4:
+        return vals == (0.0, 0.0, 0.0, 0.0)
+    return False
+
+
 def _visible(c: dict) -> bool:
-    return c["size"] >= _MIN_VISIBLE_SIZE and not any(m in c["fontname"] for m in _IGNORED_FONT_MARKERS)
+    # White text is invisible on the printed page: the edition prints stray
+    # list labels in white before some conjunctions and notes ("5. AND").
+    return (
+        c["size"] >= _MIN_VISIBLE_SIZE
+        and not any(m in c["fontname"] for m in _IGNORED_FONT_MARKERS)
+        and not _is_white(c.get("non_stroking_color"))
+    )
 
 
 def _group_rows(chars: list[dict], tol: float = 2.0) -> list[list[dict]]:
@@ -259,7 +281,7 @@ def _line_from_dict(d: dict) -> Line:
     return Line(d["page"], d["top"], d["bottom"], d["x0"], spans, d["x1"], d["w"])
 
 
-LAYOUT_VERSION = 1
+LAYOUT_VERSION = 2
 
 
 def cached_lines(pdf_path, sha256: str, cache_dir) -> list[Line]:

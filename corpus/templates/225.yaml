@@ -20,7 +20,7 @@ questions:
     prompt: "Choose one"
   - { id: allegation, type: boolean, prompt: "Include “and allegation”?" }
   - { id: n, type: boolean, prompt: "Include “n”?" }
-  - { id: act_plural, type: boolean, prompt: "More than one act?" }
+  - { id: act_plural, type: boolean, prompt: "Include the “s” in “act[s]”?" }
 body:
   - - "The People must prove not only that the defendant did the act"
     - { opt: [ s ], if: act_plural }

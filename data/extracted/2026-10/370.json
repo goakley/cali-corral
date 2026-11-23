@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "370",
   "title": "Motive",
   "source": {
@@ -20,8 +20,8 @@
     "Having a motive may be a factor tending to show (that the defendant is guilty/[or] that an (allegation/[or] special circumstance) is true). Not having a motive may be a factor tending to show (the defendant is not guilty/[or] that an (allegation/[or] special circumstance) is not true)."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

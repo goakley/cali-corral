@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2760",
   "title": "Escape (Pen. Code, § 4532(a)(1) & (b)(1))",
   "source": {
@@ -55,8 +55,8 @@
     "[A prisoner is in the *lawful custody* of (an officer/[or] a person) if the (officer/[or] person), acting under legal authority, physically restrains or confines the prisoner so that the prisoner is significantly deprived of his or her freedom of movement or the prisoner reasonably believes that he or she is significantly deprived of his or her freedom of movement.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     15.0,
@@ -87,11 +87,11 @@
     15.0,
     16.0,
     15.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

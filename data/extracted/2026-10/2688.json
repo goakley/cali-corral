@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2688",
   "title": "Disturbing the Peace: Fighting or Challenging Someone to Fight (Pen. Code, §§ 415(1), 415.5(a)(1))",
   "source": {
@@ -30,8 +30,8 @@
     "Someone commits an act *willfully* when he or she does it willingly or on purpose."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
@@ -41,7 +41,7 @@
     16.0,
     16.0,
     16.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

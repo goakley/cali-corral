@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "350",
   "title": "Character of Defendant",
   "source": {
@@ -22,10 +22,10 @@
     "You may take that testimony into consideration along with all the other evidence in deciding whether the People have proved that the defendant is guilty beyond a reasonable doubt."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

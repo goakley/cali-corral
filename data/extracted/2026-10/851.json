@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "851",
   "title": "Testimony on Intimate Partner Battering and Its Effects: Offered by the Defense",
   "source": {
@@ -22,10 +22,10 @@
     "When deciding whether the defendant’s belief was reasonable or unreasonable, consider all the circumstances as they were known by or appeared to the defendant. Also consider what conduct would appear to be necessary to a reasonable person in a similar situation with similar knowledge."
   ],
   "body_indents": [
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "951",
   "title": "Battery Committed on School, Park, or Hospital Property (Pen. Code, §§ 242, 243.2)",
   "source": {
@@ -32,20 +32,20 @@
     "[A *hospital* is any facility for the diagnosis, care, and treatment of human illness that is (licensed/specifically exempt from licensing) under state law.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

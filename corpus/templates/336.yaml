@@ -104,8 +104,8 @@ questions:
   - id: is_correctional_institution
     type: boolean
     prompt: "Include “___ is a correctional institution.”?"
-  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
-  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+  - { id: statement_plural, type: boolean, prompt: "Include the “s” in “statement[s]”?" }
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
 body:
   - - "View the "
     - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }

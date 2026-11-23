@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1650",
   "title": "Carjacking (Pen. Code, § 215)",
   "source": {
@@ -35,23 +35,23 @@
     "[A vehicle is within a person’s *immediate presence* if it is sufficiently within his or her control so that he or she could keep possession of it if not prevented by force or fear.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

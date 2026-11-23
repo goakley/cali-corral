@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "320",
   "title": "Exercise of Privilege by Witness",
   "source": {
@@ -22,10 +22,10 @@
     "[______ <insert name of witness> did not have the right to refuse to answer questions in this case. You may consider that refusal during your deliberations.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

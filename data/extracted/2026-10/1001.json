@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1001",
   "title": "Rape in Concert (Pen. Code, § 264.1)",
   "source": {
@@ -28,16 +28,16 @@
     "[To prove the crime of rape in concert, the People do not have to prove a prearranged plan or scheme to commit rape.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     16.0,
     16.0,
     16.0,
     16.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

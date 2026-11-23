@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2041",
   "title": "Fraudulent Possession of Personal Identifying Information (Pen. Code, § 530.5(c)(1), (2), or (3))",
   "source": {
@@ -21,7 +21,7 @@
     "1. The defendant acquired or kept the personal identifying information of (another person/ten or more other persons);",
     "[AND]",
     "2. The defendant did so with the intent to defraud another person(;/.)",
-    "2. <Give paragraph 3 if defendant is charged with having a prior conviction and has not stipulated to that conviction.>",
+    "<Give paragraph 3 if defendant is charged with having a prior conviction and has not stipulated to that conviction.>",
     "[AND",
     "3. The defendant has a prior conviction for ______ <insert prior conviction suffered pursuant to Penal Code section 530.5>.]",
     "A person intends to *defraud* if he or she intends to deceive another person in order to cause a loss of (money[,]/[or] goods[,]/[or] services[,] [or] something [else] of value), or to cause damage to a legal, financial, or property right.",
@@ -30,18 +30,18 @@
     "It is not necessary that anyone actually be defrauded or actually suffer a financial, legal, or property loss as a result of the defendant’s acts."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    19.0,
+    37.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

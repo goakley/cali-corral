@@ -1,0 +1,25 @@
+Natural and Probable Consequences Doctrine (Target and Non-Target Offenses Charged)
+
+
+
+The defendant is charged in Count example f1 with example target offense and in Counts example f3 with example nontarget offense.
+
+You must first decide whether the defendant is guilty of example target offense. If you find the defendant is guilty of this crime, you must then decide whether he is guilty of example nontarget offense.
+
+Under certain circumstances, a person who is guilty of one crime may also be guilty of other crimes that were committed at the same time.
+
+To prove that the defendant is guilty of example nontarget offense, the People must prove that:
+
+1. The defendant is guilty of example target offense;
+
+2. During the commission of example target offense a coparticipant in that example target offense committed the crime of example nontarget offense;
+
+AND
+
+3. Under all of the circumstances, a reasonable person in the defendant’s position would have known that the commission of example nontarget offense was a natural and probable consequence of the commission of the example target offense.
+
+A coparticipant in a crime is the perpetrator or anyone who aided and abetted the perpetrator. It does not include a victim or innocent bystander.
+
+A natural and probable consequence is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.
+
+To decide whether the crime of example nontarget offense was committed, please refer to the separate instructions that I will give you on that crime.

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "351",
   "title": "Cross-Examination of Character Witness",
   "source": {
@@ -19,7 +19,7 @@
     "The attorney for the People was allowed to ask defendant’s character witness[es] if (he/she/they) had heard that the defendant had engaged in certain conduct. These “have you heard” questions and their answers are not evidence that the defendant engaged in any such conduct. You may consider these questions and answers only to evaluate the meaning and importance of (the/a) character witness’s testimony."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

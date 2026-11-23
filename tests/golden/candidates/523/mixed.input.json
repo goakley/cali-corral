@@ -1,0 +1,50 @@
+{
+  "answers": {
+    "as_charged_in_count": true,
+    "this_one_more_these": "o2",
+    "disability": [
+      "o1",
+      "o3",
+      "o5",
+      "o7"
+    ],
+    "disability_2": [
+      "o2",
+      "o4",
+      "o6"
+    ],
+    "term_disability_is_explained": true,
+    "gender_as_used_here": false,
+    "nationality_as_used_here": true,
+    "race_ethnicity_includes_ancestry": false,
+    "religion_as_used_here": true,
+    "sexual_orientation_means_heterosexuality": false,
+    "s": true,
+    "adjacent": false,
+    "advocacy_for": [
+      "o1",
+      "o3"
+    ],
+    "person": [
+      "o2",
+      "o4",
+      "o6",
+      "o8",
+      "o10",
+      "o12"
+    ],
+    "that_one_more_those": "o1",
+    "association_with_person_group": false,
+    "characteristic_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

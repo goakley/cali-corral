@@ -1,0 +1,28 @@
+{
+  "answers": {
+    "q_65_55": "o1",
+    "term_highway_describes_any": false,
+    "prove_that_defendant_committed": true,
+    "faster_than_reasonable": [
+      "o2"
+    ],
+    "prove_that_defendant_committed_2": true,
+    "q_15_25": "o2",
+    "element_4": true,
+    "when_determining_whether_defendant": false,
+    "prove_that_defendant_committed_3": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "appropriate_description_from_veh": "example appropriate description from veh",
+    "other_posted_speed_limit": "example other posted speed limit"
+  }
+}

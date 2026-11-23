@@ -117,8 +117,8 @@ questions:
     type: multi
     options: [ { id: o1, label: charge }, { id: o2, label: allegation } ]
     prompt: "Which apply? (one or more)"
-  - { id: offense_plural, type: boolean, prompt: "More than one offense?" }
-  - { id: act_plural, type: boolean, prompt: "More than one act?" }
+  - { id: offense_plural, type: boolean, prompt: "Include the “s” in “offense[s]”?" }
+  - { id: act_plural, type: boolean, prompt: "Include the “s” in “act[s]”?" }
 body:
   - - "You have heard testimony that "
     - { field: "victim.name", hint: "insert name of alleged victim" }

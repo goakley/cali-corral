@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3414",
   "title": "Coercion (Pen. Code, §§ 236.23, 236.24)",
   "source": {
@@ -42,14 +42,14 @@
     "The defendant has the burden of proving each element of this defense by a preponderance of the evidence. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that each element of the defense is true. If the defendant has not met this burden, (he/she) has not proved this defense."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
     16.0,
-    0.0,
+    -0.0,
     19.0,
     16.0,
     16.0,
@@ -58,13 +58,13 @@
     16.0,
     7.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "563",
   "title": "Conspiracy to Commit Murder (Pen. Code, § 182)",
   "source": {
@@ -21,7 +21,7 @@
     "1. The defendant intended to agree and did agree with [one or more of] (the other defendant[s]/[or] ______ <insert name[s] or description[s] of coparticipant[s]>) to intentionally and unlawfully kill;",
     "2. At the time of the agreement, the defendant and [one or more of] the other alleged member[s] of the conspiracy intended that one or more of them would intentionally and unlawfully kill;",
     "3. (The/One of the) defendant[s][,] [or ______ <insert name[s] or description[s] of coparticipant[s]>][,] [or (both/all) of them] committed [at least one of] the following overt act[s] alleged to accomplish the killing: ______ <insert the alleged overt acts>;",
-    "3. AND",
+    "AND",
     "4. (At least one of these/This) overt act[s] was committed in California.",
     "To decide whether (the/a) defendant committed (this/these) overt act[s], consider all of the evidence presented about the overt act[s].",
     "To decide whether (the/a) defendant and [one or more of] the other alleged member[s] of the conspiracy intended to commit *murder in the first degree*, please refer to Instructions 520 (*First or Second Degree Murder With Malice Aforethought*) and 521 (*First Degree Murder*) which define that crime.",
@@ -36,24 +36,24 @@
     "[Evidence that a person did an act or made a statement that helped accomplish the goal of the conspiracy is not enough, by itself, to prove that the person was a member of the conspiracy.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
+    37.0,
     19.0,
-    19.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

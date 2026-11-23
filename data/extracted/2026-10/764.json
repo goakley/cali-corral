@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "764",
   "title": "Death Penalty: Evidence of Other Violent Crimes",
   "source": {
@@ -23,11 +23,11 @@
     "You may not consider any other evidence of alleged criminal activity as an aggravating circumstance [except for the alleged prior felony conviction[s] about which I will now instruct you]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

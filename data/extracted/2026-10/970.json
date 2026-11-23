@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "970",
   "title": "Shooting Firearm or BB Device in Grossly Negligent Manner (Pen. Code, § 246.3)",
   "source": {
@@ -36,8 +36,8 @@
     "[The term[s] (*great bodily injury*/[and] *firearm*) (is/are) defined in another instruction to which you should refer.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -45,15 +45,15 @@
     16.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

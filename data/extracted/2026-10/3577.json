@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3577",
   "title": "Instructions to Alternate on Submission of Case to Jury",
   "source": {
@@ -20,8 +20,8 @@
     "Do not talk about the case or about any of the people or any subject involved in it with anyone, not even your family or friends[, and not even with each other]. Do not have any contact with the deliberating jurors. Do not decide how you would vote if you were deliberating. Do not form or express an opinion about the issues in this case, unless you are substituted for one of the deliberating jurors."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

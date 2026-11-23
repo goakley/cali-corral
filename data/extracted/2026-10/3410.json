@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3410",
   "title": "Statute of Limitations",
   "source": {
@@ -22,10 +22,10 @@
     "[If the People have proved that it is more likely than not that the defendant was outside of California for some period of time, you must not include that period [up to three years] in determining whether the prosecution began on time.]"
   ],
   "body_indents": [
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

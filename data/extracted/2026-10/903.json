@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "903",
   "title": "Assault on School District Peace Officer (Pen. Code, §§ 240, 241.4)",
   "source": {
@@ -38,8 +38,8 @@
     "A *school district peace officer* is a peace officer who is a member of a police department of a school district under Education Code section 38000."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -50,14 +50,14 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

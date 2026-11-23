@@ -1,0 +1,38 @@
+{
+  "answers": {
+    "crime": [
+      "o1"
+    ],
+    "crime_2": [
+      "o1"
+    ],
+    "people_allege_that_defendant": false,
+    "also": false,
+    "people_also_allege_that": false,
+    "act_causes_death_if": false,
+    "there_may_be_more": false,
+    "crime_s": [
+      "o1"
+    ],
+    "people_allege_that_defendant_2": false,
+    "crime_plural": false,
+    "instruction_plural": false,
+    "tell_plural": false,
+    "act_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "act_s_alleged": "example act s alleged",
+    "alleged_predicate_acts_when": "example alleged predicate acts when",
+    "f2": "example f2",
+    "misdemeanor_s_infraction_s": "example misdemeanor s infraction s"
+  }
+}

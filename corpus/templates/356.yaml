@@ -20,7 +20,7 @@ questions:
   - id: you_should_view_unrecorded
     type: boolean
     prompt: "Include “You should view an unrecorded oral statement cautiously.”?"
-  - { id: officer_plural, type: boolean, prompt: "More than one officer?" }
+  - { id: officer_plural, type: boolean, prompt: "Include the “s” in “Officer[s]”?" }
 body:
   - - "You have heard evidence that the defendant made a statement to a peace officer. "
     - opt:

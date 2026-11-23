@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1353",
   "title": "Hate Crime: Disability Defined",
   "source": {
@@ -32,20 +32,20 @@
     "[*Disability* does not include (sexual behavior disorders[,]/[or] compulsive gambling[,]/[or] kleptomania[,]/[or] pyromania[,]/[or] psychoactive substance—use disorders resulting from the current unlawful use of controlled substances or other drugs).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

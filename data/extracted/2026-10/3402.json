@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3402",
   "title": "Duress or Threats",
   "source": {
@@ -23,11 +23,11 @@
     "[This defense does not apply to the crime of ______ <insert charge[s] of murder; see Bench Notes>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

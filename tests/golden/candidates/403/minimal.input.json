@@ -1,0 +1,23 @@
+{
+  "answers": {
+    "before_you_may_decide": false,
+    "do_not_consider_evidence": false,
+    "will_give_have_given": "o1",
+    "people_are_alleging_that": false,
+    "crime_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "nontarget_offense": "example nontarget offense",
+    "target_offense": "example target offense",
+    "target_offenses": "example target offenses"
+  }
+}

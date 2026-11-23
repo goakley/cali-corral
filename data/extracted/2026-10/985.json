@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "985",
   "title": "Brandishing Imitation Firearm (Pen. Code, § 417.4)",
   "source": {
@@ -28,8 +28,8 @@
     "An *imitation firearm* is a device[, or a toy gun, replica of a firearm, gun-shaped phone case, or BB device,] that is so substantially similar to a real firearm in color and overall appearance that a reasonable person would believe that it is a real firearm. [A *BB device* is an instrument that expels a projectile, such as a BB or other pellet, either 6 millimeters or 8 millimeters in caliber, through the force of air pressure, gas pressure, or spring action, or any spot marker gun that expels a projectile 10 millimeters or less in caliber.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -37,7 +37,7 @@
     16.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

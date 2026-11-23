@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3101",
   "title": "Prior Conviction: Bifurcated Trial (Pen. Code, §§ 1025, 1158)",
   "source": {
@@ -24,12 +24,12 @@
     "You may not return a finding that (the/any) alleged conviction has or has not been proved unless all 12 of you agree on that finding."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     16.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

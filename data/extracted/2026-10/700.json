@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "700",
   "title": "Special Circumstances: Introduction (Pen. Code, § 190.2)",
   "source": {
@@ -22,10 +22,10 @@
     "[You must (consider each special circumstance separately/[and you must] consider each special circumstance separately for each defendant).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

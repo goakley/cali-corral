@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3260",
   "title": "Duty of Jury: Verdict Form for Enhancement, Sentencing Factor, or Prior Conviction",
   "source": {
@@ -19,7 +19,7 @@
     "You have been given (a/______ <insert number>) verdict form[s] for the [additional] allegation[s] that ______ <insert enhancement, sentencing factor, and/or prior conviction allegation>. Your verdict must be unanimous. This means that, to return a verdict, all of you must agree. If you reach a verdict on (any/this) [additional] allegation, complete the verdict form for that allegation and notify the bailiff."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

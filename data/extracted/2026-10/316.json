@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "316",
   "title": "Additional Instructions on Witness Credibility—Other Conduct",
   "source": {
@@ -22,10 +22,10 @@
     "[If you find that a witness has committed a crime or other misconduct, you may consider that fact [only] in evaluating the credibility of the witness’s testimony. The fact that a witness may have committed a crime or other misconduct does not necessarily destroy or impair a witness’s credibility. It is up to you to decide the weight of that fact and whether that fact makes the witness less believable.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

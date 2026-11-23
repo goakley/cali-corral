@@ -28,7 +28,7 @@
   "patterns": {
     "optional [ ]": {
       "instructions": 748,
-      "occurrences": 13390,
+      "occurrences": 13375,
       "examples": [
         "100",
         "1000",
@@ -40,7 +40,7 @@
     },
     "pick-one alternatives ( / )": {
       "instructions": 721,
-      "occurrences": 5925,
+      "occurrences": 5916,
       "examples": [
         "100",
         "1000",
@@ -52,7 +52,7 @@
     },
     "element paragraph": {
       "instructions": 574,
-      "occurrences": 2729,
+      "occurrences": 2651,
       "examples": [
         "1000",
         "1002",
@@ -64,7 +64,7 @@
     },
     "blank without hint": {
       "instructions": 532,
-      "occurrences": 733,
+      "occurrences": 731,
       "examples": [
         "1000",
         "1001",
@@ -111,8 +111,8 @@
       ]
     },
     "nested brackets (depth >= 2)": {
-      "instructions": 490,
-      "occurrences": 490,
+      "instructions": 489,
+      "occurrences": 489,
       "examples": [
         "1000",
         "1002",
@@ -135,8 +135,8 @@
       ]
     },
     "conjunction AND/OR (unbracketed)": {
-      "instructions": 451,
-      "occurrences": 556,
+      "instructions": 464,
+      "occurrences": 586,
       "examples": [
         "1000",
         "1002",
@@ -147,8 +147,8 @@
       ]
     },
     "standalone note paragraph": {
-      "instructions": 368,
-      "occurrences": 847,
+      "instructions": 378,
+      "occurrences": 884,
       "examples": [
         "1000",
         "1001",
@@ -171,8 +171,8 @@
       ]
     },
     "bracket spanning paragraphs": {
-      "instructions": 246,
-      "occurrences": 278,
+      "instructions": 243,
+      "occurrences": 264,
       "examples": [
         "100",
         "1000",
@@ -183,8 +183,8 @@
       ]
     },
     "conjunction [AND]/[OR]": {
-      "instructions": 177,
-      "occurrences": 237,
+      "instructions": 180,
+      "occurrences": 243,
       "examples": [
         "1001",
         "1016",
@@ -220,7 +220,7 @@
     },
     "[AND inside optional element": {
       "instructions": 133,
-      "occurrences": 144,
+      "occurrences": 145,
       "examples": [
         "1060",
         "1141",
@@ -254,21 +254,9 @@
         "103"
       ]
     },
-    "inline note (not a blank hint)": {
-      "instructions": 60,
-      "occurrences": 148,
-      "examples": [
-        "1145",
-        "1191A",
-        "1192",
-        "1193",
-        "1202",
-        "1300"
-      ]
-    },
     "repeated identical paragraphs (repeat-as-needed slots)": {
-      "instructions": 50,
-      "occurrences": 56,
+      "instructions": 52,
+      "occurrences": 59,
       "examples": [
         "1144",
         "1160",
@@ -278,9 +266,21 @@
         "1500"
       ]
     },
+    "inline note (not a blank hint)": {
+      "instructions": 48,
+      "occurrences": 111,
+      "examples": [
+        "1145",
+        "1191A",
+        "1192",
+        "1193",
+        "1202",
+        "1300"
+      ]
+    },
     "unbalanced [ ] or ( ) in official text": {
-      "instructions": 47,
-      "occurrences": 47,
+      "instructions": 43,
+      "occurrences": 43,
       "examples": [
         "1142",
         "1144",
@@ -304,7 +304,7 @@
     },
     "sub-element labels (1A, 1Bi, a., i.)": {
       "instructions": 40,
-      "occurrences": 105,
+      "occurrences": 97,
       "examples": [
         "1110",
         "1111",
@@ -364,7 +364,7 @@
     },
     "bullet items": {
       "instructions": 15,
-      "occurrences": 104,
+      "occurrences": 99,
       "examples": [
         "105",
         "1403",
@@ -461,13 +461,8 @@
       "parens": 0
     },
     {
-      "number": "2131",
-      "brackets": 1,
-      "parens": 0
-    },
-    {
       "number": "2352",
-      "brackets": 1,
+      "brackets": -1,
       "parens": 0
     },
     {
@@ -547,7 +542,7 @@
     },
     {
       "number": "2997",
-      "brackets": 3,
+      "brackets": 0,
       "parens": 1
     },
     {
@@ -592,13 +587,8 @@
     },
     {
       "number": "540B",
-      "brackets": 5,
+      "brackets": 1,
       "parens": -1
-    },
-    {
-      "number": "540C",
-      "brackets": 3,
-      "parens": 0
     },
     {
       "number": "560",
@@ -606,19 +596,9 @@
       "parens": 0
     },
     {
-      "number": "640",
-      "brackets": 1,
-      "parens": 0
-    },
-    {
       "number": "723",
       "brackets": 0,
       "parens": 1
-    },
-    {
-      "number": "733",
-      "brackets": 1,
-      "parens": 0
     },
     {
       "number": "830",

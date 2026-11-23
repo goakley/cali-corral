@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3103",
   "title": "Prior Conviction: Factual Issue for Jury (Pen. Code, §§ 1025, 1158)",
   "source": {
@@ -22,10 +22,10 @@
     "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     12.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

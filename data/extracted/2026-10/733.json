@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "733",
   "title": "Special Circumstances: Murder With Torture (Pen. Code, § 190.2(a)(18))",
   "source": {
@@ -21,25 +21,25 @@
     "1. The defendant intended to kill ______ <insert name of decedent>;",
     "2. The defendant also intended to inflict extreme physical pain and suffering on ______ <insert name of decedent> while that person was still alive;",
     "3. The defendant intended to inflict such pain and suffering on ______ <insert name of decedent> for the calculated purpose of revenge, extortion, persuasion, or any other sadistic reason;",
-    "3. AND",
-    "3. <Alternative A—on or after June 6, 1990>",
+    "AND",
+    "<Alternative A—on or after June 6, 1990>",
     "[4. The defendant did an act involving the infliction of extreme physical pain and suffering on ______ <insert name of decedent>.]",
-    "[4. <Alternative B—before June 6, 1990>",
+    "<Alternative B—before June 6, 1990>",
     "[4. The defendant in fact inflicted extreme physical pain on ______ <insert name of decedent>.]",
     "There is no requirement that the person killed be aware of the pain."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
-    19.0,
-    19.0,
+    37.0,
+    37.0,
     15.0,
+    37.0,
     15.0,
-    15.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

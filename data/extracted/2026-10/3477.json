@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3477",
   "title": "Presumption That Resident Was Reasonably Afraid of Death or Great Bodily Injury (Pen. Code, § 198.5)",
   "source": {
@@ -26,14 +26,14 @@
     "The People have the burden of overcoming this presumption. This means that the People must prove that the defendant did not have a reasonable fear of imminent death or injury to (himself/herself)[, or to a member of his or her family or household,] when (he/she) used force against the intruder. If the People have not met this burden, you must find the defendant reasonably feared death or injury to (himself/herself)[, or to a member of his or her family or household]."
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "402",
   "title": "Natural and Probable Consequences Doctrine (Target and Non-Target Offenses Charged)",
   "source": {
@@ -31,19 +31,19 @@
     "[The People allege that the defendant originally intended to aid and abet the commission of either ______ <insert target offense> or ______ <insert other target offense>. The defendant is guilty of ______ <insert nontarget offense> if the People have proved that the defendant aided and abetted either ______ <insert target offense> or ______ <insert other target offense> and that ______ <insert nontarget offense> was the natural and probable consequence of either ______ <insert target offense> or ______ <insert other target offense>. However, you do not need to agree on which of these two crimes the defendant aided and abetted.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "707",
   "title": "Special Circumstances: Accomplice Testimony Must Be Corroborated—Dispute Whether Witness Is Accomplice (Pen. Code, § 1111)",
   "source": {
@@ -41,29 +41,29 @@
     "If you decide that ______ <insert name[s] of witness[es]> (was/were) not [an] accomplice[s], you should evaluate (his/her/their) (statement[s]/[or] testimony) as you would that of any other witness."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    19.0,
-    19.0,
-    16.0,
-    19.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    19.0,
+    19.0,
+    16.0,
+    19.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

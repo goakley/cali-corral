@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2915",
   "title": "Loitering (Pen. Code, § 647(h))",
   "source": {
@@ -25,8 +25,8 @@
     "4. The defendant’s purpose for being on the property was to commit a crime if the opportunity arose."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,

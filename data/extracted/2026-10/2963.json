@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2963",
   "title": "Permitting Person Under 21 to Consume Alcoholic Beverage (Bus. & Prof. Code, § 25658(d))",
   "source": {
@@ -38,26 +38,26 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant did not actually rely on a government-issued document, or what appeared to be a government issued document, as evidence of ______’s <insert name of person under 21> age and identity. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

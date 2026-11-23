@@ -1,0 +1,46 @@
+{
+  "answers": {
+    "murder": [
+      "o1",
+      "o3"
+    ],
+    "killed_attempted_kill": "o2",
+    "any_other_person": true,
+    "a_or_an": "o2",
+    "attempted": true,
+    "or": false,
+    "riotously": [
+      "o1"
+    ],
+    "riotously_tumultuously": false,
+    "intended_tried_commit": [
+      "o1"
+    ],
+    "himself_herself": [
+      "o2"
+    ],
+    "death_bodily_injury": "o2",
+    "defendant_is_not_required": false,
+    "murder_2": [
+      "o1"
+    ]
+  },
+  "people": {
+    "decedent": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    },
+    "defendant": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "forcible_atrocious_crime": "example forcible atrocious crime"
+  }
+}

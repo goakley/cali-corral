@@ -87,6 +87,51 @@ Candidates are grouped by series under `review/`. Status: **approved** (all case
 | [376](review/300.md) | Possession of Recently Stolen Property as Evidence of a Crime | machine-checked |
 | [377](review/300.md) | Presence of Support Person/Dog/Dog Handler (Pen. Code, §§ 868.4, 868.5) | machine-checked |
 | [378](review/300.md) | Consciousness of Guilt: General | machine-checked |
+| [400](review/400.md) | Aiding and Abetting: General Principles | machine-checked |
+| [401](review/400.md) | Aiding and Abetting: Intended Crimes | machine-checked |
+| [402](review/400.md) | Natural and Probable Consequences Doctrine (Target and Non-Target Offenses Charged) | machine-checked |
+| [403](review/400.md) | Natural and Probable Consequences (Only Non-Target Offense Charged) | machine-checked |
+| [404](review/400.md) | Intoxication | machine-checked |
+| [415](review/400.md) | Conspiracy (Pen. Code, § 182) | machine-checked |
+| [416](review/400.md) | Evidence of Uncharged Conspiracy | machine-checked |
+| [417](review/400.md) | Liability for Coconspirators’ Acts | machine-checked |
+| [418](review/400.md) | Coconspirator’s Statements | machine-checked |
+| [419](review/400.md) | Acts Committed or Statements Made Before Joining Conspiracy | machine-checked |
+| [420](review/400.md) | Withdrawal From Conspiracy | machine-checked |
+| [440](review/400.md) | Accessories (Pen. Code, § 32) | machine-checked |
+| [441](review/400.md) | Solicitation: Elements (Pen. Code, § 653f) | machine-checked |
+| [443](review/400.md) | Compelling Another to Commit Crime | machine-checked |
+| [450](review/400.md) | Liability of Corporate Officers and Agents: Single Theory of Liability | machine-checked |
+| [451](review/400.md) | Liability of Corporate Officers and Agents: Two Theories of Liability | machine-checked |
+| [460](review/400.md) | Attempt Other Than Attempted Murder (Pen. Code, § 21a) | machine-checked |
+| [500](review/500.md) | Homicide: General Principles | machine-checked |
+| [505](review/500.md) | Justifiable Homicide: Self-Defense or Defense of Another | machine-checked |
+| [506](review/500.md) | Justifiable Homicide: Defending Against Harm to Person Within Home or on Property | machine-checked |
+| [509](review/500.md) | Justifiable Homicide: Non-Peace Officer Preserving the Peace | machine-checked |
+| [510](review/500.md) | Excusable Homicide: Accident | machine-checked |
+| [511](review/500.md) | Excusable Homicide: Accident in the Heat of Passion | machine-checked |
+| [512](review/500.md) | Presumption That Killing Not Criminal (Pen. Code, § 194) | machine-checked |
+| [520](review/500.md) | First or Second Degree Murder With Malice Aforethought (Pen. Code, § 187) | machine-checked |
+| [521](review/500.md) | First Degree Murder (Pen. Code, § 189) | machine-checked |
+| [522](review/500.md) | Provocation: Effect on Degree of Murder | machine-checked |
+| [523](review/500.md) | First Degree Murder: Hate Crime (Pen. Code, § 190.03) | machine-checked |
+| [524](review/500.md) | Second Degree Murder: Peace Officer (Pen. Code, § 190(b), (c)) | machine-checked |
+| [525](review/500.md) | Second Degree Murder: Discharge From Motor Vehicle (Pen. Code, § 190(d)) | machine-checked |
+| [526](review/500.md) | Implied Malice Murder: Aiding and Abetting | machine-checked |
+| [540A](review/500.md) | Felony Murder: First Degree—Defendant Allegedly Committed Fatal Act (Pen. Code, § 189) | machine-checked |
+| [548](review/500.md) | Murder: Alternative Theories | machine-checked |
+| [562](review/500.md) | Transferred Intent | machine-checked |
+| [563](review/500.md) | Conspiracy to Commit Murder (Pen. Code, § 182) | machine-checked |
+| [570](review/500.md) | Voluntary Manslaughter: Heat of Passion—Lesser Included Offense (Pen. Code, § 192(a)) | machine-checked |
+| [572](review/500.md) | Voluntary Manslaughter: Murder Not Charged (Pen. Code, § 192(a)) | machine-checked |
+| [580](review/500.md) | Involuntary Manslaughter: Lesser Included Offense (Pen. Code, § 192(b)) | machine-checked |
+| [581](review/500.md) | Involuntary Manslaughter: Murder Not Charged (Pen. Code, § 192(b)) | machine-checked |
+| [582](review/500.md) | Involuntary Manslaughter: Failure to Perform Legal Duty—Murder Not Charged (Pen. Code, § 192(b)) | machine-checked |
+| [590](review/500.md) | Gross Vehicular Manslaughter While Intoxicated (Pen. Code, § 191.5(a)) | machine-checked |
+| [592](review/500.md) | Gross Vehicular Manslaughter (Pen. Code, § 192(c)(1)) | machine-checked |
+| [593](review/500.md) | Misdemeanor Vehicular Manslaughter (Pen. Code, § 192(c)(2)) | machine-checked |
+| [594](review/500.md) | Vehicular Manslaughter: Collision for Financial Gain (Pen. Code, § 192(c)(3)) | machine-checked |
+| [595](review/500.md) | Vehicular Manslaughter: Speeding Laws Defined | machine-checked |
 | [860](review/800.md) | Assault on Firefighter or Peace Officer With Deadly Weapon or Force Likely to Produce Great Bodily Injury (Pen. Code, §§ 240, 245(c) & (d)) | approved |
 | [926](review/900.md) | Battery Against Specified Victim Not a Peace Officer (Pen. Code, §§ 242, 243(b)–(c)(1)) | approved |
 | [945](review/900.md) | Battery Against Peace Officer (Pen. Code, §§ 242, 243(b), (c)(2)) | approved |

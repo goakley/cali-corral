@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2130",
   "title": "Refusal—Consciousness of Guilt (Veh. Code, § 23612)",
   "source": {
@@ -23,11 +23,11 @@
     "[A defendant’s silence in response to an officer’s request to (submit to a chemical test/[or] complete a chemical test) may be a refusal. If you conclude that the defendant’s silence was a refusal, it is up to you to decide its meaning and importance. However, evidence that the defendant refused to submit to a chemical test cannot prove guilt by itself.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

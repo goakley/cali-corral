@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2242",
   "title": "Altering, Counterfeiting, Defacing, Destroying, Etc. Vehicle Identification Numbers (Veh. Code, § 10802)",
   "source": {
@@ -20,22 +20,22 @@
     "To prove that the defendant is guilty of this crime, the People must prove that:",
     "1. The defendant knowingly (altered[,]/[or] counterfeited[,]/[or] defaced[,]/[or] destroyed[,]/[or] disguised[,]/[or] falsified[,]/[or] forged[,]/[or] obliterated[,]/[or] removed) [a] vehicle identification number[s];",
     "2. When the defendant did (that/those) act[s], (he/she) intended to (misrepresent the identity/[or] prevent the identification) of ([a] motor vehicle[s]/[or] [a] motor vehicle part[s]);",
-    "2. AND",
+    "AND",
     "3. The defendant did (that/those) act[s] for the purpose of (sale/[or] transfer/[or] import/[or] export) of the (motor vehicle[s]/[or] motor vehicle part[s]).",
     "A *vehicle identification number* is the distinguishing number, letter, or mark used by the manufacturer or the Department of Motor Vehicles to uniquely identify a motor vehicle or a motor vehicle part for registration.",
     "[For the purpose of (sale/[or] transfer) of the motor vehicle[s] or motor vehicle part[s], the defendant need not have intended to act as seller, buyer, transferor, or transferee.]",
     "[The People allege that the defendant (altered[,]/[or] counterfeited[,]/[or] defaced[,]/[or] destroyed[,]/[or] disguised[,]/[or] falsified[,]/[or] forged[,]/[or] obliterated[,]/[or] removed) the vehicle identification number[s] on the following (motor vehicle[s]/[(and/or)] motor vehicle part[s]): ______ <insert description when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant (altered[,]/[or] counterfeited[,]/[or] defaced[,]/[or] destroyed[,]/[or] disguised[,]/[or] falsified[,]/[or] forged[,]/[or] obliterated[,]/[or] removed) at least one of these vehicle identification numbers and you all agree on which vehicle identification number[s] (he/she) (altered[,]/[or] counterfeited[,]/[or] defaced[,]/[or] destroyed[,]/[or] disguised[,]/[or] falsified[,]/[or] forged[,]/[or] obliterated[,]/[or] removed).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
+    37.0,
     19.0,
-    19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

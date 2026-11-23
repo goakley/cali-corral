@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3576",
   "title": "Substitution of Alternate Juror in Capital Case: After Guilt Determination, Before Submission of Penalty Phase to Jury (Pen. Code, § 1089)",
   "source": {
@@ -21,9 +21,9 @@
     "In this phase of the trial, you must now determine what penalty is appropriate in light of the prior verdict[s] and finding[s] and all the other evidence that bears on this question. The People and the defendant[s] have the right to a verdict on the issue of penalty that is reached only after full participation of the jurors whose votes determine that verdict. This right may be assured only if the alternate juror participates fully in the deliberations, including any necessary review of the evidence presented in the prior phase[s] of this trial."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

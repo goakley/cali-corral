@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2573",
   "title": "Possession, Explosion, etc., of Explosive or Destructive Device With Intent to Injure or Damage (Pen. Code, § 18740)",
   "source": {
@@ -32,20 +32,20 @@
     "[The People allege that the defendant (possessed/[or] exploded/[or] ignited/[or] attempted to (explode/[or] ignite)) the following (explosive[s]/[or] destructive device[s]): ______ <insert description of each explosive or destructive device when multiple items alleged>. You may not find the defendant guilty unless all of you agree that the People have proved that the defendant (possessed/[or] exploded/[or] ignited/[or] attempted to (explode/[or] ignite)) at least one of the alleged items, and you all agree on which alleged item (he/she) (possessed/[or] exploded/[or] ignited/[or] attempted to (explode/[or] ignite)).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

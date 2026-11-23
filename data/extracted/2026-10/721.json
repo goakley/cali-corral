@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "721",
   "title": "Special Circumstances: Multiple Murder Convictions (Same Case) (Pen. Code, § 190.2(a)(3))",
   "source": {
@@ -23,8 +23,8 @@
     "2. The defendant has also been convicted of at least one additional charge of either first or second degree murder in this case."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0

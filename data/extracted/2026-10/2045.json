@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2045",
   "title": "False Personation (Pen. Code, § 530)",
   "source": {
@@ -30,8 +30,8 @@
     "[3. The money or property was worth more than $950.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,

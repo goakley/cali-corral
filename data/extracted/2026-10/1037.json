@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1037",
   "title": "Sodomy While in Custody (Pen. Code, § 286(e))",
   "source": {
@@ -25,13 +25,13 @@
     "[______ <Insert name of facility> is a (state prison/local detention facility).] [A *state prison* is any prison or institution maintained by the Department of Corrections and Rehabilitation.] [A *local detention facility* includes any city, county, or regional jail or other facility used to confine adults [or both adults and minors].]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

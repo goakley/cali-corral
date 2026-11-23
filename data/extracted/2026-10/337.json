@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "337",
   "title": "Witness in Custody or Physically Restrained",
   "source": {
@@ -22,10 +22,10 @@
     "[When ______ <insert name[s] of witness[es]> testified, (he/she/they) (was/were) in custody. [Do not speculate about the reason.] The fact that a witness is in custody does not by itself make a witness more or less believable. Evaluate the witness’s testimony according to the instructions I have given you.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

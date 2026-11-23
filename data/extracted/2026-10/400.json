@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "400",
   "title": "Aiding and Abetting: General Principles",
   "source": {
@@ -20,8 +20,8 @@
     "A person is guilty of a crime whether he or she committed it personally or aided and abetted the perpetrator."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "701",
   "title": "Special Circumstances: Intent Requirement for Accomplice Before June 6, 1990",
   "source": {
@@ -22,10 +22,10 @@
     "If the defendant was not the actual killer, then the People have the burden of proving beyond a reasonable doubt that (he/she) acted with the intent to kill for the special circumstance[s] ______ <insert special circumstance[s] without intent requirement for actual killer> to be true. If the People have not met this burden, you must find (this/these) special circumstance[s] (has/have) not been proved true [for that defendant]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1761",
   "title": "Unlawful Deprivation of Retail Business Opportunity (Pen. Code, § 496.6(a))",
   "source": {
@@ -33,21 +33,21 @@
     "[The prosecution is not required to prove the (identity/identities) of the person[s] who committed the act[s] of (shoplifting[,]/[or] theft[,]/[or] burglary) from a retail business.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1155",
   "title": "Prostitution: Agreeing to Engage in Act (Pen. Code, § 647(b))",
   "source": {
@@ -26,13 +26,13 @@
     "[The conduct that furthers the commission of the act of prostitution may happen before, after, or at the same time as the agreement to engage in prostitution.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

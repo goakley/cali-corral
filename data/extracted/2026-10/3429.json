@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3429",
   "title": "Reasonable Person Standard for Physically Disabled Person",
   "source": {
@@ -19,7 +19,7 @@
     "A person with a physical disability is required to (know what/use the amount of care that) a reasonably careful person with the same physical disability would (know/use) in the same situation."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

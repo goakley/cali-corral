@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3455",
   "title": "Mental Incapacity as a Defense (Pen. Code, §§ 25, 29.8)",
   "source": {
@@ -24,12 +24,12 @@
     "The defendant has the burden of proving this defense by a preponderance of the evidence. [This is a different burden of proof from proof beyond a reasonable doubt.] To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that (he/she) was legally incapable of committing a crime because of mental incapacity."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

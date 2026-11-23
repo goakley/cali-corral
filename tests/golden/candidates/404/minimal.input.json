@@ -1,0 +1,27 @@
+{
+  "answers": {
+    "took": [
+      "o1"
+    ],
+    "do_not_consider_evidence": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    },
+    "perpetrator": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "charged_nontarget_offense": "example charged nontarget offense",
+    "target_offense": "example target offense"
+  }
+}

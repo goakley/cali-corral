@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3406",
   "title": "Mistake of Fact",
   "source": {
@@ -22,10 +22,10 @@
     "If you have a reasonable doubt about whether the defendant had the intent or mental state required for ______ <insert crime[s]>, you must find (him/her) not guilty of (that crime/those crimes)."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

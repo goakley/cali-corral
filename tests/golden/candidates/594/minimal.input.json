@@ -1,0 +1,20 @@
+{
+  "answers": {
+    "in_count": false,
+    "in_violation_penal_code": false,
+    "governmental_agency_corporation_business": "o1",
+    "for_purpose_this_instruction": false,
+    "act_causes_death_if": false,
+    "there_may_be_more": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

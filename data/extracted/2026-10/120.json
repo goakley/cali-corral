@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "120",
   "title": "Service Provider for Juror With Disability: Beginning of Trial",
   "source": {
@@ -19,7 +19,7 @@
     "During trial, ______ <insert name or number of juror> will be assisted by (a/an) ______ <insert description of service provider, e.g., sign language interpreter>. The ______ <insert description of service provider> is not a member of the jury and is not to participate in the deliberations in any way other than as necessary to provide the service to ______ <insert name or number of juror>."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

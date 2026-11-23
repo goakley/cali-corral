@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1033",
   "title": "Sodomy of an Unconscious Person (Pen. Code, § 286(f))",
   "source": {
@@ -26,14 +26,14 @@
     "A person is *unconscious of the nature of the act* if he or she is (unconscious or asleep/[or] not aware that the act is occurring/[or] not aware of the essential characteristics of the act because the perpetrator tricked, lied to, or concealed information from the person/[or] not aware of the essential characteristics of the act because the perpetrator fraudulently represented that the sexual penetration served a professional purpose when it served no professional purpose)."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

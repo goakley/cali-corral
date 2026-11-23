@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3472",
   "title": "Right to Self-Defense: May Not Be Contrived",
   "source": {
@@ -20,8 +20,8 @@
     "[However, if the defendant used only non-deadly force, and the opponent responded with such sudden and deadly force that the defendant could not withdraw from the fight, then the defendant had the right to defend (himself/herself) with deadly force and was not required to try to stop fighting.]"
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

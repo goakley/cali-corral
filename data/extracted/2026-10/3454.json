@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3454",
   "title": "Initial Commitment as Sexually Violent Predator (Welf. & Inst. Code, §§ 6600, 6600.1)",
   "source": {
@@ -53,8 +53,8 @@
     "In order to prove that ______ <insert name of respondent> is a danger to the health and safety of others, the People do not need to prove a recent overt act committed while (he/she) was in custody. A *recent overt act* is a criminal act that shows a likelihood that the actor may engage in sexually violent predatory criminal behavior."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -62,14 +62,14 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     16.0,
     16.0,
     16.0,
@@ -86,8 +86,8 @@
     16.0,
     16.0,
     16.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

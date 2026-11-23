@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2748",
   "title": "Possession of Controlled Substance or Paraphernalia in Penal Institution (Pen. Code, § 4573.6)",
   "source": {
@@ -46,8 +46,8 @@
     "[The defendant is not guilty of this offense if (he/she) was authorized to possess the (substance/item) by (the rules of the (Department of Corrections/prison/jail/institution/camp/farm/place)/[or] the specific authorization of the (warden[,]/[or] superintendent[,]/[or] jailer[,]/[or] [other] person in charge of the (prison/jail/institution/camp/farm/place)). The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to possess the (substance/item). If the People have not met this burden, you must find the defendant not guilty of this offense.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -58,22 +58,22 @@
     11.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     15.0,
     16.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

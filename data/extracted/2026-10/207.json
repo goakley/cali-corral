@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "207",
   "title": "Proof Need Not Show Actual Date",
   "source": {
@@ -19,7 +19,7 @@
     "It is alleged that the crime[s] occurred on [or about] ______ <insert alleged date(s) or date ranges by count>. The People are not required to prove that the crime[s] took place exactly on (that/those) day[s] but only that (it/they) happened reasonably close to (that/those) day[s]."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

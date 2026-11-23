@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "908",
   "title": "Assault Under Color of Authority (Pen. Code, § 149)",
   "source": {
@@ -55,8 +55,8 @@
     "[A peace officer who makes or attempts to make an arrest need not retreat or stop because the person being arrested is resisting or threatening to resist. A peace officer does not lose (his/her) right to self-defense by using objectively reasonable force to arrest or to prevent escape or to overcome resistance.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     89.3,
@@ -67,10 +67,10 @@
     1.7,
     16.0,
     0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
@@ -87,11 +87,11 @@
     35.7,
     16.0,
     34.3,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

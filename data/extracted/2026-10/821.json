@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "821",
   "title": "Child Abuse Under Circumstances or Conditions Likely to Produce Great Bodily Harm or Death (Pen. Code, § 273a(a))",
   "source": {
@@ -48,8 +48,8 @@
     "[A child does not need to actually suffer great bodily harm. But if a child does suffer great bodily harm, you may consider that fact, along with all the other evidence, in deciding whether the defendant committed the offense.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,
@@ -66,7 +66,7 @@
     16.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

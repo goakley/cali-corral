@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2577",
   "title": "Explosion of Explosive or Destructive Device Causing Bodily Injury (Pen. Code, § 18750)",
   "source": {
@@ -33,21 +33,21 @@
     "[There may be more than one cause of bodily injury. An act causes bodily injury only if it is a substantial factor in causing the injury. A *substantial factor* is more than a trivial or remote factor. However, it need not be the only factor that causes the injury.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

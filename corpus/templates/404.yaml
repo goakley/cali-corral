@@ -1,0 +1,52 @@
+# CALCRIM No. 404. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "404"
+title: "Intoxication"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "196bdb6991c9d18de30b3ec6bf3d79129c68c6d8037591a58ec53a1a7a6b65e9"
+review: "machine-checked"
+questions:
+  - id: took
+    type: multi
+    options: [ { id: o1, label: took }, { id: o2, label: used }, { id: o3, label: "was given" } ]
+    prompt: "Which apply? (one or more)"
+  - id: do_not_consider_evidence
+    type: boolean
+    prompt: "Include “Do not consider evidence of intoxication in deciding whether ___ is a…”?"
+body:
+  - - "If you conclude that the defendant was intoxicated at the time of the alleged crime, you may consider this evidence in deciding whether the defendant:"
+  - elements:
+      - n: "A"
+        text:
+          - "Knew that "
+          - { field: "perpetrator.name", hint: "insert name of perpetrator" }
+          - " intended to commit "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: ";"
+      - n: "B"
+        text:
+          - "Intended to aid and abet "
+          - { field: "perpetrator.name", hint: "insert name of perpetrator" }
+          - " in committing "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: "."
+        and: "AND"
+    style: upper
+  - - "Someone is "
+    - { em: intoxicated }
+    - " if he or she "
+    - any: took
+      options: [ [ took, { sep: "," } ], [ { sep: or }, " used", { sep: "," } ], [ { sep: or }, " was given" ] ]
+    - " any drug, drink, or other substance that caused an intoxicating effect."
+  - - opt:
+        - "Do not consider evidence of intoxication in deciding whether "
+        - { field: "text.charged_nontarget_offense", hint: "insert charged nontarget offense" }
+        - " is a natural and probable consequence of "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - "."
+      if: do_not_consider_evidence
+people: { perpetrator: { label: "Perpetrator", uses: [ name ] } }

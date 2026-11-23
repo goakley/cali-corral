@@ -1,0 +1,96 @@
+# CALCRIM No. 403. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "403"
+title: "Natural and Probable Consequences (Only Non-Target Offense Charged)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2010, February 2015, September 2019, September 2023"
+  body_sha256: aa0b349aabf2397ba3299e56f3b4150d85f49a49776adb80d92dd8741409df06
+review: "machine-checked"
+questions:
+  - id: before_you_may_decide
+    type: boolean
+    prompt: "Include “Before you may decide whether the defendant is guilty of ___, you mus…”?"
+  - id: do_not_consider_evidence
+    type: boolean
+    prompt: "Include “Do not consider evidence of defendant’s intoxication in deciding whet…”?"
+  - id: will_give_have_given
+    type: choice
+    options: [ { id: o1, label: "will give" }, { id: o2, label: "have given" } ]
+    prompt: "Choose one"
+  - id: people_are_alleging_that
+    type: boolean
+    prompt: "Give the paragraph beginning “The People are alleging that the defendant originally inten…”?"
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+body:
+  - - opt:
+        - "Before you may decide whether the defendant is guilty of "
+        - { field: "text.nontarget_offense", hint: "insert nontarget offense" }
+        - ", you must decide whether "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " "
+        - { agree: defendant, sg: is, pl: are }
+        - " guilty of "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - "."
+      if: before_you_may_decide
+  - - "To prove that the defendant is guilty of "
+    - { field: "text.nontarget_offense", hint: "insert nontarget offense" }
+    - ", the People must prove that:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant is guilty of "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: ";"
+      - n: "2"
+        text:
+          - "During the commission of "
+          - { field: "text.target_offense", hint: "insert target offense" }
+          - " a coparticipant in that "
+          - { field: "text.target_offense", hint: "insert target offense" }
+          - " committed the crime of "
+          - { field: "text.nontarget_offense", hint: "insert nontarget offense" }
+        end: ";"
+      - n: "3"
+        text:
+          - "Under all of the circumstances, a reasonable person in the defendant’s position would have known that the commission of the "
+          - { field: "text.nontarget_offense", hint: "insert nontarget offense" }
+          - " was a natural and probable consequence of the commission of the "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: "."
+        and: "AND"
+  - - "A "
+    - { em: coparticipant }
+    - " in a crime is the perpetrator or anyone who aided and abetted the perpetrator. It does not include a victim or innocent bystander."
+  - - "A "
+    - { em: "natural and probable consequence" }
+    - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+  - - opt:
+        - "Do not consider evidence of defendant’s intoxication in deciding whether "
+        - { field: "text.nontarget_offense", hint: "insert nontarget offense" }
+        - " was a natural and probable consequence of "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - "."
+      if: do_not_consider_evidence
+  - - "To decide whether crime of "
+    - { field: "text.nontarget_offense", hint: "insert nontarget offense" }
+    - " was committed, please refer to the separate instructions that I "
+    - { choice: will_give_have_given, options: [ [ "will give" ], [ "have given" ] ] }
+    - " you on "
+    - { when: [ "!crime_plural", crime_plural ], options: [ that, those ] }
+    - " crime"
+    - { opt: [ s ], if: crime_plural }
+    - "."
+  - opt:
+      - - "The People are alleging that the defendant originally intended to aid and abet "
+        - { field: "text.target_offenses", hint: "insert target offenses" }
+        - "."
+      - - "If you decide that the defendant aided and abetted one of these crimes and that "
+        - { field: "text.nontarget_offense", hint: "insert nontarget offense" }
+        - " was a natural and probable consequence of that crime, the defendant is guilty of "
+        - { field: "text.nontarget_offense", hint: "insert nontarget offense" }
+        - ". You do not need to agree about which of these crimes the defendant aided and abetted."
+    if: people_are_alleging_that

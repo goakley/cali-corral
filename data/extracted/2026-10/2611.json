@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2611",
   "title": "Giving or Offering a Bribe to a Witness Not to Testify (Pen. Code, § 138(a))",
   "source": {
@@ -37,15 +37,15 @@
     "[*Offering a bribe* does not require specific words or behavior, as long as the language used and the circumstances clearly show an intent to ensure that the witness will not attend (a trial/[or] ______ <insert type of other judicial proceeding>). [The thing offered does not need to actually be given, exist at the time it is offered, or have a specific value.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     23.8,
     16.0,
     23.8,
@@ -53,9 +53,9 @@
     23.8,
     16.0,
     23.8,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

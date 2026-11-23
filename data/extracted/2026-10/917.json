@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "917",
   "title": "Insulting Words Are Not a Defense",
   "source": {
@@ -20,8 +20,8 @@
     "[However, if you conclude that ______ <insert name> spoke or acted in a way that threatened ______ <insert name of defendant or third party allegedly threatened> with immediate harm [or an unlawful touching]/[or] great bodily injury/[or] trespass on land/[or] trespass against goods], you may consider that evidence in deciding whether ______ <insert name of defendant> acted in (self-defense/[or] defense of others).]"
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

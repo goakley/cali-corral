@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3515",
   "title": "Multiple Counts: Separate Offenses (Pen. Code, § 954)",
   "source": {
@@ -19,7 +19,7 @@
     "Each of the counts charged in this case is a separate crime [except for Counts ______, which are charged as alternative offenses]. You must consider each count separately and return a separate verdict for each one [except for Counts ______, which are for lesser included offenses and will be addressed in other instructions]."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

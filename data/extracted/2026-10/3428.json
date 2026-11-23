@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3428",
   "title": "Mental Impairment: Defense to Required Mental State (Pen. Code, § 28)",
   "source": {
@@ -22,10 +22,10 @@
     "[Do not consider evidence of mental (disease[,]/[or] defect[,]/[or] disorder) when deciding if ______ <insert name of nontarget offense> was a natural and probable consequence of ______ <insert name of target offense>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,0 +1,62 @@
+{
+  "answers": {
+    "in_count": true,
+    "in_violation_penal_code": false,
+    "alcoholic_beverage": [
+      "o1"
+    ],
+    "under_combined_influence_alcoholic": false,
+    "drove_under_influence_alcoholic": "o1",
+    "a_or_an": "o2",
+    "misdemeanor": [
+      "o1",
+      "o3"
+    ],
+    "misdemeanor_s": [
+      "o2"
+    ],
+    "people_allege_that_defendant": true,
+    "also": false,
+    "people_also_allege_that": true,
+    "alcoholic_beverage_2": [
+      "o2"
+    ],
+    "great_bodily_injury_means": true,
+    "person_facing_sudden_unexpected": false,
+    "act_causes_death_if": true,
+    "there_may_be_more": false,
+    "misdemeanor_s_2": [
+      "o1",
+      "o3"
+    ],
+    "misdemeanors": [
+      "o2"
+    ],
+    "people_allege_that_defendant_2": true,
+    "people_have_burden_proving": false,
+    "misdemeanor_plural": true,
+    "infraction_plural": false,
+    "instruction_plural": true,
+    "tell_plural": false,
+    "act_plural": true,
+    "crime_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "act_s_alleged": "example act s alleged",
+    "alleged_predicate_acts_when": "example alleged predicate acts when",
+    "f3": "example f3",
+    "f6": "example f6",
+    "lesser_offense_s": "example lesser offense s",
+    "misdemeanor_s_infraction_s": "example misdemeanor s infraction s",
+    "misdemeanor_s_infraction_s_2": "example misdemeanor s infraction s 2"
+  }
+}

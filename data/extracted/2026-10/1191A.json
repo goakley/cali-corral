@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1191A",
   "title": "Evidence of Uncharged Sex Offense",
   "source": {
@@ -23,11 +23,11 @@
     "[Do not consider this evidence for any other purpose [except for the limited purpose of <insert other permitted purpose, e.g., determining the defendant’s credibility> ______].]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

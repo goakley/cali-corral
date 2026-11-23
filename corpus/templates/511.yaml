@@ -1,0 +1,115 @@
+# CALCRIM No. 511. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "511"
+title: "Excusable Homicide: Accident in the Heat of Passion"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2011, September 2019, September 2020, March 2022, October 2025"
+  body_sha256: "263b90cf7cb4df01edca03ed5ae571132c09c79db35364403c39885cdadfc932"
+review: "machine-checked"
+questions:
+  - id: murder
+    type: multi
+    options: [ { id: o1, label: murder }, { id: o2, label: manslaughter } ]
+    prompt: "Which apply? (one or more)"
+  - id: suddenly_provoked_by
+    type: multi
+    options:
+      - { id: o1, label: "suddenly provoked by ___" }
+      - { id: o2, label: "suddenly drawn into combat by ___" }
+    prompt: "Which apply? (one or more)"
+  - id: that_is_inherently_deadly
+    type: boolean
+    prompt: "Include “that is inherently deadly or dangerous or one”?"
+  - id: dangerous_weapon_is_any
+    type: boolean
+    prompt: "Include “A dangerous weapon is any object, instrument, or weapon [that is inhe…”?"
+  - id: object_is_inherently_deadly
+    type: boolean
+    prompt: "Include “An object is inherently deadly if it is deadly or dangerous in the or…”?"
+  - id: great_bodily_injury_means
+    type: boolean
+    prompt: "Include “Great bodily injury means significant or substantial physical injury.…”?"
+body:
+  - - "The defendant is not guilty of "
+    - { any: murder, options: [ [ murder ], [ { sep: or }, " manslaughter" ] ] }
+    - " if "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " killed someone by accident while acting in the heat of passion. Such a killing is excused, and therefore not unlawful, if, at the time of the killing:"
+  - elements:
+      - { n: "1", text: [ "The defendant acted in the heat of passion" ], end: ";" }
+      - n: "2"
+        text:
+          - "The defendant was "
+          - any: suddenly_provoked_by
+            options:
+              - [ "suddenly provoked by ", { field: "decedent.name", hint: "insert name of decedent" } ]
+              - - { sep: or }
+                - " suddenly drawn into combat by "
+                - { field: "decedent.name", hint: "insert name of decedent" }
+        end: ";"
+      - n: "3"
+        text:
+          - "The defendant did not take undue advantage of "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+        end: ";"
+      - { n: "4", text: [ "The defendant did not use a dangerous weapon" ], end: ";" }
+      - n: "5"
+        text:
+          - "The defendant did not kill "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+          - " in a cruel or unusual way"
+        end: ";"
+      - n: "6"
+        text:
+          - "The defendant did not intend to kill "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+          - " and did not act with conscious disregard of the danger to human life"
+        end: ";"
+      - n: "7"
+        text: [ "The defendant did not act with criminal negligence" ]
+        end: "."
+        and: "AND"
+  - - "A person acts "
+    - { em: "in the heat of passion" }
+    - " when he or she is provoked into doing a rash act under the influence of intense emotion that obscures his or her reasoning or judgment. The provocation must be sufficient to have caused a person of average disposition to act rashly and without due deliberation, that is, from passion rather than from judgment."
+  - - "Heat of passion does not require anger, rage, or any specific emotion. It can be any violent or intense emotion that causes a person to act without due deliberation and reflection."
+  - - "In order for the killing to be excused on this basis, the defendant must have acted under the direct and immediate influence of provocation as I have defined it. While no specific type of provocation is required, slight or remote provocation is not sufficient. Sufficient provocation may occur over a short or long period of time."
+  - - "It is not enough that the defendant simply was provoked. The defendant is not allowed to set up "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " own standard of conduct. You must decide whether the defendant was provoked and whether the provocation was sufficient. In deciding whether the provocation was sufficient, consider whether a person of average disposition, in the same situation and knowing the same facts, would have reacted from passion rather than judgment."
+  - - opt:
+        - "A "
+        - { em: "dangerous weapon" }
+        - " is any object, instrument, or weapon "
+        - { opt: [ "that is inherently deadly or dangerous or one" ], if: that_is_inherently_deadly }
+        - " that is used in such a way that it is capable of causing and likely to cause death or great bodily injury."
+      if: dangerous_weapon_is_any
+  - - opt:
+        - "An object is "
+        - { em: "inherently deadly" }
+        - " if it is deadly or dangerous in the ordinary use for which it was designed."
+      if: object_is_inherently_deadly
+  - - opt:
+        - { em: "Great bodily injury" }
+        - " means significant or substantial physical injury. It is an injury that is greater than moderate harm."
+      if: great_bodily_injury_means
+  - - { em: "Criminal negligence" }
+    - " involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with "
+    - { em: "criminal negligence" }
+    - " when:"
+  - elements:
+      - n: "1"
+        text: [ "He or she acts in a way that creates a high risk of death or great bodily injury" ]
+        end: ";"
+      - n: "2"
+        text: [ "A reasonable person would have known that acting in that way would create such a risk" ]
+        end: "."
+        and: "AND"
+  - - "In other words, a person acts with criminal negligence when the way he or she acts is so different from how an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act."
+  - - "The People have the burden of proving beyond a reasonable doubt that the killing was not excused. If the People have not met this burden, you must find the defendant not guilty of "
+    - { any: murder, options: [ [ murder ], [ { sep: or }, " manslaughter" ] ] }
+    - "."
+people: { decedent: { label: "Decedent", uses: [ name ] } }

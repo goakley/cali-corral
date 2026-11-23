@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "594",
   "title": "Vehicular Manslaughter: Collision for Financial Gain (Pen. Code, § 192(c)(3))",
   "source": {
@@ -29,14 +29,14 @@
     "[There may be more than one cause of death. An act causes death only if it is a substantial factor in causing the death. A *substantialfactor* is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0

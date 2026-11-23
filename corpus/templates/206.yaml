@@ -14,8 +14,8 @@ questions:
     type: choice
     options: [ { id: o1, label: do }, { id: o2, label: does } ]
     prompt: "Choose one"
-  - { id: charge_plural, type: boolean, prompt: "More than one charge?" }
-  - { id: need_plural, type: boolean, prompt: "More than one need?" }
+  - { id: charge_plural, type: boolean, prompt: "Include the “s” in “charge[s]”?" }
+  - { id: need_plural, type: boolean, prompt: "Include the “s” in “need[s]”?" }
 body:
   - - "The charge"
     - { opt: [ s ], if: charge_plural }

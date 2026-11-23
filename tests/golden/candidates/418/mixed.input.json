@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "defendant_s_defendant_s": "o1",
+    "any": false,
+    "was_were": "o1",
+    "a": false,
+    "you_may_not_consider": true,
+    "you_may_not_consider_2": false,
+    "crime_plural": true,
+    "member_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_s_coconspirator_s": "example name s coconspirator s",
+    "name_s_defendant_s": "example name s defendant s",
+    "name_s_defendant_s_2": "example name s defendant s 2"
+  }
+}

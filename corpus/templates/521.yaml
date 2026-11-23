@@ -1,0 +1,389 @@
+# CALCRIM No. 521. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "521"
+title: "First Degree Murder (Pen. Code, § 189)"
+source:
+  file: "calcrim-2026-supplement"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2006, June 2007, April 2010, October 2010, February 2012, February 2013, February 2015, August 2015, September 2017, September 2022, September 2023, October 2026*"
+  body_sha256: dea7525ad00e1fd5ace980da05c58d739d84641204281d945d521bcaf31987fb
+review: "machine-checked"
+questions:
+  - id: two
+    type: choice
+    options: [ { id: o1, label: two }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - { id: and, type: boolean, prompt: "Include “and”?" }
+  - { id: choice, type: boolean, prompt: "Include “___”?" }
+  - id: both_all
+    type: choice
+    options: [ { id: o1, label: both }, { id: o2, label: "all ___" } ]
+    prompt: "Choose one"
+  - id: each_theory_first_degree
+    type: boolean
+    prompt: "Give the paragraph beginning “Each theory of first degree murder has different requiremen…”?"
+  - id: defendant_is_guilty_first
+    type: boolean
+    prompt: "Give the paragraph beginning “The defendant is guilty of first degree murder if the Peopl…”?"
+  - id: defendant_is_guilty_first_2
+    type: boolean
+    prompt: "Give the paragraph beginning “The defendant is guilty of first degree murder if the Peopl…”?"
+  - id: person_commits_act_willfully
+    type: boolean
+    prompt: "Include “A person commits an act willfully when he or she does it willingly or…”?"
+  - id: there_is_no_requirement
+    type: boolean
+    prompt: "Include “There is no requirement that the person killed be aware of the pain.”?"
+  - id: finding_torture_does_not
+    type: boolean
+    prompt: "Include “A finding of torture does not require that the defendant intended to…”?"
+  - id: deliberation_means_carefully_weighing
+    type: boolean
+    prompt: "Include “Deliberation means carefully weighing the considerations for and agai…”?"
+  - id: person_can_conceal_his
+    type: boolean
+    prompt: "Include “A person can conceal his or her purpose even if the person killed is…”?"
+  - id: concealment_can_be_accomplished
+    type: boolean
+    prompt: "Include “The concealment can be accomplished by ambush or some other secret pl…”?"
+  - id: defendant_is_guilty_first_3
+    type: boolean
+    prompt: "Give the paragraph beginning “The defendant is guilty of first degree murder if the Peopl…”?"
+  - id: defendant_is_guilty_first_4
+    type: boolean
+    prompt: "Include “The defendant is guilty of first degree murder if the People have pro…”?"
+  - id: explosive_is_any_substance
+    type: boolean
+    prompt: "Include “An explosive is any substance, or combination of substances, (1) whos…”?"
+  - { id: also, type: boolean, prompt: "Include “also”?" }
+  - id: explosive_is_also_any
+    type: boolean
+    prompt: "Include “An explosive is [also] any substance whose main purpose is to be comb…”?"
+  - { id: is_explosive, type: boolean, prompt: "Include “___ is an explosive.”?" }
+  - id: destructive_device_is
+    type: boolean
+    prompt: "Include “A destructive device is ___.”?"
+  - id: is_destructive_device
+    type: boolean
+    prompt: "Include “___ is a destructive device.”?"
+  - id: defendant_is_guilty_first_5
+    type: boolean
+    prompt: "Include “The defendant is guilty of first degree murder if the People have pro…”?"
+  - id: is_weapon_mass_destruction
+    type: boolean
+    prompt: "Include “___ is a weapon of mass destruction.”?"
+  - id: is_chemical_warfare_agent
+    type: boolean
+    prompt: "Include “___ is a chemical warfare agent.”?"
+  - id: defendant_has_been_prosecuted
+    type: boolean
+    prompt: "Give the paragraph beginning “The defendant has been prosecuted for first degree murder u…”?"
+  - id: defendant_is_guilty_first_6
+    type: boolean
+    prompt: "Include “The defendant is guilty of first degree murder if the People have pro…”?"
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    prompt: "Choose one"
+  - id: passenger_vehicle_motorcycle_motor
+    type: choice
+    options:
+      - { id: o1, label: "passenger vehicle" }
+      - { id: o2, label: motorcycle }
+      - { id: o3, label: "motor scooter" }
+      - { id: o4, label: bus }
+      - { id: o5, label: "school bus" }
+      - { id: o6, label: "commercial vehicle" }
+      - { id: o7, label: "truck tractor and trailer" }
+      - { id: o8, label: "___" }
+    prompt: "Choose one"
+  - id: defendant_is_guilty_first_7
+    type: boolean
+    prompt: "Give the paragraph beginning “The defendant is guilty of first degree murder if the Peopl…”?"
+  - id: poison_is_substance_applied
+    type: boolean
+    prompt: "Include “Poison is a substance, applied externally to the body or introduced i…”?"
+  - id: defendant_is_guilty_first_8
+    type: boolean
+    prompt: "Give the paragraph beginning “The defendant is guilty of first degree murder if the Peopl…”?"
+  - { id: is_poison, type: boolean, prompt: "Include “___ is a poison.”?" }
+  - id: requirements_for_second_degree
+    type: boolean
+    prompt: "Include “The requirements for second degree murder based on express or implied…”?"
+  - { id: act_plural, type: boolean, prompt: "Include the “s” in “act[s]”?" }
+body:
+  - { note: "Select the appropriate section[s]. Give the final paragraph in every case." }
+  - { note: "Give if multiple theories alleged.", governs: [ defendant_has_been_prosecuted ] }
+  - opt:
+      - - "The defendant has been prosecuted for first degree murder under "
+        - { choice: two, options: [ [ two ], [ { field: "text.number", hint: "insert number" } ] ] }
+        - " theories: "
+        - "("
+        - "1"
+        - ")"
+        - " "
+        - field: "text.first_theory_e_g"
+          hint: "insert first theory, e.g., “the murder was willful, deliberate, and premeditated”"
+        - " "
+        - { opt: [ and ], if: and }
+        - " "
+        - "("
+        - "2"
+        - ")"
+        - " "
+        - field: "text.second_theory_e_g"
+          hint: "insert second theory, e.g., “the murder was committed by lying in wait”"
+        - " "
+        - { opt: [ and ], if: and }
+        - " "
+        - opt: [ { field: "text.additional_theories", hint: "insert additional theories" } ]
+          if: choice
+        - "."
+      - opt:
+          - - "Each theory of first degree murder has different requirements, and I will instruct you on "
+            - choice: both_all
+              options: [ [ both ], [ "all ", { field: "text.number", hint: "insert number" } ] ]
+            - "."
+          - - "You may not find the defendant guilty of first degree murder unless all of you agree that the People have proved that the defendant committed murder. But all of you do not need to agree on the same theory."
+        if: each_theory_first_degree
+      - { note: "A. Deliberation and Premeditation", governs: [ defendant_is_guilty_first ] }
+      - opt:
+          - - "The defendant is guilty of first degree murder if the People have proved that "
+            - { pronoun: defendant, forms: [ he, she ] }
+            - " acted willfully, deliberately, and with premeditation. The defendant acted "
+            - { em: willfully }
+            - " if "
+            - { pronoun: defendant, forms: [ he, she ] }
+            - " intended to kill. The defendant acted "
+            - { em: deliberately }
+            - " if "
+            - { pronoun: defendant, forms: [ he, she ] }
+            - " carefully weighed the considerations for and against "
+            - { pronoun: defendant, forms: [ his, her ] }
+            - " choice and, knowing the consequences, decided to kill. The defendant "
+            - { em: "acted with premeditation" }
+            - " if "
+            - { pronoun: defendant, forms: [ he, she ] }
+            - " decided to kill before completing the act"
+            - { opt: [ s ], if: act_plural }
+            - " that caused death."
+          - - "The length of time the person spends considering whether to kill does not alone determine whether the killing is deliberate and premeditated. The amount of time required for deliberation and premeditation may vary from person to person and according to the circumstances. A decision to kill made rashly, impulsively, or without careful consideration is not deliberate and premeditated. On the other hand, a cold, calculated decision to kill can be reached quickly. The test is the extent of the reflection, not the length of time."
+        if: defendant_is_guilty_first
+      - { note: "B. Torture", governs: [ defendant_is_guilty_first_2 ] }
+      - opt:
+          - - "The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by torture. The defendant committed murder by torture if:"
+          - elements:
+              - n: "1"
+                text:
+                  - { pronoun: defendant, forms: [ "He", "She" ] }
+                  - " willfully, deliberately, and with premeditation intended to inflict extreme and prolonged pain on the person killed while that person was still alive"
+                end: ";"
+              - n: "2"
+                text:
+                  - { pronoun: defendant, forms: [ "He", "She" ] }
+                  - " intended to inflict such pain on the person killed for the calculated purpose of revenge, extortion, persuasion, or any other sadistic reason"
+                end: ";"
+              - n: "3"
+                text: [ "The acts causing death involved a high degree of probability of death" ]
+                end: ";"
+              - { n: "4", text: [ "The torture was a cause of death" ], end: ".", and: "AND" }
+        if: defendant_is_guilty_first_2
+      - - opt:
+            - "A person commits an act "
+            - { em: willfully }
+            - " when he or she does it willingly or on purpose. A person commits an act "
+            - { em: deliberately }
+            - " if he or she carefully weighs the considerations for and against his or her choice and, knowing the consequences, decides to act. A person commits an act with "
+            - { em: premeditation }
+            - " if "
+            - { pronoun: defendant, forms: [ he, she ] }
+            - " decided to inflict extreme and prolonged pain on a person before completing the act"
+            - { opt: [ s ], if: act_plural }
+            - " that caused death."
+          if: person_commits_act_willfully
+      - - opt: [ "There is no requirement that the person killed be aware of the pain." ]
+          if: there_is_no_requirement
+      - - opt: [ "A finding of torture does not require that the defendant intended to kill." ]
+          if: finding_torture_does_not
+      - { note: "C. Lying in Wait", governs: [ defendant_is_guilty_first_3 ] }
+      - opt:
+          - - "The defendant is guilty of first degree murder if the People have proved that the defendant committed murder while lying in wait or immediately thereafter. The defendant committed murder by lying in wait if:"
+          - elements:
+              - n: "1"
+                text:
+                  - { pronoun: defendant, forms: [ "He", "She" ] }
+                  - " concealed "
+                  - { pronoun: defendant, forms: [ his, her ] }
+                  - " purpose from the person killed"
+                end: ";"
+              - n: "2"
+                text:
+                  - { pronoun: defendant, forms: [ "He", "She" ] }
+                  - " waited and watched for an opportunity to act"
+                end: ";"
+              - n: "3"
+                text:
+                  - "Then, from a position of advantage, "
+                  - { pronoun: defendant, forms: [ he, she ] }
+                  - " intended to and did make a surprise attack on the person killed"
+                end: "."
+                and: "AND"
+          - - "The lying in wait does not need to continue for any particular period of time, but its duration must be substantial enough to show a state of mind equivalent to deliberation or premeditation. "
+            - opt:
+                - { em: "Deliberation" }
+                - " means carefully weighing the considerations for and against a choice and, knowing the consequences, deciding to act. An act is done with "
+                - { em: premeditation }
+                - " if the decision to commit the act is made before the act is done."
+              if: deliberation_means_carefully_weighing
+          - - opt:
+                - "A person can conceal his or her purpose even if the person killed is aware of the person’s physical presence."
+              if: person_can_conceal_his
+          - - opt: [ "The concealment can be accomplished by ambush or some other secret plan." ]
+              if: concealment_can_be_accomplished
+        if: defendant_is_guilty_first_3
+      - { note: "D. Destructive Device or Explosive" }
+      - - opt:
+            - "The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by using a destructive device or explosive."
+          if: defendant_is_guilty_first_4
+      - - opt:
+            - "An "
+            - { em: explosive }
+            - " is any substance, or combination of substances, "
+            - "("
+            - "1"
+            - ")"
+            - " whose main or common purpose is to detonate or rapidly combust and "
+            - "("
+            - "2"
+            - ")"
+            - " which is capable of a relatively instantaneous or rapid release of gas and heat."
+          if: explosive_is_any_substance
+      - - opt:
+            - "An "
+            - { em: explosive }
+            - " is "
+            - { opt: [ also ], if: also }
+            - " any substance whose main purpose is to be combined with other substances to create a new substance that can release gas and heat rapidly or relatively instantaneously."
+          if: explosive_is_also_any
+      - - opt:
+            - field: "text.type_explosive_from_health"
+              hint: "insert type of explosive from Health & Saf. Code, § 12000"
+            - " is an "
+            - { em: "explosive." }
+          if: is_explosive
+      - - opt:
+            - "A "
+            - { em: "destructive device" }
+            - " is "
+            - field: "text.definition_supported_by_evidence"
+              hint: "insert definition supported by evidence from Pen. Code, § 16460"
+            - "."
+          if: destructive_device_is
+      - - opt:
+            - field: "text.type_destructive_device_from"
+              hint: "insert type of destructive device from Pen. Code, § 16460"
+            - " is a "
+            - { em: "destructive device." }
+          if: is_destructive_device
+      - { note: "E. Weapon of Mass Destruction" }
+      - - opt:
+            - "The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by using a weapon of mass destruction."
+          if: defendant_is_guilty_first_5
+      - - opt:
+            - field: "text.type_weapon_from_pen"
+              hint: "insert type of weapon from Pen. Code, § 11417(a)(1)"
+            - " is a "
+            - { em: "weapon of mass destruction" }
+            - "."
+          if: is_weapon_mass_destruction
+      - - opt:
+            - field: "text.type_agent_from_pen"
+              hint: "insert type of agent from Pen. Code, § 11417(a)(2)"
+            - " is a "
+            - { em: "chemical warfare agent" }
+            - "."
+          if: is_chemical_warfare_agent
+    if: defendant_has_been_prosecuted
+  - { note: "F. Penetrating Ammunition" }
+  - - opt:
+        - "The defendant is guilty of first degree murder if the People have proved that when the defendant committed murder, "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " used ammunition designed primarily to penetrate metal or armor to commit the murder and "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " knew that the ammunition was designed primarily to penetrate metal or armor."
+      if: defendant_is_guilty_first_6
+  - { note: "G. Discharge From Vehicle", governs: [ defendant_is_guilty_first_7 ] }
+  - opt:
+      - - "The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by shooting a firearm from a motor vehicle. The defendant committed this kind of murder if:"
+      - elements:
+          - n: "1"
+            text: [ { pronoun: defendant, forms: [ "He", "She" ] }, " shot a firearm from a motor vehicle" ]
+            end: ";"
+          - n: "2"
+            text:
+              - { pronoun: defendant, forms: [ "He", "She" ] }
+              - " intentionally shot at a person who was outside the vehicle"
+            end: ";"
+          - n: "3"
+            text: [ { pronoun: defendant, forms: [ "He", "She" ] }, " intended to kill that person" ]
+            end: "."
+            and: "AND"
+      - - "A "
+        - { em: firearm }
+        - " is any device designed to be used as a weapon, from which a projectile is discharged or expelled through a barrel by the force of an explosion or other form of combustion."
+      - - "A "
+        - { em: "motor vehicle" }
+        - " includes "
+        - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+        - " "
+        - choice: passenger_vehicle_motorcycle_motor
+          options:
+            - [ "passenger vehicle" ]
+            - [ motorcycle ]
+            - [ "motor scooter" ]
+            - [ bus ]
+            - [ "school bus" ]
+            - [ "commercial vehicle" ]
+            - [ "truck tractor and trailer" ]
+            - [ { field: "text.other_type_motor_vehicle", hint: "insert other type of motor vehicle" } ]
+        - "."
+    if: defendant_is_guilty_first_7
+  - { note: "H. Poison", governs: [ defendant_is_guilty_first_8 ] }
+  - opt:
+      - - "The defendant is guilty of first degree murder if the People have proved that the defendant committed murder by using poison. The defendant committed murder by poison if:"
+      - elements:
+          - n: "1"
+            text:
+              - { pronoun: defendant, forms: [ "He", "She" ] }
+              - " deliberately gave "
+              - { field: "victim.name", hint: "insert name of victim" }
+              - " poison"
+            end: ";"
+          - n: "2"
+            text:
+              - "When giving the poison, the defendant intended to kill "
+              - { field: "victim.name", hint: "insert name of victim" }
+              - " or to inflict injury likely to cause "
+              - { field: "victim.name", hint: "insert name of victim" }
+              - "’s death"
+            end: "."
+            and: "AND"
+      - - opt:
+            - { em: "Poison" }
+            - " is a substance, applied externally to the body or introduced into the body, that can kill by its own inherent qualities."
+          if: poison_is_substance_applied
+    if: defendant_is_guilty_first_8
+  - - opt:
+        - { field: "text.name_substance", hint: "insert name of substance" }
+        - " is a "
+        - { em: poison }
+        - "."
+      if: is_poison
+  - - opt:
+        - "The requirements for second degree murder based on express or implied malice are explained in CALCRIM No. 520, "
+        - { em: "First or Second Degree Murder With Malice Aforethought" }
+        - "."
+      if: requirements_for_second_degree
+  - - "The People have the burden of proving beyond a reasonable doubt that the killing was first degree murder rather than a lesser crime. If the People have not met this burden, you must find the defendant not guilty of first degree murder and the murder is second degree murder."
+people: { victim: { label: "Victim", uses: [ name ] } }

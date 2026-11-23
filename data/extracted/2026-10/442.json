@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "442",
   "title": "Solicitation of a Minor (Pen. Code, § 653j)",
   "source": {
@@ -39,8 +39,8 @@
     "Consider all of these factors when deciding whether the defendant’s alleged acts were a single crime or ______ <insert number of solicitations alleged by the People> separate crimes of solicitation.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -51,15 +51,15 @@
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

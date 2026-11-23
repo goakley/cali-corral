@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3425",
   "title": "Unconsciousness",
   "source": {
@@ -22,10 +22,10 @@
     "The People must prove beyond a reasonable doubt that the defendant was conscious when (he/she) acted. If there is proof beyond a reasonable doubt that the defendant acted as if (he/she) were conscious, you should conclude that (he/she) was conscious, unless based on all the evidence, you have a reasonable doubt that (he/she) was conscious, in which case you must find (him/her) not guilty."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

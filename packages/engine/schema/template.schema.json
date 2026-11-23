@@ -523,7 +523,7 @@
               "type": "string"
             },
             "style": {
-              "enum": ["number", "alpha"]
+              "enum": ["number", "alpha", "upper"]
             },
             "plain": {
               "const": true

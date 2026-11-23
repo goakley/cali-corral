@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2992",
   "title": "Keeping a Place for Recording Bets (Pen. Code, § 337a(a)(2))",
   "source": {
@@ -29,16 +29,16 @@
     "[It is not required that any bets actually be made.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

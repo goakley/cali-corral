@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "303",
   "title": "Limited Purpose Evidence in General",
   "source": {
@@ -19,7 +19,7 @@
     "During the trial, certain evidence was admitted for a limited purpose. You may consider that evidence only for that purpose and for no other."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

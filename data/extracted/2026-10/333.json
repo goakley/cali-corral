@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "333",
   "title": "Opinion Testimony of Lay Witness",
   "source": {
@@ -19,7 +19,7 @@
     "(A witness/Witnesses)[, who (was/were) not testifying as [an] expert[s],] gave (his/her/their) opinion[s] during the trial. You may but are not required to accept (that/those) opinion[s] as true or correct. You may give the opinion[s] whatever weight you think appropriate. Consider the extent of the witness’s opportunity to perceive the matters on which his or her opinion is based, the reasons the witness gave for any opinion, and the facts or information on which the witness relied in forming that opinion. You must decide whether information on which the witness relied was true and accurate. You may disregard all or any part of an opinion that you find unbelievable, unreasonable, or unsupported by the evidence."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "252",
   "title": "Union of Act and Intent",
   "source": {
@@ -23,11 +23,11 @@
     "[For you to find a person guilty of the crime[s] (in this case/of ______ <insert offense(s)>) [or to find ______ <insert allegation(s)> true], that person must not only intentionally commit the prohibited act [or intentionally fail to do the required act], but must do so with a specific mental state. The act and the specific mental state required are explained in the instruction[s] for (that/those) crime[s] [or allegation[s]].]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

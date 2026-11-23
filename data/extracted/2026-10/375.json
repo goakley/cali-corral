@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "375",
   "title": "Evidence of Uncharged Offense to Prove Identity, Intent, Common Plan, etc.",
   "source": {
@@ -46,14 +46,14 @@
     "If you conclude that the defendant committed the (uncharged offense[s]/act[s]), that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of ______ <insert charge[s]> [or that the ______ <insert allegation[s]> has been proved]. The People must still prove (the/each) (charge/[and] allegation) beyond a reasonable doubt."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     16.0,
     16.0,
     16.0,
@@ -70,10 +70,10 @@
     16.0,
     16.0,
     16.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,0 +1,65 @@
+{
+  "answers": {
+    "in_count": true,
+    "in_violation_penal_code": false,
+    "defendant_is_charged_in": true,
+    "gross_vehicular_manslaughter": [
+      "o2"
+    ],
+    "vehicular_manslaughter_with_ordinary": true,
+    "driving_vehicle_operating_vessel": "o2",
+    "misdemeanor": [
+      "o1",
+      "o3"
+    ],
+    "misdemeanor_2": [
+      "o2"
+    ],
+    "misdemeanor_s": [
+      "o1"
+    ],
+    "people_allege_that_defendant": false,
+    "also": true,
+    "people_also_allege_that": false,
+    "difference_between_this_offense": true,
+    "on_other_hand": false,
+    "does_something_that": [
+      "o1"
+    ],
+    "person_facing_sudden_unexpected": false,
+    "act_causes_death_if": true,
+    "there_may_be_more": false,
+    "misdemeanor_s_2": [
+      "o1",
+      "o3"
+    ],
+    "misdemeanors": [
+      "o2"
+    ],
+    "misdemeanor_3": [
+      "o1",
+      "o3"
+    ],
+    "people_allege_that_defendant_2": false,
+    "misdemeanor_plural": true,
+    "infraction_plural": false,
+    "instruction_plural": true,
+    "tell_plural": false,
+    "act_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "act_s_alleged": "example act s alleged",
+    "alleged_predicate_acts_when": "example alleged predicate acts when",
+    "f3": "example f3",
+    "misdemeanor_s_infraction_s": "example misdemeanor s infraction s"
+  }
+}

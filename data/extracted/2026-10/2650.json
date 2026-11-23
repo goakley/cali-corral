@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2650",
   "title": "Threatening a Public Official (Pen. Code, § 76)",
   "source": {
@@ -36,8 +36,8 @@
     "[Someone who intends that a statement be understood as a threat does not have to actually intend to carry out the threatened act [or intend to have someone else do so].]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -47,13 +47,13 @@
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

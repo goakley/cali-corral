@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "460",
   "title": "Attempt Other Than Attempted Murder (Pen. Code, § 21a)",
   "source": {
@@ -27,15 +27,15 @@
     "[The defendant may be guilty of attempt even if you conclude that ______ <insert target offense> was actually completed.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

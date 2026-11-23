@@ -1,0 +1,254 @@
+# CALCRIM No. 593. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "593"
+title: "Misdemeanor Vehicular Manslaughter (Pen. Code, § 192(c)(2))"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised December 2008, October 2010, April 2011, October 2025*"
+  body_sha256: ffa78a5d8c4c916fbc26ed37cfe8840049b9c54a9f38a2af0c28c57cfcc53735
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 192(c)(2)”?"
+  - id: defendant_is_charged_in
+    type: boolean
+    prompt: "Include “The defendant is charged [in Count ___] with vehicular manslaughter […”?"
+  - id: gross_vehicular_manslaughter
+    type: multi
+    options:
+      - { id: o1, label: "gross vehicular manslaughter while intoxicated" }
+      - { id: o2, label: "gross vehicular manslaughter" }
+      - { id: o3, label: "vehicular manslaughter with ordinary negligence while intoxicated." }
+    prompt: "Which apply? (one or more)"
+  - id: vehicular_manslaughter_with_ordinary
+    type: boolean
+    prompt: "Include “Vehicular manslaughter with ordinary negligence is a lesser crime tha…”?"
+  - id: driving_vehicle_operating_vessel
+    type: choice
+    options: [ { id: o1, label: "driving a vehicle" }, { id: o2, label: "operating a vessel" } ]
+    prompt: "Choose one"
+  - id: misdemeanor
+    type: multi
+    options:
+      - { id: o1, label: "a misdemeanor" }
+      - { id: o2, label: "an infraction" }
+      - { id: o3, label: "a lawful act in an unlawful manner" }
+    prompt: "Which apply? (one or more)"
+  - id: misdemeanor_2
+    type: multi
+    options:
+      - { id: o1, label: misdemeanor }
+      - { id: o2, label: infraction }
+      - { id: o3, label: "otherwise lawful act" }
+    prompt: "Which apply? (one or more)"
+  - id: misdemeanor_s
+    type: multi
+    options: [ { id: o1, label: "misdemeanor[s]" }, { id: o2, label: "infraction[s]" } ]
+    prompt: "Which apply? (one or more)"
+  - id: people_allege_that_defendant
+    type: boolean
+    prompt: "Give the paragraph beginning “The People allege that the defendant committed the followin…”?"
+  - { id: also, type: boolean, prompt: "Include “also”?" }
+  - id: people_also_allege_that
+    type: boolean
+    prompt: "Include “The People [also] allege that the defendant committed the following o…”?"
+  - id: difference_between_this_offense
+    type: boolean
+    prompt: "Include “The difference between this offense and the charged offense of gross…”?"
+  - { id: on_other_hand, type: boolean, prompt: "Include “, on the other hand,”?" }
+  - id: does_something_that
+    type: multi
+    options:
+      - id: o1
+        label: "does something that a reasonably careful person would not do in the same situat…"
+      - id: o2
+        label: "fails to do something that a reasonably careful person would do in the same sit…"
+    prompt: "Which apply? (one or more)"
+  - id: person_facing_sudden_unexpected
+    type: boolean
+    prompt: "Include “A person facing a sudden and unexpected emergency situation not cause…”?"
+  - id: act_causes_death_if
+    type: boolean
+    prompt: "Include “An act causes death if the death is the direct, natural, and probable…”?"
+  - id: there_may_be_more
+    type: boolean
+    prompt: "Include “There may be more than one cause of death. An act causes death only i…”?"
+  - id: misdemeanor_s_2
+    type: multi
+    options:
+      - { id: o1, label: "misdemeanor[s]" }
+      - { id: o2, label: "infraction[s]" }
+      - { id: o3, label: "lawful act[s] that might cause death" }
+    prompt: "Which apply? (one or more)"
+  - id: misdemeanors
+    type: multi
+    options:
+      - { id: o1, label: misdemeanors }
+      - { id: o2, label: infractions }
+      - { id: o3, label: "otherwise lawful acts that might cause death" }
+    prompt: "Which apply? (one or more)"
+  - id: misdemeanor_3
+    type: multi
+    options:
+      - { id: o1, label: misdemeanor }
+      - { id: o2, label: infraction }
+      - { id: o3, label: "otherwise lawful act that might cause death" }
+    prompt: "Which apply? (one or more)"
+  - id: people_allege_that_defendant_2
+    type: boolean
+    prompt: "Include “The People allege that the defendant committed the following (misdeme…”?"
+  - id: misdemeanor_plural
+    type: boolean
+    prompt: "Include the “s” in “misdemeanor[s]”?"
+  - { id: infraction_plural, type: boolean, prompt: "Include the “s” in “infraction[s]”?" }
+  - id: instruction_plural
+    type: boolean
+    prompt: "Include the “s” in “Instruction[s]”?"
+  - { id: tell_plural, type: boolean, prompt: "Include the “s” in “tell[s]”?" }
+  - { id: act_plural, type: boolean, prompt: "Include the “s” in “act[s]”?" }
+body:
+  - note: "If misdemeanor vehicular manslaughter—ordinary negligence is a charged offense, give alternative A; if this instruction is being given as a lesser included offense, give alternative B."
+  - { note: "Introductory Sentence: Alternative A—Charged Offense" }
+  - - opt:
+        - "The defendant is charged "
+        - { opt: [ "in Count ", { field: count } ], if: in_count }
+        - " with vehicular manslaughter "
+        - opt: [ "in violation of Penal Code section 192", "(", c, ")", "(", "2", ")" ]
+          if: in_violation_penal_code
+        - "."
+      if: defendant_is_charged_in
+  - { note: "Introductory Sentence: Alternative B—Lesser Included Offense" }
+  - - opt:
+        - "Vehicular manslaughter with ordinary negligence is a lesser crime than "
+        - any: gross_vehicular_manslaughter
+          options:
+            - [ "gross vehicular manslaughter while intoxicated" ]
+            - [ { sep: and }, " gross vehicular manslaughter" ]
+            - [ { sep: and }, " vehicular manslaughter with ordinary negligence while intoxicated." ]
+      if: vehicular_manslaughter_with_ordinary
+  - - "To prove that the defendant is guilty of vehicular manslaughter with ordinary negligence, the People must prove that:"
+  - elements:
+      - n: "1"
+        text:
+          - "While "
+          - choice: driving_vehicle_operating_vessel
+            options: [ [ "driving a vehicle" ], [ "operating a vessel" ] ]
+          - ", the defendant committed "
+          - any: misdemeanor
+            options:
+              - [ "a misdemeanor", { sep: "," } ]
+              - [ { sep: or }, " an infraction" ]
+              - [ { sep: or }, " a lawful act in an unlawful manner" ]
+        end: ";"
+      - n: "2"
+        text:
+          - "The "
+          - any: misdemeanor_2
+            options:
+              - [ misdemeanor, { sep: "," } ]
+              - [ { sep: or }, " infraction" ]
+              - [ { sep: or }, " otherwise lawful act" ]
+          - " was dangerous to human life under the circumstances of its commission"
+        end: ";"
+      - n: "3"
+        text:
+          - "The defendant committed the "
+          - any: misdemeanor_2
+            options:
+              - [ misdemeanor, { sep: "," } ]
+              - [ { sep: or }, " infraction" ]
+              - [ { sep: or }, " otherwise lawful act" ]
+          - " with ordinary negligence"
+        end: ";"
+      - n: "4"
+        text:
+          - "The "
+          - any: misdemeanor_2
+            options:
+              - [ misdemeanor, { sep: "," } ]
+              - [ { sep: or }, " infraction" ]
+              - [ { sep: or }, " otherwise lawful act" ]
+          - " caused the death of another person"
+        end: "."
+        and: "AND"
+  - opt:
+      - - "The People allege that the defendant committed the following "
+        - any: misdemeanor_s
+          options:
+            - [ misdemeanor, { opt: [ s ], if: misdemeanor_plural } ]
+            - [ { sep: and }, " infraction", { opt: [ s ], if: infraction_plural } ]
+        - ": "
+        - { field: "text.misdemeanor_s_infraction_s", hint: "insert misdemeanor[s]/infraction[s]" }
+        - "."
+      - - "Instruction"
+        - { opt: [ s ], if: instruction_plural }
+        - " "
+        - { field: "text.f3" }
+        - " tell"
+        - { opt: [ s ], if: tell_plural }
+        - " you what the People must prove in order to prove that the defendant committed "
+        - { field: "text.misdemeanor_s_infraction_s", hint: "insert misdemeanor[s]/infraction[s]" }
+        - "."
+    if: people_allege_that_defendant
+  - - opt:
+        - "The People "
+        - { opt: [ also ], if: also }
+        - " allege that the defendant committed the following otherwise lawful act"
+        - { opt: [ s ], if: act_plural }
+        - " with ordinary negligence: "
+        - { field: "text.act_s_alleged", hint: "insert act[s] alleged" }
+        - "."
+      if: people_also_allege_that
+  - - opt:
+        - "The difference between this offense and the charged offense of gross vehicular manslaughter is the degree of negligence required. I have already defined gross negligence for you."
+      if: difference_between_this_offense
+  - - { em: "Ordinary negligence" }
+    - { opt: [ ", on the other hand," ], if: on_other_hand }
+    - " is the failure to use reasonable care to prevent reasonably foreseeable harm to oneself or someone else. A person is negligent if he or she "
+    - any: does_something_that
+      options:
+        - [ "does something that a reasonably careful person would not do in the same situation" ]
+        - - { sep: or }
+          - " fails to do something that a reasonably careful person would do in the same situation"
+    - "."
+  - - opt:
+        - "A person facing a sudden and unexpected emergency situation not caused by that person’s own negligence is required only to use the same care and judgment that an ordinarily careful person would use in the same situation, even if it appears later that a different course of action would have been safer."
+      if: person_facing_sudden_unexpected
+  - - opt:
+        - "An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A "
+        - { em: "natural and probable consequence" }
+        - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+      if: act_causes_death_if
+  - - opt:
+        - "There may be more than one cause of death. An act causes death only if it is a substantial factor in causing the death. A "
+        - { em: "substantial factor" }
+        - " is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death."
+      if: there_may_be_more
+  - - opt:
+        - "The People allege that the defendant committed the following "
+        - any: misdemeanor_s_2
+          options:
+            - [ misdemeanor, { opt: [ s ], if: misdemeanor_plural }, { sep: "," } ]
+            - [ { sep: and }, " infraction", { opt: [ s ], if: infraction_plural }, { sep: "," } ]
+            - [ { sep: and }, " lawful act", { opt: [ s ], if: act_plural }, " that might cause death" ]
+        - ": "
+        - field: "text.alleged_predicate_acts_when"
+          hint: "insert alleged predicate acts when multiple acts alleged"
+        - ". You may not find the defendant guilty unless all of you agree that the People have proved that the defendant committed at least one of these alleged "
+        - any: misdemeanors
+          options:
+            - [ misdemeanors, { sep: "," } ]
+            - [ { sep: or }, " infractions", { sep: "," } ]
+            - [ { sep: or }, " otherwise lawful acts that might cause death" ]
+        - " and you all agree on which "
+        - any: misdemeanor_3
+          options:
+            - [ misdemeanor, { sep: "," } ]
+            - [ { sep: or }, " infraction", { sep: "," } ]
+            - [ { sep: or }, " otherwise lawful act that might cause death" ]
+        - " the defendant committed."
+      if: people_allege_that_defendant_2

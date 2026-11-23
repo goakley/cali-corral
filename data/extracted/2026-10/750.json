@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "750",
   "title": "Special Circumstances: Prior Murder Conviction (Pen. Code, § 190.2(a)(2))—Trial on Prior Murder (Pen. Code, § 190.1(a) & (b))",
   "source": {
@@ -23,11 +23,11 @@
     "[You may not return a finding that this special circumstance has or has not been proved unless all 12 of you agree on that finding.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

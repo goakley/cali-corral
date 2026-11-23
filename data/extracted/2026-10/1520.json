@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1520",
   "title": "Attempted Arson (Pen. Code, § 455)",
   "source": {
@@ -29,12 +29,12 @@
     "[*Property* means personal property or land other than forest land.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

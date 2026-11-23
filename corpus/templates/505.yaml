@@ -1,0 +1,224 @@
+# CALCRIM No. 505. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "505"
+title: "Justifiable Homicide: Self-Defense or Defense of Another"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2012, August 2012, September 2020, March 2022, September 2022, February 2025, October 2025"
+  body_sha256: "78a1e6a86966e05f9626a5d6e769eec1d34e15844bdcebd6535dd047c5f27db9"
+review: "machine-checked"
+questions:
+  - id: murder
+    type: multi
+    options:
+      - { id: o1, label: murder }
+      - { id: o2, label: manslaughter }
+      - { id: o3, label: "attempted murder" }
+      - { id: o4, label: "attempted voluntary manslaughter" }
+    prompt: "Which apply? (one or more)"
+  - id: killing_attempting_kill
+    type: choice
+    options: [ { id: o1, label: killing }, { id: o2, label: "attempting to kill" } ]
+    prompt: "Choose one"
+  - id: self_defense
+    type: multi
+    options: [ { id: o1, label: "self-defense" }, { id: o2, label: "defense of another" } ]
+    prompt: "Which apply? (one or more)"
+  - id: he_she
+    type: multi
+    options:
+      - { id: o1, label: "he/she" }
+      - { id: o2, label: "someone else" }
+      - { id: o3, label: "___" }
+    prompt: "Which apply? (one or more)"
+  - id: under_circumstances_in_which
+    type: choice
+    options:
+      - { id: o1, label: "___" }
+      - id: o2
+        label: "under circumstances in which (he/she) reasonably believed that (he/she) would s…"
+    prompt: "Choose one"
+  - id: was_in_imminent_danger
+    type: boolean
+    prompt: "Include “or was in imminent danger of being a victim of (___/under circumstanc…”?"
+  - id: himself_herself
+    type: multi
+    options: [ { id: o1, label: "himself/herself" }, { id: o2, label: "someone else" } ]
+    prompt: "Which apply? (one or more)"
+  - { id: attempted, type: boolean, prompt: "Include “attempted”?" }
+  - { id: deadly, type: boolean, prompt: "Include “deadly”?" }
+  - id: danger_is_imminent_if
+    type: boolean
+    prompt: "Include “Danger is imminent if, when the defendant used [deadly] force, the da…”?"
+  - id: he_she_2
+    type: multi
+    options: [ { id: o1, label: "he/she" }, { id: o2, label: "someone else" } ]
+    prompt: "Which apply? (one or more)"
+  - id: defendant_belief_that_he
+    type: boolean
+    prompt: "Include “The defendant’s belief that (he/she/[or] someone else) was threatened…”?"
+  - { id: others, type: boolean, prompt: "Include “or others”?" }
+  - id: if_you_find_that
+    type: boolean
+    prompt: "Include “If you find that ___ threatened or harmed the defendant [or others] i…”?"
+  - id: if_you_find_that_2
+    type: boolean
+    prompt: "Include “If you find that the defendant knew that ___ had threatened or harmed…”?"
+  - id: someone_who_has_been
+    type: boolean
+    prompt: "Include “Someone who has been threatened or harmed by a person in the past, is…”?"
+  - id: if_you_find_that_3
+    type: boolean
+    prompt: "Include “If you find that the defendant received a threat from someone else th…”?"
+  - id: death_great_bodily_injury
+    type: choice
+    options:
+      - { id: o1, label: death }
+      - { id: o2, label: "great bodily injury" }
+      - { id: o3, label: "___" }
+    prompt: "Choose one"
+  - id: defendant_is_not_required
+    type: boolean
+    prompt: "Include “A defendant is not required to retreat. He or she is entitled to stan…”?"
+  - id: great_bodily_injury_means
+    type: boolean
+    prompt: "Include “Great bodily injury means significant or substantial physical injury.…”?"
+body:
+  - - "The defendant is not guilty of "
+    - any: murder
+      options:
+        - [ murder ]
+        - [ { sep: or }, " manslaughter" ]
+        - [ "attempted murder" ]
+        - [ { sep: or }, " attempted voluntary manslaughter" ]
+    - " if "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " "
+    - { agree: defendant, sg: was, pl: were }
+    - " justified in "
+    - { choice: killing_attempting_kill, options: [ [ killing ], [ "attempting to kill" ] ] }
+    - " someone in "
+    - { any: self_defense, options: [ [ "self-defense" ], [ { sep: or }, " defense of another" ] ] }
+    - ". The defendant acted in lawful "
+    - { any: self_defense, options: [ [ "self-defense" ], [ { sep: or }, " defense of another" ] ] }
+    - " if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant reasonably believed that "
+          - any: he_she
+            options:
+              - [ { pronoun: defendant, forms: [ he, she ], bare: true } ]
+              - [ { sep: or }, " someone else" ]
+              - - { sep: or }
+                - " "
+                - { field: "third_party.name", hint: "insert name or description of third party" }
+          - " "
+          - { agree: defendant, sg: was, pl: were, onlyIf: "!he_she~o2 & !he_she~o3" }
+          - " in imminent danger of being killed or suffering great bodily injury "
+          - opt:
+              - "or was in imminent danger of being a victim of "
+              - choice: under_circumstances_in_which
+                options:
+                  - - field: "text.inherently_forcible_atrocious_crime"
+                      hint: "insert inherently forcible and atrocious crime such as rape or mayhem"
+                  - - { note: "insert noninherently forcible and atrocious crime such as robbery" }
+                    - "under circumstances in which "
+                    - { pronoun: defendant, forms: [ he, she ] }
+                    - " reasonably believed that "
+                    - { pronoun: defendant, forms: [ he, she ] }
+                    - " would suffer great bodily injury or death"
+            if: was_in_imminent_danger
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant reasonably believed that the immediate use of deadly force was necessary to defend against that danger"
+        end: ";"
+      - n: "3"
+        text:
+          - "The defendant used no more force than was reasonably necessary to defend against that danger"
+        end: "."
+        and: "AND"
+  - - "Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be. The defendant must have believed there was imminent danger of death or great bodily injury to "
+    - any: himself_herself
+      options:
+        - [ { pronoun: defendant, forms: [ himself, herself ], bare: true } ]
+        - [ { sep: or }, " someone else" ]
+    - ". Defendant’s belief must have been reasonable and "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " must have acted only because of that belief. The defendant is only entitled to use that amount of force that a reasonable person would believe is necessary in the same situation. If the defendant used more force than was reasonable, the "
+    - { opt: [ attempted ], if: attempted }
+    - " killing was not justified."
+  - { note: "The following definition may be given if requested." }
+  - - opt:
+        - "Danger is "
+        - { em: imminent }
+        - " if, when the defendant used "
+        - { opt: [ deadly ], if: deadly }
+        - " force, the danger actually existed or the defendant reasonably believed it existed. The danger must seem immediate and present, so that it must be instantly dealt with. It may not be merely prospective or in the near future."
+      if: danger_is_imminent_if
+  - - "When deciding whether the defendant’s beliefs were reasonable, consider all the circumstances as they were known to and appeared to the defendant and consider what a reasonable person in a similar situation with similar knowledge would have believed. If the defendant’s beliefs were reasonable, the danger does not need to have actually existed."
+  - - opt:
+        - "The defendant’s belief that "
+        - any: he_she_2
+          options:
+            - [ { pronoun: defendant, forms: [ he, she ], bare: true } ]
+            - [ { sep: or }, " someone else" ]
+        - " "
+        - { agree: defendant, sg: was, pl: were, onlyIf: "!he_she_2~o2" }
+        - " threatened may be reasonable even if "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " relied on information that was not true. However, the defendant must actually and reasonably have believed that the information was true."
+      if: defendant_belief_that_he
+  - - opt:
+        - "If you find that "
+        - { field: "decedent_victim.name", hint: "insert name of decedent/victim" }
+        - " threatened or harmed the defendant "
+        - { opt: [ "or others" ], if: others }
+        - " in the past, you may consider that information in deciding whether the defendant’s conduct and beliefs were reasonable."
+      if: if_you_find_that
+  - - opt:
+        - "If you find that the defendant knew that "
+        - { field: "decedent_victim.name", hint: "insert name of decedent/victim" }
+        - " had threatened or harmed others in the past, you may consider that information in deciding whether the defendant’s conduct and beliefs were reasonable."
+      if: if_you_find_that_2
+  - - opt:
+        - "Someone who has been threatened or harmed by a person in the past, is justified in acting more quickly or taking greater self-defense measures against that person."
+      if: someone_who_has_been
+  - - opt:
+        - "If you find that the defendant received a threat from someone else that "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " reasonably associated with "
+        - { field: "decedent_victim.name", hint: "insert name of decedent/victim" }
+        - ", you may consider that threat in deciding whether the defendant was justified in acting in "
+        - { any: self_defense, options: [ [ "self-defense" ], [ { sep: or }, " defense of another" ] ] }
+        - "."
+      if: if_you_find_that_3
+  - - opt:
+        - "A defendant is not required to retreat. He or she is entitled to stand his or her ground and defend himself or herself and, if reasonably necessary, to pursue an assailant until the danger of "
+        - choice: death_great_bodily_injury
+          options:
+            - [ death ]
+            - [ "great bodily injury" ]
+            - [ { field: "text.forcible_atrocious_crime", hint: "insert forcible and atrocious crime" } ]
+        - " has passed. This is so even if safety could have been achieved by retreating."
+      if: defendant_is_not_required
+  - - opt:
+        - { em: "Great bodily injury" }
+        - " means significant or substantial physical injury. It is an injury that is greater than moderate harm."
+      if: great_bodily_injury_means
+  - - "The People have the burden of proving beyond a reasonable doubt that the "
+    - { opt: [ attempted ], if: attempted }
+    - " killing was not justified. If the People have not met this burden, you must find the defendant not guilty of "
+    - any: murder
+      options:
+        - [ murder ]
+        - [ { sep: or }, " manslaughter" ]
+        - [ "attempted murder" ]
+        - [ { sep: or }, " attempted voluntary manslaughter" ]
+    - "."
+people:
+  third_party: { label: "Third party", uses: [ name ] }
+  decedent_victim: { label: "Decedent/victim", uses: [ name ] }

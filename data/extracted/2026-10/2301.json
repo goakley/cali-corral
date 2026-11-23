@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2301",
   "title": "Offering to Sell, Transport for Sale, etc., a Controlled Substance (Health & Saf. Code, §§ 11352, 11379)",
   "source": {
@@ -34,21 +34,21 @@
     "[The People do not need to prove that the defendant actually possessed the controlled substance.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     16.0,
     10.3,
     11.0,
-    0.0,
+    -0.0,
     15.0,
     16.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

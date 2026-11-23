@@ -1,0 +1,17 @@
+{
+  "answers": {
+    "may_reduce_murder_manslaughter": false,
+    "also_consider_provocation_in": false,
+    "provocation_does_not_apply": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

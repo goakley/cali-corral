@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1181",
   "title": "Sexual Abuse of Animal (Pen. Code, § 286.5)",
   "source": {
@@ -31,19 +31,19 @@
     "[The defendant is not guilty of this offense if (he/she) performed any artificial insemination of animals for reproductive purposes, any accepted animal husbandry practices such as raising, breeding, or assisting with the birthing process of animals or any other practice that provides care for an animal, or to any generally accepted practices related to the judging of breed conformation. The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to perform the act. If the People have not met this burden, you must find the defendant not guilty of this offense.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

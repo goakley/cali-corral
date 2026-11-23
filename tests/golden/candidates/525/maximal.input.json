@@ -1,0 +1,34 @@
+{
+  "answers": {
+    "as_charged_in_count": true,
+    "defendant": "o2",
+    "defendant_2": "o2",
+    "firearm_is_any_device": true,
+    "a_or_an": "o2",
+    "passenger_vehicle_motorcycle_motor": "o8",
+    "motor_vehicle_includes_passenger": true,
+    "great_bodily_injury_means": true,
+    "great_bodily_injury": [
+      "o1",
+      "o2",
+      "o3"
+    ],
+    "term_s_great_bodily": true,
+    "he_she": "o2",
+    "people_must_prove_that": true,
+    "term_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_description_principal_if": "example name description principal if",
+    "other_type_motor_vehicle": "example other type motor vehicle"
+  }
+}

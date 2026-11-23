@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2021",
   "title": "False Financial Statement: Obtaining Benefit (Pen. Code, § 532a(2))",
   "source": {
@@ -27,15 +27,15 @@
     "[The People allege that the defendant obtained the following benefits: ______ <insert description of each benefit when multiple benefits alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant obtained at least one of these benefits and you all agree on which benefit (he/she) obtained.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,
     15.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

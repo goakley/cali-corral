@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2721",
   "title": "Assault by Prisoner (Pen. Code, § 4501)",
   "source": {
@@ -43,8 +43,8 @@
     "A person is confined in a state prison if he or she is (confined in ______ <insert name of institution from Pen. Code, § 5003>/committed to the Department of Corrections and Rehabilitation[, Division of Juvenile Justice,]) by an order made according to law[, regardless of both the purpose of the (confinement/commitment) and the validity of the order directing the (confinement/commitment), until a judgment of a competent court setting aside the order becomes final]. [A person may be *confined in a state prison* even if, at the time of the offense, he or she is confined in a local correctional institution pending trial or is temporarily outside the prison walls or boundaries for any permitted purpose, including but not limited to serving on a work detail.] [However, a prisoner who has been released on parole is not *confined in a state prison*.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     18.0,
     16.0,
     18.0,
@@ -60,10 +60,10 @@
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

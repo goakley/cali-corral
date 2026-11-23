@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "254",
   "title": "Strict Liability Crime",
   "source": {
@@ -19,7 +19,7 @@
     "For you to find a person guilty of the crime[s] of ______ <insert name[s] of alleged offense[s]> [or to find the allegation[s] of ______ <insert name[s] of enhancement[s]> true], a person only needs to do the prohibited act [or to fail to do the required act]. The People do not need to prove any particular mental state."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

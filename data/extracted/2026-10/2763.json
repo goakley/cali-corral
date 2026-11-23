@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2763",
   "title": "Escape After Remand or Arrest: Force or Violence (Pen. Code, § 836.6)",
   "source": {
@@ -30,18 +30,18 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant used force or violence and caused serious bodily injury to a peace officer. If the People have not met this burden, you must find that this allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

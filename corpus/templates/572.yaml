@@ -1,0 +1,97 @@
+# CALCRIM No. 572. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "572"
+title: "Voluntary Manslaughter: Murder Not Charged (Pen. Code, § 192(a))"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "2bb86fe1dd0c86d79f98e007953253d04c147891aea6fc5648db7146dd005639"
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 192(a)”?"
+  - id: element_3
+    type: boolean
+    prompt: "Include element 3 (“(He/She) killed without lawful excuse or justific…”)?"
+  - id: element_5
+    type: boolean
+    prompt: "Include element 5 (“(He/She) killed without lawful excuse or justific…”)?"
+  - id: act_causes_death_if
+    type: boolean
+    prompt: "Include “An act causes death if the death is the direct, natural, and probable…”?"
+  - id: there_may_be_more
+    type: boolean
+    prompt: "Include “There may be more than one cause of death. An act causes death only i…”?"
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with voluntary manslaughter "
+    - opt: [ "in violation of Penal Code section 192", "(", a, ")" ]
+      if: in_violation_penal_code
+    - "."
+  - - "To prove that the defendant is guilty of voluntary manslaughter, the People must prove that:"
+  - elements:
+      - n: "1"
+        text: [ "The defendant committed an act that caused the death of another person" ]
+        end: ";"
+      - n: "2"
+        text:
+          - "When the defendant acted, "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " unlawfully intended to kill someone"
+        end: "(;/.)"
+        and: "[AND]"
+      - note: "Give element 3 when instructing on self-defense or defense of another."
+        governs: [ element_3 ]
+      - n: "3"
+        text:
+          - { pronoun: defendant, forms: [ "He", "She" ] }
+          - " killed without lawful excuse or justification"
+        end: "."
+        and: "AND"
+        if: element_3
+  - [ "Or the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text: [ "The defendant intentionally committed an act that caused the death of another person" ]
+        end: ";"
+      - n: "2"
+        text: [ "The natural consequences of the act were dangerous to human life" ]
+        end: ";"
+      - n: "3"
+        text:
+          - "At the time "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " acted, "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " knew the act was dangerous to human life"
+        end: ";"
+      - n: "4"
+        text:
+          - { pronoun: defendant, forms: [ "He", "She" ] }
+          - " deliberately acted with conscious disregard for human life"
+        end: "(;/.)"
+        and: "[AND]"
+      - note: "Give element 5 when instructing on self-defense or defense of another."
+        governs: [ element_5 ]
+      - n: "5"
+        text:
+          - { pronoun: defendant, forms: [ "He", "She" ] }
+          - " killed without lawful excuse or justification"
+        end: "."
+        and: "AND"
+        if: element_5
+  - - opt:
+        - "An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A "
+        - { em: "natural and probable consequence" }
+        - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+      if: act_causes_death_if
+  - - opt:
+        - "There may be more than one cause of death. An act causes death only if it is a substantial factor in causing the death. A "
+        - { em: "substantial factor" }
+        - " is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death."
+      if: there_may_be_more

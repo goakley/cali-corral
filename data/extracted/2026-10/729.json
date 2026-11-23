@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "729",
   "title": "Special Circumstances: Murder Because of Race, Religion, or Nationality (Pen. Code, § 190.2(a)(16))",
   "source": {
@@ -21,9 +21,9 @@
     "[If the defendant had more than one reason to (commit[,]/participate in[,]/[or] aid and abet) the murder, the deceased person’s (race[,]/color[,]/religion[,]/nationality[,]/[or] country of origin) must have been a substantial factor motivating the defendant’s conduct. A *substantial factor* is more than a trivial or remote factor, but it does not need to be the only factor that motivated the defendant.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

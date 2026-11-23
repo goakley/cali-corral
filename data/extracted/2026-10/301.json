@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "301",
   "title": "Single Witness’s Testimony",
   "source": {
@@ -19,7 +19,7 @@
     "[Unless I instruct you otherwise,] (The/the) testimony of only one witness can prove any fact. Before you conclude that the testimony of one witness proves a fact, you should carefully review all the evidence."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

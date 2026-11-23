@@ -1,0 +1,69 @@
+{
+  "answers": {
+    "in_count": true,
+    "in_violation_penal_code": true,
+    "element_1a": true,
+    "another_person": [
+      "o1",
+      "o2"
+    ],
+    "element_1b": true,
+    "help_care_for_protect": "o7",
+    "acted": [
+      "o1",
+      "o2"
+    ],
+    "element_3": true,
+    "excuse": [
+      "o1",
+      "o2"
+    ],
+    "committed_act": [
+      "o1",
+      "o2"
+    ],
+    "act": [
+      "o1",
+      "o2"
+    ],
+    "human": [
+      "o1",
+      "o2"
+    ],
+    "alcohol": [
+      "o1",
+      "o2"
+    ],
+    "if_you_find_that": true,
+    "it_is_not_necessary": true,
+    "fetus_is_unborn_human": true,
+    "a_or_a": "o2",
+    "act_2": [
+      "o1",
+      "o2"
+    ],
+    "act_failure_act_causes": true,
+    "there_may_be_more": true,
+    "a_or_an": "o2",
+    "help_care_for_rescue": "o6",
+    "has_legal_duty_help": true,
+    "parent_has_legal_duty": true,
+    "if_you_find_defendant": true,
+    "if_you_decide_that": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "description_decedent_person_whom": "example description decedent person whom",
+    "description_person_owing_duty": "example description person owing duty",
+    "number_appropriate_first_degree": "example number appropriate first degree",
+    "other_required_action_s": "example other required action s"
+  }
+}

@@ -14,7 +14,7 @@ questions:
     type: choice
     options: [ { id: o1, label: the }, { id: o2, label: a } ]
     prompt: "Choose one"
-  - { id: witness_plural, type: boolean, prompt: "More than one witness?" }
+  - { id: witness_plural, type: boolean, prompt: "Include the “s” in “witness[s]”?" }
 body:
   - - "The attorney for the People was allowed to ask defendant’s character witness"
     - { opt: [ es ], if: witness_plural }

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "512",
   "title": "Presumption That Killing Not Criminal (Pen. Code, § 194)",
   "source": {
@@ -21,9 +21,9 @@
     "[To count the three year and one day period, begin with the day on which the incident happened. Count that day as one whole day regardless of what time the incident happened.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

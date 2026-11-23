@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1760",
   "title": "Automotive Property Theft for Resale (Pen. Code, § 496.5)",
   "source": {
@@ -32,20 +32,20 @@
     "[The prosecution is not required to prove the (identity/identities) of the person[s] who committed the act[s] of (vehicle theft[,]/[or] burglary of a locked vehicle[,]/[or] vehicle tampering).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

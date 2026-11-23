@@ -1,0 +1,21 @@
+Liability for Coconspirators’ Acts
+
+
+
+A member of a conspiracy is criminally responsible for the crimes that he or she conspires to commit, no matter which member of the conspiracy commits the crime.
+
+A member of a conspiracy is also criminally responsible for any act of any member of the conspiracy if that act is done to further the conspiracy and that act is a natural and probable consequence of the common plan or design of the conspiracy. This rule applies even if the act was not intended as part of the original plan.
+
+A natural and probable consequence is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence.
+
+A member of a conspiracy is not criminally responsible for the act of another member if that act does not further the common plan or is not a natural and probable consequence of the common plan.
+
+To prove that the defendant is guilty of the crime charged in Count example f1, the People must prove that:
+
+1. The defendant conspired to commit one of the following crimes: example target crime s;
+
+2. A member of the conspiracy committed example nontarget offense s to further the conspiracy;
+
+AND
+
+3. Example nontarget offense s was natural and probable consequence of the common plan or design of the crime that the defendant conspired to commit.

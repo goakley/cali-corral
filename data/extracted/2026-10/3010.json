@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3010",
   "title": "Eavesdropping or Recording Confidential Communication (Pen. Code, § 632(a))",
   "source": {
@@ -30,8 +30,8 @@
     "[A *confidential communication* does not include a communication made in a public gathering or in any legislative, judicial, executive, or administrative proceeding open to the public, or in any other circumstance in which the parties to the communication may reasonably expect that the communication may be overheard or recorded.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -41,7 +41,7 @@
     16.0,
     16.0,
     15.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

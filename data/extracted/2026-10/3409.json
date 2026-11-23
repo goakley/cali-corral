@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3409",
   "title": "When Conduct of Officer May Not Be Attributed to Defendant",
   "source": {
@@ -20,8 +20,8 @@
     "[As used in this instruction, an *agent* is a person who does something at the request, suggestion, or direction of an officer. It is not necessary that the agent know the officer’s true identity, or that the agent realize that he or she is acting as an agent.]"
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

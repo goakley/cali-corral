@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "876",
   "title": "Assault With Stun Gun or Less Lethal Weapon (Pen. Code, §§ 240, 244.5(b))",
   "source": {
@@ -38,8 +38,8 @@
     "[Voluntary intoxication is not a defense to assault.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -48,16 +48,16 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
     0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

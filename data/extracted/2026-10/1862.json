@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1862",
   "title": "Return of Property Not a Defense to Theft (Pen. Code, §§ 512, 513)",
   "source": {
@@ -19,7 +19,7 @@
     "If you conclude that the People have proved that the defendant committed ______ <insert charged theft crime>, the return or offer to return (some/all) of the property wrongfully obtained is not a defense to that charge."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

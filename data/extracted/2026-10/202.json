@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "202",
   "title": "Note-Taking and Reading Back of Testimony",
   "source": {
@@ -22,10 +22,10 @@
     "At the end of the trial, your notes will be (collected and destroyed/collected and retained by the court but not as a part of the case record/______ <specify other disposition>)."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

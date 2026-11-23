@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "938",
   "title": "Sexual Battery: Misdemeanor (Pen. Code, § 243.4(e)(1))",
   "source": {
@@ -30,18 +30,18 @@
     "[The defendant is not guilty of sexual battery if (he/she) actually and reasonably believed that the other person consented to the touching [and actually and reasonably believed that (he/she) consented throughout the act of touching]. The People have the burden of proving beyond a reasonable doubt that the defendant did not actually and reasonably believe that the other person consented. If the People have not met this burden, you must find the defendant not guilty.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

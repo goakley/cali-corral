@@ -1,0 +1,60 @@
+{
+  "answers": {
+    "murder": [
+      "o1",
+      "o3"
+    ],
+    "killing_attempting_kill": "o2",
+    "self_defense": [
+      "o1"
+    ],
+    "he_she": [
+      "o2"
+    ],
+    "under_circumstances_in_which": "o1",
+    "was_in_imminent_danger": false,
+    "himself_herself": [
+      "o1"
+    ],
+    "attempted": false,
+    "deadly": true,
+    "danger_is_imminent_if": false,
+    "he_she_2": [
+      "o1"
+    ],
+    "defendant_belief_that_he": false,
+    "others": true,
+    "if_you_find_that": false,
+    "if_you_find_that_2": true,
+    "someone_who_has_been": false,
+    "if_you_find_that_3": true,
+    "death_great_bodily_injury": "o3",
+    "defendant_is_not_required": true,
+    "great_bodily_injury_means": false
+  },
+  "people": {
+    "decedent_victim": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    },
+    "defendant": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "she"
+    },
+    "third_party": {
+      "name": "Riley Placeholder",
+      "title": "highway patrol officer",
+      "agency": "the Department of Fish and Wildlife",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "forcible_atrocious_crime": "example forcible atrocious crime",
+    "inherently_forcible_atrocious_crime": "example inherently forcible atrocious crime"
+  }
+}

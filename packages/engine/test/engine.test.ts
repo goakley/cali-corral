@@ -630,3 +630,36 @@ describe("commas around omitted optional text", () => {
     expect(jury(tpl(["Odd,, but printed."]), {})).toBe("Odd,, but printed.");
   });
 });
+
+describe("plain lists with a printed conjunction", () => {
+  it("keeps the printed punctuation and shows the conjunction between included items", () => {
+    const t = tpl([
+      {
+        plain: true,
+        elements: [
+          { n: "1", text: "Notify everyone.", end: "" },
+          { n: "2", text: "Try to prevent it.", end: "", and: "AND" },
+        ],
+      },
+    ]);
+    expect(validateTemplate(t)).toEqual([]);
+    expect(jury(t, {})).toBe("1. Notify everyone.\n\nAND\n\n2. Try to prevent it.");
+  });
+});
+
+describe("capital-letter lists", () => {
+  it("numbers with A., B. and keeps the printed conjunction", () => {
+    const t = tpl([
+      {
+        style: "upper",
+        elements: [
+          { n: "A", text: "Knew it", end: ";" },
+          { n: "B", text: "Intended it", end: ".", and: "AND" },
+        ],
+      },
+    ]);
+    expect(validateTemplate(t)).toEqual([]);
+    expect(renderSource(t)).toEqual(["A. Knew it;", "AND", "B. Intended it."]);
+    expect(jury(t, {})).toBe("A. Knew it;\n\nAND\n\nB. Intended it.");
+  });
+});

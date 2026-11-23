@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3474",
   "title": "Danger No Longer Exists or Attacker Disabled",
   "source": {
@@ -19,7 +19,7 @@
     "The right to use force in (self-defense/[or] defense of another) continues only as long as the danger exists or reasonably appears to exist. [When the attacker (withdraws/[or] no longer appears capable of inflicting any injury), then the right to use force ends.]"
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

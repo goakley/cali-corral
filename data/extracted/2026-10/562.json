@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "562",
   "title": "Transferred Intent",
   "source": {
@@ -22,10 +22,10 @@
     "[If the defendant intended to kill one person, but by mistake or accident also killed someone else, then the crime, if any, is the same for the unintended killing as it is for the intended killing.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

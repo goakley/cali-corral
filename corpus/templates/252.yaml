@@ -45,10 +45,12 @@ questions:
   - id: for_you_find_person_2
     type: boolean
     prompt: "Include “For you to find a person guilty of the crime[s] (in this case/of ___)…”?"
-  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
-  - { id: allegation_plural, type: boolean, prompt: "More than one allegation?" }
-  - { id: require_plural, type: boolean, prompt: "More than one require?" }
-  - { id: instruction_plural, type: boolean, prompt: "More than one instruction?" }
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+  - { id: allegation_plural, type: boolean, prompt: "Include the “s” in “allegation[s]”?" }
+  - { id: require_plural, type: boolean, prompt: "Include the “s” in “require[s]”?" }
+  - id: instruction_plural
+    type: boolean
+    prompt: "Include the “s” in “instruction[s]”?"
 body:
   - - "The crime"
     - { opt: [ s ], if: crime_plural }

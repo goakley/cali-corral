@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "841",
   "title": "Simple Battery: Against Spouse, Cohabitant, or Fellow Parent (Pen. Code, § 243(e)(1))",
   "source": {
@@ -33,20 +33,20 @@
     "[A person is considered to be the (mother/father) of another person’s child if the alleged male parent is presumed under the law to be the natural father. ______ <insert name of presumed father> is presumed under law to be the natural father of ______ <insert name of child>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "522",
   "title": "Provocation: Effect on Degree of Murder",
   "source": {
@@ -21,9 +21,9 @@
     "[Provocation does not apply to a prosecution under a theory of felony murder.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

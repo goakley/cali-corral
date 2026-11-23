@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "766",
   "title": "Death Penalty: Weighing Process",
   "source": {
@@ -25,13 +25,13 @@
     "[You must separately consider which sentence to impose on each defendant. If you cannot agree on the sentence[s] for one [or more] defendant[s] but you do agree on the sentence[s] for the other defendant[s], then you must return a verdict for (the/each) defendant on whose sentence you do agree.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

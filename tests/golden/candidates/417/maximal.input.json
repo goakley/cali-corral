@@ -1,0 +1,31 @@
+{
+  "answers": {
+    "under_this_rule_defendant": true,
+    "murder": [
+      "o1",
+      "o2"
+    ],
+    "member_conspiracy_cannot_be": true,
+    "was_were": "o2",
+    "a": true,
+    "defendant_is_not_responsible": true,
+    "conspiracy_member_is_not": true,
+    "crime_plural": true,
+    "count_plural": true,
+    "consequence_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "f1": "example f1",
+    "nontarget_offense_s": "example nontarget offense s",
+    "target_crime_s": "example target crime s"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "357",
   "title": "Adoptive Admissions",
   "source": {
@@ -27,15 +27,15 @@
     "[You must not consider this evidence in determining the guilt of (the/any) other defendant[s].]"
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

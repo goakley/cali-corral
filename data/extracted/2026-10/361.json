@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "361",
   "title": "Failure to Explain or Deny Adverse Evidence",
   "source": {
@@ -20,8 +20,8 @@
     "If the defendant failed to explain or deny, it is up to you to decide the meaning and importance of that failure."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

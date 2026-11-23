@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3551",
   "title": "Further Instruction About Deliberations",
   "source": {
@@ -24,12 +24,12 @@
     "Please continue your deliberations at this time. If you wish to communicate with me further, please do so in writing [using the form my bailiff has given you]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

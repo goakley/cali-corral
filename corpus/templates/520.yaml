@@ -1,0 +1,294 @@
+# CALCRIM No. 520. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "520"
+title: "First or Second Degree Murder With Malice Aforethought (Pen. Code, § 187)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2009, October 2010, February 2013, August 2013, September 2017, March 2019, September 2019, March 2021, March 2024, September 2024,* October 2025"
+  body_sha256: "8fef260be7ff0a96e26a9f93052ff2ff58cceccf4932d0ce5f3031993fe21775"
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 187”?"
+  - id: element_1a
+    type: boolean
+    prompt: "Include element 1A (“The defendant committed an act that caused the de…”)?"
+  - id: another_person
+    type: multi
+    options: [ { id: o1, label: "another person" }, { id: o2, label: "a fetus" } ]
+    prompt: "Which apply? (one or more)"
+  - id: element_1b
+    type: boolean
+    prompt: "Include element 1B (“The defendant had a legal duty to (help/care for/…”)?"
+  - id: help_care_for_protect
+    type: choice
+    options:
+      - { id: o1, label: help }
+      - { id: o2, label: "care for" }
+      - { id: o3, label: protect }
+      - { id: o4, label: rescue }
+      - { id: o5, label: warn }
+      - { id: o6, label: "maintain the property of" }
+      - { id: o7, label: "___" }
+    prompt: "Choose one"
+  - id: acted
+    type: multi
+    options: [ { id: o1, label: acted }, { id: o2, label: "failed to act" } ]
+    prompt: "Which apply? (one or more)"
+  - id: element_3
+    type: boolean
+    prompt: "Include element 3 (“(He/She) killed without lawful (excuse/[or] justi…”)?"
+  - id: excuse
+    type: multi
+    options: [ { id: o1, label: excuse }, { id: o2, label: justification } ]
+    prompt: "Which apply? (one or more)"
+  - id: committed_act
+    type: multi
+    options: [ { id: o1, label: "committed the act" }, { id: o2, label: "failed to act" } ]
+    prompt: "Which apply? (one or more)"
+  - id: act
+    type: multi
+    options: [ { id: o1, label: act }, { id: o2, label: "failure to act" } ]
+    prompt: "Which apply? (one or more)"
+  - id: human
+    type: multi
+    options: [ { id: o1, label: human }, { id: o2, label: fetal } ]
+    prompt: "Which apply? (one or more)"
+  - id: alcohol
+    type: multi
+    options: [ { id: o1, label: alcohol }, { id: o2, label: drugs } ]
+    prompt: "Which apply? (one or more)"
+  - id: if_you_find_that
+    type: boolean
+    prompt: "Include “If you find that the defendant drove a motor vehicle while impaired b…”?"
+  - id: it_is_not_necessary
+    type: boolean
+    prompt: "Include “It is not necessary that the defendant be aware of the existence of a…”?"
+  - id: fetus_is_unborn_human
+    type: boolean
+    prompt: "Include “A fetus is an unborn human being that has progressed beyond the embry…”?"
+  - id: a_or_a
+    type: choice
+    options: [ { id: o1, label: "A" }, { id: o2, label: a } ]
+    prompt: "Choose one"
+  - id: act_2
+    type: multi
+    options: [ { id: o1, label: "An act" }, { id: o2, label: "(A/a) failure to act" } ]
+    prompt: "Which apply? (one or more)"
+  - id: act_failure_act_causes
+    type: boolean
+    prompt: "Include “(An act/[or] (A/a) failure to act) causes death if the death is the d…”?"
+  - id: there_may_be_more
+    type: boolean
+    prompt: "Include “There may be more than one cause of death. (An act/[or] (A/a) failure…”?"
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: "A" }, { id: o2, label: "An" } ]
+    articleFor: "text.description_person_owing_duty"
+    prompt: "Choose one"
+  - id: help_care_for_rescue
+    type: choice
+    options:
+      - { id: o1, label: help }
+      - { id: o2, label: "care for" }
+      - { id: o3, label: rescue }
+      - { id: o4, label: warn }
+      - { id: o5, label: "maintain the property of" }
+      - { id: o6, label: "___" }
+    prompt: "Choose one"
+  - id: has_legal_duty_help
+    type: boolean
+    prompt: "Include “(A/An) ___ has a legal duty to (help/care for/rescue/warn/maintain th…”?"
+  - id: parent_has_legal_duty
+    type: boolean
+    prompt: "Include “A parent has a legal duty to protect (his/her) child when the parent…”?"
+  - id: if_you_find_defendant
+    type: boolean
+    prompt: "Include “If you find the defendant guilty of murder, it is murder of the secon…”?"
+  - id: if_you_decide_that
+    type: boolean
+    prompt: "Include “If you decide that the defendant committed murder, it is murder of th…”?"
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with murder "
+    - { opt: [ "in violation of Penal Code section 187" ], if: in_violation_penal_code }
+    - "."
+  - [ "To prove that the defendant is guilty of this crime, the People must prove that:" ]
+  - elements:
+      - n: "1A"
+        text:
+          - "The defendant committed an act that caused the death of "
+          - { any: another_person, options: [ [ "another person" ], [ { sep: or }, " a fetus" ] ] }
+        end: ";"
+        if: element_1a
+      - n: "1B"
+        text:
+          - "The defendant had a legal duty to "
+          - choice: help_care_for_protect
+            options:
+              - [ help ]
+              - [ "care for" ]
+              - [ protect ]
+              - [ rescue ]
+              - [ warn ]
+              - [ "maintain the property of" ]
+              - [ { field: "text.other_required_action_s", hint: "insert other required action[s]" } ]
+          - " "
+          - field: "text.description_decedent_person_whom"
+            hint: "insert description of decedent/person to whom duty is owed"
+          - " and the defendant failed to perform that duty and that failure caused the death of "
+          - { any: another_person, options: [ [ "another person" ], [ { sep: or }, " a fetus" ] ] }
+        end: ";"
+        and: "[OR]"
+        if: element_1b
+        andOutside: true
+      - n: "2"
+        text:
+          - "When the defendant "
+          - { any: acted, options: [ [ acted ], [ { sep: or }, " failed to act" ] ] }
+          - ", "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " had a state of mind called malice aforethought"
+        end: "(;/.)"
+        and: "[AND]"
+      - note: "Give element 3 when instructing on justifiable or excusable homicide."
+        governs: [ element_3 ]
+      - n: "3"
+        text:
+          - { pronoun: defendant, forms: [ "He", "She" ] }
+          - " killed without lawful "
+          - { any: excuse, options: [ [ excuse ], [ { sep: or }, " justification" ] ] }
+        end: "."
+        and: "AND"
+        if: element_3
+  - - "There are two kinds of malice aforethought, express malice and implied malice. Proof of either is sufficient to establish the state of mind required for murder."
+  - - "The defendant had "
+    - { em: "express malice" }
+    - " if "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " unlawfully intended to kill."
+  - [ "The defendant had ", { em: "implied malice" }, " if:" ]
+  - elements:
+      - n: "1"
+        text:
+          - { pronoun: defendant, forms: [ "He", "She" ] }
+          - " intentionally "
+          - { any: committed_act, options: [ [ "committed the act" ], [ { sep: or }, " failed to act" ] ] }
+        end: ";"
+      - n: "2"
+        text:
+          - "The natural and probable consequences of the "
+          - { any: act, options: [ [ act ], [ { sep: or }, " failure to act" ] ] }
+          - " were dangerous to human life"
+        end: ";"
+      - n: "3"
+        text:
+          - "At the time "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " "
+          - { any: acted, options: [ [ acted ], [ { sep: or }, " failed to act" ] ] }
+          - ", "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " knew "
+          - { pronoun: defendant, forms: [ his, her ] }
+          - " "
+          - { any: act, options: [ [ act ], [ { sep: or }, " failure to act" ] ] }
+          - " was dangerous to human life"
+        end: ";"
+      - n: "4"
+        text:
+          - { pronoun: defendant, forms: [ "He", "She" ] }
+          - " deliberately "
+          - { any: acted, options: [ [ acted ], [ { sep: or }, " failed to act" ] ] }
+          - " with conscious disregard for "
+          - { any: human, options: [ [ human ], [ { sep: or }, " fetal" ] ] }
+          - " life"
+        end: "."
+        and: "AND"
+  - - "Malice aforethought does not require hatred or ill will toward the victim. It is a mental state that must be formed before the act that causes death is committed. It does not require deliberation or the passage of any particular period of time."
+  - - "An "
+    - { any: act, options: [ [ act ], [ { sep: or }, " failure to act" ] ] }
+    - " is "
+    - { em: "dangerous to human life" }
+    - " if it involved a high degree of probability that it would result in death."
+  - { note: "Applicable only to driving under the influence cases." }
+  - - opt:
+        - "If you find that the defendant drove a motor vehicle while impaired by "
+        - { any: alcohol, options: [ [ alcohol ], [ { sep: and }, " drugs" ] ] }
+        - ", you may consider that as a factor in deciding whether the defendant acted with conscious disregard for "
+        - { any: human, options: [ [ human ], [ { sep: or }, " fetal" ] ] }
+        - " life."
+      if: if_you_find_that
+  - - opt:
+        - "It is not necessary that the defendant be aware of the existence of a fetus to be guilty of murdering that fetus."
+      if: it_is_not_necessary
+  - - opt:
+        - "A "
+        - { em: fetus }
+        - " is an unborn human being that has progressed beyond the embryonic stage after major structures have been outlined, which typically occurs at seven to eight weeks after fertilization."
+      if: fetus_is_unborn_human
+  - - opt:
+        - any: act_2
+          options:
+            - [ "An act" ]
+            - [ { sep: or }, " ", { choice: a_or_a, options: [ [ "A" ], [ a ] ] }, " failure to act" ]
+        - " causes death if the death is the direct, natural, and probable consequence of the "
+        - { any: act, options: [ [ act ], [ { sep: or }, " failure to act" ] ] }
+        - " and the death would not have happened without the "
+        - { any: act, options: [ [ act ], [ { sep: or }, " failure to act" ] ] }
+        - ". A "
+        - { em: "natural and probable consequence" }
+        - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+      if: act_failure_act_causes
+  - - opt:
+        - "There may be more than one cause of death. "
+        - any: act_2
+          options:
+            - [ "An act" ]
+            - [ { sep: or }, " ", { choice: a_or_a, options: [ [ "A" ], [ a ] ] }, " failure to act" ]
+        - " causes death only if it is a substantial factor in causing the death. A "
+        - { em: "substantial factor" }
+        - " is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death."
+      if: there_may_be_more
+  - - opt:
+        - { choice: a_or_an, options: [ [ "A" ], [ "An" ] ] }
+        - " "
+        - field: "text.description_person_owing_duty"
+          hint: "insert description of person owing duty"
+        - " has a legal duty to "
+        - choice: help_care_for_rescue
+          options:
+            - [ help ]
+            - [ "care for" ]
+            - [ rescue ]
+            - [ warn ]
+            - [ "maintain the property of" ]
+            - [ { field: "text.other_required_action_s", hint: "insert other required action[s]" } ]
+        - " "
+        - field: "text.description_decedent_person_whom"
+          hint: "insert description of decedent/person to whom duty is owed"
+        - "."
+      if: has_legal_duty_help
+  - { note: "Give in parental duty to protect cases." }
+  - - opt:
+        - "A parent has a legal duty to protect "
+        - { pronoun: defendant, forms: [ his, her ] }
+        - " child when the parent knows to a substantial degree of certainty that a life-endangering act has occurred or is about to occur. This duty to protect does not require a parent to place "
+        - { pronoun: defendant, forms: [ him, her ] }
+        - "self in danger of death or great bodily harm."
+      if: parent_has_legal_duty
+  - note: "Give the following bracketed paragraph if the second degree is the only possible degree of the crime for which the jury may return a verdict."
+  - - opt: [ "If you find the defendant guilty of murder, it is murder of the second degree." ]
+      if: if_you_find_defendant
+  - note: "Give the following bracketed paragraph if there is substantial evidence of first degree murder."
+  - - opt:
+        - "If you decide that the defendant committed murder, it is murder of the second degree, unless the People have proved beyond a reasonable doubt that it is murder of the first degree as defined in CALCRIM No. "
+        - field: "text.number_appropriate_first_degree"
+          hint: "insert number of appropriate first degree murder instruction"
+        - "."
+      if: if_you_decide_that

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1861",
   "title": "Jury Does Not Need to Agree on Form of Theft",
   "source": {
@@ -22,10 +22,10 @@
     "You may not find the defendant guilty of theft unless all of you agree that the People have proved that the defendant committed theft under at least one theory. But all of you do not have to agree on the same theory."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2400",
   "title": "Using or Being Under the Influence of Controlled Substance (Health & Saf. Code, § 11550)",
   "source": {
@@ -29,17 +29,17 @@
     "[The defendant is not guilty of (using/[or] being under the influence of) ______ <insert controlled substance listed in Health & Saf. Code, § 11550> if (he/she) had a valid prescription for that substance written by a physician, dentist, podiatrist, [naturopathic doctor] or veterinarian licensed to practice in California. The People have the burden of proving beyond a reasonable doubt that the defendant did not have a valid prescription. If the People have not met this burden, you must find the defendant not guilty.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     19.0,
     16.0,
     16.0,
     16.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

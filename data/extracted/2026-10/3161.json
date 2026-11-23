@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3161",
   "title": "Great Bodily Injury: Causing Victim to Become Comatose or Paralyzed (Pen. Code, § 12022.7(b))",
   "source": {
@@ -40,21 +40,21 @@
     "AND",
     "2. He or she intended to, and did in fact, (aid, facilitate, promote, encourage, or instigate the commission of the crime/[or] participate in a criminal conspiracy to commit the crime).]",
     "<If there is an issue in the case over whether the defendant inflicted the injury “during the commission of” the offense, see Bench Notes.>",
-    "2. The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
+    "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -62,12 +62,12 @@
     16.0,
     7.0,
     0.0,
-    0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
-    19.0
+    37.0
   ],
   "bench_notes": {
     "bench_notes": [

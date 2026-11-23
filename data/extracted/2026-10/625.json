@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "625",
   "title": "Voluntary Intoxication: Effects on Homicide Crimes (Pen. Code, § 29.4)",
   "source": {
@@ -21,9 +21,9 @@
     "You may not consider evidence of the defendant’s voluntary intoxication for any other purpose."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

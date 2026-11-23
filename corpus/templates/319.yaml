@@ -29,7 +29,7 @@ questions:
     type: choice
     options: [ { id: o1, label: it }, { id: o2, label: them } ]
     prompt: "Choose one"
-  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+  - { id: statement_plural, type: boolean, prompt: "Include the “s” in “statement[s]”?" }
 body:
   - - { field: "unavailable_witness.name", hint: "insert name of unavailable witness" }
     - " did not testify in this trial, but "

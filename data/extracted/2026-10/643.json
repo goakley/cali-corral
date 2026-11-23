@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "643",
   "title": "Deliberations and Completion of Verdict Forms: For Use When Defendant Is Charged With Second Degree Murder and Jury Is Given Only One Not Guilty Verdict Form for Each Count; Not to Be Used When Both Voluntary and Involuntary Manslaughter Are Lesser Included Offenses",
   "source": {
@@ -25,19 +25,19 @@
     "3. If all of you agree that the defendant is not guilty of second degree murder, but also agree that the defendant is guilty of (voluntary/involuntary) manslaughter, complete and sign the form for guilty of (voluntary/involuntary) manslaughter. Do not complete or sign any other verdict forms [for that count].",
     "4. If all of you agree that the defendant is not guilty of second degree murder and cannot agree whether the defendant is guilty of (voluntary/involuntary) manslaughter, inform me that you cannot reach agreement [on that count]. Do not complete or sign any other verdict forms [for that count].",
     "5. If all of you agree that the defendant is not guilty of second degree murder and not guilty of (voluntary/involuntary) manslaughter, complete and sign the verdict form for not guilty. Do not complete or sign any other verdict forms [for that count].",
-    "5. <If the jury is instructed on ______both voluntary and involuntary manslaughter as lesser included offenses, this instruction may not be used. The court must give the jury guilty and not guilty verdict forms as to second degree murder and each form of manslaughter, and must instruct pursuant to CALCRIM No. 642.>"
+    "<If the jury is instructed on ______both voluntary and involuntary manslaughter as lesser included offenses, this instruction may not be used. The court must give the jury guilty and not guilty verdict forms as to second degree murder and each form of manslaughter, and must instruct pursuant to CALCRIM No. 642.>"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     19.0,
-    19.0
+    37.0
   ],
   "bench_notes": {
     "bench_notes": [

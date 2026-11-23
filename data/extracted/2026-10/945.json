@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "945",
   "title": "Battery Against Peace Officer (Pen. Code, §§ 242, 243(b), (c)(2))",
   "source": {
@@ -41,8 +41,8 @@
     "[A ______ <insert title of peace officer specified in Pen. Code, § 830 et seq.> is also performing the duties of a peace officer if (he/she) is in a police uniform and performing the duties required of (him/her) as a peace officer and, at the same time, is working in a private capacity as a part-time or casual private security guard or (patrolman/patrolwoman).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -53,17 +53,17 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

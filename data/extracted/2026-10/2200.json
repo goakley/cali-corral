@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2200",
   "title": "Reckless Driving (Veh. Code, § 23103(a) & (b))",
   "source": {
@@ -29,17 +29,17 @@
     "[An *off-street parking facility* is an off-street facility open for use by the public for parking vehicles. It includes a facility open to retail customers, where no fee is charged for parking.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

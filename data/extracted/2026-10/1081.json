@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1081",
   "title": "Oral Copulation With Minor: Defendant 21 or Older (Pen. Code, § 287(b)(2))",
   "source": {
@@ -29,17 +29,17 @@
     "[The defendant is not guilty of this crime if (he/she) reasonably and actually believed that the other person was age 18 or older. The People must prove beyond a reasonable doubt that the defendant did not reasonably and actually believe that the other person was at least 18 years old. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2440",
   "title": "Maintaining a Place for Controlled Substance Sale or Use (Health & Saf. Code, § 11366)",
   "source": {
@@ -23,8 +23,8 @@
     "2. The defendant (opened/[or] maintained) the place with the intent to (sell[,]/[or] give away[,]/[or] allow others to use) a (controlled substance/[or] narcotic drug), specifically ______ <insert name of drug>, on a continuous or repeated basis at that place."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0

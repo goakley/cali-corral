@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2902",
   "title": "Damaging Phone or Electrical Line (Pen. Code, § 591)",
   "source": {
@@ -30,8 +30,8 @@
     "[As used here, *mechanical equipment* includes a telephone.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     18.0,
     16.0,
     18.0,

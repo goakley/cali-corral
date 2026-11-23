@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3471",
   "title": "Right to Self-Defense: Mutual Combat or Initial Aggressor",
   "source": {
@@ -28,16 +28,16 @@
     "[A fight is *mutual combat* when it began or continued by mutual consent or agreement. That agreement may be expressly stated or implied and must occur before the claim to self-defense arose.]"
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

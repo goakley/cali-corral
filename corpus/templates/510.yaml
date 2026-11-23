@@ -1,0 +1,38 @@
+# CALCRIM No. 510. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "510"
+title: "Excusable Homicide: Accident"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2012, March 2022, September 2024"
+  body_sha256: f4aab2c287525af02615ef4f8d14fa1336e06c7f4a87a17d61ce1b057971b3b2
+review: "machine-checked"
+questions:
+  - id: murder
+    type: multi
+    options: [ { id: o1, label: murder }, { id: o2, label: manslaughter } ]
+    prompt: "Which apply? (one or more)"
+body:
+  - - "The defendant is not guilty of "
+    - { any: murder, options: [ [ murder ], [ { sep: or }, " manslaughter" ] ] }
+    - " if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant killed someone by accident and misfortune or while doing a lawful act in a lawful way"
+        end: ";"
+      - { n: "2", text: [ "The defendant was acting with usual and ordinary caution" ], end: ";" }
+      - n: "3"
+        text:
+          - "The defendant was acting without the necessary mental state for "
+          - { any: murder, options: [ [ murder ], [ { sep: or }, " manslaughter" ] ] }
+        end: "."
+        and: "AND"
+  - - "A person acts with "
+    - { em: "usual and ordinary caution" }
+    - " if he or she acts in a way that a reasonably careful person would act in the same or similar situation."
+  - - "The People have the burden of proving beyond a reasonable doubt that the killing was not excused. If the People have not met this burden, you must find the defendant not guilty of "
+    - { any: murder, options: [ [ murder ], [ { sep: or }, " manslaughter" ] ] }
+    - "."

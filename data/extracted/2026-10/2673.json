@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2673",
   "title": "Pat-Down Search",
   "source": {
@@ -20,8 +20,8 @@
     "[If, during the search, the officer finds an object that feels reasonably like (a/an) (knife[,]/[or] gun[,]/[or] club[,]/[or] ______ <insert specific type of weapon>), the officer may remove the object from the person’s clothing.]"
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

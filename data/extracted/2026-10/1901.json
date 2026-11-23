@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1901",
   "title": "Forgery by Endorsement (Pen. Code, § 470(a))",
   "source": {
@@ -32,20 +32,20 @@
     "[If you find the defendant guilty of forgery by endorsement, you must then decide whether the value of the ______ (check/bond/bank bill/note/cashier’s check/traveler’s check/money order) was more than $950. If you have a reasonable doubt whether the value of the ______ (check/bond/bank bill/note/cashier’s check/traveler’s check/money order) has a value of more than $950, you must find this allegation has not been proved.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

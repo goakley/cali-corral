@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3001",
   "title": "Failure to Appear While on Bail (Pen. Code, § 1320.5)",
   "source": {
@@ -28,16 +28,16 @@
     "[If you find the defendant willfully failed to appear within 14 days of the date assigned for appearance, you may, but are not required to, infer that the failure to appear was for the purpose of evading the process of the court.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

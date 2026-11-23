@@ -1,0 +1,149 @@
+# CALCRIM No. 506. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "506"
+title: "Justifiable Homicide: Defending Against Harm to Person Within Home or on Property"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised September 2022"
+  body_sha256: "6d6b929eea3ce5f0134bd7ba427e3b29e352223d7e06cffe681cb409105cfaf1"
+review: "machine-checked"
+questions:
+  - id: murder
+    type: multi
+    options:
+      - { id: o1, label: murder }
+      - { id: o2, label: manslaughter }
+      - { id: o3, label: "attempted murder" }
+      - { id: o4, label: "attempted voluntary manslaughter" }
+    prompt: "Which apply? (one or more)"
+  - id: killed_attempted_kill
+    type: choice
+    options: [ { id: o1, label: killed }, { id: o2, label: "attempted to kill" } ]
+    prompt: "Choose one"
+  - { id: any_other_person, type: boolean, prompt: "Include “or any other person”?" }
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    prompt: "Choose one"
+  - { id: attempted, type: boolean, prompt: "Include “attempted”?" }
+  - { id: or, type: boolean, prompt: "Include “or”?" }
+  - id: riotously
+    type: multi
+    options: [ { id: o1, label: "[or] riotously" }, { id: o2, label: tumultuously } ]
+    prompt: "Which apply? (one or more)"
+  - id: riotously_tumultuously
+    type: boolean
+    prompt: "Include “[,] [or] riotously[,]/[or] tumultuously”?"
+  - id: intended_tried_commit
+    type: multi
+    options:
+      - { id: o1, label: "intended to or tried to commit ___" }
+      - id: o2
+        label: "violently[[,] [or] riotously[,]/[or] tumultuously] tried to enter that home int…"
+    prompt: "Which apply? (one or more)"
+  - id: himself_herself
+    type: multi
+    options: [ { id: o1, label: "himself/herself" }, { id: o2, label: "someone else" } ]
+    prompt: "Which apply? (one or more)"
+  - id: death_bodily_injury
+    type: choice
+    options:
+      - { id: o1, label: death }
+      - { id: o2, label: "bodily injury" }
+      - { id: o3, label: "___" }
+    prompt: "Choose one"
+  - id: defendant_is_not_required
+    type: boolean
+    prompt: "Include “A defendant is not required to retreat. He or she is entitled to stan…”?"
+  - id: murder_2
+    type: multi
+    options: [ { id: o1, label: murder }, { id: o2, label: manslaughter } ]
+    prompt: "Which apply? (one or more)"
+body:
+  - - "The defendant is not guilty of "
+    - any: murder
+      options:
+        - [ murder ]
+        - [ { sep: or }, " manslaughter" ]
+        - [ "attempted murder" ]
+        - [ { sep: or }, " attempted voluntary manslaughter" ]
+    - " if "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " "
+    - { choice: killed_attempted_kill, options: [ [ killed ], [ "attempted to kill" ] ] }
+    - " to defend "
+    - { pronoun: defendant, forms: [ himself, herself ] }
+    - " "
+    - { opt: [ "or any other person" ], if: any_other_person }
+    - " in the defendant’s home. Such "
+    - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+    - " "
+    - { opt: [ attempted ], if: attempted }
+    - " killing is justified, and therefore not unlawful, if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant reasonably believed that "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " "
+          - { agree: defendant, sg: was, pl: were }
+          - " defending a home against "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+          - ", who "
+          - any: intended_tried_commit
+            options:
+              - - "intended to or tried to commit "
+                - { field: "text.forcible_atrocious_crime", hint: "insert forcible and atrocious crime" }
+              - - { sep: or }
+                - " violently"
+                - opt:
+                    - any: riotously
+                      options:
+                        - [ { sep: "," }, " ", { opt: [ or ], if: or }, " riotously", { sep: "," } ]
+                        - [ { sep: or }, " tumultuously" ]
+                      bare: true
+                  if: riotously_tumultuously
+                - " tried to enter that home intending to commit an act of violence against someone inside"
+        end: ";"
+      - n: "2"
+        text: [ "The defendant reasonably believed that the danger was imminent" ]
+        end: ";"
+      - n: "3"
+        text:
+          - "The defendant reasonably believed that the use of deadly force was necessary to defend against the danger"
+        end: ";"
+      - n: "4"
+        text:
+          - "The defendant used no more force than was reasonably necessary to defend against the danger"
+        end: "."
+        and: "AND"
+  - - "Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be. The defendant must have believed there was imminent danger of violence to "
+    - any: himself_herself
+      options:
+        - [ { pronoun: defendant, forms: [ himself, herself ], bare: true } ]
+        - [ { sep: or }, " someone else" ]
+    - ". Defendant’s belief must have been reasonable and "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " must have acted only because of that belief. The defendant is only entitled to use that amount of force that a reasonable person would believe is necessary in the same situation. If the defendant used more force than was reasonable, then the "
+    - { opt: [ attempted ], if: attempted }
+    - " killing was not justified."
+  - - "When deciding whether the defendant’s beliefs were reasonable, consider all the circumstances as they were known to and appeared to the defendant and consider what a reasonable person in a similar situation with similar knowledge would have believed. If the defendant’s beliefs were reasonable, the danger does not need to have actually existed."
+  - - opt:
+        - "A defendant is not required to retreat. He or she is entitled to stand his or her ground and defend himself or herself and, if reasonably necessary, to pursue an assailant until the danger of "
+        - choice: death_bodily_injury
+          options:
+            - [ death ]
+            - [ "bodily injury" ]
+            - [ { field: "text.forcible_atrocious_crime", hint: "insert forcible and atrocious crime" } ]
+        - " has passed. This is so even if safety could have been achieved by retreating."
+      if: defendant_is_not_required
+  - - "The People have the burden of proving beyond a reasonable doubt that the "
+    - { opt: [ attempted ], if: attempted }
+    - " killing was not justified. If the People have not met this burden, you must find the defendant not guilty of "
+    - { opt: [ attempted ], if: attempted }
+    - " "
+    - { any: murder_2, options: [ [ murder ], [ { sep: or }, " manslaughter" ] ] }
+    - "."
+people: { decedent: { label: "Decedent", uses: [ name ] } }

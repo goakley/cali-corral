@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1162",
   "title": "Soliciting Lewd Conduct in Public (Pen. Code, § 647(a))",
   "source": {
@@ -32,8 +32,8 @@
     "[As used here, a *public place* is a place that is open and accessible to anyone who wishes to go there.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -44,7 +44,7 @@
     16.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

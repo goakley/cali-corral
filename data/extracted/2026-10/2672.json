@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2672",
   "title": "Lawful Performance: Resisting Unlawful Arrest With Force",
   "source": {
@@ -37,11 +37,11 @@
     "The People have the burden of proving beyond a reasonable doubt that the officer was lawfully performing (his/her) duties. If the People have not met this burden, you must find the defendant not guilty [of ______ <insert crimes>]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
@@ -50,12 +50,12 @@
     35.7,
     16.0,
     34.3,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

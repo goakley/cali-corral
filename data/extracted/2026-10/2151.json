@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2151",
   "title": "Failure to Perform Duty Following Accident: Property Damage—Defendant Nondriving Owner or Passenger in Control (Veh. Code, § 20002)",
   "source": {
@@ -25,7 +25,7 @@
     "AND",
     "5. The defendant willfully failed to perform one or more of the following duties:",
     "(a) To cause the vehicle to immediately stop at the scene of the accident;",
-    "(a) OR",
+    "OR",
     "(b) To provide the owner or person in control of the damaged property with (his/her) name and current residence address [and the name and address of the driver of the vehicle the defendant [owned and] was a passenger in].",
     "The (owner/passenger in control) may provide the required information in one of two ways:",
     "1. He or she may locate the owner or person in control of the damaged property and give that person the required information directly. On request, he or she must also show that person his or her driver’s license, or any other available identification, and the vehicle registration;",
@@ -43,8 +43,8 @@
     "[If the defendant told the driver to stop and made a reasonable effort to stop the vehicle, but the driver refused, then the defendant is not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -52,22 +52,22 @@
     16.0,
     19.0,
     30.0,
-    30.0,
+    53.0,
     29.3,
-    0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

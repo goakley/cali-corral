@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "304",
   "title": "Multiple Defendants: Limited Admissibility of Evidence",
   "source": {
@@ -19,7 +19,7 @@
     "I instructed you during the trial that certain evidence was admitted only against [a] certain defendant[s]. You must not consider that evidence against any other defendant."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

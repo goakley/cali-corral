@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2900",
   "title": "Vandalism (Pen. Code, § 594)",
   "source": {
@@ -29,15 +29,15 @@
     "*Graffiti or other inscribed material* includes an unauthorized inscription, word, figure, mark, or design that is written, marked, etched, scratched, drawn, or painted on real or personal property."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0
   ],

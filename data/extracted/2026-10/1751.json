@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1751",
   "title": "Defense to Receiving Stolen Property: Innocent Intent",
   "source": {
@@ -21,9 +21,9 @@
     "[This defense does not apply if the defendant decided to (return the property to its owner/[or] deliver the property to law enforcement) only after (he/she) wrongfully (bought/received/concealed/withheld) the property.] [The defense [also] does not apply if the defendant intended to (return the property to its owner/[or] deliver the property to law enforcement) when (he/she) (bought/received/concealed/withheld) it, but later decided to (sell/conceal/withhold) the property.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

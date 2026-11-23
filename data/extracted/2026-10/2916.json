@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2916",
   "title": "Loitering: Peeking (Pen. Code, § 647(i))",
   "source": {
@@ -26,14 +26,14 @@
     "[A (building/[or] structure) is *not inhabited* if the former residents have moved out and do not intend to return, even if some personal property remains inside.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

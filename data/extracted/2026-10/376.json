@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "376",
   "title": "Possession of Recently Stolen Property as Evidence of a Crime",
   "source": {
@@ -22,10 +22,10 @@
     "Remember that you may not convict the defendant of any crime unless you are convinced that each fact essential to the conclusion that the defendant is guilty of that crime has been proved beyond a reasonable doubt."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

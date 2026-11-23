@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2680",
   "title": "Courthouse Picketing (Pen. Code, § 169)",
   "source": {
@@ -23,8 +23,8 @@
     "2. When the defendant acted, (he/she) did so with the intent (to interfere with, obstruct, or impede the administration of justice/[or] to influence (a/an) (judge[,]/[or] juror[,]/[or] witness[,]/[or] officer of the court) in the discharge of his or her duty)."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0

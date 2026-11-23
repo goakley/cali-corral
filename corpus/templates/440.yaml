@@ -1,0 +1,67 @@
+# CALCRIM No. 440. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "440"
+title: "Accessories (Pen. Code, § 32)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "973a29b36946b1324a6ee0ca39a946f26eaf07531e6ded850117c5e667f22e67"
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 32”?"
+  - id: felony_felonies
+    type: choice
+    options: [ { id: o1, label: felony }, { id: o2, label: felonies } ]
+    prompt: "Choose one"
+  - id: will_give_have_given
+    type: choice
+    options: [ { id: o1, label: "will give" }, { id: o2, label: "have given" } ]
+    prompt: "Choose one"
+  - id: decide_whether_perpetrator_committed
+    type: boolean
+    prompt: "Include “To decide whether the perpetrator committed the (felony/felonies) of…”?"
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with being an accessory to a felony "
+    - { opt: [ "in violation of Penal Code section 32" ], if: in_violation_penal_code }
+    - "."
+  - [ "To prove that the defendant is guilty of this crime, the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text: [ "Another person, whom I will call the perpetrator, committed a felony" ]
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant knew that the perpetrator had committed a felony or that the perpetrator had been charged with or convicted of a felony"
+        end: ";"
+      - n: "3"
+        text:
+          - "After the felony had been committed, the defendant either harbored, concealed, or aided the perpetrator"
+        end: ";"
+      - n: "4"
+        text:
+          - "When the defendant acted, "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " intended that the perpetrator avoid or escape arrest, trial, conviction, or punishment"
+        end: "."
+        and: "AND"
+  - - opt:
+        - "To decide whether the perpetrator committed the "
+        - { choice: felony_felonies, options: [ [ felony ], [ felonies ] ] }
+        - " of "
+        - { field: "text.offense_s", hint: "insert offense[s]" }
+        - ", please refer to the separate instructions that I "
+        - { choice: will_give_have_given, options: [ [ "will give" ], [ "have given" ] ] }
+        - " you on "
+        - { when: [ "!crime_plural", crime_plural ], options: [ that, those ] }
+        - " crime"
+        - { opt: [ s ], if: crime_plural }
+        - "."
+      if: decide_whether_perpetrator_committed

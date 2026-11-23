@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1244",
   "title": "Human Trafficking of a Minor for Commercial Sex Act (Pen. Code, § 236.1(c))",
   "source": {
@@ -29,8 +29,8 @@
     "[Being mistaken about the other person’s age is not a defense to this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1945",
   "title": "Procuring Filing of False Document or Offering False Document for Filing (Pen. Code, § 115)",
   "source": {
@@ -27,8 +27,8 @@
     "3. The document was one that, if genuine, could be legally (filed[,]/[or] recorded[,]/[or] registered)."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,

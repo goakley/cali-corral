@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "206",
   "title": "One or More Defendants Removed From Case",
   "source": {
@@ -20,8 +20,8 @@
     "Do not speculate about or consider in any way why the charge[s] against defendant[s] ______ <insert names[s] of defendant[s]> (do/does) not need to be decided."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

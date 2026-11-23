@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3261",
   "title": "While Committing a Felony: Defined—Escape Rule",
   "source": {
@@ -35,11 +35,11 @@
     "[The crime of ______ <insert felony alleged> [or attempted ______ <insert felony alleged>] continues until the perpetrator[s] (has/have) actually reached a place of temporary safety. The perpetrator[s] (has/have) reached a place of temporary safety if (he/she/they) (has/have) successfully escaped from the scene and (is/are) no longer being chased.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     23.8,
     23.8,
     23.8,
@@ -48,10 +48,10 @@
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

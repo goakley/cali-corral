@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3412",
   "title": "Compassionate Use (Health & Saf. Code, § 11362.5)",
   "source": {
@@ -21,9 +21,9 @@
     "[A *primary caregiver* is someone who has consistently assumed responsibility for the housing, health, or safety of a patient who may legally possess or cultivate cannabis.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

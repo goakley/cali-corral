@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "853B",
   "title": "Evidence of Charged Abuse of Elder or Dependent Person",
   "source": {
@@ -21,9 +21,9 @@
     "If you find that the defendant committed one or more of these crimes, that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of another crime. The People must still prove (the/each) (charge/[and] allegation) beyond a reasonable doubt."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

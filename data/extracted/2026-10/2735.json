@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2735",
   "title": "Holding a Hostage (Pen. Code, § 4503)",
   "source": {
@@ -24,12 +24,12 @@
     "A person is *serving a sentence in a state prison* if he or she is (confined in ______ <insert name of institution from Pen. Code, § 5003>/committed to the Department of Corrections and Rehabilitation[, Division of Juvenile Justice,]) by an order made according to law[, regardless of both the purpose of the (confinement/commitment) and the validity of the order directing the (confinement/commitment), until a judgment of a competent court setting aside the order becomes final]. [A person may be *serving a sentence in a state prison* even if, at the time of the offense, he or she is confined in a local correctional institution pending trial or is temporarily outside the prison walls or boundaries for any permitted purpose, including but not limited to serving on a work detail.] [However, a prisoner who has been released on parole is not *serving a sentence in a state prison*.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

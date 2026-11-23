@@ -22,8 +22,8 @@ questions:
   - id: if_expert_witnesses_disagreed
     type: boolean
     prompt: "Include “If the expert witnesses disagreed with one another, you should weigh…”?"
-  - { id: expert_plural, type: boolean, prompt: "More than one expert?" }
-  - { id: opinion_plural, type: boolean, prompt: "More than one opinion?" }
+  - { id: expert_plural, type: boolean, prompt: "Include the “s” in “expert[s]”?" }
+  - { id: opinion_plural, type: boolean, prompt: "Include the “s” in “opinion[s]”?" }
 body:
   - - { choice: witness_was_witnesses_were, options: [ [ "A witness was" ], [ "Witnesses were" ] ] }
     - " allowed to testify as "

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "205",
   "title": "Charge Removed From Jury Consideration",
   "source": {
@@ -20,8 +20,8 @@
     "Do not speculate about or consider in any way why you no longer need to decide (this/these) count[s]."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

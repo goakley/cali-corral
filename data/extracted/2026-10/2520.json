@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2520",
   "title": "Carrying Concealed Firearm on Person (Pen. Code, § 25400(a)(2))",
   "source": {
@@ -30,13 +30,13 @@
     "[The defendant did not unlawfully carry a concealed firearm if ______ <insert defense from Pen. Code, § 25450, 25510, 25525, 25600, or 25605>. The People have the burden of proving beyond a reasonable doubt that the defendant unlawfully carried a concealed firearm. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

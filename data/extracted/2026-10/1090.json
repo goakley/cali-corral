@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1090",
   "title": "Sodomy With Person Under 14 (Pen. Code, § 286(c)(1))",
   "source": {
@@ -26,14 +26,14 @@
     "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

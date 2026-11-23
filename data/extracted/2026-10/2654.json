@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2654",
   "title": "Intentionally Taking or Attempting to Take Firearm From Peace Officer or Public Officer (Pen. Code, § 148(d))",
   "source": {
@@ -46,8 +46,8 @@
     "[A peace officer is not lawfully performing his or her duties if he or she is (unlawfully arresting or detaining someone/[or] using unreasonable or excessive force in his or her duties). Instruction 2670 explains (when an arrest or detention is unlawful/[and] when force is unreasonable or excessive).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -56,7 +56,7 @@
     16.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     15.0,
     15.0,
     15.0,
@@ -65,15 +65,15 @@
     15.0,
     15.0,
     15.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,0 +1,132 @@
+# CALCRIM No. 526. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "526"
+title: "Implied Malice Murder: Aiding and Abetting"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New September 2023; Revised October 2025"
+  body_sha256: "75773f10cb17b7cfc59eebd1c00050f4f3fff90bd6d18676988d8a286c9fefc9"
+review: "machine-checked"
+questions:
+  - { id: an, type: boolean, prompt: "Include “an”?" }
+  - id: another_person
+    type: multi
+    options: [ { id: o1, label: "another person" }, { id: o2, label: "a fetus" } ]
+    prompt: "Which apply? (one or more)"
+  - id: for_murder_liability_attach
+    type: boolean
+    prompt: "Include “For murder liability to attach to a parent as an aider and abettor ba…”?"
+  - id: if_you_conclude_that
+    type: boolean
+    prompt: "Include “If you conclude that defendant was present at the scene of the crime…”?"
+  - id: it_is_not_necessary
+    type: boolean
+    prompt: "Include “It is not necessary that the perpetrator or the defendant be aware of…”?"
+  - id: fetus_is_unborn_human
+    type: boolean
+    prompt: "Include “A fetus is an unborn human being that has progressed beyond the embry…”?"
+  - id: act_causes_death_if
+    type: boolean
+    prompt: "Include “An act causes death if the death is the direct, natural, and probable…”?"
+  - id: person_who_aids_abets
+    type: boolean
+    prompt: "Give the paragraph beginning “A person who aids and abets a crime is not guilty of that c…”?"
+  - { id: act_plural, type: boolean, prompt: "Include the “s” in “act[s]”?" }
+body:
+  - - "To prove that the defendant is guilty of aiding and abetting murder by acting with implied malice, the People must prove that:"
+  - elements:
+      - n: "1"
+        text:
+          - "The perpetrator committed "
+          - { opt: [ an ], if: an }
+          - " act"
+          - { opt: [ s ], if: act_plural }
+          - " that "
+          - { when: [ "!act_plural", act_plural ], options: [ was, were ] }
+          - " dangerous to human life"
+        end: ";"
+      - n: "2"
+        text:
+          - "The perpetrator’s act"
+          - { opt: [ s ], if: act_plural }
+          - " caused the death of "
+          - { any: another_person, options: [ [ "another person" ], [ { sep: or }, " a fetus" ] ] }
+        end: ";"
+      - n: "3"
+        text:
+          - "The defendant knew that the perpetrator intended to commit the act"
+          - { opt: [ s ], if: act_plural }
+          - " that "
+          - { when: [ "!act_plural", act_plural ], options: [ was, were ] }
+          - " dangerous to human life"
+        end: ";"
+      - n: "4"
+        text:
+          - "Before or during the commission of the perpetrator’s act"
+          - { opt: [ s ], if: act_plural }
+          - ", the defendant intended to aid and abet the perpetrator in committing the act"
+          - { opt: [ s ], if: act_plural }
+          - " that "
+          - { when: [ "!act_plural", act_plural ], options: [ was, were ] }
+          - " dangerous to human life"
+        end: ";"
+      - n: "5"
+        text:
+          - "Before or during the commission of the perpetrator’s act"
+          - { opt: [ s ], if: act_plural }
+          - ", the defendant knew the perpetrator’s act"
+          - { opt: [ s ], if: act_plural }
+          - " "
+          - { when: [ "!act_plural", act_plural ], options: [ was, were ] }
+          - " dangerous to human life, and the defendant deliberately acted with conscious disregard for human life"
+        end: ";"
+      - n: "6"
+        text:
+          - "By words or conduct, the defendant did in fact aid and abet the perpetrator’s commission of the act"
+          - { opt: [ s ], if: act_plural }
+        end: "."
+        and: "AND"
+      - { note: "Give in parental duty to protect cases." }
+  - - opt:
+        - "For murder liability to attach to a parent as an aider and abettor based on failure to protect, the parent must knowingly fail to protect the child from the life-endangering act for the purpose of facilitating that life-endangering act and the failure to act must actually assist in the commission of the life-endangering act."
+      if: for_murder_liability_attach
+  - - "If all of these requirements are proved, the defendant does not need to actually have been present when the crime was committed to be guilty as an aider and abettor."
+  - - "Someone "
+    - { em: "aids and abets" }
+    - " a crime if he or she knows of the perpetrator’s unlawful purpose and he or she specifically intends to, and does in fact, aid, facilitate, promote, encourage, or instigate the perpetrator’s commission of that crime."
+  - - "An act is "
+    - { em: "dangerous to human life" }
+    - " if there is a high degree of probability that the act will result in death."
+  - - opt:
+        - "If you conclude that defendant was present at the scene of the crime or failed to prevent the crime, you may consider that fact in determining whether the defendant was an aider and abettor. However, the fact that a person is present at the scene of a crime or fails to prevent the crime does not, by itself, make him or her an aider and abettor."
+      if: if_you_conclude_that
+  - - opt:
+        - "It is not necessary that the perpetrator or the defendant be aware of the existence of a fetus to be guilty of murdering that fetus."
+      if: it_is_not_necessary
+  - - opt:
+        - "A "
+        - { em: fetus }
+        - " is an unborn human being that has progressed beyond the embryonic stage after major structures have been outlined, which typically occurs at seven to eight weeks after fertilization."
+      if: fetus_is_unborn_human
+  - - opt:
+        - "An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A "
+        - { em: "natural and probable consequence" }
+        - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+      if: act_causes_death_if
+  - opt:
+      - - "A person who aids and abets a crime is not guilty of that crime if he or she withdraws before the crime is committed. To withdraw, a person must do two things:"
+      - elements:
+          - n: "1"
+            text:
+              - "He or she must notify everyone else he or she knows is involved in the commission of the crime that he or she is no longer participating. The notification must be made early enough to prevent the commission of the crime"
+            end: "."
+          - n: "2"
+            text:
+              - "He or she must do everything reasonably within his or her power to prevent the crime from being committed. He or she does not have to actually prevent the crime"
+            end: "."
+            and: "AND"
+        plain: true
+      - - "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw. If the People have not met this burden, you may not find the defendant guilty under an aiding and abetting theory."
+    if: person_who_aids_abets

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "850",
   "title": "Expert Testimony on Intimate Partner Battering Victims",
   "source": {
@@ -20,7 +20,7 @@
     "______’s <insert name of expert> testimony about the behaviors of intimate partner battering victims is not evidence that the defendant committed any of the crimes charged against (him/her) [or any conduct or crime[s] with which (he/she) was not charged]."
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1601",
   "title": "Robbery in Concert (Pen. Code, § 213(a)(1)(A))",
   "source": {
@@ -29,17 +29,17 @@
     "[To prove the crime of robbery in concert, the People do not have to prove a prearranged plan or scheme to commit robbery.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

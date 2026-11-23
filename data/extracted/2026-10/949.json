@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "949",
   "title": "Battery Against School Employee (Pen. Code, §§ 242, 243.6)",
   "source": {
@@ -40,8 +40,8 @@
     "[An *injury* is any physical injury that requires professional medical treatment. The question whether an injury requires such treatment cannot be answered simply by deciding whether or not a person sought or received treatment. You may consider those facts, but you must decide this question based on the nature, extent, and seriousness of the injury itself.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -56,12 +56,12 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

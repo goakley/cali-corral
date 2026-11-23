@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2000",
   "title": "Insurance Fraud: Fraudulent Claims (Pen. Code, § 550(a)(1), (4)–(7) & (9))",
   "source": {
@@ -41,8 +41,8 @@
     "[*Conversion* of property means interfering with someone else’s property, without authorization or justification, and depriving the owner of use and possession of the property.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     31.0,
     16.0,
@@ -58,12 +58,12 @@
     19.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

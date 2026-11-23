@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "331",
   "title": "Testimony of Person With Developmental, Cognitive, or Mental Disability",
   "source": {
@@ -21,9 +21,9 @@
     "You should not discount or distrust the testimony of a person with a (developmental disability[,]/[or] [a] (cognitive[,]/[or] mental[,]/[or] communication) impairment)[,] solely because he or she has such (a/an) (disability/[or] impairment)."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3459",
   "title": "Commitment of Person With Developmental Disability As Dangerous to Self or Others (Welf. & Inst. Code, § 6500)",
   "source": {
@@ -31,17 +31,17 @@
     "You will receive [a] verdict form[s] on which to indicate your finding of whether the allegation that ______ <insert name of respondent> is a person with a developmental disability who is dangerous to (him/her) self or others is true or not true. To find the allegation true or not true, all of you must agree. You may not find the allegation to be true unless all of you agree the People have proved it beyond a reasonable doubt."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
+    -0.0,
     0.0,
     0.0
   ],

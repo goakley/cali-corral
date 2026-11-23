@@ -1,0 +1,89 @@
+# CALCRIM No. 594. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "594"
+title: "Vehicular Manslaughter: Collision for Financial Gain (Pen. Code, § 192(c)(3))"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2020"
+  body_sha256: d848de14b6b90e5de7bb41093a54d8825bf5399859827e72c3103b300b5f7bce
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 192(c)(3)”?"
+  - id: governmental_agency_corporation_business
+    type: choice
+    options:
+      - { id: o1, label: "a governmental agency" }
+      - { id: o2, label: "a corporation" }
+      - { id: o3, label: "a business" }
+      - { id: o4, label: "an association" }
+      - { id: o5, label: "the body politic" }
+    prompt: "Choose one"
+  - id: for_purpose_this_instruction
+    type: boolean
+    prompt: "Include “For the purpose of this instruction, a person includes (a governmenta…”?"
+  - id: act_causes_death_if
+    type: boolean
+    prompt: "Include “An act causes death if the death is the direct, natural, and probable…”?"
+  - id: there_may_be_more
+    type: boolean
+    prompt: "Include “There may be more than one cause of death. An act causes death only i…”?"
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with vehicular manslaughter by causing a collision for financial gain "
+    - opt: [ "in violation of Penal Code section 192", "(", c, ")", "(", "3", ")" ]
+      if: in_violation_penal_code
+    - "."
+  - [ "To prove that the defendant is guilty of this crime, the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text:
+          - "While driving a vehicle, the defendant knowingly caused or participated in a vehicular collision"
+        end: ";"
+      - n: "2"
+        text:
+          - "When the defendant acted, "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " knew that the purpose of the vehicular collision was to make a false or fraudulent insurance claim for financial gain"
+        end: ";"
+      - n: "3"
+        text:
+          - "When the defendant acted, "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " did so with intent to defraud"
+        end: ";"
+      - n: "4"
+        text: [ "The collision caused the death of another person" ]
+        end: "."
+        and: "AND"
+  - - "A person "
+    - { em: "intends to defraud" }
+    - " if he or she intends to deceive another person in order to cause a loss of, or damage to, a legal, financial, or property right."
+  - - opt:
+        - "For the purpose of this instruction, a "
+        - { em: person }
+        - " includes "
+        - choice: governmental_agency_corporation_business
+          options:
+            - [ "a governmental agency" ]
+            - [ "a corporation" ]
+            - [ "a business" ]
+            - [ "an association" ]
+            - [ "the body politic" ]
+        - "."
+      if: for_purpose_this_instruction
+  - - opt:
+        - "An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A "
+        - { em: "natural and probable consequence" }
+        - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+      if: act_causes_death_if
+  - - opt:
+        - "There may be more than one cause of death. An act causes death only if it is a substantial factor in causing the death. A "
+        - { em: substantialfactor }
+        - " is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death."
+      if: there_may_be_more

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3500",
   "title": "Unanimity",
   "source": {
@@ -20,8 +20,8 @@
     "The People have presented evidence of more than one act to prove that the defendant committed the charged offense [and the lesser crime[s]]. You must not find the defendant guilty [of ______ <insert description of charged and lesser crimes requiring unanimity>] unless you all agree that the People have proved that the defendant committed at least one of these acts and you all agree on which act (he/she) committed."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

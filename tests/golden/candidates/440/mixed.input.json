@@ -1,0 +1,22 @@
+{
+  "answers": {
+    "in_count": true,
+    "in_violation_penal_code": false,
+    "felony_felonies": "o1",
+    "will_give_have_given": "o2",
+    "decide_whether_perpetrator_committed": true,
+    "crime_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "offense_s": "example offense s"
+  }
+}

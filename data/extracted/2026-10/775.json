@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "775",
   "title": "Death Penalty: Intellectual Disability (Pen. Code, § 1376)",
   "source": {
@@ -28,16 +28,16 @@
     "*Proof by a preponderance of the evidence* is a different standard than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that (he/she) is intellectually disabled. If the defendant has not met this burden, you must find that (he/she) has not proved that (he/she) is intellectually disabled. In order to return a finding that the defendant is or is not intellectually disabled, you must all agree on that finding."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

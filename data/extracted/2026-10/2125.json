@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2125",
   "title": "Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions (Veh. Code, §§ 23550, 23550.5 & 23566)",
   "source": {
@@ -24,12 +24,12 @@
     "[You must consider each alleged conviction separately.] The People have the burden of proving (the/each) alleged conviction beyond a reasonable doubt. If the People have not met this burden [for any alleged conviction], you must find that the alleged conviction has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     16.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

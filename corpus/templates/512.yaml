@@ -1,0 +1,21 @@
+# CALCRIM No. 512. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "512"
+title: "Presumption That Killing Not Criminal (Pen. Code, § 194)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: f8de97e3ad286c0a9721777bd819f6272e5011ebbca4ed9829e0959609e5eab9
+review: "machine-checked"
+questions:
+  - id: count_three_year_one
+    type: boolean
+    prompt: "Include “To count the three year and one day period, begin with the day on whi…”?"
+body:
+  - - "The law presumes that a killing is not criminal if the person killed dies more than three years and one day from the day of the incident that caused the death."
+  - - "The People must overcome this presumption by proving that the killing was criminal. If you have a reasonable doubt whether the killing was criminal, you must find the defendant not guilty."
+  - - opt:
+        - "To count the three year and one day period, begin with the day on which the incident happened. Count that day as one whole day regardless of what time the incident happened."
+      if: count_three_year_one

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1515",
   "title": "Arson (Pen. Code, § 451(c) & (d))",
   "source": {
@@ -30,12 +30,12 @@
     "[A person does not commit arson if the only thing burned is his or her own personal property, unless he or she acts with the intent to defraud, or the fire also injures someone else or someone else’s structure, forest land, or property.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

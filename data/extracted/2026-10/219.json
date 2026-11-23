@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "219",
   "title": "Reasonable Doubt in Civil Commitment Proceedings",
   "source": {
@@ -21,9 +21,9 @@
     "In deciding whether the Petitioner has proved the allegations of the petition are true beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the Respondent ______ <insert what must be proved in this proceeding, e.g., “is a sexually violent predator”> beyond a reasonable doubt, you must find the petition is not true."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

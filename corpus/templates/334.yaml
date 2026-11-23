@@ -69,8 +69,8 @@ questions:
   - id: evidence_needed_support_statement
     type: boolean
     prompt: "Include “The evidence needed to support the (statement/[or] testimony) of one…”?"
-  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
-  - { id: accomplice_plural, type: boolean, prompt: "More than one accomplice?" }
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+  - { id: accomplice_plural, type: boolean, prompt: "Include the “s” in “accomplice[s]”?" }
 body:
   - - "Before you may consider the "
     - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }

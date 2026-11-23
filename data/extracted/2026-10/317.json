@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "317",
   "title": "Former Testimony of Unavailable Witness",
   "source": {
@@ -19,7 +19,7 @@
     "The testimony that ______ <insert name of witness> has given under oath (was/will be) (read to/played for) you because (he/she) is not available. You must evaluate this testimony by the same standards that you apply to a witness who testified here in court."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

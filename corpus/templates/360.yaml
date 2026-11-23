@@ -14,7 +14,7 @@ questions:
   - id: i_am_referring_only
     type: boolean
     prompt: "Include “I am referring only to the statement[s] ___.”?"
-  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+  - { id: statement_plural, type: boolean, prompt: "Include the “s” in “statement[s]”?" }
 body:
   - - { field: "text.name", hint: "Insert name" }
     - " testified that in reaching "

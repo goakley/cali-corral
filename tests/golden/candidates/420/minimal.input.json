@@ -1,0 +1,20 @@
+{
+  "answers": {
+    "failure_act_is_not": false,
+    "if_you_decide_that": false,
+    "before_overt_act_was": false,
+    "if_people_have_not": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "target_offense": "example target offense"
+  }
+}

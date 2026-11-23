@@ -1,0 +1,132 @@
+# CALCRIM No. 580. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "580"
+title: "Involuntary Manslaughter: Lesser Included Offense (Pen. Code, § 192(b))"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2011, February 2013, September 2018, September 2020, September 2022, October 2025"
+  body_sha256: dd3b9e4808c94356c9d884a454ee396796fdb9e9b28fe7544675bf302e3c1f92
+review: "machine-checked"
+questions:
+  - id: crime
+    type: multi
+    options: [ { id: o1, label: "a crime" }, { id: o2, label: "a lawful act in an unlawful manner" } ]
+    prompt: "Which apply? (one or more)"
+  - id: crime_2
+    type: multi
+    options: [ { id: o1, label: crime }, { id: o2, label: act } ]
+    prompt: "Which apply? (one or more)"
+  - id: people_allege_that_defendant
+    type: boolean
+    prompt: "Give the paragraph beginning “The People allege that the defendant committed the followin…”?"
+  - { id: also, type: boolean, prompt: "Include “also”?" }
+  - id: people_also_allege_that
+    type: boolean
+    prompt: "Include “The People [also] allege that the defendant committed the following l…”?"
+  - id: act_causes_death_if
+    type: boolean
+    prompt: "Include “An act causes death if the death is the direct, natural, and probable…”?"
+  - id: there_may_be_more
+    type: boolean
+    prompt: "Include “There may be more than one cause of death. An act causes death only i…”?"
+  - id: crime_s
+    type: multi
+    options:
+      - { id: o1, label: "crime[s]" }
+      - { id: o2, label: "lawful act[s] with criminal negligence" }
+    prompt: "Which apply? (one or more)"
+  - id: people_allege_that_defendant_2
+    type: boolean
+    prompt: "Include “The People allege that the defendant committed the following (crime[s…”?"
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+  - id: instruction_plural
+    type: boolean
+    prompt: "Include the “s” in “Instruction[s]”?"
+  - { id: tell_plural, type: boolean, prompt: "Include the “s” in “tell[s]”?" }
+  - { id: act_plural, type: boolean, prompt: "Include the “s” in “act[s]”?" }
+body:
+  - - "When a person commits an unlawful killing but does not intend to kill and does not act with conscious disregard for human life, then the crime is involuntary manslaughter."
+  - - "The difference between other homicide offenses and involuntary manslaughter depends on whether the person was aware of the risk to life that his or her actions created and consciously disregarded that risk. An unlawful killing caused by a willful act done with full knowledge and awareness that the person is endangering the life of another, and done in conscious disregard of that risk, is voluntary manslaughter or murder. An unlawful killing resulting from a willful act committed without intent to kill and without conscious disregard of the risk to human life is involuntary manslaughter."
+  - [ "The defendant committed involuntary manslaughter if:" ]
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant committed "
+          - any: crime
+            options: [ [ "a crime" ], [ { sep: or }, " a lawful act in an unlawful manner" ] ]
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant committed the "
+          - { any: crime_2, options: [ [ crime ], [ { sep: or }, " act" ] ] }
+          - " with criminal negligence"
+        end: ";"
+      - n: "3"
+        text: [ "The defendant’s acts caused the death of another person" ]
+        end: "."
+        and: "AND"
+  - opt:
+      - - "The People allege that the defendant committed the following crime"
+        - { opt: [ s ], if: crime_plural }
+        - ": "
+        - field: "text.misdemeanor_s_infraction_s"
+          hint: "insert misdemeanor[s]/infraction[s])/noninherently dangerous (felony/felonies)/inherently dangerous assaultive (felony/felonies)"
+        - "."
+      - - "Instruction"
+        - { opt: [ s ], if: instruction_plural }
+        - " "
+        - { field: "text.f2" }
+        - " tell"
+        - { opt: [ s ], if: tell_plural }
+        - " you what the People must prove in order to prove that the defendant committed "
+        - field: "text.misdemeanor_s_infraction_s"
+          hint: "insert misdemeanor[s]/infraction[s])/noninherently dangerous (felony/felonies)/inherently dangerous assaultive (felony/felonies)"
+        - "."
+    if: people_allege_that_defendant
+  - - opt:
+        - "The People "
+        - { opt: [ also ], if: also }
+        - " allege that the defendant committed the following lawful act"
+        - { opt: [ s ], if: act_plural }
+        - " with criminal negligence: "
+        - { field: "text.act_s_alleged", hint: "insert act[s] alleged" }
+        - "."
+      if: people_also_allege_that
+  - - { em: "Criminal negligence" }
+    - " involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with criminal negligence when:"
+  - elements:
+      - n: "1"
+        text:
+          - "He or she acts in a reckless way that creates a high risk of death or great bodily injury"
+        end: ";"
+      - n: "2"
+        text: [ "A reasonable person would have known that acting in that way would create such a risk" ]
+        end: "."
+        and: "AND"
+  - - "In other words, a person acts with criminal negligence when the way he or she acts is so different from the way an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act."
+  - - opt:
+        - "An act causes death if the death is the direct, natural, and probable consequence of the act and the death would not have happened without the act. A "
+        - { em: "natural and probable consequence" }
+        - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+      if: act_causes_death_if
+  - - opt:
+        - "There may be more than one cause of death. An act causes death only if it is a substantial factor in causing the death. A "
+        - { em: "substantial factor" }
+        - " is more than a trivial or remote factor. However, it does not need to be the only factor that causes the death."
+      if: there_may_be_more
+  - - { em: "Great bodily injury" }
+    - " means significant or substantial physical injury. It is an injury that is greater than moderate harm."
+  - - opt:
+        - "The People allege that the defendant committed the following "
+        - any: crime_s
+          options:
+            - [ crime, { opt: [ s ], if: crime_plural } ]
+            - [ { sep: and }, " lawful act", { opt: [ s ], if: act_plural }, " with criminal negligence" ]
+        - ": "
+        - field: "text.alleged_predicate_acts_when"
+          hint: "insert alleged predicate acts when multiple acts alleged"
+        - ". You may not find the defendant guilty unless all of you agree that the People have proved that the defendant committed at least one of these alleged acts and you all agree that the same act or acts were proved."
+      if: people_allege_that_defendant_2
+  - - "In order to prove murder or voluntary manslaughter, the People have the burden of proving beyond a reasonable doubt that the defendant acted with intent to kill or with conscious disregard for human life. If the People have not met either of these burdens, you must find the defendant not guilty of murder and not guilty of voluntary manslaughter."

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3531",
   "title": "Service Provider for Juror With Disability (Code Civ. Proc., § 224)",
   "source": {
@@ -22,8 +22,8 @@
   ],
   "body_indents": [
     0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

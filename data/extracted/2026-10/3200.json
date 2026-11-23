@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3200",
   "title": "Controlled Substance: Quantity (Pen. Code, §§ 1203.07(a)(1), (2) & (4); Health & Saf. Code, §§ 11352.5, 11370.4)",
   "source": {
@@ -26,8 +26,8 @@
     "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     11.0,
     16.0,
     16.0,

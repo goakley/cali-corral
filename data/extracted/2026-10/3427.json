@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3427",
   "title": "Involuntary Intoxication",
   "source": {
@@ -20,8 +20,8 @@
     "A person is *involuntarily intoxicated* if he or she unknowingly ingested some intoxicating liquor, drug, or other substance, or if his or her intoxication is caused by the (force/[,] [or] duress/[,] [or] fraud/[,] [or] trickery) of someone else, for whatever purpose[, without any fault on the part of the intoxicated person]."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

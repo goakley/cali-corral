@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "735",
   "title": "Special Circumstances: Discharge From Vehicle (Pen. Code, § 190.2(a)(21))",
   "source": {
@@ -27,15 +27,15 @@
     "[The terms (*firearm*/[and] *motor vehicle*) (is/are) defined elsewhere in another instruction to which you should refer.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

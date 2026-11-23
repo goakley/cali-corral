@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2687",
   "title": "Refusal to Disperse: Intent to Commit Unlawful Act (Pen. Code, § 416(a))",
   "source": {
@@ -32,20 +32,20 @@
     "In deciding whether the officer has probable cause, consider evidence of the officer’s training and experience and all the circumstances the officer knew about at the time."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

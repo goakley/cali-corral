@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2331",
   "title": "Offering to Manufacture a Controlled Substance (Health & Saf. Code, §§ 11379.6(a) & (c))",
   "source": {
@@ -25,13 +25,13 @@
     "[The People do not need to prove that the defendant knew which specific controlled substance was involved, only that (he/she) was aware that it was a controlled substance.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2150",
   "title": "Failure to Perform Duty Following Accident: Property Damage—Defendant Driver (Veh. Code, § 20002)",
   "source": {
@@ -42,8 +42,8 @@
     "[If the accident caused the defendant to be unconscious or disabled so that (he/she) was not capable of performing the duties required by law, then (he/she) did not have to perform those duties at that time. [However, (he/she) was required to do so as soon as reasonably possible.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -56,7 +56,7 @@
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

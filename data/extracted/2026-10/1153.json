@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1153",
   "title": "Prostitution: Engaging in Act (Pen. Code, § 647(b))",
   "source": {
@@ -22,10 +22,10 @@
     "Someone commits an act *willfully* when he or she does it willingly or on purpose."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

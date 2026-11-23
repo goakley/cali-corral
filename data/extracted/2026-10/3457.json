@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3457",
   "title": "Extension of Commitment as Offender With A Mental Health Disorder (Pen. Code, § 2970)",
   "source": {
@@ -35,22 +35,22 @@
     "You will receive [a] verdict form[s] on which to indicate your finding of whether the allegation that ______ <insert name of respondent> is an offender with a mental health disorder is true or not true. To find the allegation true or not true, all of you must agree. You may not find it to be true unless all of you agree the People have proved it beyond a reasonable doubt."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
+    -0.0,
     15.0,
     15.0,
     15.0,
     15.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

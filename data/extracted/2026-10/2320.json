@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2320",
   "title": "Forged Prescription for Narcotic (Health & Saf. Code, § 11368)",
   "source": {
@@ -32,8 +32,8 @@
     "______ <insert name or description of narcotic from Health & Saf. Code, § 11019> is a narcotic drug."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,

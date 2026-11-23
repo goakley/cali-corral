@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "372",
   "title": "Defendant’s Flight",
   "source": {
@@ -19,7 +19,7 @@
     "If the defendant fled [or tried to flee] (immediately after the crime was committed/[or] after (he/she) was accused of committing the crime), that conduct may show that (he/she) was aware of (his/her) guilt. If you conclude that the defendant fled [or tried to flee], it is up to you to decide the meaning and importance of that conduct. However, evidence that the defendant fled [or tried to flee] cannot prove guilt by itself."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

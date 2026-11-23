@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "767",
   "title": "Jurors’ Responsibility During Deliberation in Death Penalty Case",
   "source": {
@@ -19,7 +19,7 @@
     "It is your responsibility to decide which penalty is appropriate for the defendant in this case. Base your decision only on the evidence you have heard in court and on the instructions that I have given you. Do not speculate or consider anything other than the evidence and my instructions."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

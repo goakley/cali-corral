@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1831",
   "title": "Extortion by Threatening Letter (Pen. Code, § 523)",
   "source": {
@@ -40,8 +40,8 @@
     "2. Harms the threatened person’s reputation or other interest so greatly that he or she would be likely to (give the defendant money[or property]/[or] do an official act) to prevent the fact from being revealed.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     15.0,
@@ -51,14 +51,14 @@
     15.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0

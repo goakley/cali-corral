@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1051",
   "title": "Sexual Penetration by Fraud (Pen. Code, § 289(f))",
   "source": {
@@ -29,16 +29,16 @@
     "[Penetration for *sexual abuse* means penetration for the purpose of causing pain, injury, or discomfort.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

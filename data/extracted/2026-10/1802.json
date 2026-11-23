@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1802",
   "title": "Theft: As Part of Overall Plan",
   "source": {
@@ -19,17 +19,17 @@
     "If you conclude that the defendant committed more than one theft, you must then decide if the defendant committed grand theft. To prove that the defendant is guilty of grand theft, the People must prove that:",
     "1. The defendant committed multiple thefts of (property/[(and/or)] services);",
     "2. The combined value of the (property/[(and/or)] services) was over $950;",
-    "2. AND",
+    "AND",
     "3. In obtaining the (property/[(and/or)] services), the defendant was motivated by one intention, one general impulse, and one plan.",
     "If you conclude that, as to one or more alleged theft, the People have failed to prove grand theft, the theft[s] you have found proven (is/are) petty theft[s]."
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     19.0,
     19.0,
+    37.0,
     19.0,
-    19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

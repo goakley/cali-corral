@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1752",
   "title": "Owning or Operating a Chop Shop (Veh. Code, § 10801)",
   "source": {
@@ -27,22 +27,22 @@
     "AND",
     "3. That person knows that the vehicle or part was obtained in order to either:",
     "a. Sell or dispose of the vehicle or part;",
-    "a. OR",
+    "OR",
     "b. Alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity, including an identification number, of the vehicle or part, in order to misrepresent its identity or prevent its identification."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
     35.0,
-    35.0,
+    53.0,
     34.3
   ],
   "bench_notes": {

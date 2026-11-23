@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "359",
   "title": "Corpus Delicti: Independent Evidence of a Charged Crime",
   "source": {
@@ -22,10 +22,10 @@
     "You may not convict the defendant unless the People have proved (his/her) guilt beyond a reasonable doubt."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

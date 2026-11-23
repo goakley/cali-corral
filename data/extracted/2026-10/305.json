@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "305",
   "title": "Multiple Defendants: Limited Admissibility of Defendant’s Statement",
   "source": {
@@ -19,7 +19,7 @@
     "You have heard evidence that defendant ______ <insert defendant’s name> made a statement (out of court/before trial). You may consider that evidence only against (him/her), not against any other defendant."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

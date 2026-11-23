@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2022",
   "title": "False Financial Statement: Reaffirming Statement (Pen. Code, § 532a(3))",
   "source": {
@@ -29,8 +29,8 @@
     "[The People allege that the defendant represented that the following statements were true: ______ <insert descriptions when multiple statements alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant represented that at least one of these statements was true while knowing that the statement was false. You must all agree on which false statement (he/she) represented to be true.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,
@@ -39,7 +39,7 @@
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

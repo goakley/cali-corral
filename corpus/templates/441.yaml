@@ -1,0 +1,124 @@
+# CALCRIM No. 441. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "441"
+title: "Solicitation: Elements (Pen. Code, § 653f)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "612e4cf3f13a9eeb8ffcb1ab430ceac5641832901408aa2b11c81657fa127df4"
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 653f”?"
+  - { id: or, type: boolean, prompt: "Include “or ___”?" }
+  - id: join_in_commission
+    type: boolean
+    prompt: "Include “or join in the commission of”?"
+  - id: element_3
+    type: boolean
+    prompt: "Include element 3 (“The other person received the communication conta…”)?"
+  - id: will_give_have_given
+    type: choice
+    options: [ { id: o1, label: "will give" }, { id: o2, label: "have given" } ]
+    prompt: "Choose one"
+  - id: crime_solicitation_must_be
+    type: boolean
+    prompt: "Include “The crime of solicitation must be proved by the testimony of at least…”?"
+  - id: crime_solicitation_must_be_2
+    type: boolean
+    prompt: "Include “The crime of solicitation must be proved by the testimony of at least…”?"
+  - id: person_is_guilty_solicitation
+    type: boolean
+    prompt: "Include “A person is guilty of solicitation even if the crime solicited is not…”?"
+  - id: if_you_find_defendant
+    type: boolean
+    prompt: "Give the paragraph beginning “If you find the defendant guilty of solicitation, you must…”?"
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with soliciting another person to commit a crime "
+    - { opt: [ "in violation of Penal Code section 653f" ], if: in_violation_penal_code }
+    - "."
+  - [ "To prove that the defendant is guilty of this crime, the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant requested "
+          - opt:
+              - "or "
+              - field: "text.other_synonyms_for_solicit"
+                hint: "insert other synonyms for solicit as appropriate"
+            if: or
+          - " another person to commit "
+          - { opt: [ "or join in the commission of" ], if: join_in_commission }
+          - " the crime of "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant intended that the crime of "
+          - { field: "text.target_offense", hint: "insert target offense" }
+          - " be committed"
+        end: "(;/.)"
+        and: "[AND]"
+      - note: "Give element 3 when instructing that person solicited must receive message; see Bench Notes."
+        governs: [ element_3 ]
+      - n: "3"
+        text: [ "The other person received the communication containing the request" ]
+        end: "."
+        and: "AND"
+        if: element_3
+  - - "To decide whether the defendant intended that the person commit "
+    - { field: "text.target_offense", hint: "insert target offense" }
+    - ", please refer to the separate instructions that I "
+    - { choice: will_give_have_given, options: [ [ "will give" ], [ "have given" ] ] }
+    - " you on that crime."
+  - { note: "Alternative A—Corroboration by One Witness" }
+  - - opt:
+        - "The crime of solicitation must be proved by the testimony of at least one witness and corroborating evidence."
+      if: crime_solicitation_must_be
+  - { note: "Alternative B—Corroboration by Two Witnesses" }
+  - - opt:
+        - "The crime of solicitation must be proved by the testimony of at least two witnesses or by the testimony of one witness and corroborating evidence."
+      if: crime_solicitation_must_be_2
+  - - { em: "Corroborating evidence" }
+    - " is evidence that "
+    - "("
+    - "1"
+    - ")"
+    - " tends to connect the defendant with the commission of the crime and "
+    - "("
+    - "2"
+    - ")"
+    - " is independent of the evidence given by the witness who testified about the solicitation or independent of the facts testified to by that witness. Corroborating evidence need not be strong or even enough to establish each element by itself. Corroborating evidence may include the defendant’s acts, statements, or conduct, or any other circumstance that tends to connect "
+    - { pronoun: defendant, forms: [ him, her ] }
+    - " to the crime."
+  - - opt:
+        - "A person is guilty of solicitation even if the crime solicited is not completed or even started. The person solicited does not have to agree to commit the crime."
+      if: person_is_guilty_solicitation
+  - opt:
+      - - "If you find the defendant guilty of solicitation, you must decide how many crimes "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " solicited. When deciding this question, consider the following factors:"
+      - elements:
+          - n: "1"
+            text:
+              - "Were the crimes solicited part of a plan with a single objective or motive or did each crime solicited have a different objective or motive?"
+            end: ""
+          - { n: "2", text: [ "Were the crimes solicited to be committed at the same time?" ], end: "" }
+          - { n: "3", text: [ "Were the crimes solicited to be committed in the same place?" ], end: "" }
+          - { n: "4", text: [ "Were the crimes solicited to be committed in the same way?" ], end: "" }
+          - n: "5"
+            text:
+              - "Was the payment, if any, for the crimes solicited one amount or were different amounts solicited for each crime?"
+            end: ""
+        plain: true
+      - - "Consider all of these factors when deciding whether the defendant’s alleged acts were a single crime or "
+        - field: "text.number_solicitations_alleged_by"
+          hint: "insert number of solicitations alleged by the People"
+        - " separate crimes of solicitation."
+    if: if_you_find_defendant

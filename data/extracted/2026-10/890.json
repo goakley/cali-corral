@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "890",
   "title": "Assault With Intent to Commit Specified Crimes [While Committing First Degree Burglary] (Pen. Code, § 220(a), (b))",
   "source": {
@@ -27,7 +27,7 @@
     "[AND",
     "6. When the defendant acted, (he/she) was committing a first degree burglary.]",
     "<If the court concludes that the first degree burglary requirement in Pen. Code, § 220(b) is a penalty allegation and not an element of the offense, give the bracketed language below in place of element 6.>",
-    "6. [If you find the defendant guilty of the charged crime, you must then decide whether the People have proved the additional allegation that the crime was committed in the commission of a first degree burglary.]",
+    "[If you find the defendant guilty of the charged crime, you must then decide whether the People have proved the additional allegation that the crime was committed in the commission of a first degree burglary.]",
     "[First degree burglary is defined in another instruction to which you should refer.]",
     "Someone commits an act *willfully* when he or she does it willingly or on purpose.",
     "The terms *application of force* and *apply force* mean to touch in a harmful or offensive manner. The slightest touching can be enough if it is done in a rude or angry way. Making contact with another person, including through his or her clothing, is enough. The touching does not have to cause pain or injury of any kind.",
@@ -37,8 +37,8 @@
     "To decide whether the defendant intended to commit ______ <insert crime specified in Pen. Code, § 220(a)> please refer to Instruction[s] ______ which define[s] (that/those) crime[s]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -48,14 +48,14 @@
     16.0,
     19.0,
     16.0,
-    19.0,
+    37.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

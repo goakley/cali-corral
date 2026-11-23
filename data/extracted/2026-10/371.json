@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "371",
   "title": "Consciousness of Guilt: Suppression and Fabrication of Evidence",
   "source": {
@@ -26,14 +26,14 @@
     "[If you conclude that a defendant (tried to hide evidence[,]/discouraged someone from testifying[,]/[or] authorized another person to (hide evidence/[or] discourage a witness)), you may consider that conduct only against that defendant. You may not consider that conduct in deciding whether any other defendant is guilty or not guilty.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3405",
   "title": "Parental Right to Punish a Child",
   "source": {
@@ -20,8 +20,8 @@
     "The People must prove beyond a reasonable doubt that the (force/[or] method of punishment) used was not justifiable. If the People have not met this burden, you must find the defendant not guilty of ______ <insert crime>."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

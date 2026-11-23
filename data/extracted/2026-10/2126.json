@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2126",
   "title": "Driving Under the Influence or With 0.08 or 0.04 Percent Blood Alcohol: Prior Convictions—Bifurcated Trial (Veh. Code, §§ 23550, 23550.5 & 23566)",
   "source": {
@@ -24,12 +24,12 @@
     "You may not return a finding that (the/any) alleged conviction has or has not been proved unless all 12 of you agree on that finding."
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     12.0,
     16.0,
     16.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

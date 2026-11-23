@@ -14,7 +14,7 @@ questions:
     type: boolean
     prompt: "Include “or a lesser included offense”?"
   - { id: degree_crime, type: boolean, prompt: "Include “and the degree of the crime”?" }
-  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+  - { id: statement_plural, type: boolean, prompt: "Include the “s” in “statement[s]”?" }
 body:
   - - "The defendant may not be convicted of any crime based on "
     - { pronoun: defendant, forms: [ his, her ] }

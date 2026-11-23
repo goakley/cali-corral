@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "419",
   "title": "Acts Committed or Statements Made Before Joining Conspiracy",
   "source": {
@@ -20,8 +20,8 @@
     "You may consider evidence of acts or statements made before the defendant joined the conspiracy only to show the nature and goals of the conspiracy. You may not consider any such evidence to prove that the defendant is guilty of any crimes committed before (he/[or] she) joined the conspiracy."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

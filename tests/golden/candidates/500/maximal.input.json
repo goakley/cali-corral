@@ -1,0 +1,30 @@
+{
+  "answers": {
+    "manslaughter_manslaughter": "o2",
+    "murder": [
+      "o1",
+      "o2"
+    ],
+    "is_are": "o2",
+    "a": true,
+    "murder_2": [
+      "o1",
+      "o2"
+    ],
+    "manslaughter_is_lesser_offense": true,
+    "homicide_can_be_lawful": true,
+    "also": true,
+    "i_will_also_instruct": true,
+    "type_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

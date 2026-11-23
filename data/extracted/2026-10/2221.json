@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2221",
   "title": "Driving Without a License (Veh. Code, § 12500(a))",
   "source": {
@@ -30,17 +30,17 @@
     "[The term[s] (*motor vehicle*/[and] *highway*) (is/are) defined in another instruction to which you should refer.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

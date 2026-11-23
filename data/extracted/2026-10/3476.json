@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3476",
   "title": "Right to Defend Real or Personal Property",
   "source": {
@@ -22,10 +22,10 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant used more force than was reasonable to protect property from imminent harm. If the People have not met this burden, you must find the defendant not guilty of ______ <insert crime>."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

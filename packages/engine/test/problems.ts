@@ -183,7 +183,7 @@ export function renderProblems(
     // A sub-list's last item continues its parent list ("…; or" then the next element).
     if (next && next.kind === "element" && next.depth < b.depth) return;
     const text = b.runs.map((x) => x.text).join("");
-    if (!/[.:]$/.test(text)) problems.push(`element list does not end with a period: ${text}`);
+    if (!/[.:?]$/.test(text)) problems.push(`element list does not end with a period: ${text}`);
   });
   problems.push(...markupProblems(t, input));
   if (Object.values(input.people).some((x) => x.pronouns === "they"))

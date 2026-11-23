@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "726",
   "title": "Special Circumstances: Murder of Judge, Prosecutor, Government Official, or Juror (Pen. Code, § 190.2(a)(11), (12), (13) & (20))",
   "source": {
@@ -25,13 +25,13 @@
     "[(A/An) ______ <insert title of government official’s position> is an (elected/appointed) government official.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

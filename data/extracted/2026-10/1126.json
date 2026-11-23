@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1126",
   "title": "Going to Meeting With Minor for Lewd Purpose (Pen. Code, § 288.4(b))",
   "source": {
@@ -29,17 +29,17 @@
     "[*Lewd and lascivious behavior* includes any touching of a person with the intent to sexually arouse the perpetrator or the other person. *Lewd or lascivious behavior* includes touching any part of the person’s body, either on the bare skin or through the clothes the person is wearing. [A *lewd or lascivious act* includes causing someone to touch his or her own body or someone else’s body at the instigation of the perpetrator who has the required intent.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

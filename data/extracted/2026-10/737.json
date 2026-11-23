@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "737",
   "title": "Special Circumstances: Murder of Transportation Worker (Pen. Code, § 190.25)",
   "source": {
@@ -24,8 +24,8 @@
     "3. When ______ <insert name of decedent> was killed, the defendant knew, or reasonably should have known, that ______ <insert name of decedent> was (a/an) (operator/driver/station agent/ticket agent) of (a/an) ______ <insert name of vehicle or transportation entity specified in Pen. Code, § 190.25> and that (he/she) was performing (his/her) duties."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,

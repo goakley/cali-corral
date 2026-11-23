@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "an": true,
+    "another_person": [
+      "o1",
+      "o2"
+    ],
+    "for_murder_liability_attach": true,
+    "if_you_conclude_that": true,
+    "it_is_not_necessary": true,
+    "fetus_is_unborn_human": true,
+    "act_causes_death_if": true,
+    "person_who_aids_abets": true,
+    "act_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

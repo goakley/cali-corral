@@ -1,0 +1,86 @@
+# CALCRIM No. 451. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "451"
+title: "Liability of Corporate Officers and Agents: Two Theories of Liability"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "963f1c5061b9f2f4c451e2ad834910c7d6eb4f340468e4195799ffbd4f5d5826"
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: officer
+    type: multi
+    options: [ { id: o1, label: officer }, { id: o2, label: agent } ]
+    prompt: "Which apply? (one or more)"
+  - id: failed_authorized_caused_permitted
+    type: choice
+    options:
+      - { id: o1, label: "failed to" }
+      - { id: o2, label: authorized }
+      - { id: o3, label: caused }
+      - { id: o4, label: permitted }
+    prompt: "Choose one"
+  - id: element_3
+    type: boolean
+    prompt: "Include element 3 (“The defendant knew ___”)?"
+  - id: element_3_2
+    type: boolean
+    prompt: "Include element 3 (“When the defendant acted, (he/she) intended to ___”)?"
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with "
+    - { field: "text.offense_charged", hint: "insert offense charged" }
+    - " while acting as an "
+    - { any: officer, options: [ [ officer ], [ { sep: or }, " agent" ] ] }
+    - " of a corporation."
+  - - "The People must prove that the defendant either personally committed or was a direct participant in the crime charged. The fact that the defendant is an "
+    - { any: officer, options: [ [ officer ], [ { sep: or }, " agent" ] ] }
+    - " of the corporation is not sufficient by itself to support a finding of guilt."
+  - - "To prove that the defendant personally committed the crime charged, the People must prove that the defendant "
+    - field: "text.description_conduct_alleged_in"
+      hint: "insert description of conduct alleged in offense"
+    - "."
+  - - "To prove that the defendant was a direct participant in the crime charged, the People must prove that:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant had the authority to control "
+          - field: "text.description_conduct_alleged_in"
+            hint: "insert description of conduct alleged in offense"
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant "
+          - choice: failed_authorized_caused_permitted
+            options: [ [ "failed to" ], [ authorized ], [ caused ], [ permitted ] ]
+          - " "
+          - field: "text.description_conduct_alleged_in"
+            hint: "insert description of conduct alleged in offense"
+        end: "(;/.)"
+        and: "[AND]"
+      - note: "Alternative 3A: Give if offense alleged requires only knowledge or general criminal intent."
+        governs: [ element_3 ]
+      - n: "3"
+        text:
+          - "The defendant knew "
+          - field: "text.description_knowledge_about_conduct"
+            hint: "insert description of knowledge about conduct alleged in offense"
+        end: "(;/.)"
+        and: "AND"
+        if: element_3
+      - note: "Alternative 3B: Give if offense alleged requires specific intent."
+        governs: [ element_3_2 ]
+      - n: "3"
+        text:
+          - "When the defendant acted, "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " intended to "
+          - field: "text.description_specific_intent_required"
+            hint: "insert description of specific intent required"
+        end: "."
+        and: "AND"
+        if: element_3_2

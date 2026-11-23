@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "378",
   "title": "Consciousness of Guilt: General",
   "source": {
@@ -19,7 +19,7 @@
     "If the defendant ______ [or tried to ______] <insert post-offense conduct>, that conduct may show that (he/she) was aware of (his/her) guilt. If you conclude that the defendant ______ [or tried to ______] <insert post-offense conduct>, it is up to you to decide the meaning and importance of that conduct. However, evidence that the defendant ______ [or tried to ______] <insert post-offense conduct> cannot prove guilt by itself."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

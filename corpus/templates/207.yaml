@@ -15,8 +15,8 @@ questions:
     type: choice
     options: [ { id: o1, label: it }, { id: o2, label: they } ]
     prompt: "Choose one"
-  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
-  - { id: day_plural, type: boolean, prompt: "More than one day?" }
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+  - { id: day_plural, type: boolean, prompt: "Include the “s” in “day[s]”?" }
 body:
   - - "It is alleged that the crime"
     - { opt: [ s ], if: crime_plural }

@@ -33,7 +33,7 @@ questions:
   - id: consider_with_caution_any
     type: boolean
     prompt: "Include “Consider with caution any statement made by (the/a) defendant tending…”?"
-  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+  - { id: statement_plural, type: boolean, prompt: "Include the “s” in “statement[s]”?" }
 body:
   - - "You have heard evidence that the defendant made "
     - { opt: [ an ], if: an }

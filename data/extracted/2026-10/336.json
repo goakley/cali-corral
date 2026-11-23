@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "336",
   "title": "In-Custody Informant",
   "source": {
@@ -35,23 +35,23 @@
     "[______ <insert name of institution> is a correctional institution.]"
   ],
   "body_indents": [
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
     19.0,
     19.0,
     40.0,
     19.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

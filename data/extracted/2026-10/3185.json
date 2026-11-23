@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3185",
   "title": "Sex Offenses: Sentencing Factors—Using Force or Fear Against Minor Under 14 Years/14 Years or Older (Pen. Code, §§ 264.1(b), 286(c)(2)(B) & (C), 286(d)(2) & (3), 287(c)(2)(B) & (C), 287(d)(2) & (3), 289(a)(1)(B) & (C))",
   "source": {
@@ -29,17 +29,17 @@
     "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

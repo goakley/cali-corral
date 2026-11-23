@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3400",
   "title": "Alibi",
   "source": {
@@ -21,9 +21,9 @@
     "[However, the defendant may also be guilty of ______ <insert crime[s] charged> if (he/she) (aided and abetted/[or] conspired with) someone else to commit (that/those) crime[s]. If you conclude that the defendant (aided and abetted/[or] conspired to commit) ______ <insert crime[s] charged>, then (he/she) is guilty even if (he/she) was not present when the crime[s] (was/were) committed.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

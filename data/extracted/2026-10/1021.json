@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1021",
   "title": "Oral Copulation by Fraud (Pen. Code, § 287(a), (j))",
   "source": {
@@ -25,13 +25,13 @@
     "*Oral copulation* is any contact, no matter how slight, between the mouth of one person and the sexual organ or anus of another person. Penetration is not required."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

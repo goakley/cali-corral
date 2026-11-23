@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3575",
   "title": "Substitution of Alternate Juror: During Deliberations (Pen. Code, § 1089)",
   "source": {
@@ -22,10 +22,10 @@
     "Now, please return to the jury room and start your deliberations from the beginning."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

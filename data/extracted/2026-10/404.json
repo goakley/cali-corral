@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "404",
   "title": "Intoxication",
   "source": {
@@ -24,12 +24,12 @@
     "[Do not consider evidence of intoxication in deciding whether ______ <insert charged nontarget offense> is a natural and probable consequence of ______ <insert target offense>.]"
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     16.3,
     16.0,
     17.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

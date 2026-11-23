@@ -1,0 +1,28 @@
+{
+  "answers": {
+    "in_count": false,
+    "in_violation_penal_code": false,
+    "or": false,
+    "join_in_commission": false,
+    "element_3": false,
+    "will_give_have_given": "o1",
+    "crime_solicitation_must_be": false,
+    "crime_solicitation_must_be_2": false,
+    "person_is_guilty_solicitation": false,
+    "if_you_find_defendant": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "number_solicitations_alleged_by": "example number solicitations alleged by",
+    "other_synonyms_for_solicit": "example other synonyms for solicit",
+    "target_offense": "example target offense"
+  }
+}

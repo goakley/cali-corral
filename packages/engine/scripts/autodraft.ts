@@ -118,6 +118,8 @@ function matchAngle(s: string, start: number): number {
   throw new DraftError("note", "unbalanced angle brackets");
 }
 
+/** Marks an option that is a bound pronoun (removed before output). */
+const PRONOUN_MARK = "\u0000pronoun";
 const PRONOUN_PAIRS = new Set(["he/she", "him/her", "his/her", "his/hers", "himself/herself"]);
 const SEP_RE = /^\[(or|and|nor|and\/or|,|;)\]$/;
 
@@ -245,6 +247,21 @@ class Drafter {
         if (theyForm(plain as string[])) return { pronoun: "defendant", forms: plain as string[] };
       }
     }
+    // (he/she/[or] someone else/…): the pronoun pair is one option, a bare
+    // pronoun bound to a person, as in 3470.
+    const first2 = alts
+      .slice(0, 2)
+      .map((a) => (a.length === 1 && typeof a[0] === "string" ? a[0] : null));
+    if (
+      alts.length > 2 &&
+      first2[0] !== null &&
+      first2[1] !== null &&
+      PRONOUN_PAIRS.has(`${first2[0]}/${first2[1]}`.toLowerCase()) &&
+      theyForm(first2 as string[])
+    ) {
+      const pron: Inline = { pronoun: "defendant", forms: first2 as string[], bare: true };
+      return this.alternatives([[PRONOUN_MARK, pron], ...alts.slice(2)]);
+    }
     // Connectors: an option that starts with [or]/[and]/... or ends with [,]
     let usesSep = false;
     const opts = alts.map((a) => {
@@ -268,11 +285,14 @@ class Drafter {
       });
       return out;
     });
+    for (const o of opts) if (o[0] === PRONOUN_MARK) o.shift();
     const labels = opts.map((o) =>
-      o
-        .filter((x) => typeof x === "string")
-        .join("")
-        .trim(),
+      typeof o[0] === "object" && "pronoun" in o[0]
+        ? `the defendant (${o[0].forms.join("/")})`
+        : o
+            .filter((x) => typeof x === "string")
+            .join("")
+            .trim(),
     );
     if (usesSep) return { any: this.q("multi", labels), options: opts };
     return { choice: this.q("choice", labels), options: opts };
@@ -286,7 +306,12 @@ class Drafter {
 // ---------------------------------------------------------------------------
 // Block parsing
 
-const EL_RE = /^(\d+[A-Z]?(?:i{1,3}v?)?|\(\d+\/\d+\)|[a-h])\. (.*)$/s;
+const EL_RE = /^(\d+[A-Z]?(?:i{1,3}v?)?|\(\d+\/\d+\)|[a-h]|[A-H])\. (.*)$/s;
+
+/** Numbering style of a printed element label. */
+function labelStyle(n: string): "number" | "alpha" | "upper" {
+  return /^[a-h]$/.test(n) ? "alpha" : /^[A-H]$/.test(n) ? "upper" : "number";
+}
 const END_RE = /(\(;\/\.\)|[;.:])$/;
 const CONJ = new Set(["AND", "[AND]", "OR", "[OR]"]);
 const ALT_NOTE = /^<Alternative [^<>]*>$/;
@@ -401,15 +426,57 @@ function draft(rec: ExtractedRecord): Template {
     let p = lo;
     let list: ElementItem[] | null = null;
     const closeList = (): void => {
-      if (list && list.length) {
-        // A numbered list of complete sentences (every item ends with ".", no
-        // conjunctions) is a list of directions, not elements of a crime.
-        const els = list.filter(isElement);
+      // Split where the label style changes (1. / a. / A.): a lettered run is
+      // its own list, numbered with letters.
+      const runs: ElementItem[][] = [];
+      let cur: ElementItem[] = [];
+      let curStyle: string | undefined;
+      for (const it of list ?? []) {
+        const st = isElement(it) ? labelStyle(it.n) : isGroup(it) ? "number" : undefined;
+        if (
+          st !== undefined &&
+          curStyle !== undefined &&
+          st !== curStyle &&
+          cur.some((x) => !("note" in x && !("text" in x)))
+        ) {
+          runs.push(cur);
+          cur = [];
+        }
+        if (st !== undefined) curStyle = st;
+        cur.push(it);
+      }
+      if (cur.length) runs.push(cur);
+      const styles = runs.map((r) => {
+        const e = r.find(isElement);
+        return e ? labelStyle(e.n) : undefined;
+      });
+      if (
+        styles.some(
+          (st, k) => st === "number" && styles.slice(0, k).some((x) => x && x !== "number"),
+        )
+      )
+        throw new DraftError("elements", "numbered elements continue after a lettered sub-list");
+      for (const run of runs) {
+        // A numbered list of complete sentences (every item ends with "." or
+        // "?") is a list of directions, not elements of a crime.
+        const els = run.filter(isElement);
+        if (!els.length) {
+          out.push(...(run as Block[]));
+          continue;
+        }
         const plain =
           els.length >= 2 &&
-          list.every((it) => !isGroup(it)) &&
-          els.every((e) => e.end === "." && e.and === undefined);
-        out.push(plain ? { elements: list, plain: true } : { elements: list });
+          run.every((it) => !isGroup(it)) &&
+          els.every(
+            (e) =>
+              e.end === "." || (e.end === "" && /\?$/.test(String(toInlines(e.text).at(-1) ?? ""))),
+          );
+        const style = labelStyle(els[0]!.n);
+        out.push({
+          elements: run,
+          ...(plain ? { plain: true as const } : {}),
+          ...(style !== "number" ? { style } : {}),
+        });
       }
       list = null;
     };

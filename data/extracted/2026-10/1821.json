@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1821",
   "title": "Tampering With a Vehicle (Veh. Code, § 10852)",
   "source": {
@@ -32,20 +32,20 @@
     "[A person acts *in association with one or more other people,* when he or she joins with another to accomplish a common unlawful purpose.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     15.0,
-    0.0,
+    -0.0,
     15.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2330",
   "title": "Manufacturing a Controlled Substance (Health & Saf. Code, §§ 11379.6(a), 11362.3)",
   "source": {
@@ -29,14 +29,14 @@
     "2. The defendant knew that the chemical was going to be used in the manufacture of a controlled substance.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0

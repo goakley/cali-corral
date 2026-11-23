@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1170",
   "title": "Failure to Register as Sex Offender (Pen. Code, § 290(b))",
   "source": {
@@ -30,8 +30,8 @@
     "[*Residence* means one or more addresses where someone regularly resides, regardless of the number of days or nights spent there, such as a shelter or structure that can be located by a street address. A *residence* may include, but is not limited to, houses, apartment buildings, motels, hotels, homeless shelters, and recreational and other vehicles.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -40,8 +40,8 @@
     15.0,
     16.0,
     15.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

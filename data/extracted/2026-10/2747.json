@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2747",
   "title": "Bringing or Sending Firearm, Deadly Weapon, or Explosive Into Penal Institution (Pen. Code, § 4574(a)–(c))",
   "source": {
@@ -38,26 +38,26 @@
     "[The defendant is not guilty of this offense if (he/she) was authorized to (bring/send) a weapon into the penal institution by (law[,]/[or] a person in charge of the penal institution[,]/[or] an officer of the penal institution empowered by the person in charge of the institution to give such authorization). The People have the burden of proving beyond a reasonable doubt that the defendant was not authorized to (bring/send) the weapon into the institution. If the People have not met this burden, you must find the defendant not guilty of this offense.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

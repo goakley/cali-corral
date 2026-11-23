@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2685",
   "title": "Participating in an Unlawful Assembly (Pen. Code, §§ 407, 408)",
   "source": {
@@ -26,12 +26,12 @@
     "[When two or more people assemble to do a lawful act in a violent manner, the assembly is not *unlawful* unless violence actually occurs or there is a clear and present danger that violence will occur immediately.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0
   ],

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2656",
   "title": "Resisting Peace Officer, Public Officer, or EMT (Pen. Code, § 148(a))",
   "source": {
@@ -35,23 +35,23 @@
     "[If a person intentionally goes limp, requiring an officer to drag or carry the person in order to accomplish a lawful arrest, that person may have willfully (resisted[,]/[or] obstructed[,]/[or] delayed) the officer if all the other requirements are met.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

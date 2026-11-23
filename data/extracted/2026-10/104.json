@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "104",
   "title": "Evidence",
   "source": {
@@ -23,11 +23,11 @@
     "The court [reporter] has made a (record/recording) of everything that was said during the trial. If you decide that it is necessary, you may ask that the (court reporter’s record be read to/court’s recording be played for) you. You must accept the (court reporter’s record/court’s recording) as accurate."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

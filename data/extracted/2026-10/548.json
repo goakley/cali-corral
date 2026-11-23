@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "548",
   "title": "Murder: Alternative Theories",
   "source": {
@@ -21,9 +21,9 @@
     "You may not find the defendant guilty of murder unless all of you agree that the People have proved that the defendant committed murder. You need not all agree on the same theory but you must unanimously agree on the degree of murder."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

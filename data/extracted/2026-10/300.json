@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "300",
   "title": "All Available Evidence",
   "source": {
@@ -19,7 +19,7 @@
     "Neither side is required to call all witnesses who may have information about the case or to produce all physical evidence that might be relevant."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

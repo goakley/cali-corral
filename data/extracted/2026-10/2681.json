@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2681",
   "title": "Disturbance of Public Meeting (Pen. Code, § 403)",
   "source": {
@@ -26,14 +26,14 @@
     "[When deciding whether the defendant knew or reasonably should have known that (his/her) acts violated the (implicit customs or usages of/[or] explicit rules for governing) the meeting, you may consider whether someone warned or requested the defendant to stop (his/her) activities.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

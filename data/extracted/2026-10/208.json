@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "208",
   "title": "Witness Identified as John or Jane Doe",
   "source": {
@@ -19,7 +19,7 @@
     "In this case, a person is called ((John/Jane) Doe/______ <insert other name used>). This name is used only to protect (his/her) privacy, as required by law. [The fact that the person is identified in this way is not evidence. Do not consider this fact for any purpose.]"
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

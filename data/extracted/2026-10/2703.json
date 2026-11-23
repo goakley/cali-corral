@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2703",
   "title": "Violation of Court Order: Protective Order or Stay Away—Act of Violence (Pen. Code, §§ 166(c)(4), 273.6(d))",
   "source": {
@@ -23,9 +23,9 @@
     "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that this allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0
   ],

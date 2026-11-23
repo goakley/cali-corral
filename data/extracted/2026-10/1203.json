@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1203",
   "title": "Kidnapping: For Robbery, Rape, or Other Sex Offenses (Pen. Code, § 209(b))",
   "source": {
@@ -39,8 +39,8 @@
     "[Consent may be withdrawn. If, at first, a person agreed to go with the defendant, that consent ended if the person changed his or her mind and no longer freely and voluntarily agreed to go with or be moved by the defendant. The defendant is guilty of kidnapping if after the other person withdrew consent, the defendant committed the crime as I have defined it.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -51,15 +51,15 @@
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

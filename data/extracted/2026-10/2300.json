@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2300",
   "title": "Sale, Transportation for Sale, etc., of Controlled Substance (Health & Saf. Code, §§ 11352, 11379)",
   "source": {
@@ -43,8 +43,8 @@
     "[A person does not have to actually hold or touch something to (sell/furnish/administer/transport it for sale/import/give it away) [it]. It is enough if the person has (control over it/[or] the right to control it), either personally or through another person.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -53,21 +53,21 @@
     15.0,
     16.0,
     16.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     16.0,
     0.0,
     0.0,
     15.0,
     16.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

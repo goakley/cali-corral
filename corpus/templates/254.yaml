@@ -16,8 +16,8 @@ questions:
   - id: fail_do_required_act
     type: boolean
     prompt: "Include “or to fail to do the required act”?"
-  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
-  - { id: allegation_plural, type: boolean, prompt: "More than one allegation?" }
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+  - { id: allegation_plural, type: boolean, prompt: "Include the “s” in “allegation[s]”?" }
 body:
   - - "For you to find a person guilty of the crime"
     - { opt: [ s ], if: crime_plural }

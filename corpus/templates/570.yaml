@@ -1,0 +1,40 @@
+# CALCRIM No. 570. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "570"
+title: "Voluntary Manslaughter: Heat of Passion—Lesser Included Offense (Pen. Code, § 192(a))"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised December 2008, February 2014, August 2015, September 2024"
+  body_sha256: fbd9951a5ce7448d122e914048a2bf60bad8efcab69227a467e28a2ba30020b7
+review: "machine-checked"
+questions:
+  - id: if_enough_time_passed
+    type: boolean
+    prompt: "Include “If enough time passed between the provocation and the killing for a p…”?"
+body:
+  - - "A killing that would otherwise be murder is reduced to voluntary manslaughter if the defendant killed someone because of a sudden quarrel or in the heat of passion."
+  - [ "The defendant killed someone because of a sudden quarrel or in the heat of passion if:" ]
+  - elements:
+      - { n: "1", text: [ "The defendant was provoked" ], end: ";" }
+      - n: "2"
+        text:
+          - "As a result of the provocation, the defendant acted rashly and under the influence of intense emotion that obscured "
+          - { pronoun: defendant, forms: [ his, her ] }
+          - " reasoning or judgment"
+        end: ";"
+      - n: "3"
+        text:
+          - "The provocation would have caused a person of average disposition to act rashly and without due deliberation, that is, from passion rather than from judgment"
+        end: "."
+        and: "AND"
+  - - "Heat of passion does not require anger, rage, or any specific emotion. It can be any violent or intense emotion that causes a person to act without due deliberation and reflection."
+  - - "In order for heat of passion to reduce a murder to voluntary manslaughter, the defendant must have acted under the direct and immediate influence of provocation. While no specific type of provocation is required, slight or remote provocation is not sufficient. Sufficient provocation may occur over a short or long period of time."
+  - - "It is not enough that the defendant simply was provoked. The defendant is not allowed to set up "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " own standard of conduct. You must decide whether the defendant was provoked and whether the provocation was sufficient. In deciding whether the provocation was sufficient, consider whether a person of average disposition, in the same situation and knowing the same facts, would have reacted from passion rather than from judgment."
+  - - opt:
+        - "If enough time passed between the provocation and the killing for a person of average disposition to “cool off” and regain his or her clear reasoning and judgment, then the killing is not reduced to voluntary manslaughter on this basis."
+      if: if_enough_time_passed
+  - - "The People have the burden of proving beyond a reasonable doubt that the defendant did not kill as the result of a sudden quarrel or in the heat of passion. If the People have not met this burden, you must find the defendant not guilty of murder."

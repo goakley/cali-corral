@@ -273,12 +273,12 @@ const unbracket = (s: string): string => s.replace(/^\[|\]$/g, "");
 function renderElements(
   items: ElementItem[],
   conj: string,
-  style: "number" | "alpha",
+  style: "number" | "alpha" | "upper",
   plain: boolean,
   ctx: Ctx,
   out: RenderedBlock[],
 ): void {
-  const depth = style === "alpha" ? 2 : 1;
+  const depth = style === "number" ? 1 : 2;
   const positions = includedPositions(
     items,
     (e) => e.if === undefined || cond(e.if, ctx),
@@ -291,13 +291,22 @@ function renderElements(
     const end = plain ? e.end : computeEnd(e.end, last);
     if (end) runs.push({ text: end });
     const b: RenderedBlock = { kind: "element", depth, number, runs };
-    const l = label ?? (style === "alpha" ? String.fromCharCode(96 + number) : undefined);
+    const l =
+      label ??
+      (style === "alpha"
+        ? String.fromCharCode(96 + number)
+        : style === "upper"
+          ? String.fromCharCode(64 + number)
+          : undefined);
     if (l !== undefined) b.label = l;
     out.push(b);
   };
   positions.forEach((p, i) => {
     const last = i === positions.length - 1;
     if (p.kind === "element") {
+      // A plain list keeps a printed conjunction between included items.
+      if (plain && i > 0 && p.e.and !== undefined)
+        out.push({ kind: "conj", depth, runs: [{ text: unbracket(p.e.and) }] });
       // The conjunction goes before the last element only where CALCRIM prints
       // one before it (AND, [AND], or AND inside the element's brackets).
       if (!plain && last && positions.length >= 2 && p.e.and !== undefined)

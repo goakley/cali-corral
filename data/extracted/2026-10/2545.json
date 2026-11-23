@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2545",
   "title": "Carrying Loaded Firearm: Not Registered Owner (Pen. Code, § 25850(c)(6))",
   "source": {
@@ -21,9 +21,9 @@
     "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find this allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

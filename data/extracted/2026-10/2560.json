@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2560",
   "title": "Possession, etc., of Assault Weapon or .50 BMG Rifle (Pen. Code, §§ 30605, 30600)",
   "source": {
@@ -35,8 +35,8 @@
     "[The defendant did not unlawfully (possess/manufacture/cause to be manufactured/distribute/transport/import/keep for sale/offer or expose for sale/give/lend) (an assault weapon/a .50 BMG rifle) if (he/she) (had registered the weapon/had a valid permit to (possess/manufacture/sell) the weapon/______ <insert exemption from Pen. Code, §§ 30625, 30630(a)–(c), 30635, 30640, 30645, 30655(a), (b), 30660(a)–(c), 30665, 30670(a), (b), 30675(a)–(c)>). The People have the burden of proving beyond a reasonable doubt that the defendant did not (register the weapon/have a valid permit to (possess/manufacture/sell) the weapon/______ <insert exemption from Pen. Code, §§ 30625, 30630(a)–(c), 30635, 30640, 30645, 30655(a), (b), 30660(a)–(c), 30665, 30670(a), (b), 30675(a)–(c)>). If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -47,11 +47,11 @@
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

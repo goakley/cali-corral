@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2840",
   "title": "Evidence of Uncharged Tax Offense: Failed to File Previous Returns",
   "source": {
@@ -30,18 +30,18 @@
     "[Do not conclude from this evidence that the defendant has a bad character or is disposed to commit crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     16.0,
     16.0,
     16.0,
     16.0,
     16.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

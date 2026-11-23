@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1863",
   "title": "Defense to Theft or Robbery: Claim of Right (Pen. Code, § 511)",
   "source": {
@@ -25,13 +25,13 @@
     "If you have a reasonable doubt about whether the defendant had the intent required for (theft/[or] robbery), you must find (him/her) not guilty of ______ <insert specific theft crime>."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

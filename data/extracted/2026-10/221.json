@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "221",
   "title": "Reasonable Doubt: Bifurcated Trial",
   "source": {
@@ -21,9 +21,9 @@
     "In deciding whether the People have proved (an/the) allegation beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received during this [phase of the] trial. Unless the evidence proves (an/the) allegation beyond a reasonable doubt, you must find that the allegation has not been proved [and disregard it completely]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

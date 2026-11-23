@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "600",
   "title": "Attempted Murder (Pen. Code, §§ 21a, 663, 664)",
   "source": {
@@ -19,7 +19,7 @@
     "The defendant is charged [in Count ______] with attempted murder.",
     "To prove that the defendant is guilty of attempted murder, the People must prove that:",
     "1. The defendant took at least one direct but ineffective step toward killing (another person/[or] a fetus);",
-    "1. AND",
+    "AND",
     "2. The defendant intended to kill (that/a) (person/[or] fetus).",
     "A *direct step* requires more than merely planning or preparing to commit murder or obtaining or arranging for something needed to commit murder. A direct step is one that goes beyond planning or preparation and shows that a person is putting his or her plan into action. A direct step indicates a definite and unambiguous intent to kill. It is a direct movement toward the commission of the crime after preparations are made. It is an immediate step that puts the plan in motion so that the plan would have been completed if some circumstance outside the plan had not interrupted the attempt.",
     "[A person who attempts to commit murder is guilty of attempted murder even if, after taking a direct step toward killing, he or she abandons further efforts to complete the crime, or his or her attempt fails or is interrupted by someone or something beyond his or her control. On the other hand, if a person freely and voluntarily abandons his or her plans before taking a direct step toward committing the murder, then that person is not guilty of attempted murder.]",
@@ -37,25 +37,25 @@
     "If you have a reasonable doubt whether the defendant intended to kill ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory> or intended to kill ______ <insert name or description of primary target alleged> by killing everyone in the kill zone, then you must find the defendant not guilty of the attempted murder of ______ <insert name or description of victim charged in attempted murder count[s] on concurrent-intent theory>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
+    37.0,
     19.0,
-    19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.8,
     19.8,
     19.8,
     19.8,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

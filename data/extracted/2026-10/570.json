@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "570",
   "title": "Voluntary Manslaughter: Heat of Passion—Lesser Included Offense (Pen. Code, § 192(a))",
   "source": {
@@ -29,17 +29,17 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant did not kill as the result of a sudden quarrel or in the heat of passion. If the People have not met this burden, you must find the defendant not guilty of murder."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

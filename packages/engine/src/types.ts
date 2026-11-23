@@ -207,12 +207,13 @@ export interface ElementsBlock {
   elements: ElementItem[];
   /** Conjunction placed before the last element (default "AND"). */
   conj?: string;
-  /** Numbering: "number" (1., 2., ...; default) or "alpha" (a., b., ...) for sub-lists. */
-  style?: "number" | "alpha";
+  /** Numbering: "number" (1., 2., …; default), "alpha" (a., b., …) or "upper" (A., B., …). */
+  style?: "number" | "alpha" | "upper";
   /**
    * A numbered list of complete sentences (e.g. verdict-form directions), not
-   * elements of a crime: printed end punctuation is kept and no conjunction is
-   * added. Numbering is still computed.
+   * elements of a crime: printed end punctuation is kept, and a printed
+   * conjunction is shown between included items (never added). Numbering is
+   * still computed.
    */
   plain?: true;
 }

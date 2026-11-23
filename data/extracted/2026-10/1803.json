@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1803",
   "title": "Theft: By Employee or Agent (Pen. Code, § 487(b)(3))",
   "source": {
@@ -25,13 +25,13 @@
     "[An *agent* is a person who represents someone else in dealing with other people, corporations, or entities.]"
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

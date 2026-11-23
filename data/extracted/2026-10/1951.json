@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1951",
   "title": "Acquiring or Retaining an Access Card or Account Number (Pen. Code, § 484e(c))",
   "source": {
@@ -33,19 +33,19 @@
     "[The People allege that the defendant (acquired/[or] retained) the following access cards: ______ <insert description of each card when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant (acquired/[or] retained) at least one of these cards and you all agree on which card (he/she) (acquired/[or] retained).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0
   ],

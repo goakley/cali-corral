@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2952",
   "title": "Defenses: Negligent Control of Attack Dog (Pen. Code, § 399.5(c))",
   "source": {
@@ -31,19 +31,19 @@
     "[The defendant has the burden of proving this defense by a preponderance of the evidence. This is a different standard of proof than proof beyond a reasonable doubt. To meet the burden of proof by a preponderance of the evidence, the defendant must prove that it is more likely than not that (______ <insert name[s] of person[s] allegedly attacked> (was/were) trespassing[,]/[or] [______ <insert name[s] of person[s] allegedly attacked>] provoked the dog[,]/[or] the dog was being used in military or police work).]"
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     16.0,
     16.0,
     16.0,
     16.0,
     16.0,
     16.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

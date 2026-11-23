@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2579",
   "title": "Possession of Materials to Make Destructive Device or Explosive (Pen. Code, § 18720)",
   "source": {
@@ -33,21 +33,21 @@
     "[The defendant did not unlawfully possess a (substance[,]/[or] material[,]/[or] combination of substances and materials) if (he/she) had a valid permit to make (an explosive/[or] a destructive device). The People have the burden of proving beyond a reasonable doubt that the defendant did not have a valid permit to make (an explosive/[or] a destructive device). If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

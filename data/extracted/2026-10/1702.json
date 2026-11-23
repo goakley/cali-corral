@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1702",
   "title": "Burglary: Intent of Aider and Abettor",
   "source": {
@@ -19,7 +19,7 @@
     "To be guilty of burglary as an aider and abettor, the defendant must have known of the perpetrator’s unlawful purpose and must have formed the intent to aid, facilitate, promote, instigate, or encourage commission of the burglary before the perpetrator finally left the structure."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

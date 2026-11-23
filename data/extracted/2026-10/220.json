@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "220",
   "title": "Reasonable Doubt",
   "source": {
@@ -22,10 +22,10 @@
     "In deciding whether the People have proved their case beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the defendant[s] guilty beyond a reasonable doubt, (he/she/they) (is/are) entitled to an acquittal and you must find (him/her/them) not guilty."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

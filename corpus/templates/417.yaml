@@ -1,0 +1,93 @@
+# CALCRIM No. 417. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "417"
+title: "Liability for Coconspirators’ Acts"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised October 2021, September 2023, February 2026"
+  body_sha256: "285f660259fcf38c3234f436250874936ad65a8439d7ba7776246961111ee809"
+review: "machine-checked"
+questions:
+  - id: under_this_rule_defendant
+    type: boolean
+    prompt: "Include “Under this rule, a defendant who is a member of the conspiracy does n…”?"
+  - id: murder
+    type: multi
+    options: [ { id: o1, label: murder }, { id: o2, label: "attempted murder" } ]
+    prompt: "Which apply? (one or more)"
+  - id: member_conspiracy_cannot_be
+    type: boolean
+    prompt: "Include “A member of a conspiracy cannot be held criminally responsible for (m…”?"
+  - id: was_were
+    type: choice
+    options: [ { id: o1, label: was }, { id: o2, label: were } ]
+    prompt: "Choose one"
+  - { id: a, type: boolean, prompt: "Include “a”?" }
+  - id: defendant_is_not_responsible
+    type: boolean
+    prompt: "Include “The defendant is not responsible for the acts of another person who w…”?"
+  - id: conspiracy_member_is_not
+    type: boolean
+    prompt: "Include “A conspiracy member is not responsible for the acts of other conspira…”?"
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+  - { id: count_plural, type: boolean, prompt: "Include the “s” in “Count[s]”?" }
+  - id: consequence_plural
+    type: boolean
+    prompt: "Include the “s” in “consequence[s]”?"
+body:
+  - - "A member of a conspiracy is criminally responsible for the crimes that he or she conspires to commit, no matter which member of the conspiracy commits the crime."
+  - - "A member of a conspiracy is also criminally responsible for any act of any member of the conspiracy if that act is done to further the conspiracy and that act is a natural and probable consequence of the common plan or design of the conspiracy. This rule applies even if the act was not intended as part of the original plan. "
+    - opt:
+        - "Under this rule, a defendant who is a member of the conspiracy does not need to be present at the time of the act."
+      if: under_this_rule_defendant
+    - " "
+    - opt:
+        - "A member of a conspiracy cannot be held criminally responsible for "
+        - { any: murder, options: [ [ murder ], [ { sep: or }, " attempted murder" ] ] }
+        - " solely because the "
+        - { any: murder, options: [ [ murder ], [ { sep: or }, " attempted murder" ] ] }
+        - " was the natural and probable consequence of the conspiracy."
+      if: member_conspiracy_cannot_be
+  - - "A "
+    - { em: "natural and probable consequence" }
+    - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all of the circumstances established by the evidence."
+  - - "A member of a conspiracy is not criminally responsible for the act of another member if that act does not further the common plan or is not a natural and probable consequence of the common plan."
+  - - "To prove that the defendant is guilty of the crime"
+    - { opt: [ s ], if: crime_plural }
+    - " charged in Count"
+    - { opt: [ s ], if: count_plural }
+    - " "
+    - { field: "text.f1" }
+    - ", the People must prove that:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant conspired to commit one of the following crimes: "
+          - { field: "text.target_crime_s", hint: "insert target crime[s]" }
+        end: ";"
+      - n: "2"
+        text:
+          - "A member of the conspiracy committed "
+          - { field: "text.nontarget_offense_s", hint: "insert nontarget offense[s]" }
+          - " to further the conspiracy"
+        end: ";"
+      - n: "3"
+        text:
+          - { field: "text.nontarget_offense_s", hint: "insert nontarget offense[s]" }
+          - " "
+          - { choice: was_were, options: [ [ was ], [ were ] ] }
+          - " "
+          - { opt: [ a ], if: a }
+          - " natural and probable consequence"
+          - { opt: [ s ], if: consequence_plural }
+          - " of the common plan or design of the crime that the defendant conspired to commit"
+        end: "."
+        and: "AND"
+  - - opt:
+        - "The defendant is not responsible for the acts of another person who was not a member of the conspiracy even if the acts of the other person helped accomplish the goal of the conspiracy."
+      if: defendant_is_not_responsible
+  - - opt:
+        - "A conspiracy member is not responsible for the acts of other conspiracy members that are done after the goal of the conspiracy had been accomplished."
+      if: conspiracy_member_is_not

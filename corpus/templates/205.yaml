@@ -10,8 +10,8 @@ source:
   body_sha256: "7ab0287305e308168497c14fdfc43e0d082ba14f5d62ce76b69e4b81a26cbdc5"
 review: "machine-checked"
 questions:
-  - { id: count_plural, type: boolean, prompt: "More than one count?" }
-  - { id: need_plural, type: boolean, prompt: "More than one need?" }
+  - { id: count_plural, type: boolean, prompt: "Include the “s” in “Count[s]”?" }
+  - { id: need_plural, type: boolean, prompt: "Include the “s” in “need[s]”?" }
 body:
   - - "Count"
     - { opt: [ s ], if: count_plural }

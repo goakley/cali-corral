@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3404",
   "title": "Accident (Pen. Code, § 195)",
   "source": {
@@ -29,12 +29,12 @@
     "[*Ordinary negligence* is the failure to use reasonable care to prevent reasonably foreseeable harm to oneself or someone else. A person is negligent if he or she (does something that a reasonably careful person would not do in the same situation/[or] fails to do something that a reasonably careful person would do in the same situation).]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,

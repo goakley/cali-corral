@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2315",
   "title": "Sale of Substitute Substance (Health & Saf. Code, §§ 11355, 11382)",
   "source": {
@@ -26,14 +26,14 @@
     "[A person *administers* a substance if he or she applies it directly to the body of another person by injection, or by any other means, or causes the other person to inhale, ingest, or otherwise consume the substance.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

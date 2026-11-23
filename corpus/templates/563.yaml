@@ -1,0 +1,194 @@
+# CALCRIM No. 563. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "563"
+title: "Conspiracy to Commit Murder (Pen. Code, § 182)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2006, April 2010, February 2014, September 2020, September 2023"
+  body_sha256: cc62d5a353ae6fe34e2b62037479584db71935ca712d52423cc62e58bbabc98a
+review: "machine-checked"
+questions:
+  - id: defendant_s_defendant_s
+    type: choice
+    options: [ { id: o1, label: "The defendant[s]" }, { id: o2, label: "Defendant[s] ___" } ]
+    prompt: "Choose one"
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 182”?"
+  - id: the_or_a
+    type: choice
+    options: [ { id: o1, label: the }, { id: o2, label: a } ]
+    prompt: "Choose one"
+  - { id: one_more, type: boolean, prompt: "Include “one or more of”?" }
+  - id: other_defendant_s
+    type: multi
+    options: [ { id: o1, label: "the other defendant[s]" }, { id: o2, label: "___" } ]
+    prompt: "Which apply? (one or more)"
+  - id: one
+    type: choice
+    options: [ { id: o1, label: "The" }, { id: o2, label: "One of the" } ]
+    prompt: "Choose one"
+  - { id: choice, type: boolean, prompt: "Include “,”?" }
+  - { id: or, type: boolean, prompt: "Include “or ___”?" }
+  - { id: choice_2, type: boolean, prompt: "Include “,”?" }
+  - id: both_all
+    type: choice
+    options: [ { id: o1, label: both }, { id: o2, label: all } ]
+    prompt: "Choose one"
+  - { id: both_all_them, type: boolean, prompt: "Include “or (both/all) of them”?" }
+  - { id: at_least_one, type: boolean, prompt: "Include “at least one of”?" }
+  - id: at_least_one_these
+    type: choice
+    options: [ { id: o1, label: "At least one of these" }, { id: o2, label: "This" } ]
+    prompt: "Choose one"
+  - id: this_these
+    type: choice
+    options: [ { id: o1, label: this }, { id: o2, label: these } ]
+    prompt: "Choose one"
+  - id: you_must_all_agree
+    type: boolean
+    prompt: "Include “You must all agree that at least one alleged overt act was committed…”?"
+  - id: you_must_make_separate
+    type: boolean
+    prompt: "Include “You must make a separate decision as to whether each defendant was a…”?"
+  - id: member_conspiracy_does_not
+    type: boolean
+    prompt: "Include “A member of a conspiracy does not have to personally know the identit…”?"
+  - id: someone_who_merely_accompanies
+    type: boolean
+    prompt: "Include “Someone who merely accompanies or associates with members of a conspi…”?"
+  - id: evidence_that_person_did
+    type: boolean
+    prompt: "Include “Evidence that a person did an act or made a statement that helped acc…”?"
+  - { id: member_plural, type: boolean, prompt: "Include the “s” in “member[s]”?" }
+  - { id: act_plural, type: boolean, prompt: "Include the “s” in “act[s]”?" }
+body:
+  - - choice: defendant_s_defendant_s
+      options:
+        - [ "The defendant", { opt: [ s ], if: "@multiple_defendants" } ]
+        - - "Defendant"
+          - { opt: [ s ], if: "@multiple_defendants" }
+          - " "
+          - { field: "text.name_s", hint: "insert name[s]" }
+    - " "
+    - { when: [ "!@multiple_defendants", "@multiple_defendants" ], options: [ is, are ] }
+    - " charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with conspiracy to commit first degree murder "
+    - { opt: [ "in violation of Penal Code section 182" ], if: in_violation_penal_code }
+    - "."
+  - - "To prove that "
+    - { choice: the_or_a, options: [ [ the ], [ a ] ] }
+    - " defendant is guilty of this crime, the People must prove that:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant intended to agree and did agree with "
+          - { opt: [ "one or more of" ], if: one_more }
+          - " "
+          - any: other_defendant_s
+            options:
+              - [ "the other defendant", { opt: [ s ], if: "@multiple_defendants" } ]
+              - - { sep: or }
+                - " "
+                - field: "text.name_s_description_s"
+                  hint: "insert name[s] or description[s] of coparticipant[s]"
+          - " to intentionally and unlawfully kill"
+        end: ";"
+      - n: "2"
+        text:
+          - "At the time of the agreement, the defendant and "
+          - { opt: [ "one or more of" ], if: one_more }
+          - " the other alleged member"
+          - { opt: [ s ], if: member_plural }
+          - " of the conspiracy intended that one or more of them would intentionally and unlawfully kill"
+        end: ";"
+      - n: "3"
+        text:
+          - { choice: one, options: [ [ "The" ], [ "One of the" ] ] }
+          - " defendant"
+          - { opt: [ s ], if: "@multiple_defendants" }
+          - { opt: [ "," ], if: choice }
+          - " "
+          - opt:
+              - "or "
+              - field: "text.name_s_description_s"
+                hint: "insert name[s] or description[s] of coparticipant[s]"
+            if: or
+          - { opt: [ "," ], if: choice_2 }
+          - " "
+          - opt: [ "or ", { choice: both_all, options: [ [ both ], [ all ] ] }, " of them" ]
+            if: both_all_them
+          - " committed "
+          - { opt: [ "at least one of" ], if: at_least_one }
+          - " the following overt act"
+          - { opt: [ s ], if: act_plural }
+          - " alleged to accomplish the killing: "
+          - { field: "text.alleged_overt_acts", hint: "insert the alleged overt acts" }
+        end: ";"
+      - n: "4"
+        text:
+          - { choice: at_least_one_these, options: [ [ "At least one of these" ], [ "This" ] ] }
+          - " overt act"
+          - { opt: [ s ], if: act_plural }
+          - " was committed in California"
+        end: "."
+        and: "AND"
+  - - "To decide whether "
+    - { choice: the_or_a, options: [ [ the ], [ a ] ] }
+    - " defendant committed "
+    - { choice: this_these, options: [ [ this ], [ these ] ] }
+    - " overt act"
+    - { opt: [ s ], if: act_plural }
+    - ", consider all of the evidence presented about the overt act"
+    - { opt: [ s ], if: act_plural }
+    - "."
+  - - "To decide whether "
+    - { choice: the_or_a, options: [ [ the ], [ a ] ] }
+    - " defendant and "
+    - { opt: [ "one or more of" ], if: one_more }
+    - " the other alleged member"
+    - { opt: [ s ], if: member_plural }
+    - " of the conspiracy intended to commit "
+    - { em: "murder in the first degree" }
+    - ", please refer to Instructions 520 "
+    - "("
+    - { em: "First or Second Degree Murder With Malice Aforethought" }
+    - ")"
+    - " and 521 "
+    - "("
+    - { em: "First Degree Murder" }
+    - ")"
+    - " which define that crime."
+  - - "When deciding whether "
+    - { choice: the_or_a, options: [ [ the ], [ a ] ] }
+    - " defendant and "
+    - { opt: [ "one or more of" ], if: one_more }
+    - " the other alleged member"
+    - { opt: [ s ], if: member_plural }
+    - " of the conspiracy intended to commit "
+    - { em: "murder in the first degree" }
+    - ", do not consider implied malice. Conspiracy to commit murder requires an intent to kill."
+  - - "The People must prove that the members of the alleged conspiracy had an agreement and intent to commit murder. The People do not have to prove that any of the members of the alleged conspiracy actually met or came to a detailed or formal agreement to commit that crime. An agreement may be inferred from conduct if you conclude that members of the alleged conspiracy acted with a common purpose to commit the crime."
+  - - "An "
+    - { em: "overt act" }
+    - " is an act by one or more of the members of the conspiracy that is done to help accomplish the agreed upon crime. The overt act must happen after the defendant has agreed to commit the crime. The overt act must be more than the act of agreeing or planning to commit the crime, but it does not have to be a criminal act itself."
+  - - opt:
+        - "You must all agree that at least one alleged overt act was committed in California by at least one alleged member of the conspiracy, but you do not have to all agree on which specific overt act or acts were committed or who committed the overt act or acts."
+      if: you_must_all_agree
+  - - opt:
+        - "You must make a separate decision as to whether each defendant was a member of the alleged conspiracy."
+      if: you_must_make_separate
+  - - opt:
+        - "A member of a conspiracy does not have to personally know the identity or roles of all the other members."
+      if: member_conspiracy_does_not
+  - { note: "Give when evidence of group membership is used to prove the conspiracy." }
+  - - opt:
+        - "Someone who merely accompanies or associates with members of a conspiracy but who does not intend to commit the murder is not a member of the conspiracy."
+      if: someone_who_merely_accompanies
+  - - opt:
+        - "Evidence that a person did an act or made a statement that helped accomplish the goal of the conspiracy is not enough, by itself, to prove that the person was a member of the conspiracy."
+      if: evidence_that_person_did

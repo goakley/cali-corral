@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2412",
   "title": "Fraudulently Obtaining a Hypodermic Needle or Syringe (Bus. & Prof. Code, § 4326(a))",
   "source": {
@@ -24,12 +24,12 @@
     "[A person *uses fraud* when he or she makes a false statement, misrepresents information, hides the truth, or otherwise does something with the intent to deceive.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

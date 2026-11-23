@@ -1,0 +1,69 @@
+{
+  "answers": {
+    "in_count": true,
+    "in_violation_penal_code": true,
+    "alcoholic_beverage": [
+      "o1",
+      "o2"
+    ],
+    "under_combined_influence_alcoholic": true,
+    "drove_under_influence_alcoholic": "o4",
+    "a_or_an": "o2",
+    "misdemeanor": [
+      "o1",
+      "o2",
+      "o3"
+    ],
+    "misdemeanor_s": [
+      "o1",
+      "o2"
+    ],
+    "people_allege_that_defendant": true,
+    "also": true,
+    "people_also_allege_that": true,
+    "alcoholic_beverage_2": [
+      "o1",
+      "o2"
+    ],
+    "great_bodily_injury_means": true,
+    "person_facing_sudden_unexpected": true,
+    "act_causes_death_if": true,
+    "there_may_be_more": true,
+    "misdemeanor_s_2": [
+      "o1",
+      "o2",
+      "o3"
+    ],
+    "misdemeanors": [
+      "o1",
+      "o2",
+      "o3"
+    ],
+    "people_allege_that_defendant_2": true,
+    "people_have_burden_proving": true,
+    "misdemeanor_plural": true,
+    "infraction_plural": true,
+    "instruction_plural": true,
+    "tell_plural": true,
+    "act_plural": true,
+    "crime_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "act_s_alleged": "example act s alleged",
+    "alleged_predicate_acts_when": "example alleged predicate acts when",
+    "f3": "example f3",
+    "f6": "example f6",
+    "lesser_offense_s": "example lesser offense s",
+    "misdemeanor_s_infraction_s": "example misdemeanor s infraction s",
+    "misdemeanor_s_infraction_s_2": "example misdemeanor s infraction s 2"
+  }
+}

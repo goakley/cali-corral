@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3451",
   "title": "Present Mental Competence of Defendant",
   "source": {
@@ -26,14 +26,14 @@
     "[A *developmental disability* is a disability that begins before a person is 18 years old and continues, or is expected to continue, for an indefinite period of time. It must be a substantial handicap and does not include other handicapping conditions that are solely physical in nature. Examples of developmental disabilities include intellectual disability, cerebral palsy, epilepsy, autism, and conditions closely related to intellectual disability or requiring treatment similar to that required for intellectually disabled individuals.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

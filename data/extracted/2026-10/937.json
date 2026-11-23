@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "937",
   "title": "Sexual Battery: By Fraudulent Representation (Pen. Code, §§ 242, 243.4(c))",
   "source": {
@@ -28,16 +28,16 @@
     "A person is *not conscious of the sexual nature of the act* if he or she is not aware of the essential characteristics of the act because the perpetrator fraudulently represented that the touching served a professional purpose when it did not."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3407",
   "title": "Defenses: Mistake of Law",
   "source": {
@@ -19,7 +19,7 @@
     "It is not a defense to the crime[s] of ______ <insert crime[s]> that the defendant did not know (he/she) was breaking the law or that (he/she) believed (his/her) act was lawful."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

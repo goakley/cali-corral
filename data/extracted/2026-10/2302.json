@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2302",
   "title": "Possession for Sale of Controlled Substance (Health & Saf. Code, §§ 11351, 11351.5, 11378, 11378.5)",
   "source": {
@@ -39,8 +39,8 @@
     "[Agreeing to buy a controlled substance does not, by itself, mean that a person has control over that substance.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -50,16 +50,16 @@
     11.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     15.0,
     16.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

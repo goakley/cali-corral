@@ -1,0 +1,31 @@
+{
+  "answers": {
+    "in_count": true,
+    "in_violation_penal_code": true,
+    "a_or_an": "o2",
+    "help_care_for_rescue": "o6",
+    "great_bodily_injury_means": true,
+    "act_causes_death_if": true,
+    "there_may_be_more": true
+  },
+  "people": {
+    "decedent": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "defendant": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "description_decedent_not_name": "example description decedent not name",
+    "description_person_owing_duty": "example description person owing duty",
+    "other_required_action_s": "example other required action s"
+  }
+}

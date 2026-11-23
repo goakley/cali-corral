@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2860",
   "title": "Defense: Good Faith Belief Conduct Legal",
   "source": {
@@ -21,9 +21,9 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant did not act in good faith. If the People have not met this burden, you must find the defendant not guilty of the crime[s] charged [in Count[s] ______] [or the lesser offense[s] of ______ <insert description of lesser offense[s]>]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

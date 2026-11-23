@@ -1,0 +1,111 @@
+# CALCRIM No. 509. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "509"
+title: "Justifiable Homicide: Non-Peace Officer Preserving the Peace"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: a51ec589ad78a5b603b7be79e83dbc452f092fb93f719ff8f8acecef6cf2c631
+review: "machine-checked"
+questions:
+  - id: murder
+    type: multi
+    options:
+      - { id: o1, label: murder }
+      - { id: o2, label: manslaughter }
+      - { id: o3, label: "attempted murder" }
+      - { id: o4, label: "attempted voluntary manslaughter" }
+    prompt: "Which apply? (one or more)"
+  - id: killed_attempted_kill
+    type: choice
+    options: [ { id: o1, label: killed }, { id: o2, label: "attempted to kill" } ]
+    prompt: "Choose one"
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    prompt: "Choose one"
+  - { id: attempted, type: boolean, prompt: "Include “attempted”?" }
+  - id: suppressing_riot_keeping_preserving
+    type: choice
+    options:
+      - { id: o1, label: "suppressing a riot" }
+      - { id: o2, label: "keeping and preserving the peace" }
+    prompt: "Choose one"
+  - id: suppress_riot_keep_preserve
+    type: choice
+    options: [ { id: o1, label: "suppress a riot" }, { id: o2, label: "keep and preserve the peace" } ]
+    prompt: "Choose one"
+  - id: riot_occurs_when_two
+    type: boolean
+    prompt: "Include “A riot occurs when two or more people, acting together and without le…”?"
+  - id: disturbance_public_peace_may
+    type: boolean
+    prompt: "Include “A disturbance of the public peace may happen in any place of confinem…”?"
+  - id: murder_2
+    type: multi
+    options: [ { id: o1, label: murder }, { id: o2, label: manslaughter } ]
+    prompt: "Which apply? (one or more)"
+body:
+  - - "The defendant is not guilty of "
+    - any: murder
+      options:
+        - [ murder ]
+        - [ { sep: or }, " manslaughter" ]
+        - [ "attempted murder" ]
+        - [ { sep: or }, " attempted voluntary manslaughter" ]
+    - " if "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " "
+    - { choice: killed_attempted_kill, options: [ [ killed ], [ "attempted to kill" ] ] }
+    - " someone while preserving the peace. Such "
+    - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+    - " "
+    - { opt: [ attempted ], if: attempted }
+    - " killing is justified, and therefore not unlawful, if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant committed the "
+          - { opt: [ attempted ], if: attempted }
+          - " killing while lawfully "
+          - choice: suppressing_riot_keeping_preserving
+            options: [ [ "suppressing a riot" ], [ "keeping and preserving the peace" ] ]
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant had probable cause to believe that "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+          - " posed a threat of serious physical harm, either to the defendant or someone else"
+        end: ";"
+      - n: "3"
+        text:
+          - "The "
+          - { opt: [ attempted ], if: attempted }
+          - " killing was necessary to lawfully "
+          - choice: suppress_riot_keep_preserve
+            options: [ [ "suppress a riot" ], [ "keep and preserve the peace" ] ]
+        end: "."
+        and: "AND"
+  - - "A person has "
+    - { em: "probable cause" }
+    - " to believe that someone poses a threat of serious physical harm when facts known to the person would persuade someone of reasonable caution that the other person is going to cause serious physical harm to another."
+  - - opt:
+        - "A "
+        - { em: riot }
+        - " occurs when two or more people, acting together and without legal authority, disturb the public peace by use of force or violence or by threat to use force or violence with the immediate ability to carry out those threats."
+      if: riot_occurs_when_two
+  - - opt:
+        - "A disturbance of the public peace may happen in any place of confinement. "
+        - { field: "text.name_detention_facility", hint: "insert name of detention facility" }
+        - " is a place of confinement."
+      if: disturbance_public_peace_may
+  - - "The People have the burden of proving beyond a reasonable doubt that the "
+    - { opt: [ attempted ], if: attempted }
+    - " killing was not justified. If the People have not met this burden, you must find the defendant not guilty of "
+    - { opt: [ attempted ], if: attempted }
+    - " "
+    - { any: murder_2, options: [ [ murder ], [ { sep: or }, " manslaughter" ] ] }
+    - "."
+people: { decedent: { label: "Decedent", uses: [ name ] } }

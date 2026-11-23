@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1154",
   "title": "Prostitution: Soliciting Another (Pen. Code, § 647(b))",
   "source": {
@@ -27,15 +27,15 @@
     "A person *engages in an act of prostitution* if he or she has sexual intercourse or does a lewd act with someone else in exchange for money [or other compensation]. A *lewd act* means touching the genitals, buttocks, or female breast of either the prostitute or customer with some part of the other person’s body for the purpose of sexual arousal or gratification. Under the law, when a prostitute and a customer engage in sexual intercourse or lewd acts, both of them are engaged in an act of prostitution."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

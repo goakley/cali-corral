@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2917",
   "title": "Loitering: About School (Pen. Code, § 653b)",
   "source": {
@@ -26,9 +26,9 @@
     "3. The defendant intended to commit a crime if the opportunity arose."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     10.3,
     11.0,
     19.0,

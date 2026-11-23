@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "223",
   "title": "Direct and Circumstantial Evidence: Defined",
   "source": {
@@ -20,8 +20,8 @@
     "Both direct and circumstantial evidence are acceptable types of evidence to prove or disprove the elements of a charge, including intent and mental state and acts necessary to a conviction, and neither is necessarily more reliable than the other. Neither is entitled to any greater weight than the other. You must decide whether a fact in issue has been proved based on all the evidence."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1252",
   "title": "Defense to Child Abduction: Protection From Immediate Injury (Pen. Code, § 278.7(a) and (b))",
   "source": {
@@ -32,15 +32,15 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant maliciously deprived a (lawful custodian of a right to custody/[or] person of a right to visitation). If the People have not met this burden, you must find the defendant not guilty of ______ <insert crime charged>."
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

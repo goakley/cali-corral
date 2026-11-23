@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1925",
   "title": "Forgery of Government, Public, or Corporate Seal (Pen. Code, § 472)",
   "source": {
@@ -27,12 +27,12 @@
     "[The People allege that the defendant (forged[,]/[or] counterfeited[,]/[or] falsely made) the following items: ______ <insert description of each seal or impression when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant (forged[,]/[or] counterfeited[,]/[or] falsely made) at least one of these items and you all agree on which item (he/she) (forged[,]/[or] counterfeited[,]/[or] falsely made).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0

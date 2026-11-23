@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2846",
   "title": "Proof of Unreported Taxable Income: Must Still Prove Elements of Offense",
   "source": {
@@ -19,7 +19,7 @@
     "If you conclude based on the (net worth[,]/[or] bank deposits[,]/[or] cash expenditures[,]/[or] specific items) method that the defendant did have unreported taxable income, you must still decide whether the People have proved all elements of the crime[s] charged [in Count[s] ______]."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1970",
   "title": "Making, Using, etc., Check Knowing Funds Insufficient (Pen. Code, § 476a)",
   "source": {
@@ -42,30 +42,30 @@
     "The People have the burden of proving beyond a reasonable doubt that when the defendant (made[,]/[or] drew[,]/[or] delivered[,]/[or] used[,]/[or] attempted to use) the (check[,]/draft[,]/[or] order), (he/she) did not tell the person designated to receive payment that there were insufficient funds to allow the (check[,]/draft[,]/[or] order) to be paid. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

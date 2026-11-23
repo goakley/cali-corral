@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "334",
   "title": "Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice",
   "source": {
@@ -42,30 +42,30 @@
     "Any (statement/[or] testimony) of an accomplice that tends to incriminate the defendant should be viewed with caution. You may not, however, arbitrarily disregard it. You should give that (statement/[or] testimony) the weight you think it deserves after examining it with care and caution and in the light of all the other evidence."
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     19.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "209",
   "title": "Implicit or Unconscious Bias",
   "source": {
@@ -27,15 +27,15 @@
     "The law demands that jurors make unbiased decisions, and these strategies can help you fulfill this important responsibility. You must base your decisions solely on the evidence presented, your evaluation of that evidence, your common sense and experience, and these instructions."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

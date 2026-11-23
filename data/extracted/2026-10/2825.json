@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2825",
   "title": "Aiding in Preparation of False Tax Return (Rev. & Tax. Code, § 19705(a)(2))",
   "source": {
@@ -29,17 +29,17 @@
     "Someone *aids* in the (preparation/[or] presentation) of a (false/[or] fraudulent) (tax return[,]/[or] affidavit[,]/[or] claim[,]/[or other] document) if, before or during the (preparation/[or] presentation) of the document, he or she does something that encourages another person to (prepare/[or] present) the (false/[or] fraudulent) document. [The defendant does not need to personally prepare the document or even be present when the document is completed.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     15.0,
     16.0,
     16.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

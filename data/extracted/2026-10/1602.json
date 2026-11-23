@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1602",
   "title": "Robbery: Degrees (Pen. Code, § 212.5)",
   "source": {
@@ -25,13 +25,13 @@
     "The People have the burden of proving beyond a reasonable doubt that the robbery was first degree rather than a lesser crime. If the People have not met this burden, you must find the defendant not guilty of first degree robbery."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

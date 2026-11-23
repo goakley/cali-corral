@@ -249,12 +249,6 @@ export function semanticIssues(t: Template): ValidationIssue[] {
         return walkBlocks(b.opt, `${p}/opt`);
       }
       if ("elements" in b) {
-        if (b.plain) {
-          b.elements.forEach((it, j) => {
-            if (isElement(it) && it.and !== undefined)
-              add(`${p}/elements/${j}`, "a plain list has no conjunctions");
-          });
-        }
         b.elements.forEach((it, j) => {
           const ep = `${p}/elements/${j}`;
           if (isNoteItem(it)) {

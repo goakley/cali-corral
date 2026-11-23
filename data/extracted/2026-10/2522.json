@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2522",
   "title": "Carrying Concealed Firearm: Caused to Be Carried Within Vehicle (Pen. Code, § 25400(a)(3))",
   "source": {
@@ -32,14 +32,14 @@
     "[The defendant did not unlawfully cause a firearm to be carried concealed within a vehicle if ______ <insert defense from Pen. Code, § 25450, 25510, 25525, 25600 or 25605>. The People have the burden of proving beyond a reasonable doubt that the defendant unlawfully caused a firearm to be carried concealed within a vehicle. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

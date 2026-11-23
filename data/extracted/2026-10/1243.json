@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1243",
   "title": "Human Trafficking (Pen. Code, § 236.1(a) & (b))",
   "source": {
@@ -35,8 +35,8 @@
     "[When you decide whether the defendant (used *duress*/[or] used *coercion*/[or] *deprived another person of personal liberty or violated that other person’s personal liberty*), consider all of the circumstances, including the age of the other person, (his/her) relationship to the defendant [or defendant’s agent[s]], and the other person’s handicap or disability, if any.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     16.0,
@@ -44,14 +44,14 @@
     16.0,
     16.0,
     16.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

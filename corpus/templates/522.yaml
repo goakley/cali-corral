@@ -1,0 +1,31 @@
+# CALCRIM No. 522. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "522"
+title: "Provocation: Effect on Degree of Murder"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2011, March 2017, September 2023, September 2024*"
+  body_sha256: a4a4b009839aba3202f2e144c206e4722084d27a81835f16b49e17b463ee0df6
+review: "machine-checked"
+questions:
+  - id: may_reduce_murder_manslaughter
+    type: boolean
+    prompt: "Include “and may reduce a murder to manslaughter”?"
+  - id: also_consider_provocation_in
+    type: boolean
+    prompt: "Include “Also, consider the provocation in deciding whether the defendant comm…”?"
+  - id: provocation_does_not_apply
+    type: boolean
+    prompt: "Include “Provocation does not apply to a prosecution under a theory of felony…”?"
+body:
+  - - "Provocation may reduce a murder from first degree to second degree "
+    - { opt: [ "and may reduce a murder to manslaughter" ], if: may_reduce_murder_manslaughter }
+    - ". The weight and significance of the provocation, if any, are for you to decide."
+  - - "If you conclude that the defendant committed murder but was provoked, consider the provocation in deciding whether the crime was first or second degree murder. "
+    - opt:
+        - "Also, consider the provocation in deciding whether the defendant committed murder or manslaughter."
+      if: also_consider_provocation_in
+  - - opt: [ "Provocation does not apply to a prosecution under a theory of felony murder." ]
+      if: provocation_does_not_apply

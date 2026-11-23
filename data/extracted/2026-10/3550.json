@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3550",
   "title": "Pre-Deliberation Instructions",
   "source": {
@@ -32,20 +32,20 @@
     "You will be given [a] verdict form[s]. As soon as all jurors have agreed on a verdict, the foreperson must date and sign the appropriate verdict form[s] and notify the bailiff. [If you are able to reach a unanimous decision on only one or only some of the (charges/[or] defendants), fill in (that/those) verdict form[s] only, and notify the bailiff.] Return any unsigned verdict form."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2241",
   "title": "Driver and Driving Defined (Veh. Code, § 305)",
   "source": {
@@ -20,8 +20,8 @@
     "[A person *drives* a vehicle when he or she intentionally causes it to move by exercising actual physical control over it. The person must cause the vehicle to move, but the movement may be slight.]"
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "595",
   "title": "Vehicular Manslaughter: Speeding Laws Defined",
   "source": {
@@ -42,8 +42,8 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant’s rate of travel was not reasonable given the overall conditions, even if the rate of travel was faster than the prima facie speed law. If the People have not met this burden, you must find the defendant did not violate the prima facie speed law.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
@@ -63,9 +63,9 @@
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

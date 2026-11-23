@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "315",
   "title": "Eyewitness Identification",
   "source": {
@@ -45,8 +45,8 @@
     "The People have the burden of proving beyond a reasonable doubt that it was the defendant who committed the crime. If the People have not met this burden, you must find the defendant not guilty."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     23.8,
     23.8,
     23.8,
@@ -63,7 +63,7 @@
     23.8,
     23.8,
     23.8,
-    0.0,
+    -0.0,
     19.8,
     19.8,
     19.8,
@@ -71,7 +71,7 @@
     19.8,
     19.8,
     19.8,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

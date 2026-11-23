@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "725",
   "title": "Special Circumstances: Murder of Witness (Pen. Code, § 190.2(a)(10))",
   "source": {
@@ -26,14 +26,14 @@
     "[A killing is committed during the commission [or attempted commission] of a crime if the killing and the crime are part of one continuous transaction. The continuous transaction may occur over a period of time or in more than one location.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

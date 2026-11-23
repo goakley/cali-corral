@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "823",
   "title": "Child Abuse (Misdemeanor) (Pen. Code, § 273a(b))",
   "source": {
@@ -43,8 +43,8 @@
     "3. A reasonable person would have known that acting in that way would naturally and probably result in harm to others.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,
@@ -59,11 +59,11 @@
     16.0,
     16.0,
     16.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,

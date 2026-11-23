@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2182",
   "title": "Evading Peace Officer: Misdemeanor (Veh. Code, § 2800.1(a))",
   "source": {
@@ -26,7 +26,7 @@
     "(b) The defendant either saw or reasonably should have seen the lamp;",
     "(c) The peace officer’s vehicle was sounding a siren as reasonably necessary;",
     "(d) The peace officer’s vehicle was distinctively marked;",
-    "(d) AND",
+    "AND",
     "(e) The peace officer was wearing a distinctive uniform.",
     "[A person employed as a police officer by ______ <insert name of agency that employs police officer> is a *peace officer*.]",
     "[A person employed by ______ <insert name of agency that employs peace officer, e.g., “the Department of Fish and Wildlife”> is a *peace officer* if ______ <insert description of facts necessary to make employee a peace officer, e.g., “designated by the director of the agency as a peace officer”>.]",
@@ -35,8 +35,8 @@
     "A *distinctive uniform* means clothing adopted by a law enforcement agency to identify or distinguish members of its force. The uniform does not have to be complete or of any particular level of formality. However, a badge, without more, is not enough."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -45,13 +45,13 @@
     29.3,
     30.7,
     29.3,
-    29.3,
+    53.0,
     30.7,
     0.0,
     0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "706",
   "title": "Special Circumstances: Jury May Not Consider Punishment",
   "source": {
@@ -19,7 +19,7 @@
     "In your deliberations, you may not consider or discuss penalty or punishment in any way when deciding whether a special circumstance, or any other charge, has been proved."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

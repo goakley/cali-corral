@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "571",
   "title": "Voluntary Manslaughter: Imperfect Self-Defense or Imperfect Defense of Another—Lesser Included Offense (Pen. Code, § 192)",
   "source": {
@@ -37,25 +37,25 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant was not acting in (imperfect self-defense/[or] imperfect defense of another). If the People have not met this burden, you must find the defendant not guilty of murder."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

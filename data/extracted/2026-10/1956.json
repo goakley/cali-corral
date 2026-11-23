@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1956",
   "title": "Use of Forged, etc., Access Card (Pen. Code, § 484g(a))",
   "source": {
@@ -36,8 +36,8 @@
     "[The People allege that the defendant used the following (access cards/[or] access card account information): ______ <insert description of each card when multiple items alleged>. You may not find the defendant guilty unless you all agree that the People have proved that the defendant used at least one of these (cards/[or] card’s account information) and you all agree on which (card/[or] card account information) (he/she) used.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -45,12 +45,12 @@
     19.0,
     0.0,
     0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0

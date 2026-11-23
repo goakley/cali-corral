@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1830",
   "title": "Extortion by Threat or Force (Pen. Code, §§ 518, 519)",
   "source": {
@@ -47,8 +47,8 @@
     "[An *intimate body part* means any portion of the genitals, the anus, and, in the case of a female, also includes any portion of the breasts below the top of the areola that is either uncovered or clearly visible through clothing.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     15.0,
     16.0,
@@ -59,23 +59,23 @@
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     19.8,
     19.8,
     19.8,
     19.8,
     19.8,
     19.8,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

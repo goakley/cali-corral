@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "981",
   "title": "Brandishing Firearm in Presence of Peace Officer (Pen. Code, § 417(c) & (e))",
   "source": {
@@ -34,8 +34,8 @@
     "[The duties of a ______ <insert title of officer> include ______ <insert job duties>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -44,12 +44,12 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

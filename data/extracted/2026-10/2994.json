@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2994",
   "title": "Recording Bets (Pen. Code, § 337a(a)(4))",
   "source": {
@@ -25,13 +25,13 @@
     "*Recording* [or registering] a bet means making a notation on paper, or using any other material or device, to allow winnings on the bet to be distributed in the future. [*Recording* [or registering] a bet does not require the type of registering or recording that occurs in a legitimate business establishment.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "765",
   "title": "Death Penalty: Conviction for Other Felony Crimes",
   "source": {
@@ -21,9 +21,9 @@
     "You may not consider any other evidence of alleged criminal activity as an aggravating circumstance [except for the alleged criminal activity I discussed in the previous instruction]."
   ],
   "body_indents": [
+    -0.0,
     0.0,
-    0.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

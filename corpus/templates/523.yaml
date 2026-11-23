@@ -1,0 +1,204 @@
+# CALCRIM No. 523. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "523"
+title: "First Degree Murder: Hate Crime (Pen. Code, § 190.03)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised March 2017, March 2022"
+  body_sha256: e436223a34db64695fee7979bab9d1dcd418769959ca8c48423b2ca1f306086b
+review: "machine-checked"
+questions:
+  - id: as_charged_in_count
+    type: boolean
+    prompt: "Include “as charged in Count ___”?"
+  - id: this_one_more_these
+    type: choice
+    options: [ { id: o1, label: this }, { id: o2, label: "one or more of these" } ]
+    prompt: "Choose one"
+  - id: disability
+    type: multi
+    options:
+      - { id: o1, label: disability }
+      - { id: o2, label: gender }
+      - { id: o3, label: nationality }
+      - { id: o4, label: "race or ethnicity" }
+      - { id: o5, label: religion }
+      - { id: o6, label: "sexual orientation" }
+      - id: o7
+        label: "association with a person or group with (this/one or more of these) actual or p…"
+    prompt: "Which apply? (one or more)"
+  - id: disability_2
+    type: multi
+    options:
+      - { id: o1, label: disability }
+      - { id: o2, label: gender }
+      - { id: o3, label: nationality }
+      - { id: o4, label: "race or ethnicity" }
+      - { id: o5, label: religion }
+      - { id: o6, label: "sexual orientation" }
+      - id: o7
+        label: "association with a person or group having (this/one or more of these) actual or…"
+    prompt: "Which apply? (one or more)"
+  - id: term_disability_is_explained
+    type: boolean
+    prompt: "Include “The term disability is explained in Instruction 1353, to which you sh…”?"
+  - id: gender_as_used_here
+    type: boolean
+    prompt: "Include “Gender, as used here, means sex and includes a person’s gender identi…”?"
+  - id: nationality_as_used_here
+    type: boolean
+    prompt: "Include “Nationality, as used here, means country of origin, immigration statu…”?"
+  - id: race_ethnicity_includes_ancestry
+    type: boolean
+    prompt: "Include “Race or ethnicity includes ancestry, color, and ethnic background.”?"
+  - id: religion_as_used_here
+    type: boolean
+    prompt: "Include “Religion, as used here, includes all aspects of religious belief, obs…”?"
+  - id: sexual_orientation_means_heterosexuality
+    type: boolean
+    prompt: "Include “Sexual orientation means heterosexuality, homosexuality, or bisexuali…”?"
+  - { id: s, type: boolean, prompt: "Include “s”?" }
+  - { id: adjacent, type: boolean, prompt: "Include “, or adjacent to,”?" }
+  - id: advocacy_for
+    type: multi
+    options:
+      - { id: o1, label: "advocacy for" }
+      - { id: o2, label: "identification with" }
+      - { id: o3, label: "being on the ground owned or rented by[, or adjacent to,]" }
+    prompt: "Which apply? (one or more)"
+  - id: person
+    type: multi
+    options:
+      - { id: o1, label: person }
+      - { id: o2, label: group }
+      - { id: o3, label: family }
+      - { id: o4, label: "community center" }
+      - { id: o5, label: "educational facility" }
+      - { id: o6, label: office }
+      - { id: o7, label: "meeting hall" }
+      - { id: o8, label: "place of worship" }
+      - { id: o9, label: "private institution" }
+      - { id: o10, label: "public agency" }
+      - { id: o11, label: library }
+      - { id: o12, label: "other entity" }
+    prompt: "Which apply? (one or more)"
+  - id: that_one_more_those
+    type: choice
+    options: [ { id: o1, label: that }, { id: o2, label: "one or more of those" } ]
+    prompt: "Choose one"
+  - id: association_with_person_group
+    type: boolean
+    prompt: "Include “Association with a person or group with (this/one or more of these) a…”?"
+  - id: characteristic_plural
+    type: boolean
+    prompt: "Include the “s” in “characteristic[s]”?"
+body:
+  - - "If you find the defendant guilty of first degree murder "
+    - { opt: [ "as charged in Count ", { field: count } ], if: as_charged_in_count }
+    - ", you must then decide whether the People have proved the additional allegation that the murder was a hate crime."
+  - - "To prove this allegation the People must prove that the defendant committed the murder, in whole or in part, because of the deceased person’s actual or perceived "
+    - any: disability
+      options:
+        - [ disability, { sep: "," } ]
+        - [ { sep: or }, " gender", { sep: "," } ]
+        - [ { sep: or }, " nationality", { sep: "," } ]
+        - [ { sep: or }, " race or ethnicity", { sep: "," } ]
+        - [ { sep: or }, " religion", { sep: "," } ]
+        - [ { sep: or }, " sexual orientation", { sep: "," } ]
+        - - { sep: or }
+          - " association with a person or group with "
+          - { choice: this_one_more_these, options: [ [ this ], [ "one or more of these" ] ] }
+          - " actual or perceived characteristic"
+          - { opt: [ s ], if: characteristic_plural }
+    - "."
+  - - "The defendant acted, "
+    - { em: "in whole or in part, because of" }
+    - " the actual or perceived characteristic"
+    - { opt: [ s ], if: characteristic_plural }
+    - " of the deceased person if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant was biased against the other person based on the other person’s actual or perceived "
+          - any: disability_2
+            options:
+              - [ disability, { sep: "," } ]
+              - [ { sep: or }, " gender", { sep: "," } ]
+              - [ { sep: or }, " nationality", { sep: "," } ]
+              - [ { sep: or }, " race or ethnicity", { sep: "," } ]
+              - [ { sep: or }, " religion", { sep: "," } ]
+              - [ { sep: or }, " sexual orientation", { sep: "," } ]
+              - - { sep: or }
+                - " association with a person or group having "
+                - { choice: this_one_more_these, options: [ [ this ], [ "one or more of these" ] ] }
+                - " actual or perceived characteristic"
+                - { opt: [ s ], if: characteristic_plural }
+        end: ";"
+      - n: "2"
+        text: [ "The bias motivation caused the defendant to commit the alleged murder" ]
+        end: "."
+        and: "AND"
+  - - "If you find that the defendant had more than one reason to commit the alleged murder, the bias described here must have been a substantial motivating factor. A "
+    - { em: "substantial factor" }
+    - " is more than a trivial or remote factor. However, it does not need to be the only factor that motivated the conduct."
+  - - opt:
+        - "The term "
+        - { em: disability }
+        - " is explained in Instruction 1353, to which you should refer."
+      if: term_disability_is_explained
+  - - opt:
+        - { em: "Gender" }
+        - ", as used here, means sex and includes a person’s gender identity and gender related appearance and behavior whether or not stereotypically associated with the person’s assigned sex at birth."
+      if: gender_as_used_here
+  - - opt:
+        - { em: "Nationality" }
+        - ", as used here, means country of origin, immigration status, including citizenship, and national origin."
+      if: nationality_as_used_here
+  - - opt: [ { em: "Race or ethnicity" }, " includes ancestry, color, and ethnic background." ]
+      if: race_ethnicity_includes_ancestry
+  - - opt:
+        - { em: "Religion" }
+        - ", as used here, includes all aspects of religious belief, observance, and practice and includes agnosticism and atheism."
+      if: religion_as_used_here
+  - - opt: [ { em: "Sexual orientation" }, " means heterosexuality, homosexuality, or bisexuality." ]
+      if: sexual_orientation_means_heterosexuality
+  - - opt:
+        - { em: "Association with a person or group with" }
+        - " "
+        - choice: this_one_more_these
+          options: [ [ { em: this } ], [ { em: "one or more of these" } ] ]
+        - " "
+        - { em: "actual or perceived characteristic" }
+        - { opt: [ { em: s } ], if: s }
+        - " includes "
+        - any: advocacy_for
+          options:
+            - [ "advocacy for", { sep: "," } ]
+            - [ "identification with", { sep: "," } ]
+            - - { sep: or }
+              - " being on the ground owned or rented by"
+              - { opt: [ ", or adjacent to," ], if: adjacent }
+        - " a "
+        - any: person
+          options:
+            - [ person, { sep: "," } ]
+            - [ group, { sep: "," } ]
+            - [ family, { sep: "," } ]
+            - [ "community center", { sep: "," } ]
+            - [ "educational facility", { sep: "," } ]
+            - [ office, { sep: "," } ]
+            - [ "meeting hall", { sep: "," } ]
+            - [ "place of worship", { sep: "," } ]
+            - [ "private institution", { sep: "," } ]
+            - [ "public agency", { sep: "," } ]
+            - [ library, { sep: "," } ]
+            - [ { sep: or }, " other entity" ]
+        - " that has, or is identified with people who have, "
+        - { choice: that_one_more_those, options: [ [ that ], [ "one or more of those" ] ] }
+        - " characteristic"
+        - { opt: [ s ], if: characteristic_plural }
+        - "."
+      if: association_with_person_group
+  - - "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find this allegation has not been proved."

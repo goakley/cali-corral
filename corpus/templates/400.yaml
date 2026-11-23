@@ -1,0 +1,15 @@
+# CALCRIM No. 400. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "400"
+title: "Aiding and Abetting: General Principles"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, August 2009, April 2010, February 2026"
+  body_sha256: "1baceeb10091c12dc50b434987103bf5e4ac6e862fbd63819a612aa4a2039493"
+review: "machine-checked"
+questions: []
+body:
+  - - "A person may be guilty of a crime in two ways. One, he or she may have directly committed the crime. I will call that person the perpetrator. Two, he or she may have aided and abetted a perpetrator, who directly committed the crime."
+  - - "A person is guilty of a crime whether he or she committed it personally or aided and abetted the perpetrator."

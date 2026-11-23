@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "810",
   "title": "Torture (Pen. Code, § 206)",
   "source": {
@@ -28,14 +28,14 @@
     "[Someone acts with a *sadistic purpose* if he or she intends to inflict pain on someone else in order to experience pleasure himself or herself.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0
   ],

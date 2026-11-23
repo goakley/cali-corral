@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "500",
   "title": "Homicide: General Principles",
   "source": {
@@ -20,8 +20,8 @@
     "[A homicide can be lawful or unlawful. If a person kills with a legally valid excuse or justification, the killing is lawful and he or she has not committed a crime. If there is no legally valid excuse or justification, the killing is unlawful and, depending on the circumstances, the person is guilty of either murder or manslaughter. You must decide whether the killing in this case was unlawful and, if so, what specific crime was committed. I will now instruct you in more detail on what is a legally permissible excuse or justification for homicide.] [I will [also] instruct you on the different types of (murder/[and] manslaughter).]"
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

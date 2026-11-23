@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "358",
   "title": "Evidence of Defendant’s Statements",
   "source": {
@@ -20,8 +20,8 @@
     "[Consider with caution any statement made by (the/a) defendant tending to show (his/her) guilt unless the statement was written or otherwise recorded.]"
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

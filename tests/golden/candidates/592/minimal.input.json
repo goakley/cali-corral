@@ -1,0 +1,50 @@
+{
+  "answers": {
+    "in_count": false,
+    "in_violation_penal_code": false,
+    "defendant_is_charged_in": false,
+    "gross_vehicular_manslaughter_is": false,
+    "drove_vehicle_operated_vessel": "o1",
+    "driving_that_vehicle_operating": "o1",
+    "a_or_an": "o1",
+    "misdemeanor": [
+      "o1"
+    ],
+    "and_or_or": "o1",
+    "gross_negligence_may_include": false,
+    "sideshow_is_event_in": false,
+    "participating_in_motor_vehicle": false,
+    "great_bodily_injury_means": false,
+    "person_facing_sudden_unexpected": false,
+    "act_causes_death_if": false,
+    "there_may_be_more": false,
+    "misdemeanor_s": [
+      "o1"
+    ],
+    "people_allege_that_defendant": false,
+    "also": false,
+    "people_also_allege_that": false,
+    "you_may_not_find": false,
+    "people_have_burden_proving": false,
+    "misdemeanor_plural": false,
+    "infraction_plural": false,
+    "instruction_plural": false,
+    "tell_plural": false,
+    "crime_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "act_s_alleged": "example act s alleged",
+    "f3": "example f3",
+    "lesser_offense_s": "example lesser offense s",
+    "misdemeanor_s_infraction_s": "example misdemeanor s infraction s"
+  }
+}

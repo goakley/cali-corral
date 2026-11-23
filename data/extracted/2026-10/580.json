@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "580",
   "title": "Involuntary Manslaughter: Lesser Included Offense (Pen. Code, § 192(b))",
   "source": {
@@ -38,26 +38,26 @@
     "In order to prove murder or voluntary manslaughter, the People have the burden of proving beyond a reasonable doubt that the defendant acted with intent to kill or with conscious disregard for human life. If the People have not met either of these burdens, you must find the defendant not guilty of murder and not guilty of voluntary manslaughter."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

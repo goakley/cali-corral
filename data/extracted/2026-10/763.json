@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "763",
   "title": "Death Penalty: Factors to Consider—Not Identified as Aggravating or Mitigating (Pen. Code, § 190.3)",
   "source": {
@@ -39,11 +39,11 @@
     "[Although you may consider sympathy or compassion for the defendant, you may not let sympathy for the defendant’s family influence your decision. [However, you may consider evidence about the impact the defendant’s execution would have on (his/her) family if that evidence demonstrates some positive quality of the defendant’s background or character.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     14.0,
     13.3,
     14.7,
@@ -55,11 +55,11 @@
     16.7,
     16.0,
     13.3,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "591",
   "title": "Vehicular Manslaughter While Intoxicated—Ordinary Negligence (Pen. Code, § 191.5(b))",
   "source": {
@@ -40,28 +40,28 @@
     "[The People have the burden of proving beyond a reasonable doubt that the defendant committed vehicular manslaughter with ordinary negligence while intoxicated. If the People have not met this burden, you must find the defendant not guilty of that crime. You must consider whether the defendant is guilty of the lesser crime[s] of ______ <insert lesser offense[s]>.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

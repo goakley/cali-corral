@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "122",
   "title": "Corporation Is a Person",
   "source": {
@@ -19,7 +19,7 @@
     "(A/The) defendant[s] in this case, ______ <insert name[s] of corporate defendant[s]>, (is a corporation/are corporations). Under the law, a corporation must be treated in the same way as a natural person. When I use words like person or he or she in these instructions to refer to the defendant[s], those instructions [also] apply to ______ <insert name[s] of corporate defendant[s]>."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

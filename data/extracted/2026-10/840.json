@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "840",
   "title": "Inflicting Injury on Spouse, Cohabitant, or Fellow Parent Resulting in Traumatic Condition (Pen. Code, § 273.5(a))",
   "source": {
@@ -39,27 +39,27 @@
     "A *substantial factor* is more than a trivial or remote factor. However, it does not need to be the only factor that resulted in the traumatic condition.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
+    -0.0,
+    0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

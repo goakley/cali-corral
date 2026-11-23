@@ -1,0 +1,129 @@
+# CALCRIM No. 540A. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "540A"
+title: "Felony Murder: First Degree—Defendant Allegedly Committed Fatal Act (Pen. Code, § 189)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2010, August 2013, September 2019, March 2023, February 2026*"
+  body_sha256: e1f68e332d710153a814f4ea720a4a47a93a989abf2117f1799390c42735d4c0
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - { id: attempted_commit, type: boolean, prompt: "Include “or attempted to commit”?" }
+  - { id: attempting_commit, type: boolean, prompt: "Include “or attempting to commit”?" }
+  - id: an_or_the
+    type: choice
+    options: [ { id: o1, label: an }, { id: o2, label: the } ]
+    prompt: "Choose one"
+  - id: who_was_actual_killer
+    type: boolean
+    prompt: "Include “who was the actual killer”?"
+  - id: will_give_have_given
+    type: choice
+    options: [ { id: o1, label: "will give" }, { id: o2, label: "have given" } ]
+    prompt: "Choose one"
+  - id: felony_felonies
+    type: choice
+    options: [ { id: o1, label: felony }, { id: o2, label: felonies } ]
+    prompt: "Choose one"
+  - id: defendant_must_have_intended
+    type: boolean
+    prompt: "Include “The defendant must have intended to commit the (felony/felonies) of _…”?"
+  - id: crime_continues_until_defendant
+    type: boolean
+    prompt: "Include “The crime of ___ continues until a defendant has reached a place of t…”?"
+  - id: it_is_not_required
+    type: boolean
+    prompt: "Include “It is not required that the person die immediately, as long as the ac…”?"
+  - id: victim_intended_victim
+    type: choice
+    options: [ { id: o1, label: victim }, { id: o2, label: "intended victim" } ]
+    prompt: "Choose one"
+  - id: it_is_not_required_2
+    type: boolean
+    prompt: "Include “It is not required that the person killed be the (victim/intended vic…”?"
+  - { id: act_plural, type: boolean, prompt: "Include the “s” in “act[s]”?" }
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with murder, under a theory of first degree felony murder."
+  - - "To prove that the defendant is guilty of first degree murder under this theory, the People must prove that:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant committed "
+          - { opt: [ "or attempted to commit" ], if: attempted_commit }
+          - " "
+          - field: "text.felony_felonies_from_pen"
+            hint: "insert felony or felonies from Pen. Code, § 189"
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant intended to commit "
+          - field: "text.felony_felonies_from_pen"
+            hint: "insert felony or felonies from Pen. Code, § 189"
+        end: ";"
+      - n: "3"
+        text:
+          - "While committing "
+          - { opt: [ "or attempting to commit" ], if: attempting_commit }
+          - " "
+          - field: "text.felony_felonies_from_pen"
+            hint: "insert felony or felonies from Pen. Code, § 189"
+          - ", the defendant personally committed "
+          - { choice: an_or_the, options: [ [ an ], [ the ] ] }
+          - " act"
+          - { opt: [ s ], if: act_plural }
+          - " that directly caused the death of another person"
+        end: "."
+        and: "AND"
+  - - "A person "
+    - { opt: [ "who was the actual killer" ], if: who_was_actual_killer }
+    - " may be guilty of felony murder even if the killing was unintentional, accidental, or negligent."
+  - - "To decide whether the defendant committed "
+    - { opt: [ "or attempted to commit" ], if: attempted_commit }
+    - " "
+    - field: "text.felony_felonies_from_pen"
+      hint: "insert felony or felonies from Pen. Code, § 189"
+    - ", please refer to the separate instructions that I "
+    - { choice: will_give_have_given, options: [ [ "will give" ], [ "have given" ] ] }
+    - " you on "
+    - { when: [ "!crime_plural", crime_plural ], options: [ that, those ] }
+    - " crime"
+    - { opt: [ s ], if: crime_plural }
+    - ". You must apply those instructions when you decide whether the People have proved first degree murder under a theory of felony murder."
+  - note: "Make certain that all appropriate instructions on all underlying felonies are given."
+  - - opt:
+        - "The defendant must have intended to commit the "
+        - { choice: felony_felonies, options: [ [ felony ], [ felonies ] ] }
+        - " of "
+        - field: "text.felony_felonies_from_pen"
+          hint: "insert felony or felonies from Pen. Code, § 189"
+        - " before or at the time that "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " caused the death."
+      if: defendant_must_have_intended
+  - note: "If the facts raise an issue whether the commission of the felony continued while a defendant was fleeing the scene, give the following sentence instead of CALCRIM No. 3261, While Committing a Felony: Defined—Escape Rule."
+  - - opt:
+        - "The crime of "
+        - field: "text.felony_felonies_from_pen"
+          hint: "insert felony or felonies from Pen. Code, § 189"
+        - " continues until a defendant has reached a place of temporary safety."
+      if: crime_continues_until_defendant
+  - - opt:
+        - "It is not required that the person die immediately, as long as the act"
+        - { opt: [ s ], if: act_plural }
+        - " causing death occurred while the defendant was committing the "
+        - { choice: felony_felonies, options: [ [ felony ], [ felonies ] ] }
+        - "."
+      if: it_is_not_required
+  - - opt:
+        - "It is not required that the person killed be the "
+        - { choice: victim_intended_victim, options: [ [ victim ], [ "intended victim" ] ] }
+        - " of the "
+        - { choice: felony_felonies, options: [ [ felony ], [ felonies ] ] }
+        - "."
+      if: it_is_not_required_2

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2140",
   "title": "Failure to Perform Duty Following Accident: Death or Injury—Defendant Driver (Veh. Code, §§ 20001, 20003 & 20004)",
   "source": {
@@ -53,8 +53,8 @@
     "[If the accident caused the defendant to be unconscious or disabled so that (he/she) was not capable of performing the duties required by law, then (he/she) did not have to perform those duties at that time. [However, (he/she) was required to do so as soon as reasonably possible.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -80,14 +80,14 @@
     0.0,
     0.0,
     0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,0 +1,29 @@
+{
+  "answers": {
+    "in_count": false,
+    "officer": [
+      "o1"
+    ],
+    "personally_committed_was_direct": "o1",
+    "prove_that_defendant_personally": false,
+    "failed_authorized_caused_permitted": "o1",
+    "prove_that_defendant_was": false,
+    "element_3": false,
+    "element_3_2": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "description_conduct_alleged_in": "example description conduct alleged in",
+    "description_knowledge_about_conduct": "example description knowledge about conduct",
+    "description_specific_intent_required": "example description specific intent required",
+    "offense_charged": "example offense charged"
+  }
+}

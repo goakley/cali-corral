@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2610",
   "title": "Giving or Offering a Bribe to a Witness (Pen. Code, § 137(a))",
   "source": {
@@ -39,15 +39,15 @@
     "[*Offering a bribe* does not require specific words or behavior, as long as the language used and the circumstances clearly show an intent to bribe. [The thing offered does not need to actually be given, exist at the time it is offered, or have a specific value.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     23.8,
     16.0,
     23.8,
@@ -55,9 +55,9 @@
     23.8,
     16.0,
     23.8,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0
   ],

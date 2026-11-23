@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "723",
   "title": "Special Circumstances: Murder to Prevent Arrest or Complete Escape (Pen. Code, § 190.2(a)(5))",
   "source": {
@@ -30,18 +30,18 @@
     "[*Lawful custody* includes (confinement/placement) in (county jail/prison/the California Youth Authority/work furlough/______ <insert name or description of other detention facility, see Pen. Code, § 4532>. [A person is in lawful custody if he or she has been entrusted to the custody of an officer or other individual during a temporary release from the place of confinement.]]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     15.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

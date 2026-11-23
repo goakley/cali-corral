@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1204",
   "title": "Kidnapping: During Carjacking (Pen. Code, §§ 207(a), 209.5(a), (b), 215(a))",
   "source": {
@@ -39,8 +39,8 @@
     "[*Fear*, as used in this instruction, means fear of injury to the person or injury to the person’s family or property.] [It also means fear of immediate injury to another person present during the incident or to that person’s property.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
@@ -51,15 +51,15 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

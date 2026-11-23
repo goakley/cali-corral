@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1705",
   "title": "Unlawful Entry of a Vehicle (Pen. Code, § 465(a))",
   "source": {
@@ -27,15 +27,15 @@
     "[The People allege that the defendant intended to commit (theft/[or] ______ <insert one or more felonies>). You may not find the defendant guilty of unlawful entry of a vehicle unless you all agree that (he/she) intended to commit one of those crimes at the time of the entry. You do not all have to agree on which one of those crimes (he/she) intended.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

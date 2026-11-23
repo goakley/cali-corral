@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2686",
   "title": "Refusal to Disperse: Riot, Rout, or Unlawful Assembly (Pen. Code, §§ 407, 409)",
   "source": {
@@ -35,8 +35,8 @@
     "[The People do not have to prove that the defendant participated in the (riot[,]/[or] rout[,]/[or] unlawful assembly).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -44,14 +44,14 @@
     16.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,0 +1,77 @@
+# CALCRIM No. 460. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "460"
+title: "Attempt Other Than Attempted Murder (Pen. Code, § 21a)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2013, February 2015"
+  body_sha256: "7956f14030906b0424e80e4a8debf7f9851f63c695163874635437e0e1d7e956"
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: defendant_is_charged_in
+    type: boolean
+    prompt: "Include “The defendant is charged [in Count ___] with attempted ___.”?"
+  - id: person_who_attempts_commit
+    type: boolean
+    prompt: "Include “A person who attempts to commit ___ is guilty of attempted ___ even i…”?"
+  - id: will_give_have_given
+    type: choice
+    options: [ { id: o1, label: "will give" }, { id: o2, label: "have given" } ]
+    prompt: "Choose one"
+  - id: defendant_may_be_guilty
+    type: boolean
+    prompt: "Include “The defendant may be guilty of attempt even if you conclude that ___…”?"
+body:
+  - - opt:
+        - "The defendant is charged "
+        - { opt: [ "in Count ", { field: count } ], if: in_count }
+        - " with attempted "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - "."
+      if: defendant_is_charged_in
+  - [ "To prove that the defendant is guilty of this crime, the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant took a direct but ineffective step toward committing "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant intended to commit "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: "."
+        and: "AND"
+  - - "A "
+    - { em: "direct step" }
+    - " requires more than merely planning or preparing to commit "
+    - { field: "text.target_offense", hint: "insert target offense" }
+    - " or obtaining or arranging for something needed to commit "
+    - { field: "text.target_offense", hint: "insert target offense" }
+    - ". A direct step is one that goes beyond planning or preparation and shows that a person is putting his or her plan into action. A direct step indicates a definite and unambiguous intent to commit "
+    - { field: "text.target_offense", hint: "insert target offense" }
+    - ". It is a direct movement towards the commission of the crime after preparations are made. It is an immediate step that puts the plan in motion so that the plan would have been completed if some circumstance outside the plan had not interrupted the attempt."
+  - - opt:
+        - "A person who attempts to commit "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - " is guilty of attempted "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - " even if, after taking a direct step towards committing the crime, he or she abandoned further efforts to complete the crime or if his or her attempt failed or was interrupted by someone or something beyond his or her control. On the other hand, if a person freely and voluntarily abandons his or her plans before taking a direct step toward committing "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - ", then that person is not guilty of attempted "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - "."
+      if: person_who_attempts_commit
+  - - "To decide whether the defendant intended to commit "
+    - { field: "text.target_offense", hint: "insert target offense" }
+    - ", please refer to the separate instructions that I "
+    - { choice: will_give_have_given, options: [ [ "will give" ], [ "have given" ] ] }
+    - " you on that crime."
+  - - opt:
+        - "The defendant may be guilty of attempt even if you conclude that "
+        - { field: "text.target_offense", hint: "insert target offense" }
+        - " was actually completed."
+      if: defendant_may_be_guilty

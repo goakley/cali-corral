@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2620",
   "title": "Using Force or Threatening a Witness Before Testimony or Information Given (Pen. Code, § 137(b))",
   "source": {
@@ -30,17 +30,17 @@
     "[The People do not need to prove that ______ <insert name/description of person defendant allegedly sought to influence> actually (gave false (testimony/information)/[or] withheld true (testimony/information)).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     16.0,
     15.0,
     16.0,
     15.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0
   ],
   "bench_notes": {

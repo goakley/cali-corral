@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3530",
   "title": "Judge’s Comment on the Evidence (Cal. Const., art. VI, § 10; Pen. Code, §§ 1127, 1093(f))",
   "source": {
@@ -21,9 +21,9 @@
     "However, it is not my role to tell you what your verdict should be. You are the sole judges of the evidence and believability of witnesses. It is up to you and you alone to decide the issues in this case. You may disregard any or all of my comments about the evidence or give them whatever weight you believe is appropriate."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

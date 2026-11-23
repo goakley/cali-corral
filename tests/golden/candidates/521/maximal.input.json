@@ -1,0 +1,66 @@
+{
+  "answers": {
+    "two": "o2",
+    "and": true,
+    "choice": true,
+    "both_all": "o2",
+    "each_theory_first_degree": true,
+    "defendant_is_guilty_first": true,
+    "defendant_is_guilty_first_2": true,
+    "person_commits_act_willfully": true,
+    "there_is_no_requirement": true,
+    "finding_torture_does_not": true,
+    "deliberation_means_carefully_weighing": true,
+    "person_can_conceal_his": true,
+    "concealment_can_be_accomplished": true,
+    "defendant_is_guilty_first_3": true,
+    "defendant_is_guilty_first_4": true,
+    "explosive_is_any_substance": true,
+    "also": true,
+    "explosive_is_also_any": true,
+    "is_explosive": true,
+    "destructive_device_is": true,
+    "is_destructive_device": true,
+    "defendant_is_guilty_first_5": true,
+    "is_weapon_mass_destruction": true,
+    "is_chemical_warfare_agent": true,
+    "defendant_has_been_prosecuted": true,
+    "defendant_is_guilty_first_6": true,
+    "a_or_an": "o2",
+    "passenger_vehicle_motorcycle_motor": "o8",
+    "defendant_is_guilty_first_7": true,
+    "poison_is_substance_applied": true,
+    "defendant_is_guilty_first_8": true,
+    "is_poison": true,
+    "requirements_for_second_degree": true,
+    "act_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "victim": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "additional_theories": "example additional theories",
+    "definition_supported_by_evidence": "example definition supported by evidence",
+    "first_theory_e_g": "example first theory e g",
+    "name_substance": "example name substance",
+    "number": "example number",
+    "other_type_motor_vehicle": "example other type motor vehicle",
+    "second_theory_e_g": "example second theory e g",
+    "type_agent_from_pen": "example type agent from pen",
+    "type_destructive_device_from": "example type destructive device from",
+    "type_explosive_from_health": "example type explosive from health",
+    "type_weapon_from_pen": "example type weapon from pen"
+  }
+}

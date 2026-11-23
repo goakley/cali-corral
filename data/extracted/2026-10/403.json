@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "403",
   "title": "Natural and Probable Consequences (Only Non-Target Offense Charged)",
   "source": {
@@ -30,18 +30,18 @@
     "If you decide that the defendant aided and abetted one of these crimes and that ______ <insert nontarget offense> was a natural and probable consequence of that crime, the defendant is guilty of ______ <insert nontarget offense>. You do not need to agree about which of these crimes the defendant aided and abetted.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

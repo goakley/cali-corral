@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "602",
   "title": "Attempted Murder: Peace Officer, Firefighter, Custodial Officer, or Custody Assistant (Pen. Code, §§ 21a, 664(e))",
   "source": {
@@ -37,25 +37,25 @@
     "[A custodial officer is not lawfully performing his or her duties if he or she is using unreasonable or excessive force in his or her duties. Instruction 2671 explains when force is unreasonable or excessive.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
+    -0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

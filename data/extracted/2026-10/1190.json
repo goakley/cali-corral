@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1190",
   "title": "Other Evidence Not Required to Support Testimony in Sex Offense Case",
   "source": {
@@ -19,7 +19,7 @@
     "Conviction of a sexual assault crime may be based on the testimony of a complaining witness alone."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

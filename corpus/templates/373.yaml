@@ -23,7 +23,7 @@ questions:
   - id: this_instruction_does_not
     type: boolean
     prompt: "Include “This instruction does not apply to the testimony of ___.”?"
-  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+  - { id: crime_plural, type: boolean, prompt: "Include the “s” in “crime[s]”?" }
 body:
   - - "The evidence shows that "
     - { choice: another_person_other_persons, options: [ [ "another person" ], [ "other persons" ] ] }

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3117",
   "title": "Armed With Firearm: Knowledge That Coparticipant Armed (Pen. Code, § 12022(d))",
   "source": {
@@ -27,27 +27,27 @@
     "[A firearm does not need to be in working order if it was designed to shoot and appears capable of shooting.] [A firearm does not need to be loaded.]",
     "A principal is *armed* with a firearm when that person:",
     "1. Carries a firearm [or has a firearm available] for use in either offense or defense in connection with the crime[s] charged in Count[s] ______ [or the lesser crime[s] of ______ <insert name[s] of alleged lesser offense[s]>];",
-    "1. AND",
+    "AND",
     "2. Knows that he or she is carrying the firearm [or has it available].",
     "<If there is an issue in the case over whether the principal was armed with the firearm “in the commission of” the offense, see Bench Notes.>",
     "The People have the burden of proving each allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,
     0.0,
     19.0,
+    37.0,
     19.0,
-    19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

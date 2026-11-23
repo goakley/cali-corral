@@ -1,0 +1,45 @@
+# CALCRIM No. 420. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "420"
+title: "Withdrawal From Conspiracy"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised December 2008"
+  body_sha256: b58fcd0e18a6c8425a7fbd117a351d0650b677ccdaeaf72e06abdde41f0b33b8
+review: "machine-checked"
+questions:
+  - id: failure_act_is_not
+    type: boolean
+    prompt: "Include “A failure to act is not sufficient alone to withdraw from a conspirac…”?"
+  - id: if_you_decide_that
+    type: boolean
+    prompt: "Include “If you decide that the defendant withdrew from a conspiracy after an…”?"
+  - id: before_overt_act_was
+    type: boolean
+    prompt: "Include “before an overt act was committed”?"
+  - id: if_people_have_not
+    type: boolean
+    prompt: "Include “If the People have not met this burden, you must also find the defend…”?"
+body:
+  - - "The defendant is not guilty of conspiracy to commit "
+    - { field: "text.target_offense", hint: "insert target offense" }
+    - " if "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " withdrew from the alleged conspiracy before any overt act was committed. To withdraw from a conspiracy, the defendant must truly and affirmatively reject the conspiracy and communicate that rejection, by word or by deed, to the other members of the conspiracy known to the defendant."
+  - - opt: [ "A failure to act is not sufficient alone to withdraw from a conspiracy." ]
+      if: failure_act_is_not
+  - - opt:
+        - "If you decide that the defendant withdrew from a conspiracy after an overt act was committed, the defendant is not guilty of any acts committed by remaining members of the conspiracy after "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " withdrew."
+      if: if_you_decide_that
+  - - "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw from the conspiracy "
+    - { opt: [ "before an overt act was committed" ], if: before_overt_act_was }
+    - ". If the People have not met this burden, you must find the defendant not guilty of conspiracy. "
+    - opt:
+        - "If the People have not met this burden, you must also find the defendant not guilty of the additional acts committed after "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " withdrew."
+      if: if_people_have_not

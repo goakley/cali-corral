@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "420",
   "title": "Withdrawal From Conspiracy",
   "source": {
@@ -22,10 +22,10 @@
     "The People have the burden of proving beyond a reasonable doubt that the defendant did not withdraw from the conspiracy [before an overt act was committed]. If the People have not met this burden, you must find the defendant not guilty of conspiracy. [If the People have not met this burden, you must also find the defendant not guilty of the additional acts committed after (he/she) withdrew.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

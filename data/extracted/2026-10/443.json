@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "443",
   "title": "Compelling Another to Commit Crime",
   "source": {
@@ -19,7 +19,7 @@
     "If the defendant forced another person to commit a crime by threatening, menacing, commanding, or coercing that person, then the defendant is guilty of the crime that the defendant forced the other person to commit."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

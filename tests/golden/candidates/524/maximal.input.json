@@ -1,0 +1,60 @@
+{
+  "answers": {
+    "as_charged_in_count": true,
+    "element_3": true,
+    "deadly_dangerous_weapon": [
+      "o1",
+      "o2"
+    ],
+    "intended_kill_peace": [
+      "o1",
+      "o2",
+      "o3"
+    ],
+    "great_bodily_injury_means": true,
+    "that_is_inherently_deadly": true,
+    "deadly_dangerous_weapon_is": true,
+    "object_is_inherently_deadly": true,
+    "firearm_is_any_device": true,
+    "deadly_weapon": [
+      "o1",
+      "o2"
+    ],
+    "someone_personally_uses_deadly": true,
+    "people_allege_that_defendant": true,
+    "person_who_is_employed": true,
+    "person_employed_by_is": true,
+    "a_or_an": "o2",
+    "duties_include": true,
+    "unlawfully_arresting_detaining": [
+      "o1",
+      "o2"
+    ],
+    "when_arrest_detention": [
+      "o1",
+      "o2"
+    ],
+    "peace_officer_is_not": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "officer": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "all_factors_from_element": "example all factors from element",
+    "description_facts_necessary_make": "example description facts necessary make",
+    "job_duties": "example job duties",
+    "title_peace_officer": "example title peace officer"
+  }
+}

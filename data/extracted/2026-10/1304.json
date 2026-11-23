@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1304",
   "title": "Cross Burning and Religious Symbol Desecration (Pen. Code, § 11411(c))",
   "source": {
@@ -34,8 +34,8 @@
     "[A person acts with *reckless disregard* when (1) he or she does an act that presents a substantial and unjustifiable risk of terrorizing the owner or occupant, but (2) he or she is unaware of the risk because he or she is voluntarily intoxicated. Intoxication is voluntary if the defendant willingly used any intoxicating drink, drug, or other substance knowing that it could produce an intoxicating effect.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     16.0,
     19.0,
     19.0,
@@ -45,9 +45,9 @@
     19.0,
     19.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0
   ],

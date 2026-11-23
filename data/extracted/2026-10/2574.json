@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2574",
   "title": "Sale or Transportation of Destructive Device (Pen. Code, § 18730)",
   "source": {
@@ -33,21 +33,21 @@
     "[The defendant did not unlawfully (sell/transport) a destructive device if (he/she) was legally authorized to do so. The People have the burden of proving beyond a reasonable doubt that the defendant was not legally authorized to (sell/transport) a destructive device. If the People have not met this burden, you must find the defendant not guilty of this crime.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

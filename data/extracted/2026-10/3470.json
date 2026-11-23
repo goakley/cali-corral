@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3470",
   "title": "Right to Self-Defense or Defense of Another (Non-Homicide)",
   "source": {
@@ -35,23 +35,23 @@
     "The People have the burden of proving beyond a reasonable doubt that at least one of the three elements of (self-defense/[or] defense of another) listed above is not met in this case. If the People have not met this burden, you must find the defendant not guilty of ______ <insert crime(s) charged>."
   ],
   "body_indents": [
-    0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

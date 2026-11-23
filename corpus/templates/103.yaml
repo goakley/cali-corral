@@ -13,7 +13,7 @@ questions:
   - id: unless_i_specifically_tell
     type: boolean
     prompt: "Include “unless I specifically tell you otherwise”?"
-  - { id: charge_plural, type: boolean, prompt: "More than one charge?" }
+  - { id: charge_plural, type: boolean, prompt: "Include the “s” in “charge[s]”?" }
 body:
   - - "I will now explain the presumption of innocence and the People’s burden of proof. The defendant"
     - { opt: [ s ], if: "@multiple_defendants" }

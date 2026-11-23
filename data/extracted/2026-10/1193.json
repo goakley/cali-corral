@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1193",
   "title": "Expert Testimony on Child Sexual Abuse Victims",
   "source": {
@@ -19,7 +19,7 @@
     "You have heard testimony from ______ <insert name of expert> offered for the purposes of explaining the range of behaviors of child sexual abuse victims, possible misconceptions about those behaviors, and that those behaviors are not necessarily inconsistent with having been abused. You may consider this testimony only for these purposes. ______’s <insert name of expert> testimony about the behaviors of child sexual abuse victims is not evidence that the defendant committed any of the crimes charged against (him/her) [or any conduct or crime[s] with which (he/she) was not charged]."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

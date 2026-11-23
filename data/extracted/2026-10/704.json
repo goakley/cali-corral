@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "704",
   "title": "Special Circumstances: Circumstantial Evidence—Sufficiency",
   "source": {
@@ -20,8 +20,8 @@
     "Also, before you may rely on circumstantial evidence to find that a special circumstance allegation is true, you must be convinced that the only reasonable conclusion supported by the circumstantial evidence is that the special circumstance allegation is true. If you can draw two or more reasonable conclusions from the circumstantial evidence, and one of those reasonable conclusions supports a finding that the special circumstance allegation is true and another reasonable conclusion supports a finding that it is not true, you must conclude that the allegation was not proved by the circumstantial evidence. However, when considering circumstantial evidence, you must accept only reasonable conclusions and reject any that are unreasonable."
   ],
   "body_indents": [
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

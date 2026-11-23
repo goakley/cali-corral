@@ -15,7 +15,7 @@ questions:
     type: choice
     options: [ { id: o1, label: that }, { id: o2, label: those } ]
     prompt: "Choose one"
-  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+  - { id: statement_plural, type: boolean, prompt: "Include the “s” in “statement[s]”?" }
 body:
   - - "You have heard evidence of "
     - { opt: [ a ], if: a }

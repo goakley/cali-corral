@@ -1,0 +1,70 @@
+# CALCRIM No. 500. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "500"
+title: "Homicide: General Principles"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: be2178cc9eecd9318b7f24845d3cba2a0410f430974a460d0f99f12cb055604c
+review: "machine-checked"
+questions:
+  - id: manslaughter_manslaughter
+    type: choice
+    options: [ { id: o1, label: "Manslaughter" }, { id: o2, label: manslaughter } ]
+    prompt: "Choose one"
+  - id: murder
+    type: multi
+    options: [ { id: o1, label: "Murder" }, { id: o2, label: "(Manslaughter/manslaughter)" } ]
+    prompt: "Which apply? (one or more)"
+  - id: is_are
+    type: choice
+    options: [ { id: o1, label: is }, { id: o2, label: are } ]
+    prompt: "Choose one"
+  - { id: a, type: boolean, prompt: "Include “a”?" }
+  - id: murder_2
+    type: multi
+    options: [ { id: o1, label: murder }, { id: o2, label: manslaughter } ]
+    prompt: "Which apply? (one or more)"
+  - id: manslaughter_is_lesser_offense
+    type: boolean
+    prompt: "Include “Manslaughter is a lesser offense to murder.”?"
+  - id: homicide_can_be_lawful
+    type: boolean
+    prompt: "Include “A homicide can be lawful or unlawful. If a person kills with a legall…”?"
+  - { id: also, type: boolean, prompt: "Include “also”?" }
+  - id: i_will_also_instruct
+    type: boolean
+    prompt: "Include “I will [also] instruct you on the different types of (murder/[and] ma…”?"
+  - { id: type_plural, type: boolean, prompt: "Include the “s” in “type[s]”?" }
+body:
+  - - "Homicide is the killing of one human being by another. "
+    - any: murder
+      options:
+        - [ "Murder" ]
+        - - { sep: and }
+          - " "
+          - { choice: manslaughter_manslaughter, options: [ [ "Manslaughter" ], [ manslaughter ] ] }
+    - " "
+    - { choice: is_are, options: [ [ is ], [ are ] ] }
+    - " "
+    - { opt: [ a ], if: a }
+    - " type"
+    - { opt: [ s ], if: type_plural }
+    - " of homicide. The defendant is charged with "
+    - { any: murder_2, options: [ [ murder ], [ { sep: and }, " manslaughter" ] ] }
+    - ". "
+    - opt: [ "Manslaughter is a lesser offense to murder." ]
+      if: manslaughter_is_lesser_offense
+  - - opt:
+        - "A homicide can be lawful or unlawful. If a person kills with a legally valid excuse or justification, the killing is lawful and he or she has not committed a crime. If there is no legally valid excuse or justification, the killing is unlawful and, depending on the circumstances, the person is guilty of either murder or manslaughter. You must decide whether the killing in this case was unlawful and, if so, what specific crime was committed. I will now instruct you in more detail on what is a legally permissible excuse or justification for homicide."
+      if: homicide_can_be_lawful
+    - " "
+    - opt:
+        - "I will "
+        - { opt: [ also ], if: also }
+        - " instruct you on the different types of "
+        - { any: murder_2, options: [ [ murder ], [ { sep: and }, " manslaughter" ] ] }
+        - "."
+      if: i_will_also_instruct

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2364",
   "title": "Felony Cannabis Penalty Allegations (Health & Saf. Code, § 11360(a)(3))",
   "source": {
@@ -40,9 +40,9 @@
     "The People have the burden of proving an allegation beyond a reasonable doubt. If the People have not met that burden as to an allegation, you must find that allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     3.0,
     16.0,
     3.0,
@@ -52,16 +52,16 @@
     3.0,
     16.0,
     3.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1241",
   "title": "False Imprisonment: Hostage (Pen. Code, §§ 210.5, 236)",
   "source": {
@@ -28,16 +28,16 @@
     "[False imprisonment does not require that the person restrained be confined in jail or prison.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "355",
   "title": "Defendant’s Right Not to Testify",
   "source": {
@@ -19,7 +19,7 @@
     "A defendant has an absolute constitutional right not to testify. He or she may rely on the state of the evidence and argue that the People have failed to prove the charges beyond a reasonable doubt. Do not consider, for any reason at all, the fact that the defendant did not testify. Do not discuss that fact during your deliberations or let it influence your decision in any way."
   ],
   "body_indents": [
-    0.0
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

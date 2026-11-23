@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1124",
   "title": "Contacting Minor With Intent to Commit Certain Felonies (Pen. Code, § 288.3(a))",
   "source": {
@@ -22,26 +22,26 @@
     "2. When the defendant did so, (he/she) intended to commit ______ <insert enumerated offense from statute> involving that minor;",
     "AND",
     "3. [The defendant knew or reasonably should have known that the person was a minor(;/.)]",
-    "3. [OR]",
-    "3. [The defendant believed that the person was a minor.]",
+    "[OR]",
+    "[The defendant believed that the person was a minor.]",
     "A *minor* is a person under the age of 18.",
     "[Under the law, a person becomes one year older as soon as the first minute of his or her birthday has begun.]",
     "*Contacting or communicating* with a minor includes direct and indirect contact or communication. [That contact or communication may take place personally or by using (an agent or agency/[or] any print medium/[or] any postal service/[or] a common carrier/[or] communication common carrier/[or] any electronic communications system/[or] any telecommunications/[or] wire/[or] computer/[or] radio communications [device or system]).]",
     "To decide whether the defendant intended to commit ______ <specify sex offense[s] listed in Pen. Code, § 288.3(a)>, please refer to the separate instructions that I (will give/have given) you on (that/those) crime[s]."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    19.0,
-    19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    37.0,
+    37.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "2110",
   "title": "Driving Under the Influence (Veh. Code, § 23152(a), (f), (g))",
   "source": {
@@ -31,19 +31,19 @@
     "[If the defendant was under the influence of (an alcoholic beverage/[and/or] a drug), then it is not a defense that something else also impaired (his/her) ability to drive.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

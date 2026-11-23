@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1750",
   "title": "Receiving Stolen Property (Pen. Code, § 496(a))",
   "source": {
@@ -30,16 +30,16 @@
     "[If you find the defendant guilty of receiving stolen property, you must then decide whether the value of the property received was more than $950. If you have a reasonable doubt whether the property received has a value of more than $950, you must find this allegation has not been proved.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
     16.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0
   ],

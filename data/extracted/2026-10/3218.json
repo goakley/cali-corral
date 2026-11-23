@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3218",
   "title": "Value of Stolen Property Sold, Exchanged, or Returned (Pen. Code, § 12022.10)",
   "source": {
@@ -19,11 +19,11 @@
     "If you find the defendant guilty of the crime[s] charged in Count[s] ______[,] [or of attempting to commit (that/those) crime[s]] [or the lesser crimes[s] of ______ <insert lesser offense[s]>], you must then decide whether the People have proved the additional allegation that the defendant (sold[,]/[or] exchanged[,]/[or] returned) property for value that had been obtained through [an] act[s] of (shoplifting[,]/[or] theft[,]/[or] burglary) from a retail business and the value of that property was more than $______ <insert amount alleged>.",
     "To prove this allegation, the People must prove that:",
     "1. In the commission [or attempted commission] of the crime[s], the defendant",
-    "1. <defendant acted alone>",
-    "1. [((sold[,]/[or] exchanged[,]/[or] returned) property/[or] attempted to (sell[,]/[or] exchange[,]/[or] return) property) for value;]",
+    "<defendant acted alone>",
+    "[((sold[,]/[or] exchanged[,]/[or] returned) property/[or] attempted to (sell[,]/[or] exchange[,]/[or] return) property) for value;]",
     "[OR]",
-    "1. <defendant acted in concert>",
-    "1. [acted together with another person who (sold[,]/[or] exchanged[,]/[or] returned) property for value [or] [who attempted to (sell[,]/[or] exchange[,]/[or] return property] for value;]",
+    "<defendant acted in concert>",
+    "[acted together with another person who (sold[,]/[or] exchanged[,]/[or] returned) property for value [or] [who attempted to (sell[,]/[or] exchange[,]/[or] return property] for value;]",
     "2. This property had been obtained through [an] act[s] of (shoplifting[,]/[or] theft[,]/[or] burglary) from a retail business;",
     "3. At the time of the [attempted] (sale[,]/[or] exchange[,]/[or] return) of the property for value, the defendant knew that the property had been obtained though [an] act[s] of (shoplifting[,]/[or] theft[,]/[or] burglary) from a retail business;",
     "AND",
@@ -34,22 +34,22 @@
     "The People have the burden of proving this allegation beyond a reasonable doubt. If the People have not met this burden, you must find that the allegation has not been proved."
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
+    37.0,
+    37.0,
+    16.0,
+    37.0,
+    37.0,
     19.0,
     19.0,
     16.0,
     19.0,
-    19.0,
-    19.0,
-    19.0,
-    16.0,
-    19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

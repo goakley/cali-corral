@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1532",
   "title": "Unlawfully Causing a Fire (Pen. Code, § 452)",
   "source": {
@@ -33,16 +33,16 @@
     "[Arson and unlawfully causing a fire require different mental states. For arson, a person must act willfully and maliciously. For unlawfully causing a fire, a person must act recklessly.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     0.0,
     0.0,
     0.0,

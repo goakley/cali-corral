@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "731",
   "title": "Special Circumstances: Murder in Commission of Felony—Kidnapping With Intent to Kill After March 8, 2000 (Pen. Code, § 190.2(a)(17))",
   "source": {
@@ -32,8 +32,8 @@
     "[If all the listed elements are proved, you may find this special circumstance true even if the defendant intended solely to commit murder and the commission of kidnapping was merely part of or incidental to the commission of that murder.]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     19.0,
     19.0,
     16.0,
@@ -43,9 +43,9 @@
     1.7,
     0.0,
     0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

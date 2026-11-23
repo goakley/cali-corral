@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "3450",
   "title": "Insanity: Determination, Effect of Verdict (Pen. Code, §§ 25, 29.8)",
   "source": {
@@ -32,20 +32,20 @@
     "If, after considering all the evidence, all twelve of you conclude the defendant has proved that it is more likely than not that (he/she) was legally insane when (he/she) committed the crime[s], you must return a verdict of not guilty by reason of insanity."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
     16.0,
     19.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

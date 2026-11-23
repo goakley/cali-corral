@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "1701",
   "title": "Burglary: Degrees (Pen. Code, § 460)",
   "source": {
@@ -40,28 +40,28 @@
     "The People have the burden of proving beyond a reasonable doubt that the burglary was first degree burglary. If the People have not met this burden, you must find the defendant not guilty of first degree burglary."
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     14.0,
     14.0,
     14.0,
     16.0,
     14.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
     14.0,
     14.0,
     14.0,
     16.0,
     14.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

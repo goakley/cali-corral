@@ -1,6 +1,6 @@
 {
   "record_version": 1,
-  "extractor_version": "0.1.0",
+  "extractor_version": "0.2.0",
   "number": "253",
   "title": "Union of Act and Intent: Criminal Negligence",
   "source": {
@@ -20,20 +20,20 @@
     "[(Criminal/Gross/Ordinary) negligence is defined in the instructions on that crime.]",
     "[(*Criminal*/*Gross*) *negligence* involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with (criminal/gross) negligence when:",
     "1. He or she acts in a reckless way that creates a high risk of death or great bodily injury;",
-    "1. AND",
+    "AND",
     "2. A reasonable person would have known that acting in that way would create such a risk.",
     "In other words, a person acts with (criminal/gross) negligence when the way he or she acts is so different from the way an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act.]",
     "[*Ordinary negligence* is the failure to use reasonable care to prevent reasonably foreseeable harm to oneself or someone else. A person is negligent if he or she (does something that a reasonably careful person would not do in the same situation/[or] fails to do something that a reasonably careful person would do in the same situation).]"
   ],
   "body_indents": [
-    0.0,
-    0.0,
-    0.0,
+    -0.0,
+    -0.0,
+    -0.0,
     19.0,
+    37.0,
     19.0,
-    19.0,
-    0.0,
-    0.0
+    -0.0,
+    -0.0
   ],
   "bench_notes": {
     "bench_notes": [

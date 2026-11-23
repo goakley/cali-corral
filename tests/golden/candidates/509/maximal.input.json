@@ -1,0 +1,39 @@
+{
+  "answers": {
+    "murder": [
+      "o1",
+      "o2",
+      "o3",
+      "o4"
+    ],
+    "killed_attempted_kill": "o2",
+    "a_or_an": "o2",
+    "attempted": true,
+    "suppressing_riot_keeping_preserving": "o2",
+    "suppress_riot_keep_preserve": "o2",
+    "riot_occurs_when_two": true,
+    "disturbance_public_peace_may": true,
+    "murder_2": [
+      "o1",
+      "o2"
+    ]
+  },
+  "people": {
+    "decedent": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "defendant": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_detention_facility": "example name detention facility"
+  }
+}
