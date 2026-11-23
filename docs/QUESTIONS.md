@@ -6,7 +6,9 @@ Questions raised while working. Each says what was chosen in the meantime (the m
 
 - **Q5. Two rendering refinements made during drafting need attorney confirmation** (2026-11-22). Both keep wording unchanged and only affect punctuation or a conjunction around text the user left out:
   1. *AND only where printed* (spec rendering rule 3): if an optional last element and its `[AND]` are dropped, no AND is added before the new last element.
-  2. *Commas around omitted text* (rule 10): "of battery, [or to find the allegation true], that person" with the bracket left out reads "of battery, that person", not "of battery,, that person". This happens only when omitted text sat between the two commas. Needed by 28 instructions.
+  2. *Commas around omitted text* (rule 10): **approved by the attorney, 2026-11-22.**
+
+  For part 1, no current instruction shows the difference in a realistic case. A check of every drafted template found only drafting artifacts (2041's stray "2." label, 2544) and one answer combination that can't arise in practice: 3160 (Great Bodily Injury, group assault) with *neither* alternative 3A nor 3B given, where the old rule would put AND before element 2. The refinement is a safeguard for future releases.
 
   *Meanwhile:* both are implemented, and the templates that rely on them are labeled machine-checked like all drafts.
 
