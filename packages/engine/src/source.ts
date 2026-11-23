@@ -94,6 +94,7 @@ function elementItem(it: ElementItem): string[] {
 
 function element(e: Element): string[] {
   const line = `${e.n}. ${inlines(e.text)}${e.end}`;
+  if (e.andOutside && e.and !== undefined) return [e.and, ...bracket([line], e)];
   const paras = e.and !== undefined ? [e.and, line] : [line];
   return e.if !== undefined ? bracket(paras, e) : paras;
 }

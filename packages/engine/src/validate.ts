@@ -247,6 +247,8 @@ export function semanticIssues(t: Template): ValidationIssue[] {
           } else if (isElement(it)) {
             if (it.if !== undefined) checkCondition(it.if, `${ep}/if`);
             checkUnbalanced(it, ep);
+            if (it.andOutside && (it.if === undefined || it.and === undefined))
+              add(ep, "andOutside needs an optional element with a conjunction");
             if (it.if === undefined && (it.unclosed || it.unopened))
               add(ep, "only an optional (bracketed) element can have unbalanced brackets");
             walkInlines(it.text, `${ep}/text`, false);
@@ -269,7 +271,7 @@ export function semanticIssues(t: Template): ValidationIssue[] {
             it.options.forEach((o, k) => checkUnbalanced(o, `${ep}/options/${k}`));
             it.options.forEach((o, k) =>
               o.elements.forEach((e, m) => {
-                if (e.if !== undefined || e.and !== undefined) {
+                if (e.if !== undefined || e.and !== undefined || e.andOutside) {
                   add(`${ep}/options/${k}/elements/${m}`, "elements in a group can't have if/and");
                 }
                 walkInlines(e.text, `${ep}/options/${k}/elements/${m}/text`, false);

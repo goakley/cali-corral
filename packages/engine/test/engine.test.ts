@@ -481,3 +481,33 @@ describe("related links", () => {
     ]);
   });
 });
+
+describe("conjunction printed outside an optional element", () => {
+  it("prints [AND] on its own line before the element's brackets and renders like [AND]", () => {
+    const t = tpl(
+      [
+        {
+          elements: [
+            { n: "1", text: "One", end: ";" },
+            { n: "2", text: "Two", end: ";" },
+            { n: "3", text: "Three", end: ".", if: "c", and: "[AND]", andOutside: true },
+          ],
+        },
+      ],
+      [bool("c")],
+    );
+    expect(validateTemplate(t)).toEqual([]);
+    expect(renderSource(t)).toEqual(["1. One;", "2. Two;", "[AND]", "[3. Three.]"]);
+    expect(jury(t, { answers: { c: true } })).toBe("1. One;\n\n2. Two;\n\nAND\n\n3. Three.");
+    expect(jury(t, { answers: { c: false } })).toBe("1. One;\n\n2. Two.");
+  });
+
+  it("rejects andOutside on a required element", () => {
+    const t = tpl([
+      { elements: [{ n: "1", text: "One", end: ".", and: "AND", andOutside: true }] },
+    ]);
+    expect(validateTemplate(t).map((i) => i.message)).toContain(
+      "andOutside needs an optional element with a conjunction",
+    );
+  });
+});

@@ -241,7 +241,7 @@ The extractor proposes these links. It parses each LESSER INCLUDED OFFENSES sect
 
 **Blocks:** paragraphs; bullets (dropped in jury mode when empty); standalone notes; optional blocks whose brackets span several paragraphs; and element lists.
 
-**Element lists.** Elements carry their printed label (`1`, `1A`, `(4/5)`, `a`), printed end punctuation (`;`, `.`, `(;/.)`, `:` or none) and printed conjunction (`AND`, `[AND]`, `OR`, `[OR]`, including `[AND` printed inside an optional element's own brackets). The engine computes jury numbering, end punctuation and conjunction placement. Lists can also be:
+**Element lists.** Elements carry their printed label (`1`, `1A`, `(4/5)`, `a`), printed end punctuation (`;`, `.`, `(;/.)`, `:` or none) and printed conjunction (`AND`, `[AND]`, `OR`, `[OR]`, including `[AND` printed inside an optional element's own brackets, and `[AND]` printed as its own line before an optional element's brackets). The engine computes jury numbering, end punctuation and conjunction placement. Lists can also be:
 
 - **alternative element groups** (labeled alternatives such as 1A / [OR] / 1Bi–1Bii), one or more of which is selected
 - **lettered sub-lists** (`style: alpha`)
@@ -305,7 +305,7 @@ Some official markup doesn't fully determine the jury text. The engine resolves 
 
 1. **Series connectors.** `[,]`, `[or]` and `[and]` are punctuation for whichever items are kept, not tied to the item they are printed beside (`[and]` is often printed only before the last item). With comma connectors, the conjunction goes before the last selected item, with commas after each non-last item when three or more are selected. Without them, the conjunction repeats ("A or B or C").
 2. **Capitalization.** The first letter of every paragraph and element is capitalized, so a lowercase alternative chosen first reads correctly.
-3. **Element lists.** Kept elements are numbered 1…n. Printed `;`, `.` and `(;/.)` ends become `;` on every element but the last and `.` on the last. The list's conjunction (AND, OR) goes before the last element when there are at least two.
+3. **Element lists.** Kept elements are numbered 1…n. Printed `;`, `.` and `(;/.)` ends become `;` on every element but the last and `.` on the last. The list's conjunction (AND, OR) goes before the last element when there are at least two, but only if CALCRIM prints a conjunction before that element (`AND`, `[AND]`, or `[AND` inside its brackets). If an optional last element and its `[AND]` are dropped, no AND is added before the new last element (refinement, 2026-11-22, for closeness to the printed text; the attorney-approved rule had no such limit).
 4. **AND inside an optional element** (`[AND` … `4. …]`) is used only when that element is last, like `[AND]`.
 5. **Alternative element groups.** With one alternative selected, its elements are numbered as ordinary consecutive elements (with only 1B chosen, 1Bi and 1Bii become elements 1 and 2). With several selected, each keeps its printed label re-based on the group's number (1A, 1Bi), and the alternatives are joined by the group's conjunction.
 6. **Computed punctuation with nothing selected.** `[or socioeconomic status] (./,)` renders no punctuation when its item is omitted.
@@ -327,7 +327,7 @@ Some official markup doesn't fully determine the jury text. The engine resolves 
   - element lists ending without a period
   - they/them agreement errors ("they was")
   - nondeterminism
-- **Markup consistency (property):** every computed `;` or `.` and every AND placement must be one the printed markup allows. `;` is never last and `.` is always last. An unbracketed AND on a required element appears only when that element is last. Every last element has a printed conjunction before it.
+- **Markup consistency (property):** every computed `;` or `.` and every AND placement must be one the printed markup allows. `;` is never last and `.` is always last. An unbracketed AND on a required element appears only when that element is last. An AND appears only before an element that has one printed.
 - **Golden files:** a few hand-checked renders per instruction (reviewed by an attorney) are kept as regression tests. Candidates are generated for review and are never promoted automatically.
 - **Errata** are checked like everything else. Source mode must still round-trip, jury text must be unchanged by an erratum, and every erratum must name its evidence and the maintainer who confirmed it.
 - **Review tiers.** There are three levels:

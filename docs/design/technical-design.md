@@ -222,7 +222,7 @@ Field bindings: `count`, `text.<id>` (free text), `<role>.name|title|agency`.
 ```
 
 - `n` is the printed label (`1`, `1A`, `(4/5)`, `a`); jury numbering is computed.
-- `end` is the printed end punctuation (`;`, `.`, `(;/.)`, `:` or none); `and` the printed conjunction paragraph (`AND`, `[AND]`, `OR`, `[OR]`). For an optional element the conjunction prints inside its brackets.
+- `end` is the printed end punctuation (`;`, `.`, `(;/.)`, `:` or none); `and` the printed conjunction paragraph (`AND`, `[AND]`, `OR`, `[OR]`). For an optional element the conjunction prints inside its brackets (`[AND` … `3. …]`), or with `andOutside: true` as its own line before them (`[AND]` then `[3. …]`).
 - `conj` sets the list's conjunction (default `AND`); `style: alpha` letters a sub-list; `plain: true` marks a numbered list of complete sentences (verdict-form directions) whose printed punctuation is kept and which gets no conjunction.
 
 ### 4.7 Errata and links to other instructions
@@ -276,7 +276,7 @@ A pronoun node renders the bound person's pronoun: `he` → first form, `she` �
 
 - Included positions are the elements whose `if` holds plus groups with at least one selected alternative. They are numbered 1…n.
 - An end of `;`, `.` or `(;/.)` becomes `;` on every position but the last and `.` on the last; other printed ends are kept.
-- The conjunction paragraph goes before the last position when there are at least two.
+- The conjunction paragraph goes before the last position when there are at least two and that element has a printed conjunction (`and`). None is invented where CALCRIM prints none.
 - Groups: with one alternative selected, its elements are numbered as ordinary consecutive elements; with several, each element keeps its printed label re-based on the group's number (`1A`, `1Bi`) and alternatives are separated by the group's conjunction. Groups can't be last (validated).
 - Series connectors in `any` nodes (§12, item 1): the conjunction precedes the last selected item when the node has comma connectors (commas after each non-last item when three or more are selected) and precedes every non-first item otherwise.
 
@@ -288,7 +288,7 @@ Spaces left by omitted content are collapsed; no space is kept before `. , ; : )
 
 1. **Validation**: JSON Schema, then semantics: unique ids; every reference resolves; condition syntax and types (`q=opt` on choice questions, etc.); option counts match; connectors only inside `any`; derivable they-forms; declared roles; groups never last; unused questions rejected.
 2. **Round-trip** (`test/roundtrip.test.ts`): `renderSource(t)` equals the extracted body exactly; title, source file, revision line and `body_sha256` match the record.
-3. **Property tests** (`test/property.test.ts`): 500 random answer sets per template (fixed seed, fictional data, random he/she/they), each checked for leftover `[ ] < >`, slash alternatives or choices, blanks, `*`; doubled spaces or punctuation; space before punctuation; letter directly before `.5`-style numbers; every block starting with a capital; every element list ending with `.` (or `:` introducing a sub-list); no unanswered questions or missing fields; they/them agreement; determinism. Plus **markup consistency**: every computed `;`/`.` and AND placement must be one the printed markup allows (`;` never last, `.` always last, an unbracketed `AND` on a required element only when it is last, every last element having a printed conjunction).
+3. **Property tests** (`test/property.test.ts`): 500 random answer sets per template (fixed seed, fictional data, random he/she/they), each checked for leftover `[ ] < >`, slash alternatives or choices, blanks, `*`; doubled spaces or punctuation; space before punctuation; letter directly before `.5`-style numbers; every block starting with a capital; every element list ending with `.` (or `:` introducing a sub-list); no unanswered questions or missing fields; they/them agreement; determinism. Plus **markup consistency**: every computed `;`/`.` and AND placement must be one the printed markup allows (`;` never last, `.` always last, an unbracketed `AND` on a required element only when it is last, a conjunction only before an element that prints one).
 4. **Goldens** (`test/golden.test.ts`): approved renders in `tests/golden/<n>/<case>.{input.json,txt}` must match exactly. `pnpm --filter @cali-corral/engine candidates` writes minimal, maximal and mixed candidates to `tests/golden/candidates/` with a `REVIEW.md` for attorneys (including review notes such as paragraphs lacking closing punctuation). Candidates are never promoted automatically; the test also checks candidates are current.
 5. **Extraction unit tests** (pytest) cover normalization and segmentation rules.
 

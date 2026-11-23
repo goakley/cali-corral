@@ -255,6 +255,12 @@ export interface Element extends Unbalanced {
    * the element's brackets.
    */
   and?: string;
+  /**
+   * For an optional element: the conjunction is printed as its own bracketed
+   * line before the element's brackets (`[AND]` then `[3. …]`) rather than
+   * inside them (`[AND` … `3. …]`). Rendering is the same.
+   */
+  andOutside?: true;
   /** Element is optional; source wraps conjunction + element in brackets. */
   if?: Condition;
 }

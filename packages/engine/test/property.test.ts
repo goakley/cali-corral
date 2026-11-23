@@ -62,8 +62,8 @@ export function markupProblems(t: Template, input: RenderInput): string[] {
       }
       if (x.kind !== "element") return;
       const e = x.e;
-      const conjShown = last && pos.length >= 2;
-      if (conjShown && e.and === undefined) p.push(`element ${e.n}: needs AND but none is printed`);
+      // The engine shows a conjunction only where one is printed.
+      const conjShown = last && pos.length >= 2 && e.and !== undefined;
       // An AND printed inside an optional element's brackets ("[AND 4. ...]")
       // is used only when that element is last, like "[AND]"; only an
       // unbracketed AND on a required element forces it to be last.

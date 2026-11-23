@@ -268,7 +268,9 @@ function renderElements(
   positions.forEach((p, i) => {
     const last = i === positions.length - 1;
     if (p.kind === "element") {
-      if (!plain && last && positions.length >= 2)
+      // The conjunction goes before the last element only where CALCRIM prints
+      // one before it (AND, [AND], or AND inside the element's brackets).
+      if (!plain && last && positions.length >= 2 && p.e.and !== undefined)
         out.push({ kind: "conj", depth, runs: [{ text: conj }] });
       push(p.e, ++n, last);
       return;

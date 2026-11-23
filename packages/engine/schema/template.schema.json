@@ -578,6 +578,9 @@
         },
         "unopened": {
           "$ref": "#/$defs/id"
+        },
+        "andOutside": {
+          "const": true
         }
       }
     }
