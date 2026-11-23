@@ -24,7 +24,7 @@ Someone personally uses a firearm if he or she intentionally does any of the fol
 
 2. Hits someone with the weapon;
 
-AND
+OR
 
 3. Fires the weapon.
 

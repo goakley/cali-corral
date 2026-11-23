@@ -266,6 +266,12 @@ class Drafter {
     let usesSep = false;
     const opts = alts.map((a) => {
       const out: Inline[] = [];
+      // First and last positions, ignoring whitespace-only text ("infraction[,] /").
+      const blank = (x: Inline | undefined): boolean => typeof x === "string" && x.trim() === "";
+      let first = 0;
+      while (first < a.length - 1 && blank(a[first])) first++;
+      let lastK = a.length - 1;
+      while (lastK > 0 && blank(a[lastK])) lastK--;
       a.forEach((x, k) => {
         if (
           typeof x === "object" &&
@@ -274,7 +280,7 @@ class Drafter {
           typeof x.opt[0] === "string"
         ) {
           const sep = `[${x.opt[0]}]`;
-          if (SEP_RE.test(sep) && (k === 0 || k === a.length - 1)) {
+          if (SEP_RE.test(sep) && (k === first || k === lastK)) {
             this.dropQuestion(x.if);
             usesSep = true;
             out.push({ sep: x.opt[0] });
@@ -313,7 +319,7 @@ function labelStyle(n: string): "number" | "alpha" | "upper" {
   return /^[a-h]$/.test(n) ? "alpha" : /^[A-H]$/.test(n) ? "upper" : "number";
 }
 const END_RE = /(\(;\/\.\)|[;.:])$/;
-const CONJ = new Set(["AND", "[AND]", "OR", "[OR]"]);
+const CONJ = new Set(["AND", "[AND]", "OR", "[OR]", "BUT"]);
 const ALT_NOTE = /^<Alternative [^<>]*>$/;
 
 function bracketSpan(paras: string[], start: number): number {
@@ -519,6 +525,17 @@ function draft(rec: ExtractedRecord): Template {
           }
           throw new DraftError("elements", "optional group shape not recognized");
         }
+        if ((s === "[AND" || s === "[OR") && /^<[^<>]*>$/.test(paras[p + 1] ?? "")) {
+          // [AND / <note> / 3. …]
+          const next = paras[p + 2];
+          if (!next || !next.endsWith("]") || !EL_RE.test(next))
+            throw new DraftError("elements", "unclosed [AND");
+          const e = parseElement(next.slice(0, -1), d.q("boolean"), s.slice(1));
+          e.note = paras[p + 1]!.slice(1, -1);
+          list.push(e);
+          p += 3;
+          continue;
+        }
         if (s === "[AND" || s === "[OR") {
           const next = paras[p + 1];
           if (!next || !next.endsWith("]")) throw new DraftError("elements", "unclosed [AND");
@@ -528,10 +545,32 @@ function draft(rec: ExtractedRecord): Template {
         }
         if (CONJ.has(s) && ALT_NOTE.test(paras[p + 1] ?? "")) {
           const g = parseGroup(p + 1);
-          if (!g) throw new DraftError("elements", "group after conjunction not recognized");
-          g.group.and = s;
-          list.push(g.group);
-          p = g.next;
+          if (g) {
+            g.group.and = s;
+            list.push(g.group);
+            p = g.next;
+            continue;
+          }
+        }
+        // AND / <note> / element: the note sits between the conjunction and its element.
+        if (CONJ.has(s) && /^<[^<>]*>$/.test(paras[p + 1] ?? "")) {
+          const note = paras[p + 1]!.slice(1, -1);
+          const next = paras[p + 2];
+          let e: Element | undefined;
+          if (
+            next &&
+            next.startsWith("[") &&
+            next.endsWith("]") &&
+            bracketSpan(paras, p + 2) === p + 2
+          ) {
+            e = parseElement(next.slice(1, -1), d.q("boolean"), s);
+            e.andOutside = true;
+          } else if (next && EL_RE.test(next)) e = parseElement(next, undefined, s);
+          if (!e)
+            throw new DraftError("elements", "conjunction and note not followed by an element");
+          e.note = note;
+          list.push(e);
+          p += 3;
           continue;
         }
         if (CONJ.has(s)) {

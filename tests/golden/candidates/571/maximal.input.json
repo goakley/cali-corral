@@ -1,0 +1,48 @@
+{
+  "answers": {
+    "imperfect_self_defense": [
+      "o1",
+      "o2"
+    ],
+    "self_defense": [
+      "o1",
+      "o2"
+    ],
+    "he_she": [
+      "o1",
+      "o2",
+      "o3"
+    ],
+    "if_defendant_used_more": true,
+    "deadly": true,
+    "danger_is_imminent_if": true,
+    "imperfect_self_defense_does": true,
+    "others": true,
+    "if_you_find_that": true,
+    "if_you_find_that_2": true,
+    "if_you_find_that_3": true,
+    "great_bodily_injury_means": true
+  },
+  "people": {
+    "decedent_victim": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "defendant": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    },
+    "third_party": {
+      "name": "Riley Placeholder",
+      "title": "highway patrol officer",
+      "agency": "the Department of Fish and Wildlife",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

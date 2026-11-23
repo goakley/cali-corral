@@ -1,0 +1,73 @@
+{
+  "answers": {
+    "in_count": true,
+    "in_violation_penal_code": false,
+    "defendant_is_charged_in": true,
+    "vehicular_manslaughter_with_ordinary": false,
+    "alcoholic_beverage": [
+      "o1"
+    ],
+    "under_combined_influence_alcoholic": false,
+    "combined_influence_alcoholic_beverage": true,
+    "drove_under_influence_alcoholic": "o2",
+    "driving_that_vehicle_operating": "o1",
+    "a_or_an": "o2",
+    "misdemeanor": [
+      "o1",
+      "o3"
+    ],
+    "misdemeanor_s": [
+      "o2"
+    ],
+    "people_allege_that_defendant": true,
+    "also": false,
+    "people_also_allege_that": true,
+    "alcoholic_beverage_2": [
+      "o2"
+    ],
+    "drove_under_influence_alcoholic_2": "o5",
+    "difference_between_this_offense": false,
+    "on_other_hand": true,
+    "does_something_that": [
+      "o2"
+    ],
+    "person_facing_sudden_unexpected": true,
+    "act_causes_death_if": false,
+    "there_may_be_more": true,
+    "misdemeanor_s_2": [
+      "o2"
+    ],
+    "misdemeanors": [
+      "o1",
+      "o3"
+    ],
+    "misdemeanor_2": [
+      "o2"
+    ],
+    "people_allege_that_defendant_2": true,
+    "people_have_burden_proving": false,
+    "misdemeanor_plural": true,
+    "infraction_plural": false,
+    "instruction_plural": true,
+    "tell_plural": false,
+    "act_plural": true,
+    "crime_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "act_s_alleged": "example act s alleged",
+    "alleged_predicate_acts_when": "example alleged predicate acts when",
+    "f3": "example f3",
+    "f6": "example f6",
+    "lesser_offense_s": "example lesser offense s",
+    "misdemeanor_s_infraction_s": "example misdemeanor s infraction s"
+  }
+}

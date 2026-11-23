@@ -28,7 +28,7 @@ Someone personally uses a deadly weapon or firearm if he or she intentionally do
 
 2. Hits someone with the weapon;
 
-AND
+OR
 
 3. Fires the weapon.
 

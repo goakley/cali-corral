@@ -145,14 +145,10 @@ export function markupProblems(t: Template, input: RenderInput): string[] {
       });
       if (x.kind !== "element") return;
       const e = x.e;
-      // The engine shows a conjunction only where one is printed.
-      const conjShown = last && pos.length >= 2 && e.and !== undefined;
-      // An AND printed inside an optional element's brackets ("[AND 4. ...]")
-      // is used only when that element is last, like "[AND]"; only an
-      // unbracketed AND on a required element forces it to be last.
-      if (!conjShown && e.and === "AND" && e.if === undefined) {
-        p.push(`element ${e.n}: printed AND but it is not the last element`);
-      }
+      // A conjunction printed unbracketed before a required element is always
+      // shown; it must then not be the first element.
+      if (e.and !== undefined && e.if === undefined && !e.and.startsWith("[") && i === 0)
+        p.push(`element ${e.n}: printed ${e.and} but it is the first element`);
     });
   }
   return p;

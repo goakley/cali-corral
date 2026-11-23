@@ -100,6 +100,7 @@ Candidates are grouped by series under `review/`. Status: **approved** (all case
 | [420](review/400.md) | Withdrawal From Conspiracy | machine-checked |
 | [440](review/400.md) | Accessories (Pen. Code, § 32) | machine-checked |
 | [441](review/400.md) | Solicitation: Elements (Pen. Code, § 653f) | machine-checked |
+| [442](review/400.md) | Solicitation of a Minor (Pen. Code, § 653j) | machine-checked |
 | [443](review/400.md) | Compelling Another to Commit Crime | machine-checked |
 | [450](review/400.md) | Liability of Corporate Officers and Agents: Single Theory of Liability | machine-checked |
 | [451](review/400.md) | Liability of Corporate Officers and Agents: Two Theories of Liability | machine-checked |
@@ -107,6 +108,7 @@ Candidates are grouped by series under `review/`. Status: **approved** (all case
 | [500](review/500.md) | Homicide: General Principles | machine-checked |
 | [505](review/500.md) | Justifiable Homicide: Self-Defense or Defense of Another | machine-checked |
 | [506](review/500.md) | Justifiable Homicide: Defending Against Harm to Person Within Home or on Property | machine-checked |
+| [508](review/500.md) | Justifiable Homicide: Citizen Arrest (Non-Peace Officer) | machine-checked |
 | [509](review/500.md) | Justifiable Homicide: Non-Peace Officer Preserving the Peace | machine-checked |
 | [510](review/500.md) | Excusable Homicide: Accident | machine-checked |
 | [511](review/500.md) | Excusable Homicide: Accident in the Heat of Passion | machine-checked |
@@ -123,11 +125,13 @@ Candidates are grouped by series under `review/`. Status: **approved** (all case
 | [562](review/500.md) | Transferred Intent | machine-checked |
 | [563](review/500.md) | Conspiracy to Commit Murder (Pen. Code, § 182) | machine-checked |
 | [570](review/500.md) | Voluntary Manslaughter: Heat of Passion—Lesser Included Offense (Pen. Code, § 192(a)) | machine-checked |
+| [571](review/500.md) | Voluntary Manslaughter: Imperfect Self-Defense or Imperfect Defense of Another—Lesser Included Offense (Pen. Code, § 192) | machine-checked |
 | [572](review/500.md) | Voluntary Manslaughter: Murder Not Charged (Pen. Code, § 192(a)) | machine-checked |
 | [580](review/500.md) | Involuntary Manslaughter: Lesser Included Offense (Pen. Code, § 192(b)) | machine-checked |
 | [581](review/500.md) | Involuntary Manslaughter: Murder Not Charged (Pen. Code, § 192(b)) | machine-checked |
 | [582](review/500.md) | Involuntary Manslaughter: Failure to Perform Legal Duty—Murder Not Charged (Pen. Code, § 192(b)) | machine-checked |
 | [590](review/500.md) | Gross Vehicular Manslaughter While Intoxicated (Pen. Code, § 191.5(a)) | machine-checked |
+| [591](review/500.md) | Vehicular Manslaughter While Intoxicated—Ordinary Negligence (Pen. Code, § 191.5(b)) | machine-checked |
 | [592](review/500.md) | Gross Vehicular Manslaughter (Pen. Code, § 192(c)(1)) | machine-checked |
 | [593](review/500.md) | Misdemeanor Vehicular Manslaughter (Pen. Code, § 192(c)(2)) | machine-checked |
 | [594](review/500.md) | Vehicular Manslaughter: Collision for Financial Gain (Pen. Code, § 192(c)(3)) | machine-checked |

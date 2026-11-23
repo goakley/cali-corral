@@ -307,10 +307,14 @@ function renderElements(
       // A plain list keeps a printed conjunction between included items.
       if (plain && i > 0 && p.e.and !== undefined)
         out.push({ kind: "conj", depth, runs: [{ text: unbracket(p.e.and) }] });
-      // The conjunction goes before the last element only where CALCRIM prints
-      // one before it (AND, [AND], or AND inside the element's brackets).
-      if (!plain && last && positions.length >= 2 && p.e.and !== undefined)
-        out.push({ kind: "conj", depth, runs: [{ text: conj }] });
+      // A conjunction appears only where CALCRIM prints one: a bracketed one
+      // ([AND], or AND inside an optional element's brackets) before the last
+      // element; an unbracketed one before a required element, always, since
+      // it is literal text. It is shown as printed (AND, OR, BUT).
+      const pa = p.e.and;
+      const literal = pa !== undefined && p.e.if === undefined && !pa.startsWith("[");
+      if (!plain && i > 0 && pa !== undefined && (literal || (last && positions.length >= 2)))
+        out.push({ kind: "conj", depth, runs: [{ text: unbracket(pa) }] });
       push(p.e, ++n, last);
       return;
     }

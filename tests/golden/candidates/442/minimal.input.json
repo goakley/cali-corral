@@ -1,0 +1,26 @@
+{
+  "answers": {
+    "in_count": false,
+    "in_violation_penal_code": false,
+    "asked": [
+      "o1"
+    ],
+    "element_4": false,
+    "element_5": false,
+    "will_give_have_given": "o1",
+    "if_you_find_defendant": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "number_solicitations_alleged_by": "example number solicitations alleged by",
+    "target_offense": "example target offense"
+  }
+}

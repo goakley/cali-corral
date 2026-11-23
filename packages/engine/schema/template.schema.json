@@ -602,7 +602,7 @@
           "enum": [";", ".", "(;/.)", ":", ""]
         },
         "and": {
-          "enum": ["AND", "[AND]", "OR", "[OR]"]
+          "enum": ["AND", "[AND]", "OR", "[OR]", "BUT"]
         },
         "if": {
           "$ref": "#/$defs/condition"
@@ -615,6 +615,9 @@
         },
         "andOutside": {
           "const": true
+        },
+        "note": {
+          "type": "string"
         }
       }
     }

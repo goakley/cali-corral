@@ -1,0 +1,147 @@
+# CALCRIM No. 571. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "571"
+title: "Voluntary Manslaughter: Imperfect Self-Defense or Imperfect Defense of Another—Lesser Included Offense (Pen. Code, § 192)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2012, February 2015, September 2020, March 2022, September 2022, March 2024,* February 2025, October 2025, February 2026"
+  body_sha256: "87202a51651f415d63d4f49a40ed3863f7c2c6479b36bf57b7e93ef568359a08"
+review: "machine-checked"
+questions:
+  - id: imperfect_self_defense
+    type: multi
+    options:
+      - { id: o1, label: "imperfect self-defense" }
+      - { id: o2, label: "imperfect defense of another" }
+    prompt: "Which apply? (one or more)"
+  - id: self_defense
+    type: multi
+    options: [ { id: o1, label: "self-defense" }, { id: o2, label: "defense of another" } ]
+    prompt: "Which apply? (one or more)"
+  - id: he_she
+    type: multi
+    options:
+      - { id: o1, label: "he/she" }
+      - { id: o2, label: "someone else" }
+      - { id: o3, label: "___" }
+    prompt: "Which apply? (one or more)"
+  - id: if_defendant_used_more
+    type: boolean
+    prompt: "Include “If the defendant used more force than was reasonable to defend agains…”?"
+  - { id: deadly, type: boolean, prompt: "Include “deadly”?" }
+  - id: danger_is_imminent_if
+    type: boolean
+    prompt: "Include “Danger is imminent if, when the defendant used [deadly] force, the da…”?"
+  - id: imperfect_self_defense_does
+    type: boolean
+    prompt: "Include “Imperfect self-defense does not apply when the defendant, through (hi…”?"
+  - { id: others, type: boolean, prompt: "Include “or others”?" }
+  - id: if_you_find_that
+    type: boolean
+    prompt: "Include “If you find that ___ threatened or harmed the defendant [or others] i…”?"
+  - id: if_you_find_that_2
+    type: boolean
+    prompt: "Include “If you find that the defendant knew that ___ had threatened or harmed…”?"
+  - id: if_you_find_that_3
+    type: boolean
+    prompt: "Include “If you find that the defendant received a threat from someone else th…”?"
+  - id: great_bodily_injury_means
+    type: boolean
+    prompt: "Include “Great bodily injury means significant or substantial physical injury.…”?"
+body:
+  - - "A killing that would otherwise be murder is reduced to voluntary manslaughter if the defendant killed a person because "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " acted in "
+    - any: imperfect_self_defense
+      options: [ [ "imperfect self-defense" ], [ { sep: or }, " imperfect defense of another" ] ]
+    - "."
+  - - "If you conclude the defendant acted in complete "
+    - { any: self_defense, options: [ [ "self-defense" ], [ { sep: or }, " defense of another" ] ] }
+    - ", "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " action was lawful and you must find "
+    - { pronoun: defendant, forms: [ him, her ] }
+    - " not guilty of any crime. The difference between complete "
+    - { any: self_defense, options: [ [ "self-defense" ], [ { sep: or }, " defense of another" ] ] }
+    - " and "
+    - any: imperfect_self_defense
+      options: [ [ "imperfect self-defense" ], [ { sep: or }, " imperfect defense of another" ] ]
+    - " depends on whether the defendant’s belief in the need to use deadly force was reasonable."
+  - - "The defendant acted in "
+    - any: imperfect_self_defense
+      options: [ [ "imperfect self-defense" ], [ { sep: or }, " imperfect defense of another" ] ]
+    - " if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant actually believed that "
+          - any: he_she
+            options:
+              - [ { pronoun: defendant, forms: [ he, she ], bare: true } ]
+              - [ { sep: or }, " someone else" ]
+              - [ { field: "third_party.name", hint: "insert name of third party" } ]
+          - " "
+          - { agree: defendant, sg: was, pl: were, onlyIf: "!he_she~o2 & !he_she~o3" }
+          - " in imminent danger of being killed or suffering great bodily injury"
+        end: ";"
+      - n: "2"
+        text:
+          - "The defendant actually believed that the immediate use of deadly force was necessary to defend against the danger"
+        end: ";"
+        and: "AND"
+      - { n: "3", text: [ "At least one of those beliefs was unreasonable" ], end: ".", and: "BUT" }
+  - - opt:
+        - "If the defendant used more force than was reasonable to defend against the defendant’s perceived danger, the defendant did not act in "
+        - any: imperfect_self_defense
+          options: [ [ "imperfect self-defense" ], [ { sep: or }, " imperfect defense of another" ] ]
+        - "."
+      if: if_defendant_used_more
+  - - "Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be."
+  - - "In evaluating the defendant’s beliefs, consider all the circumstances as they were known and appeared to the defendant."
+  - { note: "The following definition may be given if requested." }
+  - - opt:
+        - "Danger is "
+        - { em: imminent }
+        - " if, when the defendant used "
+        - { opt: [ deadly ], if: deadly }
+        - " force, the danger actually existed or the defendant actually believed it existed. The danger must seem immediate and present, so that it must be instantly dealt with. It may not be merely prospective or in the near future."
+      if: danger_is_imminent_if
+  - - opt:
+        - "Imperfect self-defense does not apply when the defendant, through "
+        - { pronoun: defendant, forms: [ his, her ] }
+        - " own wrongful conduct, has created circumstances that justify "
+        - { pronoun: defendant, forms: [ his, her ] }
+        - " adversary’s use of force."
+      if: imperfect_self_defense_does
+  - - opt:
+        - "If you find that "
+        - { field: "decedent_victim.name", hint: "insert name of decedent/victim" }
+        - " threatened or harmed the defendant "
+        - { opt: [ "or others" ], if: others }
+        - " in the past, you may consider that information in evaluating the defendant’s beliefs."
+      if: if_you_find_that
+  - - opt:
+        - "If you find that the defendant knew that "
+        - { field: "decedent_victim.name", hint: "insert name of decedent/victim" }
+        - " had threatened or harmed others in the past, you may consider that information in evaluating the defendant’s beliefs."
+      if: if_you_find_that_2
+  - - opt:
+        - "If you find that the defendant received a threat from someone else that "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " associated with "
+        - { field: "decedent_victim.name", hint: "insert name of decedent/victim" }
+        - ", you may consider that threat in evaluating the defendant’s beliefs."
+      if: if_you_find_that_3
+  - - opt:
+        - { em: "Great bodily injury" }
+        - " means significant or substantial physical injury. It is an injury that is greater than moderate harm."
+      if: great_bodily_injury_means
+  - - "The People have the burden of proving beyond a reasonable doubt that the defendant was not acting in "
+    - any: imperfect_self_defense
+      options: [ [ "imperfect self-defense" ], [ { sep: or }, " imperfect defense of another" ] ]
+    - ". If the People have not met this burden, you must find the defendant not guilty of murder."
+people:
+  third_party: { label: "Third party", uses: [ name ] }
+  decedent_victim: { label: "Decedent/victim", uses: [ name ] }

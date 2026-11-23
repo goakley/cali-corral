@@ -259,6 +259,8 @@ export function semanticIssues(t: Template): ValidationIssue[] {
             checkUnbalanced(it, ep);
             if (it.andOutside && (it.if === undefined || it.and === undefined))
               add(ep, "andOutside needs an optional element with a conjunction");
+            if (it.note !== undefined && it.and === undefined)
+              add(ep, "an element's note follows its conjunction; use a separate note item");
             if (it.if === undefined && (it.unclosed || it.unopened))
               add(ep, "only an optional (bracketed) element can have unbalanced brackets");
             walkInlines(it.text, `${ep}/text`, false);

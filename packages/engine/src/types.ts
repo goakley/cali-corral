@@ -280,6 +280,11 @@ export interface Element extends Unbalanced {
    * inside them (`[AND` … `3. …]`). Rendering is the same.
    */
   andOutside?: true;
+  /**
+   * A drafter note printed after the conjunction line and before the element
+   * ("[AND]", "<Give element 5 when …>", "[5. …]"). Never rendered.
+   */
+  note?: string;
   /** Element is optional; source wraps conjunction + element in brackets. */
   if?: Condition;
 }

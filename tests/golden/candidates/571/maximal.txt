@@ -1,0 +1,39 @@
+Voluntary Manslaughter: Imperfect Self-Defense or Imperfect Defense of Another—Lesser Included Offense (Pen. Code, § 192)
+
+
+
+A killing that would otherwise be murder is reduced to voluntary manslaughter if the defendant killed a person because they acted in imperfect self-defense or imperfect defense of another.
+
+If you conclude the defendant acted in complete self-defense or defense of another, their action was lawful and you must find them not guilty of any crime. The difference between complete self-defense or defense of another and imperfect self-defense or imperfect defense of another depends on whether the defendant’s belief in the need to use deadly force was reasonable.
+
+The defendant acted in imperfect self-defense or imperfect defense of another if:
+
+1. The defendant actually believed that they or someone else or Riley Placeholder was in imminent danger of being killed or suffering great bodily injury;
+
+AND
+
+2. The defendant actually believed that the immediate use of deadly force was necessary to defend against the danger;
+
+BUT
+
+3. At least one of those beliefs was unreasonable.
+
+If the defendant used more force than was reasonable to defend against the defendant’s perceived danger, the defendant did not act in imperfect self-defense or imperfect defense of another.
+
+Belief in future harm is not sufficient, no matter how great or how likely the harm is believed to be.
+
+In evaluating the defendant’s beliefs, consider all the circumstances as they were known and appeared to the defendant.
+
+Danger is imminent if, when the defendant used deadly force, the danger actually existed or the defendant actually believed it existed. The danger must seem immediate and present, so that it must be instantly dealt with. It may not be merely prospective or in the near future.
+
+Imperfect self-defense does not apply when the defendant, through their own wrongful conduct, has created circumstances that justify their adversary’s use of force.
+
+If you find that Avery Example threatened or harmed the defendant or others in the past, you may consider that information in evaluating the defendant’s beliefs.
+
+If you find that the defendant knew that Avery Example had threatened or harmed others in the past, you may consider that information in evaluating the defendant’s beliefs.
+
+If you find that the defendant received a threat from someone else that they associated with Avery Example, you may consider that threat in evaluating the defendant’s beliefs.
+
+Great bodily injury means significant or substantial physical injury. It is an injury that is greater than moderate harm.
+
+The People have the burden of proving beyond a reasonable doubt that the defendant was not acting in imperfect self-defense or imperfect defense of another. If the People have not met this burden, you must find the defendant not guilty of murder.

@@ -1,0 +1,164 @@
+# CALCRIM No. 508. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "508"
+title: "Justifiable Homicide: Citizen Arrest (Non-Peace Officer)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2011, February 2012, September 2020, October 2025"
+  body_sha256: "e508c072a239dcb412b96080dfe2941d6c036875f708e492687df97c14c90490"
+review: "machine-checked"
+errata:
+  - id: e1
+    kind: structure
+    note: "CALCRIM prints element 4's semicolon after its closing bracket (“…to others];”). Treated as part of the optional element, so the semicolon is left out with it."
+    evidence: "calcrim-2026 p. 312 (checked against the rendered page)"
+    status: confirmed
+questions:
+  - id: murder
+    type: multi
+    options:
+      - { id: o1, label: murder }
+      - { id: o2, label: manslaughter }
+      - { id: o3, label: "attempted murder" }
+      - { id: o4, label: "attempted voluntary manslaughter" }
+    prompt: "Which apply? (one or more)"
+  - id: killed_attempted_kill
+    type: choice
+    options: [ { id: o1, label: killed }, { id: o2, label: "attempted to kill" } ]
+    prompt: "Choose one"
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    prompt: "Choose one"
+  - { id: attempted, type: boolean, prompt: "Include “attempted”?" }
+  - id: crime_that_crime_threatened
+    type: choice
+    options:
+      - { id: o1, label: "the crime of ___" }
+      - id: o2
+        label: "___, and that crime threatened the defendant or others with death or great bodi…"
+    prompt: "Choose one"
+  - id: element_4
+    type: boolean
+    prompt: "Include element 4 (“The defendant had reason to believe that ___ pose…”)?"
+  - id: poses_threat_death_great
+    type: boolean
+    prompt: "Include “poses a threat of death or great bodily injury or”?"
+  - id: murder_2
+    type: multi
+    options: [ { id: o1, label: murder }, { id: o2, label: manslaughter } ]
+    prompt: "Which apply? (one or more)"
+  - { id: belief_plural, type: boolean, prompt: "Include the “s” in “belief[s]”?" }
+body:
+  - - "The defendant is not guilty of "
+    - any: murder
+      options:
+        - [ murder ]
+        - [ { sep: or }, " manslaughter" ]
+        - [ "attempted murder" ]
+        - [ { sep: or }, " attempted voluntary manslaughter" ]
+    - " if "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " "
+    - { choice: killed_attempted_kill, options: [ [ killed ], [ "attempted to kill" ] ] }
+    - " someone while trying to arrest him or her for a violent felony. Such "
+    - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+    - " "
+    - { opt: [ attempted ], if: attempted }
+    - " killing is justified, and therefore not unlawful, if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant committed the "
+          - { opt: [ attempted ], if: attempted }
+          - " killing while lawfully trying to arrest or detain "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+          - " for committing "
+          - choice: crime_that_crime_threatened
+            options:
+              - - "the crime of "
+                - field: "text.forcible_atrocious_crime_i"
+                  hint: "insert forcible and atrocious crime, i.e., felony that threatened death or great bodily injury"
+              - - field: "text.crime_decedent_was_suspected"
+                  hint: "insert crime decedent was suspected of committing, e.g., burglary"
+                - ", and that crime threatened the defendant or others with death or great bodily injury"
+        end: ";"
+      - n: "2"
+        text:
+          - { field: "decedent.name", hint: "insert name of decedent" }
+          - " actually committed "
+          - choice: crime_that_crime_threatened
+            options:
+              - - "the crime of "
+                - field: "text.forcible_atrocious_crime_i"
+                  hint: "insert forcible and atrocious crime, i.e., felony that threatened death or great bodily injury"
+              - - field: "text.crime_decedent_was_suspected"
+                  hint: "insert crime decedent was suspected of committing, e.g., burglary"
+                - ", and that crime threatened the defendant or others with death or great bodily injury"
+        end: ";"
+      - n: "3"
+        text:
+          - "The defendant had reason to believe that "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+          - " had committed "
+          - choice: crime_that_crime_threatened
+            options:
+              - - "the crime of "
+                - field: "text.forcible_atrocious_crime_i"
+                  hint: "insert forcible and atrocious crime, i.e., felony that threatened death or great bodily injury"
+              - - field: "text.crime_decedent_was_suspected"
+                  hint: "insert crime decedent was suspected of committing, e.g., burglary"
+                - ", and that crime threatened the defendant or others with death or great bodily injury"
+        end: ";"
+      - n: "4"
+        text:
+          - "The defendant had reason to believe that "
+          - { field: "decedent.name", hint: "insert name of decedent" }
+          - " posed a threat of death or great bodily injury, either to the defendant or to others"
+          - { erratum: e1, printed: "]" }
+        end: ";"
+        if: element_4
+        unclosed: e1
+      - n: "5"
+        text:
+          - "The "
+          - { opt: [ attempted ], if: attempted }
+          - " killing was necessary to prevent "
+          - { field: "text.f11" }
+          - "’s "
+          - { note: "insert name of decedent" }
+          - " escape"
+        end: "."
+        and: "AND"
+  - - "A person has "
+    - { em: "reason to believe" }
+    - " that someone "
+    - opt: [ "poses a threat of death or great bodily injury or" ]
+      if: poses_threat_death_great
+    - " committed "
+    - choice: crime_that_crime_threatened
+      options:
+        - - "the crime of "
+          - field: "text.forcible_atrocious_crime_i"
+            hint: "insert forcible and atrocious crime, i.e., felony that threatened death or great bodily injury"
+          - " "
+        - - field: "text.crime_decedent_was_suspected"
+            hint: "insert crime decedent was suspected of committing, e.g., burglary"
+          - ", and that crime threatened the defendant or others with death or great bodily injury"
+    - " when facts known to the person would persuade someone of reasonable caution to have "
+    - { when: [ "!belief_plural", belief_plural ], options: [ that, those ] }
+    - " belief"
+    - { opt: [ s ], if: belief_plural }
+    - "."
+  - - { em: "Great bodily injury" }
+    - " means significant or substantial physical injury. It is an injury that is greater than moderate harm."
+  - - "The People have the burden of proving beyond a reasonable doubt that the "
+    - { opt: [ attempted ], if: attempted }
+    - " killing was not justified. If the People have not met this burden, you must find the defendant not guilty of "
+    - { opt: [ attempted ], if: attempted }
+    - " "
+    - { any: murder_2, options: [ [ murder ], [ { sep: or }, " manslaughter" ] ] }
+    - "."
+people: { decedent: { label: "Decedent", uses: [ name ] } }

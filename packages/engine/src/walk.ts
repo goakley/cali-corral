@@ -5,7 +5,7 @@ export function toInlines(xs: Inline[] | string): Inline[] {
 }
 
 export function isNoteItem(it: ElementItem): it is NoteBlock {
-  return "note" in it && !("text" in it);
+  return "note" in it && !("text" in it) && !("alt" in it);
 }
 
 export function isElement(it: ElementItem): it is Element {

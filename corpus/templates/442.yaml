@@ -1,0 +1,110 @@
+# CALCRIM No. 442. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "442"
+title: "Solicitation of a Minor (Pen. Code, § 653j)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: d4c3a7c2db939fc2ae8da923d0c1687284c987f44192884f9ee3be46ca2df7d2
+review: "machine-checked"
+questions:
+  - { id: in_count, type: boolean, prompt: "Include “in Count ___”?" }
+  - id: in_violation_penal_code
+    type: boolean
+    prompt: "Include “in violation of Penal Code section 653j”?"
+  - id: asked
+    type: multi
+    options:
+      - { id: o1, label: asked }
+      - { id: o2, label: encouraged }
+      - { id: o3, label: induced }
+      - { id: o4, label: intimidated }
+    prompt: "Which apply? (one or more)"
+  - id: element_4
+    type: boolean
+    prompt: "Include element 4 (“At the time of the offense, the minor was 16 or 1…”)?"
+  - id: element_5
+    type: boolean
+    prompt: "Include element 5 (“The minor received the communication containing t…”)?"
+  - id: will_give_have_given
+    type: choice
+    options: [ { id: o1, label: "will give" }, { id: o2, label: "have given" } ]
+    prompt: "Choose one"
+  - id: if_you_find_defendant
+    type: boolean
+    prompt: "Give the paragraph beginning “If you find the defendant guilty of solicitation, you must…”?"
+body:
+  - - "The defendant is charged "
+    - { opt: [ "in Count ", { field: count } ], if: in_count }
+    - " with soliciting a minor to commit a crime "
+    - { opt: [ "in violation of Penal Code section 653j" ], if: in_violation_penal_code }
+    - "."
+  - [ "To prove that the defendant is guilty of this crime, the People must prove that:" ]
+  - elements:
+      - n: "1"
+        text:
+          - "The defendant voluntarily "
+          - any: asked
+            options:
+              - [ asked ]
+              - [ { sep: or }, " encouraged " ]
+              - [ { sep: or }, " induced" ]
+              - [ { sep: or }, " intimidated" ]
+          - " a minor to commit the crime of "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: ";"
+      - n: "2"
+        text:
+          - { pronoun: defendant, forms: [ "He", "She" ] }
+          - " intended that the minor commit the crime of "
+          - { field: "text.target_offense", hint: "insert target offense" }
+        end: ";"
+      - n: "3"
+        text: [ "At the time of the offense, the defendant was at least 18 years old" ]
+        end: "(;/.)"
+        and: "[AND]"
+      - n: "4"
+        text:
+          - "At the time of the offense, the minor was 16 or 17 years old, and the defendant was at least 5 years older than the minor"
+        end: "(;/.)"
+        and: "[AND]"
+        if: element_4
+        andOutside: true
+        note: "Alternative 4—defendant five years older"
+      - note: "Give element 5 when instructing that person solicited must receive message; see Bench Notes."
+        governs: [ element_5 ]
+      - n: "5"
+        text: [ "The minor received the communication containing the request" ]
+        end: "."
+        and: "AND"
+        if: element_5
+  - - "To decide whether the defendant intended that the minor commit "
+    - { field: "text.target_offense", hint: "insert target offense" }
+    - ", please refer to the separate instructions that I "
+    - { choice: will_give_have_given, options: [ [ "will give" ], [ "have given" ] ] }
+    - " you on that crime."
+  - [ "A ", { em: minor }, " is a person under the age of 18." ]
+  - opt:
+      - - "If you find the defendant guilty of solicitation, you must decide how many crimes "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " solicited. When deciding this question, consider the following factors:"
+      - elements:
+          - n: "1"
+            text:
+              - "Were the crimes solicited part of a plan with a single objective or motive or did each crime solicited have a different objective or motive?"
+            end: ""
+          - { n: "2", text: [ "Were the crimes solicited to be committed at the same time?" ], end: "" }
+          - { n: "3", text: [ "Were the crimes solicited to be committed in the same place?" ], end: "" }
+          - { n: "4", text: [ "Were the crimes solicited to be committed in the same way?" ], end: "" }
+          - n: "5"
+            text:
+              - "Was the payment, if any, for the crimes solicited one amount or were different amounts solicited for each crime?"
+            end: ""
+        plain: true
+      - - "Consider all of these factors when deciding whether the defendant’s alleged acts were a single crime or "
+        - field: "text.number_solicitations_alleged_by"
+          hint: "insert number of solicitations alleged by the People"
+        - " separate crimes of solicitation."
+    if: if_you_find_defendant
