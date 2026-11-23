@@ -12,7 +12,8 @@
     "test": "vitest run",
     "candidates": "node scripts/candidates.ts",
     "stamp": "node scripts/stamp.ts",
-    "autodraft": "node scripts/autodraft.ts"
+    "autodraft": "node scripts/autodraft.ts",
+    "explain": "node scripts/explain.ts"
   },
   "dependencies": {
     "ajv": "^8.20.0",
