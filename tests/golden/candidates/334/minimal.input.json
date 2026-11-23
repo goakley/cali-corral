@@ -1,0 +1,49 @@
+{
+  "answers": {
+    "statement": [
+      "o1"
+    ],
+    "defendant": "o1",
+    "regarding_crime_s": false,
+    "an": false,
+    "that_those_crime_s": false,
+    "aid_facilitate_promote": [
+      "o1"
+    ],
+    "was_were": "o1",
+    "an_2": false,
+    "burden_is_on_defendant": false,
+    "accomplice_does_not_need": false,
+    "person_who_lacks_criminal": false,
+    "person_may_be_accomplice": false,
+    "you_may_not_conclude": false,
+    "declarant": [
+      "o1"
+    ],
+    "statement_2": [
+      "o1"
+    ],
+    "mentioned_by_accomplice": [
+      "o1"
+    ],
+    "evidence_needed_support_statement": false,
+    "crime_plural": false,
+    "accomplice_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "charged_crime_s": "example charged crime s",
+    "name_s_crime_s": "example name s crime s",
+    "name_s_witness_es": "example name s witness es",
+    "name_s_witness_es_2": "example name s witness es 2",
+    "names_defendants": "example names defendants"
+  }
+}

@@ -1,0 +1,40 @@
+# CALCRIM No. 377. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "377"
+title: "Presence of Support Person/Dog/Dog Handler (Pen. Code, §§ 868.4, 868.5)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New March 2018; Revised April 2020, September 2023"
+  body_sha256: c05a067aaa5e7fca8d1c52bccf30782ae8cb59d6c2ca8381a8db1b8884c0a35c
+review: "machine-checked"
+questions:
+  - id: will_have_has_had
+    type: choice
+    options: [ { id: o1, label: "will have" }, { id: o2, label: has }, { id: o3, label: had } ]
+    prompt: "Choose one"
+  - id: person_dog
+    type: choice
+    options: [ { id: o1, label: person }, { id: o2, label: dog } ]
+    prompt: "Choose one"
+  - { id: dog_handler, type: boolean, prompt: "Include “and dog handler”?" }
+  - id: is_was
+    type: choice
+    options: [ { id: o1, label: is }, { id: o2, label: was } ]
+    prompt: "Choose one"
+body:
+  - - { field: "witness.name", hint: "insert name of witness" }
+    - " "
+    - { choice: will_have_has_had, options: [ [ "will have" ], [ has ], [ had ] ] }
+    - " a "
+    - { choice: person_dog, options: [ [ person ], [ dog ] ] }
+    - " present during "
+    - { pronoun: witness, forms: [ his, her ] }
+    - " testimony. Do not consider the presence of the "
+    - choice: person_dog
+      options: [ [ person ], [ "dog ", { opt: [ "and dog handler" ], if: dog_handler } ] ]
+    - " who "
+    - { choice: is_was, options: [ [ is ], [ was ] ] }
+    - " with the witness for any purpose or allow it to distract you."
+people: { witness: { label: "Witness", uses: [ name ] } }

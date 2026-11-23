@@ -1,0 +1,17 @@
+{
+  "answers": {
+    "an_or_the": "o1",
+    "phase": false,
+    "disregard_it_completely": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

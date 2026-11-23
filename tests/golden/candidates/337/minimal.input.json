@@ -1,0 +1,19 @@
+{
+  "answers": {
+    "when_testified_he_she": false,
+    "do_not_speculate_about": false,
+    "when_testified_he_she_2": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_s_witness_es": "example name s witness es"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "answers": {
+    "collected_destroyed_collected_retained": "o1"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "specify_other_disposition": "example specify other disposition"
+  }
+}

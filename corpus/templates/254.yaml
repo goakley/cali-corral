@@ -1,0 +1,36 @@
+# CALCRIM No. 254. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "254"
+title: "Strict Liability Crime"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, February 2026"
+  body_sha256: "87b5b8b3a1bbd82c088fe08badd76b5f675ec228dd46a47be9ed547bb2636fdd"
+review: "machine-checked"
+questions:
+  - id: find_allegation_s_true
+    type: boolean
+    prompt: "Include “or to find the allegation[s] of ___ true”?"
+  - id: fail_do_required_act
+    type: boolean
+    prompt: "Include “or to fail to do the required act”?"
+  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+  - { id: allegation_plural, type: boolean, prompt: "More than one allegation?" }
+body:
+  - - "For you to find a person guilty of the crime"
+    - { opt: [ s ], if: crime_plural }
+    - " of "
+    - { field: "text.name_s_alleged_offense", hint: "insert name[s] of alleged offense[s]" }
+    - " "
+    - opt:
+        - "or to find the allegation"
+        - { opt: [ s ], if: allegation_plural }
+        - " of "
+        - { field: "text.name_s_enhancement_s", hint: "insert name[s] of enhancement[s]" }
+        - " true"
+      if: find_allegation_s_true
+    - ", a person only needs to do the prohibited act "
+    - { opt: [ "or to fail to do the required act" ], if: fail_do_required_act }
+    - ". The People do not need to prove any particular mental state."

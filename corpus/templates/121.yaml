@@ -1,0 +1,44 @@
+# CALCRIM No. 121. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "121"
+title: "Duty to Abide by Translation Provided in Court"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2014, August 2016"
+  body_sha256: c4bed0fe6a69b0ddae02e7f4d4c93d68df5fd43f53d2e7a6c7adafc61c2c298e
+review: "machine-checked"
+questions:
+  - id: clerk_bailiff
+    type: choice
+    options: [ { id: o1, label: clerk }, { id: o2, label: bailiff } ]
+    prompt: "Choose one"
+  - id: may_are_about
+    type: choice
+    options: [ { id: o1, label: may }, { id: o2, label: "are about to" } ]
+    prompt: "Choose one"
+  - { id: that_is_partially, type: boolean, prompt: "Include “that is partially”?" }
+  - id: if_recording_is_partially
+    type: boolean
+    prompt: "Include “If the recording is partially in English, the English parts of the re…”?"
+body:
+  - { note: "Alternative A—foreign language testimony" }
+  - - "Some testimony may be given in "
+    - field: "text.name_description_language_other"
+      hint: "insert name or description of language other than English"
+    - ". An interpreter will provide a translation for you at the time that the testimony is given. You must rely on the translation provided by the interpreter, even if you understand the language spoken by the witness. Do not retranslate any testimony for other jurors. If you believe the court interpreter translated testimony incorrectly, let me know immediately by writing a note and giving it to the "
+    - { choice: clerk_bailiff, options: [ [ clerk ], [ bailiff ] ] }
+    - "."
+  - { note: "Alternative B—foreign language recording" }
+  - - "You "
+    - { choice: may_are_about, options: [ [ may ], [ "are about to" ] ] }
+    - " hear a recording "
+    - { opt: [ "that is partially" ], if: that_is_partially }
+    - " in a foreign language. You will receive a transcript with an English language translation of that recording."
+  - - "You must rely on the transcript, even if you understand the language in the recording. Do not retranslate the recording for other jurors. If you believe the transcript is incorrect, let me know immediately by writing a note and giving it to the "
+    - { choice: clerk_bailiff, options: [ [ clerk ], [ bailiff ] ] }
+    - ". "
+    - opt:
+        - "If the recording is partially in English, the English parts of the recording are the evidence."
+      if: if_recording_is_partially

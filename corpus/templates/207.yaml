@@ -1,0 +1,40 @@
+# CALCRIM No. 207. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "207"
+title: "Proof Need Not Show Actual Date"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2014, February 2016, September 2022"
+  body_sha256: "6b0f99795755ef831f036715050b7a92698a70e17868c66d79d46c0f856381a5"
+review: "machine-checked"
+questions:
+  - { id: about, type: boolean, prompt: "Include “or about”?" }
+  - id: it_they
+    type: choice
+    options: [ { id: o1, label: it }, { id: o2, label: they } ]
+    prompt: "Choose one"
+  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+  - { id: day_plural, type: boolean, prompt: "More than one day?" }
+body:
+  - - "It is alleged that the crime"
+    - { opt: [ s ], if: crime_plural }
+    - " occurred on "
+    - { opt: [ "or about" ], if: about }
+    - " "
+    - field: "text.alleged_date_s_date"
+      hint: "insert alleged date(s) or date ranges by count"
+    - ". The People are not required to prove that the crime"
+    - { opt: [ s ], if: crime_plural }
+    - " took place exactly on "
+    - { when: [ "!day_plural", day_plural ], options: [ that, those ] }
+    - " day"
+    - { opt: [ s ], if: day_plural }
+    - " but only that "
+    - { choice: it_they, options: [ [ it ], [ they ] ] }
+    - " happened reasonably close to "
+    - { when: [ "!day_plural", day_plural ], options: [ that, those ] }
+    - " day"
+    - { opt: [ s ], if: day_plural }
+    - "."

@@ -1,0 +1,213 @@
+# CALCRIM No. 334. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "334"
+title: "Accomplice Testimony Must Be Corroborated: Dispute Whether Witness Is Accomplice"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2010, April 2011, February 2016, March 2019, April 2020, September 2023"
+  body_sha256: "3598b8e487394ca742c731b0b2b13c0f7c83d7735f618166bbd128d94d394f81"
+review: "machine-checked"
+questions:
+  - id: statement
+    type: multi
+    options: [ { id: o1, label: statement }, { id: o2, label: testimony } ]
+    prompt: "Which apply? (one or more)"
+  - id: defendant
+    type: choice
+    options: [ { id: o1, label: "the defendant" }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: regarding_crime_s
+    type: boolean
+    prompt: "Include “regarding the crime[s] of ___”?"
+  - { id: an, type: boolean, prompt: "Include “an”?" }
+  - id: that_those_crime_s
+    type: boolean
+    prompt: "Include “to (that/those) crime[s]”?"
+  - id: aid_facilitate_promote
+    type: multi
+    options:
+      - id: o1
+        label: "aid, facilitate, promote, encourage, or instigate the commission of the crime"
+      - { id: o2, label: "participate in a criminal conspiracy to commit the crime" }
+    prompt: "Which apply? (one or more)"
+  - id: was_were
+    type: choice
+    options: [ { id: o1, label: was }, { id: o2, label: were } ]
+    prompt: "Choose one"
+  - { id: an_2, type: boolean, prompt: "Include “an”?" }
+  - id: burden_is_on_defendant
+    type: boolean
+    prompt: "Include “The burden is on the defendant to prove that it is more likely than n…”?"
+  - id: accomplice_does_not_need
+    type: boolean
+    prompt: "Include “An accomplice does not need to be present when the crime is committed…”?"
+  - id: person_who_lacks_criminal
+    type: boolean
+    prompt: "Include “A person who lacks criminal intent but who pretends to join in a crim…”?"
+  - id: person_may_be_accomplice
+    type: boolean
+    prompt: "Include “A person may be an accomplice even if he or she is not actually prose…”?"
+  - id: you_may_not_conclude
+    type: boolean
+    prompt: "Give the paragraph beginning “You may not conclude that a child under 14 years old was an…”?"
+  - id: declarant
+    type: multi
+    options: [ { id: o1, label: declarant }, { id: o2, label: witness } ]
+    prompt: "Which apply? (one or more)"
+  - id: statement_2
+    type: multi
+    options: [ { id: o1, label: "a statement" }, { id: o2, label: testimony } ]
+    prompt: "Which apply? (one or more)"
+  - id: mentioned_by_accomplice
+    type: multi
+    options:
+      - { id: o1, label: "mentioned by the accomplice in the statement" }
+      - { id: o2, label: "about which the accomplice testified" }
+    prompt: "Which apply? (one or more)"
+  - id: evidence_needed_support_statement
+    type: boolean
+    prompt: "Include “The evidence needed to support the (statement/[or] testimony) of one…”?"
+  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+  - { id: accomplice_plural, type: boolean, prompt: "More than one accomplice?" }
+body:
+  - - "Before you may consider the "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " of "
+    - { field: "text.name_s_witness_es", hint: "insert name[s] of witness[es]" }
+    - " as evidence against "
+    - choice: defendant
+      options:
+        - [ "the defendant" ]
+        - [ { field: "text.names_defendants", hint: "insert names of defendants" }, " " ]
+    - " "
+    - opt:
+        - "regarding the crime"
+        - { opt: [ s ], if: crime_plural }
+        - " of "
+        - field: "text.name_s_crime_s"
+          hint: "insert name[s] of crime[s] if corroboration only required for some crime[s]"
+      if: regarding_crime_s
+    - ", you must decide whether "
+    - { field: "text.name_s_witness_es_2", hint: "insert name[s] of witness[es" }
+    - ")"
+    - " "
+    - { when: [ "!crime_plural", crime_plural ], options: [ was, were ] }
+    - " "
+    - { opt: [ an ], if: an }
+    - " accomplice"
+    - { opt: [ s ], if: accomplice_plural }
+    - " "
+    - opt:
+        - "to "
+        - { when: [ "!crime_plural", crime_plural ], options: [ that, those ] }
+        - " crime"
+        - { opt: [ s ], if: crime_plural }
+      if: that_those_crime_s
+    - ". A person is an "
+    - { em: accomplice }
+    - " if he or she is subject to prosecution for the identical crime charged against the defendant. Someone is subject to prosecution if:"
+  - elements:
+      - { n: "1", text: [ "He or she personally committed the crime" ], end: ";" }
+      - n: "2"
+        text: [ "He or she knew of the criminal purpose of the person who committed the crime" ]
+        end: ";"
+        and: "OR"
+      - n: "3"
+        text:
+          - "He or she intended to, and did in fact, "
+          - any: aid_facilitate_promote
+            options:
+              - - "aid, facilitate, promote, encourage, or instigate the commission of the crime"
+                - { sep: ";" }
+              - [ { sep: or }, " participate in a criminal conspiracy to commit the crime" ]
+        end: "."
+        and: "AND"
+  - - opt:
+        - "The burden is on the defendant to prove that it is more likely than not that "
+        - { field: "text.name_s_witness_es", hint: "insert name[s] of witness[es]" }
+        - " "
+        - { choice: was_were, options: [ [ was ], [ were ] ] }
+        - " "
+        - { opt: [ an ], if: an_2 }
+        - " accomplice"
+        - { opt: [ s ], if: accomplice_plural }
+        - "."
+      if: burden_is_on_defendant
+  - - opt:
+        - "An accomplice does not need to be present when the crime is committed. On the other hand, a person is not an accomplice just because he or she is present at the scene of a crime, even if he or she knows that a crime will be committed or is being committed and does nothing to stop it."
+      if: accomplice_does_not_need
+  - - opt:
+        - "A person who lacks criminal intent but who pretends to join in a crime only to detect or prosecute those who commit that crime is not an accomplice."
+      if: person_who_lacks_criminal
+  - - opt:
+        - "A person may be an accomplice even if he or she is not actually prosecuted for the crime."
+      if: person_may_be_accomplice
+  - opt:
+      - - "You may not conclude that a child under 14 years old was an accomplice unless you also decide that when the child acted, "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " understood:"
+      - elements:
+          - { n: "1", text: [ "The nature and effect of the criminal conduct" ], end: ";" }
+          - { n: "2", text: [ "That the conduct was wrongful and forbidden" ], end: ";" }
+          - n: "3"
+            text:
+              - "That "
+              - { pronoun: defendant, forms: [ he, she ] }
+              - " could be punished for participating in the conduct"
+            end: "."
+            and: "AND"
+    if: you_may_not_conclude
+  - - "If you decide that a "
+    - { any: declarant, options: [ [ declarant ], [ { sep: or }, " witness" ] ] }
+    - " was not an accomplice, then supporting evidence is not required and you should evaluate his or her "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " as you would that of any other witness."
+  - - "If you decide that a "
+    - { any: declarant, options: [ [ declarant ], [ { sep: or }, " witness" ] ] }
+    - " was an accomplice, then you may not convict the defendant of "
+    - { field: "text.charged_crime_s", hint: "insert charged crime[s]" }
+    - " based on his or her "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " alone. You may use "
+    - { any: statement_2, options: [ [ "a statement" ], [ { sep: or }, " testimony" ] ] }
+    - " of an accomplice that tends to incriminate the defendant to convict the defendant only if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The accomplice’s "
+          - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+          - " is supported by other evidence that you believe"
+        end: ";"
+      - n: "2"
+        text:
+          - "That supporting evidence is independent of the accomplice’s "
+          - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        end: ";"
+      - n: "3"
+        text:
+          - "That supporting evidence tends to connect the defendant to the commission of the crime"
+          - { opt: [ s ], if: crime_plural }
+        end: "."
+        and: "AND"
+  - - "Supporting evidence, however, may be slight. It does not need to be enough, by itself, to prove that the defendant is guilty of the charged crime"
+    - { opt: [ s ], if: crime_plural }
+    - ", and it does not need to support every fact "
+    - any: mentioned_by_accomplice
+      options:
+        - [ "mentioned by the accomplice in the statement" ]
+        - [ { sep: or }, " about which the accomplice testified" ]
+    - ". On the other hand, it is not enough if the supporting evidence merely shows that a crime was committed or the circumstances of its commission. The supporting evidence must tend to connect the defendant to the commission of the crime."
+  - - opt:
+        - "The evidence needed to support the "
+        - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        - " of one accomplice cannot be provided by the "
+        - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        - " of another accomplice."
+      if: evidence_needed_support_statement
+  - - "Any "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " of an accomplice that tends to incriminate the defendant should be viewed with caution. You may not, however, arbitrarily disregard it. You should give that "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " the weight you think it deserves after examining it with care and caution and in the light of all the other evidence."

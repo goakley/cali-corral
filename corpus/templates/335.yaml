@@ -1,0 +1,95 @@
+# CALCRIM No. 335. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "335"
+title: "Accomplice Testimony: No Dispute Whether Witness Is Accomplice"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2010, August 2012, February 2016, March 2019, March 2023"
+  body_sha256: a382d1f644e1ff834dc62e8c6e3483487f30525e308e3ea3afffaf5519358fa2
+review: "machine-checked"
+questions:
+  - { id: an, type: boolean, prompt: "Include “an”?" }
+  - id: statement
+    type: multi
+    options: [ { id: o1, label: statement }, { id: o2, label: testimony } ]
+    prompt: "Which apply? (one or more)"
+  - id: statement_2
+    type: multi
+    options: [ { id: o1, label: "a statement" }, { id: o2, label: testimony } ]
+    prompt: "Which apply? (one or more)"
+  - id: mentioned_by_accomplice
+    type: multi
+    options:
+      - { id: o1, label: "mentioned by the accomplice in the statement" }
+      - { id: o2, label: "about which the witness testified" }
+    prompt: "Which apply? (one or more)"
+  - id: evidence_needed_support_statement
+    type: boolean
+    prompt: "Include “The evidence needed to support the (statement/[or] testimony) of one…”?"
+  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+  - { id: accomplice_plural, type: boolean, prompt: "More than one accomplice?" }
+body:
+  - - "If the crime"
+    - { opt: [ s ], if: crime_plural }
+    - " of "
+    - { field: "text.charged_crime_s", hint: "insert charged crime[s]" }
+    - " "
+    - { when: [ "!crime_plural", crime_plural ], options: [ was, were ] }
+    - " committed, then "
+    - { field: "text.name_s_witness_es", hint: "insert name[s] of witness[es]" }
+    - " "
+    - { when: [ "!crime_plural", crime_plural ], options: [ was, were ] }
+    - " "
+    - { opt: [ an ], if: an }
+    - " accomplice"
+    - { opt: [ s ], if: accomplice_plural }
+    - " to "
+    - { when: [ "!crime_plural", crime_plural ], options: [ that, those ] }
+    - " crime"
+    - { opt: [ s ], if: crime_plural }
+    - "."
+  - - "You may not convict the defendant of "
+    - { field: "text.crime_s", hint: "insert crime[s]" }
+    - " based on the "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " of an accomplice alone. You may use "
+    - { any: statement_2, options: [ [ "a statement" ], [ { sep: or }, " testimony" ] ] }
+    - " of an accomplice that tends to incriminate the defendant to convict the defendant only if:"
+  - elements:
+      - n: "1"
+        text:
+          - "The accomplice’s "
+          - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+          - " is supported by other evidence that you believe"
+        end: ";"
+      - n: "2"
+        text:
+          - "That supporting evidence is independent of the accomplice’s "
+          - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        end: ";"
+      - n: "3"
+        text:
+          - "That supporting evidence tends to connect the defendant to the commission of the crime"
+          - { opt: [ s ], if: crime_plural }
+        end: "."
+        and: "AND"
+  - - "Supporting evidence, however, may be slight. It does not need to be enough, by itself, to prove that the defendant is guilty of the charged crime, and it does not need to support every fact "
+    - any: mentioned_by_accomplice
+      options:
+        - [ "mentioned by the accomplice in the statement" ]
+        - [ { sep: or }, " about which the witness testified" ]
+    - ". On the other hand, it is not enough if the supporting evidence merely shows that a crime was committed or the circumstances of its commission. The supporting evidence must tend to connect the defendant to the commission of the crime."
+  - - opt:
+        - "The evidence needed to support the "
+        - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        - " of one accomplice cannot be provided by the "
+        - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+        - " of another accomplice."
+      if: evidence_needed_support_statement
+  - - "Any "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " of an accomplice that tends to incriminate the defendant should be viewed with caution. You may not, however, arbitrarily disregard it. You should give that "
+    - { any: statement, options: [ [ statement ], [ { sep: or }, " testimony" ] ] }
+    - " the weight you think it deserves after examining it with care and caution and in the light of all the other evidence."

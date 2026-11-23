@@ -1,0 +1,17 @@
+{
+  "answers": {
+    "a": false,
+    "that_those": "o1",
+    "statement_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

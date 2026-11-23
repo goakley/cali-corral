@@ -1,0 +1,33 @@
+# CALCRIM No. 317. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "317"
+title: "Former Testimony of Unavailable Witness"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: a430b9dfb6cdd54d2251a840694672573682827dc12c882db41ad09df7695d5e
+review: "machine-checked"
+questions:
+  - id: was_will_be
+    type: choice
+    options: [ { id: o1, label: was }, { id: o2, label: "will be" } ]
+    prompt: "Choose one"
+  - id: read_played_for
+    type: choice
+    options: [ { id: o1, label: "read to" }, { id: o2, label: "played for" } ]
+    prompt: "Choose one"
+body:
+  - - "The testimony that "
+    - { field: "witness.name", hint: "insert name of witness" }
+    - " has given under oath "
+    - { choice: was_will_be, options: [ [ was ], [ "will be" ] ] }
+    - " "
+    - { choice: read_played_for, options: [ [ "read to" ], [ "played for" ] ] }
+    - " you because "
+    - { pronoun: witness, forms: [ he, she ] }
+    - " "
+    - { agree: witness, sg: is, pl: are }
+    - " not available. You must evaluate this testimony by the same standards that you apply to a witness who testified here in court."
+people: { witness: { label: "Witness", uses: [ name ] } }

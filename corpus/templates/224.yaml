@@ -1,0 +1,15 @@
+# CALCRIM No. 224. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "224"
+title: "Circumstantial Evidence: Sufficiency of Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2013, March 2022"
+  body_sha256: "0b396c3f64a705b1d71585da59eef26ceb410bedf92172315cadad4278e6c293"
+review: "machine-checked"
+questions: []
+body:
+  - - "Before you may rely on circumstantial evidence to conclude that a fact necessary to find the defendant guilty has been proved, you must be convinced that the People have proved each fact essential to that conclusion beyond a reasonable doubt."
+  - - "Also, before you may rely on circumstantial evidence to find the defendant guilty, you must be convinced that the only reasonable conclusion supported by the circumstantial evidence is that the defendant is guilty. If you can draw two or more reasonable conclusions from the circumstantial evidence, and one of those reasonable conclusions points to innocence and another to guilt, you must accept the one that points to innocence. However, when considering circumstantial evidence, you must accept only reasonable conclusions and reject any that are unreasonable."

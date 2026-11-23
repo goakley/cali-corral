@@ -1,0 +1,21 @@
+{
+  "answers": {
+    "witness_was_witnesses_were": "o1",
+    "an": false,
+    "an_2": true,
+    "expert_witness_may_be": false,
+    "if_expert_witnesses_disagreed": true,
+    "expert_plural": false,
+    "opinion_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

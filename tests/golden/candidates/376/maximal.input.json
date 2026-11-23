@@ -1,0 +1,19 @@
+{
+  "answers": {
+    "stolen_extorted": "o2",
+    "you_may_also_consider": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "crime": "example crime",
+    "other_appropriate_factors_for": "example other appropriate factors for"
+  }
+}

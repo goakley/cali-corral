@@ -1,0 +1,21 @@
+{
+  "answers": {
+    "people_defense": "o1",
+    "within_legal_time_period": false,
+    "however_fact_that_defendant": false,
+    "you_must_not_consider": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "describe_evidence_that_was": "example describe evidence that was",
+    "names_other_defendant_s": "example names other defendant s"
+  }
+}

@@ -1,0 +1,14 @@
+# CALCRIM No. 106. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "106"
+title: "Jurors Asking Questions"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2006"
+  body_sha256: "29b96b872307b5599b4548d825960bab6ff7ca45fe5969e5f2471e3e4adfd43d"
+review: "machine-checked"
+questions: []
+body:
+  - - "If, during the trial, you have a question that you believe should be asked of a witness, you may write out the question and send it to me through the bailiff. I will discuss the question with the attorneys and decide whether it may be asked. Do not feel slighted or disappointed if your question is not asked. Your question may not be asked for a variety of reasons, including the reason that the question may call for an answer that is inadmissible for legal reasons. Also, do not guess the reason your question was not asked or speculate about what the answer might have been. Always remember that you are not advocates for one side or the other in this case. You are impartial judges of the facts."

@@ -1,0 +1,21 @@
+{
+  "answers": {
+    "about_which_officer_s": "o2",
+    "i_am_referring_statement": true,
+    "you_should_view_unrecorded": true,
+    "officer_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "f1": "example f1",
+    "other_description_identify_statement": "example other description identify statement"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "answers": {
+    "the_or_a": "o2",
+    "witness_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

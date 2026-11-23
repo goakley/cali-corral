@@ -1,0 +1,48 @@
+# CALCRIM No. 333. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "333"
+title: "Opinion Testimony of Lay Witness"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "0b57aa84f4790fb79d84c3bbf3ac11803861209517833d176079ce8be3b45e1a"
+review: "machine-checked"
+questions:
+  - id: witness_witnesses
+    type: choice
+    options: [ { id: o1, label: "A witness" }, { id: o2, label: "Witnesses" } ]
+    prompt: "Choose one"
+  - id: was_were
+    type: choice
+    options: [ { id: o1, label: was }, { id: o2, label: were } ]
+    prompt: "Choose one"
+  - { id: an, type: boolean, prompt: "Include “an”?" }
+  - id: who_was_were_not
+    type: boolean
+    prompt: "Include “, who (was/were) not testifying as [an] expert[s],”?"
+  - { id: expert_plural, type: boolean, prompt: "More than one expert?" }
+  - { id: opinion_plural, type: boolean, prompt: "More than one opinion?" }
+body:
+  - - { choice: witness_witnesses, options: [ [ "A witness" ], [ "Witnesses" ] ] }
+    - opt:
+        - ", who "
+        - { choice: was_were, options: [ [ was ], [ were ] ] }
+        - " not testifying as "
+        - { opt: [ an ], if: an }
+        - " expert"
+        - { opt: [ s ], if: expert_plural }
+        - ","
+      if: who_was_were_not
+    - " gave "
+    - { pronoun: defendant, forms: [ his, her, their ] }
+    - " opinion"
+    - { opt: [ s ], if: opinion_plural }
+    - " during the trial. You may but are not required to accept "
+    - { when: [ "!opinion_plural", opinion_plural ], options: [ that, those ] }
+    - " opinion"
+    - { opt: [ s ], if: opinion_plural }
+    - " as true or correct. You may give the opinion"
+    - { opt: [ s ], if: opinion_plural }
+    - " whatever weight you think appropriate. Consider the extent of the witness’s opportunity to perceive the matters on which his or her opinion is based, the reasons the witness gave for any opinion, and the facts or information on which the witness relied in forming that opinion. You must decide whether information on which the witness relied was true and accurate. You may disregard all or any part of an opinion that you find unbelievable, unreasonable, or unsupported by the evidence."

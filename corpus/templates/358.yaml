@@ -1,0 +1,72 @@
+# CALCRIM No. 358. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "358"
+title: "Evidence of Defendant’s Statements"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, December 2008, February 2014, August 2015, September 2017, September 2020, March 2023"
+  body_sha256: d95a5025f36044759bf8176d6f2a54d4330a971a27ef8917c2c24951881e98a0
+review: "machine-checked"
+questions:
+  - { id: an, type: boolean, prompt: "Include “an”?" }
+  - { id: oral, type: boolean, prompt: "Include “oral”?" }
+  - { id: and, type: boolean, prompt: "Include “and”?" }
+  - { id: a, type: boolean, prompt: "Include “a”?" }
+  - { id: written, type: boolean, prompt: "Include “written”?" }
+  - id: before_trial_while_court
+    type: choice
+    options:
+      - { id: o1, label: "before the trial" }
+      - { id: o2, label: "while the court was not in session" }
+    prompt: "Choose one"
+  - id: such_these
+    type: choice
+    options: [ { id: o1, label: such }, { id: o2, label: "of these" } ]
+    prompt: "Choose one"
+  - { id: a_2, type: boolean, prompt: "Include “a”?" }
+  - id: the_or_a
+    type: choice
+    options: [ { id: o1, label: the }, { id: o2, label: a } ]
+    prompt: "Choose one"
+  - id: consider_with_caution_any
+    type: boolean
+    prompt: "Include “Consider with caution any statement made by (the/a) defendant tending…”?"
+  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+body:
+  - - "You have heard evidence that the defendant made "
+    - { opt: [ an ], if: an }
+    - " "
+    - { opt: [ oral ], if: oral }
+    - " "
+    - { opt: [ and ], if: and }
+    - " "
+    - { opt: [ a ], if: a }
+    - " "
+    - { opt: [ written ], if: written }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - " "
+    - choice: before_trial_while_court
+      options: [ [ "before the trial" ], [ "while the court was not in session" ] ]
+    - ". You must decide whether the defendant made any "
+    - { choice: such_these, options: [ [ such ], [ "of these" ] ] }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - ", in whole or in part. If you decide that the defendant made such "
+    - { opt: [ a ], if: a_2 }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - ", consider the statement"
+    - { opt: [ s ], if: statement_plural }
+    - ", along with all the other evidence, in reaching your verdict. It is up to you to decide how much importance to give to the statement"
+    - { opt: [ s ], if: statement_plural }
+    - "."
+  - - opt:
+        - "Consider with caution any statement made by "
+        - { choice: the_or_a, options: [ [ the ], [ a ] ] }
+        - " defendant tending to show "
+        - { pronoun: defendant, forms: [ his, her ] }
+        - " guilt unless the statement was written or otherwise recorded."
+      if: consider_with_caution_any

@@ -1,0 +1,59 @@
+# CALCRIM No. 240. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "240"
+title: "Causation"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2012, March 2024*"
+  body_sha256: fe9d6dce6ed1961d0eb4b6dc6146104385699e364a1909ff938f862ad4a8cf43
+review: "machine-checked"
+questions:
+  - { id: omission, type: boolean, prompt: "Include “or omission”?" }
+  - id: injury
+    type: choice
+    options: [ { id: o1, label: injury }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: there_may_be_more
+    type: boolean
+    prompt: "Include “There may be more than one cause of (injury/___). An act [or omission…”?"
+body:
+  - - "An act "
+    - { opt: [ "or omission" ], if: omission }
+    - " causes "
+    - choice: injury
+      options: [ [ injury ], [ { field: "text.other_description", hint: "insert other description" } ] ]
+    - " if the "
+    - choice: injury
+      options: [ [ injury ], [ { field: "text.other_description", hint: "insert other description" } ] ]
+    - " is the direct, natural, and probable consequence of the act "
+    - { opt: [ "or omission" ], if: omission }
+    - " and the "
+    - choice: injury
+      options: [ [ injury ], [ { field: "text.other_description", hint: "insert other description" } ] ]
+    - " would not have happened without the act "
+    - { opt: [ "or omission" ], if: omission }
+    - ". A "
+    - { em: "natural and probable consequence" }
+    - " is one that a reasonable person would know is likely to happen if nothing unusual intervenes. In deciding whether a consequence is natural and probable, consider all the circumstances established by the evidence."
+  - { note: "Give if multiple potential causes." }
+  - - opt:
+        - "There may be more than one cause of "
+        - choice: injury
+          options: [ [ injury ], [ { field: "text.other_description", hint: "insert other description" } ] ]
+        - ". An act "
+        - { opt: [ "or omission" ], if: omission }
+        - " causes "
+        - choice: injury
+          options: [ [ injury ], [ { field: "text.other_description", hint: "insert other description" } ] ]
+        - ", only if it is a substantial factor in causing the "
+        - choice: injury
+          options: [ [ injury ], [ { field: "text.other_description", hint: "insert other description" } ] ]
+        - ". A "
+        - { em: "substantial factor" }
+        - " is more than a trivial or remote factor. However, it does not have to be the only factor that causes the "
+        - choice: injury
+          options: [ [ injury ], [ { field: "text.other_description", hint: "insert other description" } ] ]
+        - "."
+      if: there_may_be_more

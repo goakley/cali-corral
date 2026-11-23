@@ -1,0 +1,37 @@
+# CALCRIM No. 362. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "362"
+title: "Consciousness of Guilt: False Statements"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2009, April 2010, September 2019"
+  body_sha256: b226f168f8927faac1a78d8aa2a826316bdccbfde55fd3dc2a84469a31bce62d
+review: "machine-checked"
+questions:
+  - { id: the, type: boolean, prompt: "Include “the”?" }
+  - { id: choice, type: boolean, prompt: "Include “___”?" }
+  - id: you_may_not_consider
+    type: boolean
+    prompt: "Include “You may not consider the statement in deciding any other defendant’s…”?"
+body:
+  - - "If "
+    - { opt: [ the ], if: the }
+    - " defendant "
+    - opt:
+        - field: "text.name_defendant_when_multiple"
+          hint: "insert name of defendant when multiple defendants on trial"
+      if: choice
+    - " made a false or misleading statement before this trial relating to the charged crime, knowing the statement was false or intending to mislead, that conduct may show "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " "
+    - { agree: defendant, sg: was, pl: were }
+    - " aware of "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " guilt of the crime and you may consider it in determining "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " guilt. "
+    - opt: [ "You may not consider the statement in deciding any other defendant’s guilt." ]
+      if: you_may_not_consider
+  - - "If you conclude that the defendant made the statement, it is up to you to decide its meaning and importance. However, evidence that the defendant made such a statement cannot prove guilt by itself."

@@ -1,0 +1,39 @@
+# CALCRIM No. 122. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "122"
+title: "Corporation Is a Person"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "2d4eea40ed65d2aba6f8b14413044c3396cf1dba866c14114b48c5b5751dfbbf"
+review: "machine-checked"
+questions:
+  - id: a_or_the
+    type: choice
+    options: [ { id: o1, label: "A" }, { id: o2, label: "The" } ]
+    prompt: "Choose one"
+  - id: is_corporation_are_corporations
+    type: choice
+    options: [ { id: o1, label: "is a corporation" }, { id: o2, label: "are corporations" } ]
+    prompt: "Choose one"
+  - { id: also, type: boolean, prompt: "Include “also”?" }
+body:
+  - - { choice: a_or_the, options: [ [ "A" ], [ "The" ] ] }
+    - " defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " in this case, "
+    - field: "text.name_s_corporate_defendant"
+      hint: "insert name[s] of corporate defendant[s]"
+    - ", "
+    - choice: is_corporation_are_corporations
+      options: [ [ "is a corporation" ], [ "are corporations" ] ]
+    - ". Under the law, a corporation must be treated in the same way as a natural person. When I use words like person or he or she in these instructions to refer to the defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - ", those instructions "
+    - { opt: [ also ], if: also }
+    - " apply to "
+    - field: "text.name_s_corporate_defendant"
+      hint: "insert name[s] of corporate defendant[s]"
+    - "."

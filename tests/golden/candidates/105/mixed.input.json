@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "did_other_evidence_prove": true,
+    "did_witness_admit_being": false,
+    "what_is_witness_character": true,
+    "has_witness_been_convicted": false,
+    "other": true,
+    "has_witness_engaged_in": false,
+    "was_witness_promised_immunity": true,
+    "if_evidence_establishes_that": false,
+    "if_you_do_not": true,
+    "if_you_decide_that": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

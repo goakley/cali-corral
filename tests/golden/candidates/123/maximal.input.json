@@ -1,0 +1,19 @@
+{
+  "answers": {
+    "john_jane": "o2",
+    "john_jane_doe": "o2",
+    "fact_that_person_is": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "other_name_used": "example other name used"
+  }
+}

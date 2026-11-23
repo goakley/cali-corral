@@ -1,0 +1,22 @@
+{
+  "answers": {
+    "was_will_be": "o2",
+    "read_played_for": "o2"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    },
+    "witness": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

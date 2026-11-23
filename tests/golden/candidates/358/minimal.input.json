@@ -1,0 +1,25 @@
+{
+  "answers": {
+    "an": false,
+    "oral": false,
+    "and": false,
+    "a": false,
+    "written": false,
+    "before_trial_while_court": "o1",
+    "such_these": "o1",
+    "a_2": false,
+    "the_or_a": "o1",
+    "consider_with_caution_any": false,
+    "statement_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

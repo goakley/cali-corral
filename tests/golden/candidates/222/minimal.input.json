@@ -1,0 +1,17 @@
+{
+  "answers": {
+    "during_trial_you_were": false,
+    "reporter_has_made_record": "o1",
+    "court_reporter_record_be": "o1"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

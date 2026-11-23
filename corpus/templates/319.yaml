@@ -1,0 +1,76 @@
+# CALCRIM No. 319. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "319"
+title: "Prior Statements of Unavailable Witness"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised September 2023"
+  body_sha256: "242c7c1e2354d79f70271a7d442f130362c0c3fc8c1e10cf25a5b998738f7a26"
+review: "machine-checked"
+questions:
+  - id: read_played
+    type: choice
+    options: [ { id: o1, label: read }, { id: o2, label: played } ]
+    prompt: "Choose one"
+  - id: another_other
+    type: choice
+    options: [ { id: o1, label: another }, { id: o2, label: other } ]
+    prompt: "Choose one"
+  - id: i_am_referring_statement
+    type: boolean
+    prompt: "Include “I am referring to the statement[s] about which ___ testified.”?"
+  - id: that_those
+    type: choice
+    options: [ { id: o1, label: that }, { id: o2, label: those } ]
+    prompt: "Choose one"
+  - id: it_them
+    type: choice
+    options: [ { id: o1, label: it }, { id: o2, label: them } ]
+    prompt: "Choose one"
+  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+body:
+  - - { field: "unavailable_witness.name", hint: "insert name of unavailable witness" }
+    - " did not testify in this trial, but "
+    - { pronoun: unavailable_witness, forms: [ his, her ] }
+    - " testimony, taken at another time, was "
+    - { choice: read_played, options: [ [ read ], [ played ] ] }
+    - " for you. In addition to this testimony, you have heard evidence that "
+    - { field: "unavailable_witness.name", hint: "insert name of unavailable witness" }
+    - " made "
+    - { choice: another_other, options: [ [ another ], [ other ] ] }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - ". "
+    - opt:
+        - "I am referring to the statement"
+        - { opt: [ s ], if: statement_plural }
+        - " about which "
+        - { field: "text.name_s", hint: "insert name[s]" }
+        - " testified."
+      if: i_am_referring_statement
+  - - "If you conclude that "
+    - { field: "unavailable_witness.name", hint: "insert name of unavailable witness" }
+    - " made "
+    - { choice: that_those, options: [ [ that ], [ those ] ] }
+    - " other statement"
+    - { opt: [ s ], if: statement_plural }
+    - ", you may only consider "
+    - { when: [ "!statement_plural", statement_plural ], options: [ it, them ] }
+    - " in a limited way. You may only use "
+    - { choice: it_them, options: [ [ it ], [ them ] ] }
+    - " in deciding whether to believe the testimony of "
+    - { field: "unavailable_witness.name", hint: "insert name of unavailable witness" }
+    - " that was "
+    - { choice: read_played, options: [ [ read ], [ played ] ] }
+    - " here at trial. You may not use "
+    - { choice: that_those, options: [ [ that ], [ those ] ] }
+    - " other statement"
+    - { opt: [ s ], if: statement_plural }
+    - " as proof that the information contained in "
+    - { when: [ "!statement_plural", statement_plural ], options: [ it, them ] }
+    - " is true, nor may you use "
+    - { when: [ "!statement_plural", statement_plural ], options: [ it, them ] }
+    - " for any other reason."
+people: { unavailable_witness: { label: "Unavailable witness", uses: [ name ] } }

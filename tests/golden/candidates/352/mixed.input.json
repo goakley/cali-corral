@@ -1,0 +1,58 @@
+{
+  "answers": {
+    "is_was": "o1",
+    "violent": "o2",
+    "has_had": "o1",
+    "violence": "o2",
+    "is_was_violent_person": "o1",
+    "not_violent_person_does": "o3",
+    "testimony_that_is_was": true,
+    "is_violent_person_has": "o2",
+    "is_not_violent_person": "o1",
+    "testimony_that_defendant_is": false,
+    "you_have_also_heard": true,
+    "an": false,
+    "other_offense_s_offense": "o1",
+    "committed_other_offense_s": "o2",
+    "that_those_offense_s": "o3",
+    "uncharged_offense_s_act": "o2",
+    "is_violent_person_has_2": "o1",
+    "people_presented_evidence_that": false,
+    "violence_2": "o1",
+    "only_in_deciding_charges": false,
+    "in_evaluating_this_evidence": true,
+    "do_not_conclude_from": false,
+    "has_have": "o1",
+    "that_has_have_been": false,
+    "each": "o1",
+    "charge": [
+      "o2"
+    ],
+    "offense_plural": true,
+    "act_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    },
+    "victim": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "allegation_s": "example allegation s",
+    "applicable_counts": "example applicable counts",
+    "character_trait": "example character trait",
+    "charge_s": "example charge s",
+    "description_alleged_conduct_admitted": "example description alleged conduct admitted",
+    "description_alleged_offense_s": "example description alleged offense s",
+    "other_relevant_trait": "example other relevant trait"
+  }
+}

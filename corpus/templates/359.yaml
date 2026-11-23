@@ -1,0 +1,40 @@
+# CALCRIM No. 359. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "359"
+title: "Corpus Delicti: Independent Evidence of a Charged Crime"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2006, February 2014, February 2015, September 2017, March 2018"
+  body_sha256: "01b78fa3ea72db34286c0178138ea9b9fc85d553371d5d3741f32541e007dbc4"
+review: "machine-checked"
+questions:
+  - id: lesser_included_offense
+    type: boolean
+    prompt: "Include “or a lesser included offense”?"
+  - { id: degree_crime, type: boolean, prompt: "Include “and the degree of the crime”?" }
+  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+body:
+  - - "The defendant may not be convicted of any crime based on "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " out-of-court statement"
+    - { opt: [ s ], if: statement_plural }
+    - " alone. You may rely on the defendant’s out-of-court statements to convict "
+    - { pronoun: defendant, forms: [ him, her ] }
+    - " only if you first conclude that other evidence shows that the charged crime "
+    - { opt: [ "or a lesser included offense" ], if: lesser_included_offense }
+    - " was committed."
+  - - "That other evidence may be slight and need only be enough to support a reasonable inference that a crime was committed."
+  - - "This requirement of other evidence does not apply to proving the identity of the person who committed the crime "
+    - { opt: [ "and the degree of the crime" ], if: degree_crime }
+    - ". If other evidence shows that the charged crime "
+    - { opt: [ "or a lesser included offense" ], if: lesser_included_offense }
+    - " was committed, the identity of the person who committed it "
+    - { opt: [ "and the degree of the crime" ], if: degree_crime }
+    - " may be proved by the defendant’s statement"
+    - { opt: [ s ], if: statement_plural }
+    - " alone."
+  - - "You may not convict the defendant unless the People have proved "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " guilt beyond a reasonable doubt."

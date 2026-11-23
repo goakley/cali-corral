@@ -1,0 +1,41 @@
+# CALCRIM No. 356. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "356"
+title: "Miranda-Defective Statements"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: cd62e09c3033f63e99d88356bf792e5f473ec9907eb64087e88d71885ef58c5c
+review: "machine-checked"
+questions:
+  - id: about_which_officer_s
+    type: choice
+    options: [ { id: o1, label: "about which Officer[s] ___ testified" }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: i_am_referring_statement
+    type: boolean
+    prompt: "Include “I am referring to the statement (about which Officer[s] ___ testified…”?"
+  - id: you_should_view_unrecorded
+    type: boolean
+    prompt: "Include “You should view an unrecorded oral statement cautiously.”?"
+  - { id: officer_plural, type: boolean, prompt: "More than one officer?" }
+body:
+  - - "You have heard evidence that the defendant made a statement to a peace officer. "
+    - opt:
+        - "I am referring to the statement "
+        - choice: about_which_officer_s
+          options:
+            - - "about which Officer"
+              - { opt: [ s ], if: officer_plural }
+              - " "
+              - { field: "text.f1" }
+              - " testified"
+            - - field: "text.other_description_identify_statement"
+                hint: "insert other description to identify statement, e.g., time and place statement was taken"
+        - "."
+      if: i_am_referring_statement
+  - - "If you conclude that the defendant made this statement, you may consider it only to help you decide whether to believe the defendant’s testimony. You may not consider it as proof that the statement is true or for any other purpose."
+  - - opt: [ "You should view an unrecorded oral statement cautiously." ]
+      if: you_should_view_unrecorded

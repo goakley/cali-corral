@@ -1,0 +1,20 @@
+{
+  "answers": {
+    "clerk_bailiff": "o1",
+    "may_are_about": "o1",
+    "that_is_partially": false,
+    "if_recording_is_partially": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_description_language_other": "example name description language other"
+  }
+}

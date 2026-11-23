@@ -1,0 +1,17 @@
+# CALCRIM No. 330. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "330"
+title: "Testimony of Child 10 Years of Age or Younger"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2014"
+  body_sha256: "4f26b36d39c9458e809f5831825ceb8d0a8c66e1f6b7213f87fd8a4725ed2a9a"
+review: "machine-checked"
+questions: []
+body:
+  - - "You have heard testimony from a child who is age 10 or younger. As with any other witness, you must decide whether the child gave truthful and accurate testimony."
+  - - "In evaluating the child’s testimony, you should consider all of the factors surrounding that testimony, including the child’s age and level of cognitive development."
+  - - "When you evaluate the child’s cognitive development, consider the child’s ability to perceive, understand, remember, and communicate."
+  - - "While a child and an adult witness may behave differently, that difference does not mean that one is any more or less believable than the other. You should not discount or distrust the testimony of a witness just because he or she is a child."

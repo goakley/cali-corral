@@ -1,0 +1,31 @@
+# CALCRIM No. 120. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "120"
+title: "Service Provider for Juror With Disability: Beginning of Trial"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "23b9174d475728e064f5bbb20247445305ad66619ecddc514ee32bf91e5a56f4"
+review: "machine-checked"
+questions:
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    articleFor: "text.description_service_provider_e"
+    prompt: "Choose one"
+body:
+  - - "During trial, "
+    - { field: "text.name_number_juror", hint: "insert name or number of juror" }
+    - " will be assisted by "
+    - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+    - " "
+    - field: "text.description_service_provider_e"
+      hint: "insert description of service provider, e.g., sign language interpreter"
+    - ". The "
+    - field: "text.description_service_provider"
+      hint: "insert description of service provider"
+    - " is not a member of the jury and is not to participate in the deliberations in any way other than as necessary to provide the service to "
+    - { field: "text.name_number_juror", hint: "insert name or number of juror" }
+    - "."

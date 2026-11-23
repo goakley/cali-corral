@@ -1,0 +1,18 @@
+{
+  "answers": {
+    "defendant_s": "o2",
+    "self_represented_defendant": "o2"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_s_self_represented": "example name s self represented"
+  }
+}

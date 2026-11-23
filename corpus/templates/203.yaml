@@ -1,0 +1,43 @@
+# CALCRIM No. 203. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "203"
+title: "Multiple Defendants"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: cbfb6814578abeeb6df613223c590d4f3614f99de4bcbbf9aaa02856d5f96469
+review: "machine-checked"
+questions:
+  - id: because_more_than_one
+    type: boolean
+    prompt: "Give the paragraph beginning “Because more than one defendant is on trial here, I am goin…”?"
+  - id: both_all
+    type: choice
+    options: [ { id: o1, label: "Both" }, { id: o2, label: "All" } ]
+    prompt: "Choose one"
+  - id: both_all_defendants_in
+    type: boolean
+    prompt: "Include “(Both/All) defendants in this case are charged with the same crimes.”?"
+  - id: all_both
+    type: choice
+    options: [ { id: o1, label: all }, { id: o2, label: both } ]
+    prompt: "Choose one"
+body:
+  - note: "Alternative A—different charges for different defendants"
+    governs: [ because_more_than_one ]
+  - opt:
+      - - "Because more than one defendant is on trial here, I am going to remind you which individuals are charged with which crimes."
+      - [ { field: "text.f1" }, " is charged with ", { field: "text.f2" }, "." ]
+      - [ { field: "text.f3" }, " is charged with ", { field: "text.f4" }, "." ]
+    if: because_more_than_one
+  - { note: "Alternative B—charges the same for all defendants" }
+  - - opt:
+        - { choice: both_all, options: [ [ "Both" ], [ "All" ] ] }
+        - " defendants in this case are charged with the same crimes."
+      if: both_all_defendants_in
+  - - "You must separately consider the evidence as it applies to each defendant. You must decide each charge for each defendant separately. If you cannot reach a verdict on "
+    - { choice: all_both, options: [ [ all ], [ both ] ] }
+    - " of the defendants, or on any of the charges against any defendant, you must report your disagreement to the court and you must return your verdict on any defendant or charge on which you have unanimously agreed."
+  - [ "Unless I tell you otherwise, all instructions apply to each defendant." ]

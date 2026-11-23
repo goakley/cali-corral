@@ -1,0 +1,108 @@
+# CALCRIM No. 253. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "253"
+title: "Union of Act and Intent: Criminal Negligence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, March 2022"
+  body_sha256: d79987537db7d1aee849f8eee61cb5972e8b61510f7af681a99ad57699c5a7a3
+review: "machine-checked"
+questions:
+  - id: find_allegation_s_true
+    type: boolean
+    prompt: "Include “or to find the allegation[s] of ___ true”?"
+  - { id: fail_do_act, type: boolean, prompt: "Include “or fail to do an act”?" }
+  - id: criminal_gross_ordinary
+    type: choice
+    options:
+      - { id: o1, label: criminal }
+      - { id: o2, label: gross }
+      - { id: o3, label: ordinary }
+    prompt: "Choose one"
+  - id: criminal_gross_ordinary_negligence
+    type: boolean
+    prompt: "Include “(Criminal/Gross/Ordinary) negligence is defined in the instructions o…”?"
+  - id: criminal_gross
+    type: choice
+    options: [ { id: o1, label: "Criminal" }, { id: o2, label: "Gross" } ]
+    prompt: "Choose one"
+  - id: criminal_gross_2
+    type: choice
+    options: [ { id: o1, label: criminal }, { id: o2, label: gross } ]
+    prompt: "Choose one"
+  - id: criminal_gross_negligence_involves
+    type: boolean
+    prompt: "Give the paragraph beginning “(Criminal/Gross) negligence involves more than ordinary car…”?"
+  - id: does_something_that
+    type: multi
+    options:
+      - id: o1
+        label: "does something that a reasonably careful person would not do in the same situat…"
+      - id: o2
+        label: "fails to do something that a reasonably careful person would do in the same sit…"
+    prompt: "Which apply? (one or more)"
+  - id: ordinary_negligence_is_failure
+    type: boolean
+    prompt: "Include “Ordinary negligence is the failure to use reasonable care to prevent…”?"
+  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+  - { id: allegation_plural, type: boolean, prompt: "More than one allegation?" }
+body:
+  - - "For you to find a person guilty of the crime"
+    - { opt: [ s ], if: crime_plural }
+    - " of "
+    - { field: "text.name_s_alleged_offense", hint: "insert name[s] of alleged offense[s]" }
+    - " "
+    - opt:
+        - "or to find the allegation"
+        - { opt: [ s ], if: allegation_plural }
+        - " of "
+        - { field: "text.name_s_enhancement_s", hint: "insert name[s] of enhancement[s]" }
+        - " true"
+      if: find_allegation_s_true
+    - ", a person must do an act "
+    - { opt: [ "or fail to do an act" ], if: fail_do_act }
+    - " with "
+    - { choice: criminal_gross_ordinary, options: [ [ criminal ], [ gross ], [ ordinary ] ] }
+    - " negligence."
+  - - opt:
+        - { choice: criminal_gross_ordinary, options: [ [ "Criminal" ], [ "Gross" ], [ "Ordinary" ] ] }
+        - " negligence is defined in the instructions on that crime."
+      if: criminal_gross_ordinary_negligence
+  - opt:
+      - - choice: criminal_gross
+          options: [ [ { em: "Criminal" } ], [ { em: "Gross" } ] ]
+          link: { q: criminal_gross_ordinary, map: [ o1, o2 ] }
+        - " "
+        - { em: negligence }
+        - " involves more than ordinary carelessness, inattention, or mistake in judgment. A person acts with "
+        - choice: criminal_gross_2
+          options: [ [ criminal ], [ gross ] ]
+          link: { q: criminal_gross_ordinary, map: [ o1, o2 ] }
+        - " negligence when:"
+      - elements:
+          - n: "1"
+            text:
+              - "He or she acts in a reckless way that creates a high risk of death or great bodily injury"
+            end: ";"
+          - { n: "1", text: [ "AND" ], end: "" }
+          - n: "2"
+            text: [ "A reasonable person would have known that acting in that way would create such a risk" ]
+            end: "."
+      - - "In other words, a person acts with "
+        - choice: criminal_gross_2
+          options: [ [ criminal ], [ gross ] ]
+          link: { q: criminal_gross_ordinary, map: [ o1, o2 ] }
+        - " negligence when the way he or she acts is so different from the way an ordinarily careful person would act in the same situation that his or her act amounts to disregard for human life or indifference to the consequences of that act."
+    if: criminal_gross_negligence_involves
+  - - opt:
+        - { em: "Ordinary negligence" }
+        - " is the failure to use reasonable care to prevent reasonably foreseeable harm to oneself or someone else. A person is negligent if he or she "
+        - any: does_something_that
+          options:
+            - [ "does something that a reasonably careful person would not do in the same situation" ]
+            - - { sep: or }
+              - " fails to do something that a reasonably careful person would do in the same situation"
+        - "."
+      if: ordinary_negligence_is_failure

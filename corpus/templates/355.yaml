@@ -1,0 +1,14 @@
+# CALCRIM No. 355. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "355"
+title: "Defendant’s Right Not to Testify"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2026*"
+  body_sha256: "4f260c174b58c69f1eca687426a1c9b091c357e3e1b8ac212f98c2724d04eac3"
+review: "machine-checked"
+questions: []
+body:
+  - - "A defendant has an absolute constitutional right not to testify. He or she may rely on the state of the evidence and argue that the People have failed to prove the charges beyond a reasonable doubt. Do not consider, for any reason at all, the fact that the defendant did not testify. Do not discuss that fact during your deliberations or let it influence your decision in any way."

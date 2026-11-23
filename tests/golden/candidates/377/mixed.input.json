@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "will_have_has_had": "o1",
+    "person_dog": "o2",
+    "dog_handler": true,
+    "is_was": "o2"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    },
+    "witness": {
+      "name": "Jordan Sample",
+      "title": "deputy sheriff",
+      "agency": "the Sample County Sheriff’s Office",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

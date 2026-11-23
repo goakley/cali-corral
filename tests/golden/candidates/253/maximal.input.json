@@ -1,0 +1,31 @@
+{
+  "answers": {
+    "find_allegation_s_true": true,
+    "fail_do_act": true,
+    "criminal_gross_ordinary": "o3",
+    "criminal_gross_ordinary_negligence": true,
+    "criminal_gross": "o2",
+    "criminal_gross_2": "o2",
+    "criminal_gross_negligence_involves": true,
+    "does_something_that": [
+      "o1",
+      "o2"
+    ],
+    "ordinary_negligence_is_failure": true,
+    "crime_plural": true,
+    "allegation_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_s_alleged_offense": "example name s alleged offense",
+    "name_s_enhancement_s": "example name s enhancement s"
+  }
+}

@@ -1,0 +1,25 @@
+# CALCRIM No. 361. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "361"
+title: "Failure to Explain or Deny Adverse Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2010, February 2016, March 2017, April 2020"
+  body_sha256: bd37a9d143df41678ee3897723687f3972ec394467218a35718917754d51d9c1
+review: "machine-checked"
+questions: []
+body:
+  - - "If the defendant failed in "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " testimony to explain or deny evidence against "
+    - { pronoun: defendant, forms: [ him, her ] }
+    - ", and if "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " could reasonably be expected to have done so based on what "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " knew, you may consider "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " failure to explain or deny in evaluating that evidence. Any such failure is not enough by itself to prove guilt. The People must still prove the defendant guilty beyond a reasonable doubt."
+  - - "If the defendant failed to explain or deny, it is up to you to decide the meaning and importance of that failure."

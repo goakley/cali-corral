@@ -1,0 +1,67 @@
+# CALCRIM No. 370. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "370"
+title: "Motive"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2016, March 2017"
+  body_sha256: "54babd6345a390139f5bc32dd243464da8896874590efb0d4fd944e45e247041"
+review: "machine-checked"
+questions:
+  - id: any_crimes_crime
+    type: choice
+    options: [ { id: o1, label: "any of the crimes" }, { id: o2, label: "the crime" } ]
+    prompt: "Choose one"
+  - id: commit_any_crimes
+    type: multi
+    options:
+      - { id: o1, label: "commit (any of the crimes/the crime) charged" }
+      - { id: o2, label: "___" }
+    prompt: "Which apply? (one or more)"
+  - id: allegation
+    type: multi
+    options: [ { id: o1, label: allegation }, { id: o2, label: "special circumstance" } ]
+    prompt: "Which apply? (one or more)"
+  - id: that_defendant_is
+    type: multi
+    options:
+      - { id: o1, label: "that the defendant is guilty" }
+      - { id: o2, label: "that an (allegation/[or] special circumstance) is true" }
+    prompt: "Which apply? (one or more)"
+  - id: defendant_is_not
+    type: multi
+    options:
+      - { id: o1, label: "the defendant is not guilty" }
+      - { id: o2, label: "that an (allegation/[or] special circumstance) is not true" }
+    prompt: "Which apply? (one or more)"
+body:
+  - - "The People are not required to prove that the defendant had a motive to "
+    - any: commit_any_crimes
+      options:
+        - - "commit "
+          - { choice: any_crimes_crime, options: [ [ "any of the crimes" ], [ "the crime" ] ] }
+          - " charged"
+        - - { sep: or }
+          - " "
+          - field: "text.conduct_alleged_in_support"
+            hint: "insert conduct alleged in support of sentencing enhancement or special circumstance"
+    - ". In reaching your verdict you may, however, consider whether the defendant had a motive."
+  - - "Having a motive may be a factor tending to show "
+    - any: that_defendant_is
+      options:
+        - [ "that the defendant is guilty" ]
+        - - { sep: or }
+          - " that an "
+          - { any: allegation, options: [ [ allegation ], [ { sep: or }, " special circumstance" ] ] }
+          - " is true"
+    - ". Not having a motive may be a factor tending to show "
+    - any: defendant_is_not
+      options:
+        - [ "the defendant is not guilty" ]
+        - - { sep: or }
+          - " that an "
+          - { any: allegation, options: [ [ allegation ], [ { sep: or }, " special circumstance" ] ] }
+          - " is not true"
+    - "."

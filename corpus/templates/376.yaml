@@ -1,0 +1,45 @@
+# CALCRIM No. 376. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "376"
+title: "Possession of Recently Stolen Property as Evidence of a Crime"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006, September 2019"
+  body_sha256: "3b55ca1c9d3cef85e9d0b8c6da039ab9fcebb655121f04103cdbad3a08714a48"
+review: "machine-checked"
+questions:
+  - id: stolen_extorted
+    type: choice
+    options: [ { id: o1, label: stolen }, { id: o2, label: extorted } ]
+    prompt: "Choose one"
+  - id: you_may_also_consider
+    type: boolean
+    prompt: "Include “You may also consider whether ___.”?"
+body:
+  - - "If you conclude that the defendant knew "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " possessed property and you conclude that the property had in fact been recently "
+    - { choice: stolen_extorted, options: [ [ stolen ], [ extorted ] ] }
+    - ", you may not convict the defendant of "
+    - { field: "text.crime", hint: "insert crime" }
+    - " based on those facts alone. However, if you also find that supporting evidence tends to prove "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " guilt, then you may conclude that the evidence is sufficient to prove "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " committed "
+    - { field: "text.crime", hint: "insert crime" }
+    - "."
+  - - "The supporting evidence need only be slight and need not be enough by itself to prove guilt. You may consider how, where, and when the defendant possessed the property, along with any other relevant circumstances tending to prove "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " guilt of "
+    - { field: "text.crime", hint: "insert crime" }
+    - "."
+  - - opt:
+        - "You may also consider whether "
+        - field: "text.other_appropriate_factors_for"
+          hint: "insert other appropriate factors for consideration"
+        - "."
+      if: you_may_also_consider
+  - - "Remember that you may not convict the defendant of any crime unless you are convinced that each fact essential to the conclusion that the defendant is guilty of that crime has been proved beyond a reasonable doubt."

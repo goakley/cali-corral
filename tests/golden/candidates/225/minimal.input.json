@@ -1,0 +1,21 @@
+{
+  "answers": {
+    "intent": [
+      "o1"
+    ],
+    "each": "o1",
+    "allegation": false,
+    "n": false,
+    "act_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

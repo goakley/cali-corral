@@ -1,0 +1,29 @@
+{
+  "answers": {
+    "any_crimes_crime": "o1",
+    "commit_any_crimes": [
+      "o1"
+    ],
+    "allegation": [
+      "o1"
+    ],
+    "that_defendant_is": [
+      "o1"
+    ],
+    "defendant_is_not": [
+      "o1"
+    ]
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "conduct_alleged_in_support": "example conduct alleged in support"
+  }
+}

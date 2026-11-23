@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "jury_service_is_very": false,
+    "prosecuting_office": "o1",
+    "first_step_in_this": false,
+    "then_now": "o1",
+    "before": false,
+    "give_have_given": "o1",
+    "people_attorney_plural": false,
+    "defense_attorney_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_s_defendant_s": "example name s defendant s"
+  }
+}

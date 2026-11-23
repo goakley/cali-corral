@@ -1,0 +1,17 @@
+{
+  "answers": {
+    "lesser_included_offense": false,
+    "degree_crime": false,
+    "statement_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

@@ -1,0 +1,51 @@
+# CALCRIM No. 306. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "306"
+title: "Untimely Disclosure of Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2014"
+  body_sha256: "65bf602468f60de2bda7fd677628c7c69af2210ccd99a6ad6219bc99d8276fb1"
+review: "machine-checked"
+questions:
+  - id: people_defense
+    type: choice
+    options: [ { id: o1, label: "People" }, { id: o2, label: defense } ]
+    prompt: "Choose one"
+  - id: within_legal_time_period
+    type: boolean
+    prompt: "Include “within the legal time period”?"
+  - id: however_fact_that_defendant
+    type: boolean
+    prompt: "Include “However, the fact that the defendant’s attorney failed to disclose ev…”?"
+  - id: you_must_not_consider
+    type: boolean
+    prompt: "Include “You must not consider the fact that an attorney for defendant ___ fai…”?"
+body:
+  - - "Both the People and the defense must disclose their evidence to the other side before trial, within the time limits set by law. Failure to follow this rule may deny the other side the chance to produce all relevant evidence, to counter opposing evidence, or to receive a fair trial."
+  - - "An attorney for the "
+    - { choice: people_defense, options: [ [ "People" ], [ defense ] ] }
+    - " failed to disclose: "
+    - field: "text.describe_evidence_that_was"
+      hint: "describe evidence that was not disclosed"
+    - " "
+    - { opt: [ "within the legal time period" ], if: within_legal_time_period }
+    - "."
+  - - "In evaluating the weight and significance of that evidence, you may consider the effect, if any, of that late disclosure."
+  - - opt:
+        - "However, the fact that the defendant’s attorney failed to disclose evidence "
+        - { opt: [ "within the legal time period" ], if: within_legal_time_period }
+        - " is not evidence that the defendant committed a crime."
+      if: however_fact_that_defendant
+  - { note: "Consider for multiple defendant cases" }
+  - - opt:
+        - "You must not consider the fact that an attorney for defendant "
+        - { field: "defendant.name", hint: "insert defendant’s name" }
+        - " failed to disclose evidence when you decide the charges against defendant"
+        - { opt: [ s ], if: "@multiple_defendants" }
+        - " "
+        - { field: "text.names_other_defendant_s", hint: "insert names of other defendant[s]" }
+        - "."
+      if: you_must_not_consider

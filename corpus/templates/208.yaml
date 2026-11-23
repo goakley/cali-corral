@@ -1,0 +1,35 @@
+# CALCRIM No. 208. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "208"
+title: "Witness Identified as John or Jane Doe"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New August 2009"
+  body_sha256: "1a7187e6d1cbe42c9f1295c14c42d994cb620c0afe6d82deb1ee1281b97703f9"
+review: "machine-checked"
+questions:
+  - id: john_jane
+    type: choice
+    options: [ { id: o1, label: "John" }, { id: o2, label: "Jane" } ]
+    prompt: "Choose one"
+  - id: john_jane_doe
+    type: choice
+    options: [ { id: o1, label: "(John/Jane) Doe" }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: fact_that_person_is
+    type: boolean
+    prompt: "Include “The fact that the person is identified in this way is not evidence. D…”?"
+body:
+  - - "In this case, a person is called "
+    - choice: john_jane_doe
+      options:
+        - [ { choice: john_jane, options: [ [ "John" ], [ "Jane" ] ] }, " Doe" ]
+        - [ { field: "text.other_name_used", hint: "insert other name used" } ]
+    - ". This name is used only to protect "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " privacy, as required by law. "
+    - opt:
+        - "The fact that the person is identified in this way is not evidence. Do not consider this fact for any purpose."
+      if: fact_that_person_is

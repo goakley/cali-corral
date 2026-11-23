@@ -1,0 +1,33 @@
+{
+  "answers": {
+    "a": true,
+    "cognitive": [
+      "o1",
+      "o2",
+      "o3"
+    ],
+    "developmental_disability": [
+      "o1",
+      "o2"
+    ],
+    "a_2": true,
+    "choice": true,
+    "a_3": true,
+    "choice_2": true,
+    "a_or_an": "o2",
+    "disability": [
+      "o1",
+      "o2"
+    ]
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

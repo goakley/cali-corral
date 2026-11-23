@@ -1,0 +1,32 @@
+# CALCRIM No. 219. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "219"
+title: "Reasonable Doubt in Civil Commitment Proceedings"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New August 2009; Revised August 2015"
+  body_sha256: eb065fd054c34ae71c5afe2340d976a25ee7d18a5b040c7b6c636da016098876
+review: "machine-checked"
+questions:
+  - id: declare_respondent_sexually_violent
+    type: choice
+    options:
+      - { id: o1, label: "declare respondent a sexually violent predator" }
+      - { id: o2, label: "declare respondent a mentally disordered offender" }
+      - { id: o3, label: "extend respondent’s commitment" }
+    prompt: "Choose one"
+body:
+  - - "The fact that a petition to "
+    - choice: declare_respondent_sexually_violent
+      options:
+        - [ "declare respondent a sexually violent predator" ]
+        - [ "declare respondent a mentally disordered offender" ]
+        - [ "extend respondent’s commitment" ]
+    - " has been filed is not evidence that the petition is true. You must not be biased against the respondent just because the petition has been filed and this matter has been brought to trial. The Petitioner is required to prove the allegations of the petition are true beyond a reasonable doubt."
+  - - "Proof beyond a reasonable doubt is proof that leaves you with an abiding conviction that the allegations of the petition are true. The evidence need not eliminate all possible doubt because everything in life is open to some possible or imaginary doubt."
+  - - "In deciding whether the Petitioner has proved the allegations of the petition are true beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the Respondent "
+    - field: "text.what_must_be_proved"
+      hint: "insert what must be proved in this proceeding, e.g., “is a sexually violent predator”"
+    - " beyond a reasonable doubt, you must find the petition is not true."

@@ -1,0 +1,21 @@
+{
+  "answers": {
+    "find_allegation_s_true": false,
+    "fail_do_required_act": false,
+    "crime_plural": false,
+    "allegation_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_s_alleged_offense": "example name s alleged offense",
+    "name_s_enhancement_s": "example name s enhancement s"
+  }
+}

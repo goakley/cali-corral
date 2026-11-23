@@ -1,0 +1,56 @@
+# CALCRIM No. 357. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "357"
+title: "Adoptive Admissions"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2014"
+  body_sha256: af937d143205e894054a11e2e0fc788a71f37909610d3bc1f70b312883112cab
+review: "machine-checked"
+questions:
+  - id: accused_defendant_crime
+    type: multi
+    options:
+      - { id: o1, label: "accused the defendant of the crime" }
+      - { id: o2, label: "tended to connect the defendant with the commission of the crime" }
+    prompt: "Which apply? (one or more)"
+  - id: any
+    type: choice
+    options: [ { id: o1, label: the }, { id: o2, label: any } ]
+    prompt: "Choose one"
+  - id: you_must_not_consider
+    type: boolean
+    prompt: "Include “You must not consider this evidence in determining the guilt of (the/…”?"
+body:
+  - - "If you conclude that someone made a statement outside of court that "
+    - any: accused_defendant_crime
+      options:
+        - [ "accused the defendant of the crime" ]
+        - [ { sep: or }, " tended to connect the defendant with the commission of the crime" ]
+    - " and the defendant did not deny it, you must decide whether each of the following is true:"
+  - elements:
+      - n: "1"
+        text:
+          - "The statement was made to the defendant or made in "
+          - { pronoun: defendant, forms: [ his, her ] }
+          - " presence"
+        end: ";"
+      - { n: "2", text: [ "The defendant heard and understood the statement" ], end: ";" }
+      - n: "3"
+        text:
+          - "The defendant would, under all the circumstances, naturally have denied the statement if "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " thought it was not true"
+        end: ";"
+      - { n: "4", text: [ "The defendant could have denied it but did not" ], end: ".", and: "AND" }
+  - - "If you decide that all of these requirements have been met, you may conclude that the defendant admitted the statement was true."
+  - - "If you decide that any of these requirements has not been met, you must not consider either the statement or the defendant’s response for any purpose."
+  - - opt:
+        - "You must not consider this evidence in determining the guilt of "
+        - { choice: any, options: [ [ the ], [ any ] ] }
+        - " other defendant"
+        - { opt: [ s ], if: "@multiple_defendants" }
+        - "."
+      if: you_must_not_consider

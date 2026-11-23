@@ -1,0 +1,24 @@
+# CALCRIM No. 374. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "374"
+title: "Dog Tracking Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: d499894b5917ea0fd77aca310036e1a4adc3e66367104499d2d25e818bb1e369
+review: "machine-checked"
+questions: [ { id: location, type: boolean, prompt: "Include “or a location”?" } ]
+body:
+  - - "You have received evidence about the use of a tracking dog. You may not conclude that the defendant is the person who committed the crime based only on the fact that a dog indicated the defendant "
+    - { opt: [ "or a location" ], if: location }
+    - ". Before you may rely on dog tracking evidence, there must be:"
+  - elements:
+      - { n: "1", text: [ "Evidence of the dog’s general reliability as a tracker" ], end: ";" }
+      - n: "2"
+        text:
+          - "Other evidence that the dog accurately followed a trail that led to the person who committed the crime. This other evidence does not need to independently link the defendant to the crime"
+        end: "."
+        and: "AND"
+  - - "In deciding the meaning and importance of the dog tracking evidence, consider the training, skill, and experience, if any, of the dog, its trainer, and its handler, together with everything else that you learned about the dog’s work in this case."

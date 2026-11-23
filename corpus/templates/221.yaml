@@ -1,0 +1,32 @@
+# CALCRIM No. 221. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "221"
+title: "Reasonable Doubt: Bifurcated Trial"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2015"
+  body_sha256: "107ffbbcef84c56aac6b19258b2d9c9a7fea87060d9323dc2e7eb2602845d1d5"
+review: "machine-checked"
+questions:
+  - id: an_or_the
+    type: choice
+    options: [ { id: o1, label: an }, { id: o2, label: the } ]
+    prompt: "Choose one"
+  - { id: phase, type: boolean, prompt: "Include “phase of the”?" }
+  - id: disregard_it_completely
+    type: boolean
+    prompt: "Include “and disregard it completely”?"
+body:
+  - [ "The People are required to prove the allegations beyond a reasonable doubt." ]
+  - - "Proof beyond a reasonable doubt is proof that leaves you with an abiding conviction that the allegation is true. The evidence does not need to eliminate all possible doubt because everything in life is open to some possible or imaginary doubt."
+  - - "In deciding whether the People have proved "
+    - { choice: an_or_the, options: [ [ an ], [ the ] ] }
+    - " allegation beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received during this "
+    - { opt: [ "phase of the" ], if: phase }
+    - " trial. Unless the evidence proves "
+    - { choice: an_or_the, options: [ [ an ], [ the ] ] }
+    - " allegation beyond a reasonable doubt, you must find that the allegation has not been proved "
+    - { opt: [ "and disregard it completely" ], if: disregard_it_completely }
+    - "."

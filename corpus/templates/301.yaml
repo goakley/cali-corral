@@ -1,0 +1,24 @@
+# CALCRIM No. 301. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "301"
+title: "Single Witness’s Testimony"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised April 2010, February 2012, February 2014, September 2017, March 2019, March 2023"
+  body_sha256: "21f95a66ec09f9c71597cf8975ccc074537069fec4baaa49851fa3922448a882"
+review: "machine-checked"
+questions:
+  - id: unless_i_instruct_you
+    type: boolean
+    prompt: "Include “Unless I instruct you otherwise,”?"
+  - id: the_or_the
+    type: choice
+    options: [ { id: o1, label: "The" }, { id: o2, label: the } ]
+    prompt: "Choose one"
+body:
+  - - { opt: [ "Unless I instruct you otherwise," ], if: unless_i_instruct_you }
+    - " "
+    - { choice: the_or_the, options: [ [ "The" ], [ the ] ] }
+    - " testimony of only one witness can prove any fact. Before you conclude that the testimony of one witness proves a fact, you should carefully review all the evidence."

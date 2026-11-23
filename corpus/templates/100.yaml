@@ -1,0 +1,89 @@
+# CALCRIM No. 100. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "100"
+title: "Trial Process (Before or After Voir Dire)"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007"
+  body_sha256: "56ad13cb9b902cce67f66681024d3652c1a040b9780cd0252adadd4e15c3b6f7"
+review: "machine-checked"
+questions:
+  - id: jury_service_is_very
+    type: boolean
+    prompt: "Include “Jury service is very important and I would like to welcome you and th…”?"
+  - id: prosecuting_office
+    type: choice
+    options:
+      - { id: o1, label: "district attorney’s office" }
+      - { id: o2, label: "city attorney’s office" }
+      - { id: o3, label: "office of the attorney general" }
+    prompt: "Prosecuting office"
+  - id: first_step_in_this
+    type: boolean
+    prompt: "Give the paragraph beginning “The first step in this trial is jury selection.”?"
+  - id: then_now
+    type: choice
+    options: [ { id: o1, label: then }, { id: o2, label: now } ]
+    prompt: "“The trial will (then/now) proceed”"
+  - { id: before, type: boolean, prompt: "Include “before”?" }
+  - id: give_have_given
+    type: choice
+    options: [ { id: o1, label: give }, { id: o2, label: "have given" } ]
+    prompt: "“the attorneys (give/have given) their final arguments”"
+  - id: people_attorney_plural
+    type: boolean
+    prompt: "More than one attorney for the People?"
+  - id: defense_attorney_plural
+    type: boolean
+    prompt: "More than one defense attorney?"
+body:
+  - - opt:
+        - "Jury service is very important and I would like to welcome you and thank you for your service."
+      if: jury_service_is_very
+    - " Before we begin, I am going to describe for you how the trial will be conducted, and explain what you and the lawyers and I will be doing. When I refer to “the People,” I mean the attorney"
+    - { opt: [ s ], if: people_attorney_plural }
+    - " from the "
+    - choice: prosecuting_office
+      options:
+        - [ "district attorney’s office" ]
+        - [ "city attorney’s office" ]
+        - [ "office of the attorney general" ]
+    - " who "
+    - { when: [ "!people_attorney_plural", people_attorney_plural ], options: [ is, are ] }
+    - " trying this case on behalf of the People of the State of California. When I refer to defense counsel, I mean the attorney"
+    - { opt: [ s ], if: defense_attorney_plural }
+    - " who "
+    - { when: [ "!defense_attorney_plural", defense_attorney_plural ], options: [ is, are ] }
+    - " representing the defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - ", "
+    - { field: "text.name_s_defendant_s", hint: "insert name[s] of defendant[s]" }
+    - "."
+  - opt:
+      - [ "The first step in this trial is jury selection." ]
+      - - "During jury selection, the attorneys and I will ask you questions. These questions are not meant to embarrass you, but rather to determine whether you would be suitable to sit as a juror in this case."
+    if: first_step_in_this
+  - - "The trial will "
+    - { choice: then_now, options: [ [ then ], [ now ] ] }
+    - " proceed as follows: The People may present an opening statement. The defense is not required to present an opening statement, but if it chooses to do so, it may give it either after the People’s opening statement or at the beginning of the defense case. The purpose of an opening statement is to give you an overview of what the attorneys expect the evidence will show."
+  - - "Next, the People will offer their evidence. Evidence usually includes witness testimony and exhibits. After the People present their evidence, the defense may also present evidence but is not required to do so. Because "
+    - { pronoun: defendant, forms: [ he, she, they ] }
+    - " "
+    - { agree: defendant, sg: is, pl: are, alt: true }
+    - " presumed innocent, the defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " "
+    - { when: [ "!@multiple_defendants", "@multiple_defendants" ], options: [ does, do ] }
+    - " not have to prove that "
+    - { pronoun: defendant, forms: [ he, she, they ] }
+    - " "
+    - { agree: defendant, sg: is, pl: are, alt: true }
+    - " not guilty."
+  - - "After you have heard all the evidence and "
+    - { opt: [ before ], if: before }
+    - " the attorneys "
+    - { choice: give_have_given, options: [ [ give ], [ "have given" ] ] }
+    - " their final arguments, I will instruct you on the law that applies to the case."
+  - - "After you have heard the arguments and instructions, you will go to the jury room to deliberate."

@@ -1,0 +1,58 @@
+# CALCRIM No. 202. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "202"
+title: "Note-Taking and Reading Back of Testimony"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2008, August 2009, February 2012, March 2019, September 2020, March 2021, October 2025"
+  body_sha256: e39fad5f6a5813e379f3d9bbba0094fed29f636d162bebb1b7fb10181e20a28c
+review: "machine-checked"
+questions:
+  - id: you_have_been_given
+    type: boolean
+    prompt: "Include “You have been given notebooks and may have taken notes during the tri…”?"
+  - { id: stipulations, type: boolean, prompt: "Include “and stipulations”?" }
+  - id: court_reporter_record_be
+    type: choice
+    options:
+      - { id: o1, label: "court reporter’s record be read to" }
+      - { id: o2, label: "court’s recording be played for" }
+    prompt: "Choose one"
+  - id: do_not_ask_court
+    type: boolean
+    prompt: "Include “Do not ask the court reporter questions during the readback and do no…”?"
+  - id: collected_destroyed_collected_retained
+    type: choice
+    options:
+      - { id: o1, label: "collected and destroyed" }
+      - id: o2
+        label: "collected and retained by the court but not as a part of the case record"
+      - { id: o3, label: "___" }
+    prompt: "Choose one"
+body:
+  - - opt:
+        - "You have been given notebooks and may have taken notes during the trial. You may use your notes during deliberations."
+      if: you_have_been_given
+    - " Your notes are for your own individual use to help you remember what happened during the trial. Please keep in mind that your notes may be inaccurate or incomplete."
+  - - "If there is a disagreement about the testimony "
+    - { opt: [ "and stipulations" ], if: stipulations }
+    - " at trial, you may ask that the "
+    - choice: court_reporter_record_be
+      options: [ [ "court reporter’s record be read to" ], [ "court’s recording be played for" ] ]
+    - " you. It is the record that must guide your deliberations, not your notes. You must accept the "
+    - choice: court_reporter_record_be
+      options: [ [ "court reporter’s record" ], [ "court’s recording" ] ]
+    - " as accurate. "
+    - opt:
+        - "Do not ask the court reporter questions during the readback and do not discuss the case in the presence of the court reporter."
+      if: do_not_ask_court
+  - [ "Please do not remove your notes from the jury room." ]
+  - - "At the end of the trial, your notes will be "
+    - choice: collected_destroyed_collected_retained
+      options:
+        - [ "collected and destroyed" ]
+        - [ "collected and retained by the court but not as a part of the case record" ]
+        - [ { field: "text.specify_other_disposition", hint: "specify other disposition" } ]
+    - "."

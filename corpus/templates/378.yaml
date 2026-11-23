@@ -1,0 +1,38 @@
+# CALCRIM No. 378. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "378"
+title: "Consciousness of Guilt: General"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New March 2022"
+  body_sha256: "5f6a0f687d9f934fb9067ea0761b35ab4e1dc4bb161237ce031117121520fda3"
+review: "machine-checked"
+questions: [ { id: tried, type: boolean, prompt: "Include “or tried to ___”?" } ]
+body:
+  - - "If the defendant "
+    - { field: "text.f1" }
+    - " "
+    - { opt: [ "or tried to ", { field: "text.f2" } ], if: tried }
+    - " "
+    - { note: "insert post-offense conduct" }
+    - ", that conduct may show that "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " "
+    - { agree: defendant, sg: was, pl: were }
+    - " aware of "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " guilt. If you conclude that the defendant "
+    - { field: "text.f3" }
+    - " "
+    - { opt: [ "or tried to ", { field: "text.f4" } ], if: tried }
+    - " "
+    - { note: "insert post-offense conduct" }
+    - ", it is up to you to decide the meaning and importance of that conduct. However, evidence that the defendant "
+    - { field: "text.f5" }
+    - " "
+    - { opt: [ "or tried to ", { field: "text.f6" } ], if: tried }
+    - " "
+    - { note: "insert post-offense conduct" }
+    - " cannot prove guilt by itself."

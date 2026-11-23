@@ -1,0 +1,19 @@
+{
+  "answers": {
+    "the": false,
+    "choice": false,
+    "you_may_not_consider": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_defendant_when_multiple": "example name defendant when multiple"
+  }
+}

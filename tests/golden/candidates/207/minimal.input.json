@@ -1,0 +1,20 @@
+{
+  "answers": {
+    "about": false,
+    "it_they": "o1",
+    "crime_plural": false,
+    "day_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "alleged_date_s_date": "example alleged date s date"
+  }
+}

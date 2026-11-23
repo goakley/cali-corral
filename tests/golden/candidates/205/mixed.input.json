@@ -1,0 +1,19 @@
+{
+  "answers": {
+    "count_plural": true,
+    "need_plural": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "f1": "example f1",
+    "name_s_offense_s": "example name s offense s"
+  }
+}

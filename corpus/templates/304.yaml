@@ -1,0 +1,18 @@
+# CALCRIM No. 304. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "304"
+title: "Multiple Defendants: Limited Admissibility of Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "38e66ee83ba574aae45859af17e6be0fff5a9acc15f2f924998bfc884dfc381f"
+review: "machine-checked"
+questions: [ { id: a, type: boolean, prompt: "Include “a”?" } ]
+body:
+  - - "I instructed you during the trial that certain evidence was admitted only against "
+    - { opt: [ a ], if: a }
+    - " certain defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - ". You must not consider that evidence against any other defendant."

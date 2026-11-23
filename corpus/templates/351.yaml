@@ -1,0 +1,25 @@
+# CALCRIM No. 351. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "351"
+title: "Cross-Examination of Character Witness"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: ca992e5ece7e51005939001c5c9095ce9d1c1ce0eb1f8654f089980878d1555e
+review: "machine-checked"
+questions:
+  - id: the_or_a
+    type: choice
+    options: [ { id: o1, label: the }, { id: o2, label: a } ]
+    prompt: "Choose one"
+  - { id: witness_plural, type: boolean, prompt: "More than one witness?" }
+body:
+  - - "The attorney for the People was allowed to ask defendant’s character witness"
+    - { opt: [ es ], if: witness_plural }
+    - " if "
+    - { pronoun: defendant, forms: [ he, she, they ] }
+    - " had heard that the defendant had engaged in certain conduct. These “have you heard” questions and their answers are not evidence that the defendant engaged in any such conduct. You may consider these questions and answers only to evaluate the meaning and importance of "
+    - { choice: the_or_a, options: [ [ the ], [ a ] ] }
+    - " character witness’s testimony."

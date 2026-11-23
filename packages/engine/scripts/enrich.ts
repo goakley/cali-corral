@@ -37,6 +37,18 @@ import type {
 import { isElement, isGroup, isNoteItem, toInlines } from "../src/walk.ts";
 import { ADVERB, pluralVerb } from "../test/problems.ts";
 
+/** Singular/plural word pairs that follow a plural marker ("crime[s] … (that/those)"). */
+const SG_PL: Record<string, string[]> = {
+  that: ["those"],
+  this: ["these"],
+  it: ["they", "them"],
+  its: ["their"],
+  is: ["are"],
+  was: ["were"],
+  has: ["have"],
+  does: ["do"],
+};
+
 export interface Todo {
   kind:
     | "role"
@@ -74,16 +86,18 @@ function splitVerb(
 }
 
 function slug(s: string, words = 4): string {
-  const w = s
+  const all = s
     .toLowerCase()
     .replace(/[’']s\b/g, "")
     .replace(/<[^>]*>/g, " ")
     .replace(/[^a-z0-9]+/g, " ")
     .trim()
     .split(/\s+/)
-    .filter((x) => x && !["the", "a", "an", "of", "to", "and", "or"].includes(x))
+    .filter(Boolean);
+  const kept = all
+    .filter((x) => !["the", "a", "an", "of", "to", "and", "or"].includes(x))
     .slice(0, words);
-  const id = w.join("_") || "choice";
+  const id = (kept.length ? kept : all.slice(0, words)).join("_") || "choice";
   return /^[a-z]/.test(id) ? id : `q_${id}`;
 }
 
@@ -134,9 +148,22 @@ function bindHint(hint: string | undefined, before: string): Binding | undefined
   return undefined;
 }
 
+const PERSON = new Set(
+  (
+    "officer decedent person witness victim adult respondent felon minor recipient expert party " +
+    "child petitioner accomplice perpetrator guardian father mother principal employer employee " +
+    "man woman driver owner spouse parent juror inmate prisoner patient informant agent " +
+    "firefighter attorney physician buyer seller participant provocateur defendant"
+  ).split(" "),
+);
+const NOT_PERSON =
+  /\b(?:code|offense|substance|drug|felony|court|facility|theory|city|county|state|institution|college|country|language|crime|agency|business|vehicle|weapon|place|document)\b/;
+
 function roleBinding(noun: string, use: "name" | "title" | "agency"): Binding | undefined {
   let n = noun.toLowerCase().trim();
-  if (n.split(" ").length > 4 || /\bif\b|\bwho\b|\bthat\b|\bwhen\b/.test(n)) return undefined;
+  if (n.split(" ").length > 5 || /\bif\b|\bwho\b|\bthat\b|\bwhen\b/.test(n)) return undefined;
+  // Only people get roles; "name of language other than English" is free text.
+  if (NOT_PERSON.test(n) || !n.split(/[\s/]+/).some((w) => PERSON.has(w))) return undefined;
   n = n.replace(/^(?:alleged|purported) /, "");
   if (n === "defendant") return use === "name" ? { path: "defendant.name" } : undefined;
   if (/^(?:police|peace|custodial) officer$/.test(n)) n = "officer";
@@ -206,12 +233,7 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
   const pluralQ = new Map<string, string>();
   const pluralPass = (xs: Inline[]): void => {
     xs.forEach((x, i) => {
-      if (
-        typeof x !== "string" &&
-        "opt" in x &&
-        typeof x.opt === "string" &&
-        /^(s|es|’s|s’)$/.test(x.opt)
-      ) {
+      if (typeof x !== "string" && "opt" in x && /^(s|es|’s|s’)$/.test(plainText(x.opt))) {
         const prev = xs[i - 1];
         const noun = typeof prev === "string" ? /(\w+)$/.exec(prev)?.[1] : undefined;
         if (noun) {
@@ -252,6 +274,8 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
     re: new RegExp(`\\b${r.label.toLowerCase().split(" ").pop()!}\\b`, "i"),
   }));
   let agreeAdded = 0;
+  let pluralTied = 0;
+  let untiedAlt = 0;
   let guessedTargets = 0;
   const paragraphPass = (xs: Inline[]): void => {
     // Pronoun targets are decided per sentence: the defendant if the sentence
@@ -259,7 +283,7 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
     // whoever the previous sentence was about.
     let mentions: string[] = [];
     let carry = "defendant";
-    let lastPronoun = "defendant";
+    let pluralConds: string[] = [];
     const subject = (): string =>
       mentions.includes("defendant") ? "defendant" : (mentions[mentions.length - 1] ?? carry);
     const scan = (text: string): void => {
@@ -268,6 +292,7 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
         if (k > 0) {
           carry = subject();
           mentions = [];
+          pluralConds = [];
         }
         const found: { at: number; who: string }[] = [];
         for (const m of part.matchAll(/\bdefendant/gi))
@@ -294,7 +319,6 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
           const who = subject();
           if (who !== "defendant") x.pronoun = who;
           if (roleWords.length) guessedTargets++;
-          lastPronoun = x.pronoun;
           if (/^he$/i.test(x.forms[0]!)) {
             const next = arr[i + 1];
             const split = typeof next === "string" ? splitVerb(next) : undefined;
@@ -314,13 +338,39 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
         if ("options" in x && !("any" in x) && x.choice !== undefined && x.options.length === 2) {
           const a = plainText(x.options[0]!);
           const b = plainText(x.options[1]!);
-          if (pluralVerb(a) === b) {
-            dropped.add(x.choice);
-            arr[i] = { agree: lastPronoun, sg: a, pl: b, alt: true };
-            agreeAdded++;
-            continue;
+          const pairSg = pluralVerb(a) === b;
+          const pairNoun = SG_PL[a.toLowerCase()]?.includes(b.toLowerCase()) ?? false;
+          if (pairSg || pairNoun) {
+            // Right after a pronoun: agrees with that person's pronouns.
+            let k = i - 1;
+            while (k >= 0 && typeof arr[k] === "string" && (arr[k] as string).trim() === "") k--;
+            const prev = arr[k];
+            if (pairSg && typeof prev === "object" && "pronoun" in prev) {
+              dropped.add(x.choice);
+              arr[i] = { agree: prev.pronoun, sg: a, pl: b, alt: true };
+              agreeAdded++;
+              continue;
+            }
+            // A demonstrative modifies the noun after it: "(that/those) day[s]".
+            // A pronoun or verb refers back: "attorney[s] who (is/are)" — tied
+            // only when the sentence so far has exactly one plural noun.
+            const demonstrative = /^(that|this)$/i.test(a);
+            const back = new Set(pluralConds);
+            const c = demonstrative
+              ? forwardPlural(arr, i)
+              : back.size === 1
+                ? [...back][0]
+                : undefined;
+            if (c !== undefined) {
+              dropped.add(x.choice);
+              arr[i] = { when: [`!${c}`, c], options: [a, b] };
+              pluralTied++;
+              continue;
+            }
+            untiedAlt++;
           }
         }
+        if ("opt" in x && /^(s|es|’s|s’)$/.test(plainText(x.opt))) pluralConds.push(x.if);
         forChildren(x, visit);
       }
     };
@@ -331,6 +381,16 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
     todo.push({
       kind: "agreement",
       detail: `${agreeAdded} they/them agreement annotation(s) added; check each verb and any unmarked verbs`,
+    });
+  if (pluralTied)
+    todo.push({
+      kind: "agreement",
+      detail: `${pluralTied} printed singular/plural verb choice(s) tied to the plural marker before them; check each`,
+    });
+  if (untiedAlt)
+    todo.push({
+      kind: "agreement",
+      detail: `${untiedAlt} printed singular/plural verb choice(s) left as questions; tie to a pronoun or plural marker if possible`,
     });
   if (guessedTargets)
     todo.push({
@@ -551,6 +611,16 @@ export function enrich(input: Template): { t: Template; todo: Todo[] } {
       detail: `${t.questions!.length} questions: look for repeated choices that should be one question`,
     });
   return { t, todo };
+}
+
+/** The plural condition of "<word>[s]" right after position i ("(that/those) day[s]"). */
+function forwardPlural(arr: Inline[], i: number): string | undefined {
+  const word = arr[i + 1];
+  const marker = arr[i + 2];
+  if (typeof word !== "string" || !/^\s+[\w’']+$/.test(word)) return undefined;
+  if (typeof marker === "object" && "opt" in marker && /^(s|es)$/.test(plainText(marker.opt)))
+    return marker.if;
+  return undefined;
 }
 
 function uniqueField(base: string, taken: Map<string, string>): string {

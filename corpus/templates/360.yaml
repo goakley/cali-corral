@@ -1,0 +1,49 @@
+# CALCRIM No. 360. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "360"
+title: "Statements to an Expert"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised March 2018"
+  body_sha256: d5de09814ac302a3b1b1c0ec448f97ed75c5e26e9021bf4a265e3c8295996665
+review: "machine-checked"
+questions:
+  - { id: a, type: boolean, prompt: "Include “a”?" }
+  - id: i_am_referring_only
+    type: boolean
+    prompt: "Include “I am referring only to the statement[s] ___.”?"
+  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+body:
+  - - { field: "text.name", hint: "Insert name" }
+    - " testified that in reaching "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " conclusions as an expert witness, "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " considered "
+    - { opt: [ a ], if: a }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - " made by "
+    - { field: "text.name", hint: "insert name" }
+    - ". "
+    - opt:
+        - "I am referring only to the statement"
+        - { opt: [ s ], if: statement_plural }
+        - " "
+        - field: "text.describe_statements_admitted_for"
+          hint: "insert or describe statements admitted for this limited purpose"
+        - "."
+      if: i_am_referring_only
+    - " You may consider "
+    - { when: [ "!statement_plural", statement_plural ], options: [ that, those ] }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - " only to evaluate the expert’s opinion. Do not consider "
+    - { when: [ "!statement_plural", statement_plural ], options: [ that, those ] }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - " as proof that the information contained in the statement"
+    - { opt: [ s ], if: statement_plural }
+    - " is true."

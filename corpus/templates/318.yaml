@@ -1,0 +1,45 @@
+# CALCRIM No. 318. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "318"
+title: "Prior Statements as Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2012, September 2023"
+  body_sha256: eb34c5c9266d1aaa42d26b172d24f940f274d5718c165191f43dd9410da4dbeb
+review: "machine-checked"
+questions:
+  - { id: a, type: boolean, prompt: "Include “a”?" }
+  - id: that_those
+    type: choice
+    options: [ { id: o1, label: that }, { id: o2, label: those } ]
+    prompt: "Choose one"
+  - { id: statement_plural, type: boolean, prompt: "More than one statement?" }
+body:
+  - - "You have heard evidence of "
+    - { opt: [ a ], if: a }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - " that a witness made before the trial. If you decide that the witness made "
+    - { when: [ "!statement_plural", statement_plural ], options: [ that, those ] }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - ", you may use "
+    - { when: [ "!statement_plural", statement_plural ], options: [ that, those ] }
+    - " statement"
+    - { opt: [ s ], if: statement_plural }
+    - " in two ways:"
+  - elements:
+      - n: "1"
+        text: [ "To evaluate whether the witness’s testimony in court is believable" ]
+        end: ";"
+      - n: "2"
+        text:
+          - "As evidence that the information in "
+          - { choice: that_those, options: [ [ that ], [ those ] ] }
+          - " earlier statement"
+          - { opt: [ s ], if: statement_plural }
+          - " is true"
+        end: "."
+        and: "AND"

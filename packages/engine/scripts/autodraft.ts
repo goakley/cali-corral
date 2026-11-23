@@ -650,6 +650,11 @@ function check(rec: ExtractedRecord, runs = 100): { t?: Template; r: DraftResult
 export function templateYaml(t: Template): string {
   const doc = new Document(t);
   visit(doc, {
+    Scalar(key, node) {
+      // Quote every string value except plain ids, so any YAML parser reads it the same way.
+      if (key !== "key" && typeof node.value === "string" && !/^[a-z][a-z0-9_]*$/.test(node.value))
+        node.type = "QUOTE_DOUBLE";
+    },
     Map(_k, node) {
       if (JSON.stringify(node.toJSON()).length <= 90) node.flow = true;
     },

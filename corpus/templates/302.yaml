@@ -1,0 +1,14 @@
+# CALCRIM No. 302. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "302"
+title: "Evaluating Conflicting Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007"
+  body_sha256: "18eaeae6ea1d0d31d19d366fb7a5789b4cce759363fc33a9897afb3c3e0849b2"
+review: "machine-checked"
+questions: []
+body:
+  - - "If you determine there is a conflict in the evidence, you must decide what evidence, if any, to believe. Do not simply count the number of witnesses who agree or disagree on a point and accept the testimony of the greater number of witnesses. On the other hand, do not disregard the testimony of any witness without a reason or because of prejudice or a desire to favor one side or the other. What is important is whether the testimony or any other evidence convinces you, not just the number of witnesses who testify about a certain point."

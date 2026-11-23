@@ -1,0 +1,44 @@
+# CALCRIM No. 107. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "107"
+title: "Pro Per Defendant"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New August 2009"
+  body_sha256: "3e83010a6c525f83daec02d76109cb5021724306d5ea2040973aadf212a62e01"
+review: "machine-checked"
+questions:
+  - id: defendant_s
+    type: choice
+    options: [ { id: o1, label: "The defendant[s]" }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: self_represented_defendant
+    type: choice
+    options: [ { id: o1, label: "self-represented defendant" }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+body:
+  - - choice: defendant_s
+      options:
+        - [ "The defendant", { opt: [ s ], if: "@multiple_defendants" } ]
+        - - field: "text.name_s_self_represented"
+            hint: "insert name[s] of self-represented defendant[s]"
+    - " "
+    - { when: [ "!@multiple_defendants", "@multiple_defendants" ], options: [ has, have ] }
+    - " the right to be represented by an attorney in this trial, as do all criminal defendants in this country. "
+    - { pronoun: defendant, forms: [ "He", "She", "They" ] }
+    - " "
+    - { agree: defendant, sg: has, pl: have, alt: true }
+    - " decided instead to exercise "
+    - { pronoun: defendant, forms: [ his, her, their ] }
+    - " constitutional right to act as "
+    - { pronoun: defendant, forms: [ his, her, their ] }
+    - " own attorney in this case. Do not allow that decision to affect your verdict."
+  - - "The court applies the rules of evidence and procedure to a "
+    - choice: self_represented_defendant
+      options:
+        - [ "self-represented defendant" ]
+        - - field: "text.name_s_self_represented"
+            hint: "insert name[s] of self-represented defendant[s]"
+    - "."

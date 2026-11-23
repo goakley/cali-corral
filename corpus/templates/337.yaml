@@ -1,0 +1,44 @@
+# CALCRIM No. 337. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "337"
+title: "Witness in Custody or Physically Restrained"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "671186204a1b836eec9a28e152465f445499e26ab3f8f3056115828b3e1278ac"
+review: "machine-checked"
+questions:
+  - id: when_testified_he_she
+    type: boolean
+    prompt: "Include “When ___ testified, (he/she/they) (was/were) physically restrained. D…”?"
+  - id: do_not_speculate_about
+    type: boolean
+    prompt: "Include “Do not speculate about the reason.”?"
+  - id: when_testified_he_she_2
+    type: boolean
+    prompt: "Include “When ___ testified, (he/she/they) (was/were) in custody. [Do not spec…”?"
+body:
+  - { note: "Alternative A—physically restrained" }
+  - - opt:
+        - "When "
+        - { field: "text.name_s_witness_es", hint: "insert name[s] of witness[es]" }
+        - " testified, "
+        - { pronoun: defendant, forms: [ he, she, they ] }
+        - " "
+        - { agree: defendant, sg: was, pl: were, alt: true }
+        - " physically restrained. Do not speculate about the reason. You must completely disregard this circumstance in deciding the issues in this case. Do not consider it for any purpose or discuss it during your deliberations. Evaluate the witness’s testimony according to the instructions I have given you."
+      if: when_testified_he_she
+  - { note: "Alternative B—in custody" }
+  - - opt:
+        - "When "
+        - { field: "text.name_s_witness_es", hint: "insert name[s] of witness[es]" }
+        - " testified, "
+        - { pronoun: defendant, forms: [ he, she, they ] }
+        - " "
+        - { agree: defendant, sg: was, pl: were, alt: true }
+        - " in custody. "
+        - { opt: [ "Do not speculate about the reason." ], if: do_not_speculate_about }
+        - " The fact that a witness is in custody does not by itself make a witness more or less believable. Evaluate the witness’s testimony according to the instructions I have given you."
+      if: when_testified_he_she_2

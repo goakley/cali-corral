@@ -1,0 +1,19 @@
+{
+  "answers": {
+    "accused_defendant_crime": [
+      "o1"
+    ],
+    "any": "o1",
+    "you_must_not_consider": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

@@ -1,0 +1,19 @@
+{
+  "answers": {
+    "a_or_an": "o2"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "description_service_provider": "example description service provider",
+    "description_service_provider_e": "example description service provider e",
+    "name_number_juror": "example name number juror"
+  }
+}

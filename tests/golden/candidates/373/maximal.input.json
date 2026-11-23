@@ -1,0 +1,20 @@
+{
+  "answers": {
+    "another_person_other_persons": "o2",
+    "that_other_person_has": "o2",
+    "this_instruction_does_not": true,
+    "crime_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "names_testifying_coparticipants": "example names testifying coparticipants"
+  }
+}

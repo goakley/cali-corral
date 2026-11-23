@@ -1,0 +1,14 @@
+# CALCRIM No. 303. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "303"
+title: "Limited Purpose Evidence in General"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "32bc1ac04561112e97be23437d52f4b3e057e115a9ed62c588a98ddaae923641"
+review: "machine-checked"
+questions: []
+body:
+  - - "During the trial, certain evidence was admitted for a limited purpose. You may consider that evidence only for that purpose and for no other."

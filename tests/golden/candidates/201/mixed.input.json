@@ -1,0 +1,18 @@
+{
+  "answers": {
+    "or": true,
+    "dictionary": "o2"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "other_relevant_source_information": "example other relevant source information"
+  }
+}

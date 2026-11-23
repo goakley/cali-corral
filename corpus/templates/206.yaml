@@ -1,0 +1,37 @@
+# CALCRIM No. 206. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "206"
+title: "One or More Defendants Removed From Case"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "0087aa0f4b804be256fabef62d007d10c19d1ebece4de2ebf4d947a736372698"
+review: "machine-checked"
+questions:
+  - id: do_does
+    type: choice
+    options: [ { id: o1, label: do }, { id: o2, label: does } ]
+    prompt: "Choose one"
+  - { id: charge_plural, type: boolean, prompt: "More than one charge?" }
+  - { id: need_plural, type: boolean, prompt: "More than one need?" }
+body:
+  - - "The charge"
+    - { opt: [ s ], if: charge_plural }
+    - " against defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " "
+    - { field: "text.names_s_defendant_s", hint: "insert names[s] of defendant[s]" }
+    - " no longer need"
+    - { opt: [ s ], if: need_plural }
+    - " to be decided in this case."
+  - - "Do not speculate about or consider in any way why the charge"
+    - { opt: [ s ], if: charge_plural }
+    - " against defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " "
+    - { field: "text.names_s_defendant_s", hint: "insert names[s] of defendant[s]" }
+    - " "
+    - { choice: do_does, options: [ [ do ], [ does ] ] }
+    - " not need to be decided."

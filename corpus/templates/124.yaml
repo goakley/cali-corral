@@ -1,0 +1,21 @@
+# CALCRIM No. 124. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "124"
+title: "Separation Admonition"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2012"
+  body_sha256: "1441227dd36c555966ab00572f0acccad68a8869f0864c37af56a64f1aaef5f8"
+review: "machine-checked"
+questions:
+  - id: you_may_be_permitted
+    type: boolean
+    prompt: "Include “You may be permitted to separate during recesses and at the end of th…”?"
+body:
+  - - opt:
+        - "You may be permitted to separate during recesses and at the end of the day. I will tell you when to return. Please remember, we cannot begin the trial until all of you are in place, so it is important to be on time."
+      if: you_may_be_permitted
+  - - "Remember, do not talk about the case or about any of the people or any subject involved in it with anyone, including the other jurors. Do not do research, share information, or talk to each other or to anyone else about the facts of the case or anything else connected with the trial, and do not use any form of electronic or wireless communication to do any of those things, either."
+  - - "Do not make up your mind or express any opinion about the case or any issue connected with the trial until after you have discussed the case with the other jurors during deliberations."

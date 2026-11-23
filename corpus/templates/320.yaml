@@ -1,0 +1,35 @@
+# CALCRIM No. 320. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "320"
+title: "Exercise of Privilege by Witness"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2014, September 2024*"
+  body_sha256: f1d3d8d75e23411af36cc4ae65af88e8e40cb4e7195556645aadaaa82ed75475
+review: "machine-checked"
+questions:
+  - id: witness_may_refuse_answer
+    type: boolean
+    prompt: "Include “A witness may refuse to answer questions that call for privileged inf…”?"
+  - id: did_not_have_right
+    type: boolean
+    prompt: "Include “___ did not have the right to refuse to answer questions in this case…”?"
+body:
+  - { note: "Alternative A—Valid Exercise of Privilege" }
+  - - opt:
+        - "A witness may refuse to answer questions that call for privileged information. Under the law, "
+        - { field: "witness.name", hint: "insert name of witness" }
+        - " was justified in refusing to answer certain questions. Do not consider "
+        - { pronoun: witness, forms: [ his, her ] }
+        - " refusal to answer for any reason at all and do not guess what "
+        - { pronoun: witness, forms: [ his, her ] }
+        - " answer would have been."
+      if: witness_may_refuse_answer
+  - { note: "Alternative B—Invalid Exercise of Privilege" }
+  - - opt:
+        - { field: "witness.name", hint: "insert name of witness" }
+        - " did not have the right to refuse to answer questions in this case. You may consider that refusal during your deliberations."
+      if: did_not_have_right
+people: { witness: { label: "Witness", uses: [ name ] } }

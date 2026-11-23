@@ -1,0 +1,43 @@
+# CALCRIM No. 372. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "372"
+title: "Defendant’s Flight"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised March 2022"
+  body_sha256: fa0437fdbee1c7806991feb326d0f695a692d720b69695742335f3ee7c92105e
+review: "machine-checked"
+questions:
+  - { id: tried_flee, type: boolean, prompt: "Include “or tried to flee”?" }
+  - id: immediately_after_crime
+    type: multi
+    options:
+      - { id: o1, label: "immediately after the crime was committed" }
+      - { id: o2, label: "after (he/she) was accused of committing the crime" }
+    prompt: "Which apply? (one or more)"
+body:
+  - - "If the defendant fled "
+    - { opt: [ "or tried to flee" ], if: tried_flee }
+    - " "
+    - any: immediately_after_crime
+      options:
+        - [ "immediately after the crime was committed" ]
+        - - { sep: or }
+          - " after "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " "
+          - { agree: defendant, sg: was, pl: were }
+          - " accused of committing the crime"
+    - ", that conduct may show that "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " "
+    - { agree: defendant, sg: was, pl: were }
+    - " aware of "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " guilt. If you conclude that the defendant fled "
+    - { opt: [ "or tried to flee" ], if: tried_flee }
+    - ", it is up to you to decide the meaning and importance of that conduct. However, evidence that the defendant fled "
+    - { opt: [ "or tried to flee" ], if: tried_flee }
+    - " cannot prove guilt by itself."

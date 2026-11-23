@@ -1,0 +1,29 @@
+# CALCRIM No. 205. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "205"
+title: "Charge Removed From Jury Consideration"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "7ab0287305e308168497c14fdfc43e0d082ba14f5d62ce76b69e4b81a26cbdc5"
+review: "machine-checked"
+questions:
+  - { id: count_plural, type: boolean, prompt: "More than one count?" }
+  - { id: need_plural, type: boolean, prompt: "More than one need?" }
+body:
+  - - "Count"
+    - { opt: [ s ], if: count_plural }
+    - " "
+    - { field: "text.f1" }
+    - " charging the defendant with "
+    - { field: "text.name_s_offense_s", hint: "insert name[s] of offense[s]" }
+    - " no longer need"
+    - { opt: [ s ], if: need_plural }
+    - " to be decided in this case."
+  - - "Do not speculate about or consider in any way why you no longer need to decide "
+    - { when: [ "!count_plural", count_plural ], options: [ this, these ] }
+    - " count"
+    - { opt: [ s ], if: count_plural }
+    - "."

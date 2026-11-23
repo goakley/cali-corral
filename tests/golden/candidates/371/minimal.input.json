@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "if_defendant_tried_hide": false,
+    "if_defendant_tried_create": false,
+    "if_someone_other_than": false,
+    "hide_evidence": [
+      "o1"
+    ],
+    "tried_hide_evidence": [
+      "o1"
+    ],
+    "if_you_conclude_that": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

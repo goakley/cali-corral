@@ -1,0 +1,45 @@
+# CALCRIM No. 103. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "103"
+title: "Reasonable Doubt"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007"
+  body_sha256: a62bdda8374d90503c4a1dd81cb5a220e594f5a84c3eeb4a39816dd591cffaff
+review: "machine-checked"
+questions:
+  - id: unless_i_specifically_tell
+    type: boolean
+    prompt: "Include “unless I specifically tell you otherwise”?"
+  - { id: charge_plural, type: boolean, prompt: "More than one charge?" }
+body:
+  - - "I will now explain the presumption of innocence and the People’s burden of proof. The defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " "
+    - { when: [ "!@multiple_defendants", "@multiple_defendants" ], options: [ has, have ] }
+    - " pleaded not guilty to the charge"
+    - { opt: [ s ], if: charge_plural }
+    - ". The fact that a criminal charge has been filed against the defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " is not evidence that the charge is true. You must not be biased against the defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " just because "
+    - { pronoun: defendant, forms: [ he, she, they ] }
+    - " "
+    - { agree: defendant, sg: has, pl: have, alt: true }
+    - " been arrested, charged with a crime, or brought to trial."
+  - - "A defendant in a criminal case is presumed to be innocent. This presumption requires that the People prove a defendant guilty beyond a reasonable doubt. Whenever I tell you the People must prove something, I mean they must prove it beyond a reasonable doubt "
+    - { opt: [ "unless I specifically tell you otherwise" ], if: unless_i_specifically_tell }
+    - "."
+  - - "Proof beyond a reasonable doubt is proof that leaves you with an abiding conviction that the charge is true. The evidence need not eliminate all possible doubt because everything in life is open to some possible or imaginary doubt."
+  - - "In deciding whether the People have proved their case beyond a reasonable doubt, you must impartially compare and consider all the evidence that was received throughout the entire trial. Unless the evidence proves the defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " guilty beyond a reasonable doubt, "
+    - { pronoun: defendant, forms: [ he, she, they ] }
+    - " "
+    - { agree: defendant, sg: is, pl: are, alt: true }
+    - " entitled to an acquittal and you must find "
+    - { pronoun: defendant, forms: [ him, her, them ] }
+    - " not guilty."

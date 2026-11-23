@@ -1,0 +1,17 @@
+{
+  "answers": {
+    "during_jury_view": true,
+    "reporter": true,
+    "record_recording": "o2"
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

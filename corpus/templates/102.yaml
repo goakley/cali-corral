@@ -1,0 +1,39 @@
+# CALCRIM No. 102. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "102"
+title: "Note-Taking"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2008"
+  body_sha256: "1d89ff68facbe5bb66ecda3350c24601fae1dd610a62806be9925ed6a4bdde72"
+review: "machine-checked"
+questions:
+  - id: collected_destroyed_collected_retained
+    type: choice
+    options:
+      - { id: o1, label: "collected and destroyed" }
+      - id: o2
+        label: "collected and retained by the court but not as a part of the case record"
+      - { id: o3, label: "___" }
+    prompt: "Choose one"
+body:
+  - - "You have been given notebooks and may take notes during the trial. Do not remove them from the courtroom. You may take your notes into the jury room during deliberations. I do not mean to discourage you from taking notes, but here are some points to consider if you take notes:"
+  - elements:
+      - n: "1"
+        text:
+          - "Note-taking may tend to distract you. It may affect your ability to listen carefully to all the testimony and to watch the witnesses as they testify"
+        end: ";"
+      - n: "2"
+        text:
+          - "The notes are for your own individual use to help you remember what happened during the trial. Please keep in mind that your notes may be inaccurate or incomplete"
+        end: "."
+        and: "AND"
+  - - "At the end of the trial, your notes will be "
+    - choice: collected_destroyed_collected_retained
+      options:
+        - [ "collected and destroyed" ]
+        - [ "collected and retained by the court but not as a part of the case record" ]
+        - [ { field: "text.specify_other_disposition", hint: "specify other disposition" } ]
+    - "."

@@ -1,0 +1,260 @@
+# CALCRIM No. 352. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "352"
+title: "Character of Victim and of Defendant"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New March 2023"
+  body_sha256: affee198c2707b0b53d27f5eede6e369d0d4a076b8fef31db3d257e74c238556
+review: "machine-checked"
+questions:
+  - id: is_was
+    type: choice
+    options: [ { id: o1, label: is }, { id: o2, label: was } ]
+    prompt: "Choose one"
+  - id: violent
+    type: choice
+    options: [ { id: o1, label: violent }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: has_had
+    type: choice
+    options: [ { id: o1, label: has }, { id: o2, label: had } ]
+    prompt: "Choose one"
+  - id: violence
+    type: choice
+    options: [ { id: o1, label: violence }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: is_was_violent_person
+    type: choice
+    options:
+      - { id: o1, label: "(is/was) a (violent/___) person" }
+      - { id: o2, label: "(has/had) a character trait for (violence/___)" }
+    prompt: "Choose one"
+  - id: not_violent_person_does
+    type: choice
+    options:
+      - { id: o1, label: "not a violent person" }
+      - { id: o2, label: "does not have a character trait for violence" }
+      - { id: o3, label: "___" }
+    prompt: "Choose one"
+  - id: testimony_that_is_was
+    type: boolean
+    prompt: "Include “and testimony that ___ (is/was) (not a violent person/does not have a…”?"
+  - id: is_violent_person_has
+    type: choice
+    options:
+      - { id: o1, label: "is a violent person" }
+      - { id: o2, label: "has a character trait for violence" }
+    prompt: "Choose one"
+  - id: is_not_violent_person
+    type: choice
+    options:
+      - { id: o1, label: "is not a violent person" }
+      - { id: o2, label: "does not have a character trait for violence" }
+    prompt: "Choose one"
+  - id: testimony_that_defendant_is
+    type: boolean
+    prompt: "Include “and testimony that the defendant (is not a violent person/does not ha…”?"
+  - id: you_have_also_heard
+    type: boolean
+    prompt: "Include “You have also heard testimony that the defendant (is a violent person…”?"
+  - { id: an, type: boolean, prompt: "Include “an”?" }
+  - id: other_offense_s_offense
+    type: choice
+    options: [ { id: o1, label: "[an]other offense[s]" }, { id: o2, label: "the offense[s] of ___" } ]
+    prompt: "Choose one"
+  - id: committed_other_offense_s
+    type: choice
+    options:
+      - { id: o1, label: "committed ([an]other offense[s]/the offense[s] of ___)" }
+      - { id: o2, label: "___" }
+    prompt: "Choose one"
+  - id: that_those_offense_s
+    type: choice
+    options:
+      - { id: o1, label: that }
+      - { id: o2, label: "those offense[s]" }
+      - { id: o3, label: "act[s]" }
+    prompt: "Choose one"
+  - id: uncharged_offense_s_act
+    type: choice
+    options: [ { id: o1, label: "uncharged offense[s]" }, { id: o2, label: "act[s]" } ]
+    prompt: "Choose one"
+  - id: is_violent_person_has_2
+    type: choice
+    options: [ { id: o1, label: "is a violent person" }, { id: o2, label: "has a trait for violence" } ]
+    prompt: "Choose one"
+  - id: people_presented_evidence_that
+    type: boolean
+    prompt: "Give the paragraph beginning “The People presented evidence that the defendant (committed…”?"
+  - id: violence_2
+    type: choice
+    options: [ { id: o1, label: violence }, { id: o2, label: "___" } ]
+    prompt: "Choose one"
+  - id: only_in_deciding_charges
+    type: boolean
+    prompt: "Include “and only in deciding the charges of ___”?"
+  - id: in_evaluating_this_evidence
+    type: boolean
+    prompt: "Include “In evaluating this evidence, consider the similarity or lack of simil…”?"
+  - id: do_not_conclude_from
+    type: boolean
+    prompt: "Include “Do not conclude from this evidence that the defendant has a bad chara…”?"
+  - id: has_have
+    type: choice
+    options: [ { id: o1, label: has }, { id: o2, label: have } ]
+    prompt: "Choose one"
+  - id: that_has_have_been
+    type: boolean
+    prompt: "Include “or that the ___ (has/have) been proved”?"
+  - id: each
+    type: choice
+    options: [ { id: o1, label: the }, { id: o2, label: each } ]
+    prompt: "Choose one"
+  - id: charge
+    type: multi
+    options: [ { id: o1, label: charge }, { id: o2, label: allegation } ]
+    prompt: "Which apply? (one or more)"
+  - { id: offense_plural, type: boolean, prompt: "More than one offense?" }
+  - { id: act_plural, type: boolean, prompt: "More than one act?" }
+body:
+  - - "You have heard testimony that "
+    - { field: "victim.name", hint: "insert name of alleged victim" }
+    - " "
+    - choice: is_was_violent_person
+      options:
+        - - { choice: is_was, options: [ [ is ], [ was ] ] }
+          - " a "
+          - choice: violent
+            options: [ [ violent ], [ { field: "text.character_trait", hint: "insert character trait" } ] ]
+          - " person"
+        - - { choice: has_had, options: [ [ has ], [ had ] ] }
+          - " a character trait for "
+          - choice: violence
+            options: [ [ violence ], [ { field: "text.character_trait", hint: "insert character trait" } ] ]
+    - " "
+    - opt:
+        - "and testimony that "
+        - { field: "victim.name", hint: "insert name of alleged victim" }
+        - " "
+        - { choice: is_was, options: [ [ is ], [ was ] ] }
+        - " "
+        - choice: not_violent_person_does
+          options:
+            - [ "not a violent person" ]
+            - [ "does not have a character trait for violence" ]
+            - [ { field: "text.character_trait", hint: "insert character trait" } ]
+      if: testimony_that_is_was
+    - ". "
+    - opt:
+        - "You have also heard testimony that the defendant "
+        - choice: is_violent_person_has
+          options: [ [ "is a violent person" ], [ "has a character trait for violence" ] ]
+        - " "
+        - opt:
+            - "and testimony that the defendant "
+            - choice: is_not_violent_person
+              options: [ [ "is not a violent person" ], [ "does not have a character trait for violence" ] ]
+          if: testimony_that_defendant_is
+        - "."
+      if: you_have_also_heard
+  - note: "Give only when specific conduct evidence of the defendant’s character for violence has been admitted"
+    governs: [ people_presented_evidence_that ]
+  - opt:
+      - - "The People presented evidence that the defendant "
+        - choice: committed_other_offense_s
+          options:
+            - - "committed "
+              - choice: other_offense_s_offense
+                options:
+                  - [ { opt: [ an ], if: an }, "other offense", { opt: [ s ], if: offense_plural } ]
+                  - - "the offense"
+                    - { opt: [ s ], if: offense_plural }
+                    - " of "
+                    - field: "text.description_alleged_offense_s"
+                      hint: "insert description of alleged offense[s]"
+            - - field: "text.description_alleged_conduct_admitted"
+                hint: "insert description of alleged conduct admitted under Evid. Code, § 1103(b)"
+        - " and was not charged with "
+        - choice: that_those_offense_s
+          options:
+            - [ that ]
+            - [ "those offense", { opt: [ s ], if: offense_plural } ]
+            - [ act, { opt: [ s ], if: act_plural } ]
+        - " in this case."
+      - - "You may consider this evidence about the defendant only if the People have proved by a preponderance of the evidence that the defendant in fact committed the "
+        - choice: uncharged_offense_s_act
+          options:
+            - [ "uncharged offense", { opt: [ s ], if: offense_plural } ]
+            - [ act, { opt: [ s ], if: act_plural } ]
+        - ". Proof by a preponderance of the evidence is a different burden of proof than proof beyond a reasonable doubt. A fact is proved by a preponderance of the evidence if you conclude that the fact is more likely than not to be true."
+      - [ "If the People have not met this burden, you must disregard this evidence entirely." ]
+      - - "If you decide that the defendant committed the "
+        - choice: uncharged_offense_s_act
+          options:
+            - [ "uncharged offense", { opt: [ s ], if: offense_plural } ]
+            - [ act, { opt: [ s ], if: act_plural } ]
+        - ", you may, but are not required to, consider that evidence for the limited purpose of deciding whether the defendant "
+        - choice: is_violent_person_has_2
+          options: [ [ "is a violent person" ], [ "has a trait for violence" ] ]
+        - " and acted in conformity with that character trait."
+    if: people_presented_evidence_that
+  - - "A person’s character for "
+    - choice: violence_2
+      options:
+        - [ violence ]
+        - [ { field: "text.other_relevant_trait", hint: "insert other relevant trait" } ]
+    - " may be shown by evidence of reputation, opinion, or specific acts. Evidence of a person’s character for "
+    - choice: violence_2
+      options:
+        - [ violence ]
+        - [ { field: "text.other_relevant_trait", hint: "insert other relevant trait" } ]
+    - " may tend to show the person acted in conformity with that character trait. You may consider such evidence only for this limited purpose "
+    - opt:
+        - "and only in deciding the charges of "
+        - { field: "text.applicable_counts", hint: "insert applicable counts" }
+      if: only_in_deciding_charges
+    - "."
+  - - "You must decide the meaning and importance of the character evidence. Whether a person had a character for "
+    - choice: violence_2
+      options:
+        - [ violence ]
+        - [ { field: "text.other_relevant_trait", hint: "insert other relevant trait" } ]
+    - " and whether that person acted in conformity with that character trait are matters for you to decide."
+  - - opt:
+        - "In evaluating this evidence, consider the similarity or lack of similarity between the "
+        - choice: uncharged_offense_s_act
+          options:
+            - [ "uncharged offense", { opt: [ s ], if: offense_plural } ]
+            - [ act, { opt: [ s ], if: act_plural } ]
+        - " and the charged offense"
+        - { opt: [ s ], if: offense_plural }
+        - "."
+      if: in_evaluating_this_evidence
+  - - opt:
+        - "Do not conclude from this evidence that the defendant has a bad character or is disposed to commit crime."
+      if: do_not_conclude_from
+  - - "If you conclude that the defendant committed the "
+    - choice: uncharged_offense_s_act
+      options:
+        - [ "uncharged offense", { opt: [ s ], if: offense_plural } ]
+        - [ act, { opt: [ s ], if: act_plural } ]
+    - ", that conclusion is only one factor to consider along with all the other evidence. It is not sufficient by itself to prove that the defendant is guilty of "
+    - { field: "text.charge_s", hint: "insert charge[s]" }
+    - " "
+    - opt:
+        - "or that the "
+        - { field: "text.allegation_s", hint: "insert allegation[s]" }
+        - " "
+        - { choice: has_have, options: [ [ has ], [ have ] ] }
+        - " been proved"
+      if: that_has_have_been
+    - ". The People must still prove "
+    - { choice: each, options: [ [ the ], [ each ] ] }
+    - " "
+    - { any: charge, options: [ [ charge ], [ { sep: and }, " allegation" ] ] }
+    - " beyond a reasonable doubt."
+  - - "You may consider the testimony regarding character along with all the other evidence in deciding whether the People have proved that the defendant is guilty beyond a reasonable doubt."
+people: { victim: { label: "Victim", uses: [ name ] } }

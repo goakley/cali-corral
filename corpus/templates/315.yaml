@@ -1,0 +1,119 @@
+# CALCRIM No. 315. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "315"
+title: "Eyewitness Identification"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, March 2022"
+  body_sha256: be9131b1874804c9e8ca1a8dde78021320a67a8a65597842225909766da97b29
+review: "machine-checked"
+questions:
+  - { id: and, type: boolean, prompt: "Include “and”?" }
+  - { id: and_2, type: boolean, prompt: "Include “, and ___”?" }
+  - id: was_witness_able_identify
+    type: boolean
+    prompt: "Include “Was the witness able to identify other participants in the crime?”?"
+  - id: was_witness_able_identify_2
+    type: boolean
+    prompt: "Include “Was the witness able to identify the defendant in a photographic or p…”?"
+  - { id: choice, type: boolean, prompt: "Include “___.”?" }
+  - id: how_certain_was_witness
+    type: boolean
+    prompt: "Include “How certain was the witness when he or she made an identification?”?"
+  - id: how_soon_after_event
+    type: boolean
+    prompt: "Give the paragraph beginning “How soon after the event did the witness express certainty…”?"
+  - id: if_witness_made_identification
+    type: boolean
+    prompt: "Give the paragraph beginning “If the witness made an identification before trial, did the…”?"
+  - id: before_identification_did_witness
+    type: boolean
+    prompt: "Give the paragraph beginning “Before the identification, did the witness express confiden…”?"
+  - id: how_confident_was_witness
+    type: boolean
+    prompt: "Give the paragraph beginning “How confident was the witness in making the identification?”?"
+  - id: did_witness_receive_information
+    type: boolean
+    prompt: "Give the paragraph beginning “Did the witness receive information before or after the ide…”?"
+  - id: did_police_use_procedures
+    type: boolean
+    prompt: "Give the paragraph beginning “Did the police use procedures that increased the witness’s…”?"
+  - { id: choice_2, type: boolean, prompt: "Give the paragraph beginning “___.”?" }
+  - id: witness_expression_certainty_about
+    type: boolean
+    prompt: "Give the paragraph beginning “A witness’s expression of certainty about an identification…”?"
+body:
+  - - "You have heard eyewitness testimony identifying the defendant. As with any other witness, you must decide whether an eyewitness gave truthful and accurate testimony."
+  - [ "In evaluating identification testimony, consider the following questions:" ]
+  - { bullet: [ "Did the witness know or have contact with the defendant before the event?" ] }
+  - { bullet: [ "How well could the witness see the perpetrator?" ] }
+  - bullet:
+      - "What were the circumstances affecting the witness’s ability to observe, such as lighting, weather conditions, obstructions, distance, "
+      - { opt: [ and ], if: and }
+      - " duration of observation"
+      - opt:
+          - ", and "
+          - field: "text.any_other_relevant_circumstances"
+            hint: "insert any other relevant circumstances"
+        if: and_2
+      - "?"
+  - { bullet: [ "How closely was the witness paying attention?" ] }
+  - { bullet: [ "Was the witness under stress when he or she made the observation?" ] }
+  - bullet:
+      - "Did the witness give a description and how does that description compare to the defendant?"
+  - bullet:
+      - "How much time passed between the event and the time when the witness identified the defendant?"
+  - { bullet: [ "Was the witness asked to pick the perpetrator out of a group?" ] }
+  - { bullet: [ "Did the witness ever fail to identify the defendant?" ] }
+  - { bullet: [ "Did the witness ever change his or her mind about the identification?" ] }
+  - { bullet: [ "Are the witness and the defendant of different races?" ] }
+  - bullet:
+      - opt: [ "Was the witness able to identify other participants in the crime?" ]
+        if: was_witness_able_identify
+  - bullet:
+      - opt: [ "Was the witness able to identify the defendant in a photographic or physical lineup?" ]
+        if: was_witness_able_identify_2
+  - bullet:
+      - opt:
+          - field: "text.other_relevant_factors_raised"
+            hint: "insert other relevant factors raised by the evidence"
+          - "."
+        if: choice
+  - bullet:
+      - "Were there any other circumstances affecting the witness’s ability to make an accurate identification?"
+  - bullet:
+      - opt: [ "How certain was the witness when he or she made an identification?" ]
+        if: how_certain_was_witness
+  - opt:
+      - - "A witness’s expression of certainty about an identification, whether the identification was made before or at the trial, may not be a reliable indicator of accuracy. Among the factors you may consider when evaluating the significance of the witness’s certainty in the identification are the following:"
+      - opt:
+          - bullet: [ "How soon after the event did the witness express certainty about the identification?" ]
+        if: how_soon_after_event
+      - opt:
+          - bullet:
+              - "If the witness made an identification before trial, did the witness express certainty at the time of that identification?"
+        if: if_witness_made_identification
+      - opt:
+          - bullet:
+              - "Before the identification, did the witness express confidence in being able to make an identification?"
+        if: before_identification_did_witness
+      - opt: [ { bullet: [ "How confident was the witness in making the identification?" ] } ]
+        if: how_confident_was_witness
+      - opt:
+          - bullet:
+              - "Did the witness receive information before or after the identification that may have increased the witness’s level of confidence?"
+        if: did_witness_receive_information
+      - opt:
+          - bullet:
+              - "Did the police use procedures that increased the witness’s level of confidence about the identification?"
+        if: did_police_use_procedures
+      - opt:
+          - bullet:
+              - field: "text.other_relevant_factors_raised"
+                hint: "insert other relevant factors raised by the evidence"
+              - "."
+        if: choice_2
+    if: witness_expression_certainty_about
+  - - "The People have the burden of proving beyond a reasonable doubt that it was the defendant who committed the crime. If the People have not met this burden, you must find the defendant not guilty."

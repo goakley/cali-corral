@@ -1,0 +1,14 @@
+# CALCRIM No. 300. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "300"
+title: "All Available Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "4528bf71b32640bc4050a7950e4c18d4849163cba5d4c289340c3ab9f9f41a59"
+review: "machine-checked"
+questions: []
+body:
+  - - "Neither side is required to call all witnesses who may have information about the case or to produce all physical evidence that might be relevant."

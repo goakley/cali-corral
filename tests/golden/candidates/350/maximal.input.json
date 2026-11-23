@@ -1,0 +1,24 @@
+{
+  "answers": {
+    "is_person": [
+      "o1",
+      "o2"
+    ],
+    "whether_defendant_committed": true,
+    "if_defendant_character_for": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "they"
+    }
+  },
+  "count": "1",
+  "text": {
+    "character_trait": "example character trait",
+    "character_trait_relevant_crime": "example character trait relevant crime",
+    "name_s_alleged_offenses": "example name s alleged offenses"
+  }
+}

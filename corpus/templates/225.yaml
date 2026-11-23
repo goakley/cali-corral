@@ -1,0 +1,52 @@
+# CALCRIM No. 225. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "225"
+title: "Circumstantial Evidence: Intent or Mental State"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2006, June 2007, April 2011"
+  body_sha256: "61c3f0e95419b56a69b8303540bd0afef0c399ad546d9914ef27ce106974b61f"
+review: "machine-checked"
+questions:
+  - id: intent
+    type: multi
+    options: [ { id: o1, label: intent }, { id: o2, label: "mental state" } ]
+    prompt: "Which apply? (one or more)"
+  - id: each
+    type: choice
+    options: [ { id: o1, label: the }, { id: o2, label: each } ]
+    prompt: "Choose one"
+  - { id: allegation, type: boolean, prompt: "Include “and allegation”?" }
+  - { id: n, type: boolean, prompt: "Include “n”?" }
+  - { id: act_plural, type: boolean, prompt: "More than one act?" }
+body:
+  - - "The People must prove not only that the defendant did the act"
+    - { opt: [ s ], if: act_plural }
+    - " charged, but also that "
+    - { pronoun: defendant, forms: [ he, she ] }
+    - " acted with a particular "
+    - { any: intent, options: [ [ intent ], [ { sep: "and/or" }, " mental state" ] ] }
+    - ". The instruction for "
+    - { choice: each, options: [ [ the ], [ each ] ] }
+    - " crime "
+    - { opt: [ "and allegation" ], if: allegation }
+    - " explains the "
+    - { any: intent, options: [ [ intent ], [ { sep: "and/or" }, " mental state" ] ] }
+    - " required."
+  - - "A"
+    - { opt: [ n ], if: n }
+    - " "
+    - { any: intent, options: [ [ intent ], [ { sep: "and/or" }, " mental state" ] ] }
+    - " may be proved by circumstantial evidence."
+  - - "Before you may rely on circumstantial evidence to conclude that a fact necessary to find the defendant guilty has been proved, you must be convinced that the People have proved each fact essential to that conclusion beyond a reasonable doubt."
+  - - "Also, before you may rely on circumstantial evidence to conclude that the defendant had the required "
+    - { any: intent, options: [ [ intent ], [ { sep: "and/or" }, " mental state" ] ] }
+    - ", you must be convinced that the only reasonable conclusion supported by the circumstantial evidence is that the defendant had the required "
+    - { any: intent, options: [ [ intent ], [ { sep: "and/or" }, " mental state" ] ] }
+    - ". If you can draw two or more reasonable conclusions from the circumstantial evidence, and one of those reasonable conclusions supports a finding that the defendant did have the required "
+    - { any: intent, options: [ [ intent ], [ { sep: "and/or" }, " mental state" ] ] }
+    - " and another reasonable conclusion supports a finding that the defendant did not, you must conclude that the required "
+    - { any: intent, options: [ [ intent ], [ { sep: "and/or" }, " mental state" ] ] }
+    - " was not proved by the circumstantial evidence. However, when considering circumstantial evidence, you must accept only reasonable conclusions and reject any that are unreasonable."

@@ -1,0 +1,43 @@
+# CALCRIM No. 373. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "373"
+title: "Other Perpetrator"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised February 2026*"
+  body_sha256: "19162d934da57740843a3763948bda2f38d154be44efbfb370227c5ad239f6ec"
+review: "machine-checked"
+questions:
+  - id: another_person_other_persons
+    type: choice
+    options: [ { id: o1, label: "another person" }, { id: o2, label: "other persons" } ]
+    prompt: "Choose one"
+  - id: that_other_person_has
+    type: choice
+    options:
+      - { id: o1, label: "that other person has" }
+      - { id: o2, label: "those other persons have" }
+    prompt: "Choose one"
+  - id: this_instruction_does_not
+    type: boolean
+    prompt: "Include “This instruction does not apply to the testimony of ___.”?"
+  - { id: crime_plural, type: boolean, prompt: "More than one crime?" }
+body:
+  - - "The evidence shows that "
+    - { choice: another_person_other_persons, options: [ [ "another person" ], [ "other persons" ] ] }
+    - " may have been involved in the commission of the crime"
+    - { opt: [ s ], if: crime_plural }
+    - " charged against the defendant. There may be many reasons why someone who appears to have been involved might not be a codefendant in this particular trial. You must not speculate about whether "
+    - choice: that_other_person_has
+      options: [ [ "that other person has" ], [ "those other persons have" ] ]
+    - " been or will be prosecuted. Your duty is to decide whether the defendant on trial here committed the crime"
+    - { opt: [ s ], if: crime_plural }
+    - " charged."
+  - - opt:
+        - "This instruction does not apply to the testimony of "
+        - field: "text.names_testifying_coparticipants"
+          hint: "insert names of testifying coparticipants"
+        - "."
+      if: this_instruction_does_not

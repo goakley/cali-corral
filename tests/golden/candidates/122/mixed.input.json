@@ -1,0 +1,19 @@
+{
+  "answers": {
+    "a_or_the": "o1",
+    "is_corporation_are_corporations": "o2",
+    "also": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "name_s_corporate_defendant": "example name s corporate defendant"
+  }
+}

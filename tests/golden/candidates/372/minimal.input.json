@@ -1,0 +1,18 @@
+{
+  "answers": {
+    "tried_flee": false,
+    "immediately_after_crime": [
+      "o1"
+    ]
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {}
+}

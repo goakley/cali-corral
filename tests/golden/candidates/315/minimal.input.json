@@ -1,0 +1,31 @@
+{
+  "answers": {
+    "and": false,
+    "and_2": false,
+    "was_witness_able_identify": false,
+    "was_witness_able_identify_2": false,
+    "choice": false,
+    "how_certain_was_witness": false,
+    "how_soon_after_event": false,
+    "if_witness_made_identification": false,
+    "before_identification_did_witness": false,
+    "how_confident_was_witness": false,
+    "did_witness_receive_information": false,
+    "did_police_use_procedures": false,
+    "choice_2": false,
+    "witness_expression_certainty_about": false
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "he"
+    }
+  },
+  "count": "1",
+  "text": {
+    "any_other_relevant_circumstances": "example any other relevant circumstances",
+    "other_relevant_factors_raised": "example other relevant factors raised"
+  }
+}

@@ -1,0 +1,32 @@
+# CALCRIM No. 316. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "316"
+title: "Additional Instructions on Witness Credibility—Other Conduct"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: b0dbb832d2b6353aa1758297d6a8a608245ff03dd168b7d53077f585c3e28602
+review: "machine-checked"
+questions:
+  - { id: only, type: boolean, prompt: "Include “only”?" }
+  - id: if_you_find_that
+    type: boolean
+    prompt: "Include “If you find that a witness has been convicted of a felony, you may co…”?"
+  - id: if_you_find_that_2
+    type: boolean
+    prompt: "Include “If you find that a witness has committed a crime or other misconduct,…”?"
+body:
+  - { note: "Alternative A—felony conviction" }
+  - - opt:
+        - "If you find that a witness has been convicted of a felony, you may consider that fact "
+        - { opt: [ only ], if: only }
+        - " in evaluating the credibility of the witness’s testimony. The fact of a conviction does not necessarily destroy or impair a witness’s credibility. It is up to you to decide the weight of that fact and whether that fact makes the witness less believable."
+      if: if_you_find_that
+  - { note: "Alternative B—prior criminal conduct with or without conviction" }
+  - - opt:
+        - "If you find that a witness has committed a crime or other misconduct, you may consider that fact "
+        - { opt: [ only ], if: only }
+        - " in evaluating the credibility of the witness’s testimony. The fact that a witness may have committed a crime or other misconduct does not necessarily destroy or impair a witness’s credibility. It is up to you to decide the weight of that fact and whether that fact makes the witness less believable."
+      if: if_you_find_that_2

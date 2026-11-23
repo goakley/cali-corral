@@ -1,0 +1,90 @@
+# CALCRIM No. 331. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "331"
+title: "Testimony of Person With Developmental, Cognitive, or Mental Disability"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised March 2022"
+  body_sha256: b58262ae554071d0f51fdd95d80f88d8dcdd7afe3e7f19d93aa4804b9dd5d70a
+review: "machine-checked"
+questions:
+  - { id: a, type: boolean, prompt: "Include “a”?" }
+  - id: cognitive
+    type: multi
+    options:
+      - { id: o1, label: cognitive }
+      - { id: o2, label: mental }
+      - { id: o3, label: communication }
+    prompt: "Which apply? (one or more)"
+  - id: developmental_disability
+    type: multi
+    options:
+      - { id: o1, label: "developmental disability" }
+      - { id: o2, label: "[a] (cognitive[,]/[or] mental[,]/[or] communication) impairment" }
+    prompt: "Which apply? (one or more)"
+  - { id: a_2, type: boolean, prompt: "Include “a”?" }
+  - { id: choice, type: boolean, prompt: "Include “,”?" }
+  - { id: a_3, type: boolean, prompt: "Include “a”?" }
+  - { id: choice_2, type: boolean, prompt: "Include “,”?" }
+  - id: a_or_an
+    type: choice
+    options: [ { id: o1, label: a }, { id: o2, label: an } ]
+    prompt: "Choose one"
+  - id: disability
+    type: multi
+    options: [ { id: o1, label: disability }, { id: o2, label: impairment } ]
+    prompt: "Which apply? (one or more)"
+body:
+  - - "In evaluating the testimony of a person with a "
+    - any: developmental_disability
+      options:
+        - [ "developmental disability", { sep: "," } ]
+        - - { sep: or }
+          - " "
+          - { opt: [ a ], if: a }
+          - " "
+          - any: cognitive
+            options:
+              - [ cognitive, { sep: "," } ]
+              - [ { sep: or }, " mental", { sep: "," } ]
+              - [ { sep: or }, " communication" ]
+          - " impairment"
+    - ", consider all of the factors surrounding that person’s testimony, including his or her level of cognitive development."
+  - - "Even though a person with a "
+    - any: developmental_disability
+      options:
+        - [ "developmental disability", { sep: "," } ]
+        - - { sep: or }
+          - " "
+          - { opt: [ a ], if: a_2 }
+          - " "
+          - any: cognitive
+            options:
+              - [ cognitive, { sep: "," } ]
+              - [ { sep: or }, " mental", { sep: "," } ]
+              - [ { sep: or }, " communication" ]
+          - " impairment"
+    - { opt: [ "," ], if: choice }
+    - " may perform differently as a witness because of his or her level of cognitive development, that does not mean he or she is any more or less credible than another witness."
+  - - "You should not discount or distrust the testimony of a person with a "
+    - any: developmental_disability
+      options:
+        - [ "developmental disability", { sep: "," } ]
+        - - { sep: or }
+          - " "
+          - { opt: [ a ], if: a_3 }
+          - " "
+          - any: cognitive
+            options:
+              - [ cognitive, { sep: "," } ]
+              - [ { sep: or }, " mental", { sep: "," } ]
+              - [ { sep: or }, " communication" ]
+          - " impairment"
+    - { opt: [ "," ], if: choice_2 }
+    - " solely because he or she has such "
+    - { choice: a_or_an, options: [ [ a ], [ an ] ] }
+    - " "
+    - { any: disability, options: [ [ disability ], [ { sep: or }, " impairment" ] ] }
+    - "."

@@ -1,0 +1,24 @@
+# CALCRIM No. 305. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "305"
+title: "Multiple Defendants: Limited Admissibility of Defendant’s Statement"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "915ba4a0c39dc247ebe2040e41ad8f22f2a61d500413675411e7ee5f0fe49d16"
+review: "machine-checked"
+questions:
+  - id: out_court_before_trial
+    type: choice
+    options: [ { id: o1, label: "out of court" }, { id: o2, label: "before trial" } ]
+    prompt: "Choose one"
+body:
+  - - "You have heard evidence that defendant "
+    - { field: "defendant.name", hint: "insert defendant’s name" }
+    - " made a statement "
+    - { choice: out_court_before_trial, options: [ [ "out of court" ], [ "before trial" ] ] }
+    - ". You may consider that evidence only against "
+    - { pronoun: defendant, forms: [ him, her ] }
+    - ", not against any other defendant."

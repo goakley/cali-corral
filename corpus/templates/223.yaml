@@ -1,0 +1,19 @@
+# CALCRIM No. 223. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "223"
+title: "Direct and Circumstantial Evidence: Defined"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, February 2013"
+  body_sha256: "995dfa7ddfdb17b40147435fd34834695ef66b25f12d07d910c9926c0026c4dd"
+review: "machine-checked"
+questions: []
+body:
+  - - "Facts may be proved by direct or circumstantial evidence or by a combination of both. "
+    - { em: "Direct evidence" }
+    - " can prove a fact by itself. For example, if a witness testifies he saw it raining outside before he came into the courthouse, that testimony is direct evidence that it was raining. "
+    - { em: "Circumstantial evidence" }
+    - " also may be called indirect evidence. Circumstantial evidence does not directly prove the fact to be decided, but is evidence of another fact or group of facts from which you may logically and reasonably conclude the truth of the fact in question. For example, if a witness testifies that he saw someone come inside wearing a raincoat covered with drops of water, that testimony is circumstantial evidence because it may support a conclusion that it was raining outside."
+  - - "Both direct and circumstantial evidence are acceptable types of evidence to prove or disprove the elements of a charge, including intent and mental state and acts necessary to a conviction, and neither is necessarily more reliable than the other. Neither is entitled to any greater weight than the other. You must decide whether a fact in issue has been proved based on all the evidence."

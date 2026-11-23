@@ -1,0 +1,78 @@
+# CALCRIM No. 371. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "371"
+title: "Consciousness of Guilt: Suppression and Fabrication of Evidence"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: "2c6211391cf493282cc728e57f216aa3293dc0cc63364c4071c5d5cba6d00474"
+review: "machine-checked"
+questions:
+  - id: if_defendant_tried_hide
+    type: boolean
+    prompt: "Include “If the defendant tried to hide evidence or discourage someone from te…”?"
+  - id: if_defendant_tried_create
+    type: boolean
+    prompt: "Include “If the defendant tried to create false evidence or obtain false testi…”?"
+  - id: if_someone_other_than
+    type: boolean
+    prompt: "Include “If someone other than the defendant tried to create false evidence, p…”?"
+  - id: hide_evidence
+    type: multi
+    options: [ { id: o1, label: "hide evidence" }, { id: o2, label: "discourage a witness" } ]
+    prompt: "Which apply? (one or more)"
+  - id: tried_hide_evidence
+    type: multi
+    options:
+      - { id: o1, label: "tried to hide evidence" }
+      - { id: o2, label: "discouraged someone from testifying" }
+      - id: o3
+        label: "authorized another person to (hide evidence/[or] discourage a witness)"
+    prompt: "Which apply? (one or more)"
+  - id: if_you_conclude_that
+    type: boolean
+    prompt: "Include “If you conclude that a defendant (tried to hide evidence[,]/discourag…”?"
+body:
+  - { note: "Alternative A—suppression" }
+  - - opt:
+        - "If the defendant tried to hide evidence or discourage someone from testifying against "
+        - { pronoun: defendant, forms: [ him, her ] }
+        - ", that conduct may show that "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " "
+        - { agree: defendant, sg: was, pl: were }
+        - " aware of "
+        - { pronoun: defendant, forms: [ his, her ] }
+        - " guilt. If you conclude that the defendant made such an attempt, it is up to you to decide its meaning and importance. However, evidence of such an attempt cannot prove guilt by itself."
+      if: if_defendant_tried_hide
+  - { note: "Alternative B—fabrication" }
+  - - opt:
+        - "If the defendant tried to create false evidence or obtain false testimony, that conduct may show that "
+        - { pronoun: defendant, forms: [ he, she ] }
+        - " "
+        - { agree: defendant, sg: was, pl: were }
+        - " aware of "
+        - { pronoun: defendant, forms: [ his, her ] }
+        - " guilt. If you conclude that the defendant made such an attempt, it is up to you to decide its meaning and importance. However, evidence of such an attempt cannot prove guilt by itself."
+      if: if_defendant_tried_create
+  - { note: "Alternative C—fabrication or suppression by a third party" }
+  - - opt:
+        - "If someone other than the defendant tried to create false evidence, provide false testimony, or conceal or destroy evidence, that conduct may show the defendant was aware of "
+        - { pronoun: defendant, forms: [ his, her ] }
+        - " guilt, but only if the defendant was present and knew about that conduct, or, if not present, authorized the other person’s actions. It is up to you to decide the meaning and importance of this evidence. However, evidence of such conduct cannot prove guilt by itself."
+      if: if_someone_other_than
+  - { note: "Give final paragraph if multiple defendants on trial" }
+  - - opt:
+        - "If you conclude that a defendant "
+        - any: tried_hide_evidence
+          options:
+            - [ "tried to hide evidence", { sep: "," } ]
+            - [ "discouraged someone from testifying", { sep: "," } ]
+            - - { sep: or }
+              - " authorized another person to "
+              - any: hide_evidence
+                options: [ [ "hide evidence" ], [ { sep: or }, " discourage a witness" ] ]
+        - ", you may consider that conduct only against that defendant. You may not consider that conduct in deciding whether any other defendant is guilty or not guilty."
+      if: if_you_conclude_that

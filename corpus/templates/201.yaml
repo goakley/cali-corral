@@ -1,0 +1,28 @@
+# CALCRIM No. 201. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "201"
+title: "Do Not Investigate"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised June 2007, April 2010, February 2012"
+  body_sha256: af010de6b075259a168fc68c672e881d2ace3412cdc48f55fb925c3cd4341117
+review: "machine-checked"
+questions:
+  - { id: or, type: boolean, prompt: "Include “, or ___”?" }
+  - id: dictionary
+    type: choice
+    options: [ { id: o1, label: ", a dictionary" }, { id: o2, label: "[, or ___]" } ]
+    prompt: "Choose one"
+body:
+  - - "Do not use the Internet "
+    - choice: dictionary
+      options:
+        - [ ", a dictionary" ]
+        - - opt:
+              - ", or "
+              - field: "text.other_relevant_source_information"
+                hint: "insert other relevant source of information or means of communication"
+            if: or
+    - " in any way in connection with this case, either on your own or as a group. Do not investigate the facts or the law or do any research regarding this case, either on your own, or as a group. Do not conduct any tests or experiments, or visit the scene of any event involved in this case. If you happen to pass by the scene, do not stop or investigate."

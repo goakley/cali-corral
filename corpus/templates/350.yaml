@@ -1,0 +1,65 @@
+# CALCRIM No. 350. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "350"
+title: "Character of Defendant"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006; Revised August 2012, March 2023"
+  body_sha256: "64f6ea9418cb9c122eb02c06a74581fc2fcf184c97f7e2f682b9314f48c6fa86"
+review: "machine-checked"
+questions:
+  - id: is_person
+    type: multi
+    options:
+      - { id: o1, label: "is a ___ person" }
+      - id: o2
+        label: "has a good reputation for ___ in the community where (he/she) lives or works"
+    prompt: "Which apply? (one or more)"
+  - id: whether_defendant_committed
+    type: boolean
+    prompt: "Include “whether the defendant committed ___”?"
+  - id: if_defendant_character_for
+    type: boolean
+    prompt: "Include “If the defendant’s character for certain traits has not been discusse…”?"
+body:
+  - - "You have heard testimony that the defendant "
+    - any: is_person
+      options:
+        - - "is a "
+          - field: "text.character_trait_relevant_crime"
+            hint: "insert character trait relevant to crime[s] committed"
+          - " person"
+        - - { sep: or }
+          - " has a good reputation for "
+          - field: "text.character_trait_relevant_crime"
+            hint: "insert character trait relevant to crime[s] committed"
+          - " in the community where "
+          - { pronoun: defendant, forms: [ he, she ] }
+          - " "
+          - { agree: defendant, sg: lives, pl: live }
+          - " or works"
+    - "."
+  - - "Evidence of the defendant’s character for "
+    - field: "text.character_trait_relevant_crime"
+      hint: "insert character trait relevant to crime[s] committed"
+    - " can by itself create a reasonable doubt "
+    - opt:
+        - "whether the defendant committed "
+        - field: "text.name_s_alleged_offenses"
+          hint: "insert name[s] of alleged offenses[s] and count[s], e.g., battery, as charged in Count 1"
+      if: whether_defendant_committed
+    - ". However, evidence of the defendant’s character for "
+    - { field: "text.character_trait", hint: "insert character trait" }
+    - " may be countered by other evidence of "
+    - { pronoun: defendant, forms: [ his, her ] }
+    - " character for the same trait. You must decide the meaning and importance of the character evidence."
+  - - opt:
+        - "If the defendant’s character for certain traits has not been discussed among those who know "
+        - { pronoun: defendant, forms: [ him, her ] }
+        - ", you may assume that "
+        - { pronoun: defendant, forms: [ his, her ] }
+        - " character for those traits is good."
+      if: if_defendant_character_for
+  - - "You may take that testimony into consideration along with all the other evidence in deciding whether the People have proved that the defendant is guilty beyond a reasonable doubt."

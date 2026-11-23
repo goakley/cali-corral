@@ -1,0 +1,25 @@
+# CALCRIM No. 204. Instruction text: Judicial Council of California, freely
+# reproducible under Cal. Rules of Court, rule 2.1050(c). Template structure: CC0.
+schema: 1
+id: "204"
+title: "Defendant Physically Restrained"
+source:
+  file: "calcrim-2026"
+  release: "2026-10"
+  revision_line: "New January 2006"
+  body_sha256: de4166ba22d462fba891c9619eb8c577286d98ae76ec088abbd250c95a7fb041
+review: "machine-checked"
+questions:
+  - { id: the, type: boolean, prompt: "Include “the”?" }
+  - { id: choice, type: boolean, prompt: "Include “___”?" }
+body:
+  - - "The fact that physical restraints have been placed on "
+    - { opt: [ the ], if: the }
+    - " defendant"
+    - { opt: [ s ], if: "@multiple_defendants" }
+    - " "
+    - opt:
+        - field: "text.name_s_defendant_s"
+          hint: "insert name[s] of defendant[s] if multiple defendants in case but not all are restrained"
+      if: choice
+    - " is not evidence. Do not speculate about the reason. You must completely disregard this circumstance in deciding the issues in this case. Do not consider it for any purpose or discuss it during your deliberations."

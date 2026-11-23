@@ -1,0 +1,20 @@
+{
+  "answers": {
+    "a": true,
+    "i_am_referring_only": false,
+    "statement_plural": true
+  },
+  "people": {
+    "defendant": {
+      "name": "Avery Example",
+      "title": "police officer",
+      "agency": "the Exampleville Police Department",
+      "pronouns": "she"
+    }
+  },
+  "count": "1",
+  "text": {
+    "describe_statements_admitted_for": "example describe statements admitted for",
+    "name": "example name"
+  }
+}
