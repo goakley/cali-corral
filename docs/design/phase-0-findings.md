@@ -76,7 +76,7 @@ All 12 pilot numbers and titles exist unchanged in the 2026 edition. None were r
 | 3517 | 16 | `(Y/y)ou` capitalization; plain numbered directions; three repeat-as-needed slots; count references |
 | 3550 | 13 | `(, a dictionary/[, or ______])`; retrial note |
 
-Golden candidates (minimal, maximal, mixed; fictional data; he, they and she pronouns respectively) are in `tests/golden/candidates/`, with `REVIEW.md` for attorney review. None have been promoted.
+Golden candidates (minimal, maximal, mixed; fictional data; he, they and she pronouns respectively) are in `tests/golden/candidates/`, with `REVIEW.md` for attorney review. On 2026-11-22 the attorney approved the candidates for 200, 220, 226, 860, 926, 945 and 1800, and those 21 cases were promoted to `tests/golden/`. The attorney chose not to review 2652, 2670, 3470, 3517 and 3550. Those remain unreviewed candidates, not goldens, and their templates count as machine-checked like any other. Together with the attorney's sign-off on the rendering rules, the owner treats Gate 0's sample-output review as satisfied.
 
 ## 3. Markup patterns across the corpus
 
